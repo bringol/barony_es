@@ -9,7 +9,7 @@ La traducción ofrece una instalación independiente de Steam para aquellas pers
     - `Download ZIP`
 2. Ir a la carpeta de instalación de Barony
     - Opcional: Crear una copia de respaldo de las carpetas **lang**, **books** y **data** para revertir los cambios en caso de fallos
-4. Extraer el contenido en la carpeta de instalación y reemplazar los archivos
+4. Extraer el contenido de `barony_es-main.zip` en la carpeta de instalación y reemplazar los archivos
 
 *Nota:* Los libros en inglés están desactivados por defecto, por lo que no aparecerán dentro del juego. Para activarlos se deberá reemplazar el archivo **ignored_books.json** dentro de la carpeta **books** por la copia de respaldo, o editando el contenido del archivo para que no excluya los títulos en inglés.
 
