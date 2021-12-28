@@ -114,7 +114,7 @@ Dificultad: Extrema #
 59 Arte#
 60 Arte Adicional#
 61 Escritores#
-62 QA#
+62 Testers#
 63 Agradecimientos especiales#
 64 Y por supuesto...#
 65 Usted, el jugador#
@@ -5832,11 +5832,11 @@ Clic izquierdo para visualizar en la página de la tienda.#
 3934 Desbloquea el logro "Buggar Baron" para desbloquear esta clase en todas las razas!#
 3935 Sin bordes/borderless#
 3936 Bienvenidx a Barony!#
-3937 Logueando, aguarde#
+3937 Iniciando sesión, aguarde#
 3938 Al logearse por primera vez, verifique su navegador#
 3939 para habilitar la integración con Barony.#
 3940 La integración de cuenta es requerida para usar Barony.#
-3941 Ha ocurrido un error de logueo (%d). Aguarde.#
+3941 Ha ocurrido un error de inicio de sesión (%d). Aguarde.#
 3942 La integración de cuenta ha sido denegada. Por favor reinicie Barony para intentar nuevamente.#
 3943 (Steamworks)#
 3944 (Crossplay)#
