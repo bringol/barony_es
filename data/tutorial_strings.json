@@ -1,23 +1,23 @@
 {
     "version": 1,
-    "window_title": "Enfrenta 10 desafíos que te enseñarán y pondrán a prueba tus habilidades, preparándote para\n la mazmorra!",
+    "window_title": "Enfrenta 10 desafíos donde aprenderás y pondrás a prueba tus habilidades, preparándote para\n la mazmorra!",
     "default_hover_text": "Coloque el cursor sobre un desafío para más información.",
     "levels": {
         "tutorial_hub": {
             "title": "El Salón de Desafíos",
-            "desc": "Descripción: El centro donde puedes acceder a todos los desafíos."
+            "desc": "Descripción: El lugar donde puedes acceder a todos los desafíos."
         },
         "tutorial1": {
-            "title": "Desafío 1: Conceptos básicos de mazmorras y combate cuerpo a cuerpo",
-            "desc": "Descripción: Aprende cómo interactual con la mazmorra, cómo atacar con armas cuerpo a cuerpo, \n y and defensa con escudos."
+            "title": "Desafío 1: Conceptos básicos y combate",
+            "desc": "Descripción: Aprende cómo interactuar con la mazmorra, a atacar con armas cuerpo a cuerpo, \n y a defenderte con escudos."
         },
         "tutorial2": {
             "title": "Desafío 2: Arcos, Flechas y Armas Arrijadizas",
-            "desc": "Descripción: Aprende sobre los diferentes tipos de arcos y flechas, y cómo usar armas arrojadizas."
+            "desc": "Descripción: Aprende sobre los diferentes tipos de arcos y flechas, y cómo usar armas\n arrojadizas."
         },
         "tutorial3": {
             "title": "Desafío 3: Trampas de Mazmorra, Púas y Pedruscos",
-            "desc": "Descripción: Aprende sobre los diferentes tipos de trampas que encontrarás, qué tan peligrosas son, \n y cómo evitarlas."
+            "desc": "Descripción: Aprende sobre los diferentes tipos de trampas que encontrarás, qué tan peli-\n grosas son, y cómo evitarlas."
         },
         "tutorial4": {
             "title": "Desafío 4: Comida, Tasación y Maldiciones",
@@ -25,11 +25,11 @@
         },
         "tutorial5": {
             "title": "Desafío 5: Magias, Grimorios y Hechizos",
-            "desc": "Descripción: Aprende cómo memorizar hechizos y cómo lanzarlos desde pergaminos, tomos y bastones mágicos."
+            "desc": "Descripción: Aprende cómo memorizar hechizos y cómo lanzarlos desde pergaminos, tomos y \n bastones mágicos."
         },
         "tutorial6": {
             "title": "Desafío 6: Sigilo y Ataques Sigilosos",
-            "desc": "Descripción: Aprende cómo abordar el combate ventajosamente desde la seguirdad de las sombras, el flanqueo y \n los asesinatos."
+            "desc": "Descripción: Aprende cómo abordar el combate a tu favor desde la seguirdad de las \n sombras, el flanqueo y los asesinatos."
         },
         "tutorial7": {
             "title": "Desafío 7: Reclutando Seguidores y Comandos",
@@ -37,15 +37,15 @@
         },
         "tutorial8": {
             "title": "Desafío 8: Pociones y Alquimia",
-            "desc": "Descripción: Aprende sobre los conceptos básicos de beber y arrojar pociones, además de mezclar \n tus propias pociones con un alambique."
+            "desc": "Descripción: Aprende sobre los conceptos básicos de beber y arrojar pociones, además de \n mezclar tus propias pociones con un alambique."
         },
         "tutorial9": {
             "title": "Desafío 9: Fabricar",
-            "desc": "Descripción: Aprende sobre los diversos artilugios usados en la habilidad de Fabricar , desde abrir cerraduras\n hasta la elaboración de artesanías defensivas."
+            "desc": "Descripción: Aprende sobre los diversos artilugios usados en la habilidad de Fabricar,\n desde abrir cerraduras hasta la elaboración de artesanías defensivas."
         },
         "tutorial10": {
             "title": "Desafío 10: Comerciantes y Mercados",
-            "desc": "Descripción: Aprende sobre los enigmáticos comerciantes, que son tan testarudos como poderosos ,\n y cómo pueden ayudarte."
+            "desc": "Descripción: Aprende sobre los enigmáticos comerciantes, que son tan testarudos como \n poderosos, y cómo pueden ayudarte."
         }
     }
 }

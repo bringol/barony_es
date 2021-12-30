@@ -1113,7 +1113,7 @@ Deberías llamar a un fontanero!#
 694 Golpeas a %s!#
 695 Ella ni se inmuta!#
 696 Él ni se inmuta!#
-697 Has matado a %s!#
+697 Has matado un(a) %s!#
 698 %s %s!# 
 699 %s %s!#
 700 Pero su golpe rebota!#
@@ -1161,14 +1161,14 @@ Deberías llamar a un fontanero!#
 731
 Conexión al servidor perdida.
 
-Presióna 'Ok' para volver al menu Principal.#
+Presiona 'Ok' para volver al Menú Principal.#
 732 Ok#
 733 Personaje al Azar#
 734 Bienvenido a Barony, %s.#
-735 Presióna <%s> para revisar tu inventario.#
-736 Presióna <%s> usar objetos.
+735 Presiona <%s> para revisar tu inventario.#
+736 Presiona <%s> usar objetos.
 #
-737 Has entrado en la mazmorra.#
+737 Has entrado a la mazmorra.#
 738 Por favor no piratees este juego!
 
 Nuestro trabajo vive y muere con el apoyo de
@@ -1187,8 +1187,8 @@ Gracias!#
 744 Cargando Sonidos ... #
 745 Cargando Modelos ... (%d/%d) #
 746 Cargando Archivos de extremidades ... #
-747 Cargando Articulos ... #
-748 Cargando Musica ... #
+747 Cargando Objetos ... #
+748 Cargando Música ... #
 749 Cargando Interfaz...#
 
 
@@ -1830,7 +1830,7 @@ Ninguna#
 1342 Sacudida#
 1343 Balancearse#
 1344 Sangre#
-1345 Modo Daltónico#
+1345 Modo daltónico#
 1346 Campo de Visión (FOV)#
 1347 Gama#
 
@@ -1848,7 +1848,7 @@ Ninguna#
 1358 Mirar abajo#
 1359 Chat#
 1360 Consola de comandos#
-1361 Estadísticas del personaje#
+1361 Estad. del personaje#
 1362 Lista de hechizos#
 1363 Lanzamiento de hechizos#
 1364 Bloquear / Sigilo#
@@ -1869,7 +1869,7 @@ usar objeto, usar objeto#
 1371 Opciones varias#
 1372 ocultar dirección IP#
 1373 deshabilitar hud#
-1374 agregar nuevos elementos al hotbar#
+1374 agregar obj. al hotbar#
 
 
 # Ventanas multijugador
@@ -2759,7 +2759,7 @@ de flechas a lo largo de los bordes y pasillos de los niveles. Las trampas solo
 se encontrarán dentro de las habitaciones que están planeadas para contenerlas.#
 
 # Cosas del menu de configuración de Gamepad.
-1947 Enlaces de Gamepad#
+1947 Atajos Gamepad#
 
 # Fijaciones bifuncionales.
 1948 Estado del personaje#
@@ -2807,10 +2807,10 @@ se encontrarán dentro de las habitaciones que están planeadas para contenerlas
 
 # Otras fijaciones.
 1986 Auto Ordenar Inventario#
-1987 Alternar Escala de Minimapa#
-1988 Alternar Chatlog#
-1989 Acceso rápido al menu de NPC#
-1990 Repetir la última orden del NPC#
+1987 Ajustar Escala Minimapa#
+1988 Ajustar Chatlog#
+1989 Acceso rápido menú NPC#
+1990 Repetir última orden NPC#
 1991 Cambiar de NPC#
 
 # más cosas en la pantalla de enlaces del gamepad.
@@ -2819,7 +2819,7 @@ se encontrarán dentro de las habitaciones que están planeadas para contenerlas
 1996 Haga clic para desvincular. Haga clic en una acción sin vincular para asignar una tecla..#
 
 
-1997 Auto Evaluar Objetos#
+1997 auto evaluar objetos#
 1998 protección contra clic derecho#
 
 # START DLC
@@ -3788,7 +3788,7 @@ NOTA: Activar esto deshabilitará los logros en el archivo guardado! #
 2981 ADVERTENCIA: ASEGURAR QUE TODOS LOS MIEMBROS DE LA SALA POSEEN
 LISTAS DE MODS IDÉNTICAS CARGADAS!#
 2982 NOTA: Sesiones modificadas usan su propio archivo de guardado.#
-2983 Mantener tiempo en HUD#
+2983 mantener tiempo en HUD#
 2984 Subscribirse en la lista mods del servidor#
 2985 Montar lista de mods del servidor#
 2986 Partida guardada tiene activado los trucos#
@@ -3818,7 +3818,7 @@ LISTAS DE MODS IDÉNTICAS CARGADAS!#
 3008 Cargando propiedades modificadas de items.txt...#
 3009 Descargando propiedades modificadas de items.txt...#
 3010 Cayó a su muerte.#
-3011 vertical sync#
+3011 Vertical sync#
 3012 silenciar pings de mapa#
 3013 Cargando archivos modificados de monster limbs.txt...#
 3014 Descargando archivos modificados de monster limbs.txt...#
@@ -4433,7 +4433,7 @@ ingrediente alquímico secundario %s #
 3355 Tu fuerza vuelve a la normalidad.#
 3356 Tu brebaje se disuelve en agua...#
 
-3357 íconos de efectos#
+3357 Íconos de efectos#
 3358 ¿Te sientes energizado?#
 3359 ¡Triunfante %s!#
 3360 El Eterno %s!#
