@@ -1,0 +1,30 @@
+
+	Atributos de Personaje
+
+	Confeccionado por el Maestro de Gremio Slovinick
+
+	
+
+	Debido a que la salud y los exámenes físicos de nuevos aplicantes han tomado prioridad después del Desastre de Summerset que arruinó la celebración hace ya una temporada atrás, yo, el Maestro de Gremio Slovinick, he tomado la decisión de crear un nuevo sistema de selección, organizado entre seis ejes separados, para juzgar las capacidades de cualquier persona particular.
+
+	Que sea sabido que para cada uno de estos ejes, el estándar base por el cual todas las clasificaciones serán juzgadas comenzarán a partir de 0, pues representa el promedio de todos en el gremio; y un número positivo deberá indicar un rango elevado del promedio comparado con sus pares, mientras que un número negativo denotará lo opuesto.
+
+	Respecto a los atributos...
+
+	Fuerza (FUE): Una escala para representar el poder del individuo. Aquellos que posean una fuerza elevada golpearán con más potencia, y serán capaces de llevar más equipamiento sin sufrir de fatiga. (Nota del Editor: hoy en día, es decir, a partir del 15/13/223, se estima que una persona con un rango de 5 o más en FUE, será más que capaz de mover piedras del tamaño de un hombre...). 
+
+	Destreza (DES): Una escala que determina la agilidad del individuo. Aquellos que posean una elevada destreza serán capaces de moverse con mayor rapidez, y de realizar golpes más precisos, además de poder esquivar golpes con mayor facilidad. 
+
+	Constitución (CON): Una escala que determina la fortaleza del individuo. Aquellos que posean una elevada constitución serás capaces de soportar dolencias y dificultades con mayor éxito que otros, y de recuperarse con mayor rapidez ante enfermedades debilitantes. (Nota del Editor: una investigación reciente puede haber refutado el último dato, pues se descubrió que el veneno de arácnidos gigantes duran en promedio 10 segundos, sin importar la CON.) 
+
+	Inteligencia (INT): Una escala que determina el ingenio del individuo. Aquellos que posean una elevada inteligencia serán capaces de deducir y conjurar nuestros métodos místicos y mágicos con mayor facilidad que otros con menor inteligencia.
+
+	Percepción (PER): Una escala que determina la agudez de los sentidos del individuo. Aquellos que posean una elevada percepción serán capaces de ver mejor en ambientes privados de luminiscencia. 
+
+	Carisma (CAR): Una escala que determina el encanto del individuo. Aquellos que posean un elevado carisma tendrán una mayor tasa de éxito a la hora de convncer a otros, particularmente a la hora de negociar, tanto desde el punto de vista mercantil como bélico.
+
+	El Gremio de Magos tiene permiso de utilizar esta guía hasta que futuros maestros de gremio lo consideren innecesario.
+
+	~ Maestro de Gremio Slovinick
+
+	6/16/158

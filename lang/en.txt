@@ -781,7 +781,7 @@ los objetos antes de usarlos.#
   No tapó un agujero en su paraguas"#
 
 494 En la lápida se puede leer:
- "Aquí yace Horacio P Fecth
+ "Aquí yace Horacio P. Fetch
   Al final los trasgos le dieron caza"#
 
 495 En la lápida se puede leer:
