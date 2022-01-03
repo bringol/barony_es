@@ -26,5 +26,5 @@ La traducción ofrece una instalación independiente de Steam para aquellas pers
 
 #### To-Do
 - [x] Traducir todos los libros.
-- [ ] Traducir el texto embebido en los mapas de Hall of Trials.
+- [x] Traducir el texto embebido en los mapas de Hall of Trials.
  
