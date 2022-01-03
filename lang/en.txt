@@ -425,7 +425,7 @@ los objetos antes de usarlos.#
 236 Fabricar#
 237 Sigilo#
 238 Comercio#
-239 Tasación#
+239 Tasar#
 240 Nadar#
 241 Liderazgo#
 242 Canalizar#
@@ -3620,7 +3620,7 @@ a cualquiera que lo busque nuevamente, en las profundidades.. #
 2747 %s Sin rencores, simplemente no seas uno de los malos!#
 
 2750 type:rand#
-2751 %s ¿Sería raro si siento la tentación de vovler a las minas?#
+2751 %s ¿Sería raro si siento la tentación de volver a las minas?#
 2752 %s El cielo allá afuera es tan grande. Tengo miedo.#
 2753 %s Las minas, la mazmorra de Herx, está todo al otro lado de esta puerta.#
 2754 %s Quizás debería quedarme atrás por un tiempito.#
@@ -3829,7 +3829,7 @@ LISTAS DE MODS IDÉNTICAS CARGADAS!#
 3019 Guardar & Desconectar#
 3020
       ¿Realmente deseas desconectarte
-        y vovler al menú principal?
+        y volver al menú principal?
     
     Tu progreso multijugador fue guardado
        al comienzo del piso actual.
@@ -4022,7 +4022,7 @@ Esto no interrumpirá tasaciones existentes.#
 lización activa.#
 
 3176 Opciones de juego:#
-3177 Usar habilidades de %s#
+3177 Habilidades de %s#
 3178 Limitar a estética#
 
 3179 Esqueletos no necesitan comida!#
@@ -4153,7 +4153,7 @@ Precio de venta en la tienda:   %3.2fx valor oro  #
 3258 
 Tiempo para tasar objeto según valor monetario:     %3.2fs
 Valor máximo del objeto que puede ser tasado:       %4.0fG
-Puede tasar vidrio inserdible:                      %3s   #
+Puede tasar vidrio inservible:                      %3s   #
 3259 
 Velocidad de movimiento del Jugador en agua/lava:  %3.1f%% 
 #
@@ -4859,7 +4859,7 @@ Destreza y movimiento incrementados#
 3561 capucha#
 3562 pergamino de recarga#
 3563 pergamino#
-3564 carcaj de flechas platinadas#
+3564 carcaj de flechas de platas#
 3565 carcaj#
 3566 carcaj de flechas perforantes#
 3567 carcaj#
@@ -5034,9 +5034,9 @@ para reparar#
 3740 Tu flecha incendia %s!#
 3741 Estás en llamas por una flecha incendiaria!#
 3742 Has sido empujado por una flecha!#
-3743 Tu flecha platinada castiga al %s!#
-3744 Tu flecha platinada castiga %s!#
-3745 Una flecha platinada te castiga!#
+3743 Tu flecha de plata castiga al %s!#
+3744 Tu flecha de plata castiga %s!#
+3745 Una flecha de plata te castiga!#
 3746 Tu %s retorna!#
 3747 %s es sedado por la flecha!#
 3748 %s es sedado por la flecha!#
@@ -5810,8 +5810,8 @@ Clic izquierdo para visualizar en la página de la tienda.#
 3918 desactivar límite de velocidad de rotación del mouse#
 3919 Volver al Menú Principal#
 3920
-                        ¿Realmente deseas
-                    volver al menú principal?
+            ¿Realmente deseas
+         volver al menú principal?
 
          El progreso fue guardado
         al inicio del nivel actual.#
@@ -5857,20 +5857,20 @@ salas crossplay: [%c]#
 3958 Volver al Salón de Desafíos#
 3959 Volver al Menú Principal#
 3960   ¿Realmente deseas salir del
-         desafío actual y vovler
+         desafío actual y volver
          al Salón de Desafíos?#
-3961    ¿Realmente deseas vovler
-           al menú principal?#
+3961    ¿Realmente deseas volver
+       al menú principal?#
 3962 
 Cambiar esta etiqueta está desactivada en la partida actual.#
 3963 Los Logros están desactivados en el modo de juego actual#
 3964 Salón de Desafíos#
 3965 Ir al Test de Desafíos#
 3966 Saltear por ahora#
-3967                 ¡Barony es un juego difícil!                    #
+3967           ¡Barony es un juego difícil!                    #
 3968 
              ¿Deseas volver al Salón de Desafíos
-                para aprender algunas cosas?
+               para aprender algunas cosas?
 
             Siempre puedes volver al Salón de Desafíos
              posteriormente desde el Menú Principal.#
@@ -5921,7 +5921,7 @@ Cambiar esta etiqueta está desactivada en la partida actual.#
 3985 https://www.epicgames.com/store/en-US/product/barony/legends-and-pariahs#
 3986
        ¿Realmente deseas desconectarte
-         y vovler al menú principal?
+         y volver al menú principal?
     
      Como el resto del equipo ha sucumbido,
   los datos guardados para esta sesión serán borrados.
@@ -5936,7 +5936,7 @@ Cambiar esta etiqueta está desactivada en la partida actual.#
          Al caer en batalla, tu
      partida guardada será eliminada.#
 3989
-              ¿Realmente deseas
+             ¿Realmente deseas
             salir al escritorio?
 
         Como el resto de tu grupo ha sucumbido,
