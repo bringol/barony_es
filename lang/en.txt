@@ -456,7 +456,7 @@ los objetos antes de usarlos.#
 259 Ves %d piezas de oro.#
 260 Ves una hoguera.#
 262 Ves una fuente.#
-263 Ves una pileta.#
+263 Ves una bomba de agua.#
 264 Ves una escalera hacia abajo.#
 265 Ves una escalera hacia arriba.#
 266 Ves un cofre.#
@@ -981,7 +981,7 @@ sobrevive hasta el siguiente piso.#
 
 # more furniture
 
-580 La pileta ha quedado inservible.
+580 La bomba de agua ha quedado inservible.
 Deberías llamar a un fontanero!#
 581 Oye, hay un anillo atascado en el desagüe.#
 582 Un cieno sale del grifo!#
@@ -2485,7 +2485,7 @@ mazmorra piso %d, cliente (jugador %d) (dirección ip), %s#
 1666 poción#
 1667 poción de ceguera#
 1668 poción#
-1669 poción de recuperación de maná#
+1669 poción de restaurar magia#
 1670 poción#
 1671 poción de invisibilidad#
 1672 poción#
@@ -3005,8 +3005,8 @@ se encontrarán dentro de las habitaciones que están planeadas para contenerlas
 2303 poción#
 2304 mochila#
 2305 mochila#
-2306 alembique#
-2307 alembique#
+2306 alambique#
+2307 alambique#
 2308 poción de tormenta de fuego#
 2309 poción inestable#
 2310 poción de tormenta de hielo#
