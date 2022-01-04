@@ -14,7 +14,7 @@ La traducción ofrece una instalación independiente de Steam para aquellas pers
 *Nota:* Los libros en inglés están desactivados por defecto, por lo que no aparecerán dentro del juego. Para activarlos se deberá reemplazar el archivo **ignored_books.json** dentro de la carpeta **books** por la copia de respaldo, o editando el contenido del archivo para que no excluya los títulos en inglés.
 
 ## Instalación desde Steam 
-- [ ] Pendiente
+- [Barony Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2707610137)
 
 
 ### Agradecimientos
