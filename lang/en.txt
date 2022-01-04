@@ -601,9 +601,9 @@ los objetos antes de usarlos.#
 
 # rest of the character sheet
 
-370 Oro:%13d PO#
-371 Armadura:%12d CA#
-372 Peso:%11d Wt.#
+370 Oro    %13d PO#
+371 Armadura%12d CA#
+372 Peso    %11d LBS#
 
 
 # chest inventory
@@ -1945,7 +1945,7 @@ Lista de jugadores:
 
 1414 Haz clic para continuar. ESC saltea#
 
-1415 Érase una vez en una tierra lejana, había una ciudad llamada Hamlet.#
+1415 Érase una vez en una tierra lejana una ciudad llamada Hamlet.#
 
 1416
 
@@ -1968,7 +1968,7 @@ Eso fue hasta que el Barón Herx gobernó estas tierras.#
 
 El Barón, en su avaricia interminable, obligó a sus ciudadanos a cavar 
 las colinas circundantes en busca de oro, aunque la tierra 
-nunca había rendido tal tesoro alguno.#
+nunca había rendido tal tesoro.#
 1419
 
 
@@ -1980,7 +1980,7 @@ nunca había rendido tal tesoro alguno.#
 
 
 Mientras tanto, cuando la gente se vió obligada a trabajar, planearon 
-deshacer a su líder injusto. Finalmente, pudieron embaucarlo
+deshacer a su injusto líder. Finalmente, pudieron embaucarlo
 con una promesa de oro y lo sellaron dentro de las minas..#
 
 1420
@@ -3135,11 +3135,11 @@ pero resiste tu fuerza!#
 2419 El calzado te empuja por encima del suelo. Estás levitando!#
 
 #New spell effects (2420-2440)
-2420 %s está paralziado!#
-2421 El/la %s está paralizadx!#
+2420 %s está paralziado/a!#
+2421 El/la %s está paralizado/a!#
 2422 Tus extremidades se rehúsan a moverse!#
-2423 %s está severamente herido!#
-2424 El/la %s está severamente heridx!#
+2423 %s está severamente herido/a!#
+2424 El/la %s está severamente herido/a!#
 2425 Te hirieron con severidad!#
 2426 Trío de Misiles#
 2427 Sientes energía emanar de ti mientras
@@ -3147,12 +3147,12 @@ dominas a %s hacia tu servicio!#
 2428 Sientes energía emanar de tu mientras
 dominas a %s hacia tu servicio!#
 2429 No eres capaz de dominar.#
-2430 %s es rociado con ácido corrosivo!#
-2431 %s es rociado con ácido corrosivo!#
+2430 %s es rociado/a con ácido corrosivo!#
+2431 %s es rociado/a con ácido corrosivo!#
 2432 Te rocían con ácido corrosivo!#
 2433 Mágicamente persuades a %s fuera del alcance de %s!#
 2434 Mágicamente persuades a %s fuera del alcance de %s!#
-2435 %s es persuadido mágicamente fuera de tu alcance!#
+2435 %s persuadido/a mágicamente fuera de tu alcance!#
 2436 %s no es un arma válida para ser robada!#
 2437 %s no está sosteniendo un arma para robar!#
 2438 El hechizo falla en robar el arma inextistente de tu mano!#
@@ -3262,7 +3262,7 @@ drenarse el resto de tu magia!#
 2539 %3d%% variación de habilidad#
 2540 herramienta:  #
 2541 bastón: #
-2542 Daño:%11d ATK#
+2542 Daño    %11d ATK#
 
 # 2543 - 2549 attacking text, misc
 2543 Tu impacto golpeó a un desprevenido %s!#
@@ -4525,7 +4525,8 @@ Razgos:
    (Aún proveen bonificaciones)
 - Comienza con Teletransporte
    ya aprendido
-- Puede reclutar humanos ebrios/confundidos#
+- Puede reclutar humanos ebrios/con-
+   fundidos#
 
 3379 Fauno
 
@@ -5831,7 +5832,7 @@ Clic izquierdo para visualizar en la página de la tienda.#
 3933 Desbloquea el logro "Bayou Baron" para desbloquear esta clase en todas las razas!#
 3934 Desbloquea el logro "Buggar Baron" para desbloquear esta clase en todas las razas!#
 3935 Sin bordes/borderless#
-3936 Bienvenidx a Barony!#
+3936 Bienvenido/a a Barony!#
 3937 Iniciando sesión, aguarde#
 3938 Al logearse por primera vez, verifique su navegador#
 3939 para habilitar la integración con Barony.#
