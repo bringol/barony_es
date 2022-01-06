@@ -2433,270 +2433,270 @@ mazmorra piso %d, cliente (jugador %d) (dirección ip), %s#
 1614 Botas de Acero#
 1615 Botas de Acero de Levitación#
 1616 Botas de Acero#
-1617 Botas de acero de plumas#
-1618 Botas de acero#
-1619 Pechera de cuero#
-1620 Pechera de cuero#
-1621 Pechera de hierro#
-1622 Pechera de hierro#
-1623 Pechera de acero#
-1624 Pechera de acero#
-1625 Gorro de gnomo#
-1626 Gorro de gnomo#
+1617 Botas de Acero de Plumas#
+1618 Botas de Acero#
+1619 Pechera de Cuero#
+1620 Pechera de Cuero#
+1621 Pechera de Hierro#
+1622 Pechera de Hierro#
+1623 Pechera de Acero#
+1624 Pechera de Acero#
+1625 Gorro de Gnomo#
+1626 Gorro de Gnomo#
 1627 Capucha#
 1628 Capucha#
-1629 Sombrero de mago#
-1630 Sombrero de mago#
-1631 Sombrero de guazón#
-1632 Sombrero de guazón#
-1633 Yelmo de cuero#
-1634 Yelmo de cuero#
-1635 Yelmo de hierro#
-1636 Yelmo de hierro#
-1637 Yelmo de acero#
-1638 Yelmo de acero#
-1639 Amuleto de cambio de sexo#
+1629 Sombrero de Mago#
+1630 Sombrero de Mago#
+1631 Sombrero de Guazón#
+1632 Sombrero de Guazón#
+1633 Yelmo de Cuero#
+1634 Yelmo de Cuero#
+1635 Yelmo de Hierro#
+1636 Yelmo de Hierro#
+1637 Yelmo de Acero#
+1638 Yelmo de Acero#
+1639 Amuleto de Cambio de Sexo#
 1640 Amuleto#
-1641 Amuleto de salvar vida#
+1641 Amuleto de Salvar Vida#
 1642 Amuleto#
-1643 Amuleto de nado olímpico#
+1643 Amuleto de Nado Olímpico#
 1644 Amuleto#
-1645 Amuleto de reflejar magia#
+1645 Amuleto de Reflejar Magia#
 1646 Amuleto#
-1647 Amuleto de estrangulamiento#
+1647 Amuleto de Estrangulamiento#
 1648 Amuleto#
-1649 Amuleto de resistencia al veneno#
+1649 Amuleto de Resistencia al Veneno#
 1650 Amuleto#
-1651 Botella de agua#
+1651 Botella de Agua#
 1652 Poción#
-1653 Botella de alcohol#
+1653 Botella de Alcohol#
 1654 Poción#
-1655 Botella de infusión frutal#
+1655 Botella de Infusión Frutal#
 1656 Poción#
-1657 Poción de enfermedad#
+1657 Poción de Enfermedad#
 1658 Poción#
-1659 Poción de confusión#
+1659 Poción de Confusión#
 1660 Poción#
-1661 Poción de gran curación#
+1661 Poción de Gran Curación#
 1662 Poción#
-1663 Poción de curación#
+1663 Poción de Curación#
 1664 Poción#
-1665 Poción de curar dolencia#
+1665 Poción de Curar Dolencia#
 1666 Poción#
-1667 Poción de ceguera#
+1667 Poción de Ceguera#
 1668 Poción#
-1669 Poción de restaurar magia#
+1669 Poción de Restaurar Magia#
 1670 Poción#
-1671 Poción de invisibilidad#
+1671 Poción de Invisibilidad#
 1672 Poción#
-1673 Poción de levitación#
+1673 Poción de Levitación#
 1674 Poción#
-1675 Poción de velocidad#
+1675 Poción de Velocidad#
 1676 Poción#
-1677 Poción de ácido#
+1677 Poción de Ácido#
 1678 Poción#
-1679 Poción de parálisis#
+1679 Poción de Parálisis#
 1680 Poción#
 1681 Correspondencia#
-1682 Pergamino sellado#
-1683 Pergamino de identificar#
+1682 Pergamino Sellado#
+1683 Pergamino de Identificar#
 1684 Pergamino#
-1685 Pergamino de luz#
+1685 Pergamino de Luz#
 1686 Pergamino#
-1687 Pergamino en blanco#
+1687 Pergamino en Blanco#
 1688 Pergamino#
-1689 Pergamino de encantamiento de arma#
+1689 Pergamino de Encantamiento de Arma#
 1690 Pergamino#
-1691 Pergamino de encantamiento de armadura#
+1691 Pergamino de Encantamiento de Armadura#
 1692 Pergamino#
-1693 Pergamino de romper maldición#
+1693 Pergamino de Romper Maldición#
 1694 Pergamino#
-1695 Pergamino de fuego#
+1695 Pergamino de Fuego#
 1696 Pergamino#
-1697 Pergamino de comida#
+1697 Pergamino de Comida#
 1698 Pergamino#
-1699 Pergamino de mapeo mágico#
+1699 Pergamino de Mapeo Mágico#
 1700 Pergamino#
-1701 Pergamino de reparación#
+1701 Pergamino de Reparación#
 1702 Pergamino#
-1703 Pergamino para destruir armadura#
+1703 Pergamino de Destruir Armadura#
 1704 Pergamino#
-1705 Pergamino de teletransporte#
+1705 Pergamino de Teletransporte#
 1706 Pergamino#
-1707 Pergamino de invocación#
+1707 Pergamino de Invocación#
 1708 Pergamino#
-1709 bastón de luz#
+1709 Bastón de Luz#
 1710 Bastón#
-1711 Bastón de excavación#
-1712 bastón#
-1713 bastón de cerradura arcana#
-1714 bastón#
-1715 bastón de misil mágico#
-1716 bastón#
-1717 bastón de apertura#
-1718 bastón#
-1719 bastón de ralentizar#
-1720 bastón#
-1721 bastón de frío#
-1722 bastón#
-1723 bastón de bola de fuego#
-1724 bastón#
-1725 bastón de relámpago#
-1726 bastón#
-1727 bastón de dormir#
-1728 bastón#
-1729 anillo de carisma#
-1730 anillo#
-1731 anillo de digestión lenta#
-1732 anillo#
-1733 anillo de protección#
-1734 anillo#
-1735 anillo de alerta#
-1736 anillo#
-1737 anillo de fuerza#
-1738 anillo#
-1739 anillo de constitución#
-1740 anillo#
-1741 anillo de invisibilidad#
-1742 anillo#
-1743 anillo de resistencia mágica#
-1744 anillo#
-1745 anillo de conflicto#
-1746 anillo#
-1747 anillo de levitación#
-1748 anillo#
-1749 anillo de regeneración#
-1750 anillo#
-1751 anillo de teletransporte#
-1752 anillo#
-1753 grimorio de virote mágico#
-1754 grimorio#
-1755 grimorio de misil mágico#
-1756 grimorio#
-1757 grimorio de frío#
-1758 grimorio#
-1759 grimorio de bola de fuego#
-1760 grimorio#
-1761 grimorio de luz#
-1762 grimorio#
-1763 grimorio de romper maldición#
-1764 grimorio#
-1765 grimorio de relámpago#
-1766 grimorio#
-1767 grimorio de identificar#
-1768 grimorio#
-1769 grimorio de mapeo mágico#
-1770 grimorio#
-1771 grimorio de dormir#
-1772 grimorio#
-1773 grimorio de confusión#
-1774 grimorio#
-1775 grimorio de ralentizar#
-1776 grimorio#
-1777 grimorio de apertura#
-1778 grimorio#
-1779 grimorio de cerradura arcana#
-1780 grimorio#
-1781 grimorio de levitación#
-1782 grimorio#
-1783 grimorio de invisibilidad#
-1784 grimorio#
-1785 grimorio de teletransporte#
-1786 grimorio#
-1787 grimorio de curación#
-1788 grimorio#
-1789 grimorio de gran curación#
-1790 grimorio#
-1791 grimorio de curar dolencia#
-1792 grimorio#
-1793 grimorio de excavación#
-1794 grimorio#
-1795 roca#
-1796 roca#
-1797 piedra de la suerte#
-1798 roca#
-1799 granate#
-1800 gema#
-1801 rubi#
-1802 gema#
-1803 jacinto#
-1804 gema#
-1805 ambar#
-1806 gema#
-1807 citrina#
-1808 gema#
-1809 jade#
-1810 gema#
-1811 esmeralda#
-1812 gema#
-1813 zafiro#
-1814 gema#
-1815 aguamarina#
-1816 gema#
-1817 amatista#
-1818 gema#
-1819 fluorita#
-1820 gema#
-1821 opalo#
-1822 gema#
-1823 diamante#
-1824 gema#
-1825 azabache#
-1826 gema#
-1827 obsidiana#
-1828 gema#
-1829 pedazo de vidrio sin valor#
-1830 gema#
-1831 pico#
-1832 pico#
-1833 abrelatas#
-1834 abrelatas#
-1835 espejo#
-1836 espejo#
-1837 ganzúa#
-1838 ganzúa#
-1839 llave de hueso#
-1840 llave#
-1841 antorcha#
-1842 antorcha#
-1843 farol#
-1844 farol#
-1845 venda para los ojos#
-1846 venda para los ojos#
-1847 toalla#
-1848 toalla#
-1849 gafas#
-1850 gafas#
-1851 cepo#
-1852 cepo#
-1853 pan#
-1854 pan#
-1855 pastel de crema#
-1856 pastel de crema#
-1857 queso#
-1858 queso#
-1859 manzana#
-1860 manzana#
-1861 carne#
-1862 carne#
-1863 pescado#
-1864 pescado#
-1865 lata#
-1866 lata#
-1867 libro#
-1868 libro de texto#
-1869 hechizo#
-1870 hechizo#
+1711 Bastón de Excavación#
+1712 Bastón#
+1713 Bastón de Cerradura Arcana#
+1714 Bastón#
+1715 Bastón de Misil Mágico#
+1716 Bastón#
+1717 Bastón de Apertura#
+1718 Bastón#
+1719 Bastón de Ralentizar#
+1720 Bastón#
+1721 Bastón de Frío#
+1722 Bastón#
+1723 Bastón de Bola de Fuego#
+1724 Bastón#
+1725 Bastón de Relámpago#
+1726 Bastón#
+1727 Bastón de Dormir#
+1728 Bastón#
+1729 Anillo de Carisma#
+1730 Anillo#
+1731 Anillo de Digestión Lenta#
+1732 Anillo#
+1733 Anillo de Protección#
+1734 Anillo#
+1735 Anillo de Alerta#
+1736 Anillo#
+1737 Anillo de Fuerza#
+1738 Anillo#
+1739 Anillo de Constitución#
+1740 Anillo#
+1741 Anillo de Invisibilidad#
+1742 Anillo#
+1743 Anillo de Resistencia Mágica#
+1744 Anillo#
+1745 Anillo de Conflicto#
+1746 Anillo#
+1747 Anillo de Levitación#
+1748 Anillo#
+1749 Anillo de Regeneración#
+1750 Anillo#
+1751 Anillo de Teletransporte#
+1752 Anillo#
+1753 Grimorio de Virote Mágico#
+1754 Grimorio#
+1755 Grimorio de Misil Mágico#
+1756 Grimorio#
+1757 Grimorio de Frío#
+1758 Grimorio#
+1759 Grimorio de Bola de Fuego#
+1760 Grimorio#
+1761 Grimorio de Luz#
+1762 Grimorio#
+1763 Grimorio de Romper Maldición#
+1764 Grimorio#
+1765 Grimorio de Relámpago#
+1766 Grimorio#
+1767 Grimorio de Identificar#
+1768 Grimorio#
+1769 Grimorio de Mapeo Mágico#
+1770 Grimorio#
+1771 Grimorio de Dormir#
+1772 Grimorio#
+1773 Grimorio de Confusión#
+1774 Grimorio#
+1775 Grimorio de Ralentizar#
+1776 Grimorio#
+1777 Grimorio de Apertura#
+1778 Grimorio#
+1779 Grimorio de Cerradura Arcana#
+1780 Grimorio#
+1781 Grimorio de Levitación#
+1782 Grimorio#
+1783 Grimorio de Invisibilidad#
+1784 Grimorio#
+1785 Grimorio de Teletransporte#
+1786 Grimorio#
+1787 Grimorio de Curación#
+1788 Grimorio#
+1789 Grimorio de Gran Curación#
+1790 Grimorio#
+1791 Grimorio de Curar Dolencia#
+1792 Grimorio#
+1793 Grimorio de Excavación#
+1794 Grimorio#
+1795 Roca#
+1796 Roca#
+1797 Roca de la Suerte#
+1798 Roca#
+1799 Granate#
+1800 Gema#
+1801 Rubí#
+1802 Gema#
+1803 Jacinto#
+1804 Gema#
+1805 Ámbar#
+1806 Gema#
+1807 Citrina#
+1808 Gema#
+1809 Jade#
+1810 Gema#
+1811 Esmeralda#
+1812 Gema#
+1813 Zafiro#
+1814 Gema#
+1815 Aguamarina#
+1816 Gema#
+1817 Amatista#
+1818 Gema#
+1819 Fluorita#
+1820 Gema#
+1821 Ópalo#
+1822 Gema#
+1823 Diamante#
+1824 Gema#
+1825 Azabache#
+1826 Gema#
+1827 Obsidiana#
+1828 Gema#
+1829 Vidrio Inserdible#
+1830 Gema#
+1831 Pico#
+1832 Pico#
+1833 Abrelatas#
+1834 Abrelatas#
+1835 Espejo#
+1836 Espejo#
+1837 Ganzúa#
+1838 Ganzúa#
+1839 Llave de Hueso#
+1840 Llave#
+1841 Antorcha#
+1842 Antorcha#
+1843 Farol#
+1844 Farol#
+1845 Tapaojos#
+1846 Tapaojos#
+1847 Toalla#
+1848 Toalla#
+1849 Gafas#
+1850 Gafas#
+1851 Cepo#
+1852 Cepo#
+1853 Pan#
+1854 Pan#
+1855 Pastel de Crema#
+1856 Pastel de Crema#
+1857 Queso#
+1858 Queso#
+1859 Manzana#
+1860 Manzana#
+1861 Carne#
+1862 Carne#
+1863 Pescado#
+1864 Pescado#
+1865 Lata#
+1866 Lata#
+1867 Libro#
+1868 Libro de Texto#
+1869 Hechizo#
+1870 Hechizo#
 1871 Dyrnwyn#
-1872 espada mágica#
+1872 Espada Mágica#
 1873 Sharur#
-1874 maza mágica#
+1874 Maza Mágica#
 1875 Gungnir#
-1876 lanza mágica#
+1876 Lanza Mágica#
 1877 Parashu#
-1878 hacha mágica#
+1878 Hacha Mágica#
 1879 Khryselakatos#
-1880 arco mágico#
+1880 Arco Mágico#
 
 # new random messages
 
@@ -2900,155 +2900,155 @@ se encontrarán dentro de las habitaciones que están planeadas para contenerlas
 
 # items, reserve (2200-2349) for new items
 2200 Malla del Dragón#
-2201 pechera de artefacto#
+2201 Pechera de Artefacto#
 2202 Velo de la Esfinge#
-2203 yelmo de artefactos#
+2203 Yelmo de Artefactos#
 2204 Pisadas del Oráculo#
-2205 botas de artefacto#
+2205 Botas de Artefacto#
 2206 Manto del Incorpóreo#
-2207 capa de artefacto#
+2207 Capa de Artefacto#
 2208 Brazaletes del Djinni#
-2209 guantes de artefacto#
-2210 pechera de cristal#
-2211 pechera de cristal#
-2212 yelmo de cristal#
-2213 yelmo de cristal#
-2214 botas de cristal#
-2215 botas de cristal#
-2216 escudo de cristal#
-2217 escudo de cristal#
-2218 guanteletes de cristal#
-2219 guanteletes de cristal#
-2220 jubón de vampiro#
-2221 jubón#
-2222 jubón#
-2223 jubón#
-2224 jubón de curandero#
-2225 jubón#
-2226 escudo espejo#
-2227 escudo espejo#
-2228 manopla de latón#
-2229 manopla#
-2230 manopla de hierro#
-2231 manoplas#
-2232 manopla de púas#
-2233 manoplas#
-2234 crustáceo#
-2235 crustáceo#
-2236 fragmento de cristal#
-2237 fragmento de cristal#
-2238 espada de cristal#
-2239 espada de cristal#
-2240 lanza de cristal#
-2241 lanza de cristal#
-2242 hacha de cristal#
-2243 hacha de cristal#
-2244 maza de cristal#
-2245 maza de cristal#
-2246 tomahawk de bronce#
-2247 tomahawk de bronce#
-2248 daga de hierro#
-2249 daga de hierro#
-2250 chakram de acero#
-2251 chakram de acero#
-2252 shuriken de cristal#
-2253 shuriken de cristal#
-2254 capa negra#
-2255 capa negra#
-2256 bastón mágico de sangre pétrea#
-2257 bastón mágico#
-2258 bastón mágico de ensangrentar#
-2259 bastón mágico#
-2260 bastón mágico de invocar esqueleto#
-2261 bastón mágico#
-2262 venda para ojos de enfoque#
-2263 venda para ojos#
-2264 venda para ojos de telepatía#
-2265 venda para ojos#
-2266 grimorio de invocar esqueleto#
-2267 grimorio#
-2268 grimorio de sangre pétrea#
-2269 grimorio#
-2270 grimorio de ensangrentar#
-2271 grimorio#
-2272 grimorio de reflejar magia#
-2273 grimorio#
-2274 grimorio rocío ácido#
-2275 grimorio#
-2276 grimorio de robar arma#
-2277 grimorio#
-2278 grimorio de drenar alma#
-2279 grimorio#
-2280 grimorio de aura vampírica#
-2281 grimorio#
-2282 grimorio de encantar monstruo#
-2283 grimorio#
-2284 botella vacía#
-2285 botella vacía#
-2286 orbe místico azul#
-2287 orbe místico azul#
-2288 orbe místico rojo#
-2289 orbe místico rojo#
-2290 orbe místico morado#
-2291 orbe místico morado#
-2292 orbe místico verde#
-2293 orbe místico verde##
-2294 túnica#
-2295 túnica#
-2296 fez#
-2297 fez#
-2298 bastón mágico de encantar monstuo#
-2299 bastón mágico#
-2300 poción de polimorfismo#
-2301 poción#
-2302 frasco de sangre#
-2303 poción#
-2304 mochila#
-2305 mochila#
-2306 alambique#
-2307 alambique#
-2308 poción de tormenta de fuego#
-2309 poción inestable#
-2310 poción de tormenta de hielo#
-2311 poción inestable#
-2312 poción de tempestad#
-2313 poción inestable#
-2314 poción de fuerza#
-2315 poción#
-2316 botas de gamuza#
-2317 botas de gamuza#
-2318 guantes de gamuza#
-2319 guantes de gamuza#
-2320 capa de plata#
-2321 capa de plata#
-2322 capucha de plata#
-2323 capucha de plata#
-2324 capucha roja#
-2325 capucha roja#
-2326 jubón de plata#
-2327 jubón de plata#
-2328 grimorio de revertir forma#
-2329 grimorio#
-2330 grimorio de forma de rata#
-2331 grimorio#
-2332 grimorio de forma arácnida#
-2333 grimorio#
-2334 grimorio de forma de troll#
-2335 grimorio#
-2336 grimorio de forma de diablillo#
-2337 grimorio#
-2338 grimorio de enmarañar#
-2339 grimorio#
-2340 grimorio de veneno#
-2341 grimorio#
-2342 grimorio de velocidad#
-2343 grimorio#
-2344 grimorio de miedo#
-2345 grimorio#
-2346 grimorio de impacto poderoso#
-2347 grimorio#
-2348 grimorio de detectar comida#
-2349 grimorio#
+2209 Guantes de Artefacto#
+2210 Pechera de Cristal#
+2211 Pechera de Cristal#
+2212 Yelmo de Cristal#
+2213 Yelmo de Cristal#
+2214 Botas de Cristal#
+2215 Botas de Cristal#
+2216 Escudo de Cristal#
+2217 Escudo de Cristal#
+2218 Guanteletes de Cristal#
+2219 Guanteletes de Cristal#
+2220 Jubón de Vampiro#
+2221 Jubón#
+2222 Jubón#
+2223 Jubón#
+2224 Jubón de Curandero#
+2225 Jubón#
+2226 Escudo Espejo#
+2227 Escudo Espejo#
+2228 Manopla de Latón#
+2229 Manopla#
+2230 Manopla de Hierro#
+2231 Manoplas#
+2232 Manopla de Púas#
+2233 Manoplas#
+2234 Crustáceo#
+2235 Crustáceo#
+2236 Fragmento de Cristal#
+2237 Fragmento de Cristal#
+2238 Espada de Cristal#
+2239 Espada de Cristal#
+2240 Lanza de Cristal#
+2241 Lanza de Cristal#
+2242 Hacha de Cristal#
+2243 Hacha de Cristal#
+2244 Maza de Cristal#
+2245 Maza de Cristal#
+2246 Tomahawk de Bronce#
+2247 Tomahawk de Bronce#
+2248 Daga de Hierro#
+2249 Daga de Hierro#
+2250 Chakram de Acero#
+2251 Chakram de Acero#
+2252 Shuriken de Cristal#
+2253 Shuriken de Cristal#
+2254 Capa Negra#
+2255 Capa Negra#
+2256 Bastón Mágico de Sangre Pétrea#
+2257 Bastón Mágico#
+2258 Bastón Mágico de Ensangrentar#
+2259 Bastón Mágico#
+2260 Bastón Mágico de Invocar Esqueleto#
+2261 Bastón Mágico#
+2262 Tapaojos de Enfoque#
+2263 Tapaojos#
+2264 Tapaojos de Telepatía#
+2265 Tapaojos#
+2266 Grimorio de Invocar Esqueleto#
+2267 Grimorio#
+2268 Grimorio de Sangre Pétrea#
+2269 Grimorio#
+2270 Grimorio de Ensangrentar#
+2271 Grimorio#
+2272 Grimorio de Reflejar Magia#
+2273 Grimorio#
+2274 Grimorio Rocío Ácido#
+2275 Grimorio#
+2276 Grimorio de Robar Arma#
+2277 Grimorio#
+2278 Grimorio de Drenar Alma#
+2279 Grimorio#
+2280 Grimorio de Aura Vampírica#
+2281 Grimorio#
+2282 Grimorio de Encantar Monstruo#
+2283 Grimorio#
+2284 Botella Vacía#
+2285 Botella Vacía#
+2286 Orbe Místico Azul#
+2287 Orbe Místico Azul#
+2288 Orbe Místico Rojo#
+2289 Orbe Místico Rojo#
+2290 Orbe Místico Púrpura#
+2291 Orbe Místico Púrpura#
+2292 Orbe Místico Verde#
+2293 Orbe Místico Verde##
+2294 Túnica#
+2295 Túnica#
+2296 Fez#
+2297 Fez#
+2298 Bastón Mágico de Encantar Monstuo#
+2299 Bastón Mágico#
+2300 Poción de Polimorfismo#
+2301 Poción#
+2302 Frasco de Sangre#
+2303 Poción#
+2304 Mochila#
+2305 Mochila#
+2306 Alambique#
+2307 Alambique#
+2308 Poción de Tormenta de Fuego#
+2309 Poción Inestable#
+2310 Poción de Tormenta de Hielo#
+2311 Poción Inestable#
+2312 Poción de Tempestad#
+2313 Poción Inestable#
+2314 Poción de Fuerza#
+2315 Poción#
+2316 Botas de Gamuza#
+2317 Botas de Gamuza#
+2318 Guantes de Gamuza#
+2319 Guantes de Gamuza#
+2320 Capa de Plata#
+2321 Capa de Plata#
+2322 Capucha de Plata#
+2323 Capucha de Plata#
+2324 Capucha Roja#
+2325 Capucha Roja#
+2326 Jubón de Plata#
+2327 Jubón de Plata#
+2328 Grimorio de Revertir Forma#
+2329 Grimorio#
+2330 Grimorio de Forma de Rata#
+2331 Grimorio#
+2332 Grimorio de Forma Arácnida#
+2333 Grimorio#
+2334 Grimorio de Forma de Troll#
+2335 Grimorio#
+2336 Grimorio de Forma de Diablillo#
+2337 Grimorio#
+2338 Grimorio de Enmarañar#
+2339 Grimorio#
+2340 Grimorio de Veneno#
+2341 Grimorio#
+2342 Grimorio de Velocidad#
+2343 Grimorio#
+2344 Grimorio de Miedo#
+2345 Grimorio#
+2346 Grimorio de Impacto Poderoso#
+2347 Grimorio#
+2348 Grimorio de Detectar Comida#
+2349 Grimorio#
 
 #Additiónal ingame text.
 2350 Un fragmento se separa de tu %s.#
@@ -4796,7 +4796,7 @@ Destreza y movimiento incrementados#
 3499 %s se tropieza con tu %s!#
 
 # new new items (3500-3599)
-3500 Grimorio de debilidad#
+3500 Grimorio de Debilidad#
 3501 Grimorio#
 3502 Máscara de Shamán#
 3503 Máscara de Shamán#
@@ -4812,78 +4812,78 @@ Destreza y movimiento incrementados#
 3513 Grimorio#
 3514 Grimorio de Reciclaje#
 3515 Grimorio#
-3516 látigo#
-3517 látigo#
-3518 grimorio de aleteo#
-3519 grimorio#
-3520 grimorio de carrera#
-3521 grimorio#
-3522 grimorio de polimorfismo#
-3523 grimorio#
-3524 grimorio de 9#
-3525 grimorio#
-3526 grimorio de 10#
-3527 grimorio#
-3528 bastón mágico de veneno#
-3529 bastón mágico#
-3530 chatarra metálica#
-3531 chatarra#
-3532 chatarra mágica#
-3533 chatarra#
-3534 kit de fabricación#
-3535 kit fabricación#
-3536 centinela robótico#
-3537 centinela robótico#
-3538 detonador#
-3539 detonador#
-3540 trampa de fuego#
-3541 trampa#
-3542 trampa de dormir#
-3543 trampa#
-3544 trampa de congelamiento#
-3545 trampa#
-3546 trampa de teletransporte#
-3547 trampa#
-3548 girobot#
-3549 girobot#
-3550 centinela mágico#
-3551 centinela mágico#
-3552 dispositivo de disturbios#
-3553 dispositivo de disturbios#
-3554 maniquí#
-3555 maniquí#
-3556 delantal de cuero#
-3557 delantal#
-3558 pluma encantada#
-3559 pluma#
-3560 capucha de verdugo#
-3561 capucha#
-3562 pergamino de recarga#
-3563 pergamino#
-3564 carcaj de flechas de plata#
-3565 carcaj#
-3566 carcaj de flechas perforantes#
-3567 carcaj#
-3568 carcaj de flechas veloces#
-3569 carcaj#
-3570 carcaj de flechas incendiarias#
-3571 carcaj#
-3572 carcaj de flechas de empuje#
-3573 carcaj#
-3574 carcaj de flechas cristalinas#
-3575 carcaj#
-3576 carcaj de flechas de cacería#
-3577 carcaj#
-3578 arco largo#
-3579 arco largo#
-3580 arco compuesto#
-3581 arco compuesto#
-3582 arbalesta#
-3583 arbalesta#
-3584 bumerang#
-3585 bumerang#
-3586 pergamino de invocar flechas#
-3587 pergamino#
+3516 Látigo#
+3517 Látigo#
+3518 Grimorio de Aleteo#
+3519 Grimorio#
+3520 Grimorio de Carrera#
+3521 Grimorio#
+3522 Grimorio de Polimorfismo#
+3523 Grimorio#
+3524 Grimorio de 9#
+3525 Grimorio#
+3526 Grimorio de 10#
+3527 Grimorio#
+3528 Bastón Mágico de Veneno#
+3529 Bastón Mágico#
+3530 Chatarra Metálica#
+3531 Chatarra#
+3532 Chatarra Mágica#
+3533 Chatarra#
+3534 Kit de Fabricación#
+3535 Kit Fabricación#
+3536 Centinela Robótico#
+3537 Centinela Robótico#
+3538 Detonador#
+3539 Detonador#
+3540 Trampa de Fuego#
+3541 Trampa#
+3542 Trampa de Dormir#
+3543 Trampa#
+3544 Trampa de Congelamiento#
+3545 Trampa#
+3546 Trampa de Teletransporte#
+3547 Trampa#
+3548 Girobot#
+3549 Girobot#
+3550 Centinela mágico#
+3551 Centinela Mágico#
+3552 Crea-ruido#
+3553 Crea-ruido#
+3554 Maniquí#
+3555 Maniquí#
+3556 Delantal de Cuero#
+3557 Delantal#
+3558 Pluma Encantada#
+3559 Pluma#
+3560 Capucha de Verdugo#
+3561 Capucha#
+3562 Pergamino de Recarga#
+3563 Pergamino#
+3564 Carcaj de Flechas de Plata#
+3565 Carcaj#
+3566 Carcaj de Flechas Perforantes#
+3567 Carcaj#
+3568 Carcaj de Flechas Veloces#
+3569 Carcaj#
+3570 Carcaj de Flechas Incendiarias#
+3571 Carcaj#
+3572 Carcaj de Flechas de Empuje#
+3573 Carcaj#
+3574 Carcaj de Flechas Cristalinas#
+3575 Carcaj#
+3576 Carcaj de Flechas de Cacería#
+3577 Carcaj#
+3578 Arco Largo#
+3579 Arco Largo#
+3580 Arco Compuesto#
+3581 Arco Compuesto#
+3582 Arbalesta#
+3583 Arbalesta#
+3584 Bumerang#
+3585 Bumerang#
+3586 Pergamino de Invocar Flechas#
+3587 Pergamino#
 
 3600 Tu desarmas al %s.#
 3601 %s sale volando!#
@@ -4958,7 +4958,7 @@ objetos:#
 3668 Construido %s!#
 3669 No puedes recilcar objetos equipados!#
 3670 Fabricar#
-3671 Tu girobot detecta pisadas acercándose al dispositivo de disturbios!#
+3671 Tu girobot detecta pisadas acercándose al crea-ruido!#
 3672 No posees los requisitos de Fabricar y Percepción
  para esta opción. (Req: %s, Actual: %s)#
 3673 Tu %s debe ser más avanzado para usar este comando.#
@@ -5062,8 +5062,8 @@ para reparar#
 Levitación de corto plazo#
 3767 Tus alas elevan tus pies sobre el suelo!#
 3768 EN#
-3769 Necesitas darle cuerda al dispositivo de disturbios!#
-3770 Tu dispositivo de disturbios se rompe!#
+3769 Necesitas darle cuerda al crea-ruido!#
+3770 Tu crea-ruido se rompe!#
 
 3771 Llegas a las afueras de las Minas de Hamlet y observas una oscura maldición disipándose de la tierra.
 La cálida luz del sol fluye sobre el campo. Conforme las puertas de la mina se abren, las personas
