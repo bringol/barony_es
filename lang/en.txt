@@ -2526,6 +2526,7 @@ mazmorra piso %d, cliente (jugador %d) (dirección ip), %s#
 1707 Pergamino de Invocación#
 1708 Pergamino#
 1709 Bastón de Luz#
+1709 Bastón de Luz#
 1710 Bastón#
 1711 Bastón de Excavación#
 1712 Bastón#
