@@ -1526,7 +1526,7 @@ comerte... para la cena."#
 1007 Una copia de: "%s" #
 1008 [Total: %d|Bonus: %+2d|Tipo: Roto] #
 1009 [Total: %d|Bonus: %+2d|Tipo: Decrépito] #
-1010 [Total: %d|Bonus: %+2d|Tipo: Usado]: #
+1010 [Total: %d|Bonus: %+2d|Tipo: Usado] #
 1011 [Total: %d|Bonus: %+2d|Tipo: Útil] #
 1012 [Total: %d|Bonus: %+2d|Tipo: Excelente] #
 1013 [Total: %d|Bonus: %+2d|Tipo: Destruido] #
@@ -1768,7 +1768,7 @@ Sé creativo. Todo objeto tiene uso.#
 # more random text
 
 1160 Te empuja.#
-1161 Evaluar#
+1161 Tasar#
 1162 Soltar#
 1300 Desactivas el cepo.#
 1301 Interrumpes la canalización!#
@@ -2361,173 +2361,173 @@ mazmorra piso %d, cliente (jugador %d) (dirección ip), %s#
 
 # item names
 
-1545 escudo de madera#
-1546 escudo de madera#
-1547 bastón#
-1548 bastón#
-1549 espada de bronce#
-1550 espada de bronce#
-1551 maza de bronce#
-1552 maza de bronce#
-1553 hacha de bronce#
-1554 hacha de bronce#
-1555 escudo de bronce#
-1556 escudo de bronce#
-1557 honda#
-1558 honda#
-1559 lanza de hierro#
-1560 lanza de hierro#
-1561 espada de hierro#
-1562 espada de hierro#
-1563 maza de hierro#
-1564 maza de hierro#
-1565 hacha de hierro#
-1566 hacha de hierro#
-1567 escudo de hierro#
-1568 escudo de hierro#
-1569 arco corto#
-1570 arco corto#
-1571 alabarda de acero#
-1572 alabarda de acero#
-1573 espada de acero#
-1574 espada de acero#
-1575 maza de acero#
-1576 maza de acero#
-1577 hacha de acero#
-1578 hacha de acero#
-1579 escudo de acero#
-1580 escudo de acero#
-1581 escudo de acero de resistencia mágica#
-1582 escudo de acero#
-1583 ballesta#
-1584 ballesta#
-1585 guantes de cuero#
-1586 guantes#
-1587 guantes de cuero de destreza#
-1588 guantes#
-1589 brazaletes de hierro#
-1590 brazaletes#
-1591 brazaletes de hierro de constitución#
-1592 brazaletes#
-1593 guanteletes de acero#
-1594 guanteletes#
-1595 guanteletes de acero de fuerza#
-1596 guanteletes#
-1597 capa#
-1598 capa#
-1599 capa de reflejo mágico#
-1600 capa#
-1601 capa de invisibilidad#
-1602 capa#
-1603 capa de protección#
-1604 capa#
-1605 botas de cuero#
-1606 botas de cuero#
-1607 botas de cuero de velocidad#
-1608 botas de cuero#
-1609 botas de hierro#
-1610 botas de hierro#
-1611 botas de hierro para caminar sobre el agua#
-1612 botas de hierro#
-1613 botas de acero#
-1614 botas de acero#
-1615 botas de acero de levitación#
-1616 botas de acero#
-1617 botas de acero de plumas#
-1618 botas de acero#
-1619 pechera de cuero#
-1620 pechera de cuero#
-1621 pechera de hierro#
-1622 pechera de hierro#
-1623 pechera de acero#
-1624 pechera de acero#
-1625 gorro de gnomo#
-1626 gorro de gnomo#
-1627 capucha#
-1628 capucha#
-1629 sombrero de mago#
-1630 sombrero de mago#
-1631 sombrero de guazón#
-1632 sombrero de guazón#
-1633 yelmo de cuero#
-1634 yelmo de cuero#
-1635 yelmo de hierro#
-1636 yelmo de hierro#
-1637 yelmo de acero#
-1638 yelmo de acero#
-1639 amuleto de cambio de sexo#
-1640 amuleto#
-1641 amuleto de salvar vida#
-1642 amuleto#
-1643 amuleto de natación olímpica#
-1644 amuleto#
-1645 amuleto de reflejar magia#
-1646 amuleto#
-1647 amuleto de estrangulamiento#
-1648 amuleto#
-1649 amuleto de resistencia al veneno#
-1650 amuleto#
-1651 botella de agua#
-1652 poción#
-1653 botella de alcohol#
-1654 poción#
-1655 botella de infusión frutal#
-1656 poción#
-1657 poción de enfermedad#
-1658 poción#
-1659 poción de confusión#
-1660 poción#
-1661 poción de gran curación#
-1662 poción#
-1663 poción de curación#
-1664 poción#
-1665 poción de curar dolencia#
-1666 poción#
-1667 poción de ceguera#
-1668 poción#
-1669 poción de restaurar magia#
-1670 poción#
-1671 poción de invisibilidad#
-1672 poción#
-1673 poción de levitación#
-1674 poción#
-1675 poción de velocidad#
-1676 poción#
-1677 poción de ácido#
-1678 poción#
-1679 poción de parálisis#
-1680 poción#
-1681 correspondencia#
-1682 pergamino sellado#
-1683 pergamino de identificar#
-1684 pergamino#
-1685 pergamino de luz#
-1686 pergamino#
-1687 pergamino en blanco#
-1688 pergamino#
-1689 pergamino de encantamiento de arma#
-1690 pergamino#
-1691 pergamino de encantamiento de armadura#
-1692 pergamino#
-1693 pergamino de romper maldición#
-1694 pergamino#
-1695 pergamino de fuego#
-1696 pergamino#
-1697 pergamino de comida#
-1698 pergamino#
-1699 pergamino de mapeo mágico#
-1700 pergamino#
-1701 pergamino de reparación#
-1702 pergamino#
-1703 pergamino para destruir armadura#
-1704 pergamino#
-1705 pergamino de teletransporte#
-1706 pergamino#
-1707 pergamino de invocación#
-1708 pergamino#
+1545 Escudo de Madera#
+1546 Escudo de Madera#
+1547 Bastón#
+1548 Bastón#
+1549 Espada de Bronce#
+1550 Espada de Bronce#
+1551 Maza de Bronce#
+1552 Maza de Bronce#
+1553 Hacha de Bronce#
+1554 Hacha de Bronce#
+1555 Escudo de Bronce#
+1556 Escudo de Bronce#
+1557 Honda#
+1558 Honda#
+1559 Lanza de Hierro#
+1560 Lanza de Hierro#
+1561 Espada de Hierro#
+1562 Espada de Hierro#
+1563 Maza de Hierro#
+1564 Maza de Hierro#
+1565 Hacha de Hierro#
+1566 Hacha de Hierro#
+1567 Escudo de Hierro#
+1568 Escudo de Hierro#
+1569 Arco Corto#
+1570 Arco Corto#
+1571 Alabarda de Acero#
+1572 Alabarda de Acero#
+1573 Espada de Acero#
+1574 Espada de Acero#
+1575 Maza de Acero#
+1576 Maza de Acero#
+1577 Hacha de Acero#
+1578 Hacha de Acero#
+1579 Escudo de Acero#
+1580 Escudo de Acero#
+1581 Escudo de Acero de Resistencia Mágica#
+1582 Escudo de Acero#
+1583 Ballesta#
+1584 Ballesta#
+1585 Guantes de Cuero#
+1586 Guantes#
+1587 Guantes de Cuero de Destreza#
+1588 Guantes#
+1589 Brazaletes de Hierro#
+1590 Brazaletes#
+1591 Brazaletes de Hierro de Constitución#
+1592 Brazaletes#
+1593 Guanteletes de Acero#
+1594 Guanteletes#
+1595 Guanteletes de Acero de Fuerza#
+1596 Guanteletes#
+1597 Capa#
+1598 Capa#
+1599 Capa de Reflejo Mágico#
+1600 Capa#
+1601 Capa de Invisibilidad#
+1602 Capa#
+1603 Capa de Protección#
+1604 Capa#
+1605 Botas de Cuero#
+1606 Botas de Cuero#
+1607 Botas de Cuero de Velocidad#
+1608 Botas de Cuero#
+1609 Botas de Hierro#
+1610 Botas de Hierro#
+1611 Botas de Hierro de Caminar Sobre Agua#
+1612 Botas de Hierro#
+1613 Botas de Acero#
+1614 Botas de Acero#
+1615 Botas de Acero de Levitación#
+1616 Botas de Acero#
+1617 Botas de acero de plumas#
+1618 Botas de acero#
+1619 Pechera de cuero#
+1620 Pechera de cuero#
+1621 Pechera de hierro#
+1622 Pechera de hierro#
+1623 Pechera de acero#
+1624 Pechera de acero#
+1625 Gorro de gnomo#
+1626 Gorro de gnomo#
+1627 Capucha#
+1628 Capucha#
+1629 Sombrero de mago#
+1630 Sombrero de mago#
+1631 Sombrero de guazón#
+1632 Sombrero de guazón#
+1633 Yelmo de cuero#
+1634 Yelmo de cuero#
+1635 Yelmo de hierro#
+1636 Yelmo de hierro#
+1637 Yelmo de acero#
+1638 Yelmo de acero#
+1639 Amuleto de cambio de sexo#
+1640 Amuleto#
+1641 Amuleto de salvar vida#
+1642 Amuleto#
+1643 Amuleto de nado olímpico#
+1644 Amuleto#
+1645 Amuleto de reflejar magia#
+1646 Amuleto#
+1647 Amuleto de estrangulamiento#
+1648 Amuleto#
+1649 Amuleto de resistencia al veneno#
+1650 Amuleto#
+1651 Botella de agua#
+1652 Poción#
+1653 Botella de alcohol#
+1654 Poción#
+1655 Botella de infusión frutal#
+1656 Poción#
+1657 Poción de enfermedad#
+1658 Poción#
+1659 Poción de confusión#
+1660 Poción#
+1661 Poción de gran curación#
+1662 Poción#
+1663 Poción de curación#
+1664 Poción#
+1665 Poción de curar dolencia#
+1666 Poción#
+1667 Poción de ceguera#
+1668 Poción#
+1669 Poción de restaurar magia#
+1670 Poción#
+1671 Poción de invisibilidad#
+1672 Poción#
+1673 Poción de levitación#
+1674 Poción#
+1675 Poción de velocidad#
+1676 Poción#
+1677 Poción de ácido#
+1678 Poción#
+1679 Poción de parálisis#
+1680 Poción#
+1681 Correspondencia#
+1682 Pergamino sellado#
+1683 Pergamino de identificar#
+1684 Pergamino#
+1685 Pergamino de luz#
+1686 Pergamino#
+1687 Pergamino en blanco#
+1688 Pergamino#
+1689 Pergamino de encantamiento de arma#
+1690 Pergamino#
+1691 Pergamino de encantamiento de armadura#
+1692 Pergamino#
+1693 Pergamino de romper maldición#
+1694 Pergamino#
+1695 Pergamino de fuego#
+1696 Pergamino#
+1697 Pergamino de comida#
+1698 Pergamino#
+1699 Pergamino de mapeo mágico#
+1700 Pergamino#
+1701 Pergamino de reparación#
+1702 Pergamino#
+1703 Pergamino para destruir armadura#
+1704 Pergamino#
+1705 Pergamino de teletransporte#
+1706 Pergamino#
+1707 Pergamino de invocación#
+1708 Pergamino#
 1709 bastón de luz#
-1710 bastón#
-1711 bastón de excavación#
+1710 Bastón#
+1711 Bastón de excavación#
 1712 bastón#
 1713 bastón de cerradura arcana#
 1714 bastón#
@@ -2819,7 +2819,7 @@ se encontrarán dentro de las habitaciones que están planeadas para contenerlas
 1996 Haga clic para desvincular. Haga clic en una acción sin vincular para asignar una tecla..#
 
 
-1997 auto evaluar objetos#
+1997 auto tasar objetos#
 1998 protección contra clic derecho#
 
 # START DLC
@@ -3772,7 +3772,7 @@ NOTA: Activar esto deshabilitará los logros en el archivo guardado! #
 2965 ADVERTENCIA: ¡CONTINUAR SOBRESCRIBIRÁ EL ARCHIVO DEL MODO SOLITARIO MÁS ANTIGUO!#
 2966 ADVERTENCIA: ¡CONTINUAR SOBRESCRIBIRÁ EL ARCHIVO DEL MODO MULTIJUGADOR MÁS ANTIGUO!#
 2967 La luz parpadea#
-2968 presione [%s] para soltar oro#
+2968 Presiona [%s] para soltar oro#
 2969 ¡Los dioses de Sokoban recompensan enormemente tus habilidades!#
 2970 Los dioses de Sokoban estuvieron ligeramente entretenidos.#
 2971 Los dioses de Sokoban estuvieron menos que impresionados.#
@@ -4796,22 +4796,22 @@ Destreza y movimiento incrementados#
 3499 %s se tropieza con tu %s!#
 
 # new new items (3500-3599)
-3500 grimorio de debilidad#
-3501 grimorio#
-3502 máscara de shamán#
-3503 máscara de shamán#
-3504 grimorio de amplificar magia#
-3505 grimorio#
-3506 grimorio de marca arcana#
-3507 grimorio#
-3508 grimorio de teletransporte ajeno#
-3509 grimorio#
-3510 grimorio de demonio interno#
-3511 grimorio#
-3512 grimorio de sangre de troll#
-3513 grimorio#
-3514 grimorio de reciclaje#
-3515 grimorio#
+3500 Grimorio de debilidad#
+3501 Grimorio#
+3502 Máscara de Shamán#
+3503 Máscara de Shamán#
+3504 Grimorio de Amplificar Magia#
+3505 Grimorio#
+3506 Grimorio de Marca Arcana#
+3507 Grimorio#
+3508 Grimorio de Teletransporte Ajeno#
+3509 Grimorio#
+3510 Grimorio de Demonio Interno#
+3511 Grimorio#
+3512 Grimorio de Sangre de Troll#
+3513 Grimorio#
+3514 Grimorio de Reciclaje#
+3515 Grimorio#
 3516 látigo#
 3517 látigo#
 3518 grimorio de aleteo#
@@ -4860,7 +4860,7 @@ Destreza y movimiento incrementados#
 3561 capucha#
 3562 pergamino de recarga#
 3563 pergamino#
-3564 carcaj de flechas de platas#
+3564 carcaj de flechas de plata#
 3565 carcaj#
 3566 carcaj de flechas perforantes#
 3567 carcaj#
@@ -4905,17 +4905,17 @@ Destreza y movimiento incrementados#
 3617 Tu %s destruye %s!#
 3618 Tu %s impacta el %s!#
 3619 Luz:#
-3620 [Apagar]#
-3621 [Fintar]#
-3622 [Brillo]#
+3620 [Apagada]#
+3621 [Tenue]#
+3622 [Brillante]#
 3623 Detectar:#
-3624 [Ninguna]#
+3624 [Nada]#
 3625 [Metal]#
 3626 [Magia]#
-3627 [Trampas]#
+3627 [Trampa]#
 3628 [Salida]#
-3629 [Monstruos]#
-3630 [Valiosos]#
+3629 [Monstruo]#
+3630 [Tesoro]#
 3631 retorna al suelo.#
 3632 Recorrer#
 3633 dejar#
@@ -4961,7 +4961,7 @@ objetos:#
 3671 Tu girobot detecta pisadas acercándose al dispositivo de disturbios!#
 3672 No posees los requisitos de Fabricar y Percepción
  para esta opción. (Req: %s, Actual: %s)#
-3673 Tu %s debe ser más alto para usar este comando.#
+3673 Tu %s debe ser más avanzado para usar este comando.#
 3674 Objetivo de espera#
 3675 Observación#
 3676 El %s bloquea su rotor.#
@@ -5075,8 +5075,7 @@ cuidadosamente se esparcen por las calles, adaptándose a la libertad.#
 
 
 Corres hacia edificios cercanos, buscando un lugar para esconderte y planear el próximo movimiento.
-Hay demasiados humanos y la luz de sol es demasiado
-brillante para tu gusto.#
+Hay demasiados humanos y la luz de sol es demasiado brillante para tu gusto.#
 3773 
 
 
