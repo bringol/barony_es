@@ -447,11 +447,11 @@ los objetos antes de usarlos.#
 
 # Left-click (entity spotting) messages
 
-253 Ves un %s llamado %s.#
-254 Ves un %s.#
+253 Ves un/a %s llamado/a %s.#
+254 Ves un/a %s.#
 255 Ves una antorcha colgada en la pared.#
 256 Ves una puerta.#
-257 Ves un %s.#
+257 Ves un/a %s.#
 258 Ves una pieza de oro.#
 259 Ves %d piezas de oro.#
 260 Ves una hoguera.#
@@ -516,7 +516,7 @@ los objetos antes de usarlos.#
 
 308 Costo: %d MP#
 309 Sin identificar#
-310 está maldito/a#
+310 maldito/a#
 311 sin maldición#
 312 bendito/a#
 313 (%-5d peso)#
@@ -552,7 +552,7 @@ los objetos antes de usarlos.#
 341 Tasando:%3.0f%%#
 342 Grimorio#
 343 Inventario#
-344 Tienda#
+344 Guardar#
 345 Vender#
 346 Exorcizar objeto#
 347 Este %s
@@ -689,9 +689,9 @@ los objetos antes de usarlos.#
 
 # arrows
 
-446 Disparaste la %s!#
+446 Le has disparado a un/a %s!#
 447 Pero ni se inmuta!#
-448 Disparaste %s!#
+448 Le has disparado a %s!#
 449 Pero ni siquiera se inmuta!#
 450 Pero ni siquiera se inmuta!#
 451 Te alcanza una flecha!#
@@ -729,7 +729,7 @@ los objetos antes de usarlos.#
 
 # Easter egg messages
 
-478 "¡No lo puedo creer! dejemos de joder con que minecraft y sus clones son juegos infantiles para gamers casuales."#
+478 "¡No lo puedo creer! Dejemos de joder con que minecraft y sus clones son juegos infantiles para gamers casuales."#
 479 "icherednoy 'minecraft'"#
 480 "Parece estar hecho en minecraft"#
 481 "Las texturas se ven ilegalmente similares a las de Minecraft."#
@@ -971,7 +971,7 @@ los objetos antes de usarlos.#
 572 Caes a tu muerte...#
 573 Caíste a la lava burbujeante!#
 574 El agua extingue las llamas!#
-575 Te topas con %s. %d/%d HP | %d/%d MP#
+575 Te topas con %s. %d/%d HP - %d/%d MP#
 576 %s se topa contigo.#
 577 Mueres...#
 578
@@ -990,7 +990,7 @@ Deberías llamar a un fontanero!#
 585 Escuchas la tubería hacer ruidos raros.
  El grifo se rompe!#
 586 Te tropiezas con una trampa de púas!#
-588 Te golpea una %s voladora!#
+588 Te golpea un/a %s voladora!#
 589 Tomas la antorcha de la pared.#
 
 # entity messages
@@ -1012,7 +1012,7 @@ Deberías llamar a un fontanero!#
 604 Vuelves a tu velocidad normal.#
 605 Puedes volver a moverte.#
 606 Fallaste al mantener el hechizo (levitación).#
-607 Vuelves a tocar el suelo otra vez.#
+607 Vuelves a tocar el suelo.#
 608 Se acallan las voces de tu cabeza.#
 609 Tu estómago se asienta.#
 610 Pero aún no te sientes muy bien.#
@@ -1486,122 +1486,122 @@ comerte... para la cena."#
 
 # colores de pociones
 
-974 azul#
-975 amarillo#
-976 marrón#
-977 naranja#
-978 rojo#
-979 verde#
-980 púrpura#
-981 blanco#
+974 Azul#
+975 Amarillo#
+976 Marrón#
+977 Naranja#
+978 Rojo#
+979 Verde#
+980 Púrpura#
+981 Blanco#
 
 
-# item quality strings| %2d es un valor de encantam +0,+1,+2,etc | %d es la cantidad apilada (3 pociones de...)
+# item quality strings- %2d es un valor de encantam +0,+1,+2,etc - %d es la cantidad apilada (3 pociones de...)
 
-982 [Bonus: %+2d|Tipo: Roto] #
-983 [Bonus: %+2d|Tipo: Decrépito] #
-984 [Bonus: %+2d|Tipo: Usado] #
-985 [Bonus: %+2d|Tipo: Útil] #
-986 [Bonus: %+2d|Tipo: Excelente] #
-987 [Bonus: %+2d|Tipo: Destruido] #
-988 [Bonus: %+2d|Tipo: Agrietado] #
-989 [Bonus: %+2d|Tipo: Áspero] #
-990 [Bonus: %+2d|Tipo: Imperfecto] #
-991 [Bonus: %+2d|Tipo: Perfecto] #
-992 [Color: %s|Bonus: %+2d|Tipo: Gasificado] #
-993 [Color: %s|Bonus: %+2d|Tipo: Nebulizado] #
-994 [Color: %s|Bonus: %+2d|Tipo: Fluido] #
-995 [Color: %s|Bonus: %+2d|Tipo: Básico] #
-996 [Color: %s|Bonus: %+2d|Tipo: Burbujeante] #
-997 [Bonus: %+2d|Tipo: Destrozado] #
-998 [Bonus: %+2d|Tipo: Desgarrado] #
-999 [Bonus: %+2d|Tipo: Descolorido] #
-1000 [Bonus: %+2d|Tipo: Marcado] #
-1001 [Bonus: %+2d|Tipo: Nuevo] #
-1002 [Bonus: %+2d|Tipo: Podrido] #
-1003 [Bonus: %+2d|Tipo: Mohoso] #
-1004 [Bonus: %+2d|Tipo: Pasado] #
-1005 [Bonus: %+2d|Tipo: Fermentado] #
-1006 [Bonus: %+2d|Tipo: Fresco] #
+982 [%+2d-Roto/a] #
+983 [%+2d-Decrépito/a] #
+984 [%+2d-Usado/a] #
+985 [%+2d-Útil] #
+986 [%+2d-Excelente] #
+987 [%+2d-Destruido/a] #
+988 [%+2d-Agrietado/a] #
+989 [%+2d-Áspero/a] #
+990 [%+2d-Imperfecto/a] #
+991 [%+2d-Perfecto/a] #
+992 [%s-%+2d-Gasificado/a] #
+993 [%s-%+2d-Nebulizado/a] #
+994 [%s-%+2d-Fluido/a] #
+995 [%s-%+2d-Básico/a] #
+996 [%s-%+2d-Burbujeante] #
+997 [%+2d-Destrozado/a] #
+998 [%+2d-Desgarrado/a] #
+999 [%+2d-Descolorido/a] #
+1000 [%+2d-Marcado/a] #
+1001 [%+2d-Nuevo/a] #
+1002 [%+2d-Podrido/a] #
+1003 [%+2d-Mohoso/a] #
+1004 [%+2d-Pasado/a] #
+1005 [%+2d-Fermentado/a] #
+1006 [%+2d-Fresco/a] #
 1007 Una copia de: "%s" #
-1008 [Total: %d|Bonus: %+2d|Tipo: Roto] #
-1009 [Total: %d|Bonus: %+2d|Tipo: Decrépito] #
-1010 [Total: %d|Bonus: %+2d|Tipo: Usado] #
-1011 [Total: %d|Bonus: %+2d|Tipo: Útil] #
-1012 [Total: %d|Bonus: %+2d|Tipo: Excelente] #
-1013 [Total: %d|Bonus: %+2d|Tipo: Destruido] #
-1014 [Total: %d|Bonus: %+2d|Tipo: Agrietado] #
-1015 [Total: %d|Bonus: %+2d|Tipo: Áspero] # 
-1016 [Total: %d|Bonus: %+2d|Tipo: Imperfecto] #
-1017 [Total: %d|Bonus: %+2d|Tipo: Decrépito] #
-1018 [Total: %d|Color: %s|Bonus: %+2d|Tipo: Gasificado] #
-1019 [Total: %d|Color: %s|Bonus: %+2d|Tipo: Nebulizado] #
-1020 [Total: %d|Color: %s|Bonus: %+2d|Tipo: Fluido] #
-1021 [Total: %d|Color: %s|Bonus: %+2d|Tipo: Básico] #
-1022 [Total: %d|Color: %s|Bonus: %+2d|Tipo: Burbujeante] #
-1023 [Total: %d|Bonus: %+2d|Tipo: Destrozado] #
-1024 [Total: %d|Bonus: %+2d|Tipo: Desgarrado] #
-1025 [Total: %d|Bonus: %+2d|Tipo: Descolorido] #
-1026 [Total: %d|Bonus: %+2d|Tipo: Marcado] #
-1027 [Total: %d|Bonus: %+2d|Tipo: Nuevo] #
-1028 [Total: %d|Bonus: %+2d|Tipo: Podrido] #
-1029 [Total: %d|Bonus: %+2d|Tipo: Mohoso] #
-1030 [Total: %d|Bonus: %+2d|Tipo: Pasado] #
-1031 [Total: %d|Bonus: %+2d|Tipo: Fermentado] #
-1032 [Total: %d|Bonus: %+2d|Tipo: Fresco] #
+1008 [%d-%+2d-Roto/a] #
+1009 [%d-%+2d-Decrépito/a] #
+1010 [%d-%+2d-Usado/a] #
+1011 [%d-%+2d-Útil] #
+1012 [%d-%+2d-Excelente] #
+1013 [%d-%+2d-Destruido/a] #
+1014 [%d-%+2d-Agrietado/a] #
+1015 [%d-%+2d-Áspero/a] # 
+1016 [%d-%+2d-Imperfecto/a] #
+1017 [%d-%+2d-Decrépito/a] #
+1018 [%d-%s-%+2d-Gasificado/a] #
+1019 [%d-%s-%+2d-Nebulizado/a] #
+1020 [%d-%s-%+2d-Fluido/a] #
+1021 [%d-%s-%+2d-Básico/a] #
+1022 [%d-%s-%+2d-Burbujeante] #
+1023 [%d-%+2d-Destrozado/a] #
+1024 [%d-%+2d-Desgarrado/a] #
+1025 [%d-%+2d-Descolorido/a] #
+1026 [%d-%+2d-Marcado/a] #
+1027 [%d-%+2d-Nuevo/a] #
+1028 [%d-%+2d-Podrido/a] #
+1029 [%d-%+2d-Mohoso/a] #
+1030 [%d-%+2d-Pasado/a] #
+1031 [%d-%+2d-Fermentado/a] #
+1032 [%d-%+2d-Fresco/a] #
 1033 %d copias de "%s" #
-1034 [Tipo: Roto] #
-1035 [Tipo: Decrépito] #
-1036 [Tipo: Usado] #
-1037 [Tipo: Seminuevo] #
-1038 [Tipo: Excelente] #
-1039 [Tipo: Destruido] #
-1040 [Tipo: Rayado] #
-1041 [Tipo: Áspero] #
-1042 [Tipo: Imperfecto] #
-1043 [Tipo: Perfecto] #
-1044 [Tipo: Gasificado|Color: %s] #
-1045 [Tipo: Nubloso|Color: %s] #
-1046 [Tipo: Agitado|Color: %s] # 
-1047 [Tipo: Simple|Color: %s] #
-1048 [Tipo: Burbujeante|Color: %s] #
-1049 [Tipo: Destrozado] #
-1050 [Tipo: Partido] # 
-1051 [Tipo: Gastado] #
-1052 [Tipo: Marcado] #
-1053 [Tipo: Nuevo] #
-1054 [Tipo: Podrido] #
-1055 [Tipo: Mohoso] #
-1056 [Tipo: Pasado] #
-1057 [Tipo: Fermentado] # 
-1058 [Tipo: Fresco] # 
-1059 %s etiquetados como: %s #
-1060 [Total: %d|Tipo: Roto] #
-1061 [Total: %d|Tipo: Decrépito] #
-1062 [Total: %d|Tipo: Usado] #
-1063 [Total: %d|Tipo: Útil] #
-1064 [Total: %d|Tipo: Excelente] #
-1065 [Total: %d|Tipo: Destruido] #
-1066 [Total: %d|Tipo: Agrietado] #
-1067 [Total: %d|Tipo: Áspero] #
-1068 [Total: %d|Tipo: Imperfecto] #
-1069 [Total: %d|Tipo: Perfecto] #
-1070 [Total: %d|Color: %s|Tipo: Gasificado] #
-1071 [Total: %d|Color: %s|Tipo: Nebulizado] #
-1072 [Total: %d|Color: %s|Tipo: Fluido] #
-1073 [Total: %d|Color: %s|Tipo: Básico] #
-1074 [Total: %d|Color: %s|Tipo: Burbujeante] #
-1075 [Total: %d|Tipo: Destrozado] #
-1076 [Total: %d|Tipo: Desgarrado] #
-1077 [Total: %d|Tipo: Descolorido] #
-1078 [Total: %d|Tipo: Marcado] #
-1079 [Total: %d|Tipo: Nuevo] #
-1080 [Total: %d|Tipo: Podrido] #
-1081 [Total: %d|Tipo: Mohoso] #
-1082 [Total: %d|Tipo: Pasado] #
-1083 [Total: %d|Tipo: Fermentado] #
-1084 [Total: %d|Tipo: Fresco] #
-1085 %d %s estiquetado: %s #
+1034 [Roto/a] #
+1035 [Decrépito/a] #
+1036 [Usado/a] #
+1037 [Seminuevo/a] #
+1038 [Excelente] #
+1039 [Destruido/a] #
+1040 [Rayado/a] #
+1041 [Áspero/a] #
+1042 [Imperfecto/a] #
+1043 [Perfecto/a] #
+1044 [Gasificado/a-%s] #
+1045 [Nubloso/a-%s] #
+1046 [Agitado/a-%s] # 
+1047 [Simple/a-%s] #
+1048 [Burbujeante-%s] #
+1049 [Destrozado/a] #
+1050 [Partido/a] # 
+1051 [Gastado/a] #
+1052 [Marcado/a] #
+1053 [Nuevo/a] #
+1054 [Podrido/a] #
+1055 [Mohoso/a] #
+1056 [Pasado/a] #
+1057 [Fermentado/a] # 
+1058 [Fresco/a] # 
+1059 %s con etiquetas de %s #
+1060 [%d-Roto/a] #
+1061 [%d-Decrépito/a] #
+1062 [%d-Usado/a] #
+1063 [%d-Útil/a] #
+1064 [%d-Excelente] #
+1065 [%d-Destruido/a] #
+1066 [%d-Agrietado/a] #
+1067 [%d-Áspero/a] #
+1068 [%d-Imperfecto/a] #
+1069 [%d-Perfecto/a] #
+1070 [%d-%s-Gasificado/a] #
+1071 [%d-%s-Nebulizado/a] #
+1072 [%d-%s-Fluido/a] #
+1073 [%d-%s-Básico/a] #
+1074 [%d-%s-Burbujeante] #
+1075 [%d-Destrozado/a] #
+1076 [%d-Desgarrado/a] #
+1077 [%d-Descolorido/a] #
+1078 [%d-Marcado/a] #
+1079 [%d-Nuevo/a] #
+1080 [%d-Podrido/a] #
+1081 [%d-Mohoso/a] #
+1082 [%d-Pasado/a] #
+1083 [%d-Fermentado/a] #
+1084 [%d-Fresco/a] #
+1085 %d %s con etiqueta de %s #
 1086 %d copias de "%s" #
 
 
@@ -1659,7 +1659,7 @@ comerte... para la cena."#
 1122 Empiezas a comerciar con %s.#
 1123 Has comprado %s por %d PO.#
 1124 No puedes vender %s.
- ¡Está maldito!#
+ ¡Está maldito/a!#
 1125 Has vendido %s por %d PO.#
 
 # some window and button text
@@ -1695,7 +1695,7 @@ Pulsa 'Ok' para volver al Menú Principal.#
 #
 1134 Tu equipamiento ha sido identificado.
 #
-1135 Puntuación Total: #
+1135 Puntuación #
 1136 Felicitaciones
 Tú has conseguido clasificar en el ranking.
 
@@ -1716,7 +1716,7 @@ del equipo consigue avanzar hacia el siguiente piso.
 1142 Como el resto del equipo ha fallecido,
 el host deberá crear una nueva partida o
 reiniciar la actual para poder continuar.#
-1143 Puntuación Total: #
+1143 Puntuación #
 1144    Ok   #
 
 
@@ -1921,7 +1921,7 @@ Lista de jugadores:
 1395 El %s.#
 
 1396 Experiencia:    %d/100#
-1397 Oro Total:    %d PO#
+1397 Oro    %d PO#
 1398 FUE: %2d (%2d)#
 1399 DES: %2d (%2d)#
 1400 CON: %2d (%2d)#
@@ -1929,7 +1929,7 @@ Lista de jugadores:
 1402 PER: %2d (%2d)#
 1403 CHR: %2d (%2d)#
 
-1404 Puntuación total: %d#
+1404 Puntuación %d#
 1405 Tiempo#
 1406 Conducta#
 1407 No hay premios#
@@ -2311,7 +2311,7 @@ Conectando a sala de emparejamiento...
 1505 No consigue esquivar el perdrusco.#
 1506 Decide darse un chapuzón en la lava.#
 1507 Se mete en una trampa de púas y muere.#
-1508 Encuentra su muerte a manos de un %s volador.#
+1508 Encuentra su muerte a manos de un/a %s volador.#
 1509 Fue traicionado por su querido %s.#
 1510 Fue traicionado por su querida %s.#
 1511 Es violentamente liquidado por un humano furioso.#
@@ -2343,7 +2343,7 @@ Conectando a sala de emparejamiento...
 
 # some random strings
 
-1536 desactivar mjes desplegables#
+1536 Desactivar mjes desplegables#
 1537 (dirección ip)#
 1538 Crear una partida multijugador sin emparejamiento, por dirección IP directa.#
 1539 Unirse a una partida multijugador sin emparejamiento, por dirección IP directa.#
@@ -2706,7 +2706,7 @@ mazmorra piso %d, cliente (jugador %d) (dirección ip), %s#
 
 # menu subtitles
 
-1910 ¡Updated Logo Edition!#
+1910 Updated Logo Edition!#
 1911 ¡A la grande le puse Cuca!#
 1912 ¡Traducido Por La Comunidad!#
 1913 ¡Prueba Crayon Chronicles!#
@@ -2874,12 +2874,12 @@ se encontrarán dentro de las habitaciones que están planeadas para contenerlas
 2107 picadura#
 2108 contusión#
 2109 impacto#
-2110 golpe#
-2111 golpe#
-2112 golpe#
-2113 golpe#
-2114 golpe#
-2115 golpe#
+2110 golpea#
+2111 golpea#
+2112 golpea#
+2113 golpea#
+2114 golpea#
+2115 golpea#
 
 # additiónal obituary messages (2150-2199)
 2150 se convierte en una víctima de violencia de pandillas.#
@@ -3705,7 +3705,7 @@ a cualquiera que lo busque nuevamente, en las profundidades.. #
 2861 %s Respuesta 1.#
 
 # 2900 - 2949 More effects text:
-2900 Bluh, esta pocioón está maldita!#
+2900 Bluh, esta poción está maldita!#
 2901 Sientes mayor peso encima de ti...#
 2902 Te mueves con mayor lentitud...#
 2903 Hay un sabor a veneno en tu boca.#
@@ -3766,8 +3766,7 @@ NOTA: Activar esto deshabilitará los logros en el archivo guardado! #
 2963  ¿Realmente deseas eliminar tu archivo del modo solitario?
 
 #
-2964  ¿Realmente deseas eliminar tu archivo
-         guardado del modo multijugador?
+2964 ¿Realmente deseas eliminar tu archivo del modo multijugador?
 
 #
 2965 ADVERTENCIA: ¡CONTINUAR SOBRESCRIBIRÁ EL ARCHIVO DEL MODO SOLITARIO MÁS ANTIGUO!#
@@ -3847,7 +3846,7 @@ LISTAS DE MODS IDÉNTICAS CARGADAS!#
     Tu progreso multijugador fue guardado
        al comienzo del piso actual.
     
- NOTA: 
+                   NOTA 
    Esto desconectará a todos los integrantes
      y guardará sus progresos actuales.#
 3022 Opciones de Minimapa#
@@ -4033,7 +4032,7 @@ lización activa.#
 3183 Tu carne arde del dolor mientras haces contacto con el agua!#
 3184 Tus huesos arden del dolor mientras haces contacto con el agua!#
 3185 El polimorfismo se disipa hasta que vuelves a tu forma original.#
-3186 Te transformas en un %s!#
+3186 Te transformas en un/a %s!#
 3187 El %s se transforma en %s!#
 3188 %s se transforma en %s!#
 3189 Pero no sientes diferencia...#
@@ -4339,12 +4338,12 @@ Legendario:
 3298 dormir#
 3299 confusión#
 3300 veneno#
-3301 Tipo: Área#
-3302 Tipo: Sostenido#
-3303 Tipo: Proyectil#
-3304 Tipo: Proyectil corto (x3)#
-3305 Tipo: Auto#
-3306 Tipo: Elegir Punto#
+3301 Área#
+3302 Sostenido#
+3303 Proyectil#
+3304 Proyectil corto (x3)#
+3305 Auto#
+3306 Elegir Punto#
 3307 Restaura %d HP al canalizar 
  en la proximidad de aliados#
 3308 Otorga resistencia mágica mientras se mantenga
@@ -4743,8 +4742,8 @@ Transformado en un criatura
 3447 Marca Arcana#
 3448 Teletransporte Ajeno#
 3449 Demonio Interior#
-3450 Tu magia atrae un %s cercano!#
-3451 Tu magia atrae un %s cercano!#
+3450 Tu magia atrae un/a %s cercano!#
+3451 Tu magia atrae un/a %s cercano!#
 3452 Eres incapaz de teletransportar tu aliado en este lugar.#
 3453 No hay espacio para teletransportar tu objetivo!#
 3454 Tu látigo impacta el arma del %s!#
@@ -4941,21 +4940,21 @@ objetos:#
 3650 Observa...#
 3651 Tu girobot recupera algunos aliados dejados en el camino!#
 3652 Tu Fabricar no es suficientemente alto para contruir %s!#
-3653 roto#
-3654 simple #
-3655 complejo #
-3656 intrincado #
-3657 artesanía #
-3658 %d destrozado #
-3659 %d simple #
-3660 %d complejo #
-3661 %d intrincado #
-3662 %d artesanía #
+3653 Roto#
+3654 Simple #
+3655 Complejo #
+3656 Intrincado #
+3657 Artesanía #
+3658 %d Destrozado #
+3659 %d Simple #
+3660 %d Complejo #
+3661 %d Intrincado #
+3662 %d Artesanía #
 3663 Auto reciclar...#
 3664 Eres incapaz de reciclar %s.#
 3665 %d reciclado  %s.#
 3666 No tienes nada más que aprender sobre reciclaje.#
-3667 No tienes nada más que aprender con construir un %s.#
+3667 No tienes nada más que aprender con construir un/a %s.#
 3668 Construido %s!#
 3669 No puedes recilcar objetos equipados!#
 3670 Fabricar#
@@ -5031,7 +5030,7 @@ para reparar#
 3735 Los demonios de %s ya fueron exorcizados!#
 3736 Los demonios de %s ya fueron exorcizados!#
 3737 Tu comportamiento mejora!#
-3738 una %+2d #
+3738 un/a %+2d #
 3739 Tu flecha incendia %s!#
 3740 Tu flecha incendia %s!#
 3741 Estás en llamas por una flecha incendiaria!#
@@ -5817,7 +5816,7 @@ Clic izquierdo para visualizar en la página de la tienda.#
          El progreso fue guardado
         al inicio del nivel actual.#
 3921 Modo Ranger activado, no se permiten armas cuerpo a cuerpo para atacar!#
-3922 Modo Ranger activado, todas las armas están permitidas.#
+3922 Modo Ranger desactivado, todas las armas están permitidas.#
 3923 Arma deshabilitada en Modo Ranger!#
 3924 La partida guardada no es elegible para el Ranger Archievement. Reiniciar la partida para restablecer.#
 3925 Modo Ranger desactivado para el cliente %d.#
@@ -5943,6 +5942,7 @@ Cambiar esta etiqueta está desactivada en la partida actual.#
         Como el resto de tu grupo ha sucumbido,
   los datos guardados de esta sesión fueron borrados.#
 3990
+3990
             ¿Realmente deseas
            terminar la sesión?
 
@@ -5952,8 +5952,8 @@ Cambiar esta etiqueta está desactivada en la partida actual.#
           ¿Realmente  deseas
          salir al escritorio?
 
-    Guardar en este piso no está permitido,
-     salir borrará el progreso guardado.#
+  Guardar en este piso no está permitido,
+   salir borrará el progreso guardado.#
 3992 https://store.steampowered.com/app/1010820/Barony_Myths__Outcasts/#
 3993 https://store.steampowered.com/app/1010821/Barony_Legends__Pariahs/#
 3994 Búsqueda por Crossplay desactivada#
