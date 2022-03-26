@@ -1189,7 +1189,7 @@ Gracias!#
 746 Cargando Archivos de extremidades ... #
 747 Cargando Objetos ... #
 748 Cargando Música ... #
-749 Cargando Interfaz...#
+749 Cargando Interfaz ...#
 
 
 # mensajes de uso de elementos
@@ -1487,68 +1487,68 @@ comerte... para la cena."#
 # colores de pociones
 
 974 Azul#
-975 Amarillo#
+975 Amarilla#
 976 Marrón#
 977 Naranja#
-978 Rojo#
+978 Roja#
 979 Verde#
 980 Púrpura#
-981 Blanco#
+981 Blanca#
 
 
 # item quality strings- %2d es un valor de encantam +0,+1,+2,etc - %d es la cantidad apilada (3 pociones de...)
 
-982 [%+2d-Roto/a] #
-983 [%+2d-Decrépito/a] #
-984 [%+2d-Usado/a] #
+982 [%+2d|Roto/a] #
+983 [%+2d|Decrépito/a] #
+984 [%+2d|Usado/a] #
 985 [%+2d-Útil] #
-986 [%+2d-Excelente] #
-987 [%+2d-Destruido/a] #
-988 [%+2d-Agrietado/a] #
-989 [%+2d-Áspero/a] #
-990 [%+2d-Imperfecto/a] #
-991 [%+2d-Perfecto/a] #
-992 [%s-%+2d-Gasificado/a] #
-993 [%s-%+2d-Nebulizado/a] #
-994 [%s-%+2d-Fluido/a] #
-995 [%s-%+2d-Básico/a] #
-996 [%s-%+2d-Burbujeante] #
-997 [%+2d-Destrozado/a] #
-998 [%+2d-Desgarrado/a] #
-999 [%+2d-Descolorido/a] #
-1000 [%+2d-Marcado/a] #
-1001 [%+2d-Nuevo/a] #
-1002 [%+2d-Podrido/a] #
-1003 [%+2d-Mohoso/a] #
-1004 [%+2d-Pasado/a] #
-1005 [%+2d-Fermentado/a] #
-1006 [%+2d-Fresco/a] #
+986 [%+2d|Excelente] #
+987 [%+2d|Destruido/a] #
+988 [%+2d|Agrietado/a] #
+989 [%+2d|Áspero/a] #
+990 [%+2d|Imperfecto/a] #
+991 [%+2d|Perfecto/a] #
+992 [%s|%+2d|Gasificado/a] #
+993 [%s|%+2d|Nebulizado/a] #
+994 [%s|%+2d|Fluido/a] #
+995 [%s|%+2d|Básico/a] #
+996 [%s|%+2d|Burbujeante] #
+997 [%+2d|Destrozado/a] #
+998 [%+2d|Desgarrado/a] #
+999 [%+2d|Descolorido/a] #
+1000 [%+2d|Marcado/a] #
+1001 [%+2d|Nuevo/a] #
+1002 [%+2d|Podrido/a] #
+1003 [%+2d|Mohoso/a] #
+1004 [%+2d|Pasado/a] #
+1005 [%+2d|Fermentado/a] #
+1006 [%+2d|Fresco/a] #
 1007 Una copia de: "%s" #
-1008 [%d-%+2d-Roto/a] #
-1009 [%d-%+2d-Decrépito/a] #
-1010 [%d-%+2d-Usado/a] #
-1011 [%d-%+2d-Útil] #
-1012 [%d-%+2d-Excelente] #
-1013 [%d-%+2d-Destruido/a] #
-1014 [%d-%+2d-Agrietado/a] #
-1015 [%d-%+2d-Áspero/a] # 
-1016 [%d-%+2d-Imperfecto/a] #
-1017 [%d-%+2d-Decrépito/a] #
-1018 [%d-%s-%+2d-Gasificado/a] #
-1019 [%d-%s-%+2d-Nebulizado/a] #
-1020 [%d-%s-%+2d-Fluido/a] #
-1021 [%d-%s-%+2d-Básico/a] #
-1022 [%d-%s-%+2d-Burbujeante] #
-1023 [%d-%+2d-Destrozado/a] #
-1024 [%d-%+2d-Desgarrado/a] #
-1025 [%d-%+2d-Descolorido/a] #
-1026 [%d-%+2d-Marcado/a] #
-1027 [%d-%+2d-Nuevo/a] #
-1028 [%d-%+2d-Podrido/a] #
-1029 [%d-%+2d-Mohoso/a] #
-1030 [%d-%+2d-Pasado/a] #
-1031 [%d-%+2d-Fermentado/a] #
-1032 [%d-%+2d-Fresco/a] #
+1008 [%d|%+2d|Roto/a] #
+1009 [%d|%+2d|Decrépito/a] #
+1010 [%d|%+2d|Usado/a] #
+1011 [%d|%+2d|Útil] #
+1012 [%d|%+2d|Excelente] #
+1013 [%d|%+2d|Destruido/a] #
+1014 [%d|%+2d|Agrietado/a] #
+1015 [%d|%+2d|Áspero/a] # 
+1016 [%d|%+2d|Imperfecto/a] #
+1017 [%d|%+2d|Decrépito/a] #
+1018 [%d|%s|%+2d|Gasificado/a] #
+1019 [%d|%s|%+2d|Nebulizado/a] #
+1020 [%d|%s|%+2d|Fluido/a] #
+1021 [%d|%s|%+2d|Básico/a] #
+1022 [%d|%s|%+2d|Burbujeante] #
+1023 [%d|%+2d|Destrozado/a] #
+1024 [%d|%+2d|Desgarrado/a] #
+1025 [%d|%+2d|Descolorido/a] #
+1026 [%d|%+2d|Marcado/a] #
+1027 [%d|%+2d|Nuevo/a] #
+1028 [%d|%+2d|Podrido/a] #
+1029 [%d|%+2d|Mohoso/a] #
+1030 [%d|%+2d|Pasado/a] #
+1031 [%d|%+2d|Fermentado/a] #
+1032 [%d|%+2d|Fresco/a] #
 1033 %d copias de "%s" #
 1034 [Roto/a] #
 1035 [Decrépito/a] #
@@ -1576,31 +1576,31 @@ comerte... para la cena."#
 1057 [Fermentado/a] # 
 1058 [Fresco/a] # 
 1059 %s con etiquetas de %s #
-1060 [%d-Roto/a] #
-1061 [%d-Decrépito/a] #
-1062 [%d-Usado/a] #
-1063 [%d-Útil/a] #
-1064 [%d-Excelente] #
-1065 [%d-Destruido/a] #
-1066 [%d-Agrietado/a] #
-1067 [%d-Áspero/a] #
-1068 [%d-Imperfecto/a] #
-1069 [%d-Perfecto/a] #
-1070 [%d-%s-Gasificado/a] #
-1071 [%d-%s-Nebulizado/a] #
-1072 [%d-%s-Fluido/a] #
-1073 [%d-%s-Básico/a] #
-1074 [%d-%s-Burbujeante] #
-1075 [%d-Destrozado/a] #
-1076 [%d-Desgarrado/a] #
-1077 [%d-Descolorido/a] #
-1078 [%d-Marcado/a] #
-1079 [%d-Nuevo/a] #
-1080 [%d-Podrido/a] #
-1081 [%d-Mohoso/a] #
-1082 [%d-Pasado/a] #
-1083 [%d-Fermentado/a] #
-1084 [%d-Fresco/a] #
+1060 [%d|Roto/a] #
+1061 [%d|Decrépito/a] #
+1062 [%d|Usado/a] #
+1063 [%d|Útil/a] #
+1064 [%d|Excelente] #
+1065 [%d|Destruido/a] #
+1066 [%d|Agrietado/a] #
+1067 [%d|Áspero/a] #
+1068 [%d|Imperfecto/a] #
+1069 [%d|Perfecto/a] #
+1070 [%d|%s|Gasificado/a] #
+1071 [%d|%s|Nebulizado/a] #
+1072 [%d|%s|Fluido/a] #
+1073 [%d|%s|Básico/a] #
+1074 [%d|%s|Burbujeante] #
+1075 [%d|Destrozado/a] #
+1076 [%d|Desgarrado/a] #
+1077 [%d|Descolorido/a] #
+1078 [%d|Marcado/a] #
+1079 [%d|Nuevo/a] #
+1080 [%d|Podrido/a] #
+1081 [%d|Mohoso/a] #
+1082 [%d|Pasado/a] #
+1083 [%d|Fermentado/a] #
+1084 [%d|Fresco/a] #
 1085 %d %s con etiqueta de %s #
 1086 %d copias de "%s" #
 
@@ -3527,8 +3527,8 @@ a cualquiera que lo busque nuevamente, en las profundidades.. #
 2615 "Hermano, presiento que alguien llegó. ¿Debereíasmos introducirnos?"#
 2616 "No, estamos demasiado ocupados para formalismos."#
 
-2617 "Hermana, has invitado compañía?"#
-2618 "No, el Gremio los envió."#
+2617 "Hermana, ¿Has invitado compañía?"#
+2618 "No, fue el Gremio."#
 2619 "Hm."#
 
 2620 "Hermana, la entrada a la Caverna sigue sellada ¿No es así?"#
@@ -5941,19 +5941,16 @@ Cambiar esta etiqueta está desactivada en la partida actual.#
 
         Como el resto de tu grupo ha sucumbido,
   los datos guardados de esta sesión fueron borrados.#
-3990
-3990
-            ¿Realmente deseas
+3990             ¿Realmente deseas
            terminar la sesión?
 
-    Guardar en este piso no está permitido,
-   al salir se borrará la partida guardada.#
-3991
-          ¿Realmente  deseas
-         salir al escritorio?
+Guardar en este piso no está permitido,
+al salir se borrará todo el progreso.#
+3991             ¿Realmente deseas
+           salir al escritorio?
 
-  Guardar en este piso no está permitido,
-   salir borrará el progreso guardado.#
+Guardar en este piso no está permitido,
+salir borrará el progreso guardado.#
 3992 https://store.steampowered.com/app/1010820/Barony_Myths__Outcasts/#
 3993 https://store.steampowered.com/app/1010821/Barony_Legends__Pariahs/#
 3994 Búsqueda por Crossplay desactivada#
