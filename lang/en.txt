@@ -547,7 +547,7 @@ los objetos antes de usarlos.#
 336 Encender#
 337 Tender Trampa#
 338 Comer#
-339 Tener listo#
+339 Preparar#
 340 Tasando:     #
 341 Tasando:%3.0f%%#
 342 Grimorio#
@@ -1181,15 +1181,15 @@ Gracias!#
 
 # mensajes de inicio
 
-741 Cargando Sprites ... #
-742 Cargando Modelos ... #
-743 Cargando Fichas ... #
-744 Cargando Sonidos ... #
-745 Cargando Modelos ... (%d/%d) #
-746 Cargando Archivos de extremidades ... #
-747 Cargando Objetos ... #
-748 Cargando Música ... #
-749 Cargando Interfaz ...#
+741 Cargando Sprites... #
+742 Cargando Modelos... #
+743 Cargando Fichas... #
+744 Cargando Sonidos... #
+745 Cargando Modelos... (%d/%d) #
+746 Cargando Archivos de extremidades... #
+747 Cargando Objetos... #
+748 Cargando Música... #
+749 Cargando Interfaz...#
 
 
 # mensajes de uso de elementos
@@ -1563,7 +1563,7 @@ comerte... para la cena."#
 1044 [Gasificado/a-%s] #
 1045 [Nubloso/a-%s] #
 1046 [Agitado/a-%s] # 
-1047 [Simple/a-%s] #
+1047 [Simple%s] #
 1048 [Burbujeante-%s] #
 1049 [Destrozado/a] #
 1050 [Partido/a] # 
@@ -1689,7 +1689,7 @@ Pulsa 'Ok' para volver al Menú Principal.#
 
    El progreso ha sido guardado
    al comienzo del piso actual.#
-1132 Recuperando lista de salas...#
+1132 Requesting lobby list...#
 1133 Has muerto. Fin del juego.
 
 #
@@ -1709,8 +1709,8 @@ Tú has conseguido clasificar en el ranking.
 1139 Volver al Menú Principal#
 1140 Tú Has Muerto.
 #
-1141 Serás revivido, si el resto
-del equipo consigue avanzar hacia el siguiente piso.
+1141 Serás revivido si el resto del equipo
+ consigue avanzar hacia el siguiente piso.
 
 #
 1142 Como el resto del equipo ha fallecido,
@@ -1720,7 +1720,7 @@ reiniciar la actual para poder continuar.#
 1144    Ok   #
 
 
-# consejos de muerte
+# death tips
 
 1145
 Ten cuidado con  los objetos no identificados. Pueden
@@ -1765,9 +1765,9 @@ variar.#
 Sé creativo. Todo objeto tiene uso.#
 
 
-# more random text
+# more random text. Por alguna razón no existe 1163 a 1299 en la version original
 
-1160 Te empuja.#
+1160  te empuja.#
 1161 Tasar#
 1162 Soltar#
 1300 Desactivas el cepo.#
@@ -2229,7 +2229,7 @@ Se ha perdido la conexión con el servidor.
 
 #
 
-1444 Consultando lista de salas...#
+1444 Requesting lobby list...#
 
 1445 Unirse al juego#
 1446 Actualizar #
