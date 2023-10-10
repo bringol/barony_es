@@ -2,372 +2,372 @@
     "version": 1,
     "items": {
         "wooden_shield": {
-            "name_identified": "wooden shield",
-            "name_unidentified": "wooden shield"
+            "name_identified": "escudo de madera",
+            "name_unidentified": "escudo de madera"
         },
         "quarterstaff": {
-            "name_identified": "quarter staff",
-            "name_unidentified": "quarter staff"
+            "name_identified": "bastón largo",
+            "name_unidentified": "bastón largo"
         },
         "bronze_sword": {
-            "name_identified": "bronze sword",
-            "name_unidentified": "bronze sword"
+            "name_identified": "espada de bronce",
+            "name_unidentified": "espada de bronce"
         },
         "bronze_mace": {
-            "name_identified": "bronze mace",
-            "name_unidentified": "bronze mace"
+            "name_identified": "maza de bronce",
+            "name_unidentified": "maza de bronce"
         },
         "bronze_axe": {
-            "name_identified": "bronze axe",
-            "name_unidentified": "bronze axe"
+            "name_identified": "hacha de bronce",
+            "name_unidentified": "hacha de bronce"
         },
         "bronze_shield": {
-            "name_identified": "bronze shield",
-            "name_unidentified": "bronze shield"
+            "name_identified": "escudo de bronce",
+            "name_unidentified": "escudo de bronce"
         },
         "sling": {
-            "name_identified": "slingshot",
-            "name_unidentified": "slingshot"
+            "name_identified": "honda",
+            "name_unidentified": "honda"
         },
         "iron_spear": {
-            "name_identified": "iron spear",
-            "name_unidentified": "iron spear"
+            "name_identified": "lanza de hierro",
+            "name_unidentified": "lanza de hierro"
         },
         "iron_sword": {
-            "name_identified": "iron sword",
-            "name_unidentified": "iron sword"
+            "name_identified": "espada de hierro",
+            "name_unidentified": "espada de hierro"
         },
         "iron_mace": {
-            "name_identified": "iron mace",
-            "name_unidentified": "iron mace"
+            "name_identified": "maza de hierro",
+            "name_unidentified": "maza de hierro"
         },
         "iron_axe": {
-            "name_identified": "iron axe",
-            "name_unidentified": "iron axe"
+            "name_identified": "hacha de hierro",
+            "name_unidentified": "hacha de hierro"
         },
         "iron_shield": {
-            "name_identified": "iron shield",
-            "name_unidentified": "iron shield"
+            "name_identified": "escudo de hierro",
+            "name_unidentified": "escudo de hierro"
         },
         "shortbow": {
-            "name_identified": "shortbow",
-            "name_unidentified": "shortbow"
+            "name_identified": "arco corto",
+            "name_unidentified": "arco corto"
         },
         "steel_halberd": {
-            "name_identified": "steel halberd",
-            "name_unidentified": "steel halberd"
+            "name_identified": "alabarda de acero",
+            "name_unidentified": "alabarda de acero"
         },
         "steel_sword": {
-            "name_identified": "steel sword",
-            "name_unidentified": "steel sword"
+            "name_identified": "espada de acero",
+            "name_unidentified": "espada de acero"
         },
         "steel_mace": {
-            "name_identified": "steel mace",
-            "name_unidentified": "steel mace"
+            "name_identified": "maza de acero",
+            "name_unidentified": "maza de acero"
         },
         "steel_axe": {
-            "name_identified": "steel axe",
-            "name_unidentified": "steel axe"
+            "name_identified": "hacha de acero",
+            "name_unidentified": "hacha de acero"
         },
         "steel_shield": {
-            "name_identified": "steel shield",
-            "name_unidentified": "steel shield"
+            "name_identified": "escudo de acero",
+            "name_unidentified": "escudo de acero"
         },
         "steel_shield_resistance": {
-            "name_identified": "steel shield of magic resistance",
-            "name_unidentified": "steel shield"
+            "name_identified": "escudo de acero de resistencia mágica",
+            "name_unidentified": "escudo de acero"
         },
         "crossbow": {
-            "name_identified": "crossbow",
-            "name_unidentified": "crossbow"
+            "name_identified": "ballesta",
+            "name_unidentified": "ballesta"
         },
         "gloves": {
-            "name_identified": "leather gloves",
-            "name_unidentified": "gloves"
+            "name_identified": "guantes de cuero",
+            "name_unidentified": "guantes"
         },
         "gloves_dexterity": {
-            "name_identified": "leather gloves of dexterity",
-            "name_unidentified": "gloves"
+            "name_identified": "guantes de cuero de destreza",
+            "name_unidentified": "guantes"
         },
         "bracers": {
-            "name_identified": "iron bracers",
-            "name_unidentified": "bracers"
+            "name_identified": "brazaletes de hierro",
+            "name_unidentified": "brazaletes"
         },
         "bracers_constitution": {
-            "name_identified": "iron bracers of constitution",
-            "name_unidentified": "bracers"
+            "name_identified": "brazaletes de hierro de consitución",
+            "name_unidentified": "brazaletes"
         },
         "gauntlets": {
-            "name_identified": "steel gauntlets",
-            "name_unidentified": "gauntlets"
+            "name_identified": "guanteletes de acero",
+            "name_unidentified": "guanteletes"
         },
         "gauntlets_strength": {
-            "name_identified": "steel gauntlets of might",
-            "name_unidentified": "gauntlets"
+            "name_identified": "guanteletes de acero de poder",
+            "name_unidentified": "guanteletes"
         },
         "cloak": {
-            "name_identified": "cloak",
-            "name_unidentified": "cloak"
+            "name_identified": "capa",
+            "name_unidentified": "capa"
         },
         "cloak_magicreflection": {
-            "name_identified": "cloak of magic reflection",
-            "name_unidentified": "cloak"
+            "name_identified": "capa de reflejo mágico",
+            "name_unidentified": "capa"
         },
         "cloak_invisibility": {
-            "name_identified": "cloak of invisibility",
-            "name_unidentified": "cloak"
+            "name_identified": "capa de invisibilidad",
+            "name_unidentified": "capa"
         },
         "cloak_protection": {
-            "name_identified": "cloak of protection",
-            "name_unidentified": "cloak"
+            "name_identified": "capa de protección",
+            "name_unidentified": "capa"
         },
         "leather_boots": {
-            "name_identified": "leather boots",
-            "name_unidentified": "leather boots"
+            "name_identified": "botas de cuero",
+            "name_unidentified": "botas de cuero"
         },
         "leather_boots_speed": {
-            "name_identified": "leather boots of speed",
-            "name_unidentified": "leather boots"
+            "name_identified": "botas de cuero de velocidad",
+            "name_unidentified": "botas de cuero"
         },
         "iron_boots": {
-            "name_identified": "iron boots",
-            "name_unidentified": "iron boots"
+            "name_identified": "botas de hierro",
+            "name_unidentified": "botas de hierro"
         },
         "iron_boots_waterwalking": {
-            "name_identified": "iron boots of water walking",
-            "name_unidentified": "iron boots"
+            "name_identified": "botas de hierro de caminar sobre el agua",
+            "name_unidentified": "botas de hierro"
         },
         "steel_boots": {
-            "name_identified": "steel boots",
-            "name_unidentified": "steel boots"
+            "name_identified": "botas de acero",
+            "name_unidentified": "botas de acero"
         },
         "steel_boots_levitation": {
-            "name_identified": "steel boots of levitation",
-            "name_unidentified": "steel boots"
+            "name_identified": "botas de cuero de levitación",
+            "name_unidentified": "botas de acero"
         },
         "steel_boots_feather": {
-            "name_identified": "steel boots of feather",
-            "name_unidentified": "steel boots"
+            "name_identified": "botas de acero de ligereza",
+            "name_unidentified": "botas de acero"
         },
         "leather_breastpiece": {
-            "name_identified": "leather breastpiece",
-            "name_unidentified": "leather breastpiece"
+            "name_identified": "pechera de cuero",
+            "name_unidentified": "pechera de cuero"
         },
         "iron_breastpiece": {
-            "name_identified": "iron breastpiece",
-            "name_unidentified": "iron breastpiece"
+            "name_identified": "pechera de hierro",
+            "name_unidentified": "pechera de hierro"
         },
         "steel_breastpiece": {
-            "name_identified": "steel breastpiece",
-            "name_unidentified": "steel breastpiece"
+            "name_identified": "pechera de acero",
+            "name_unidentified": "pechera de acero"
         },
         "hat_phrygian": {
-            "name_identified": "phrygian hat",
-            "name_unidentified": "phrygian hat"
+            "name_identified": "gorro frigio",
+            "name_unidentified": "gorro frigio"
         },
         "hat_hood": {
-            "name_identified": "hood",
-            "name_unidentified": "hood"
+            "name_identified": "capucha",
+            "name_unidentified": "capucha"
         },
         "hat_wizard": {
-            "name_identified": "wizard hat",
-            "name_unidentified": "wizard hat"
+            "name_identified": "sombrero de mago",
+            "name_unidentified": "sombrero de mago"
         },
         "hat_jester": {
-            "name_identified": "jester hat",
-            "name_unidentified": "jester hat"
+            "name_identified": "gorro de bufón",
+            "name_unidentified": "gorro de bufón"
         },
         "leather_helm": {
-            "name_identified": "leather helm",
-            "name_unidentified": "leather helm"
+            "name_identified": "yelmo de cuero",
+            "name_unidentified": "yelmo de cuero"
         },
         "iron_helm": {
-            "name_identified": "iron helm",
-            "name_unidentified": "iron helm"
+            "name_identified": "yelmo de hierro",
+            "name_unidentified": "yelmo de hierro"
         },
         "steel_helm": {
-            "name_identified": "steel helm",
-            "name_unidentified": "steel helm"
+            "name_identified": "yelmo de acero",
+            "name_unidentified": "yelmo de acero"
         },
         "amulet_sexchange": {
-            "name_identified": "amulet of sex change",
-            "name_unidentified": "amulet"
+            "name_identified": "amuleto de cambio de sexo",
+            "name_unidentified": "amuleto"
         },
         "amulet_lifesaving": {
-            "name_identified": "amulet of life saving",
-            "name_unidentified": "amulet"
+            "name_identified": "amuleto de salvación",
+            "name_unidentified": "amuleto"
         },
         "amulet_waterbreathing": {
-            "name_identified": "amulet of olympic swimming",
-            "name_unidentified": "amulet"
+            "name_identified": "amuleto de nado olímpico",
+            "name_unidentified": "amuleto"
         },
         "amulet_magicreflection": {
-            "name_identified": "amulet of magic reflection",
-            "name_unidentified": "amulet"
+            "name_identified": "amuleto de reflexión mágica",
+            "name_unidentified": "amuleto"
         },
         "amulet_strangulation": {
-            "name_identified": "amulet of strangulation",
-            "name_unidentified": "amulet"
+            "name_identified": "amuleto de estrangulamiento",
+            "name_unidentified": "amuleto"
         },
         "amulet_poisonresistance": {
-            "name_identified": "amulet of poison resistance",
-            "name_unidentified": "amulet"
+            "name_identified": "amuleto antiveneno",
+            "name_unidentified": "amuleto"
         },
         "potion_water": {
-            "name_identified": "bottle of water",
-            "name_unidentified": "potion"
+            "name_identified": "botella de agua",
+            "name_unidentified": "poción"
         },
         "potion_booze": {
-            "name_identified": "bottle of booze",
-            "name_unidentified": "potion"
+            "name_identified": "botella de licor",
+            "name_unidentified": "poción"
         },
         "potion_juice": {
-            "name_identified": "bottle of fruit juice",
-            "name_unidentified": "potion"
+            "name_identified": "botella de infusión frutal",
+            "name_unidentified": "poción"
         },
         "potion_sickness": {
-            "name_identified": "potion of sickness",
-            "name_unidentified": "potion"
+            "name_identified": "poción de enfermedad",
+            "name_unidentified": "poción"
         },
         "potion_confusion": {
-            "name_identified": "potion of confusion",
-            "name_unidentified": "potion"
+            "name_identified": "poción de confusión",
+            "name_unidentified": "poción"
         },
         "potion_extrahealing": {
-            "name_identified": "potion of extra healing",
-            "name_unidentified": "potion"
+            "name_identified": "poción de gran curación",
+            "name_unidentified": "poción"
         },
         "potion_healing": {
-            "name_identified": "potion of healing",
-            "name_unidentified": "potion"
+            "name_identified": "poción de curación",
+            "name_unidentified": "poción"
         },
         "potion_cureailment": {
-            "name_identified": "potion of cure ailment",
-            "name_unidentified": "potion"
+            "name_identified": "poción de curar dolencia",
+            "name_unidentified": "poción"
         },
         "potion_blindness": {
-            "name_identified": "potion of blindness",
-            "name_unidentified": "potion"
+            "name_identified": "poción de ceguera",
+            "name_unidentified": "poción"
         },
         "potion_restoremagic": {
-            "name_identified": "potion of restore magic",
-            "name_unidentified": "potion"
+            "name_identified": "poción de restaurar magia",
+            "name_unidentified": "poción"
         },
         "potion_invisibility": {
-            "name_identified": "potion of invisibility",
-            "name_unidentified": "potion"
+            "name_identified": "poción de invisibilidad",
+            "name_unidentified": "poción"
         },
         "potion_levitation": {
-            "name_identified": "potion of levitation",
-            "name_unidentified": "potion"
+            "name_identified": "poción de levitación",
+            "name_unidentified": "poción"
         },
         "potion_speed": {
-            "name_identified": "potion of speed",
-            "name_unidentified": "potion"
+            "name_identified": "poción de velocidad",
+            "name_unidentified": "poción"
         },
         "potion_acid": {
-            "name_identified": "potion of acid",
-            "name_unidentified": "potion"
+            "name_identified": "poción de ácido",
+            "name_unidentified": "poción"
         },
         "potion_paralysis": {
-            "name_identified": "potion of paralysis",
-            "name_unidentified": "potion"
+            "name_identified": "poción de parálisis",
+            "name_unidentified": "poción"
         },
         "scroll_mail": {
-            "name_identified": "piece of mail",
-            "name_unidentified": "stamped scroll"
+            "name_identified": "correspondencia",
+            "name_unidentified": "pergamino sellado"
         },
         "scroll_identify": {
-            "name_identified": "scroll of identify",
-            "name_unidentified": "scroll"
+            "name_identified": "pergamino de identificación",
+            "name_unidentified": "pergamino"
         },
         "scroll_light": {
-            "name_identified": "scroll of light",
-            "name_unidentified": "scroll"
+            "name_identified": "pergamino de luz",
+            "name_unidentified": "pergamino"
         },
         "scroll_blank": {
-            "name_identified": "blank scroll",
-            "name_unidentified": "scroll"
+            "name_identified": "pergamino en blanco",
+            "name_unidentified": "pergamino"
         },
         "scroll_enchantweapon": {
-            "name_identified": "scroll of enchant weapon",
-            "name_unidentified": "scroll"
+            "name_identified": "pergamino de encantar arma",
+            "name_unidentified": "pergamino"
         },
         "scroll_enchantarmor": {
-            "name_identified": "scroll of enchant armor",
-            "name_unidentified": "scroll"
+            "name_identified": "pergamino de encantar armadura",
+            "name_unidentified": "pergamino"
         },
         "scroll_removecurse": {
-            "name_identified": "scroll of remove curse",
-            "name_unidentified": "scroll"
+            "name_identified": "pergamino de remover maldición",
+            "name_unidentified": "pergamino"
         },
         "scroll_fire": {
-            "name_identified": "scroll of fire",
-            "name_unidentified": "scroll"
+            "name_identified": "pergamino de fuego",
+            "name_unidentified": "pergamino"
         },
         "scroll_food": {
-            "name_identified": "scroll of food",
-            "name_unidentified": "scroll"
+            "name_identified": "pergamino de comida",
+            "name_unidentified": "pergamino"
         },
         "scroll_magicmapping": {
-            "name_identified": "scroll of magic mapping",
-            "name_unidentified": "scroll"
+            "name_identified": "pergamino de mapeo mágico",
+            "name_unidentified": "pergamino"
         },
         "scroll_repair": {
-            "name_identified": "scroll of repair",
-            "name_unidentified": "scroll"
+            "name_identified": "pergamino de reparación",
+            "name_unidentified": "pergamino"
         },
         "scroll_destroyarmor": {
-            "name_identified": "scroll of destroy armor",
-            "name_unidentified": "scroll"
+            "name_identified": "pergamino de destruir armadura",
+            "name_unidentified": "pergamino"
         },
         "scroll_teleportation": {
-            "name_identified": "scroll of teleportation",
-            "name_unidentified": "scroll"
+            "name_identified": "pergamino de teletransporte",
+            "name_unidentified": "pergamino"
         },
         "scroll_summon": {
-            "name_identified": "scroll of summon",
-            "name_unidentified": "scroll"
+            "name_identified": "pergamino de invocación",
+            "name_unidentified": "pergamino"
         },
         "magicstaff_light": {
-            "name_identified": "magicstaff of light",
-            "name_unidentified": "magicstaff"
+            "name_identified": "bastón de luz",
+            "name_unidentified": "bastón mágico"
         },
         "magicstaff_digging": {
-            "name_identified": "magicstaff of digging",
-            "name_unidentified": "magicstaff"
+            "name_identified": "bastón de excavación",
+            "name_unidentified": "bastón mágico"
         },
         "magicstaff_locking": {
-            "name_identified": "magicstaff of locking",
-            "name_unidentified": "magicstaff"
+            "name_identified": "bastón de cerradura",
+            "name_unidentified": "bastón mágico"
         },
         "magicstaff_magicmissile": {
-            "name_identified": "magicstaff of magic missile",
-            "name_unidentified": "magicstaff"
+            "name_identified": "bastón de misil mágico",
+            "name_unidentified": "bastón mágico"
         },
         "magicstaff_opening": {
-            "name_identified": "magicstaff of opening",
-            "name_unidentified": "magicstaff"
+            "name_identified": "bastón de apertura",
+            "name_unidentified": "bastón mágico"
         },
         "magicstaff_slow": {
-            "name_identified": "magicstaff of slow",
-            "name_unidentified": "magicstaff"
+            "name_identified": "bastón de lentitud",
+            "name_unidentified": "bastón mágico"
         },
         "magicstaff_cold": {
-            "name_identified": "magicstaff of cold",
-            "name_unidentified": "magicstaff"
+            "name_identified": "bastón de frío",
+            "name_unidentified": "bastón mágico"
         },
         "magicstaff_fire": {
-            "name_identified": "magicstaff of fire",
-            "name_unidentified": "magicstaff"
+            "name_identified": "bastón de fuego",
+            "name_unidentified": "bastón mágico"
         },
         "magicstaff_lightning": {
-            "name_identified": "magicstaff of lightning",
-            "name_unidentified": "magicstaff"
+            "name_identified": "bastón de relámpago",
+            "name_unidentified": "bastón mágico"
         },
         "magicstaff_sleep": {
-            "name_identified": "magicstaff of sleep",
-            "name_unidentified": "magicstaff"
+            "name_identified": "bastón de sueño",
+            "name_unidentified": "bastón mágico"
         },
         "ring_adornment": {
             "name_identified": "ring of adornment",
@@ -787,15 +787,15 @@
         },
         "magicstaff_stoneblood": {
             "name_identified": "magicstaff of stoneblood",
-            "name_unidentified": "magicstaff"
+            "name_unidentified": "bastón mágico"
         },
         "magicstaff_bleed": {
             "name_identified": "magicstaff of bloodletting",
-            "name_unidentified": "magicstaff"
+            "name_unidentified": "bastón mágico"
         },
         "magicstaff_summon": {
             "name_identified": "magicstaff of conjure skeleton",
-            "name_unidentified": "magicstaff"
+            "name_unidentified": "bastón mágico"
         },
         "tool_blindfold_focus": {
             "name_identified": "blindfold of free action",
@@ -871,15 +871,15 @@
         },
         "magicstaff_charm": {
             "name_identified": "magicstaff of charm monster",
-            "name_unidentified": "magicstaff"
+            "name_unidentified": "bastón mágico"
         },
         "potion_polymorph": {
-            "name_identified": "potion of polymorph",
-            "name_unidentified": "potion"
+            "name_identified": "poción de polymorph",
+            "name_unidentified": "poción"
         },
         "food_blood": {
             "name_identified": "vial of blood",
-            "name_unidentified": "potion"
+            "name_unidentified": "poción"
         },
         "cloak_backpack": {
             "name_identified": "backpack",
@@ -890,20 +890,20 @@
             "name_unidentified": "alembic"
         },
         "potion_firestorm": {
-            "name_identified": "potion of firestorm",
+            "name_identified": "poción de firestorm",
             "name_unidentified": "unstable potion"
         },
         "potion_icestorm": {
-            "name_identified": "potion of icestorm",
+            "name_identified": "poción de icestorm",
             "name_unidentified": "unstable potion"
         },
         "potion_thunderstorm": {
-            "name_identified": "potion of thunderstorm",
+            "name_identified": "poción de thunderstorm",
             "name_unidentified": "unstable potion"
         },
         "potion_strength": {
-            "name_identified": "potion of strength",
-            "name_unidentified": "potion"
+            "name_identified": "poción de strength",
+            "name_unidentified": "poción"
         },
         "suede_boots": {
             "name_identified": "suede boots",
@@ -1031,7 +1031,7 @@
         },
         "magicstaff_poison": {
             "name_identified": "magicstaff of poison",
-            "name_unidentified": "magicstaff"
+            "name_unidentified": "bastón mágico"
         },
         "tool_metal_scrap": {
             "name_identified": "metal scrap",
@@ -1098,8 +1098,8 @@
             "name_unidentified": "hood"
         },
         "scroll_charging": {
-            "name_identified": "scroll of charging",
-            "name_unidentified": "scroll"
+            "name_identified": "pergamino de charging",
+            "name_unidentified": "pergamino"
         },
         "quiver_silver": {
             "name_identified": "quiver of silver ammo",
@@ -1146,8 +1146,8 @@
             "name_unidentified": "boomerang"
         },
         "scroll_conjurearrow": {
-            "name_identified": "scroll of conjure arrow",
-            "name_unidentified": "scroll"
+            "name_identified": "pergamino de conjure arrow",
+            "name_unidentified": "pergamino"
         },
         "monocle": {
             "name_identified": "monocle",
