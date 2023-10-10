@@ -1,5 +1,8 @@
  # Barony en Español
-![image](https://i.postimg.cc/tCXPK436/logo.jpg)
+
+<p align="center">
+  <img src="https://i.postimg.cc/tCXPK436/logo.jpg"/>
+</p>
 
 **Traducción no-oficial** al español del videojuego Barony y sus expansiones de la compañía Turning Wheel LLC, actualmente disponible para PC en [Steam](https://store.steampowered.com/app/371970/Barony/), [GOG](https://www.gog.com/game/barony_cursed_edition) y [EGS](https://www.epicgames.com/store/en-US/p/barony).
 
