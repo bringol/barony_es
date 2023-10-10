@@ -1,6 +1,10 @@
  # Barony en Español
 ![image](https://i.postimg.cc/tCXPK436/logo.jpg)
 
+**Traducción no-oficial** al español del videojuego Barony y sus expansiones de la compañía Turning Wheel LLC, actualmente disponible para PC en [Steam](https://store.steampowered.com/app/371970/Barony/), [GOG](https://www.gog.com/game/barony_cursed_edition) y [EGS](https://www.epicgames.com/store/en-US/p/barony).
+
+La traducción ofrece una instalación independiente de Steam para aquellas personas que no tienen acceso a Steam-Workshop
+
 ## Actualización Life After Death
 
 #### To-Do
@@ -12,9 +16,7 @@
 - [ ] Texto de las Señales del Tutorial
 - [ ] Fuentes
 
-**Traducción no-oficial** al español del videojuego Barony y sus expansiones de la compañía Turning Wheel LLC, actualmente disponible para PC en [Steam](https://store.steampowered.com/app/371970/Barony/), [GOG](https://www.gog.com/game/barony_cursed_edition) y [EGS](https://www.epicgames.com/store/en-US/p/barony).
-
-La traducción ofrece una instalación independiente de Steam para aquellas personas que no tienen acceso a Steam-Workshop.
+.
 
 ##  Instalación Manual
 
