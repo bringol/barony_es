@@ -1,3 +1,16 @@
+ # Barony en Español
+![image](https://i.postimg.cc/tCXPK436/logo.jpg)
+ ##Actualización Life After Death
+
+#### To-Do
+- [x] Libros
+- [] Historia y Cinemáticas
+- [] Texto General
+- [] Nombres de Objetos y Descripciones
+- [] Datos de Texto del Menú
+- [] Texto de las Señales del Tutorial
+- [] Fuentes
+
 **Traducción no-oficial** al español del videojuego Barony y sus expansiones de la compañía Turning Wheel LLC, actualmente disponible para PC en [Steam](https://store.steampowered.com/app/371970/Barony/), [GOG](https://www.gog.com/game/barony_cursed_edition) y [EGS](https://www.epicgames.com/store/en-US/p/barony).
 
 La traducción ofrece una instalación independiente de Steam para aquellas personas que no tienen acceso a Steam-Workshop.
@@ -24,7 +37,5 @@ La traducción ofrece una instalación independiente de Steam para aquellas pers
 * _suquinho de chorume_ por la [traducción PT-BR](https://steamcommunity.com/sharedfiles/filedetails/?id=2613956785)
 
 
-#### To-Do
-- [x] Traducir todos los libros.
-- [x] Traducir el texto embebido en los mapas de Hall of Trials.
+
  
