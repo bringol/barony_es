@@ -1,0 +1,151 @@
+{
+    "version": 1,
+    "leadership_allies_base": {
+        "vampire": [
+            "vampire",
+            "automaton"
+        ],
+        "skeleton": [
+            "ghoul",
+            "automaton"
+        ],
+        "human": [
+            "human",
+            "automaton"
+        ],
+        "succubus": [
+            "succubus",
+            "incubus",
+            "automaton"
+        ],
+        "goatman": [
+            "goatman",
+            "automaton"
+        ],
+        "automaton": [
+            "human",
+            "automaton"
+        ],
+        "incubus": [
+            "succubus",
+            "incubus",
+            "automaton"
+        ],
+        "goblin": [
+            "goblin",
+            "automaton"
+        ],
+        "insectoid": [
+            "scorpion",
+            "scarab",
+            "insectoid",
+            "automaton"
+        ],
+        "rat": [
+            "rat",
+            "automaton"
+        ],
+        "troll": [
+            "troll",
+            "automaton"
+        ],
+        "spider": [
+            "spider",
+            "scorpion",
+            "scarab",
+            "automaton"
+        ],
+        "imp": [
+            "imp",
+            "automaton"
+        ]
+    },
+    "leadership_allies_legendary": {
+        "vampire": [
+            "goblin",
+            "insectoid",
+            "goatman"
+        ],
+        "skeleton": [
+            "goblin",
+            "insectoid",
+            "goatman"
+        ],
+        "human": [
+            "goblin",
+            "insectoid",
+            "goatman"
+        ],
+        "succubus": [
+            "goblin",
+            "insectoid",
+            "goatman"
+        ],
+        "goatman": [
+            "goblin",
+            "insectoid"
+        ],
+        "automaton": [
+            "goblin",
+            "insectoid",
+            "goatman"
+        ],
+        "incubus": [
+            "goblin",
+            "insectoid",
+            "goatman"
+        ],
+        "goblin": [
+            "insectoid",
+            "goatman"
+        ],
+        "insectoid": [
+            "goblin",
+            "goatman"
+        ],
+        "rat": [
+            "goblin",
+            "insectoid",
+            "goatman"
+        ],
+        "troll": [
+            "goblin",
+            "insectoid",
+            "goatman"
+        ],
+        "spider": [
+            "goblin",
+            "insectoid",
+            "goatman"
+        ],
+        "imp": [
+            "goblin",
+            "insectoid",
+            "goatman"
+        ]
+    },
+    "leadership_allies_unique_recruits": {
+        "succubus": [
+            {
+                "human": "   (Drunk)"
+            },
+            {
+                "human": "   (Confused)"
+            }
+        ],
+        "goatman": [
+            {
+                "human": "   (Throw Booze\n   while drunk)"
+            },
+			{
+                "goblin": "   (Throw Booze\n   while drunk)"
+            },
+			{
+                "succubus": "   (Throw Booze\n   while drunk)"
+            },
+			{
+                "incubus": "   (Throw Booze\n   while drunk)"
+            }
+        ]
+    }
+}

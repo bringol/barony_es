@@ -1,0 +1,1191 @@
+{
+    "version": 1,
+	"default_attributes": {
+		"font_color": {
+			"r": 239,
+			"g": 237,
+			"b": 235,
+			"a": 255
+		},
+		"font_outline_color": {
+			"r": 50,
+			"g": 29,
+			"b": 25,
+			"a": 255
+		},
+		"font_highlight_color": {
+			"r": 18,
+			"g": 196,
+			"b": 131,
+			"a": 255
+		},
+		"font_highlight2_color": {
+			"r": 64,
+			"g": 192,
+			"b": 255,
+			"a": 255
+		}
+	},
+    "script_entries": {
+        "tutorial10a": {
+            "sign": [
+                "The enemy in the next",
+				"room is capable of",
+				"poisoning you with",
+				"its attacks.",
+				"",
+				"Some adventurers keep",
+				"cures on hand. Others",
+				"simply tough it out",
+				"or avoid taking hits."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[0]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0],
+					[],
+					[1,2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/blockcrab.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial10b": {
+            "sign": [
+				"$",
+                "Taking the items you",
+				"find back to the market",
+				"may increase your",
+				"chances of success."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[1,2,3,4]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#images/system/shopkeeper.png",
+				"sizex": 74,
+				"sizey": 74
+				}					
+			]
+        },
+        "tutorial10c": {
+            "sign": [
+                "Shopkeepers will treat",
+				"you differently if you",
+                "are under the effects",
+				"of polymorph.",
+				"",
+                "Most monsters behave",
+				"very differently if you",
+				"throw a polymorph potion",
+				"at them."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},		
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[1]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[1],
+					[],
+					[1],
+					[],
+					[0,1,2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/polythrow.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial10d": {
+            "sign": [
+                "Adventurers of all",
+				"classes will need to be",
+				"resourceful with items.",
+				"",
+                "Smart shopping may",
+				"be the difference",
+				"between being prepared",
+				"and being dead."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial10e": {
+            "sign": [
+                "The shopkeepers",
+				"won't pay well for an",
+				"unappraised gem as it",
+				"could be worthless glass!",
+				"",
+				"Use a scroll of identify",
+                "when your appraisal skill",
+				"isn't high enough."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[0,1,2],
+					[],
+					[2,3]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[2,3,4]
+				]
+            },
+            "variables": []
+        },
+        "tutorial10f": {
+            "sign": [
+                "If a Shopkeeper is killed,",
+				"they drop everything",
+				"they're selling.",
+				"But word travels fast",
+				"in the dungeons.",
+				"",
+                "Enemies of the",
+				"Merchants' Guild are",
+				"attacked on sight."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[],
+					[1,2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial10g": {
+            "sign": [
+                "Shopkeepers have great",
+				"self-defense training",
+				"and will attempt to",
+				"annihilate all assailants",
+				"with extreme prejudice."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[1,2]
+				],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial10h": {
+            "sign": [
+                "Each Shopkeeper trades",
+				"in a specific category",
+				"of goods.",
+				"",
+                "This one only trades hats,",
+				"so he won't buy your gem.",
+				"",
+                "Use this switch to",
+				"open the way to find",
+				"other buyers."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[2,3,4,5]
+				],
+                "word_highlights2": [
+					[],
+					[2,3],
+					[],
+					[],
+					[2,3,4],
+					[],
+					[],
+					[],
+					[],
+					[0,1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/nosale_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial10h_gamepad": {
+            "sign": [
+                "Each Shopkeeper trades",
+				"in a specific category",
+				"of goods.",
+				"",
+                "This one only trades hats,",
+				"so he won't buy your gem.",
+				"",
+                "Use this switch to",
+				"open the way to find",
+				"other buyers."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[2,3,4,5]
+				],
+                "word_highlights2": [
+					[],
+					[2,3],
+					[],
+					[],
+					[2,3,4],
+					[],
+					[],
+					[],
+					[],
+					[0,1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/nosale_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },		
+        "tutorial10i": {
+            "sign": [
+                "With the shop menu open,",
+				"press$ on your items",
+				"to sell them.",
+				"",
+                "Press$ on items in the",
+				"Shopkeeper's inventory",
+				"to buy."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[0,1,2,3],
+					[],
+					[],
+					[0,1,2],
+					[0,1]
+				],
+                "word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/buysell_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuRightClick"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuRightClick"
+				}					
+			]
+        },
+        "tutorial10i_gamepad": {
+            "sign": [
+                "With the shop menu open,",
+				"press$ on your items",
+				"to sell them.",
+				"",
+                "Press$ on items in the",
+				"Shopkeeper's inventory",
+				"to buy."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[0,1,2,3],
+					[],
+					[],
+					[0,1,2],
+					[0,1]
+				],
+                "word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/buysell_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuConfirm"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuConfirm"
+				}					
+			]
+        },		
+        "tutorial10j": {
+            "sign": [
+                "You can start trading by",
+				"approaching shopkeepers",
+				"and pressing$ .",
+				"",
+                "To close the shop",
+				"menu, press$ ."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[1],
+					[],
+					[1],
+					[1]
+				],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Character Status"
+				}	
+			]
+        },		
+        "tutorial10j_gamepad": {
+            "sign": [
+                "You can start trading by",
+				"approaching shopkeepers",
+				"and pressing$ .",
+				"",
+                "To close the shop,",
+				"menu, press$ ."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[1],
+					[],
+					[1],
+					[1]				
+				],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuCancel"
+				}				
+			]
+        },
+        "tutorial10k": {
+            "sign": [
+                "Shops always look",
+				"distinct, no matter",
+				"where they are found.",
+				"$",
+				"Look for signs outside",
+				"shops for a preview of",
+				"what they buy and sell."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial10/sign_shophat.png",
+				"sizex": 0,
+				"sizey": 0
+				}					
+			]
+        },
+        "tutorial10l": {
+            "sign": [
+                "This gem may be thrown",
+				"like any rock, but its",
+                "real value lies in what a",
+				"shopkeeper pays for it.",
+				"$",
+                "Maximize trade value",
+				"with high trading skill."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[0,1],
+					[0,1]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial10/sign_gem.png",
+				"sizex": 0,
+				"sizey": 0
+				}				
+			]
+        },
+        "tutorial10m": {
+            "sign": [
+                "Every item has a",
+				"gold value displayed",
+				"when you hover on it",
+				"in your inventory.",
+				"",
+				"An item's value may change",
+				"when it is appraised."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[2]
+				],
+                "word_highlights2": [
+					[],
+					[0,1],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/value_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial10m_gamepad": {
+            "sign": [
+                "Every item has a",
+				"gold value displayed",
+				"when you hover on it",
+				"in your inventory.",
+				"",
+				"An item's value may change",
+				"when it is appraised."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[2]
+				],
+                "word_highlights2": [
+					[],
+					[0,1],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/value_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []			
+        },
+        "tutorial10n": {
+            "sign": [
+                "Gold cannot slay monsters,",
+				"nor will it feed you.",
+				"$",
+                "However, it does allow you",
+				"to trade with shopkeepers."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[0],
+					[],
+					[],
+					[],
+					[1,2,3]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial10/sign_gold.png",
+				"sizex": 0,
+				"sizey": 0
+				}				
+			]
+        },
+        "tutorial10o": {
+            "sign": [
+                "Jewelers buy and sell",
+				"amulets, rings, and gems.",
+				"$",
+                "Here you may sell your",
+				"gem for a lot of gold!"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[0,1,2,3,4],
+					[0,1,2,3,4,5]
+					
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial10/sign_jeweler.png",
+				"sizex": 0,
+				"sizey": 0
+				}				
+			]
+        },
+        "tutorial10p": {
+            "sign": [
+                "If you are hoarding",
+				"many things to sell, a",
+				"General Store is a",
+				"very lucky find.",
+				"$",
+				"They will buy anything",
+                "and carry random items."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[0,1],
+					[],
+					[],
+					[2,3]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial10/sign_general.png",
+				"sizex": 0,
+				"sizey": 0
+				}				
+			]
+        },
+        "tutorial10q": {
+            "sign": [
+                "View how much gold you",
+				"have accumulated on your",
+				"character sheet."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[0,1]				
+				],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial10r": {
+            "sign": [
+                "To drop gold, hover on",
+				"your gold count, hold$",
+				"and pick how much to drop.",
+				"",
+                "If you are carrying lots",
+				"of gold, its weight can",
+				"add up and slow you down."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},								
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[3],
+					[3],
+					[1,2,3,4,5]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[3,4],
+					[3,4,5]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/dropgold_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuRightClick"
+				}			
+			]
+        },
+        "tutorial10r_gamepad": {
+            "sign": [
+                "To drop gold, hover on",
+				"your gold count, press$",
+				"and pick how much to drop.",
+				"",
+                "If you are carrying lots",
+				"of gold, its weight can",
+				"add up and slow you down."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},								
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[3],
+					[3],
+					[1,2,3,4,5]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[3,4],
+					[3,4,5]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/dropgold_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuConfirm"
+				}			
+			]
+        },		
+        "tutorial10s": {
+            "sign": [
+                "In the dungeon, you",
+				"may not be lucky enough",
+                "to find a buyer for",
+				"your goods.",
+				"",
+                "You will have to decide",
+				"if it's wise to keep",
+				"cumbersome items for",
+				"their trade value."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},							
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[1,2,3],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1]
+				],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial10t": {
+            "sign": [
+                "The shopkeepers",
+				"in this market are",
+				"your only option to",
+				"equip yourself properly",
+				"for this trial's test.",
+				"",
+                "Buy and sell to",
+				"prepare yourself",
+				"however you prefer."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[0,1,2],
+					[],
+					[],
+					[0,1,2],
+					[],
+					[0,1,2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial10u": {
+            "sign": [
+                "Through this portal lies",
+				"a series of increasingly",
+				"challenging fights.",
+				"Buy whatever will help",
+				"you to succeed.",
+				"",
+                "Your resourcefulness",
+				"will be tested."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial10v": {
+            "sign": [
+                "Items you find in shops",
+				"that are lying around",
+				"tables or in chests",
+				"are yours to take.",
+				"",
+				"The only items that matter",
+				"to shopkeepers are those",
+				"found in their inventory."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[1,2,3],
+					[],
+					[],
+					[]
+				]
+            },
+            "variables": []
+        },
+        "tutorial10w": {
+            "sign": [
+                "Facing two enemies at",
+				"one time can greatly",
+				"complicate a fight.",
+				"",
+				"All adventurers must",
+				"be ready to face both",
+				"ranged and melee",
+				"attackers."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[1,2],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/killtwo.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial10x": {
+            "sign": [
+                "The next foe wields a",
+				"magicstaff, which can",
+				"slow and damage you",
+				"greatly, bypassing AC.",
+				"",
+				"Items can reduce magic",
+				"effects. Make use of",
+				"ambush tactics to avoid",
+				"magic projectiles."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[0,1,2,3],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2,3],
+					[],
+					[0,1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/staffambush.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        }
+    }
+}

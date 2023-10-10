@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "press_a_to_advance": true,
+    "text": [
+    	"Having defeated the Baron and placed his violet orb on the pedestal,\n",
+    	"you step into the portal. Powerful magic sends a tingle over your body.\n^",
+    	"Your body is transported with a white flash.^ You arrive outside the\n",
+    	"Hamlet mines and watch the cursed blackness peel away from the land.\n",
+    	"Warm sunlight flows over the countryside. As the doors of the mine open wide,\n",
+    	"the people run into the streets, acclimating to their freedom.\n^",
+    	"You rush to nearby buildings, looking for a place to hide and figure out your\n",
+	"next move. There are too many humans and the sun is too bright for your liking.\n^",
+	"You break your way into what appears to be an inn. You spend the night under\n",
+	"the sheets of a comfortable bed while the sounds of revelry surround you.\n^",
+	"As humans party through the hostel, you hear of a power even greater\n",
+	"than Herx's, said to be held in the Magician's Guild...\n^",
+	"A trapdoor in the bunkroom leads to a sewer.\n",
+	"You wait for the humans to leave..."
+    ],
+    "images": [
+	"*images/ui/Main Menus/Story/black.png",
+	"*images/ui/Main Menus/Story/white.png",
+	"*images/ui/Main Menus/Story/Hamlet_Rescue.png",
+	"*images/ui/Main Menus/Story/MagiciansGuild.png",
+	"*images/ui/Main Menus/Story/black.png",
+	"*images/ui/Main Menus/Story/PowerWaiting.png",
+	"*images/ui/Main Menus/Story/black.png"
+    ]
+}

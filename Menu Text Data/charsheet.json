@@ -1,0 +1,295 @@
+{
+	"version": 1,
+	"hover_text": {
+		"autosort_button_mouse_compact": "Autosort inventory.\nHold [Right-click] for more options.",
+		"autosort_button_mouse": "Autosort inventory.\nHold [Right-click] for\nmore options.",
+		"gold_mouse": "Hold [Right-click] to drop gold.",
+		"gold_controller": "Press a button to drop gold:",
+		"gold_option_10": "10 gold",
+		"gold_option_100": "100 gold",
+		"gold_option_1000": "1000 gold",
+		"gold_option_all": "ALL gold",
+		"game_timer_mouse": "[Left-click] to ",
+		"game_timer_pin": "pin the game timer to the HUD.",
+		"game_timer_unpin": "unpin the game timer from the HUD.",
+		"race": {
+			"race_traits": "Traits:",
+			"race_title_normal": "RACE INFO",
+			"race_title_polymorph": "RACE INFO (Polymorphed)",
+			"race_title_shapeshift": "RACE INFO (Shapeshifted)"
+		},
+		"class": {
+			"class_title": "CLASS STAT GROWTHS",
+			"class_title_shapeshift": "CLASS STAT GROWTHS (Shapeshifted)",
+			"stat_growth_info": "Level Up increases three Stats by +1, influenced by Class\nImproving skills provides +20% to roll +2 for an Associated Stat   (See Associated Stats in Skills List)",
+			"stat_growth_min_tooltip_width": "320",
+			"stat_growth_max_tooltip_width": "320"
+		},
+		"stats": {
+			"stat_max_tooltip_width": "600",
+			"stat_min_tooltip_width": "380",
+			"stat_base_amount": "Base:",
+			"stat_modified_amount": "Bonuses:\n (From items/effects)",
+			"stat_str_title": "STRENGTH",
+			"stat_dex_title": "DEXTERITY",
+			"stat_con_title": "CONSTITUTION",
+			"stat_int_title": "INTELLIGENCE",
+			"stat_per_title": "PERCEPTION",
+			"stat_chr_title": "CHARISMA",
+			"stat_str_desc": "Increases melee ATK damage\nImproves movement speed while carrying large weights",
+			"stat_dex_desc": "Increases ranged and thrown ATK damage\nImproves movement speed while carrying small weights",
+			"stat_con_desc": "Increases Armor Class (AC)\nReduces duration of negative status effects\nImproves effects of Potions of Healing",
+			"stat_int_desc": "Increases Spell Power (PWR) and MP regen (RGN)\nIncreases effects of Magic and Casting skills\nImproves effects of Potions of Restore Magic",
+			"stat_per_desc": "Increases Armor Pierce chance with Ranged weaponry\nIncreases effects of Tinkering and Appraisal skills\nProvides extra visibility in dark areas",
+			"stat_chr_desc": "Provides better prices when trading with Shopkeepers\nIncreases effects of Leadership and Trading skills",
+			"stat_str_movement_bonus": "STR Speed Bonus:",
+			"stat_atk_value_format": "%+d ATK",
+			"stat_str_atk_bonus": "Melee ATK Bonus:",
+			"stat_dex_movement_bonus": "DEX Speed Bonus:",
+			"stat_dex_ranged_atk_bonus": "Ranged ATK Bonus:",
+			"stat_dex_thrown_atk_bonus": "Thrown ATK Bonus:",
+			"stat_con_ac_bonus": "Armor Class Bonus:",
+			"stat_ac_value_format": "%+d AC",
+			"stat_movement_value_format": "%+.1f%% SPD",
+			"stat_int_pwr_bonus": "Spell Power Bonus:",
+			"stat_int_mp_regen_bonus": "MP Regen Bonus:",
+			"stat_pwr_value_format": "%+.1f%% PWR",
+			"stat_mp_regen_value_format": "%+.1f%% RGN",
+			"stat_per_pierce_bonus": "Ranged Armor Pierce Chance:",
+			"stat_pierce_value_format": "%+.f%%",
+			"stat_per_light_bonus": "Passive Bonus Vision:",
+			"stat_per_sneaking_bonus": "Sneaking Bonus Vision:",
+			"stat_light_value_format": "%+d Light",
+			"stat_chr_selling_bonus": "Item Sell Value:",
+			"stat_chr_buying_bonus": "Item Buying Discount:",
+			"stat_selling_value_format": "%+.1f%% Gold",
+			"stat_buying_value_format": "%+.1f%% Gold",
+			"icon_str_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
+			"icon_dex_path": "#*images/ui/CharSheet/HUD_CharSheet_DEX_00.png",
+			"icon_con_path": "#*images/ui/CharSheet/HUD_CharSheet_CON_00.png",
+			"icon_int_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+			"icon_per_path": "#*images/ui/CharSheet/HUD_CharSheet_PER_00.png",
+			"icon_chr_path": "#*images/ui/CharSheet/HUD_CharSheet_CHA_00.png"
+		},
+		"icon_backing_path": "#*images/ui/HUD/HUD_ActionPromptBacking00_02.png",
+		"attributes_max_tooltip_width": "600",
+		"attributes_min_tooltip_width": "420",
+		"attributes_atk": {
+			"icon_atk_path": "#*images/ui/CharSheet/HUD_CharSheet_ATT_00.png",
+			"attributes_atk_total_sum_header": "Max ATK Totals:",
+			"attributes_atk_title": "ATTACK",
+			"attributes_atk_title_unarmed": "Unarmed",
+			"attributes_atk_range": "ATK Damage Range:\n (Using %s skill: %d/100)",
+			"attributes_atk_range_noskill": "ATK Damage Range:",
+			"attributes_atk_avg": "ATK Average:",
+			"attributes_atk_value": "ATK Damage:",
+			"attributes_atk_melee_desc": "Critical strikes deal 200%% damage\nHigher %s skill increases ATK average\nStriking enemies from behind deals additional damage based on Stealth skill",
+			"attributes_atk_pickaxe_desc": "Critical strikes deal 200%% damage\nStriking enemies from behind deals additional damage based on Stealth skill",
+			"attributes_atk_unarmed_desc": "Critical strikes deal 200%% damage\nHigher %s skill increases ATK average\nEquipped rings and fist weapons modify ATK\nStriking enemies from behind deals additional damage based on Stealth skill",
+			"attributes_atk_ranged_desc": "Ranged attacks have a chance to ignore 50%% of target's AC based on PER stat\nHigher %s skill increases ATK average\nEquipped quivers modify ATK and apply additional effects on hit",
+			"attributes_atk_thrown_desc": "Attacks ignore 50-75%% of target's AC\nHigher %s skill increases damage\nFully charged throw deals maximum damage and increases Armor Pierce on target",
+			"attributes_atk_gem_desc": "Higher %s skill increases damage\nFully charged throws deal maximum damage",
+			"attributes_atk_potion_desc": "Potion effects are also applied to the target on impact\nHigher %s skill increases impact and potion effect damage",
+			"attributes_atk_magicstaff_desc": "Casts contained Magicstaff spell on attack\nCharging magicstaff allows finer aim when releasing attack\nSpell power and effects are unaffected by charge amount",
+			"attributes_atk_tool_desc": "Unable to attack while held\nInteracts with objects in the world on use",
+			"attributes_atk_tinker_tool_desc": "Deploys held Tinkering tool on attack\nFully charged throw deploys held item further",
+			"attributes_atk_entry_weapon_bonus": "Weapon Bonus:",
+			"attributes_atk_entry_items_bonus": "Items / Effects Bonus:",
+			"attributes_atk_entry_attr_bonus_melee": "Attribute Bonus (STR):",
+			"attributes_atk_entry_attr_bonus_ranged": "Attribute Bonus (DEX):",
+			"attributes_atk_entry_attr_bonus_whip": "Attribute Bonus (STR/DEX):",
+			"attributes_atk_entry_melee_weapon_base": "Base Melee Damage:",
+			"attributes_atk_entry_ranged_weapon_base": "Base Ranged Damage:",
+			"attributes_atk_entry_unarmed_weapon_base": "Base Unarmed Damage:",
+			"attributes_atk_entry_thrown_weapon_base": "Base Thrown Damage:",
+			"attributes_atk_entry_thrown_weapon_fully_charged": "Fully charged throw bonus:",
+			"attributes_atk_entry_skill_variance": "ATK variance from skill:",
+			"attributes_atk_entry_skill_bonus": "Skill Bonus:",
+			"attributes_atk_range_format": "%d - %d ATK",
+			"attributes_atk_bonus_format": "%+d ATK",
+			"attributes_atk_nobonus_format": "%d ATK",
+			"attributes_atk_percent_format": "%.2f%%",
+			"attributes_atk_average_format": "%.1f ATK"
+		},
+		"attributes_ac": {
+			"icon_ac_path": "#*images/ui/CharSheet/HUD_CharSheet_AC_00.png",
+			"attributes_ac_title": "ARMOR CLASS",
+			"attributes_ac_base": "Base Armor Class:",
+			"attributes_ac_defending": "Active Blocking Bonus:\n (Using %s skill: %d/100)",
+			"attributes_ac_entry_attr_bonus": "Attribute Bonus (CON):",
+			"attributes_ac_bonus_format": "%+d AC",
+			"attributes_ac_nobonus_format": "%d AC",
+			"attributes_ac_entry_items_bonus": "Items / Effects Bonus:",
+			"attributes_ac_base_sum_header": "Base AC Totals:",
+			"attributes_ac_passive_bonus": "Passive Skill Bonus:",
+			"attributes_ac_desc": "Reduces physical damage taken per AC point\nBlocking increases AC no matter the direction or timing of incoming attacks\nActive Blocking Bonus applies to most Off-hand items, while Passive Skill Bonus applies only to held shields"
+		},
+		"attributes_pwr": {
+			"icon_pwr_path": "#*images/ui/CharSheet/HUD_CharSheet_SPWR_00.png",
+			"attributes_pwr_title": "SPELL POWER",
+			"attributes_pwr_base": "Spell Power:",
+			"attributes_pwr_spellbook": "Spellbook-Cast Bonus:\n (Using INT stat)",
+			"attributes_pwr_entry_attr_bonus": "Attribute Bonus (INT):",
+			"attributes_pwr_bonus_format": "%+d%% PWR",
+			"attributes_pwr_nobonus_format": "%d%% PWR",
+			"attributes_pwr_base_value": "Base Spell Power:",
+			"attributes_pwr_entry_items_bonus": "Items / Effects Bonus:",
+			"attributes_pwr_base_sum_header": "Spell Power Totals:",
+			"attributes_pwr_passive_bonus": "Passive Skill Bonus:",
+			"attributes_pwr_desc": "Increases spell damage and healing when casting learned spells\nSpellbook-Casting with held spellbooks provides greater spell amplification"
+		},
+		"attributes_res": {
+			"icon_res_path": "#*images/ui/CharSheet/HUD_CharSheet_RES_00.png",
+			"attributes_res_title": "MAGIC RESISTANCE",
+			"attributes_res_base_sum_header": "Magic Resistance Totals:",
+			"attributes_res_base": "Magic Resistance:",
+			"attributes_res_sources": "Resistance Sources:\n (From items/effects)",
+			"attributes_res_base_value": "Racial Bonus (%s):",
+			"attributes_res_entry_items_bonus": "Items / Effects Bonus:",
+			"attributes_res_bonus_format": "%+d%% RES",
+			"attributes_res_sources_format": "%+d source(s)",
+			"attributes_res_nobonus_format": "%d%% RES",
+			"attributes_res_desc": "Reduces spell damage taken by resistance % (Negative % increases damage taken)\nMultiple sources of Magic Resistance from items/effects stack diminishingly"
+		},
+		"attributes_rgn_hp": {
+			"icon_rgn_hp_path": "#*images/ui/CharSheet/HUD_CharSheet_REGEN_00.png",
+			"attributes_rgn_hp_title": "HP REGENERATION",
+			"attributes_rgn_hp_base_sum_header": "HP Regeneration Totals:",
+			"attributes_rgn_hp_base": "Total HP Regeneration:",
+			"attributes_rgn_sources": "Regen Modifier:\n (From items/effects)",
+			"attributes_rgn_base_value": "Racial Bonus (%s):",
+			"attributes_rgn_entry_items_bonus": "Items / Effects Bonus:",
+			"attributes_rgn_plain_display": "Effective Rate:",
+			"attributes_rgn_hp_per_second_format_zero": "0 HP every %2.1f seconds",
+			"attributes_rgn_disabled": "HP Regeneration disabled",
+			"attributes_rgn_hp_per_second_format": "+1 HP every %2.1f seconds",
+			"attributes_rgn_bonus_format": "%+.f%% RGN",
+			"attributes_rgn_small_format": "%.f%%",
+			"attributes_rgn_hp_sources_format": "%+d  [HP Regen]",
+			"attributes_rgn_nobonus_format": "%s RGN",
+			"attributes_rgn_hp_desc": "HP Regenerates slowly over time, instant HP restoration requires potions or spells\nMaximum Regen Modifier from items/effects limited to +3 [HP Regen]",
+			"attributes_rgn_hp_desc_no_hunger": "NOTE: Hunger is disabled in Game Settings for the current play session, HP no longer regenerates passively\nInstead, restore HP by consuming food and using potions/spells",
+			"attributes_rgn_en_desc_no_hunger": "NOTE: Hunger is disabled in Game Settings for the current play session, EN no longer degenerates passively\nCasting spells consumes EN\nStarvation occurs when EN is empty\nRestore EN by consuming food, sweet liquids and using MP restoring effects",
+			"icon_rgn_mp_path": "#*images/ui/CharSheet/HUD_CharSheet_REGEN_00.png",
+			"icon_rgn_ht_empty_path": "#*images/ui/CharSheet/HUD_CharSheet_Boiler_Empty_00.png",
+			"icon_rgn_ht_normal_path": "#*images/ui/CharSheet/HUD_CharSheet_Boiler_Normal_00.png",
+			"icon_rgn_ht_superheated_path": "#*images/ui/CharSheet/HUD_CharSheet_Boiler_Superheated_00.png",
+			"attributes_rgn_mp_title": "MP REGENERATION",
+			"attributes_rgn_ht_title": "HEAT STATUS",
+			"attributes_rgn_en_title": "ENERGY BURN RATE",
+			"attributes_rgn_mp_base_sum_header": "MP Regeneration Totals:",
+			"attributes_rgn_ht_base_sum_header": "STATUS REPORT:",
+			"attributes_rgn_en_base_sum_header": "Energy Burn Rate Totals:",
+			"attributes_rgn_en_bonus_format": "%+.f%% EN",
+			"attributes_rgn_en_nobonus_format": "%s EN",
+			"attributes_rgn_en_sources": "Rate Modifier:\n (From items/effects)",
+			"attributes_rgn_mp_base": "Total MP Regeneration:",
+			"attributes_rgn_ht_base": "Total Heat (HT) Rate:",
+			"attributes_rgn_en_base": "Energy (EN) Burn Rate:",
+			"attributes_rgn_en_entry_items_bonus": "Items / Effects Modifiers:",
+			"attributes_rgn_ht_boiler_status": "Boiler Status:",
+			"attributes_rgn_ht_boiler_value_normal": "NOMINAL",
+			"attributes_rgn_ht_boiler_value_superheat": "SUPERHEATED",
+			"attributes_rgn_ht_boiler_value_low": "CRITICALLY LOW",
+			"attributes_rgn_ht_base_bonus": "Base HT Rate:",
+			"attributes_rgn_en_base_bonus": "Base EN Burn Rate:\n (Using any map Hunger modifiers)",
+			"attributes_rgn_entry_statskill_bonus": "Stat / Skill Bonus:\n (Using INT stat x Casting skill)",
+			"attributes_rgn_mp_per_second_format": "+1 MP every %2.1f seconds",
+			"attributes_rgn_ht_per_second_format": "%+d HT every %2.1f seconds",
+			"attributes_rgn_en_per_second_format": "-1 EN every %2.1f seconds",
+			"attributes_rgn_mp_sources_format": "%+d  [MP Regen]",
+			"attributes_rgn_ht_sources_format": "%+d  [HT Regen]",
+			"attributes_rgn_en_sources_format": "%+d  [EN Sustain]",
+			"attributes_rgn_ht_bonus_format": "%+.f%% RGN",
+			"attributes_rgn_ht_small_format": "%.f%%",
+			"attributes_rgn_mp_desc": "MP regenerates slowly over time, maximum of 1 MP every 2 seconds before Regen Modifiers\nMaximum Regen Modifier from items/effects limited to +3 [MP Regen]",
+			"attributes_rgn_ht_desc": "NOMINAL boiler increases HT production\nSUPERHEATED boiler increases HT production 2x as fast, and 4x if HT below 50% capacity\nCRITICALLY LOW boiler rapidly loses HT, unit malfunction may occur at 0 HT",
+			"attributes_rgn_en_desc": "Energy reduces slowly over time, effects of Slow Digestion increases the longevity of EN\nCasting spells consumes EN\nStarvation occurs when EN is empty\nRestore EN by consuming food, sweet liquids and using MP restoring effects"
+		},
+		"attributes_wgt":
+		{
+			"icon_wgt_path": "#*images/ui/CharSheet/HUD_CharSheet_WGT_00.png",
+			"attributes_wgt_title": "WEIGHT",
+			"attributes_wgt_base_sum_header": "Movement Speed Totals:",
+			"attributes_wgt_base": "Carried Weight:",
+			"attributes_wgt_movement_speed": "Current Movement speed:\n (Using Weight + STR + DEX stat)",
+			"attributes_wgt_inventory_value": "Inventory Weight Penalty:",
+			"attributes_wgt_equipment_value": "Equipped Weight Penalty:",
+			"attributes_wgt_gold_value": "Carried Gold Penalty:",
+			"attributes_wgt_bonus_format": "%+d WGT",
+			"attributes_wgt_speed_format": "%.1f%% SPD",
+			"attributes_wgt_speed_bonus_format": "%+.2f%% SPD",
+			"attributes_wgt_speed_bonus_format1": "%+.2f%% %+.2f%% %+.2f%% SPD",
+			"attributes_wgt_nobonus_format": "%d WGT",
+			"attributes_wgt_attributes_bonus": "Attribute Bonus (DEX):",
+			"attributes_wgt_noweight_speed": "Carried Weight Penalty:",
+			"attributes_wgt_desc": "Carrying items and gold increases Carried Weight, reducing movement speed\nSTR stat reduces Weight Penalties\nDEX stat provides passive movement speed and increases maximum movement speed"
+		}
+	},
+	"level_strings": {
+		"Start Map": { 
+			"display_name": "The Hamlet Minehead",
+			"description": "The outskirts of Hamlet's southwest gate holds the entrance to the Devils' Bastion."
+		},
+		"The Mines": { 
+			"display_name": "The Mines",
+			"description": "Citizens of Hamlet dug in vain for gold here."
+		},
+		"The Swamp": { 
+			"display_name": "The Swamp",
+			"description": "Underground springs feed the strange plants here."
+		},
+		"The Labyrinth": { 
+			"display_name": "Sand Labyrinth",
+			"description": "The sands seem to be from an ancient ocean run dry."
+		},
+		"The Ruins": { 
+			"display_name": "The Ruins",
+			"description": "In the deepest depths, Herx's slaves built a city."
+		},
+		"Mines to Swamp Transition": { 
+			"display_name": "Mines Exit",
+			"description": "A place built for those who are passing through."
+		},
+		"Swamp to Labyrinth Transition": { 
+			"display_name": "Swamp Exit",
+			"description": "The bridges allow access across the great chasm."
+		},
+		"Labyrinth to Ruins Transition": { 
+			"display_name": "Labyrinth Exit",
+			"description": "It looks like the bridges used to be withdrawn."
+		},
+		"Boss": { 
+			"display_name": "Herx's Lair",
+			"description": "This place looks like it wasn't built by humans."
+		},
+		"Hell Boss": { 
+			"display_name": "Baphomet's Domain",
+			"description": "You feel a magic connection to Herx's Lair here."
+		},
+		"Hell": { 
+			"display_name": "Hell",
+			"description": "This place beckons the hatred within you."
+		},
+		"Mages Guild": { 
+			"display_name": "Hamlet",
+			"description": "The buildings around the entrance to the minehead look to have serviced adventurers moving through here."
+		},
+		"Caves To Citadel Transition": { 
+			"display_name": "Caves Exit",
+			"description": "The machinery here appears to be drawing upon the crystals."
+		},
+		"Caves": { 
+			"display_name": "Crystal Caves",
+			"description": "The air throbs with magic from the materials in the walls here."
+		},
+		"Citadel": { 
+			"display_name": "The Citadel",
+			"description": "This mechanical campus feels cut off from the outside world."
+		},
+		"Sanctum": { 
+			"display_name": "Sanctum",
+			"description": "The laws of reality appear to be breaking at the center of this massive machine."
+		}
+	}
+}

@@ -1,0 +1,51 @@
+{
+    "version": 1,
+    "window_title": "Take on 10 challenges that teach and test your adventuring skills, preparing you to\n take on the dungeon!",
+    "default_hover_text": "Hover over an entry for more information.",
+    "levels": {
+        "tutorial_hub": {
+            "title": "The Hall of Trials",
+            "desc": "Description: The hub where all tutorial trials can be accessed."
+        },
+        "tutorial1": {
+            "title": "Trial 1: Dungeon Basics and Melee Fighting",
+            "desc": "Description: Learn how to interact with the dungeon, how to attack with melee weapons,\n and defend with shields."
+        },
+        "tutorial2": {
+            "title": "Trial 2: Bows, Arrows and Throwing Weapons",
+            "desc": "Description: Learn about different bow and ammo types, and how to use throwing weapons."
+        },
+        "tutorial3": {
+            "title": "Trial 3: Dungeon Traps, Spikes and Boulders",
+            "desc": "Description: Learn about the kinds of traps that you will encounter, how dangerous they \n are, and how to avoid them."
+        },
+        "tutorial4": {
+            "title": "Trial 4: Food, Appraisal and Curses",
+            "desc": "Description: Learn about hunger and food, and how appraisal can help you mitigate the\n risk of unidentified items."
+        },
+        "tutorial5": {
+            "title": "Trial 5: Magic, Spellbooks and Casting",
+            "desc": "Description: Learn how to memorize spells and cast from scrolls, tomes and magicstaffs."
+        },
+        "tutorial6": {
+            "title": "Trial 6: Stealth and Sneak Attacks",
+            "desc": "Description: Learn how to approach combat at an advantage using darkness, flanking and \n assassinations."
+        },
+        "tutorial7": {
+            "title": "Trial 7: Follower Recruiting and Commands",
+            "desc": "Description: Learn how to lead followers in order to make the most of their versatile \n capabilities."
+        },
+        "tutorial8": {
+            "title": "Trial 8: Potions and Alchemy",
+            "desc": "Description: Learn the basics of drinking and throwing potions, as well as mixing your \n own with an alembic."
+        },
+        "tutorial9": {
+            "title": "Trial 9: Tinkering",
+            "desc": "Description: Learn about many gadgets that use the Tinkering skill, from lockpicking\n to crafting elaborate defenses."
+        },
+        "tutorial10": {
+            "title": "Trial 10: Merchants and Shops",
+            "desc": "Description: Learn about the enigmatic merchants, who are as picky as they are powerful,\n and how they can help you."
+        }
+    }
+}

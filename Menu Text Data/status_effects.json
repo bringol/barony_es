@@ -1,0 +1,559 @@
+{
+	"version": 1,
+	"colors": {
+		"notification_text": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"tooltip_heading_text": {
+			"r": 67,
+			"g": 195,
+			"b": 157,
+			"a": 255
+		},
+		"tooltip_desc_text": {
+			"r": 188,
+			"g": 154,
+			"b": 114,
+			"a": 255
+		}
+	},
+	"notification_font": "fonts/pixelmix.ttf#16#2",
+	"default_tooltip_width": 200,
+	"sustained_effects": {
+		"SUSTAIN_LIGHT": {
+			"id": -1,
+			"spell_id": 7,
+			"internal_name": "SUSTAIN_LIGHT",
+			"name": "Light",
+			"desc": "Sustaining a magical source of light",
+			"img_path": "",
+			"img_from_spell_id": 7
+		},
+		"EFF_SHADOW_TAGGED": {
+			"id": 34,
+			"spell_id": 45,
+			"internal_name": "EFF_SHADOW_TAGGED",
+			"name": ["Arcane Mark\n(Active on %s)", "Arcane Mark (Active on %s)", "Arcane Mark (Unknown target)"],
+			"desc": "Nullifies racial damage resistances/weaknesses of target\nTeleportation spells are refocused to target",
+			"img_path": "",
+			"img_from_spell_id": 45
+		}
+	},
+	"effects": {
+		"EFF_HUNGER": {
+			"id": -2,
+			"internal_name": "EFF_HUNGER",
+			"name": ["Oversatiated!", "Hungry", "Very Hungry", "Starving!"],
+			"desc": ["Suffering from overeating:\n- Strength\n- Dexterity", "Failure to eat will incur negative effects", "Suffering from lack of food:\n- Strength\n- Dexterity", "Suffering from lack of food, taking damage over time:\n- Strength\n- Dexterity\n- Intelligence\n- Perception"],
+			"img_path": ["*images/ui/HUD/HUD_Hunger_01A.png", "*images/ui/HUD/HUD_Hunger_01B.png", "*images/ui/HUD/HUD_Hunger_01C.png", "*images/ui/HUD/HUD_Hunger_01D.png"],
+			"img_from_spell_id": -1
+		},
+		"EFF_BLOOD_HUNGER": {
+			"id": -3,
+			"internal_name": "EFF_HUNGER",
+			"name": ["Oversatiated!", "Hungry", "Very Hungry", "Starving!"],
+			"desc": ["Suffering from overeating:\n- Strength\n- Dexterity", "Failure to eat will incur negative effects", "Suffering from lack of food:\n- Strength\n- Dexterity", "Suffering from lack of food, taking damage over time:\n- Strength\n- Dexterity\n- Intelligence\n- Perception"],
+			"img_path": ["*images/ui/HUD/HUD_Hunger_Blood_00A.png", "*images/ui/HUD/HUD_Hunger_Blood_00B.png", "*images/ui/HUD/HUD_Hunger_Blood_00C.png", "*images/ui/HUD/HUD_Hunger_Blood_00D.png"],
+			"img_from_spell_id": -1
+		},
+		"EFF_AUTOMATON_HUNGER": {
+			"id": -4,
+			"internal_name": "EFF_AUTOMATON_HUNGER",
+			"name": ["Boiler Status:\nSUPERHEATED", "Boiler Status:\nNOMINAL", "Boiler Status:\nCRITICALLY LOW", "Boiler Status: SUPERHEATED", "Boiler Status: NOMINAL", "Boiler Status: CRITICALLY LOW"],
+			"desc": ["Producing HT at 200% nominal rate, up to 400% when HT below 50% capacity\nReduced Dexterity when HT is less than 25% capacity", "Producing HT steadily\nReduced Dexterity when HT is less than 25% capacity", "Losing HT rapidly due to empty boiler, unit malfunction may occur at 0 HT\nReduced Dexterity when HT is less than 25% capacity\n- Strength\n- Perception", "Losing HT rapidly due to empty boiler, unit malfunction may occur at 0 HT\nReduced Dexterity when HT is less than 25% capacity"],
+			"img_path": ["*images/system/Hunger_boiler.png", "*images/system/Hunger_boiler.png", "*images/system/Hunger_boiler.png"],
+			"img_from_spell_id": -1
+		},
+		"EFF_WANTED": {
+			"id": -5,
+			"internal_name": "EFF_WANTED",
+			"name": "Wanted!",
+			"desc": ["Decreed an enemy of the Merchant's Guild for your %s crimes:","Assassination", "Inciting violence", "Accessory to violence"],
+			"img_path": "*images/ui/HUD/statusfx/redhanded.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 270
+		},
+		"EFF_WANTED_IN_SHOP": {
+			"id": -6,
+			"internal_name": "EFF_WANTED",
+			"name": "Wanted!\n(Trespassing)",
+			"desc": ["Decreed an enemy of the Merchant's Guild for your %s crimes:","Assassination", "Inciting violence", "Accessory to violence"],
+			"img_path": "*images/ui/HUD/statusfx/redhanded.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 270
+		},
+		"EFF_BURNING": {
+			"id": -7,
+			"internal_name": "EFF_BURNING",
+			"name": "Burning",
+			"desc": "Taking damage over time",
+			"img_path": "*images/ui/HUD/statusfx/burning.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_FREEACTION": {
+			"id": -8,
+			"internal_name": "EFF_FREEACTION",
+			"name": "Free Action",
+			"desc": "Cures [Sleep], [Slow], [Paralyze]",
+			"img_path": "*images/ui/HUD/statusfx/freeaction.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 200
+		},
+		"EFF_LESSERWARNING": {
+			"id": -9,
+			"internal_name": "EFF_LESSERWARNING",
+			"name": "Lesser Warning",
+			"desc": "Revealing location of moving monsters on the map",
+			"img_path": "*images/ui/HUD/statusfx/lesserwarning.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 240
+		},
+		"EFF_HPOFF": {
+			"id": -10,
+			"internal_name": "EFF_HPOFF",
+			"name": "Degeneration",
+			"desc": ["HP regen disabled", "HP Regen disabled due to Hunger being disabled in Game Settings\nRestore HP by consuming food and using potions/spells"],
+			"img_path": "*images/ui/HUD/statusfx/regen_hpoff.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 260
+		},
+		"EFF_RESISTFIRE": {
+			"id": -11,
+			"internal_name": "EFF_RESISTFIRE",
+			"name": "Burning Resistance",
+			"desc": "Immune to [Burning]",
+			"img_path": "*images/ui/HUD/statusfx/resist_fire.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 200
+		},
+		"EFF_RESISTPOISON": {
+			"id": -12,
+			"internal_name": "EFF_RESISTPOISON",
+			"name": "Poison Resistance",
+			"desc": "Cures [Poison]\nResist Poison, Acid spells",
+			"img_path": "*images/ui/HUD/statusfx/resist_poison.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 220
+		},
+		"EFF_SLOWDIGESTION": {
+			"id": -13,
+			"internal_name": "EFF_SLOWDIGESTION",
+			"name": "Slow Digestion",
+			"desc": "Increased food satiation and delayed starvation",
+			"img_path": "*images/ui/HUD/statusfx/slowdigestion.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 230
+		},
+		"EFF_STRANGULATION": {
+			"id": -14,
+			"internal_name": "EFF_STRANGULATION",
+			"name": "Strangled!",
+			"desc": "Taking damage over time\nUnable to drink or eat",
+			"img_path": "*images/ui/HUD/statusfx/strangulation.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 220
+		},
+		"EFF_WARNING": {
+			"id": -15,
+			"internal_name": "EFF_WARNING",
+			"name": "Warning",
+			"desc": "Revealing location of monsters on the map",
+			"img_path": "*images/ui/HUD/statusfx/warning.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 200
+		},
+		"EFF_WATERBREATHING": {
+			"id": -16,
+			"internal_name": "EFF_WATERBREATHING",
+			"name": "Waterbreathing",
+			"desc": "Uninhibited movement speed while swimming",
+			"img_path": "*images/ui/HUD/statusfx/waterbreathing.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 200
+		},
+		"EFF_CONFLICT": {
+			"id": -17,
+			"internal_name": "EFF_CONFLICT",
+			"name": "Conflict",
+			"desc": "Inciting nearby monsters to attack anything in sight",
+			"img_path": "*images/ui/HUD/statusfx/conflict.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 240
+		},
+		"EFF_WATERWALKING": {
+			"id": -18,
+			"internal_name": "EFF_WATERWALKING",
+			"name": "Waterwalking",
+			"desc": "Floating over water and lava",
+			"img_path": "*images/ui/HUD/statusfx/waterwalking.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 200
+		},
+		"EFF_LIFESAVING": {
+			"id": -19,
+			"internal_name": "EFF_LIFESAVING",
+			"name": "Lifesaving",
+			"desc": "Revival on death",
+			"img_path": "*images/ui/Inventory/tooltips/tooltip_icons/lifesaving.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 160
+		},
+		"EFF_PUSH": {
+			"id": -20,
+			"internal_name": "EFF_PUSH",
+			"name": "Push",
+			"desc": "Able to move boulders",
+			"img_path": "*images/ui/HUD/statusfx/push.png",
+			"tooltip_width": 232,
+			"img_from_spell_id": -1
+		},
+		"EFF_SNEAK": {
+			"id": -21,
+			"internal_name": "EFF_SNEAK",
+			"name": "Sneaking",
+			"desc": "Reduced detection range",
+			"img_path": "*images/ui/HUD/statusfx/sneak.png",
+			"tooltip_width": 200,
+			"img_from_spell_id": -1
+		},
+		"EFF_DRUNK_GOATMAN": {
+			"id": -22,
+			"internal_name": "EFF_DRUNK_GOATMAN",
+			"name": "Drunk (Goatman)",
+			"desc": "+ Strength\n+ Constitution\n+ 20% Damage Resistance\n- Dexterity\n- Intelligence",
+			"img_path": "*images/ui/HUD/statusfx/drunk.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 212
+		},
+		"EFF_ASLEEP": {
+			"id": 0,
+			"internal_name": "EFF_ASLEEP",
+			"name": "Asleep",
+			"desc": "Unable to move or see",
+			"img_path": "",
+			"img_from_spell_id": 10
+		},
+		"EFF_POISONED": {
+			"id": 1,
+			"internal_name": "EFF_POISONED",
+			"name": "Poisoned",
+			"desc": "Taking damage over time",
+			"img_path": "*images/ui/HUD/statusfx/poisoned.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_STUNNED": {
+			"id": 2,
+			"internal_name": "EFF_STUNNED",
+			"name": "",
+			"desc": "",
+			"img_path": "",
+			"img_from_spell_id": -1,
+			"never_display": true
+		},
+		"EFF_CONFUSED": {
+			"id": 3,
+			"internal_name": "EFF_CONFUSED",
+			"name": "Confused",
+			"desc": "Movement is reversed",
+			"img_path": "",
+			"img_from_spell_id": 11
+		},
+		"EFF_DRUNK": {
+			"id": 4,
+			"internal_name": "EFF_DRUNK",
+			"name": "Drunk",
+			"desc": "+ Strength\n- Dexterity",
+			"img_path": "*images/ui/HUD/statusfx/drunk.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_INVISIBLE": {
+			"id": 5,
+			"internal_name": "EFF_INVISIBLE",
+			"name": "Invisible",
+			"desc": "Unable to be detected by enemies outside of melee range",
+			"img_path": "",
+			"img_from_spell_id": 16,
+			"use_entry_for_sustained_spell": 16
+		},
+		"EFF_BLIND": {
+			"id": 6,
+			"internal_name": "EFF_BLIND",
+			"name": "Blinded",
+			"desc": "Unable to see",
+			"img_path": "*images/ui/HUD/statusfx/blind.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_GREASY": {
+			"id": 7,
+			"internal_name": "EFF_GREASY",
+			"name": "Greasy",
+			"desc": "Held weapons may slip from your grasp",
+			"img_path": "*images/ui/HUD/statusfx/grease.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_MESSY": {
+			"id": 8,
+			"internal_name": "EFF_MESSY",
+			"name": "Messy",
+			"desc": "Unable to see",
+			"img_path": "*images/ui/HUD/statusfx/messypie.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_FAST": {
+			"id": 9,
+			"internal_name": "EFF_FAST",
+			"name": "Speed",
+			"desc": "Increased Dexterity and movement speed",
+			"img_path": "",
+			"img_from_spell_id": 39
+		},
+		"EFF_PARALYZED": {
+			"id": 10,
+			"internal_name": "EFF_PARALYZED",
+			"name": "Paralyzed",
+			"desc": "Unable to move",
+			"img_path": "*images/ui/HUD/statusfx/paralyze.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_LEVITATING": {
+			"id": 11,
+			"internal_name": "EFF_LEVITATING",
+			"name": "Levitating",
+			"desc": "Floating over chasms, water and lava",
+			"img_path": "",
+			"img_from_spell_id": 15,
+			"use_entry_for_sustained_spell": 15
+		},
+		"EFF_TELEPATH": {
+			"id": 12,
+			"internal_name": "EFF_TELEPATH",
+			"name": "Telepathy",
+			"desc": "See monsters through walls",
+			"img_path": "*images/ui/HUD/statusfx/telepathy.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_VOMITING": {
+			"id": 13,
+			"internal_name": "EFF_VOMITING",
+			"name": "Vomiting!",
+			"desc": "Suffering from an upset stomach",
+			"img_path": "",
+			"img_from_spell_id": -1,
+			"never_display": true
+		},
+		"EFF_BLEEDING": {
+			"id": 14,
+			"internal_name": "EFF_BLEEDING",
+			"name": "Bleeding",
+			"desc": "Taking damage over time",
+			"img_path": "*images/ui/HUD/statusfx/bleed.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_SLOW": {
+			"id": 15,
+			"internal_name": "EFF_SLOW",
+			"name": "Slowed",
+			"desc": "Reduced movement speed",
+			"img_path": "",
+			"img_from_spell_id": 12
+		},
+		"EFF_MAGICRESIST": {
+			"id": 16,
+			"internal_name": "EFF_MAGICRESIST",
+			"name": "Magic Resistance",
+			"desc": "+1 Magic Resistance",
+			"img_path": "*images/ui/HUD/statusfx/resist_magic.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_MAGICREFLECT": {
+			"id": 17,
+			"internal_name": "EFF_MAGICREFLECT",
+			"name": "Reflect Magic",
+			"desc": "Reflecting enemy spells",
+			"img_path": "",
+			"img_from_spell_id": 26,
+			"use_entry_for_sustained_spell": 26,
+			"tooltip_width": 220
+		},
+		"EFF_VAMPIRICAURA": {
+			"id": 18,
+			"internal_name": "EFF_VAMPIRICAURA",
+			"name": ["Vampiric Curse", "Vampiric Aura"],
+			"desc": ["+ Strength and Dexterity\nIncreased hunger rate\nIncreased chance to inflict [bleed] status while unarmed\nChance to lifesteal on unarmed lethal stealth attacks", "+ Strength and Dexterity\nIncreased hunger rate\nIncreased chance to inflict [bleed] status while unarmed\nChance to lifesteal on all unarmed attacks\nNatural HP regen is disabled"],
+			"img_path": "*images/ui/HUD/statusfx/bloodlust.png",
+			"img_from_spell_id": 30,
+			"use_entry_for_sustained_spell": 30,
+			"tooltip_width": 270
+		},
+		"EFF_SHRINE_RED_BUFF": {
+			"id": 19,
+			"internal_name": "EFF_SHRINE_RED_BUFF",
+			"name": "Red Shrine Buff",
+			"desc": "+ Strength\n+ Constitution",
+			"img_path": "*images/ui/HUD/statusfx/orb_red.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_SHRINE_GREEN_BUFF": {
+			"id": 20,
+			"internal_name": "EFF_SHRINE_GREEN_BUFF",
+			"name": "Green Shrine Buff",
+			"desc": "+ Dexterity\n+ Perception",
+			"img_path": "*images/ui/HUD/statusfx/orb_green.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_SHRINE_BLUE_BUFF": {
+			"id": 21,
+			"internal_name": "EFF_SHRINE_BLUE_BUFF",
+			"name": "Blue Shrine Buff",
+			"desc": "+ Intelligence\n+1 Magic Resistance",
+			"img_path": "*images/ui/HUD/statusfx/orb_blue.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_HP_REGEN": {
+			"id": 22,
+			"internal_name": "EFF_HP_REGEN",
+			"name": "Health Regeneration",
+			"desc": "+2 [HP Regen]",
+			"img_path": "*images/ui/HUD/statusfx/regen_hp.png",
+			"img_from_spell_id": 48
+		},
+		"EFF_MP_REGEN": {
+			"id": 23,
+			"internal_name": "EFF_MP_REGEN",
+			"name": "Mana Regeneration",
+			"desc": "+2 [MP Regen]",
+			"img_path": "*images/ui/HUD/statusfx/regen_mp.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_PACIFY": {
+			"id": 24,
+			"internal_name": "EFF_PACIFY",
+			"name": "Pacified",
+			"desc": "Unable to attack or voluntarily move",
+			"img_path": "",
+			"img_from_spell_id": 31
+		},
+		"EFF_POLYMORPH": {
+			"id": 25,
+			"internal_name": "EFF_POLYMORPH",
+			"name": "Polymorphed",
+			"desc": "Disguised as another monster",
+			"img_path": "*images/ui/HUD/statusfx/polymorph.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_KNOCKBACK": {
+			"id": 26,
+			"internal_name": "EFF_KNOCKBACK",
+			"name": "",
+			"desc": "",
+			"img_path": "",
+			"img_from_spell_id": -1,
+			"never_display": true
+		},
+		"EFF_WITHDRAWAL": {
+			"id": 27,
+			"internal_name": "EFF_WITHDRAWAL",
+			"name": "Hungover",
+			"desc": "- Dexterity\nCurable by intoxication",
+			"img_path": "*images/ui/HUD/statusfx/hungover.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_POTION_STR": {
+			"id": 28,
+			"internal_name": "EFF_POTION_STR",
+			"name": "Strength",
+			"desc": "+ Strength\n- Perception",
+			"img_path": "*images/ui/HUD/statusfx/strengthbuff.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_SHAPESHIFT": {
+			"id": 29,
+			"internal_name": "EFF_SHAPESHIFT",
+			"name": ["Rat Form", "Arthropod Form", "Troll Form", "Imp Form"],
+			"desc": ["+ DEX/INT/PER\nHigher chance to gain DEX/INT on level up\nAccess to spells [Detect Food] and [Speed]", "+ PER/STR/CON\nHigher chance to gain PER/CON on level up\nAccess to spells [Spray Web] and [Poison]", "+ STR/CON\n- DEX\nHigher chance to gain STR/CON on level up\nAccess to spells [Power Strike], [Fear] and [Troll's Blood]", "Provides levitation\n+ INT/PER\nHigher chance to gain INT/DEX on level up\nAccess to spells [Lightning], [Confuse] and [Elemental Focus]"],
+			"img_path": "",
+			"img_from_spell_id": [33,34,35,36]
+		},
+		"EFF_WEBBED": {
+			"id": 30,
+			"internal_name": "EFF_WEBBED",
+			"name": "Webbed",
+			"desc": "Reduced movement speed\nKnocked back when receiving melee strikes",
+			"img_path": "",
+			"img_from_spell_id": 37
+		},
+		"EFF_FEAR": {
+			"id": 31,
+			"internal_name": "EFF_FEAR",
+			"name": "Fear",
+			"desc": "Unable to attack or voluntarily move",
+			"img_path": "",
+			"img_from_spell_id": 40
+		},
+		"EFF_MAGICAMPLIFY": {
+			"id": 32,
+			"internal_name": "EFF_MAGICAMPLIFY",
+			"name": "Elemental Focus",
+			"desc": "Increased damage and shorter range when casting [Fire], [Cold], [Lightning] or [Magic Missile] spells",
+			"img_path": "",
+			"img_from_spell_id": 44,
+			"tooltip_width": 300,
+			"use_entry_for_sustained_spell": 44
+		},
+		"EFF_DISORIENTED": {
+			"id": 33,
+			"internal_name": "EFF_DISORIENTED",
+			"name": "",
+			"desc": "",
+			"img_path": "",
+			"img_from_spell_id": -1,
+			"never_display": true
+		},
+		"EFF_SHADOW_TAGGED": {
+			"id": 34,
+			"internal_name": "EFF_SHADOW_TAGGED",
+			"name": "Arcane Marked",
+			"desc": "Racial damage resistances/weaknesses nullified on self",
+			"img_path": "",
+			"img_from_spell_id": 45,
+			"tooltip_width": 210
+		},
+		"EFF_TROLLS_BLOOD": {
+			"id": 35,
+			"internal_name": "EFF_TROLLS_BLOOD",
+			"name": "Troll's Blood",
+			"desc": "+1 [HP Regen]",
+			"img_path": "",
+			"img_from_spell_id": 48
+		},
+		"EFF_FLUTTER": {
+			"id": 36,
+			"internal_name": "EFF_FLUTTER",
+			"name": "Flutter",
+			"desc": "Levitating for a short duration",
+			"img_path": "",
+			"img_from_spell_id": 50
+		},
+		"EFF_DASH": {
+			"id": 37,
+			"internal_name": "EFF_DASH",
+			"name": "",
+			"desc": "",
+			"img_path": "",
+			"img_from_spell_id": -1,
+			"never_display": true
+		},
+		"EFF_DISTRACTED_COOLDOWN": {
+			"id": 38,
+			"internal_name": "EFF_DISTRACTED_COOLDOWN",
+			"name": "",
+			"desc": "",
+			"img_path": "",
+			"img_from_spell_id": -1,
+			"never_display": true
+		}
+	}
+}

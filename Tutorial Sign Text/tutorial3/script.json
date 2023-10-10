@@ -1,0 +1,567 @@
+{
+    "version": 1,
+	"default_attributes": {
+		"font_color": {
+			"r": 239,
+			"g": 237,
+			"b": 235,
+			"a": 255
+		},
+		"font_outline_color": {
+			"r": 50,
+			"g": 29,
+			"b": 25,
+			"a": 255
+		},
+		"font_highlight_color": {
+			"r": 18,
+			"g": 196,
+			"b": 131,
+			"a": 255
+		},
+		"font_highlight2_color": {
+			"r": 64,
+			"g": 192,
+			"b": 255,
+			"a": 255
+		}
+	},
+    "script_entries": {
+        "tutorial3a": {
+            "sign": [
+                "Some items can",
+				"modify your abilities.",
+				"",
+                "Equip this",
+				"Ring of Might",
+				"to gain the ability",
+				"you need.",
+				"",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[0],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[1],
+					[0,2],
+					[],
+					[],
+					[],
+					[3],
+					[0,1]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#images/ui/CharSheet/HUD_CharSheet_STR_00.png",
+				"sizex": 24,
+				"sizey": 24
+				}
+			]
+        },
+        "tutorial3b": {
+            "sign": [
+                "If you're not careful,",
+				"some traps can kill you",
+				"instantly.",
+				"",
+                "Be prepared.",
+				"",
+				"$ "
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},							
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[0]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[0,1]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#items/images/spells/levitation.png",
+				"sizex": 32,
+				"sizey": 32
+				}
+			]
+        },
+        "tutorial3c": {
+            "sign": [
+                "You must remain aware",
+				"of your surroundings to",
+                "avoid succumbing to the",
+				"dungeon's traps.",
+				"",
+                "You will now be tested."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial3d": {
+            "sign": [
+                "Keen eyes and ears",
+				"provide ample warnings.",
+				"",
+                "If you do not panic,",
+				"you may yet survive",
+				"the dungeons."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[2,3,4]
+				],
+                "word_highlights2": [
+					[],
+					[1,2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial3e": {
+            "sign": [
+				"$",
+				"Leave an item on",
+				"certain traps to ensure",
+				"they do not re-arm."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},		
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0,1,2],
+					[],
+					[1,2,3]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial3/sign_spike.png",
+				"sizex": 74,
+				"sizey": 74
+				}
+			]
+        },
+        "tutorial3f": {
+            "sign": [
+                "Boulders may cause",
+				"unforeseen consequences",
+				"as they may activate",
+				"multiple triggers."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0,1]
+				]
+            },
+            "variables": []
+        },
+        "tutorial3g": {
+            "sign": [
+                "Drop or throw items",
+				"to trigger traps safely.",
+				"",
+				"Remove items from your",
+				"inventory with$ to drop",
+				"them in front of you."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 18,
+					"g": 196,
+					"b": 131,
+					"a": 255
+					},				
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},								
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[0,1],
+					[0,1,3]
+				],
+                "word_highlights2": [
+				[0,2,3],
+				[1,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial3/rockdrop_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				}	
+			]
+        },
+        "tutorial3g_gamepad": {
+            "sign": [
+                "Drop or throw items",
+				"to trigger traps safely.",
+				"",
+				"Remove items from your",
+				"inventory with$ to drop",
+				"them in front of you."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 18,
+					"g": 196,
+					"b": 131,
+					"a": 255
+					},				
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[0,1],
+					[0,1,3]
+				],
+                "word_highlights2": [
+				[0,2,3],
+				[1,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial3/rockdrop_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuAlt2"
+				}	
+			]
+        },		
+        "tutorial3h": {
+            "sign": [
+                "Levers and traps can",
+				"cause a series of events."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial3i": {
+            "sign": [
+				"$",
+                "Boulder traps are always",
+				"accompanied by a hole",
+				"in the ceiling.",
+				"",
+                "Make sure you have enough",
+				"light to see them clearly!"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight2_color": {
+						"r": 64,
+						"g": 192,
+						"b": 255,
+						"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0,1,3],
+					[3],
+					[],
+					[],
+					[],
+					[0]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial3/sign_hole.png",
+				"sizex": 0,
+				"sizey": 0
+				}
+			]
+        },
+        "tutorial3j": {
+            "sign": [
+                "CAUTION:",
+				"",
+                "Deadly traps ahead.",
+				"",
+				""
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+				},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+				[0]
+				],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial3k": {
+            "sign": [
+                "You can always hear when",
+				"a boulder is coming!",
+				"",
+                "Take care when you hear",
+				"that thunderous sound."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+						"r": 64,
+						"g": 192,
+						"b": 255,
+						"a": 255
+				},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[2,3],
+					[1],
+					[],
+					[0,1]
+				],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial3l": {
+            "sign": [
+                "Rolling boulders can",
+				"destroy many things,",
+                "and will fall into",
+				"pits and liquid."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial3m": {
+            "sign": [
+                "The Push ability lets you",
+				"push boulders with$ .",
+				"",
+				"STR also lets you carry",
+				"more WGT without it",
+				"slowing you down."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},			
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[1,2],
+					[],
+					[],
+					[],
+					[0,1],
+					[0]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial3/boulderpush.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				}	
+			]
+        }
+    }
+}

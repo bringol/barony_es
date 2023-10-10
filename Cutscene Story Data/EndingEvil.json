@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "press_a_to_advance": true,
+    "text": [
+    	"*3Through the portal, a weak magic tugs you from the Citadel.\n",
+    	"Your feet hover over the floor as it shakes violently.\n",
+    	"Pipes and pistons crash down in a muffled racket...\n^",
+    	"*1You clench your eyes, confident that the portal will bear you to safety.\n^",
+    	"*2It seems you got what you came here for, though not in the way you anticipated.\n",
+    	"Power cannot simply be held... it must be used.\n^",
+    	"The following years are not easy for the surface world. Eventually, they learn\n",
+    	"that joy and glory are found in strength.\n^",
+    	"*1You destroy those who oppose you. Eventually, even the humans bear your banner.\n",
+    	"*2Can any empire challenge what you've built? Prophets teach that the\n",
+    	"human spirit is stronger than anything. You fear that power is real...\n^",
+    	"*1Power you know will always be waiting."
+    ],
+    "images": [
+	"images/ui/Main Menus/Story/black.png",
+	"images/ui/Main Menus/Story/white.png",
+	"images/ui/Main Menus/Story/PowerWaiting.png",
+	"images/ui/Main Menus/Story/intro3.png",
+	"images/ui/Main Menus/Story/EvilThrone.png",
+	"images/ui/Main Menus/Story/PowerWaiting.png"
+    ]
+}

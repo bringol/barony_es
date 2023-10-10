@@ -1,0 +1,30 @@
+{
+    "version": 1,
+    "press_a_to_advance": true,
+    "text": [
+    	"*3Hacking your way through every demon in your path, you leap through the\n",
+	"portal without a moment's hesitation. Anywhere is better than here...\n",
+	"or so you think.\n^",
+	"*3Suddenly, you find yourself standing wearily in an endless white hall dotted\n",
+	"with enormous pillars that stretch higher than you can see. Out of exhaustion,\n",
+	"you drop your weapons and step forward.\n",
+	"*2Surely, if anything were to happen now you would be finished; yet without\n",
+	"explanation, you suddenly sense power coming back to you. A voice booms out:\n^",
+	"*3\"Greetings, human. We have witnessed your trials and tribulations and we are\n",
+	"infinitely impressed by your fortitude and strength of will. Therefore,\n",
+	"we have a proposition for you...\"^",
+	"*3As the voice addresses you, you find yourself either unwilling or unable\n",
+	"to reject what it tells you. Eventually, there is an inexplicable shift in your\n",
+	"mortal being, and you feel yourself fading away...\n^",
+	"*3\"Evil fades from the mortal world, and its Guardian sleeps. The first age\n",
+	"comes to a close, and the age of chaos begins. Rest now, brave one: your time\n",
+	"will come again.\""
+    ],
+    "images": [
+	"*images/ui/Main Menus/Story/black.png",
+	"*images/ui/Main Menus/Story/NoEternals.png",
+	"*images/ui/Main Menus/Story/Eternals.png",
+	"*images/ui/Main Menus/Story/white.png",
+	"*images/ui/Main Menus/Story/black.png"
+    ]
+}

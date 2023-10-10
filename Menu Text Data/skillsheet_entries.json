@@ -1,0 +1,681 @@
+{
+	"version": 1,
+	"colors": {
+		"default": {
+			"r": 201,
+			"g": 162,
+			"b": 100,
+			"a": 255
+		},
+		"novice": {
+			"r": 74,
+			"g": 196,
+			"b": 20,
+			"a": 255
+		},
+		"expert": {
+			"r": 55,
+			"g": 149,
+			"b": 215,
+			"a": 255
+		},
+		"legend": {
+			"r": 230,
+			"g": 183,
+			"b": 20,
+			"a": 255
+		}
+	},
+	"skill_background_icons" : {
+		"default": "#*images/ui/SkillSheet/UI_Skills_Icons_BG00_00.png",
+		"default_selected": "#*images/ui/SkillSheet/UI_Skills_Icons_BG00Select_00.png",
+		"novice": "#*images/ui/SkillSheet/UI_Skills_Icons_BG20_00.png",
+		"novice_selected": "#*images/ui/SkillSheet/UI_Skills_Icons_BG20Select_00.png",
+		"expert": "#*images/ui/SkillSheet/UI_Skills_Icons_BG60_00.png",
+		"expert_selected": "#*images/ui/SkillSheet/UI_Skills_Icons_BG60Select_00.png",
+		"legend": "#*images/ui/SkillSheet/UI_Skills_Icons_BG100_00.png",
+		"legend_selected": "#*images/ui/SkillSheet/UI_Skills_Icons_BG100Select_00.png"
+	},
+	"skill_select_images": {
+		"highlight_left": "#*images/ui/SkillSheet/UI_Skills_SkillSelector_01.png",
+		"selected_left": "#*images/ui/SkillSheet/UI_Skills_SkillUnselected100_01.png",
+		"highlight_right": "#*images/ui/SkillSheet/UI_Skills_SkillSelectorR_01.png",
+		"selected_right": "#*images/ui/SkillSheet/UI_Skills_SkillUnselected100R_01.png"
+	},
+	"window_scaling": {
+		"standard_scale_modifier_x": 2.0,
+		"standard_scale_modifier_y": 1.2,
+		"compact_scale_modifier_x": 0.5,
+		"compact_scale_modifier_y": 0.0
+	},
+	"alchemy_potion_names_to_filter": ["potion of ", "bottle of "],
+	"skills": [
+		{
+			"name": "Stealth",
+			"id": 1,
+			"sfx": 549,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Stealth01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Stealth01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Stealth02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Stealth02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_DEX_00.png",
+			"description": "Provides reduced visibility to enemies, bonus melee stealth attack damage, and additional vision while sneaking. Use the Defend command without holding a shield to sneak.",
+			"legend_text": "Sneaking grants invisibility. Backstab bonus damage is doubled.",
+			"effects_position": {
+				"effect_start_offset_x": 80,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 88
+			},
+			"effects": [
+				{
+					"tag": "STEALTH_VIS_REDUCTION",
+					"title": "Visibility Reduction:",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "STEALTH_SNEAK_VIS",
+					"title": "Sneaking Bonus Vision:",
+					"value": "%+d Light"
+				},
+				{
+					"tag": "STEALTH_BACKSTAB",
+					"title": "Backstab Bonus DMG:",
+					"value": "%+d ATK"
+				},
+				{
+					"tag": "STEALTH_CURRENT_VIS",
+					"title": "Current Visibility:",
+					"value": "%d Tiles",
+					"realtime_update": true
+				}
+			]
+		},
+		{
+			"name": "Blocking",
+			"id": 13,
+			"sfx": 599,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Blocking01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Blocking01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Blocking02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Blocking02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CON_00.png",
+			"description": "Increases Armor Class bonus while defending.\n Provides passive Armor Class bonus to held shields. Improves durability of Off-hand items during combat.",
+			"legend_text": "Shields never degrade on hit.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "BLOCK_AC_INCREASE",
+					"title": "Defending AC increase:",
+					"value": "%+d AC"
+				},
+				{
+					"tag": "PASSIVE_AC_INCREASE",
+					"title": "Passive AC increase\n while holding shields:",
+					"value": "%+d AC"
+				},
+				{
+					"tag": "BLOCK_DEGRADE_NORMAL_CHANCE",
+					"title": "Shield degrade chance:\n (On receiving damage)",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "BLOCK_DEGRADE_DEFENDING_CHANCE",
+					"title": "Shield degrade chance:\n (While Defending):",
+					"value": "%.2f%%"
+				}
+			]
+		},
+		{
+			"name": "Ranged",
+			"id": 8,
+			"sfx": 600,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Ranged01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Ranged01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Ranged02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Ranged02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_DEX_00.png",
+			"description": "Increases ranged/thrown damage and improves durability of ranged weaponry.",
+			"legend_text": "Ranged weaponry never degrades on use.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "RANGED_DMG_EFFECTIVENESS",
+					"title": "Ranged ATK\n effectiveness:",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "RANGED_DEGRADE_CHANCE",
+					"title": "Ranged weapon\n degrade chance:",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "RANGED_PIERCE_CHANCE",
+					"title": "Ranged attack\n piercing arrow chance:\n (using PER Stat)",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "RANGED_THROWN_DMG",
+					"title": "Thrown weapon ATK:",
+					"value": "%+d%%"
+				}
+			]
+		},
+		{
+			"name": "Unarmed",
+			"id": 14,
+			"sfx": 594,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Unarmed01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Unarmed01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Unarmed02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Unarmed02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
+			"description": "Increases unarmed damage with bare fists or fist weapons. Improves fist weapon durability and applies knockback on fully charged strikes.",
+			"legend_text": "+5 ATK and inflict 1 second Paralyze status on fully charged stealth backstab strike.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "UNARMED_DMG_EFFECTIVENESS",
+					"title": "Unarmed ATK\n effectiveness:",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "UNARMED_BONUS_DMG",
+					"title": "Unarmed bonus ATK:",
+					"value": "%+d ATK"
+				},
+				{
+					"tag": "GLOVE_DEGRADE_CHANCE",
+					"title": "Fist weapon degrade\n chance:\n (Normal strikes)",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "GLOVE_DEGRADE0_CHANCE",
+					"title": "Fist weapon degrade\n chance:\n (On 0 damage dealt)",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "UNARMED_KNOCKBACK_DIST",
+					"title": "Fist weapon knockback\n distance:",
+					"value": "%+d%%"
+				}
+			]
+		},
+		{
+			"name": "Swords",
+			"id": 9,
+			"sfx": 588,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Swords01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Swords01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Swords02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Swords02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
+			"description": "Increases damage and improves durability of sword weaponry.",
+			"legend_text": "+5 ATK and inflict 5 second Bleed status on fully charged strike.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "SWORD_DMG_EFFECTIVENESS",
+					"title": "Sword ATK\n effectiveness:",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "SWORD_DEGRADE_CHANCE",
+					"title": "Weapon degrade\n chance:\n (Normal strikes)",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "SWORD_DEGRADE0_CHANCE",
+					"title": "Weapon degrade\n chance:\n (On 0 damage dealt)",
+					"value": "%.2f%%"
+				}
+			]
+		},
+		{
+			"name": "Polearms",
+			"id": 12,
+			"sfx": 578,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Polearms01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Polearms01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Polearms02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Polearms02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
+			"description": "Increases damage and improves durability of polearm weaponry.",
+			"legend_text": "+5 ATK and inflict Knockback status on fully charged strike.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "POLEARM_DMG_EFFECTIVENESS",
+					"title": "Polearm ATK\n effectiveness:",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "POLEARM_DEGRADE_CHANCE",
+					"title": "Weapon degrade\n chance:\n (Normal strikes)",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "POLEARM_DEGRADE0_CHANCE",
+					"title": "Weapon degrade\n chance:\n (On 0 damage dealt)",
+					"value": "%.2f%%"
+				}
+			]
+		},
+		{
+			"name": "Axes",
+			"id": 11,
+			"sfx": 570,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Axes01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Axes01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Axes02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Axes02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
+			"description": "Increases damage and improves durability of axe weaponry.",
+			"legend_text": "+10 ATK and inflict 3 second Slow status on fully charged strike.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "AXE_DMG_EFFECTIVENESS",
+					"title": "Axe ATK\n effectiveness:",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "AXE_DEGRADE_CHANCE",
+					"title": "Weapon degrade\n chance:\n (Normal strikes)",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "AXE_DEGRADE0_CHANCE",
+					"title": "Weapon degrade\n chance:\n (On 0 damage dealt)",
+					"value": "%.2f%%"
+				}
+			]
+		},
+		{
+			"name": "Maces",
+			"id": 10,
+			"sfx": 575,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Maces01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Maces01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Maces02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Maces02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
+			"description": "Increases damage and improves durability of mace weaponry.",
+			"legend_text": "+5 ATK and 25% chance to inflict 1.5 second Paralyze status on fully charged strike.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "MACE_DMG_EFFECTIVENESS",
+					"title": "Mace ATK\n effectiveness:",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "MACE_DEGRADE_CHANCE",
+					"title": "Weapon degrade\n chance:\n (Normal strikes)",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "MACE_DEGRADE0_CHANCE",
+					"title": "Weapon degrade\n chance:\n (On 0 damage dealt)",
+					"value": "%.2f%%"
+				}
+			]
+		},
+		{
+			"name": "Swimming",
+			"id": 4,
+			"sfx": 552,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Swimming01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Swimming01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Swimming02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Swimming02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CON_00.png",
+			"description": "Increases movement speed while swimming in liquids.",
+			"legend_text": "Permanent water-walking over water and lava.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "SWIM_SPEED_TOTAL",
+					"title": "Movement speed\n while swimming:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "SWIM_SPEED_BASE",
+					"title": "Base speed multiplier\n penalty in liquids:",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "SWIM_SPEED_BONUS",
+					"title": "Bonus speed multiplier\n from Swimming skill:",
+					"value": "+%d%%"
+				}
+			]
+		},
+		{
+			"name": "Leadership",
+			"id": 5,
+			"sfx": 603,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Leadership01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Leadership01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Leadership02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Leadership02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CHA_00.png",
+			"description": "Increases number of NPC followers able to be recruited at one time and unlocks more follower commands while interacting.",
+			"legend_text": "Can recruit goblins, goatmen and insectoids in addition to standard racial allegiances.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "LEADER_MAX_FOLLOWERS",
+					"title": "Maximum followers:",
+					"value": "%d"
+				},
+				{
+					"tag": "LEADER_FOLLOWER_SPEED",
+					"title": "Bonus follower\n movement speed:",
+					"value": "+%d DEX"
+				},
+				{
+					"tag": "LEADER_CHARM_MONSTER",
+					"title": "Charm Monster spell\n base chance:\n (Using skill + CHR stat)",
+					"value": "+%d%%"
+				},
+				{
+					"tag": "LIST_LEADER_AVAILABLE_FOLLOWERS",
+					"title": "Current recruitable\n ally races:",
+					"value": "%s",
+					"auto_resize_value": true
+				}
+			]
+		},
+		{
+			"name": "Trading",
+			"id": 2,
+			"sfx": 552,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Trading01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Trading01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Trading02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Trading02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CHA_00.png",
+			"description": "Reduces buying prices and improves selling prices when trading with Shopkeepers.",
+			"legend_text": "Unlocks the ability to sell items of any kind to any Shopkeeper.",
+			"effects_position": {
+				"effect_start_offset_x": 102,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 110
+			},
+			"effects": [
+				{
+					"tag": "TRADING_BUY_PRICE",
+					"title": "Price markup on\nbuying items from shop:",
+					"value": "%+.f%% Gold"
+				},
+				{
+					"tag": "TRADING_SELL_PRICE",
+					"title": "Resale penalty from\nselling items to shop:\n (Using skill + CHR stat)",
+					"value": "%.f%% Gold"
+				}
+			]
+		},
+		{
+			"name": "Appraisal",
+			"id": 3,
+			"sfx": 568,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Appraisal01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Appraisal01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Appraisal02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Appraisal02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_PER_00.png",
+			"description": "Increases speed of appraising and allows appraising of higher gold value items.",
+			"legend_text": "Appraise all items instantly.",
+			"effects_position": {
+				"effect_start_offset_x": 88,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 96
+			},
+			"effects": [
+				{
+					"tag": "APPRAISE_GOLD_SPEED",
+					"title": "Time to appraise item\n per gold value:",
+					"value": "%.2f seconds",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "APPRAISE_MAX_GOLD_VALUE",
+					"title": "Maximum gold value\n able to appraise:\n (Using skill + PER stat)",
+					"value": "%d Gold"
+				},
+				{
+					"tag": "APPRAISE_WORTHLESS_GLASS",
+					"title": "Able to appraise\n Worthless Glass:\n (Using skill + PER stat)",
+					"value": "%s"
+				}
+			]
+		},
+		{
+			"name": "Tinkering",
+			"id": 0,
+			"sfx": 552,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Tinkering01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Tinkering01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Tinkering02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Tinkering02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_PER_00.png",
+			"description": "Improves ability with tinkering kits, increasing the amount of craftable items and deployed machinery. Increases chances to lockpick objects in the world.",
+			"legend_text": "Able to repair most weapons and armor using a tinkering kit and find bonus items or gold when lockpicking chests.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "TINKERING_LOCKPICK_CHESTS_DOORS",
+					"title": "Chance to lockpick\n chests and doors:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "TINKERING_SCRAP_CHESTS",
+					"title": "Scrap chance from\n lockpicking chests:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "TINKERING_SCRAP_AUTOMATONS",
+					"title": "Scrap chance from\n lockpicking Automatons:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "TINKERING_DISARM_ARROWS",
+					"title": "Chance to disarm\n arrow traps:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "TINKERING_KIT_SCRAP_BONUS",
+					"title": "Bonus scrap\n while salvaging:\n (Using skill + PER stat)",
+					"value": "+%d%%"
+				},
+				{
+					"tag": "TINKERING_KIT_REPAIR_ITEM",
+					"title": "Highest Metal/Magic\n item able to repair:\n (Using skill + PER stat)",
+					"value": "%s",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "TINKERING_MAX_ALLIES",
+					"title": "Maximum deployed\n tinkering allies:",
+					"value": "%d"
+				}
+			]
+		},
+		{
+			"name": "Alchemy",
+			"id": 15,
+			"sfx": 552,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Alchemy01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Alchemy01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Alchemy02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Alchemy02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+			"description": "Improves ability to brew potions with alembics and increases damage of thrown offensive potions.\nDrink or brew potions to learn useful ingredients in Alchemy.",
+			"legend_text": "Alembics never degrade.\nBrewed potions have +2 blessing.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "ALCHEMY_POTION_EFFECT_DMG",
+					"title": "Potion effect damage:",
+					"value": "+%d%%"
+				},
+				{
+					"tag": "ALCHEMY_THROWN_IMPACT_DMG",
+					"title": "Thrown potion\n impact damage:",
+					"value": "+%d%%"
+				},
+				{
+					"tag": "ALCHEMY_DUPLICATION_CHANCE",
+					"title": "Potion duplication\n chance using water:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "ALCHEMY_EMPTY_BOTTLE_CONSUME",
+					"title": "Empty bottle salvage\n on consuming potions:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "ALCHEMY_EMPTY_BOTTLE_BREW",
+					"title": "Empty bottle salvage\n on brewing potions:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "ALCHEMY_LEARNT_INGREDIENTS_BASE",
+					"title": "Learnt Alchemy\n ingredients:\n (Primary)",
+					"value": "%s",
+					"custom_value_width_offset": 0,
+					"auto_resize_value": true,
+					"realtime_update": true
+				},
+				{
+					"tag": "ALCHEMY_LEARNT_INGREDIENTS_SECONDARY",
+					"title": "Learnt Alchemy\n ingredients:\n (Secondary)",
+					"value": "%s",
+					"custom_value_width_offset": 0,
+					"auto_resize_value": true,
+					"realtime_update": true
+				}
+			]
+		},
+		{
+			"name": "Magic",
+			"id": 7,
+			"sfx": 597,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Magic01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Magic01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Magic02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Magic02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+			"description": "Allows higher level magic spells to be learned from spellbooks. Equip spells via the Magic menu and use the Cast command, or wield spellbooks and use the Defend command to use magic.",
+			"legend_text": "Auto-learn Dominate spell.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "MAGIC_SPELLPOWER",
+					"title": "Base spell power bonus:\n (Using INT stat)",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "MAGIC_CURRENT_TIER",
+					"title": "Highest Magic tier\n able to learn:\n (Using skill + INT stat)",
+					"value": "%s"
+				},
+				{
+					"tag": "MAGIC_CURRENT_TIER_SPELLS",
+					"title": "Spells in current\n Magic tier:",
+					"value": "%s",
+					"auto_resize_value": true
+				}
+			]
+		},
+		{
+			"name": "Casting",
+			"id": 6,
+			"sfx": 596,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Casting01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Casting01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Casting02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Casting02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+			"description": "Improves reliability of Casting and Spellbook-Casting spells, reducing chances to fumble or over-expend mana. Increases passive MP regen.",
+			"legend_text": "Auto-learn Forcebolt spell with (0) MP cost.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "CASTING_MP_REGEN_SKILL_MULTIPLIER",
+					"title": "MP Regen INT multiplier\n from skill:",
+					"value": "%dx INT",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "CASTING_MP_REGEN",
+					"title": "Base MP Regen rate:\n (Before item/race\n modifiers)",
+					"value": "1 MP every\n%.2f seconds",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "CASTING_BEGINNER",
+					"title": "Able to fail casting\n of learned spells:",
+					"value": "%s"
+				},
+				{
+					"tag": "CASTING_SPELLBOOK_FUMBLE",
+					"title": "Highest Magic tier\n to Spellbook-Cast\n without fumbling:\n (Using skill + INT stat)",
+					"value": "%s"
+				}
+			]
+		}
+	]
+}

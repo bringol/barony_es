@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "press_a_to_advance": true,
+    "text": [
+    	"*3Hacking your way through every demon in your path, you leap through the\n",
+	"portal without a moment's hesitation. It seems no entity, mortal or\n",
+	"immortal, can challenge your power.\n^",
+	"*3Suddenly, you find yourself standing wearily in an endless white hall dotted\n",
+	"with enormous pillars that stretch higher than you can see. Your servos\n",
+	"are too worn to support you any further, and you collapse to the ground.\n",
+	"*2Can this supernatural place compete with Minotaurs, Demons; Baphomet himself?\n",
+	"You detect great magic flowing into the room. A voice booms:\n^",
+	"*2\"We are impressed with your ability, servile one. You were not expected here.\n",
+	"We ask you consider this proposition...\"\n^",
+	"*3As the voice addresses you, you find yourself either unwilling or unable\n",
+	"to reject what it tells you. Eventually, you detect a transfer of consciousness,\n",
+	"and you feel your body being transported a great distance.\n^",
+	"*3You sense the supreme power of a great mind as you fade from the mortal world.\n",
+	"The first age comes to a close, and the age of chaos begins. You are sure that\n",
+	"your time is emminent and your purpose will be fulfilled."
+    ],
+    "images": [
+	"*images/ui/Main Menus/Story/black.png",
+	"*images/ui/Main Menus/Story/NoEternals.png",
+	"*images/ui/Main Menus/Story/Eternals.png",
+	"*images/ui/Main Menus/Story/white.png",
+	"*images/ui/Main Menus/Story/black.png"
+    ]
+}

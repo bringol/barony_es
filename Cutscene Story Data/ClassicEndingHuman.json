@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "press_a_to_advance": true,
+    "text": [
+    	"*3Victorious, you step into the portal. You know not what to expect,\n",
+    	"but are awash with relief. Somehow, you know that the Baron's curse\n",
+	"has been lifted from this land.\n^",
+	"*4Before you have time to think, you are suddenly standing before the mines\n",
+	"once more. But something is different; the howls of distant monsters have\n",
+	"vanished, and the skies, once a menacing black, are clearing to show the\n",
+	"light of day again.\n^",
+	"*3Suddenly, the doors to the mine open wide. Sealed for years to contain\n",
+	"the evil within, they swing out from the inside, as a hundred grateful humans\n",
+	"rush out to greet the one who destroyed the Baron.\n^",
+	"*4The hellish source of the Baron's power remains a mystery to you, and some\n",
+	"deliberation leads you to believe that a visit to the Magician's Guild is in\n",
+	"order for some deeper investigation. But for now, you simply attend to the\n",
+	"merriment of the people you just saved..."
+    ],
+    "images": [
+	"*images/ui/Main Menus/Story/black.png",
+	"*images/ui/Main Menus/Story/intro4.png",
+	"*images/ui/Main Menus/Story/Hamlet_Rescue.png",
+	"*images/ui/Main Menus/Story/MagiciansGuild.png"
+    ]
+}

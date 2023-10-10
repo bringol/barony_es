@@ -1,0 +1,1756 @@
+{
+	"version": 1,
+	"panel_center_x_offset": -62,
+	"panel_center_y_offset": -24,
+	"panel_radius": 94,
+	"panel_button_thickness": 52,
+	"panel_inner_circle_radius_offset": -6,
+	"colors": {
+		"title": {
+			"r": 210,
+			"g": 183,
+			"b": 76,
+			"a": 255
+		},
+		"title_creature_highlight": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"banner_default": {
+			"r": 201,
+			"g": 162,
+			"b": 100,
+			"a": 255
+		},
+		"banner_highlight_default": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		}
+	},
+	"help_strings": {
+		"hungry": "Hungry",
+		"very_hungry": "Very Hungry",
+		"starving": "Starving",
+		"hungry_blood": "Hungry",
+		"very_hungry_blood": "Very Hungry",
+		"starving_blood": "Starving",
+		"healing": "Needs Healing",
+		"healing_urgent": "Needs Healing",
+		"low_steam": "Low Boiler",
+		"empty_steam": "Empty Boiler",
+		"separator": "/"
+	},
+	"world_icons" : {
+		"tag_spot": {
+			"default": "tag_spot.png",
+			"0": "tagGold_spot.png",
+			"1": "tagGreen_spot.png",
+			"2": "tagRed_spot.png",
+			"3": "tagPink_spot.png",
+			"4": "tagWhite_spot.png"
+		},
+		"tag_spot-interact_me": {
+			"default": "tag_spot-interact_me.png",
+			"0": "tagGold_spot-interact_me.png",
+			"1": "tagGreen_spot-interact_me.png",
+			"2": "tagRed_spot-interact_me.png",
+			"3": "tagPink_spot-interact_me.png",
+			"4": "tagWhite_spot-interact_me.png"
+		},
+		"tag_self_player-wave": {
+			"default": "self_player-wave.png",
+			"0": "self_playerGold-wave.png",
+			"1": "self_playerGreen-wave.png",
+			"2": "self_playerRed-wave.png",
+			"3": "self_playerPink-wave.png",
+			"4": "self_playerWhite-wave.png"
+		},
+		"tag_self_player-wave_display_self": {
+			"default": "btn_locked_wave.png",
+			"0": "btn_playerGold_wave.png",
+			"1": "btn_playerGreen_wave.png",
+			"2": "btn_playerRed_wave.png",
+			"3": "btn_playerPink_wave.png",
+			"4": "btn_playerWhite_wave.png"
+		},
+		"tag_btn_player_wave_hover": {
+			"default": "",
+			"0": "btn_playerGold_wave_hover.png",
+			"1": "btn_playerGreen_wave_hover.png",
+			"2": "btn_playerRed_wave_hover.png",
+			"3": "btn_playerPink_wave_hover.png",
+			"4": "btn_playerWhite_wave_hover.png"
+		},
+		"tag_btn_player_wave": {
+			"default": "",
+			"0": "btn_playerGold_wave.png",
+			"1": "btn_playerGreen_wave.png",
+			"2": "btn_playerRed_wave.png",
+			"3": "btn_playerPink_wave.png",
+			"4": "btn_playerWhite_wave.png"
+		},
+		"tag_btn_player_wave_to_me": {
+			"default": "btn_locked_wave.png",
+			"0": "btn_playerGold_wave_to_me.png",
+			"1": "btn_playerGreen_wave_to_me.png",
+			"2": "btn_playerRed_wave_to_me.png",
+			"3": "btn_playerPink_wave_to_me.png",
+			"4": "btn_playerWhite_wave_to_me.png"
+		},
+		"tag_spot-item": {
+			"default": "tag_spot-item.png",
+			"0": "tagGold_spot-item.png",
+			"1": "tagGreen_spot-item.png",
+			"2": "tagRed_spot-item.png",
+			"3": "tagPink_spot-item.png",
+			"4": "tagWhite_spot-item.png"
+		},
+		"tag_spot-item_me": {
+			"default": "tag_spot-item_me.png",
+			"0": "tagGold_spot-item_me.png",
+			"1": "tagGreen_spot-item_me.png",
+			"2": "tagRed_spot-item_me.png",
+			"3": "tagPink_spot-item_me.png",
+			"4": "tagWhite_spot-item_me.png"
+		},
+		"tag_spot-trap": {
+			"default": "tag_spot-trap.png",
+			"0": "tagGold_spot-trap.png",
+			"1": "tagGreen_spot-trap.png",
+			"2": "tagRed_spot-trap.png",
+			"3": "tagPink_spot-trap.png",
+			"4": "tagWhite_spot-trap.png"
+		},
+		"tag_spot_me": {
+			"default": "tag_spot_me.png",
+			"0": "tagGold_spot_me.png",
+			"1": "tagGreen_spot_me.png",
+			"2": "tagRed_spot_me.png",
+			"3": "tagPink_spot_me.png",
+			"4": "tagWhite_spot_me.png"
+		},
+		"tag_good": {
+			"default": "tag_good.png",
+			"0": "tagGold_good.png",
+			"1": "tagGreen_good.png",
+			"2": "tagRed_good.png",
+			"3": "tagPink_good.png",
+			"4": "tagWhite_good.png"
+		},
+		"tag_good_display_self": {
+			"default": "btn_player_up.png",
+			"0": "btn_playerGold_up.png",
+			"1": "btn_playerGreen_up.png",
+			"2": "btn_playerRed_up.png",
+			"3": "btn_playerPink_up.png",
+			"4": "btn_playerWhite_up.png"
+		},
+		"tag_good-NPC": {
+			"default": "tag_good-NPC.png",
+			"0": "tagGold_good-NPC.png",
+			"1": "tagGreen_good-NPC.png",
+			"2": "tagRed_good-NPC.png",
+			"3": "tagPink_good-NPC.png",
+			"4": "tagWhite_good-NPC.png"
+		},
+		"tag_good-item": {
+			"default": "tag_good-item.png",
+			"0": "tagGold_good-item.png",
+			"1": "tagGreen_good-item.png",
+			"2": "tagRed_good-item.png",
+			"3": "tagPink_good-item.png",
+			"4": "tagWhite_good-item.png"
+		},
+		"tag_good-trap": {
+			"default": "tag_good-trap.png",
+			"0": "tagGold_good-trap.png",
+			"1": "tagGreen_good-trap.png",
+			"2": "tagRed_good-trap.png",
+			"3": "tagPink_good-trap.png",
+			"4": "tagWhite_good-trap.png"
+		},
+		"tag_good-interact": {
+			"default": "tag_good-interact.png",
+			"0": "tagGold_good-interact.png",
+			"1": "tagGreen_good-interact.png",
+			"2": "tagRed_good-interact.png",
+			"3": "tagPink_good-interact.png",
+			"4": "tagWhite_good-interact.png"
+		},
+		"tag_bad": {
+			"default": "tag_bad.png",
+			"0": "tagGold_bad.png",
+			"1": "tagGreen_bad.png",
+			"2": "tagRed_bad.png",
+			"3": "tagPink_bad.png",
+			"4": "tagWhite_bad.png"
+		},
+		"tag_bad_display_self": {
+			"default": "btn_player_down.png",
+			"0": "btn_playerGold_down.png",
+			"1": "btn_playerGreen_down.png",
+			"2": "btn_playerRed_down.png",
+			"3": "btn_playerPink_down.png",
+			"4": "btn_playerWhite_down.png"
+		},
+		"tag_bad-NPC": {
+			"default": "tag_bad-NPC.png",
+			"0": "tagGold_bad-NPC.png",
+			"1": "tagGreen_bad-NPC.png",
+			"2": "tagRed_bad-NPC.png",
+			"3": "tagPink_bad-NPC.png",
+			"4": "tagWhite_bad-NPC.png"
+		},
+		"tag_bad-item": {
+			"default": "tag_bad-item.png",
+			"0": "tagGold_bad-item.png",
+			"1": "tagGreen_bad-item.png",
+			"2": "tagRed_bad-item.png",
+			"3": "tagPink_bad-item.png",
+			"4": "tagWhite_bad-item.png"
+		},
+		"tag_bad-trap": {
+			"default": "tag_bad-trap.png",
+			"0": "tagGold_bad-trap.png",
+			"1": "tagGreen_bad-trap.png",
+			"2": "tagRed_bad-trap.png",
+			"3": "tagPink_bad-trap.png",
+			"4": "tagWhite_bad-trap.png"
+		},
+		"tag_bad-interact": {
+			"default": "tag_bad-interact.png",
+			"0": "tagGold_bad-interact.png",
+			"1": "tagGreen_bad-interact.png",
+			"2": "tagRed_bad-interact.png",
+			"3": "tagPink_bad-interact.png",
+			"4": "tagWhite_bad-interact.png"
+		},
+		"tag_bad-NPC": {
+			"default": "tag_bad-NPC.png",
+			"0": "tagGold_bad-NPC.png",
+			"1": "tagGreen_bad-NPC.png",
+			"2": "tagRed_bad-NPC.png",
+			"3": "tagPink_bad-NPC.png",
+			"4": "tagWhite_bad-NPC.png"
+		},
+		"tag_help": {
+			"default": "tag_help.png",
+			"0": "tagGold_help.png",
+			"1": "tagGreen_help.png",
+			"2": "tagRed_help.png",
+			"3": "tagPink_help.png",
+			"4": "tagWhite_help.png"
+		},
+		"tag_help_display_self": {
+			"default": "btn_player_genhelp.png",
+			"0": "btn_playerGold_genhelp.png",
+			"1": "btn_playerGreen_genhelp.png",
+			"2": "btn_playerRed_genhelp.png",
+			"3": "btn_playerPink_genhelp.png",
+			"4": "btn_playerWhite_genhelp.png"
+		},
+		"tag_help-cure": {
+			"default": "tag_help-cure.png",
+			"0": "tagGold_help-cure.png",
+			"1": "tagGreen_help-cure.png",
+			"2": "tagRed_help-cure.png",
+			"3": "tagPink_help-cure.png",
+			"4": "tagWhite_help-cure.png"
+		},
+		"tag_help-cure_display_self": {
+			"default": "btn_player_help-cure.png",
+			"0": "btn_playerGold_help-cure.png",
+			"1": "btn_playerGreen_help-cure.png",
+			"2": "btn_playerPink_help-cure.png",
+			"3": "btn_playerRed_help-cure.png",
+			"4": "btn_playerWhite_help-cure.png"
+		},
+		"tag_help-food": {
+			"default": "tag_help-food.png",
+			"0": "tagGold_help-food.png",
+			"1": "tagGreen_help-food.png",
+			"2": "tagRed_help-food.png",
+			"3": "tagPink_help-food.png",
+			"4": "tagWhite_help-food.png"
+		},
+		"tag_help-food_display_self": {
+			"default": "btn_player_help-food.png",
+			"0": "btn_playerGold_help-food.png",
+			"1": "btn_playerGreen_help-food.png",
+			"2": "btn_playerPink_help-food.png",
+			"3": "btn_playerRed_help-food.png",
+			"4": "btn_playerWhite_help-food.png"
+		},
+		"tag_help-hp": {
+			"default": "tag_help-hp.png",
+			"0": "tagGold_help-hp.png",
+			"1": "tagGreen_help-hp.png",
+			"2": "tagRed_help-hp.png",
+			"3": "tagPink_help-hp.png",
+			"4": "tagWhite_help-hp.png"
+		},
+		"tag_help-hp_display_self": {
+			"default": "btn_player_help-hp.png",
+			"0": "btn_playerGold_help-hp.png",
+			"1": "btn_playerGreen_help-hp.png",
+			"2": "btn_playerPink_help-hp.png",
+			"3": "btn_playerRed_help-hp.png",
+			"4": "btn_playerWhite_help-hp.png"
+		},
+		"tag_help-item": {
+			"default": "tag_help-item.png",
+			"0": "tagGold_help-item.png",
+			"1": "tagGreen_help-item.png",
+			"2": "tagRed_help-item.png",
+			"3": "tagPink_help-item.png",
+			"4": "tagWhite_help-item.png"
+		},
+		"tag_help-npc": {
+			"default": "tag_help-npc.png",
+			"0": "tagGold_help-npc.png",
+			"1": "tagGreen_help-npc.png",
+			"2": "tagRed_help-npc.png",
+			"3": "tagPink_help-npc.png",
+			"4": "tagWhite_help-npc.png"
+		},
+		"tag_move": {
+			"default": "tag_move.png",
+			"0": "tagGold_move.png",
+			"1": "tagGreen_move.png",
+			"2": "tagRed_move.png",
+			"3": "tagPink_move.png",
+			"4": "tagWhite_move.png"
+		},
+		"tag_move_display_self": {
+			"default": "btn_player_point.png",
+			"0": "btn_playerGold_point.png",
+			"1": "btn_playerGreen_point.png",
+			"2": "btn_playerRed_point.png",
+			"3": "btn_playerPink_point.png",
+			"4": "btn_playerWhite_point.png"
+		},
+		"tag_move-exit": {
+			"default": "tag_move-exit.png",
+			"0": "tagGold_move-exit.png",
+			"1": "tagGreen_move-exit.png",
+			"2": "tagRed_move-exit.png",
+			"3": "tagPink_move-exit.png",
+			"4": "tagWhite_move-exit.png"
+		},
+		"tag_move-NPC": {
+			"default": "tag_move-NPC.png",
+			"0": "tagGold_move-NPC.png",
+			"1": "tagGreen_move-NPC.png",
+			"2": "tagRed_move-NPC.png",
+			"3": "tagPink_move-NPC.png",
+			"4": "tagWhite_move-NPC.png"
+		},
+		"self_player-thanks": {
+			"default": "self_player-thanks.png",
+			"0": "self_playerGold-thanks.png",
+			"1": "self_playerGreen-thanks.png",
+			"2": "self_playerRed-thanks.png",
+			"3": "self_playerPink-thanks.png",
+			"4": "self_playerWhite-thanks.png"
+		},
+		"mini_spot": {
+			"default": "mini_spot.png",
+			"0": "miniGold_spot.png",
+			"1": "miniGreen_spot.png",
+			"2": "miniRed_spot.png",
+			"3": "miniPink_spot.png",
+			"4": "miniWhite_spot.png"
+		},
+		"mini_no": {
+			"default": "mini_no.png",
+			"0": "miniGold_no.png",
+			"1": "miniGreen_no.png",
+			"2": "miniRed_no.png",
+			"3": "miniPink_no.png",
+			"4": "miniWhite_no.png"
+		},
+		"mini_yes": {
+			"default": "mini_yes.png",
+			"0": "miniGold_yes.png",
+			"1": "miniGreen_yes.png",
+			"2": "miniRed_yes.png",
+			"3": "miniPink_yes.png",
+			"4": "miniWhite_yes.png"
+		},
+		"mini_move": {
+			"default": "mini_move.png",
+			"0": "miniGold_move.png",
+			"1": "miniGreen_move.png",
+			"2": "miniRed_move.png",
+			"3": "miniPink_move.png",
+			"4": "miniWhite_move.png"
+		},
+		"mini_item": {
+			"default": "mini_item.png",
+			"0": "miniGold_item.png",
+			"1": "miniGreen_item.png",
+			"2": "miniRed_item.png",
+			"3": "miniPink_item.png",
+			"4": "miniWhite_item.png"
+		},
+		"mini_help": {
+			"default": "mini_help.png",
+			"0": "miniGold_help.png",
+			"1": "miniGreen_help.png",
+			"2": "miniRed_help.png",
+			"3": "miniPink_help.png",
+			"4": "miniWhite_help.png"
+		},
+		"mini_heal": {
+			"default": "mini_heal.png",
+			"0": "miniGold_heal.png",
+			"1": "miniGreen_heal.png",
+			"2": "miniRed_heal.png",
+			"3": "miniPink_heal.png",
+			"4": "miniWhite_heal.png"
+		},
+		"mini_danger": {
+			"default": "mini_danger.png",
+			"0": "miniGold_danger.png",
+			"1": "miniGreen_danger.png",
+			"2": "miniRed_danger.png",
+			"3": "miniPink_danger.png",
+			"4": "miniWhite_danger.png"
+		}
+	},
+	"panels": [{
+			"direction": "north",
+			"x": -2,
+			"y": -126,
+			"icon_offset_x": 64,
+			"icon_offset_y": 52,
+			"path": "#*images/ui/CalloutWheel/panels/cmd_player_N.png",
+			"path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_N_u.png",
+			"path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_N_h.png",
+			"path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_N_uh.png"
+		},
+		{
+			"direction": "northwest",
+			"x": -76,
+			"y": -114,
+			"icon_offset_x": 68,
+			"icon_offset_y": 68,
+			"path": "#*images/ui/CalloutWheel/panels/cmd_player_NW.png",
+			"path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_NW_u.png",
+			"path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_NW_h.png",
+			"path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_NW_uh.png"
+		},
+		{
+			"direction": "west",
+			"x": -88,
+			"y": -38,
+			"icon_offset_x": 58,
+			"icon_offset_y": 64,
+			"path": "#*images/ui/CalloutWheel/panels/cmd_player_W.png",
+			"path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_W_u.png",
+			"path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_W_h.png",
+			"path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_W_uh.png"
+		},
+		{
+			"direction": "southwest",
+			"x": -76,
+			"y": 34,
+			"icon_offset_x": 72,
+			"icon_offset_y": 60,
+			"path": "#*images/ui/CalloutWheel/panels/cmd_player_SW.png",
+			"path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_SW_u.png",
+			"path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_SW_h.png",
+			"path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_SW_uh.png"
+		},
+		{
+			"direction": "south",
+			"x": -2,
+			"y": 48,
+			"icon_offset_x": 64,
+			"icon_offset_y": 72,
+			"path": "#*images/ui/CalloutWheel/panels/cmd_player_S.png",
+			"path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_S_u.png",
+			"path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_S_h.png",
+			"path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_S_uh.png"
+		},
+		{
+			"direction": "southeast",
+			"x": 74,
+			"y": 34,
+			"icon_offset_x": 58,
+			"icon_offset_y": 60,
+			"path": "#*images/ui/CalloutWheel/panels/cmd_player_SE.png",
+			"path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_SE_u.png",
+			"path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_SE_h.png",
+			"path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_SE_uh.png"
+		},
+		{
+			"direction": "east",
+			"x": 88,
+			"y": -40,
+			"icon_offset_x": 72,
+			"icon_offset_y": 64,
+			"path": "#*images/ui/CalloutWheel/panels/cmd_player_E.png",
+			"path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_E_u.png",
+			"path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_E_h.png",
+			"path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_E_uh.png"
+		},
+		{
+			"direction": "northeast",
+			"x": 74,
+			"y": -114,
+			"icon_offset_x": 60,
+			"icon_offset_y": 66,
+			"path": "#*images/ui/CalloutWheel/panels/cmd_player_NE.png",
+			"path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_NE_u.png",
+			"path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_NE_h.png",
+			"path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_NE_uh.png"
+		},
+		{
+			"direction": "center",
+			"x": -78,
+			"y": -118,
+			"icon_offset_x": 0,
+			"icon_offset_y": 0,
+			"path": "#*images/ui/CalloutWheel/panels/cmd_player_ctr.png",
+			"path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_ctr.png",
+			"path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_ctr_h.png",
+			"path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_ctr_u.png"
+		}
+	],
+	"icons": [{
+		"action": "look_at",
+		"id": 0,
+		"path": "#*images/ui/CalloutWheel/icons/btn_player_check.png",
+		"path_hover": "#*images/ui/CalloutWheel/icons/btn_player_check_hover.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Check this out!",
+				"word_highlights" : [],
+				"msg_says": "%s\"Check this out!\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"player_wave":
+			{
+				"text": "Wave to %s!",
+				"word_highlights" : [2],
+				"msg_emote": "%s waves to %s!",
+				"msg_emote_you": "You wave to %s!",
+				"msg_emote_to_you": "%s waves to you!",
+				"world_icon": "tag_self_player-wave",
+				"world_icon_small": "mini_spot"
+			},
+			"location" :
+			{
+				"text": "Gesture to this location.",
+				"word_highlights" : [],
+				"msg_emote": "%s gestures to a spot over there.",
+				"msg_emote_you": "You gesture to a spot over there.",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"item" : 
+			{
+				"text": "There's a %s here.",
+				"word_highlights" : [2],
+				"msg_says": "%s\"There's a %s here.\"",
+				"world_icon": "tag_spot-item",
+				"world_icon_small": "mini_item"
+			},
+			"item_an" : 
+			{
+				"text": "There's an %s here.",
+				"word_highlights" : [2],
+				"msg_says": "%s\"There's an %s here.\"",
+				"world_icon": "tag_spot-item",
+				"world_icon_small": "mini_item"
+			},
+			"npc" : 
+			{
+				"text": "There's a %s over here.",
+				"word_highlights" : [2],
+				"msg_says": "%s\"There's a %s over here.\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"npc_named" : 
+			{
+				"text": "%s is here.",
+				"word_highlights" : [0],
+				"msg_says": "%s\"%s is here.\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"npc_an" : 
+			{
+				"text": "There's an %s here.",
+				"word_highlights" : [2],
+				"msg_says": "%s\"There's an %s over here.\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"npc_enemy_named" : 
+			{
+				"text": "The enemy %s is here!",
+				"word_highlights" : [2],
+				"msg_says": "%s\"The enemy %s is here!\"",
+				"world_icon": "tag_bad-NPC",
+				"world_icon_small": "mini_spot"
+			},
+			"npc_enemy" : 
+			{
+				"text": "Enemy %s here!",
+				"word_highlights" : [1],
+				"msg_says": "%s\"Enemy %s here!\"",
+				"world_icon": "tag_bad-NPC",
+				"world_icon_small": "mini_spot"
+			},
+			"npc_ally" : 
+			{
+				"text": "Our ally %s is here.",
+				"word_highlights" : [2],
+				"msg_says": "%s\"Our ally %s is here.\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_heal"
+			},
+			"player_look" : 
+			{
+				"text": "Our ally %s is here.",
+				"word_highlights" : [2],
+				"msg_says": "%s\"Our ally %s is here.\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_heal"
+			},
+			"chest" : 
+			{
+				"text": "Point out the chest.",
+				"word_highlights" : [3],
+				"msg_says": "%s\"I found a chest!\"",
+				"world_icon": "tag_spot-item",
+				"world_icon_small": "mini_item"
+			},
+			"switch_on" : 
+			{
+				"text": "Point out this active switch.",
+				"word_highlights" : [3, 4],
+				"msg_says": "%s\"That switch over there has already been pulled.\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"switch_off" : 
+			{
+				"text": "Point out this inactive switch.",
+				"word_highlights" : [3, 4],
+				"msg_says": "%s\"That switch over there hasn't been pulled.\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"switch" : 
+			{
+				"text": "Point out the switch.",
+				"word_highlights" : [3],
+				"msg_says": "%s\"There's a switch over there.\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"boulder" : 
+			{
+				"text": "Point out the boulder.",
+				"word_highlights" : [3],
+				"msg_emote": "%s gestures to the boulder.",
+				"msg_emote_you": "You gesture to the boulder.",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"trap" : 
+			{
+				"text": "There's a %s here.",
+				"word_highlights" : [2],
+				"msg_says": "%s\"There's a %s here.\"",
+				"world_icon": "tag_spot-trap",
+				"world_icon_small": "mini_spot"
+			},
+			"generic_interactable" : 
+			{
+				"text": "Point out the %s.",
+				"word_highlights" : [3, 4],
+				"msg_says": "%s\"There's a %s over here.\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"shrine" : 
+			{
+				"text": "Point out the shrine.",
+				"word_highlights" : [3],
+				"msg_says": "%s\"There's a shrine over here.\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"exit" : 
+			{
+				"text": "Point out the exit.",
+				"word_highlights" : [3],
+				"msg_says": "%s\"The exit is over here.\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"secret_exit" : 
+			{
+				"text": "Point out the secret level exit.",
+				"word_highlights" : [3, 4, 5],
+				"msg_emote": "%s points to the secret level exit.",
+				"msg_emote_you": "You point to the secret level exit.",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"secret_entrance" : 
+			{
+				"text": "Point out the secret level entrance.",
+				"word_highlights" : [3, 4, 5],
+				"msg_emote": "%s points out the entrance to a secret area.",
+				"msg_emote_you": "You point out the entrance to a secret area.",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"gold" : 
+			{
+				"text": "Point out the sack of gold.",
+				"word_highlights" : [3, 4, 5],
+				"msg_emote": "%s points out a sack of gold.",
+				"msg_emote_you": "You point out a sack of gold.",
+				"world_icon": "tag_spot-item",
+				"world_icon_small": "mini_item"
+			},
+			"fountain" : 
+			{
+				"text": "Point out the fountain.",
+				"word_highlights" : [3],
+				"msg_emote": "%s points out a fountain.",
+				"msg_emote_you": "You point out a fountain.",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"sink" : 
+			{
+				"text": "Point out the sink.",
+				"word_highlights" : [3],
+				"msg_emote": "%s points out a sink.",
+				"msg_emote_you": "You point out a sink.",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"teleporter" : 
+			{
+				"text": "Pount out the teleporter.",
+				"word_highlights" : [3],
+				"msg_says": "%s\"Looks like there's a teleporter here.\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"teleporter_up" : 
+			{
+				"text": "Point out the way up.",
+				"word_highlights" : [3, 4],
+				"msg_says": "%s\"This ladder leads upward.\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"teleporter_down" : 
+			{
+				"text": "Point out the way down.",
+				"word_highlights" : [3, 4],
+				"msg_says": "%s\"This ladder will take us downward.\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"bomb" : 
+			{
+				"text": "Point out the %s.",
+				"word_highlights" : [3],
+				"msg_says": "%s\"A %s has been placed here.\"",
+				"world_icon": "tag_spot-trap",
+				"world_icon_small": "mini_spot"
+			},
+			"collider" : 
+			{
+				"text": "Point out the breakable %s.",
+				"word_highlights" : [4],
+				"msg_says": "%s\"We can bust through this %s.\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			}
+		}]
+	},
+	{
+		"action": "player_wave_1",
+		"id": 4,
+		"path": "#*images/ui/CalloutWheel/icons/btn_player_check.png",
+		"path_hover": "#*images/ui/CalloutWheel/icons/btn_player_check_hover.png",
+		"text_maps": [{
+			"player_wave":
+			{
+				"text": "Wave to %s!",
+				"word_highlights" : [2],
+				"msg_emote": "%s waves to %s!",
+				"msg_emote_you": "You wave to %s!",
+				"msg_emote_to_you": "%s waves to you!",
+				"world_icon": "tag_self_player-wave",
+				"world_icon_small": "mini_spot"
+			},
+			"unavailable":
+			{
+				"text": "Player unavailable",
+				"word_highlights" : [0,  1, 2],
+				"msg_emote": "",
+				"msg_emote_you": "",
+				"world_icon": "",
+				"world_icon_small": ""
+			}
+		}]
+	},
+	{
+		"action": "player_wave_2",
+		"id": 6,
+		"path": "#*images/ui/CalloutWheel/icons/btn_player_check.png",
+		"path_hover": "#*images/ui/CalloutWheel/icons/btn_player_check_hover.png",
+		"text_maps": [{
+			"player_wave":
+			{
+				"text": "Wave to %s!",
+				"word_highlights" : [2],
+				"msg_emote": "%s waves to %s!",
+				"msg_emote_you": "You wave to %s!",
+				"msg_emote_to_you": "%s waves to you!",
+				"world_icon": "tag_self_player-wave",
+				"world_icon_small": "mini_spot"
+			},
+			"unavailable":
+			{
+				"text": "Player unavailable",
+				"word_highlights" : [0,  1, 2],
+				"msg_emote": "",
+				"msg_emote_you": "",
+				"world_icon": "",
+				"world_icon_small": ""
+			}
+		}]
+	},
+	{
+		"action": "player_wave_3",
+		"id": 2,
+		"path": "#*images/ui/CalloutWheel/icons/btn_player_check.png",
+		"path_hover": "#*images/ui/CalloutWheel/icons/btn_player_check_hover.png",
+		"text_maps": [{
+			"player_wave":
+			{
+				"text": "Wave to %s!",
+				"word_highlights" : [2],
+				"msg_emote": "%s waves to %s!",
+				"msg_emote_you": "You wave to %s!",
+				"msg_emote_to_you": "%s waves to you!",
+				"world_icon": "tag_self_player-wave",
+				"world_icon_small": "mini_spot"
+			},
+			"unavailable":
+			{
+				"text": "Player unavailable",
+				"word_highlights" : [0,  1, 2],
+				"msg_emote": "",
+				"msg_emote_you": "",
+				"world_icon": "",
+				"world_icon_small": ""
+			}
+		}]
+	},
+	{
+		"action": "help",
+		"id": 3,
+		"path": "#*images/ui/CalloutWheel/icons/btn_player_help.png",
+		"path_hover": "#*images/ui/CalloutWheel/icons/btn_player_help_hover.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Call for help!",
+				"word_highlights" : [],
+				"msg_emote": "%s calls for help!",
+				"msg_emote_you": "You call for help!",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"help_all_conditions":
+			{
+				"text": "Call for help! (%s)",
+				"word_highlights" : [],
+				"msg_emote": "%s calls for help!\n(%s)",
+				"msg_emote_you": "You call for help!\n(%s)",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"condition_food_hungry":
+			{
+				"text": "I need food! (Hungry)",
+				"word_highlights" : [3],
+				"msg_says": "%s\"I need food! (Hungry)",
+				"world_icon": "tag_help-food",
+				"world_icon_small": "mini_help"
+			},
+			"condition_blood_hungry":
+			{
+				"text": "I need blood! (Hungry)",
+				"word_highlights" : [],
+				"msg_says": "%s\"I need blood! (Hungry)",
+				"world_icon": "tag_help-food",
+				"world_icon_small": "mini_help"
+			},
+			"condition_food_weak":
+			{
+				"text": "I need food! (Feeling Weak)",
+				"word_highlights" : [],
+				"msg_says": "%s\"I need food! (Feeling Weak)",
+				"world_icon": "tag_help-food",
+				"world_icon_small": "mini_help"
+			},
+			"condition_blood_weak":
+			{
+				"text": "I need blood! (Feeling Weak)",
+				"word_highlights" : [],
+				"msg_says": "%s\"I need blood! (Feeling Weak)",
+				"world_icon": "tag_help-food",
+				"world_icon_small": "mini_help"
+			},
+			"condition_steam_empty":
+			{
+				"text": "My boiler is empty!",
+				"word_highlights" : [],
+				"msg_says": "%s\"My boiler is empty!",
+				"world_icon": "tag_help-food",
+				"world_icon_small": "mini_help"
+			},
+			"condition_food_starving":
+			{
+				"text": "I'm dying of starvation!",
+				"word_highlights" : [],
+				"msg_says": "%s\"I'm dying of starvation!",
+				"world_icon": "tag_help-food",
+				"world_icon_small": "mini_help"
+			},
+			"condition_blood_starving":
+			{
+				"text": "I'm dying of starvation! (Blood)",
+				"word_highlights" : [],
+				"msg_says": "%s\"I'm dying of starvation!  (Blood)",
+				"world_icon": "tag_help-food",
+				"world_icon_small": "mini_help"
+			},
+			"condition_heal":
+			{
+				"text": "I need healing!",
+				"word_highlights" : [],
+				"msg_says": "%s\"I need healing!",
+				"world_icon": "tag_help-hp",
+				"world_icon_small": "mini_help"
+			},
+			"condition_heal_urgent":
+			{
+				"text": "I'm almost out of health!",
+				"word_highlights" : [],
+				"msg_says": "%s\"I'm almost out of health!",
+				"world_icon": "tag_help-hp",
+				"world_icon_small": "mini_help"
+			},
+			"condition_cure_ailment":
+			{
+				"text": "I need cure ailment!",
+				"word_highlights" : [],
+				"msg_says": "%s\"I need cure ailment!",
+				"world_icon": "tag_help-cure",
+				"world_icon_small": "mini_help"
+			},
+			"location" :
+			{
+				"text": "I need help!",
+				"word_highlights" : [],
+				"msg_emote": "%s needs help!",
+				"msg_emote_you": "You request help!",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"item" : 
+			{
+				"text": "I need assistance with this %s.",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need assistance with this %s.\"",
+				"world_icon": "tag_help-item",
+				"world_icon_small": "mini_help"
+			},
+			"item_an" : 
+			{
+				"text": "I need assistance with this %s.",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need assistance with this %s.\"",
+				"world_icon": "tag_help-item",
+				"world_icon_small": "mini_help"
+			},
+			"npc" : 
+			{
+				"text": "I need help with this %s!",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help with this %s!\"",
+				"world_icon": "tag_help-npc",
+				"world_icon_small": "mini_help"
+			},
+			"npc_named" : 
+			{
+				"text": "I need help with %s!",
+				"word_highlights" : [4],
+				"msg_says": "%s\"I need help with %s!\"",
+				"world_icon": "tag_help-npc",
+				"world_icon_small": "mini_help"
+			},
+			"npc_an" : 
+			{
+				"text": "I need help with this %s!",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help with this %s!\"",
+				"world_icon": "tag_help-npc",
+				"world_icon_small": "mini_help"
+			},
+			"npc_enemy_named" : 
+			{
+				"text": "I need help with %s!",
+				"word_highlights" : [4],
+				"msg_says": "%s\"I need help with %s!\"",
+				"world_icon": "tag_help-npc",
+				"world_icon_small": "mini_help"
+			},
+			"npc_enemy" : 
+			{
+				"text": "I need help with this %s!",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help with this %s!\"",
+				"world_icon": "tag_help-npc",
+				"world_icon_small": "mini_help"
+			},
+			"npc_ally" : 
+			{
+				"text": "Our ally %s needs help!",
+				"word_highlights" : [2],
+				"msg_says": "%s\"Our ally %s needs help!\"",
+				"world_icon": "tag_help-npc",
+				"world_icon_small": "mini_help"
+			},
+			"chest" : 
+			{
+				"text": "I need help with this chest.",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help with this chest.\"",
+				"world_icon": "tag_help-item",
+				"world_icon_small": "mini_help"
+			},
+			"switch_on" : 
+			{
+				"text": "I need help with this switch.",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help with this switch.\"",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"switch_off" : 
+			{
+				"text": "I need help with this switch.",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help with this switch.\"",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"switch" : 
+			{
+				"text": "I need help with this switch.",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help with this switch.\"",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"boulder" : 
+			{
+				"text": "I need help with this boulder.",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help with this boulder.\"",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"trap" : 
+			{
+				"text": "I need help by this %s!",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help by this %s!\"",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"generic_interactable" : 
+			{
+				"text": "I need help by this %s!",
+				"word_highlights" : [5, 6],
+				"msg_says": "%s\"I need help by this %s!\"",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"shrine" : 
+			{
+				"text": "I need help by this shrine!",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help by this shrine!\"",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"exit" : 
+			{
+				"text": "Request help by the exit.",
+				"word_highlights" : [4],
+				"msg_emote": "%s requests help by the exit!",
+				"msg_emote_you": "You request help by the exit!",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"secret_exit" : 
+			{
+				"text": "Request help by the secret level exit.",
+				"word_highlights" : [4, 5, 6],
+				"msg_emote": "%s requests help by the secret level exit!",
+				"msg_emote_you": "You request help by the secret level exit!",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"secret_entrance" : 
+			{
+				"text": "Request help by the secret level entrance.",
+				"word_highlights" : [4, 5, 6],
+				"msg_emote": "%s requests help by the secret level entrance!",
+				"msg_emote_you": "You request help by the secret level entrance!",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"gold" : 
+			{
+				"text": "I need help carrying this gold.",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help carrying this gold.\"",
+				"world_icon": "tag_help-item",
+				"world_icon_small": "mini_help"
+			},
+			"fountain" : 
+			{
+				"text": "I need help by this fountain!",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help by this fountain!\"",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"sink" : 
+			{
+				"text": "I need help by this sink!",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help by this sink!\"",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"teleporter" : 
+			{
+				"text": "I need help by this teleporter!",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help by this teleporter!\"",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"teleporter_up" : 
+			{
+				"text": "I need help by this ladder!",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help by this ladder!\"",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"teleporter_down" : 
+			{
+				"text": "I need help by this ladder!",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help by this ladder!\"",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"bomb" : 
+			{
+				"text": "I need help by this %s!",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I need help by this %s!\"",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			},
+			"collider" : 
+			{
+				"text": "I need help with this breakable %s.",
+				"word_highlights" : [6],
+				"msg_says": "%s\"I need help with this breakable %s.\"",
+				"world_icon": "tag_help",
+				"world_icon_small": "mini_help"
+			}
+		}]
+	},
+	{
+		"action": "move",
+		"id": 1,
+		"path": "#*images/ui/CalloutWheel/icons/btn_player_point.png",
+		"path_hover": "#*images/ui/CalloutWheel/icons/btn_player_point_hover.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Let's move here!",
+				"word_highlights" : [],
+				"msg_says": "%s\"Let's move here!\"",
+				"world_icon": "tag_move",
+				"world_icon_small": "mini_move"
+			}
+		}]
+	},
+	{
+		"action": "affirmative",
+		"id": 7,
+		"path": "#*images/ui/CalloutWheel/icons/btn_player_up.png",
+		"path_hover": "#*images/ui/CalloutWheel/icons/btn_player_up_hover.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Give a thumbs up.",
+				"word_highlights" : [],
+				"msg_emote_you": "You give a thumbs up!",
+				"msg_emote": "%s gives a thumbs up!",
+				"world_icon": "tag_good",
+				"world_icon_small": "mini_yes"
+			},
+			"location" :
+			{
+				"text": "Give a thumbs up here.",
+				"word_highlights" : [],
+				"msg_emote_you": "You give a thumbs up here!",
+				"msg_emote": "%s gives a thumbs up here!",
+				"world_icon": "tag_good",
+				"world_icon_small": "mini_yes"
+			},
+			"item" : 
+			{
+				"text": "This %s is good.",
+				"word_highlights" : [1],
+				"msg_says": "%s\"This %s is good.\"",
+				"world_icon": "tag_good-item",
+				"world_icon_small": "mini_yes"
+			},
+			"item_an" : 
+			{
+				"text": "This %s is good.",
+				"word_highlights" : [1],
+				"msg_says": "%s\"This %s is good.\"",
+				"world_icon": "tag_good-item",
+				"world_icon_small": "mini_yes"
+			},
+			"npc" : 
+			{
+				"text": "This %s needs to be dealt with.",
+				"word_highlights" : [1],
+				"msg_says": "%s\"This %s needs to be dealt with.\"",
+				"world_icon": "tag_good-NPC",
+				"world_icon_small": "mini_move"
+			},
+			"npc_named" : 
+			{
+				"text": "%s needs to be dealt with.",
+				"word_highlights" : [0],
+				"msg_says": "%s\"%s needs to be dealt with.\"",
+				"world_icon": "tag_good-NPC",
+				"world_icon_small": "mini_move"
+			},
+			"npc_an" : 
+			{
+				"text": "This %s needs to be dealt with.",
+				"word_highlights" : [1],
+				"msg_says": "%s\"This %s needs to be dealt with.\"",
+				"world_icon": "tag_good-NPC",
+				"world_icon_small": "mini_move"
+			},
+			"npc_enemy_named" : 
+			{
+				"text": "Attack %s!",
+				"word_highlights" : [1],
+				"msg_says": "%s\"Attack %s!\"",
+				"world_icon": "tag_good-NPC",
+				"world_icon_small": "mini_move"
+			},
+			"npc_enemy" : 
+			{
+				"text": "Attack the %s!",
+				"word_highlights" : [2],
+				"msg_says": "%s\"Attack the %s!\"",
+				"world_icon": "tag_good-NPC",
+				"world_icon_small": "mini_move"
+			},
+			"npc_ally" : 
+			{
+				"text": "Our ally %s is up to the task.",
+				"word_highlights" : [2],
+				"msg_says": "%s\"Our ally %s is up to the task.\"",
+				"world_icon": "tag_good",
+				"world_icon_small": "mini_yes"
+			},
+			"chest" : 
+			{
+				"text": "I'll check the chest.",
+				"word_highlights" : [3],
+				"msg_says": "%s\"I'll check the chest.\"",
+				"world_icon": "tag_good-item",
+				"world_icon_small": "mini_yes"
+			},
+			"switch_on" : 
+			{
+				"text": "Turn that switch off!",
+				"word_highlights" : [2, 3],
+				"msg_says": "%s\"Turn that switch off!\"",
+				"world_icon": "tag_good-interact",
+				"world_icon_small": "mini_yes"
+			},
+			"switch_off" : 
+			{
+				"text": "Turn that switch on!",
+				"word_highlights" : [2, 3],
+				"msg_says": "%s\"Turn that switch on!\"",
+				"world_icon": "tag_good-interact",
+				"world_icon_small": "mini_yes"
+			},
+			"switch" : 
+			{
+				"text": "Go ahead and use that switch.",
+				"word_highlights" : [5],
+				"msg_says": "%s\"Go ahead and use that switch.\"",
+				"world_icon": "tag_good-interact",
+				"world_icon_small": "mini_yes"
+			},
+			"boulder" : 
+			{
+				"text": "That boulder needs to be handled.",
+				"word_highlights" : [1],
+				"msg_says": "%s\"That boulder needs to be handled.\"",
+				"world_icon": "tag_good-interact",
+				"world_icon_small": "mini_yes"
+			},
+			"trap" : 
+			{
+				"text": "I think that %s is safe.",
+				"word_highlights" : [3],
+				"msg_says": "%s\"I think that %s is safe.\"",
+				"world_icon": "tag_good-trap",
+				"world_icon_small": "mini_yes"
+			},
+			"generic_interactable" : 
+			{
+				"text": "This %s is ready to use.",
+				"word_highlights" : [1],
+				"msg_says": "%s\"This %s is ready to use.\"",
+				"world_icon": "tag_good-interact",
+				"world_icon_small": "mini_spot"
+			},
+			"shrine" : 
+			{
+				"text": "I'll use the shrine.",
+				"word_highlights" : [3],
+				"msg_says": "%s\"I'll use the shrine.\"",
+				"world_icon": "tag_good-interact",
+				"world_icon_small": "mini_spot"
+			},
+			"exit" : 
+			{
+				"text": "I'm ready to use the exit.",
+				"word_highlights" : [5],
+				"msg_says": "%s\"I'm ready to use the exit.\"",
+				"world_icon": "tag_move-exit",
+				"world_icon_small": "mini_move"
+			},
+			"secret_exit" : 
+			{
+				"text": "Let's leave the secret level.",
+				"word_highlights" : [3, 4],
+				"msg_says": "%s\"Let's get out of this place!\"",
+				"world_icon": "tag_move-exit",
+				"world_icon_small": "mini_move"
+			},
+			"secret_entrance" : 
+			{
+				"text": "Let's take the secret path.",
+				"word_highlights" : [3, 4],
+				"msg_says": "%s\"Let's take the secret path.\"",
+				"world_icon": "tag_spot",
+				"world_icon_small": "mini_spot"
+			},
+			"gold" : 
+			{
+				"text": "I'll carry the gold.",
+				"word_highlights" : [3],
+				"msg_says": "%s\"I'll carry the gold.\"",
+				"world_icon": "tag_good-item",
+				"world_icon_small": "mini_yes"
+			},
+			"fountain" : 
+			{
+				"text": "I'll use the fountain.",
+				"word_highlights" : [3],
+				"msg_says": "%s\"I'll use the fountain.\"",
+				"world_icon": "tag_good-interact",
+				"world_icon_small": "mini_spot"
+			},
+			"sink" : 
+			{
+				"text": "I'll use the sink.",
+				"word_highlights" : [3],
+				"msg_says": "%s\"I'll use the sink.\"",
+				"world_icon": "tag_good-interact",
+				"world_icon_small": "mini_spot"
+			},
+			"teleporter" : 
+			{
+				"text": "I'll go through the teleporter.",
+				"word_highlights" : [4],
+				"msg_says": "%s\"I'll go through the teleporter.\"",
+				"world_icon": "tag_move-exit",
+				"world_icon_small": "mini_move"
+			},
+			"teleporter_up" : 
+			{
+				"text": "I'm climbing up this ladder.",
+				"word_highlights" : [4],
+				"msg_says": "%s\"I'm climbing up this ladder.\"",
+				"world_icon": "tag_move-exit",
+				"world_icon_small": "mini_move"
+			},
+			"teleporter_down" : 
+			{
+				"text": "I'm climbing down the ladder.",
+				"word_highlights" : [4],
+				"msg_says": "%s\"I'm climbing down the ladder.\"",
+				"world_icon": "tag_move-exit",
+				"world_icon_small": "mini_move"
+			},
+			"bomb" : 
+			{
+				"text": "This %s is good to go.",
+				"word_highlights" : [1],
+				"msg_says": "%s\"This %s is good to go.\"",
+				"world_icon": "tag_good-trap",
+				"world_icon_small": "mini_yes"
+			},
+			"collider" : 
+			{
+				"text": "Let's bust through this %s.",
+				"word_highlights" : [4],
+				"msg_says": "%s\"Let's bust through this %s.\"",
+				"world_icon": "tag_good-NPC",
+				"world_icon_small": "mini_help"
+			}
+		}]
+	},
+	{
+		"action": "negative",
+		"id": 5,
+		"path": "#*images/ui/CalloutWheel/icons/btn_player_down.png",
+		"path_hover": "#*images/ui/CalloutWheel/icons/btn_player_down_hover.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Give a thumbs down.",
+				"word_highlights" : [],
+				"msg_emote_you": "You give a thumbs down.",
+				"msg_emote": "%s gives a thumbs down.",
+				"world_icon": "tag_bad",
+				"world_icon_small": "mini_no"
+			},
+			"location" :
+			{
+				"text": "Give a thumbs down here.",
+				"word_highlights" : [],
+				"msg_emote_you": "You give a thumbs down here.",
+				"msg_emote": "%s gives a thumbs down here.",
+				"world_icon": "tag_bad",
+				"world_icon_small": "mini_no"
+			},
+			"item" : 
+			{
+				"text": "This %s is no good for me.",
+				"word_highlights" : [1],
+				"msg_says": "%s\"This %s is no good for me.\"",
+				"world_icon": "tag_bad-item",
+				"world_icon_small": "mini_no"
+			},
+			"item_an" : 
+			{
+				"text": "This %s is no good for me.",
+				"word_highlights" : [1],
+				"msg_says": "%s\"This %s is no good for me.\"",
+				"world_icon": "tag_bad-item",
+				"world_icon_small": "mini_no"
+			},
+			"npc" : 
+			{
+				"text": "Avoid that %s!",
+				"word_highlights" : [2],
+				"msg_says": "%s\"Avoid that %s!\"",
+				"world_icon": "tag_bad-NPC",
+				"world_icon_small": "mini_no"
+			},
+			"npc_named" : 
+			{
+				"text": "Avoid %s!",
+				"word_highlights" : [1],
+				"msg_says": "%s\"Avoid %s!\"",
+				"world_icon": "tag_bad-NPC",
+				"world_icon_small": "mini_no"
+			},
+			"npc_an" : 
+			{
+				"text": "Avoid that %s!",
+				"word_highlights" : [2],
+				"msg_says": "%s\"Avoid that %s!\"",
+				"world_icon": "tag_bad-NPC",
+				"world_icon_small": "mini_no"
+			},
+			"npc_enemy_named" : 
+			{
+				"text": "Flee from %s!",
+				"word_highlights" : [2],
+				"msg_says": "%s\"Flee from %s!\"",
+				"world_icon": "tag_move-NPC",
+				"world_icon_small": "mini_danger"
+			},
+			"npc_enemy" : 
+			{
+				"text": "Flee from the %s!",
+				"word_highlights" : [3],
+				"msg_says": "%s\"Flee from the %s!\"",
+				"world_icon": "tag_move-NPC",
+				"world_icon_small": "mini_danger"
+			},
+			"npc_ally" : 
+			{
+				"text": "Our ally %s isn't up to the task.",
+				"word_highlights" : [2],
+				"msg_says": "%s\"Our ally %s isn't up to the task.\"",
+				"world_icon": "tag_bad",
+				"world_icon_small": "mini_no"
+			},
+			"chest" : 
+			{
+				"text": "Nothing useful in this chest.",
+				"word_highlights" : [2],
+				"msg_says": "%s\"Nothing useful in this chest.\"",
+				"world_icon": "tag_bad-item",
+				"world_icon_small": "mini_no"
+			},
+			"switch_on" : 
+			{
+				"text": "Leave that switch on!",
+				"word_highlights" : [2, 3],
+				"msg_says": "%s\"Leave that switch on!\"",
+				"world_icon": "tag_bad-interact",
+				"world_icon_small": "mini_no"
+			},
+			"switch_off" : 
+			{
+				"text": "Leave that switch off!",
+				"word_highlights" : [2, 3],
+				"msg_says": "%s\"Leave that switch off!\"",
+				"world_icon": "tag_bad-interact",
+				"world_icon_small": "mini_no"
+			},
+			"switch" : 
+			{
+				"text": "Don't touch that switch!",
+				"word_highlights" : [3],
+				"msg_says": "%s\"Don't touch that switch!\"",
+				"world_icon": "tag_bad-interact",
+				"world_icon_small": "mini_no"
+			},
+			"boulder" : 
+			{
+				"text": "Watch out for that boulder!",
+				"word_highlights" : [4],
+				"msg_says": "%s\"Watch out for that boulder!\"",
+				"world_icon": "tag_move-NPC",
+				"world_icon_small": "mini_danger"
+			},
+			"trap" : 
+			{
+				"text": "That %s could be trouble.",
+				"word_highlights" : [1],
+				"msg_says": "%s\"That %s could be trouble.\"",
+				"world_icon": "tag_bad-trap",
+				"world_icon_small": "mini_danger"
+			},
+			"generic_interactable" : 
+			{
+				"text": "Don't use that %s.",
+				"word_highlights" : [3],
+				"msg_says": "%s\"Don't use that %s.\"",
+				"world_icon": "tag_bad-interact",
+				"world_icon_small": "mini_no"
+			},
+			"shrine" : 
+			{
+				"text": "Don't use that shrine.",
+				"word_highlights" : [3],
+				"msg_says": "%s\"Don't use that shrine.\"",
+				"world_icon": "tag_bad-interact",
+				"world_icon_small": "mini_no"
+			},
+			"exit" : 
+			{
+				"text": "I'm not ready to use the exit.",
+				"word_highlights" : [6],
+				"msg_says": "%s\"I'm not ready to leave yet.\"",
+				"world_icon": "tag_bad-interact",
+				"world_icon_small": "mini_no"
+			},
+			"secret_exit" : 
+			{
+				"text": "I'm not ready to leave the secret level.",
+				"word_highlights" : [6, 7],
+				"msg_says": "%s\"I'm not ready to leave this place yet.\"",
+				"world_icon": "tag_bad-interact",
+				"world_icon_small": "mini_no"
+			},
+			"secret_entrance" : 
+			{
+				"text": "We should avoid the secret path.",
+				"word_highlights" : [4, 5],
+				"msg_says": "%s\"We should avoid the secret path.\"",
+				"world_icon": "tag_bad-interact",
+				"world_icon_small": "mini_no"
+			},
+			"gold" : 
+			{
+				"text": "I don't need this gold.",
+				"word_highlights" : [4],
+				"msg_says": "%s\"I don't need this gold.\"",
+				"world_icon": "tag_bad-item",
+				"world_icon_small": "mini_no"
+			},
+			"fountain" : 
+			{
+				"text": "This fountain is no good for me.",
+				"word_highlights" : [1],
+				"msg_says": "%s\"This fountain is no good for me.\"",
+				"world_icon": "tag_bad-interact",
+				"world_icon_small": "mini_no"
+			},
+			"sink" : 
+			{
+				"text": "This sink is no good for me.",
+				"word_highlights" : [1],
+				"msg_says": "%s\"This sink is no good for me.\"",
+				"world_icon": "tag_bad-interact",
+				"world_icon_small": "mini_no"
+			},
+			"teleporter" : 
+			{
+				"text": "I'm not ready to go through the teleporter yet.",
+				"word_highlights" : [7],
+				"msg_says": "%s\"I'm not ready to go through the teleporter yet.\"",
+				"world_icon": "tag_bad-interact",
+				"world_icon_small": "mini_no"
+			},
+			"teleporter_up" : 
+			{
+				"text": "I'm not ready to ascend just yet.",
+				"word_highlights" : [],
+				"msg_says": "%s\"I'm not ready to ascend just yet.\"",
+				"world_icon": "tag_bad-interact",
+				"world_icon_small": "mini_no"
+			},
+			"teleporter_down" : 
+			{
+				"text": "I'm not ready to descend just yet.",
+				"word_highlights" : [],
+				"msg_says": "%s\"I'm not ready to descend just yet.\"",
+				"world_icon": "tag_bad-interact",
+				"world_icon_small": "mini_no"
+			},
+			"bomb" : 
+			{
+				"text": "Leave this %s alone.",
+				"word_highlights" : [2],
+				"msg_says": "%s\"Leave this %s alone.\"",
+				"world_icon": "tag_bad-trap",
+				"world_icon_small": "mini_no"
+			},
+			"collider" : 
+			{
+				"text": "Leave that %s alone.",
+				"word_highlights" : [2],
+				"msg_says": "%s\"Leave that %s alone.\"",
+				"world_icon": "tag_bad-interact",
+				"world_icon_small": "mini_no"
+			}
+		}]
+	},
+	{
+		"action": "cancel",
+		"id": -1,
+		"path": "",
+		"path_hover": "",
+		"path_active": "",
+		"path_active_hover": "",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Cancel",
+				"word_highlights" : [0]
+			}
+		}]
+	},
+	{
+		"action": "invalid_action",
+		"id": -1,
+		"path": "",
+		"path_hover": "",
+		"path_active": "",
+		"path_active_hover": "",
+		"text_maps": [{
+			"skill_missing_leader" : 
+			{
+				"text": "Missing skill / stat requirement: %d / %d",
+				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
+			},
+			"skill_missing_tinker" : 
+			{
+				"text": "Missing skill / stat requirement: %d / %d ",
+				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
+			},
+			"command_unavailable" : 
+			{
+				"text": "Command unavailable for %s",
+				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
+			},
+			"rest_cooldown" : 
+			{
+				"text": "You may only use this command once per floor",
+				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
+			},
+			"tinker_quality_low" : 
+			{
+				"text": "Higher quality %s required",
+				"word_highlights" : [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+			}
+		}]
+	}
+	]
+}

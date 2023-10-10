@@ -1,0 +1,30 @@
+{
+    "version": 1,
+    "press_a_to_advance": true,
+    "text": [
+    	"*2Hacking your way through every demon in your path, you leap through the\n",
+	"portal.^ No entity, mortal or immortal, can challenge your power.\n^",
+	"*2Suddenly, you find yourself standing wearily in an endless white hall dotted\n",
+	"with enormous pillars that stretch higher than you can see.\n",
+	"*2Nervously, you wait for your next foe to appear.\n",
+	"You are unnerved when a voice booms:\n^",
+	"*3\"We have witnessed your strength and lust for power. You are not expected here.\n",
+	"We are however impressed by your ferocity and focus. We ask you consider this\n",
+	"proposition, mighty one...\"\n^",
+	"*3As the voice addresses you, you find you are tempted by its words. It speaks\n",
+	"of a power greater than Herx and Baphomet. It claims that it is greater than\n",
+	"even you. The prospect of a competitor shall not stand...\n^",
+	"*2Without warning, you find yourself transported to a human dwelling in Hamlet.\n",
+	"But its denizens are too drunk to notice as you steal away into a backroom.\n^",
+	"*1A trapdoor leads to a sewer, beyond which you can sense great magic beckoning..."
+    ],
+    "images": [
+	"*images/ui/Main Menus/Story/black.png",
+	"*images/ui/Main Menus/Story/white.png",
+	"*images/ui/Main Menus/Story/NoEternals.png",
+	"*images/ui/Main Menus/Story/Eternals.png",
+	"*images/ui/Main Menus/Story/white.png",
+	"*images/ui/Main Menus/Story/MagiciansGuild.png",
+	"*images/ui/Main Menus/Story/black.png"
+    ]
+}
