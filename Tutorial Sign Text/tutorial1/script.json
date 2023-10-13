@@ -29,13 +29,13 @@
     "script_entries": {
         "tutorial1z": {
             "sign": [
-                "Use$$$$ keys",
-				"to walk around.",
+                "Usa las teclas$$$$",
+				"para moverte.",
 				"",
-				"Move$ to look and turn.",
+				"Mueve$ para mirar y girar.",
 				"",
-                "Press$ to interact with",
-				"objects in the world."
+                "Presiona$ para interactuar con",
+				"objetos en el mundo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -84,12 +84,12 @@
         },
         "tutorial1z_gamepad": {
             "sign": [
-                "Tilt$ to walk around.",
+                "Inclina$ para moverte.",
 				"",
-				"Tilt$ to look and turn.",
+				"Inclina$ para mirar y girar.",
 				"",
-                "Press$ to interact with",
-				"objects in the world."
+                "Presiona$ para interactuar con",
+				"objetos en el mundo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -127,10 +127,10 @@
         },
         "tutorial1a": {
             "sign": [
-                "Press$ to access ",
-				"the Pause Menu.",
+                "Presiona$ para acceder ",
+				"al Menú de Pausa.",
 				"",
-                "To exit any trial, select",
+                "Para salir de cualquier desfío, selecciona",
 				"",
 				"[ Return to Trial Hub ]"
             ],
@@ -159,9 +159,9 @@
         },
         "tutorial1b": {
             "sign": [
-                "Equip the sword to",
-				"increase your ATK and",
-				"slay enemies faster.",
+                "Equipa la espada para",
+				"aumentar el ATK y",
+				"derrotar a los enemigos más rápido.",
 				"",
 				"$"
             ],
@@ -193,11 +193,11 @@
         "tutorial1c": {
             "sign": [
 				"$",
-                "Equip shields to gain AC,",
-				"reducing damage taken.",
+                "Equipa escudos para ganar CA,",
+				"reduciendo el daño recibido.",
 				"",
-                "Hold$to Block,",
-				"further increasing AC."
+                "Mantén$ para Bloquear,",
+				"aumentando aún más tu CA"
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -249,11 +249,11 @@
         },
         "tutorial1d": {
             "sign": [
-                "This lever operates the",
-				"gate near the bed.",
+                "Esta palanca opera la",
+				"reja cerca de la entrada.",
 				"$",
-                "Point at levers and",
-				"press$ to toggle."
+                "Apunta a las palancas y",
+				"presiona$ para alternar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -304,12 +304,12 @@
         },
         "tutorial1e": {
             "sign": [
-                "Collect torches from",
-				"the wall with$ .",
+                "Recoge antorchas de",
+				"la pared con$ .",
 				"$",
-				"Equipped torches light",
-				"the way, but will burn out",
-				"over time."
+				"Las antorchas equipadas iluminan",
+				"el camino, pero se apagarán",
+				"con el tiempo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -360,12 +360,12 @@
         },
         "tutorial1e2": {
             "sign": [
-                "Access your character",
-				"by pressing$ .",
-				"Press$ to use items.",
-				"Grab and move items with$ .",
-                "Press$ again or$",
-				"to exit the menu."
+                "Accede a tu personaje",
+				"presionando$ .",
+				"Presiona$ para usar objetos.",
+				"Agarra y mueve objetos con$ .",
+                "Presiona$ otra vez o$",
+				"para salir del menú."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
