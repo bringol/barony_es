@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1075792340
-ModificationTime: 1697227051
+ModificationTime: 1697228498
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -84,7 +84,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 50 25 20
+WinInfo: 0 25 20
 BeginChars: 65537 219
 
 StartChar: .notdef
@@ -2956,7 +2956,18 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Validated: 1
+SplineSet
+384 0 m 5,0,-1
+ 640 0 l 5,1,-1
+ 640 512 l 5,2,-1
+ 384 512 l 5,3,-1
+ 384 0 l 5,0,-1
+384 640 m 5,4,-1
+ 640 640 l 5,5,-1
+ 640 768 l 5,6,-1
+ 384 768 l 5,7,-1
+ 384 640 l 5,4,-1
+EndSplineSet
 EndChar
 
 StartChar: cent
@@ -3304,7 +3315,30 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Validated: 1
+SplineSet
+686 1 m 5,0,-1
+ 174 1 l 5,1,-1
+ 174 129 l 5,2,-1
+ 46 129 l 5,3,-1
+ 46 385 l 5,4,-1
+ 174 385 l 5,5,-1
+ 174 513 l 5,6,-1
+ 558 513 l 5,7,-1
+ 558 385 l 5,8,-1
+ 302 385 l 5,9,-1
+ 302 129 l 5,10,-1
+ 558 129 l 5,11,-1
+ 558 257 l 5,12,-1
+ 814 257 l 5,13,-1
+ 814 129 l 5,14,-1
+ 686 129 l 5,15,-1
+ 686 1 l 5,0,-1
+558 641 m 5,16,-1
+ 302 641 l 5,17,-1
+ 302 769 l 5,18,-1
+ 558 769 l 5,19,-1
+ 558 641 l 5,16,-1
+EndSplineSet
 EndChar
 
 StartChar: Agrave
@@ -3601,7 +3635,7 @@ SplineSet
  128 0 l 1,35,-1
  128 672 l 1,20,-1
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: Ograve
@@ -4358,7 +4392,7 @@ SplineSet
  128 0 l 1,29,-1
  128 640 l 1,20,-1
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: ograve

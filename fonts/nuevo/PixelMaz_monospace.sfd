@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1223643061
-ModificationTime: 1697224670
+ModificationTime: 1697228948
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -915,7 +915,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 25 9
+WinInfo: 50 25 9
 BeginChars: 65537 255
 
 StartChar: .notdef
@@ -16154,6 +16154,19 @@ Width: 384
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+160 256 m 5,0,-1
+ 160 0 l 5,1,-1
+ 224 0 l 5,2,-1
+ 224 256 l 5,3,-1
+ 160 256 l 5,0,-1
+160 384 m 5,4,-1
+ 160 320 l 5,5,-1
+ 224 320 l 5,6,-1
+ 224 384 l 5,7,-1
+ 160 384 l 5,4,-1
+EndSplineSet
 EndChar
 
 StartChar: cent
@@ -16562,6 +16575,39 @@ Width: 384
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+256 64 m 5,0,-1
+ 256 0 l 5,1,-1
+ 128 0 l 5,2,-1
+ 128 64 l 5,3,-1
+ 256 64 l 5,0,-1
+320 128 m 5,4,-1
+ 320 64 l 5,5,-1
+ 256 64 l 5,6,-1
+ 256 128 l 5,7,-1
+ 320 128 l 5,4,-1
+128 128 m 5,8,-1
+ 128 64 l 5,9,-1
+ 64 64 l 5,10,-1
+ 64 128 l 5,11,-1
+ 128 128 l 5,8,-1
+192 192 m 5,12,-1
+ 192 128 l 5,13,-1
+ 128 128 l 5,14,-1
+ 128 192 l 5,15,-1
+ 192 192 l 5,12,-1
+256 256 m 5,16,-1
+ 256 192 l 5,17,-1
+ 192 192 l 5,18,-1
+ 192 256 l 5,19,-1
+ 256 256 l 5,16,-1
+256 384 m 5,20,-1
+ 256 320 l 5,21,-1
+ 192 320 l 5,22,-1
+ 192 384 l 5,23,-1
+ 256 384 l 5,20,-1
+EndSplineSet
 EndChar
 
 StartChar: Agrave
