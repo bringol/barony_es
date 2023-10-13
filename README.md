@@ -4,9 +4,9 @@
   <img src="https://i.postimg.cc/tCXPK436/logo.jpg"/>
 </p>
 
-**Traducción no-oficial** al español del videojuego Barony y sus expansiones de la compañía Turning Wheel LLC, actualmente disponible para PC en [Steam](https://store.steampowered.com/app/371970/Barony/), [GOG](https://www.gog.com/game/barony_cursed_edition) y [EGS](https://www.epicgames.com/store/en-US/p/barony).
+**Traducción no-oficial** al español del videojuego Barony y sus expansiones de la compañía Turning Wheel LLC, actualmente disponible para PC en [Steam](https://store.steampowered.com/app/371970/Barony/), [GOG](https://www.gog.com/game/barony_cursed_edition), [EGS](https://www.epicgames.com/store/en-US/p/barony) y [Nintedo Switch](https://www.nintendo.com/us/store/products/barony-switch/).
 
-La traducción ofrece una instalación independiente de Steam para aquellas personas que no tienen acceso a Steam-Workshop
+~~La traducción ofrece una instalación independiente de Steam para aquellas personas que no tienen acceso a Steam-Workshop~~
 
 ## Actualización Life After Death
 
@@ -14,7 +14,7 @@ La traducción ofrece una instalación independiente de Steam para aquellas pers
 - [x] Libros
 - [ ] Historia y Cinemáticas
 - [ ] Texto General
-- [ ] Nombres de Objetos y Descripciones
+- [x] Nombres de Objetos y Descripciones
 - [ ] Datos de Texto del Menú
 - [ ] Texto de las Señales del Tutorial
 - [ ] Fuentes
@@ -26,8 +26,8 @@ Debido a la inmensidad de cambios que hubo desde el lanzamiento de la versión L
 
 
 
-## Instalación desde Steam 
-- [Barony Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2707610137)
+~~## Instalación desde Steam ~~
+- ~~[Barony Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2707610137)~~
 
 
 ### Agradecimientos
