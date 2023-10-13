@@ -26,7 +26,7 @@ Debido a la inmensidad de cambios que hubo desde el lanzamiento de la versión L
 
 
 
-~~## Instalación desde Steam ~~
+## Instalación desde Steam
 - ~~[Barony Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2707610137)~~
 
 
