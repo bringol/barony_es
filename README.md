@@ -22,7 +22,7 @@
 
 ##  Instalación Manual
 
-Debido a la inmensidad de cambios que hubo desde el lanzamiento de la versión Life After Death, la traducción anterior se volvió incompatible. Sin embargo cuando terminé las modificaciones pertinentes, la misma se disponibilizará en la sección de descargas.
+Debido a la inmensidad de cambios que hubo desde el lanzamiento de la versión Life After Death, la traducción anterior se volvió incompatible. Sin embargo, cuando terminé las modificaciones pertinentes, la misma se disponibilizará en la sección de descargas.
 
 
 
