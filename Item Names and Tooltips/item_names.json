@@ -1078,8 +1078,8 @@
             "name_unidentified": "magibot"
         },
         "tool_decoy": {
-            "name_identified": "crea-ruido",
-            "name_unidentified": "crea-ruido"
+            "name_identified": "sonajero",
+            "name_unidentified": "sonajero"
         },
         "tool_dummybot": {
             "name_identified": "maniquí",
