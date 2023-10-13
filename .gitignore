@@ -1,3 +1,7 @@
-/.gitignore/
+.gitignore/
 /descatalogado/
+<<<<<<< HEAD
 fonts/FontForge-2023-01-01-a1dad3e-x86_64.AppImage
+=======
+/fontsFontForge-2023-01-01-a1dad3e-x86_64.AppImage
+>>>>>>> 429b5683efee51352e94d3ac2579ed777dd68176
