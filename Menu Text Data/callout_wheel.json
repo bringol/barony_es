@@ -32,16 +32,16 @@
 		}
 	},
 	"help_strings": {
-		"hungry": "Hungry",
-		"very_hungry": "Very Hungry",
-		"starving": "Starving",
-		"hungry_blood": "Hungry",
-		"very_hungry_blood": "Very Hungry",
-		"starving_blood": "Starving",
-		"healing": "Needs Healing",
-		"healing_urgent": "Needs Healing",
-		"low_steam": "Low Boiler",
-		"empty_steam": "Empty Boiler",
+		"hungry": "Hambriento",
+		"very_hungry": "Muy Habmbiernto",
+		"starving": "Famélico",
+		"hungry_blood": "Hambriento",
+		"very_hungry_blood": "Muy Habmbiernto",
+		"starving_blood": "Famélico",
+		"healing": "Necesita Curación",
+		"healing_urgent": "Curación Urgente",
+		"low_steam": "Necesita Combustible",
+		"empty_steam": "Caldera Vacía",
 		"separator": "/"
 	},
 	"world_icons" : {
@@ -530,234 +530,234 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Check this out!",
+				"text": "¡Mira esto!",
 				"word_highlights" : [],
-				"msg_says": "%s\"Check this out!\"",
+				"msg_says": "%s\"¡Mira esto!\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"player_wave":
 			{
-				"text": "Wave to %s!",
+				"text": "Saluda a %s!",
 				"word_highlights" : [2],
-				"msg_emote": "%s waves to %s!",
-				"msg_emote_you": "You wave to %s!",
-				"msg_emote_to_you": "%s waves to you!",
+				"msg_emote": "%s saluda a %s!",
+				"msg_emote_you": "Saludas a %s!",
+				"msg_emote_to_you": "¡%s te saluda!",
 				"world_icon": "tag_self_player-wave",
 				"world_icon_small": "mini_spot"
 			},
 			"location" :
 			{
-				"text": "Gesture to this location.",
+				"text": "Gesticula hacia esta ubicación",
 				"word_highlights" : [],
-				"msg_emote": "%s gestures to a spot over there.",
-				"msg_emote_you": "You gesture to a spot over there.",
+				"msg_emote": "%s hace gestos hacia un punto allí.",
+				"msg_emote_you": "Tu gesticulas hacia un lugar allá.",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"item" : 
 			{
-				"text": "There's a %s here.",
+				"text": "Hay un %s aquí.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"There's a %s here.\"",
+				"msg_says": "%s\"Hay un %s aqui.\"",
 				"world_icon": "tag_spot-item",
 				"world_icon_small": "mini_item"
 			},
 			"item_an" : 
 			{
-				"text": "There's an %s here.",
+				"text": "Hay un %s aquí .",
 				"word_highlights" : [2],
-				"msg_says": "%s\"There's an %s here.\"",
+				"msg_says": "%s\"Hay un %s aquí .\"",
 				"world_icon": "tag_spot-item",
 				"world_icon_small": "mini_item"
 			},
 			"npc" : 
 			{
-				"text": "There's a %s over here.",
+				"text": "Hay un %s aquí .",
 				"word_highlights" : [2],
-				"msg_says": "%s\"There's a %s over here.\"",
+				"msg_says": "%s\"Hay un %s aquí .\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"npc_named" : 
 			{
-				"text": "%s is here.",
+				"text": "%s está aquí.",
 				"word_highlights" : [0],
-				"msg_says": "%s\"%s is here.\"",
+				"msg_says": "%s\"%s está aquí.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"npc_an" : 
 			{
-				"text": "There's an %s here.",
+				"text": "Hay un %s aquí .",
 				"word_highlights" : [2],
-				"msg_says": "%s\"There's an %s over here.\"",
+				"msg_says": "%s\"Hay un/a %s aquí\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"npc_enemy_named" : 
 			{
-				"text": "The enemy %s is here!",
+				"text": "¡El enemigo %s está aquí!",
 				"word_highlights" : [2],
-				"msg_says": "%s\"The enemy %s is here!\"",
+				"msg_says": "%s\"¡El enemigo %s está aquí!\"",
 				"world_icon": "tag_bad-NPC",
 				"world_icon_small": "mini_spot"
 			},
 			"npc_enemy" : 
 			{
-				"text": "Enemy %s here!",
+				"text": "¡Enemigo %s!",
 				"word_highlights" : [1],
-				"msg_says": "%s\"Enemy %s here!\"",
+				"msg_says": "%s\"¡Enemigo %s!\"",
 				"world_icon": "tag_bad-NPC",
 				"world_icon_small": "mini_spot"
 			},
 			"npc_ally" : 
 			{
-				"text": "Our ally %s is here.",
+				"text": "Nuestro aliado %s está aquí .",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Our ally %s is here.\"",
+				"msg_says": "%s\"Nuestro aliado %s está aquí .\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_heal"
 			},
 			"player_look" : 
 			{
-				"text": "Our ally %s is here.",
+				"text": "Nuestro aliado %s está aquí .",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Our ally %s is here.\"",
+				"msg_says": "%s\"Nuestro aliado %s está aquí .\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_heal"
 			},
 			"chest" : 
 			{
-				"text": "Point out the chest.",
+				"text": "Señala el cofre.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"I found a chest!\"",
+				"msg_says": "%s\"¡Encontré un cofre!\"",
 				"world_icon": "tag_spot-item",
 				"world_icon_small": "mini_item"
 			},
 			"switch_on" : 
 			{
-				"text": "Point out this active switch.",
+				"text": "Indica al interruptor activo.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"That switch over there has already been pulled.\"",
+				"msg_says": "%s\"Ese intrruptor ya ha sido activado.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"switch_off" : 
 			{
-				"text": "Point out this inactive switch.",
+				"text": "Indica al interrputor inactivo.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"That switch over there hasn't been pulled.\"",
+				"msg_says": "%s\"Ese interruptor no ha sido activado.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"switch" : 
 			{
-				"text": "Point out the switch.",
+				"text": "Indica al interruptor.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"There's a switch over there.\"",
+				"msg_says": "%s\"Allí hay un interruptor.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"boulder" : 
 			{
-				"text": "Point out the boulder.",
+				"text": "Señala a la enorme roca.",
 				"word_highlights" : [3],
-				"msg_emote": "%s gestures to the boulder.",
-				"msg_emote_you": "You gesture to the boulder.",
+				"msg_emote": "%s Gesticula hacia la enorme roca.",
+				"msg_emote_you": "Gesticulas hacia la enorme roca.",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"trap" : 
 			{
-				"text": "There's a %s here.",
+				"text": "Hay un/a %s aquí.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"There's a %s here.\"",
+				"msg_says": "%s\"Hay un/a %s aquí.\"",
 				"world_icon": "tag_spot-trap",
 				"world_icon_small": "mini_spot"
 			},
 			"generic_interactable" : 
 			{
-				"text": "Point out the %s.",
+				"text": "Señala el/la %s.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"There's a %s over here.\"",
+				"msg_says": "%s\"Hay un %s aquí .\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"shrine" : 
 			{
-				"text": "Point out the shrine.",
+				"text": "Indica el santuario.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"There's a shrine over here.\"",
+				"msg_says": "%s\"Aquí hay un santuario.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"exit" : 
 			{
-				"text": "Point out the exit.",
+				"text": "Señala la salida.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"The exit is over here.\"",
+				"msg_says": "%s\"La salida está aquí.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"secret_exit" : 
 			{
-				"text": "Point out the secret level exit.",
+				"text": "Señala la salida secreta.",
 				"word_highlights" : [3, 4, 5],
-				"msg_emote": "%s points to the secret level exit.",
-				"msg_emote_you": "You point to the secret level exit.",
+				"msg_emote": "%s señala la salida secreta.",
+				"msg_emote_you": "Señalas la salida secreta.",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"secret_entrance" : 
 			{
-				"text": "Point out the secret level entrance.",
+				"text": "Señala la entrada secreta.",
 				"word_highlights" : [3, 4, 5],
-				"msg_emote": "%s points out the entrance to a secret area.",
-				"msg_emote_you": "You point out the entrance to a secret area.",
+				"msg_emote": "%s señala la salida secreta.",
+				"msg_emote_you": "Señalas la salida secreta",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"gold" : 
 			{
-				"text": "Point out the sack of gold.",
+				"text": "Señala el saco de oro.",
 				"word_highlights" : [3, 4, 5],
-				"msg_emote": "%s points out a sack of gold.",
-				"msg_emote_you": "You point out a sack of gold.",
+				"msg_emote": "%s señala un saco de oro.",
+				"msg_emote_you": "Señalas un saco de oro.",
 				"world_icon": "tag_spot-item",
 				"world_icon_small": "mini_item"
 			},
 			"fountain" : 
 			{
-				"text": "Point out the fountain.",
+				"text": "Señala a la fuente.",
 				"word_highlights" : [3],
-				"msg_emote": "%s points out a fountain.",
-				"msg_emote_you": "You point out a fountain.",
+				"msg_emote": "%s señala una fuente.",
+				"msg_emote_you": "Señalas una fuente.",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"sink" : 
 			{
-				"text": "Point out the sink.",
+				"text": "Señala el lavabo.",
 				"word_highlights" : [3],
-				"msg_emote": "%s points out a sink.",
-				"msg_emote_you": "You point out a sink.",
+				"msg_emote": "%s señala un lavabo.",
+				"msg_emote_you": "Señalas un lavabo.",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"teleporter" : 
 			{
-				"text": "Pount out the teleporter.",
+				"text": "Señala el teletransportador.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"Looks like there's a teleporter here.\"",
+				"msg_says": "%s\"Parece que aquí hay un teletransportador.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"teleporter_up" : 
 			{
-				"text": "Point out the way up.",
+				"text": "Señala el camino hacia arriba.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"This ladder leads upward.\"",
+				"msg_says": "%s\"Esta escalera conduce hacia arriba.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
@@ -765,23 +765,23 @@
 			{
 				"text": "Point out the way down.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"This ladder will take us downward.\"",
+				"msg_says": "%s\"Esta escalera nos conducirá hacia abajo.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"bomb" : 
 			{
-				"text": "Point out the %s.",
+				"text": "Indica el/la %s.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"A %s has been placed here.\"",
+				"msg_says": "%s\"Se ha colocado un/a %s aquí.\"",
 				"world_icon": "tag_spot-trap",
 				"world_icon_small": "mini_spot"
 			},
 			"collider" : 
 			{
-				"text": "Point out the breakable %s.",
+				"text": "Indica que este/a %s es frágil.",
 				"word_highlights" : [4],
-				"msg_says": "%s\"We can bust through this %s.\"",
+				"msg_says": "%s\"Podemos abrirnos paso a través de este/a %s.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			}
