@@ -795,17 +795,17 @@
 		"text_maps": [{
 			"player_wave":
 			{
-				"text": "Wave to %s!",
+				"text": "¡Saluda a %s!",
 				"word_highlights" : [2],
-				"msg_emote": "%s waves to %s!",
-				"msg_emote_you": "You wave to %s!",
-				"msg_emote_to_you": "%s waves to you!",
+				"msg_emote": "¡%s saluda a %s!",
+				"msg_emote_you": "Tu saludas a %s!",
+				"msg_emote_to_you": "¡%s te saluda!",
 				"world_icon": "tag_self_player-wave",
 				"world_icon_small": "mini_spot"
 			},
 			"unavailable":
 			{
-				"text": "Player unavailable",
+				"text": "Jugador no dispobible",
 				"word_highlights" : [0,  1, 2],
 				"msg_emote": "",
 				"msg_emote_you": "",
@@ -822,17 +822,17 @@
 		"text_maps": [{
 			"player_wave":
 			{
-				"text": "Wave to %s!",
+				"text": "¡Saluda a %s!",
 				"word_highlights" : [2],
-				"msg_emote": "%s waves to %s!",
-				"msg_emote_you": "You wave to %s!",
-				"msg_emote_to_you": "%s waves to you!",
+				"msg_emote": "¡%s saluda a %s!",
+				"msg_emote_you": "¡Saludas a %s!",
+				"msg_emote_to_you": "¡%s te saluda!",
 				"world_icon": "tag_self_player-wave",
 				"world_icon_small": "mini_spot"
 			},
 			"unavailable":
 			{
-				"text": "Player unavailable",
+				"text": "Jugador no dispobible",
 				"word_highlights" : [0,  1, 2],
 				"msg_emote": "",
 				"msg_emote_you": "",
@@ -849,17 +849,17 @@
 		"text_maps": [{
 			"player_wave":
 			{
-				"text": "Wave to %s!",
+				"text": "¡Saluda a %s!",
 				"word_highlights" : [2],
-				"msg_emote": "%s waves to %s!",
-				"msg_emote_you": "You wave to %s!",
-				"msg_emote_to_you": "%s waves to you!",
+				"msg_emote": "¡%s saluda a %s!",
+				"msg_emote_you": "¡Saludas a %s!",
+				"msg_emote_to_you": "¡%s te saluda!",
 				"world_icon": "tag_self_player-wave",
 				"world_icon_small": "mini_spot"
 			},
 			"unavailable":
 			{
-				"text": "Player unavailable",
+				"text": "Jugador no dispobible",
 				"word_highlights" : [0,  1, 2],
 				"msg_emote": "",
 				"msg_emote_you": "",
