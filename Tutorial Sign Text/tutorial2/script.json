@@ -29,12 +29,12 @@
     "script_entries": {
         "tutorial2a": {
             "sign": [
-                "Using a combination of",
-				"bows, ammo, and thrown",
-                "weapons, adventurers",
-                "can keep their distance",
-				"from the dungeon's",
-				"more dangerous threats."
+                "Usando una combinación de",
+				"arcos, munición, y armas",
+				"arrojadizas, los aventureros",
+				"pueden distanciarse de las",
+				"amenazas más peligrosas",
+				"de la mazmorra."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -60,9 +60,9 @@
         },
         "tutorial2b": {
             "sign": [
-                "Hunting Ammo",
+                "Flechas de Cacería",
 				"$",
-				"Poisons and Slows enemies."
+				"Envenena y ralentiza a los enemigos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -101,10 +101,10 @@
         },
         "tutorial2c": {
             "sign": [
-                "Swift Ammo",
+                "Flechas Veloces",
 				"$",
-				"Fires faster but deals",
-				"slightly less damage."
+				"Dispara más rápido pero inflige",
+				"daño ligeramente menor."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -149,9 +149,9 @@
         },
         "tutorial2d": {
             "sign": [
-                "Springshot Ammo",
+                "Flechas de Empuje",
 				"$",
-				"Knocks foes back."
+				"Repele a los enemigos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -190,11 +190,11 @@
         },
         "tutorial2e": {
             "sign": [
-                "Your ability to fight",
-				"at range will now",
-				"be tested.",
-                "",
-				"Ensure you are prepared."
+                "Tu habilidad para luchar",
+				"a distancia será puesta",
+				"a prueba.",
+				"",
+				"Prepárate."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -209,9 +209,9 @@
         },
         "tutorial2f": {
             "sign": [
-                "To keep your distance",
-				"from enemies, you may",
-				"need to turn and run."
+                "Para mantener tu distancia",
+				"entre enemigos, puede que",
+				"necesites girar y correr."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -230,12 +230,12 @@
         },
         "tutorial2f_gamepad": {
             "sign": [
-                "To keep your distance",
-				"from enemies, you may",
-				"need to turn and run.",
+                "Para mantener tu distancia",
+				"entre enemigos, puede que",
+				"necesites girar y correr.",
 				"",
-                "Press$ to perform",
-				"a quick-turn."
+				"Pulsa$ para realizar",
+				"un giro rápido."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -269,9 +269,9 @@
         },		
         "tutorial2g": {
             "sign": [
-                "Walking forward is",
-				"faster than backpedaling",
-				"and sidestepping."
+				"Caminar hacia adelante es",
+				"más rápido que retroceder",
+				"y moverse de lado."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -304,11 +304,11 @@
         },
         "tutorial2h": {
             "sign": [
-				"$",			
-                "With a strong throw",
-				"chakrams bounce off walls.",
-                "Floor traps beyond these",
-				"gates will open the way."
+				"$",
+				"Con un lanzamiento fuerte,",
+				"los chakrams rebotan en las paredes.",
+				"Las trampas en el suelo más allá de",
+				"estas puertas abrirán el camino."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -340,11 +340,11 @@
         },
         "tutorial2i": {
             "sign": [
-                "Some items can be used",
-				"as thrown weapons.",
+                "Algunos objetos pueden usarse",
+				"como armas arrojadizas.",
 				"$",
-                "Use them to attack enemies",
-				"or trigger floor traps."
+				"Úsalos para atacar a los enemigos",
+				"o activar trampas en el suelo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -386,12 +386,12 @@
         "tutorial2j": {
             "sign": [
 				"$",
-                "Quivers of ammo",
-				"will augment your",
-				"bow attacks.",
+				"Los carcajes de flechas",
+				"aumentarán tus",
+				"ataques con arco.",
 				"",
-                "Equip different quivers to",
-				"gain different effects."
+				"Equipa diferentes carcajes para",
+				"obtener diferentes efectos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -425,12 +425,12 @@
         },
         "tutorial2k": {
             "sign": [
-                "The distance an arrow",
-				"can travel depends upon",
-				"the bow used.",
+                "La distancia recorrida",
+				"por una flecha depende",
+				"del arco utilizado.",
 				"$",
-                "The longbow can shoot far,",
-				"but is a slow weapon."
+				"El arco largo tiene mayor alcance,",
+				"pero es un arma lenta."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -470,8 +470,8 @@
         },
         "tutorial2l": {
             "sign": [
-                "Falling in lava is",
-				"a fast way to die.",
+				"Caer en lava es una",
+				"forma rápida de morir.",
 				"",
 				"$"
             ],
@@ -494,9 +494,9 @@
         "tutorial2m": {
             "sign": [
 				"$",
-                "Equip the shortbow and",
-				"show your marksmanship.",
-                "Hold$ to shoot."
+				"Equipa el arco corto y",
+				"demuestra tu puntería.",
+				"Mantén$ para disparar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -536,12 +536,12 @@
         },
         "tutorial2n": {
             "sign": [
-                "Ammo cannot be",
-                "recovered once fired.",
+                "La munición no puede ser",
+				"recuperada una vez disparada.",
 				"",
-				"Thrown weapons",
-				"can be collected and",
-				"thrown again."
+				"Las armas arrojadizas",
+				"pueden ser recogidas y",
+				"lanzadas de vuelta."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -556,11 +556,11 @@
         },
         "tutorial2o": {
             "sign": [
-                "Hold$ to charge",
-				"a thrown attack.",
+                "Mantén$ para cargar",
+				"un ataque arrojadizo.",
 				"",
-                "Charged throws fly further",
-				"and deal more damage."
+				"Los lanzamientos cargados vuelan más lejos",
+				"y causan más daño."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -589,11 +589,11 @@
         },
         "tutorial2q": {
             "sign": [
-				"This dummy is armored.",
-                "$$",
-				"Piercing Ammo bypasses",
-				"defenses, dealing more",
-				"damage to armored foes."
+				"Este muñeco está blindado.",
+				"$$",
+				"Las Flechas Perforantes",
+				"ignoran las defensas, infligiendo",
+				"más daño a los enemigos acorazados."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -640,11 +640,11 @@
         },		
         "tutorial2p": {
             "sign": [
-                "Silver Arrows",
+                "Flechas de Plata",
 				"",
 				"$",
-				"Deadlier against Demons",
-				"and the Undead."
+				"Fatales contra Demonios",
+				"y No Muertos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
