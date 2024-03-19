@@ -29,13 +29,13 @@
     "script_entries": {
         "tutorial7a": {
             "sign": [
-                "Such fine equipment.",
-				"It is a shame you",
-                "cannot use it yourself.",
+				"Qué equipo tan fino.",
+				"Es una lástima que no",
+				"puedas usarlo.",
 				"",
-				"A good Leader",
-                "must use their",
-				"resources wisely."
+				"Un buen líder debe",
+				"ser capaz de usar sus",
+				"recursos sabiamente."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -68,10 +68,10 @@
         },
         "tutorial7b": {
             "sign": [
-                "Your ability to",
-				"command followers",
-				"effectively will",
-				"be tested."
+				"Tu habilidad para",
+				"comandar seguidores",
+				"efectivamente será",
+				"puesta a prueba."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -87,14 +87,13 @@
         },
         "tutorial7c": {
             "sign": [
-                "Scrolls of Summon",
-				"can provide allies",
-				"in a pinch.",
+				"Los Pergaminos de Invocación",
+				"pueden proporcionar aliados",
+				"en momentos críticos.",
 				"",
-                "You should save this",
-				"scroll for the test",
-				"at the end of",
-                "this Trial."
+				"Deberías guardar este",
+				"pergamino para la prueba",
+				"al final de este Desafío."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -168,13 +167,13 @@
         },
         "tutorial7d_gamepad": {
             "sign": [
-                "Order followers",
-				"to [Wait] to keep",
-				"them out of the way.",
+				"Ordena a los seguidores",
+				"a [Esperar] para mantenerlos",
+				"fuera del camino.",
 				"$ $",
-                "When set to [Follow]",
-				"followers will attempt",
-				"to stay close to you."
+				"Cuando se establece en [Seguir],",
+				"los seguidores intentarán",
+				"mantenerse cerca de ti."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -217,14 +216,14 @@
         },		
         "tutorial7do": {
             "sign": [
-                "Followers will always",
-				"attack enemies they spot.",
+				"Los seguidores siempre atacan",
+				"a los enemigos que ven.",
 				"",
-				"To prevent them from",
-				"starting a fight",
-				"keep them",
-				"out of the way",
-				"until you are ready."
+				"Para evitar que",
+				"comiencen una pelea,",
+				"mantenlos",
+				"fuera del camino hasta",
+				"que te hayas preparado."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -257,14 +256,14 @@
         },
         "tutorial7do_gamepad": {
             "sign": [
-                "Followers will always",
-				"attack enemies they spot.",
+				"Los seguidores siempre atacan",
+				"a los enemigos que ven.",
 				"",
-				"To prevent them from",
-				"starting a fight",
-				"keep them",
-				"out of the way",
-				"until you are ready."
+				"Para evitar que",
+				"comiencen una pelea,",
+				"mantenlos",
+				"fuera del camino hasta",
+				"que te hayas preparado."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -297,15 +296,15 @@
         },			
         "tutorial7e": {
             "sign": [
-                "You will need to",
-				"position your follower",
-				"so that they may clear",
-				"the way for you.",
+				"Necesitarás posicionar",
+				"adecuadamente a tu seguidor",
+				"para que despeje el camino",
+				"por ti.",
 				"",
-				"Followers might be",
-				"cautious. You may need",
-				"to order them to [Move]",
-				"further for best results."
+				"Los seguidores pueden ser cautelosos.",
+				"Es posible que necesites ordenarles",
+				"[Moverse] más lejos para obtener",
+				"mejores resultados."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -350,10 +349,10 @@
         },
         "tutorial7f": {
             "sign": [
-                "Using your followers",
-				"strategically can help",
-				"you survive and conquer",
-				"the dungeon."
+				"Usar estratégicamente a tus",
+				"seguidores puede ayudarte",
+				"a sobrevivir y conquistar",
+				"la mazmorra."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -372,13 +371,13 @@
         },
         "tutorial7g": {
             "sign": [
-                "If you command a",
-				"follower to [Move],",
-                "they will wait there",
-				"for your next order.",
+				"Si le ordenas a un",
+				"seguidor a [Moverse],",
+				"este esperará allí hasta",
+				"recibir su siguiente orden.",
 				"$",
-                "Use$to issue another",
-				"command from anywhere."
+				"Usa$para emitir otra orden",
+				"desde cualquier lugar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -420,14 +419,14 @@
         },
         "tutorial7h": {
             "sign": [
-                "You can command",
-				"allies to pick up",
-				"and use equipment",
-				"with [Interact].",
+				"Puedes dar un comando",
+				"a los aliados para que ",
+				"recojan y usen equipos",
+				"mediante [Interactuar].",
 				"",
-                "They will use items",
-				"in their efforts to",
-				"assist you."
+				"Estos usarán los objetos",
+				"en sus esfuerzos por",
+				"asistirte."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -464,9 +463,9 @@
         },
         "tutorial7i": {
             "sign": [
-                "You can command your",
-				"follower at any range",
-				"by pressing$."
+				"Puedes darle un comando a tu",
+				"seguidor desde cualquier distancia",
+				"pulsando$."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",			
@@ -494,13 +493,14 @@
         },
         "tutorial7j": {
             "sign": [
-                "You will need an",
-				"ally's help to open",
-				"this gate.",
+				"Necesitarás la ayuda de",
+				"un aliado para abrir",
+				"esta puerta.",
 				"$",
-                "Command your ally",
-				"to [Interact] with the",
-				"switch you cannot reach."
+				"Ordena a tu aliado",
+				"a [Interactuar] con el",
+				"interruptor que no puedes",
+				"alcanzar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -547,13 +547,14 @@
         },
         "tutorial7j_gamepad": {
             "sign": [
-                "You will need an",
-				"ally's help to open",
-				"this gate.",
+				"Necesitarás la ayuda de",
+				"un aliado para abrir",
+				"esta puerta.",
 				"$",
-                "Command your ally",
-				"to [Interact] with the",
-				"switch you cannot reach."
+				"Ordena a tu aliado",
+				"a [Interactuar] con el",
+				"interruptor que no puedes",
+				"alcanzar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -600,13 +601,13 @@
         },		
         "tutorial7k": {
             "sign": [
-                "You can rely on",
-				"the help of followers",
-				"for assistance.",
+				"Puedes confiar en la",
+				"ayuda de los seguidores",
+				"para obtener asistencia.",
 				"",
-                "Press$ to recruit",
-				"the human on the",
-				"other side of the gap."
+				"Pulsa$para reclutar",
+				"el humano ubicado al",
+				"otro lado de la brecha."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -650,12 +651,11 @@
         },
         "tutorial7kb": {
             "sign": [
-                "The amount of followers",
-				"you may have at one time,",
-				"and the commands you have",
-				"available to you,",
-				"depends upon your",
-				"Leadership Skill.",
+				"La cantidad de seguidores",
+				"que puedes tener en total,",
+				"y los comandos que tendrás",
+				"disponibles son dependientes",
+				"de tu Habilidad de Liderazgo",
 				"",
 				"$ "
             ],
@@ -687,14 +687,14 @@
         },		
         "tutorial7l": {
             "sign": [
-                "Take care in",
-				"how you command",
-				"your allies.",
+				"Ten cuidado en",
+				"cómo comandas",
+				"a tus aliados.",
 				"",
-                "They are not the hero",
-				"you are, but look after",
-				"them and they shall",
-				"serve you well."
+				"Ellos no son el",
+				"héroe que eres tú,", 
+				"pero cuídalos y",
+				"te servirán bien."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -710,9 +710,9 @@
         },
         "tutorial7m": {
             "sign": [
-                "Human followers are",
-				"proficient with most",
-				"weapons and equipment.",
+				"Los seguidores humanos son",
+				"competentes con la mayoría",
+				"de armas y equipamientos.",
 				"",
 				"$"
             ],
@@ -750,13 +750,13 @@
         },
         "tutorial7n": {
             "sign": [
-                "WARNING:",
-				"This lever opens",
-				"the gate.",
+				"ADVERTENCIA:",
+				"Esta palanca abre",
+				"la reja.",
 				"",
-                "Fraternization with",
-				"skeletal guardians",
-				"not recommended."
+				"Fraternizar con los",
+				"guardianes esqueléticos",
+				"no está recomendado."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -786,12 +786,12 @@
         },
         "tutorial7o": {
             "sign": [
-                "You can recruit",
-				"Kelly through the gate.",
-                "",
-				"Pull this lever once",
-				"you are ready to free",
-				"your new follower."
+				"Puedes reclutar a Kelly",
+				"a través de la reja.",
+				"",
+				"Tira de esta palanca una vez",
+				"que te hayas preparado para",
+				"liberar a tu nuevo seguidor."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -818,13 +818,12 @@
         },
         "tutorial7op": {
             "sign": [
-                "Interact Aim Assist",
-				"helps you interact with",
-				"nearby objects without",
-                "needing to aim.",
+				"La Interacción Asistida de Puntería",
+				"te ayuda a interactuar con objetos",
+				"cercanos sin la necesidad de apuntar.",
 				"",
-				"Use$to pick through",
-				"multiple nearby actions."
+				"Usa$para seleccionar las",
+				"múltiples acciones cercanas."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -870,10 +869,10 @@
         },				
         "tutorial7p": {
             "sign": [
-                "Use$to issue the",
-				"same command repeatedly",
-                "without having to open",
-				"the command wheel."
+				"Usa$para emitir el mismo",
+				"comando repetidamente sin",
+				"tener que abrir la rueda",
+				"de comandos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -897,14 +896,14 @@
         },
         "tutorial7q": {
             "sign": [
-                "You have been made",
-				"unable to fight for",
-				"yourself.",
+				"Te han dejado incapaz de",
+				"luchar por tus propios",
+				"medios.",
 				"",
-                "Three humans are",
-				"ready to aid you.",
-				"Recruit and ready",
-				"them for battle."
+				"Tres humanos están",
+				"listos para ayudarte.",
+				"Reclútalos y prepáralos",
+				"para la batalla."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -938,14 +937,14 @@
         },
         "tutorial7r": {
             "sign": [
-                "View follower status",
-				"in the top right of",
-				"the screen. The last",
-				"active follower is",
-				"highlighted.",
+				"Mira el estado del seguidor",
+				"en la parte superior derecha",
+				"de la pantalla. El último",
+				"seguidor activo estará",
+				"resaltado.",
 				"",
-				"Scroll to the next",
-				"follower using$."
+				"Desplázate al siguiente",
+				"seguidor usando$."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -981,11 +980,11 @@
         },
         "tutorial7s": {
             "sign": [
-                "Tap$ to quickly cycle",
-				"through your followers,",
-                "allowing you to issue",
-				"commands to each one",
-				"using$and$."
+				"Toca$ para lograr recorrer",
+				"rápidamente los seguidores,",
+				"lo que te permitirá emitir",
+				"órdenes a cada uno de ellos",
+				"usando$y$."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1021,14 +1020,14 @@
         },
         "tutorial7t": {
             "sign": [
-                "BEWARE:",
+				"CUIDADO:",
 				"",
-				"You must manage",
-				"your followers with",
-				"care to ensure they",
-				"are not crushed by",
-				"the boulder trap",
-				"on the path ahead."
+				"Debes gestionar a tus",
+				"seguidores con cuidado",
+				"para asegurarte de que",
+				"no sean aplastados por",
+				"la trampa de pedrusco",
+				"en el camino por delante."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1069,13 +1068,13 @@
         },
         "tutorial7z": {
             "sign": [
-                "Command followers to",
-				"[Rest] once per floor,",
-				"which recuperates HP.",
+				"Comanda a los seguidores a",
+				"[Descansar] una vez por piso,",
+				"lo que les permite recuperar PV.",
 				"$",
-				"They can also recover",
-				"by being commanded to",
-				"[Interact] with food."
+				"También pueden recuperarse",
+				"al ser comandados a",
+				"[Interactuar] con la comida."
 		
             ],
             "attributes": {
@@ -1122,14 +1121,14 @@
         },		
         "tutorial7u": {
             "sign": [
-                "It is wise to order",
-				"followers to [Wait]",
-                "while you scout ahead.",
+				"Es prudente ordenar a",
+				"los seguidores a [Esperar]",
+				"mientras exploras por delante.",
 				"",
-				"Hold$while issuing",
-				"some commands to direct",
-				"all of your followers",
-				"with a single order."
+				"Mantén presionado$al emitir",
+				"algunos comandos para dirigir",
+				"a todos tus seguidores",
+				"con una sola orden."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1174,14 +1173,14 @@
         },
         "tutorial7u_gamepad": {
             "sign": [
-                "It is wise to order",
-				"followers to [Wait]",
-                "while you scout ahead.",
+				"Es prudente ordenar a",
+				"los seguidores a [Esperar]",
+				"mientras exploras por delante.",
 				"",
-				"Hold$while issuing",
-				"some commands to direct",
-				"all of your followers",
-				"with a single order."
+				"Mantén presionado$al emitir",
+				"algunos comandos para dirigir",
+				"a todos tus seguidores",
+				"con una sola orden."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1227,10 +1226,9 @@
         },		
         "tutorial7up": {
             "sign": [
-                "This gate shall only",
-				"be opened when all",
-				"enemies have been",
-				"defeated."
+				"Esta reja solo se abrirá",
+				"cuando todos los enemigos",
+				"hayan sido derrotados."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
