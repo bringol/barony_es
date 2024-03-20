@@ -29,8 +29,8 @@
     "script_entries": {
         "tutorial9a": {
             "sign": [
-                "These items are all",
-				"broken and useless.",
+				"Estos objetos están todos",
+				"rotos e inutilizables.",
 				"",
 				"$"
             ],
@@ -65,11 +65,13 @@
         "tutorial9b": {
             "sign": [
 				"$",
-                "The gyrobot is the",
-				"tinkerer's mobile assistant.",
-				"Once deployed, make use of",
-				"its commands to perform",
-				"a variety of tasks."
+				"El girobot es el",
+				"asistente móvil",
+				"del fabricante.",
+				"Una vez desplegado,",
+				"haz uso de sus",
+				"comandos para realizar",
+				"una variedad de tareas."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -108,14 +110,14 @@
         },
         "tutorial9c": {
             "sign": [
-                "The dummybot provided",
-				"earlier was damaged.",
+				"El maniquí otorgado",
+				"anteriormente se dañó.",
 				"",
-                "Repair it to",
-				"survive this trap.",
-				"If it is broken, you",
-				"must [Craft] a new one",
-				"in the tinker menu."
+				"Repáralo para lograr",
+				"sobrevivir esta trampa.",
+				"Si está roto, debes", 
+				"[Elaborar] uno nuevo desde",
+				"el menú de fabricación."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -150,15 +152,15 @@
         },
         "tutorial9d": {
             "sign": [
-                "The tinkering kit can",
-				"be used to repair.",
+				"El kit de fabricación",
+				"puede usarse para reparar.",
 				"",
-                "This is essential for",
-				"keeping tinkered machines",
-				"and the kit itself in",
-				"functioning condition.",
-                "If your kit breaks, you",
-				"may not find another."
+				"Esto es esencial para lograr",
+				"mantener tanto las máquinas",
+				"como el mismísimo kit en",
+				"condiciones funcionales.",
+				"Si tu kit se rompe, será",
+				"difícil encontrar otro."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -198,16 +200,16 @@
         },
         "tutorial9e": {
             "sign": [
-                "NOTICE:",
-				"You are trapped.",
+				"AVISO:",
+				"Caíste bajo una trampa.",
 				"",
-                "The lever will open",
-				"the gate, but will also",
-				"release a boulder to",
-				"destroy you.",
+				"La palanca abrirá la",
+				"puerta, pero también",
+				"liberará un pedrusco",
+				"para destruirte.",
 				"",
-                "You must tinker",
-				"to proceed."
+				"Debes fabricar",
+				"para proceder."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -256,15 +258,15 @@
         },
         "tutorial9f": {
             "sign": [
-                "Tinkered traps like",
-				"this one can be thrown",
-				"onto floors, walls, or",
-				"even doors and chests.",
+				"Trampas fabricadas como",
+				"esta pueden arrojarse",
+				"a suelos, paredes, o",
+				"incluso puertas y cofres.",
 				"",
-                "Deployed traps won't",
-				"trigger against allies,",
-                "unless modified with",
-				"a lockpick."
+				"Las trampas desplegadas no",
+				"se activarán contra aliados,",
+				"a menos que se modifiquen con",
+				"una ganzúa."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -298,13 +300,13 @@
         },
         "tutorial9g": {
             "sign": [
-                "Use the tinkering kit",
-				"to open the tinker menu,",
-				"and select the repair tab.",
-				"Then pick items to improve.",
+				"Usa el kit de fabricación para",
+				"abrir el menú de fabricación, y",
+				"selecciona la pestaña de reparación.",
+				"Luego elige los objetos a mejorar.",
 				"",
-				"Keep your machines",
-				"repaired and upgraded."
+				"Mantén tus máquinas", 
+				"reparadas y mejoradas."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -333,12 +335,12 @@
         },
         "tutorial9h": {
             "sign": [
-                "Your strategy and",
-				"resourcefulness with",
-				"tinkering will now be",
-				"tested.",
+				"Tu estrategia e",
+				"ingenio con la",
+				"fabricación serán",
+				"puestas a prueba.",
 				"",
-				"Ensure you are prepared."
+				"¡Prepárate!"
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -357,14 +359,14 @@
         },
         "tutorial9i": {
             "sign": [
-                "The number of machines",
-				"you can deploy at once",
-                "is based on your",
-				"tinkering skill.",
+				"La cantidad de máquinas",
+				"que puedes desplegar a la vez",
+				"dependerá de tu habilidad de",
+				"para la fabricación.",
 				"",
-				"Choose wisely, and",
-				"keep track of your",
-				"mechanical allies."
+				"Elige sabiamente, y",
+				"mantén un registro de",
+				"tus aliados mecánicos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -388,15 +390,16 @@
 		},
         "tutorial9is": {
             "sign": [
-                "You can salvage items",
-				"in your inventory with",
-				"the tinkering menu.",
+				"Puedes reciclar objetos",
+				"en tu inventario con",
+				"el menú de fabricación.",
 				"",
-				"Press$ on your kit",
-				"and select [Tinker].",
-				"Use the [Salvage] tab",
-				"to begin picking items",
-				"to turn to scrap."
+				"Pulsa$ en tu kit",
+				"y selecciona [Fabricar].",
+				"Usa la pestaña [Reciclar]",
+				"para comenzar a seleccionar",
+				"objetos dispuestos a ser",
+				"convertidos en chatarra."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -438,15 +441,16 @@
         },
 		"tutorial9is_gamepad": {
             "sign": [
-                "You can salvage items",
-				"in your inventory with",
-				"the tinkering menu.",
+				"Puedes reciclar objetos",
+				"en tu inventario con",
+				"el menú de fabricación.",
 				"",
-				"Press$ on your kit",
-				"and select [Tinker].",
-				"Use the [Salvage] tab",
-				"to begin picking items",
-				"to turn to scrap."
+				"Pulsa$ en tu kit",
+				"y selecciona [Fabricar].",
+				"Usa la pestaña [Reciclar]",
+				"para comenzar a seleccionar",
+				"objetos dispuestos a ser",
+				"convertidos en chatarra."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -488,15 +492,15 @@
         },
         "tutorial9j": {
             "sign": [
-                "Select items to craft",
-				"from the tinker menu's",
-				"craft tab.",
-				"View scrap costs when",
-				"hovering over each item.",
+				"Selecciona objetos a elaborar",
+				"desde la pestaña de fabricar",
+				"del menú de fabricación.",
+				"Observa los costos de chatarra cuando",
+				"pasas el cursor sobre cada objeto.",
 				"",
-                "You will face a test",
-				"of survival using the",
-				"items you create."
+				"Enfrentarás una prueba",
+				"de supervivencia usando",
+				"objetos que hayas creado."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -526,13 +530,13 @@
         },		
         "tutorial9k": {
             "sign": [
-                "With the tinkering kit",
-				"equipped, hold$to",
-				"enable auto-scrap.",
+				"Con el kit de fabricación",
+				"equipado, mantén$para",
+				"activar el auto-reciclaje.",
 				"",
-				"Items you then pick up",
-                "with$ will be salvaged",
-				"into useful scrap."
+				"Los objetos que recojas luego",
+				"con$ serán reciclados en",
+				"forma chatarra utilizable."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -581,10 +585,10 @@
         },
         "tutorial9l": {
             "sign": [
-                "To quickly access the",
-				"tinker menu with the",
-				"tinkering kit equipped,",
-				"hold$and press$ ."
+				"Para acceder rápidamente al",
+				"menú de fabricación con el",
+				"kit de fabricación equipado,",
+				"mantén$y pulsa$ ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -671,13 +675,13 @@
         },		
         "tutorial9m": {
             "sign": [
-                " Behold!",
+				"¡Contempla!",
 				"$",
-				"With the tinkering kit",
-				"you can access machines,",
-				"traps and utility items,",
-				"assuming you have the",
-				"skill and scrap supply."
+				"Con el kit de fabricación",
+				"puedes acceder a máquinas,",
+				"trampas y objetos utilitarios,",
+				"siempre y cuando tengas la",
+				"habilidad y chatarra necesaria."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -708,15 +712,15 @@
         },
         "tutorial9n": {
             "sign": [
-                "Tinkered machines",
-				"and traps can take a",
-				"beating from combat.",
-                "If not broken, they may",
-				"be repaired and re-used.",
+				"Las máquinas fabricadas",
+				"y las trampas son capaces",
+				"de recibir una paliza.",
+				"Si no están rotas, pueden",
+				"repararse y reutilizarse.",
 				"",
-                "But even broken",
-				"junk may have value",
-				"to a tinkerer."
+				"Pero incluso la basura rota",
+				"puede tener valor para un",
+				"fabricante."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -741,14 +745,14 @@
         },
         "tutorial9o": {
             "sign": [
-                "Sentries are vulnerable",
-				"and can quickly be",
-				"destroyed by foes.",
+				"Los centinelas son vulnerables",
+				"y pueden ser rápidamente",
+				"destruidos por enemigos.",
 				"",
-				"Other tools can help",
-				"you keep enemies at",
-                "bay, allowing sentries",
-				"to attack freely."
+				"Otras herramientas pueden ayudar",
+				"a mantener a los enemigos a raya,",
+				"permitiendo a los centinelas atacar",
+				"libremente."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -784,12 +788,12 @@
         "tutorial9p": {
             "sign": [
 				"$",
-                "Dummybots are tough",
-				"and good at keeping",
-				"enemy attention.",
+				"Los maniquíes son robustos",
+				"y buenos para mantener",
+				"la atención de los enemigos.",
 				"",
-                "Be advised, you cannot",
-				"shoot through them."
+				"Ten en cuenta que no podrás",
+				"disparar a través de ellos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -839,9 +843,10 @@
         },
         "tutorial9q": {
             "sign": [
-                "You can recover some",
-				"scrap by lockpicking",
-				"a locked chest."
+				"Puedes recuperar algo",
+				"de chatarra forzando la",
+				"cerradura de un cofre",
+				"cerrado."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -869,9 +874,10 @@
         },
         "tutorial9q_gamepad": {
             "sign": [
-                "You can recover some",
-				"scrap by lockpicking",
-				"a locked chest."
+				"Puedes recuperar algo",
+				"de chatarra forzando la",
+				"cerradura de un cofre",
+				"cerrado."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -899,13 +905,13 @@
         },		
         "tutorial9r": {
             "sign": [
-                "Torches can provide",
-				"a steady supply of",
-                "metal scrap.",
+				"Las antorchas pueden brindar",
+				"un suministro constante de",
+				"chatarra metálica.",
 				"",
-				"Some tinkering skill",
-				"may be gained from",
-				"persistent salvaging.",
+				"Es posible ganar puntos",
+				"de Fabricar al reciclar",
+				"persistentemente.",
 				"",
 				"$"
             ],
@@ -947,10 +953,10 @@
         },
         "tutorial9re": {
             "sign": [
-                "Skilled tinkerers",
-				"may occasionally earn",
-				"extra scrap when",
-				"salvaging items."
+				"Los fabricantes expertos",
+				"pueden ganar ocasionalmente",
+				"chatarra extra al reciclar",
+				"objetos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -971,10 +977,10 @@
         "tutorial9s": {
             "sign": [
 				"$",
-                "You have no ranged",
-				"or throwing weapons.",
-                "But a sentry can fight",
-				"foes on your behalf."
+				"No tienes armas de largo",
+				"alcance o arrojadizas.",
+				"Pero un centinela puede luchar",
+				"contra enemigos en tu nombre."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1013,12 +1019,12 @@
         "tutorial9t": {
             "sign": [
 				"$",
-                "Beartraps are placed",
-				"on the floor with$ .",
-                "Enemies who step on",
-				"them are immobilized,",
-				"making them easy targets",
-				"for a time."
+				"Las trampas se colocan",
+				"en el suelo con$.",
+				"Los enemigos que las pisen",
+				"quedarán inmovilizados,",
+				"convirtiéndolos en blancos",
+				"fáciles por un tiempo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1056,14 +1062,14 @@
         },
         "tutorial9u": {
             "sign": [
-                "This door is locked.",
+				"Esta puerta está cerrada con llave.",
 				"",
 				"$ ",
-				"Locked doors and chests",
-				"can be broken open, but",
-                "picking them is usually",
-				"faster, if you excel in",
-				"tinkering."
+				"Las puertas y cofres cerrados",
+				"pueden abrirse a la fuerza, pero",
+				"suele ser más rápido abrirlos",
+				"con ganzúas, si eres experto en",
+				"Fabricar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1106,12 +1112,12 @@
             "sign": [
 				"$  $",
 				"",
-                "Salvaged items yield",
-				"metal scrap & magic scrap.",
+				"Los objetos reciclados producen",
+				"chatarra metálica y chatarra mágica.",
 				"",
-                "Magic scrap is rarer,",
-				"and needed for more",
-				"complex jobs."
+				"La chatarra mágica es más rara,",
+				"y necesaria para los trabajos",
+				"complejos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1195,10 +1201,10 @@
         "tutorial9w_gamepad": {
             "sign": [
 				"$",
-				"Use$ to command machines.",
-				"Deactivate, collect",
-				"and bring them along",
-				"for continued use."
+				"Usa$ para comandar máquinas.",
+				"Desactívalas, recógelas",
+				"y llévalas contigo",
+				"para seguir usándolas."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1244,11 +1250,11 @@
         "tutorial9x": {
             "sign": [
 				"$",
-                "The noisemaker is a",
-				"simple but useful device,",
-                "crafted by tinkerers.",
-				"Use it to draw monsters",
-                "to where you want them."
+				"El sonajero es un",
+				"dispositivo simple pero útil,",
+				"elaborado por fabricantes.",
+				"Úsalo para atraer monstruos",
+				"hacia donde tu desees."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1278,12 +1284,12 @@
         },
         "tutorial9y": {
             "sign": [
-                "Most tinkered machines",
-				"and traps are equipped",
-				"like weapons.",
+				"La mayoría de las máquinas",
+				"y trampas fabricadas se empuñan",
+				"como cualquier arma.",
 				"",
-                "Use$ to deploy them",
-				"in front of you."
+				"Usa$ para desplegarlas",
+				"delante de ti."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1319,15 +1325,15 @@
         },
         "tutorial9z": {
             "sign": [
-                "There is a troll",
-				"beyond this gate",
-				"that you are not",
-                "equipped to fight.",
+				"Encuentras un troll",
+				"más allá de esta puerta",
+				"por el que no estás",
+				"equipado para enfrentar.",
 				"",
-				"Use what you can",
-				"to bypass him.",
-				"Remember to keep",
-				"your distance."
+				"Usa lo que puedas",
+				"para pasarlo por alto.",
+				"Recuerda mantener",
+				"tu distancia."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1369,13 +1375,13 @@
         },
         "tutorial9ab": {
             "sign": [
-                "This lever must",
-				"be cranked up to",
-				"fully activate.",
+				"Esta palanca debe ser",
+				"girada completamente",
+				"para activarse del todo.",
 				"",
-                "It will deactivate",
-				"on its own after",
-				"a time."
+				"Se desactivará",
+				"por sí sola al cabo",
+				"de un tiempo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1409,14 +1415,14 @@
         },
         "tutorial9ac": {
             "sign": [
-                "The machines and traps",
-				"you've gathered can be",
-                "used to defend against",
-				"enemies.",
+				"Las máquinas y trampas",
+				"que has reunido pueden ser",
+				"usadas para defenderte",
+				"contra enemigos.",
 				"",
-				"Stall them, and",
-				"lure them to",
-				"their death."
+				"Deténlos, y",
+				"atráelos a",
+				"la muerte."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1442,10 +1448,10 @@
         "tutorial9ace": {
             "sign": [
 				"$",
-                "Command your gyrobot",
-				"to [Return & Land] if",
-				"you no longer need",
-				"its assistance."
+				"Ordena al girobot a",
+				"[Retornar y Aterrizar] si",
+				"si asisntencia deja de ser",
+				"requerida."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1481,13 +1487,13 @@
         },		
         "tutorial9ad": {
             "sign": [
-                "The undead within",
-				"these cells here",
-				"must be slain before",
-				"you can proceed.",
+				"Los no-muertos dentro",
+				"de estas celdas deben ser",
+				"eliminados antes de que",
+				"puedas proceder.",
 				"",
-				"Pull the lever when",
-                "you are prepared."
+				"Mueve la palanca cuando",
+				"te hayas preparado."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1511,12 +1517,13 @@
         },
         "tutorial9ae": {
             "sign": [
-                "Sentries are made to",
-				"randomly scan for foes.",
+				"Los centinelas están diseñados",
+				"para escanear aleatoriamente",
+				"en busca de enemigos.",
 				"$",
-				"Command them to",
-                "[Look At...] and press$",
-				"to assign aim direction."
+				"Ordénales a [Mirar...]",
+				"y pulsa$ para asignar",
+				"la dirección del objetivo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1557,14 +1564,15 @@
 				}						
 			]
         },
-        "tutorial9ae": {
+        "tutorial9ae_gamepad": {
             "sign": [
-                "Sentries are made to",
-				"randomly scan for foes.",
+				"Los centinelas están diseñados",
+				"para escanear aleatoriamente",
+				"en busca de enemigos.",
 				"$",
-				"Command them to",
-                "[Look At...] and press$",
-				"to assign aim direction."
+				"Ordénales a [Mirar...]",
+				"y pulsa$ para asignar",
+				"la dirección del objetivo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1608,12 +1616,12 @@
         "tutorial9af": {
             "sign": [
 				"$ $ $",
-                "Your gyrobot can pick up",
-				"items with [Interact].",
+				"Tu girobot puede recoger",
+				"objetos con [Interactuar].",
 				"",
-                "Use [Move to] to make",
-				"the gyrobot [Drop] items,",
-				"where you can reach them."
+				"Usa [Mover] y [Soltar] para",
+				"que el girobot suelte objetos,",
+				"donde puedas alcanzarlos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1672,13 +1680,13 @@
         },
         "tutorial9ag": {
             "sign": [
-                "Advanced gyrobots can",
-				"deploy traps using the",
-				"drop command.",
+				"Los girobots avanzados pueden",
+				"desplegar trampas usando el",
+				"comando de soltar.",
 				"",
-                "They can also operate",
-				"levers and tinker with",
-				"deployed traps."
+				"También pueden operar",
+				"palancas y retocar",
+				"trampas desplegadas."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1702,15 +1710,14 @@
         },
         "tutorial9ah": {
             "sign": [
-                "Deployed gyrobots",
-				"recognize their allied",
-				"machines and will carry",
-				"them to the next level",
-				"if left behind.",
+				"Los girobots desplegados",
+				"reconocen sus máquinas aliadas,",
+				"y las llevarán al siguiente nivel",
+				"si se quedan atrás.",
 				"",
-                "While enemies ignore",
-				"gyrobots, they can be",
-				"killed by some traps."
+				"Aunque los enemigos ignoran",
+				"a los girobots, pueden ser",
+				"asesinados por algunas trampas."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1747,14 +1754,14 @@
         },
         "tutorial9ai": {
             "sign": [
-                "WARNING:",
+				"ADVERTENCIA:",
 				"",
-				"Deployed machines will",
-				"not follow you through",
-                "this portal. Collect any",
-				"you have to bring them",
-				"with you. You cannot",
-				"come back through."
+				"Las máquinas desplegadas no",
+				"te seguirán a través de",
+				"este portal. Recoge cualquier",
+				"máquina que tengas para llevarla",
+				"contigo. No podrás",
+				"volver a través de él."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1784,13 +1791,13 @@
         },
         "tutorial9aj": {
             "sign": [
-                "Activate the lever",
-				"at the end of the",
-				"platform and monsters.",
-				"will begin to attack.",
-				"Use tinkering knowledge",
-				"to survive the onslaught",
-				"and the gate will open."
+				"Activa la palanca",
+				"al final de la",
+				"plataforma y los monstruos.",
+				"comenzarán a atacar.",
+				"Usa el conocimiento técnico",
+				"para sobrevivir al asedio",
+				"y la puerta se abrirá."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1833,15 +1840,15 @@
         },
         "tutorial9ajz": {
             "sign": [
-				"NOTICE:",
-                "Your sentries will",
-				"fire at enemies they",
-				"spot, even if allies",
-				"are in the way.",
+				"AVISO:",
+				"Tus centinelas abrirán",
+				"fuego contra los enemigos",
+				"que vean, incluso si hay aliados",
+				"en la línea de visión.",
 				"",
-				"Place dummybots,",
-				"and yourself,",
-				"accordingly."
+				"Colócate a ti mismo,",
+				"y a los maniquíes,",
+				"adecuadamente."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1877,10 +1884,10 @@
         },		
         "tutorial9ak": {
             "sign": [
-                "Adventurers who focus on",
-				"tinkering will have many",
-				"strategic advantages in",
-				"the dungeons."
+				"Los aventureros centrados",
+				"en fabricar tendrán muchas",
+				"ventajas estratégicas en",
+				"las mazmorras."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
