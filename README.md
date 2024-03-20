@@ -16,8 +16,8 @@
 - [ ] Texto General
 - [x] Nombres de Objetos y Descripciones
 - [ ] Datos de Texto del Menú
-- [ ] Texto de las Señales del Tutorial
-- [ ] Fuentes
+- [x] Textos en los Letreros del Tutorial
+- [x] Fuentes
 
 
 ##  Instalación Manual
