@@ -29,12 +29,12 @@
     "script_entries": {		
         "tutorial4a": {
             "sign": [
-				"$",			
-                "Scrolls of Identify",
-				"can provide the",
-				"certainty you need",
-				"when you don't have",
-				"time to wait around."
+				"$",
+				"Los Pergaminos de Identificar",
+				"pueden darte la",
+				"certeza que necesitas",
+				"cuando no tienes",
+				"tiempo para esperar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -62,12 +62,12 @@
         },
         "tutorial4b": {
             "sign": [
-                "Discard items you",
-				"don't need, as they",
-				"weigh you down.",
+				"Descarta los objetos",
+				"que no necesitas, ya que",
+				"te ralentizarán.",
 				"",
-                "Moving slowly can",
-				"get you killed."
+				"Moverte lentamente",
+				"puede llevarte a la muerte."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -113,12 +113,12 @@
         },
         "tutorial4b_gamepad": {
             "sign": [
-                "Discard items you",
-				"don't need, as they",
-				"weigh you down.",
+				"Descarta los objetos",
+				"que no necesitas, ya que",
+				"te ralentizarán.",
 				"",
-                "Moving slowly can",
-				"get you killed."
+				"Moverte lentamente",
+				"puede llevarte a la muerte."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -164,11 +164,11 @@
         },		
         "tutorial4c": {
             "sign": [
-                "You cannot attack,",
-				"block, cast spells, or",
-				"sneak while swimming,",
-                "but you can interact",
-				"with objects!",
+				"No puedes atacar, bloquear,",
+				"conjurar hechizos o moverte",
+				"sigilosamente mientras nadas,",
+				"¡pero puedes interactuar",
+				"con objetos!",
 				"",
 				"$ "
             ],
@@ -206,9 +206,9 @@
         },
         "tutorial4do": {
             "sign": [
-                "If Levitation wears off",
-				"while you are over a pit",
-				"you will surely die.",
+				"Si la Levitación termina",
+				"mientras estás sobre un",
+				"abismo, seguro morirás.",
 				"",
 				"$"
             ],
@@ -245,14 +245,14 @@
         },
         "tutorial4d": {
             "sign": [
-                "You may not always have",
-				"the luxury of time when",
-				"faced with challenges in",
-				"in the dungeon.",
+				"No siempre tendrás el",
+				"lujo del tiempo cuando",
+				"te enfrentes a desafíos en",
+				"la mazmorra.",
 				"",
-				"Imperfect solutions may",
-				"be necessary to survive.",
-                "You will now be tested."
+				"Las soluciones imperfectas pueden",
+				"ser necesarias para sobrevivir.",
+				"Ahora serás puesto a prueba."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -276,12 +276,12 @@
         },		
         "tutorial4e": {
             "sign": [
-                "Finding food is essential",
-				"to your survival.",
+				"Encontrar comida es esencial",
+				"para tu supervivencia.",
 				"",
 				"$",
-                "If you dawdle, you will",
-				"starve to death."
+				"Si te demoras,",
+				"morirás de hambre."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -325,12 +325,12 @@
         },
         "tutorial4f": {
             "sign": [
-                "One of these amulets",
-				"is enchanted with",
-				"a deadly curse.",
+				"Uno de estos amuletos",
+				"está encantado con",
+				"una maldición mortal.",
 				"",
-                "Appraisal will tell",
-				"you which is which."
+				"La Tasación te dirá",
+				"cuál es cuál."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -362,12 +362,12 @@
         },
         "tutorial4g": {
             "sign": [
-                "Most items in the dungeon",
-				"are not identified.",
+				"La mayoría de los objetos",
+				"no están identificados.",
 				"$",
-                "If your Appraisal skill",
-				"is low, you may fail",
-                "to identify them."
+				"Si tu habilidad de Tasar",
+				"es baja, puedes fallar",
+				"al intentar identificarlos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -412,13 +412,13 @@
         },
         "tutorial4h": {
             "sign": [
-                "Sometimes cursed items",
-				"are better than nothing.",
-				"Use them when you must.",
+				"A veces, los objetos malditos",
+				"son mejores que nada.",
+				"Úsalos cuando sea necesario.",
 				"",
-				"Some curses have penalties",
-				"on use, or worse, their",
-				"benefits may be reversed.",
+				"Algunas maldiciones tienen penalizaciones",
+				"al usarlos, o peor, sus beneficios pueden",
+				"ser revertidos.",
 				"$"
             ],
             "attributes": {
@@ -459,13 +459,13 @@
         },
         "tutorial4ha": {
             "sign": [
-                "Cursed equipment cannot",
-				"normally be removed",
-				"once equipped.",
+				"El equipo maldito no puede",
+				"ser removido normalmente",
+				"una vez equipado.",
 				"$",
-				"The consequences of",
-				"this may be devastating,",
-				"depending on the item."
+				"Las consecuencias de esto",
+				"pueden ser devastadoras,",
+				"dependiendo del objeto."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -501,13 +501,13 @@
         },
         "tutorial4hi": {
             "sign": [
-                "Prioritize inventory",
-				"items to Appraise first",
-				"by pressing$.",
+				"Prioriza los objetos del inventario",
+				"que desees Tasar primero",
+				"pulsando$.",
 				"$",
-				"Press$ on identified",
-				"items to view verbose",
-				"details of their effects."
+				"Pulsa$ en objetos identificados",
+				"para ver en mayor detalle",
+				"sus efectos específicos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -549,12 +549,12 @@
         },
         "tutorial4i": {
             "sign": [
-                "Appraising and",
-				"deciding whether or not",
-                "to use items can mean",
-				"the difference between",
-                "life and death",
-				"in the dungeons.",
+				"Tasar y decidir",
+				"si usar o no",
+				"los objetos puede ser",
+				"la diferencia entre",
+				"la vida y la muerte",
+				"en las mazmorras.",
 				"",
 				"$"
             ],
@@ -579,8 +579,8 @@
         },
         "tutorial4j": {
             "sign": [
-                "Patience may cause",
-				"your death.",
+				"La paciencia puede causar",
+				"tu muerte.",
 				"$"
             ],
             "attributes": {
@@ -604,12 +604,12 @@
         },
         "tutorial4k": {
             "sign": [
-				"This item is a",
-				"Cursed Amulet of",
-				"Magic Reflection.",
+				"Este objeto es un",
+				"Amuleto Maldito de",
+				"Reflejo Mágico.",
 				"",
-				"This effect still works",
-				"even if it is cursed.",
+				"Este efecto aún funciona",
+				"incluso si está maldito.",
 				"",
 				"$"
             ],
@@ -658,9 +658,9 @@
         },
         "tutorial4ks": {
             "sign": [
-                "Blessings may offer",
-				"enhanced effects to",
-				"some items."
+				"Las Bendiciones pueden ofrecer",
+				"efectos mejorados a algunos",
+				"objetos existentes."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -679,13 +679,13 @@
         },		
         "tutorial4l": {
             "sign": [
-                "Poor quality food",
-				"may or may not",
-				"make you sick.",
+				"La comida en mal estado",
+				"tiene la posiblidad de",
+				"causarte perjuicios.",
 				"$",
-                "Your desperation should",
-				"influence if it is",
-				"worth the risk."
+				"Tu desesperación deberá",
+				"influenciar si vale",
+				"la pena tal riesgo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -728,11 +728,11 @@
         },
         "tutorial4m": {
             "sign": [
-                "Food may seem too",
-				"scarce at first.",
+				"La comida puede parecer",
+				"muy escasa al principio.",
 				"",
-                "Persist, and improve",
-				"as an adventurer."
+				"Persiste y mejora en el",
+				"acto de tu aventura."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -749,10 +749,10 @@
         "tutorial4n": {
             "sign": [
 				"$$$",
-                "Towels can be used to",
-				"to wipe yourself clean,",
-                "or used as bandages",
-				"to stop bleeding.",
+				"Las Toallas pueden ser",
+				"usadas para limpiarte,",
+				"o usadas como vendajes",
+				"para detener sangrados.",
 				"$"
             ],
             "attributes": {
@@ -809,9 +809,9 @@
         },
         "tutorial4o": {
             "sign": [
-                "Rotten food can",
-				"make you sick, hastening",
-				"your starvation.",
+				"La comida podrida puede",
+				"causarte agravios, acelerando",
+				"tu inanición.",
 				"",
 				"$"
             ],

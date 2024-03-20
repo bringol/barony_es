@@ -29,13 +29,13 @@
     "script_entries": {
         "tutorial3a": {
             "sign": [
-                "Some items can",
-				"modify your abilities.",
+                "Algunos objetos pueden",
+				"modificar tus habilidades.",
 				"",
-                "Equip this",
-				"Ring of Might",
-				"to gain the ability",
-				"you need.",
+				"Equipa este",
+				"Anillo de Poder",
+				"para obtener la habilidad",
+				"que necesitas.",
 				"",
 				"$"
             ],
@@ -80,13 +80,13 @@
         },
         "tutorial3b": {
             "sign": [
-                "If you're not careful,",
-				"some traps can kill you",
-				"instantly.",
+                "Si no tienes cuidado,",
+				"algunas trampas pueden matarte",
+				"instantáneamente.",
 				"",
-                "Be prepared.",
+				"Ejerce cautela.",
 				"",
-				"$ "
+				"$"
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -131,12 +131,12 @@
         },
         "tutorial3c": {
             "sign": [
-                "You must remain aware",
-				"of your surroundings to",
-                "avoid succumbing to the",
-				"dungeon's traps.",
+                "Presta atención",
+				"a tu entorno para",
+				"evitar caer en las",
+				"trampas de la mazmorra.",
 				"",
-                "You will now be tested."
+				"El desafío comienza."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -158,12 +158,12 @@
         },
         "tutorial3d": {
             "sign": [
-                "Keen eyes and ears",
-				"provide ample warnings.",
+                "Ojos y oídos atentos",
+				"proporcionan amplias advertencias.",
 				"",
-                "If you do not panic,",
-				"you may yet survive",
-				"the dungeons."
+				"Si no entras en pánico,",
+				"puede que sobrevivas",
+				"las mazmorras."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -200,9 +200,9 @@
         "tutorial3e": {
             "sign": [
 				"$",
-				"Leave an item on",
-				"certain traps to ensure",
-				"they do not re-arm."
+            "Deja un objeto en ciertas",
+            "trampas para asegurarte",
+            "de que no se vuelvan a activar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -236,10 +236,10 @@
         },
         "tutorial3f": {
             "sign": [
-                "Boulders may cause",
-				"unforeseen consequences",
-				"as they may activate",
-				"multiple triggers."
+                "Las rocas pueden causar",
+				"consecuencias imprevistas,",
+				"ya que pueden activar",
+				"múltiples disparadores."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -264,12 +264,12 @@
         },
         "tutorial3g": {
             "sign": [
-                "Drop or throw items",
-				"to trigger traps safely.",
+                "Suelta o lanza objetos para ",
+				"activar trampas de forma segura.",
 				"",
-				"Remove items from your",
-				"inventory with$ to drop",
-				"them in front of you."
+				"Quita objetos de tu",
+				"inventario con$ para soltarlos",
+				"frente a ti."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -320,12 +320,12 @@
         },
         "tutorial3g_gamepad": {
             "sign": [
-                "Drop or throw items",
-				"to trigger traps safely.",
+                "Suelta o lanza objetos para ",
+				"activar trampas de forma segura.",
 				"",
-				"Remove items from your",
-				"inventory with$ to drop",
-				"them in front of you."
+				"Quita objetos de tu",
+				"inventario con$ para soltarlos",
+				"frente a ti."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -376,8 +376,8 @@
         },		
         "tutorial3h": {
             "sign": [
-                "Levers and traps can",
-				"cause a series of events."
+                "Las palancas y trampas pueden",
+            	"causar una serie de eventos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -394,12 +394,12 @@
         "tutorial3i": {
             "sign": [
 				"$",
-                "Boulder traps are always",
-				"accompanied by a hole",
-				"in the ceiling.",
+				"Los pedruscos siempre están",
+				"acompañados de un agujero",
+				"en el techo.",
 				"",
-                "Make sure you have enough",
-				"light to see them clearly!"
+				"¡Asegúrate de tener suficiente",
+				"luz para verlos claramente!"
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -436,9 +436,9 @@
         },
         "tutorial3j": {
             "sign": [
-                "CAUTION:",
+                "PRECAUCIÓN:",
 				"",
-                "Deadly traps ahead.",
+                "Trampas mortales por adelante.",
 				"",
 				""
             ],
@@ -464,11 +464,11 @@
         },
         "tutorial3k": {
             "sign": [
-                "You can always hear when",
-				"a boulder is coming!",
+                "¡Siempre puedes escuchar cuando",
+				"se acerca un pedrusco!",
 				"",
-                "Take care when you hear",
-				"that thunderous sound."
+				"Ten cuidado cuando escuches",
+				"ese estruendo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -495,10 +495,10 @@
         },
         "tutorial3l": {
             "sign": [
-                "Rolling boulders can",
-				"destroy many things,",
-                "and will fall into",
-				"pits and liquid."
+                "Los pedruscos pueden",
+				"destruir muchas cosas,",
+				"y pueden caer en",
+				"fosos y líquidos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -514,12 +514,12 @@
         },
         "tutorial3m": {
             "sign": [
-                "The Push ability lets you",
-				"push boulders with$ .",
+				"La habilidad Empuje permite",
+				"empujar pedruscos con$ .",
 				"",
-				"STR also lets you carry",
-				"more WGT without it",
-				"slowing you down."
+				"FUE también te permitirá",
+				"llevar más peso sin que",
+				"este te ralentice."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",

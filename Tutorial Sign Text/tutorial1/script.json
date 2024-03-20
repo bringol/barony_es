@@ -34,7 +34,7 @@
 				"",
 				"Mueve$ para mirar y girar.",
 				"",
-                "Presiona$ para interactuar con",
+                "Pulsa$ para interactuar con",
 				"objetos en el mundo."
             ],
             "attributes": {
@@ -88,8 +88,8 @@
 				"",
 				"Inclina$ para mirar y girar.",
 				"",
-                "Presiona$ para interactuar con",
-				"objetos en el mundo."
+                "Pulsa$ para interactuar con",
+				"los objetos en el mundo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -127,12 +127,12 @@
         },
         "tutorial1a": {
             "sign": [
-                "Presiona$ para acceder ",
+                "Pulsa$ para acceder ",
 				"al Menú de Pausa.",
 				"",
-                "Para salir de cualquier desfío, selecciona",
+                "Para salir del desafío, selecciona",
 				"",
-				"[ Return to Trial Hub ]"
+				"[ Vovler al Salón de Desafíos ]"
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -160,8 +160,8 @@
         "tutorial1b": {
             "sign": [
                 "Equipa la espada para",
-				"aumentar el ATK y",
-				"derrotar a los enemigos más rápido.",
+				"incrementar tu ATQ y",
+				"matar enemigos más rápido.",
 				"",
 				"$"
             ],
@@ -194,10 +194,10 @@
             "sign": [
 				"$",
                 "Equipa escudos para ganar CA,",
-				"reduciendo el daño recibido.",
+				"reduciendo daño recibido.",
 				"",
-                "Mantén$ para Bloquear,",
-				"aumentando aún más tu CA"
+                "Sostiene$para Bloquear,",
+				"aumentando aún más tu CA."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -250,10 +250,10 @@
         "tutorial1d": {
             "sign": [
                 "Esta palanca opera la",
-				"reja cerca de la entrada.",
+				"puerta cercana a la cama.",
 				"$",
-                "Apunta a las palancas y",
-				"presiona$ para alternar."
+                "Apunta a la palanca",
+				"pulsa $ para alternar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -304,10 +304,10 @@
         },
         "tutorial1e": {
             "sign": [
-                "Recoge antorchas de",
+                "Colecciona antorchas de",
 				"la pared con$ .",
 				"$",
-				"Las antorchas equipadas iluminan",
+				"Antorchas equipadas iluminan",
 				"el camino, pero se apagarán",
 				"con el tiempo."
             ],
@@ -361,11 +361,11 @@
         "tutorial1e2": {
             "sign": [
                 "Accede a tu personaje",
-				"presionando$ .",
-				"Presiona$ para usar objetos.",
+				"pulsando$ .",
+				"Pulsa$ para usar objetos.",
 				"Agarra y mueve objetos con$ .",
-                "Presiona$ otra vez o$",
-				"para salir del menú."
+                "Pulsa$ otra vez o$",
+				"para ir al menú."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -417,15 +417,15 @@
         },
 		"tutorial1e2_gamepad": {
             "sign": [
-                "Access your character",
-				"by pressing$ .",
+                "Accede a tu personaje",
+				"pulsando$ .",
 				"",
-				"Use$$$$to",
-				"navigate the inventory.",
+				"Usa$$$$para",
+				"navegar el inventario.",
 				"",
-				"Press$ to use items.",
-				"Use$ to grab and place.",
-                "Press$ or$ to close."
+				"Pulsa$ para usar objetos.",
+				"Usa$ para agarrar y ubicar.",
+                "Pulsa$ o$ para cerrar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -496,11 +496,11 @@
         },
         "tutorial1f": {
             "sign": [
-                "Some gloves can increase",
-				"your Unarmed damage.",
+                "Algunos guantes pueden incrementar",
+				"tu daño Desarmado.",
 				"",
-				"To use Unarmed attacks,",
-				"unequip your weapon."
+				"Para atacar Desarmado,",
+				"desequipa tu arma."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -531,13 +531,13 @@
         },
         "tutorial1g": {
             "sign": [
-                "Enemies attack",
-				"at a regular pace.",
+                "Los enemigos atacan",
+				"a un ritmo regular.",
 				"",
-                "Block until struck,",
-				"then quickly attack,",
-				"and block again to",
-				"avoid taking damage."
+				"Bloquea hasta ser golpeado,",
+				"luego ataca rápidamente,",
+				"y bloquea nuevamente",
+				"para evitar recibir daño."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -575,13 +575,13 @@
         },
         "tutorial1h": {
             "sign": [
-                "Drag items to the hotbar",
-				"with$ , or hover and",
-				"use $-$ to assign.",
+                "Arrastra objetos al hotbar",
+				"con$ , o pasa el cursor y",
+				"usa $-$ para asignar.",
 				"",
-				"Use the hotbar with$-$,",
-				"or highlight with$ $ and",
-                "and then press$ ."
+				"Usa el hotbar con$-$,",
+				"o resalta con$ $ y",
+				"luego pulsa$ ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -654,15 +654,15 @@
         },
 		"tutorial1h_gamepad": {
             "sign": [
-                "From the inventory,",
-				"grab items with$ and move",
-				"to the hotbar with$.",
-				"Press$ again to",
-				"place items in a slot.",
+                "Desde el inventario,",
+				"agarra objetos con$ y muévelos",
+				"hacia el hotbar con$.",
+				"Pulsa$ de nuevo para",
+				"colocar objetos en un espacio.",
 				"",
-                "With the inventory closed,",
-				"hold$$ or$ to access",
-				"$ and$ hotbar slots." 
+				"Con el inventario cerrado,",
+				"mantén$$ o$ para acceder",
+				"$ y$ del hotbar." 
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -729,12 +729,12 @@
         },
        "tutorial1ha": {
             "sign": [
-                "You can't wield a",
-				"shield and a torch",
-				"at the same time!",
+                "No puedes empuñar un",
+				"escudo y una antorcha",
+				"al mismo tiempo.",
 				"",
-				"Use your hotbar to",
-                "switch quickly."
+				"Usa tu hotbar para",
+				"cambiar rápidamente."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -764,12 +764,12 @@
         },
        "tutorial1ha_gamepad": {
             "sign": [
-                "You can't wield a",
-				"shield and a torch",
-				"at the same time!",
+                "No puedes empuñar un",
+				"escudo y una antorcha",
+				"al mismo tiempo.",
 				"",
-				"Use your hotbar to",
-                "switch quickly."
+				"Usa tu hotbar para",
+				"cambiar rápidamente."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -799,11 +799,11 @@
         },		
         "tutorial1i": {
             "sign": [
-                "Quickly tap$ to Attack.",
+                "Pulsa rápidamente$ para atacar.",
 				"",
-				"Hold$ until your",
-				"weapon shakes for",
-				"a Critical Strike."
+				"Mantén$ hasta que tu",
+				"arma tiemble para",
+				"realizar un Golpe Crítico."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -842,11 +842,11 @@
         },
         "tutorial1i2": {
             "sign": [
-                "View the Character Sheet",
-				"with$, on the right.",
+                "Consulta la Hoja de Personaje",
+				"con$ , a la derecha.",
 				"",
-				"Hover with$ to learn",
-				"about stats like ATK."
+				"Pasa el cursor con$ para aprender",
+				"sobre estadísticas como ATQ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -900,13 +900,13 @@
         },
         "tutorial1i2_gamepad": {
             "sign": [
-                "View the Character Sheet",
-				"with$ , on the right.",
+                "Consulta la Hoja de Personaje",
+				"con$ , a la derecha.",
 				"",
-				"Tap$ twice and learn",
-				"about stats like ATK",
-				"by navigating to them",
-				"and holding$ ."
+				"Toca$ dos veces y aprende",
+				"sobre estadísticas como ATQ",
+				"navegando hasta ellas",
+				"y mantén pulsado$."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -965,13 +965,13 @@
         },		
         "tutorial1j": {
             "sign": [
-                "Your understanding of",
-				"attacks, blocking, and",
-				"weapon types",
-				"shall be tested.",
+                "Tu comprensión de",
+				"ataques, bloqueos y",
+				"tipos de armas",
+				"será puesta a prueba.",
 				"",
-                "Each trial has",
-				"a final test."
+				"Cada desafío tiene",
+				"una prueba final."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1001,13 +1001,13 @@
         },
         "tutorial1jz": {
             "sign": [
-                "Observe the enemy",
-				"attack pace through",
-				"the door on your right.",
-                "",
-				"Proceed through the",
-				"door on your left",
-                "when ready."
+                "Observa el ritmo", 
+				"ofensivo del enemigo",
+				"de la puerta a tu derecha.",
+				"",
+				"Continúa por la",
+				"puerta a tu izquierda",
+				"cuando estés listo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1037,11 +1037,11 @@
         },		
         "tutorial1kz": {
             "sign": [
-                "Equipment may degrade",
-				"and eventually break.",
+                "El equipo puede degradarse",
+				"y eventualmente romperse.",
 				"",
-                "Weapons do less damage",
-				"at lower quality."
+				"Las armas hacen menos daño",
+				"cuando pierden calidad."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1069,14 +1069,14 @@
         },
         "tutorial1ky": {
             "sign": [
-				"Weapon skills improve",
-				"weapon damage.",
-				"Weapons also degrade",
-				"less frequently with",
-				"higher skill.",
+				"Las habilidades con armas aumentan",
+				"el daño que ocasionan.",
+				"Las armas también se degradan",
+				"menos frecuentemente con",
+				"mayor habilidad.",
 				"",
-				"Learn more about skills",
-				"from the skills list.",
+				"Aprende más sobre habilidades",
+				"en la lista de habilidades.",
 				"",
 				"$$$$$$$$"
             ],
@@ -1166,14 +1166,14 @@
         },
         "tutorial1ky_gamepad": {
             "sign": [
-				"Weapon skills improve",
-				"weapon damage.",
-				"Weapons also degrade",
-				"less frequently with",
-				"higher skill.",
+				"Las habilidades con armas aumentan",
+				"el daño que ocasionan.",
+				"Las armas también se degradan",
+				"menos frecuentemente con",
+				"mayor habilidad.",
 				"",
-				"Learn more about skills",
-				"from the skills list.",
+				"Aprende más sobre habilidades",
+				"en la lista de habilidades.",
 				"",
 				"$$$$$$$$"
             ],
@@ -1263,12 +1263,12 @@
         },		
         "tutorial1k": {
             "sign": [
-                "Blocking may reduce",
-				"attack damage to zero.",
+                "Bloquear puede reducir",
+				"el daño del atacante a cero.",
 				"",
-                "Hold$to Block",
-				"as long as needed",
-				"to delay death."
+				"Mantén$para Bloquear",
+				"el tiempo necesario",
+				"para retrasar la muerte."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1316,12 +1316,12 @@
         },		
         "tutorial1l": {
             "sign": [
-                "Enemies are resistant",
-				"or vulnerable to",
-				"different weapon types.",
+                "Los enemigos son resistentes",
+				"o vulnerables a",
+				"diferentes tipos de armas.",
 				"$",
-                "This can be decisive",
-				"in victory or defeat."
+				"Esto puede ser decisivo",
+				"para ganar o perder."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1357,11 +1357,11 @@
         },
         "tutorial1m": {
             "sign": [
-                "Properly using attacks,",
-				"weapon types, critical",
-				"strikes and blocking will",
-				"help you survive",
-				"in the dungeon."
+                "Usar adecuadamente ataques,",
+				"tipos de armas, golpes",
+				"críticos y bloqueos te",
+				"ayudará a sobrevivir",
+				"en la mazmorra."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1388,13 +1388,13 @@
         },
         "tutorial1mo": {
             "sign": [
-                "Congratulations!",
-				"You just passed",
-				"the Introductory Trial.",
+                "¡Felicitaciones!",
+				"Acabas de completar",
+				"el Desafío Introductorio.",
 				"",
-				"Trial 1:",
-				"Dungeon Basics",
-				"& Melee Combat"
+				"Desafío 1:",
+				"Fundamentos de la Mazmorra",
+				"y del Combate Cuerpo a Cuerpo"
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1422,14 +1422,14 @@
         },		
         "tutorial1n": {
             "sign": [
-                "Trap doors will",
-				"usually take you to",
-				"the next level.",
+                "Las trampillas",
+				"normalmente van hacia",
+				"el siguiente nivel.",
 				"",
-                "This one takes you to",
-				"the Hall of Trials Hub",
-				"where you can explore",
-				"more Trials."
+				"Esta te lleva al",
+				"Salón de Desafíos",
+				"donde puedes explorar",
+				"más Desafíos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",

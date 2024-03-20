@@ -31,10 +31,10 @@
             "sign": [
 				"$ ",
 				"",
-                "Your HP is low as",
-				"a result of poisoning.",
-                "The Potion of Extra Healing",
-				"will help."
+				"Tus PV está bajos como",
+				"resultado de un envenenamiento.",
+				"La Poción de Gran Curación",
+				"te ayudará."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -139,14 +139,14 @@
         },		
         "tutorial8b": {
             "sign": [
-                "To mix potions, use the",
-				"Alembic with$ , and then",
-                "select two different",
-				"potions with$ .",
+				"Para mezclar pociones, usa el",
+				"Alambique con$ , y luego",
+				"selecciona dos pociones diferentes",
+				"con$ .",
 				"",
-				"Then select the result",
-                "from the bottom slot",
-                "slot with$ to brew it."
+				"Luego selecciona el resultado",
+				"de la casilla inferior",
+				"con$ para elaborarla."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -186,14 +186,14 @@
         },
         "tutorial8b_gamepad": {
             "sign": [
-                "To mix potions, use the",
-				"Alembic with$ , and then",
-                "select two different",
-				"potions with$ .",
+				"Para mezclar pociones, usa el",
+				"Alambique con$ , y luego",
+				"selecciona dos pociones diferentes",
+				"con$ .",
 				"",
-				"Then select Brew with$",
-                "or collect the result",
-                "from the bottom slot."
+				"Luego selecciona el resultado",
+				"de la casilla inferior",
+				"con$ para elaborarla."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -233,15 +233,15 @@
         },		
         "tutorial8c": {
             "sign": [
-                "Potions can be",
-				"valuable aids to",
-				"adventurers, and",
-				"powerful weapons",
-				"against their foes.",
+				"Las pociones pueden ser",
+				"valiosas ayudas para",
+				"los aventureros, y",
+				"poderosas armas",
+				"contra sus enemigos.",
 				"",
-                "Those who master",
-				"their use can conquer",
-				"the dungeon."
+				"Quienes dominen su uso",
+				"podrán conquistar la",
+				"mazmorra."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -262,11 +262,11 @@
         },
         "tutorial8d": {
             "sign": [
-                "Blessed alembics can",
-				"yield blessed brews.",
+				"Los alambiques benditos pueden",
+				"producir brebajes benditos.",
 				"$",
-                "Blessed water and juice",
-                "have great healing value."
+				"El agua y jugo benditos",
+				"tienen un gran valor curativo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -295,13 +295,13 @@
         },
         "tutorial8e": {
             "sign": [
-                "Cursed alembics can",
-				"yield cursed brews.",
+				"Los alambiques malditos pueden",
+				"producir brebajes malditos.",
 				"$",
-                "This taints them and",
-				"can cause more damage.",
-                "Cursed water can",
-				"curse an item."
+				"Esto los corrompe y",
+				"pueden causar más daño.",
+				"El Agua Maldita es capaz",
+				"de maldecir un objeto."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -343,15 +343,15 @@
         },
         "tutorial8f": {
             "sign": [
-                "You must use what",
-				"you've learned, and",
-				"your supply of potions",
-				"to succeed. Ensure you",
-				"are prepared.",
+				"Debes usar lo que",
+				"has aprendido, y",
+				"tu suministro de pociones",
+				"para tener éxito. Asegúrate de",
+				"estar preparado.",
 				"",
-                "You will now be tested.",
-				"Purge the area of",
-				"the undead."
+				"Ahora serás puesto a prueba.",
+				"Purga el área de",
+				"los no-muertos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -371,12 +371,12 @@
         },
         "tutorial8g": {
             "sign": [
-                "Skilled alchemists have",
-				"a better chance at",
-				"duplicating with water.",
+				"Los alquimistas hábiles",
+				"tienen mejores chances",
+				"de duplicar con agua.",
 				"",
-                "Failure will result in",
-				"loss of the potion."
+				"El fracaso resultará en",
+				"la pérdida de la poción."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -407,11 +407,11 @@
         },		
         "tutorial8h": {
             "sign": [
-                "To view duplication",
-				"chances, hover over the",
-				"bottom Alembic slot once",
-				"your potion and water are",
-				"prepared for brewing."
+				"Para ver las chances de duplicación,",
+				"pasa el cursor sobre la casilla",
+				"inferior del Alambique una vez",
+				"que tu poción y el agua estén",
+				"listos para la elaboración."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -435,10 +435,10 @@
         },
         "tutorial8i": {
             "sign": [
-                "You can improve",
-				"your Alchemy Skill by",
-				"drinking potions for",
-				"the first time.",
+				"Puedes mejorar tu",
+				"Habilidad Alquímica",
+				"bebiendo pociones por",
+				"primera vez.",
 				"",
 				"$"
             ],
@@ -467,12 +467,12 @@
         },
         "tutorial8j": {
             "sign": [
-                "Before you lies the",
-				"Alembic which can be",
-				"used to brew potions.",
+				"Ante ti tienes el",
+				"Alambique que puede ser",
+				"usado para elaborar pociones.",
 				"$",
-                "Mix new potions from",
-				"two different bottles."
+				"Mezcla nuevas pociones desde",
+				"dos botellas diferentes."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -502,11 +502,11 @@
         },
         "tutorial8k": {
             "sign": [
-                "Beware the deadly foe",
-				"beyond this door.",
+				"Cuidado con el enemigo mortal",
+				"tras esta puerta.",
 				"",
-                "You would be wise to",
-				"keep this gate closed."
+				"Sería sabio mantener",
+				"esta puerta cerrada."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -536,9 +536,9 @@
         },
         "tutorial8l": {
             "sign": [
-                "The lever to this gate",
-				"lies beyond the spider",
-				"in the other room."
+				"La palanca de esta puerta",
+				"se encuentra más allá de la",
+				"araña en la otra habitación."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -566,14 +566,15 @@
         },
         "tutorial8m": {
             "sign": [
-                "Potion of Paralysis",
+				"Poción de Parálisis",
 				"",
 				"$ ",
 				"",
-				"Inflicts Paralysis,",
-				"stopping movement and",
-				"attacks. You may drink",
-				"potions while paralyzed."
+				"Inflige Parálisis,",
+				"deteniendo el movimiento y",
+				"los ataques. Puedes beber",
+				"pociones mientras estás bajo",
+				"los efectos de parálisis."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -603,10 +604,10 @@
         },
         "tutorial8n": {
             "sign": [
-                "Sometimes throwing a",
-				"beneficial potion is",
-				"the best way to",
-				"help allies."
+				"A veces lanzar una",
+				"poción beneficiosa es",
+				"la mejor manera de",
+				"ayudar a los aliados."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -627,11 +628,11 @@
         },
         "tutorial8o": {
             "sign": [
-                "Potion of Cure Ailment",
+				"Poción de Curar Dolencia",
 				"$",
-                "Drinking this removes",
-				"most status effects,",
-				"including positive ones."
+				"Beber esto elimina la mayoría",
+				"de los efectos de estado,",
+				"incluidos los positivos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -659,12 +660,12 @@
         },
         "tutorial8p": {
             "sign": [
-                "Potions with beneficial",
-				"effects are consumed as",
-                "the default action, while",
-				"harmful potions are",
-                "equipped to be",
-				"thrown with$ ."
+				"Las pociones con efectos",
+				"beneficiosos se consumen",
+				"como acción predeterminada,",
+				"mientras que las pociones",
+				"dañinas se equipan para ser",
+				"lanzadas con$ ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -707,12 +708,12 @@
         },
         "tutorial8p_gamepad": {
             "sign": [
-                "Potions with beneficial",
-				"effects are consumed as",
-                "the default action, while",
-				"harmful potions are",
-                "equipped to be",
-				"thrown with$ ."
+				"Las pociones con efectos",
+				"beneficiosos se consumen",
+				"como acción predeterminada,",
+				"mientras que las pociones",
+				"dañinas se equipan para ser",
+				"lanzadas con$ ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -755,14 +756,13 @@
         },		
         "tutorial8q": {
             "sign": [
-				"Potions can be",
-				"thrown or drunk.",
+				"Las pociones pueden ser",
+				"lanzadas o bebidas.",
 				"",
-                "If a potion is",
-				"identified, its",
-				"default$ and Hotbar",
-				"behavior is suited",
-				"to its effect."
+				"Si una poción está",
+				"identificada, su Hotbar",
+				"y el comportamiento base$",
+				"ajustarán a su efecto."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -799,14 +799,13 @@
         },
 		"tutorial8q_gamepad": {
             "sign": [
-				"Potions can be",
-				"thrown or drunk.",
+				"Las pociones pueden ser",
+				"lanzadas o bebidas.",
 				"",
-                "If a potion is",
-				"identified, its",
-				"default$ and Hotbar",
-				"behavior is suited",
-				"to its effect."
+				"Si una poción está",
+				"identificada, su Hotbar",
+				"y el comportamiento base$",
+				"ajustarán a su efecto."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -843,12 +842,12 @@
         },
         "tutorial8r": {
             "sign": [
-                "You are Poisoned.",
+				"Estás Envenenado.",
 				"",
 				"$ ",
 				"",
-                "Drink this from your",
-				"inventory with$ ."
+				"Bébelo desde tu",
+				"inventario con$ ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -890,12 +889,12 @@
         },
 		"tutorial8r_gamepad": {
             "sign": [
-                "You are Poisoned.",
+				"Estás Envenenado.",
 				"",
 				"$ ",
 				"",
-                "Drink this from your",
-				"inventory with$ ."
+				"Bébelo desde tu",
+				"inventario con$ ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -937,11 +936,11 @@
         },
         "tutorial8s": {
             "sign": [
-                "Each potion type",
-				"comes in a certain",
-				"range of colors,",
-                "and may be helpful",
-				"or harmful."
+				"Cada tipo de poción",
+				"viene en un cierto",
+				"rango de colores,",
+				"y puede ser útil",
+				"o perjudicial."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -961,11 +960,10 @@
         },
         "tutorial8t": {
             "sign": [
-                "To wield unidentified",
-				"or beneficial potions,",
-				"from your hotbar,",
-				"Hold$ while pressing",
-				"the assigned hotbar key."
+				"Para empuñar pociones beneficiosas",
+				"o sin identificar, desde tu hotbar,",
+				"mantén$ mientras pulsas la tecla",
+				"asignada del hotbar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -997,12 +995,11 @@
         },
         "tutorial8t_gamepad": {
             "sign": [
-                "To wield unidentified",
-				"or beneficial potions,",
-				"press$ on the potion in",
-				"in your inventory and",
-				"select [Wield] from",
-				"the dropdown list."
+				"Para empuñar pociones beneficiosas",
+				"o sin identificar, pulsa$ en la,",
+				"poción ubicada en tu inventario y ",
+				"selecciona [Empuñar] desde el menú",
+				"desplegable."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1029,14 +1026,14 @@
         },	
         "tutorial8u": {
             "sign": [
-                "Potion of Sickness",
+				"Poción de Enfermedad",
 				"",
 				"$ ",
 				"",
-				"Throw at an enemy",
-				"to inflict with poison.",
-				"Destroy the dummy",
-				"and proceed."
+				"Lánzalo a un enemigo",
+				"para envenenarlo.",
+				"Destruye el maniquí",
+				"y procede."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1082,15 +1079,15 @@
         },
         "tutorial8v": {
             "sign": [
-                "Use potions to",
-				"ensure the sentry",
-				"defeats the skeleton.",
-				"The sentry is damaged",
-				"and will fail without",
-				"assistance.",
+				"Usa pociones para que",
+				"el centinela logre",
+				"derrotar al esqueleto.",
+				"El centinela está dañado,",
+				"y fracasará sin ninguna",
+				"asistencia.",
 				"",
-				"Pull the lever",
-				"to begin."
+				"Tira de la palanca",
+				"para comenzar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1136,14 +1133,14 @@
         },
         "tutorial8w": {
             "sign": [
-                "All good recipes",
-				"have a base ingredient.",
-				"Bad mixtures result in",
-				"a potion of sickness.",
+				"Todas las buenas recetas",
+				"tienen un ingrediente base.",
+				"Las mezclas incorrectas resultan",
+				"en una poción de enfermedad.",
 				"",
-                "Mix fruit juice and",
-				"booze in the alembic",
-				"for a failed recipe."
+				"Mezcla jugo de frutas y",
+				"alcohol en el alambique",
+				"para una receta fallida."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1186,14 +1183,14 @@
         },
         "tutorial8w_gamepad": {
             "sign": [
-                "All good recipes",
-				"have a base ingredient.",
-				"Bad mixtures result in",
-				"a potion of sickness.",
+				"Todas las buenas recetas",
+				"tienen un ingrediente base.",
+				"Las mezclas incorrectas resultan",
+				"en una poción de enfermedad.",
 				"",
-                "Mix fruit juice and",
-				"booze in the alembic",
-				"for a failed recipe."
+				"Mezcla jugo de frutas y",
+				"alcohol en el alambique",
+				"para una receta fallida."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1236,12 +1233,12 @@
         },		
         "tutorial8x": {
             "sign": [
-                "Acid",
-				"$",
-                "Used to make deadly",
-                "Unstable Potions which",
-				"scale in power with",
-				"the brewer."
+				"Ácido",
+				"$", 
+				"Usado para hacer mortales",
+				"Pociones Inestables, que",
+				"escalarán en potencia junto",
+				"con su alquimista."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1270,15 +1267,15 @@
         },
         "tutorial8y": {
             "sign": [
-                "In the next hall,",
-				"you will find a",
-				"variety of potions",
-				"to experiment with.",
+				"En la próxima sala,",
+				"encontrarás una",
+				"variedad de pociones",
+				"para experimentar.",
 				"",
-                "When you have created",
-                "a successful mixture, its",
-				"recipe will be added to",
-				"the Alembic's Recipe tab."
+				"Cuando hayas creado",
+				"una mezcla exitosa, su",
+				"receta se agregará al",
+				"Registro del Alambique."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1312,12 +1309,12 @@
         },
         "tutorial8z": {
             "sign": [
-                "The banes and blessings",
-				"offered by fountains",
-                "are too much to resist",
-				"for most adventurers.",
-                "Especially so for",
-				"those seeking potions."
+				"Los males y bendiciones",
+				"ofrecidos por las fuentes",
+				"son demasiado tentadores",
+				"para la mayoría de las personas.",
+				"Especialmente para quienes",
+				"anhelan pociones."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1357,11 +1354,11 @@
         },
         "tutorial8ab": {
             "sign": [
-                "Potion of Restore Magic",
+				"Poción de Restaurar Magia",
 				"$",
-                "Useful for spellcasters.",
-                "Mix with Fruit Juice to",
-                "create Potions of Healing."
+				"Útil para lanzadores de hechizos.",
+				"Mezclar con Jugo de Frutas para",
+				"crear Pociones de Curación."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1390,15 +1387,15 @@
         },
         "tutorial8ac": {
             "sign": [
-                "Potion of Blindness",
+				"Poción de Ceguera",
 				"",
 				"$",
 				"",
-                "Those afflicted have",
-				"a hard time seeing.",
-                "Mix with Fruit Juice to",
-                "complete the recipe for",
-				"Cure Ailment."
+				"Quienes la padecen tienen",
+				"dificultades para ver.",
+				"Mezclar con Jugo de Frutas",
+				"para completar la receta de",
+				"Curar Dolencia."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1431,15 +1428,15 @@
         },
         "tutorial8ad": {
             "sign": [
-                "Potion of Confusion",
+				"Poción de Confusión",
 				"$ ",
-                "Mix Booze with",
-				"Potions of Confusion",
-                "to get more Acid.",
+				"Mezclar Alcohol con",
+				"Pociones de Confusión",
+				"para obtener más Ácido.",
 				"",
-                "Confusion also turns",
-                "Fruit Juice into Booze",
-                "and Acid into Fruit Juice."
+				"La confusión también convierte",
+				"Jugo de Frutas en Alcohol",
+				"y Ácido en Jugo de Frutas."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1472,14 +1469,14 @@
         },
         "tutorial8ae": {
             "sign": [
-                "Potion of Invisibility",
+				"Poción de Invisibilidad",
 				"",
 				"$",
 				"",
-                "Grants Invisibility.",
-                "Mix with Restore Magic",
-				"to create powerful",
-				"potions of Extra Healing."
+				"Concede invisibilidad.",
+				"Mezclar con Restaurar Magia",
+				"para crear potentes",
+				"pociones de Gran Curación."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1511,14 +1508,14 @@
         },
         "tutorial8af": {
             "sign": [
-                "Alchemy can",
-				"be demanding on",
-				"your inventory.",
+				"La alquimia puede",
+				"ser exigente con",
+				"tu inventario.",
 				"",
-                "Hold$ and press$",
-				"on inventory items to",
-				"drop them rapidly.",
-				"Auto-sort with$."
+				"Mantén$ y pulsa$ sobre",
+				"los objetos del inventario",
+				"para soltarlos rápidamente.",
+				"Ordena automáticamente con$ ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1561,13 +1558,13 @@
         },
         "tutorial8af_gamepad": {
             "sign": [
-                "Alchemy can",
-				"be demanding on",
-				"your inventory.",
+				"La alquimia puede",
+				"ser demandante con",
+				"tu inventario.",
 				"",
-                "Regularly remove items",
-				"you don't need with$ ,",
-				"and auto-sort with$ ."
+				"Remueve objetos que no",
+				"necesites del inventario con$ ,",
+				"y ordena automáticamente con$ ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1605,11 +1602,13 @@
         "tutorial8ag": {
             "sign": [
 				"$",
-                "Drinking or",
-				"mixing potions may",
-				"occasionally yield",
-				"an empty bottle that",
-				"alchemists may re-use."
+				"Beber o mezclar",
+				"pociones puede",
+				"ocasionalmente dar",
+				"como resultado una",
+				"botella vacía, que",
+				"que cualquier alquimista",
+				"puede reutilizar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1638,15 +1637,15 @@
         },
         "tutorial8ah": {
             "sign": [
-                "Drinking or getting",
-				"hit by thrown Booze",
-				"causes drunkenness.",
+				"Beber o recibir un golpe por",
+				"una botella de Alcohol arrojada",
+				"causa ebriedad.",
 				"",
 				"$",
 				"",
-                "Being drunk effects your",
-				"stats and makes your",
-				"aim fumble for a time."
+				"La ebriedad afecta tus",
+				"estadísticas y hace que tu",
+				"puntería falle por un tiempo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1694,12 +1693,11 @@
         },
         "tutorial8ai": {
             "sign": [
-                "Bottles of Booze",
-				"and Fruit Juice do",
-				"not usually heal as",
-                "much as Healing Potions,",
-				"but they are",
-				"more common."
+				"Las botellas de Alcohol",
+				"y Jugo de Frutas no",
+				"suelen curar tanto como",
+				"las Pociones de Curación,",
+				"pero son más comunes."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1768,13 +1766,13 @@
         },
         "tutorial8aj_gamepad": {
             "sign": [
-                "Bottled Water",
+				"Botella de Agua",
 				"$",
-				"Mix water with other",
-				"potions to duplicate them.",
-				"Can reduce hunger a little.",
-				"Blessed water is deadly",
-				"to certain monsters."
+				"Mezcla agua con otras",
+				"pociones para duplicarlas.",
+				"Puede reducir un poco el hambre.",
+				"El agua bendita es mortal",
+				"contra ciertos monstruos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1815,9 +1813,9 @@
         "tutorial8ak": {
             "sign": [
 				"$",
-                "Brew a Potion of Speed",
-                "by combining Booze with",
-				"a Cure Ailment Potion."
+				"Prepara una Poción de Velocidad",
+				"combinando Alcohol con una",
+				"Poción de Curar Afección."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1844,10 +1842,11 @@
         "tutorial8al": {
             "sign": [
 				"$ ",
-                "Brew a",
-				"Potion of Levitation",
-                "by mixing Cure Ailment",
-				"potions with Invisibility."
+				"Prepara una",
+				"Poción de Levitación",
+				"mezclando pociones de", 
+				"Curar Dolencia con",
+				"Invisibilidad."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1919,10 +1918,10 @@
             "sign": [
 				"$ ",
 				"",
-                "Potions of Thunderstorm",
-                "can be reliably brewed",
-				"by mixing Acid and Speed",
-				"potions together."
+				"Las Pociones de Tempestad",
+				"se pueden preparar de manera",
+				"confiable mezclando pociones de",
+				"Ácido con de Velocidad."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1960,15 +1959,15 @@
         },		
         "tutorial8pm": {
             "sign": [
-                "CAUTION:",
-				"An incorrect recipe",
-				"using Acid will result",
-				"in a deadly explosion.",
+				"PRECAUCIÓN:",
+				"Una receta incorrecta",
+				"usando Ácido resultará",
+				"en una letal explosión.",
 				"$ ",
-				"If you seek to learn",
-				"more powerful recipes",
-				"using acid, ready your",
-				"cures and healing."
+				"Si buscas aprender",
+				"recetas más poderosas",
+				"usando ácido, prepara",
+				"curaciones y sanaciones."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -2021,15 +2020,15 @@
         },
         "tutorial8pm_gamepad": {
             "sign": [
-                "CAUTION:",
-				"An incorrect recipe",
-				"using Acid will result",
-				"in a deadly explosion.",
+				"PRECAUCIÓN:",
+				"Una receta incorrecta",
+				"usando Ácido resultará",
+				"en una letal explosión.",
 				"$ ",
-				"If you seek to learn",
-				"more powerful recipes",
-				"using acid, ready your",
-				"cures and healing."
+				"Si buscas aprender",
+				"recetas más poderosas",
+				"usando ácido, prepara",
+				"curaciones y sanaciones."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -2082,14 +2081,13 @@
         },			
         "tutorial8an": {
             "sign": [
-                "BEWARE:",
-				"Monsters are known",
-				"to infest the plumbing.",
+				"PRECAUCIÓN:",
+				"Los monstruos son conocidos",
+				"por infestar las tuberías.",
 				"",
-                "Ensure you are ready to",
-				"defend yourself before",
-                "attempting to drink",
-				"or tap water sources."
+				"Asegúrate de prepararte para",
+				"defenderte antes de intentar",
+				"beber o usar fuentes de agua."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -2133,13 +2131,13 @@
         },
         "tutorial8ao": {
             "sign": [
-                "Equip empty bottles",
-				"to tap from sinks or",
-                "fountains using$ .",
+				"Equipa botellas vacías",
+				"para tomar agua de fregaderos",
+				"o fuentes usando$ .",
 				"",
-                "This will fill your",
-                "bottle with water",
-				"or other potions."
+				"Esto llenará tu",
+				"botella con agua",
+				"u otras pociones."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -2179,13 +2177,13 @@
         },
         "tutorial8ao_gamepad": {
             "sign": [
-                "Equip empty bottles",
-				"to tap from sinks or",
-                "fountains using$ .",
+				"Equipa botellas vacías",
+				"para tomar agua de fregaderos",
+				"o fuentes usando$ .",
 				"",
-                "This will fill your",
-                "bottle with water",
-				"or other potions."
+				"Esto llenará tu",
+				"botella con agua",
+				"u otras pociones."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -2225,11 +2223,11 @@
         },
         "tutorial8aw": {
             "sign": [
-                "Dungeon water is too",
-				"impure to brew with.",
-				"Alchemists must rely on",
-				"fresh water pumps, shops,",
-				"or fountains for supplies."
+				"El agua de la mazmorra es muy",
+				"impura para elaborar pociones.",
+				"Los alquimistas deben confiar en",
+				"bombas de agua fresca, comercios,",
+				"o fuentes para abastecerse."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -2260,14 +2258,14 @@
         },		
         "tutorial8az": {
             "sign": [
-				"Decanting:",
+				"Decantar:",
 				"",
-                "Mixing two potions",
-				"with the same effect",
-				"into a single type",
-				"of bottle, allowing",
-				"them to be organized",
-				"together."
+				"Mezclar dos pociones",
+				"con el mismo efecto",
+				"en un solo tipo de",
+				"botella, permitiendo",
+				"que se organicen en",
+				"una sola."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -2303,14 +2301,14 @@
         },
         "tutorial8az_gamepad": {
             "sign": [
-				"Decanting:",
+				"Decantar:",
 				"",
-                "Mixing two potions",
-				"with the same effect",
-				"into a single type",
-				"of bottle, allowing",
-				"them to be organized",
-				"together."
+				"Mezclar dos pociones",
+				"con el mismo efecto",
+				"en un solo tipo de",
+				"botella, permitiendo",
+				"que se organicen en",
+				"una sola."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
