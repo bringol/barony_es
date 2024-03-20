@@ -29,11 +29,10 @@
     "script_entries": {
         "tutorial6a": {
             "sign": [
-                "While invisible,",
-				"enemies can still",
-				"detect you if you are",
-				"very close, especially",
-				"if you attack.",
+				"Mientras estás invisible,",
+				"los enemigos aún pueden",
+				"detectarte si estás muy cerca,",
+				"especialmente si atacas.",
 				"",
 				"$ "
             ],
@@ -72,13 +71,14 @@
         },
         "tutorial6b": {
             "sign": [
-                "Destroy the skeletons",
-				"in the courtyard",
-				"on your right.",
+				"Destruye los esqueletos",
+				"situados en el patio",
+				"a tu derecha.",
 				"",
-				"The gate on your",
-				"left shall then",
-				"be opened."
+				"Solo en ese entonces",
+				"encontrarás abierta",
+				"la puerta situada a",
+				"tu izquierda."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -102,13 +102,13 @@
         },
         "tutorial6c": {
             "sign": [
-                "Remember weapon",
-				"type weaknesses when",
-				"attacking from stealth.",
+				"Recuerda las debilidades",
+				"a los tipos de armas al",
+				"atacar sigilosamente.",
 				"$",
-                "Be ready to hit again",
-				"after making your",
-				"opening strike!"
+				"¡Prepárate para golpear",
+				"otra vez después del",
+				"ataque inicial!"
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -148,14 +148,14 @@
         },
         "tutorial6d": {
             "sign": [
-                "Watch the direction",
-				"enemies are facing and",
-				"time your attack to",
-				"guarantee a backstab.",
-                "",
-                "You don't need to",
-				"sneak when your foe's",
-				"back is turned!"
+				"Observa el encaramiento",
+				"de los enemigos y calcula",
+				"tu ataque para garantizar",
+				"garantizar un golpe por la espalda.",
+				"",
+				"¡No necesitas moverte sigilosamente",
+				" cuando la espalda de tu enemigo",
+				" está expuesta!"
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -189,15 +189,15 @@
         },
         "tutorial6do": {
             "sign": [
-                "Crystal shards",
-				"are dim torches",
-				"which never burn out,",
-				"but are very fragile.",
-                "",
-                "The visibility penalty",
-				"from crystal torches",
-				"is half that of",
-				"normal torches."
+				"Los fragmentos de cristal",
+				"son antorchas tenues",
+				"que nunca se apagan,",
+				"pero son muy frágiles.",
+				"",
+				"La penalización de visibilidad",
+				"de las antorchas de cristal",
+				"es la mitad que la de las",
+				"antorchas normales."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -235,10 +235,10 @@
         },		
         "tutorial6e": {
             "sign": [
-                "Adventurers may",
-				"need to use stealth",
-				"to their advantage to",
-				"survive in the dungeon."
+				"Quienes decidan aventurarse",
+				"en la mazmorra, deberán usar",
+				"el sigilo a su favor para",
+				"lograr sobrevivir."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -258,14 +258,13 @@
         },
         "tutorial6f": {
             "sign": [
-                "When an enemy is busy",
-				"with another foe you",
-				"may increase damage",
-				"with flanking strikes.",
+				"Cuando un enemigo está ocupado",
+				"con otro adversario, tu",
+				"puedes aumentar el daño",
+				"con ataques por flanqueo.",
 				"",
-                "Don't get too close or",
-				"they will turn their",
-                "attention to you!"
+				"¡No te acerques demasiado o",
+				"volverán su atención hacia ti!"
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -310,10 +309,10 @@
         },
         "tutorial6g": {
             "sign": [
-                "Knowing how to fight",
-				"is good, but approaching",
-                "a fight with an advantage",
-				"can guarantee victory."
+				"Saber cómo pelear es útil,",
+				"pero acercarse a una pelea",
+				"con ventaja puede garantizar",
+				"la victoria."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -335,11 +334,11 @@
         "tutorial6h": {
             "sign": [
 				"$",
-                "Enemies have a",
-				"harder time detecting",
-				"you in the dark.",
-                "Holding a torch makes",
-				"you far easier to see."
+				"Los enemigos tienen más",
+				"dificultades para detectarte",
+				"en la oscuridad.",
+				"Sostener una antorcha te hace",
+				"mucho más visible."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -390,11 +389,12 @@
         },
         "tutorial6i": {
             "sign": [
-                "$",
+				"$",
 				"",
-				"With no item",
-				"in your off-hand,",
-                "hold$to sneak."
+				"Sin un objeto en tu",
+				"mano secundaria,",
+				"mantén pulsado$para",
+				"moverte sigilosamente."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -432,14 +432,14 @@
         },
         "tutorial6j": {
             "sign": [
-                "Like defending,",
-				"sneaking makes you",
-				"move more slowly.",
+				"Al igual que al defender,",
+				"el sigilo te hace mover",
+				"con mayor lentitud.",
 				"",
-                "It also makes you",
-				"harder to detect, and",
-                "allows you to see better",
-				"in the dark."
+				"También hace más difícil",
+				"que puedan detectarte y",
+				"te permite ver mejor",
+				"en la oscuridad."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -464,11 +464,10 @@
         },
         "tutorial6k": {
             "sign": [
-                "Enemies who",
-				"aren't aware of you",
-                "take backstab bonus",
-				"damage when attacked",
-				"from behind."
+				"Los enemigos que",
+				"no están al tanto de ti",
+				"reciben daño adicional al",
+				"ser atacados por la espalda."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -490,11 +489,11 @@
         },
         "tutorial6l": {
             "sign": [
-                "Hold$ to charge up",
-				"for a critical strike to",
-                "maximize your opening",
-				"attack damage when",
-				"backstabbing foes."
+				"Mantén presionado$para cargar",
+				"un ataque crítico y",
+				"maximizar el daño de",
+				"tu ataque inicial cuando",
+				"golpeas por la espalda."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -545,12 +544,12 @@
         },
         "tutorial6m": {
             "sign": [
-                "Your skill in stealth",
-				"will now be tested.",
-                "",
-				"Kill the goblin leader",
-				"and escape with your life.",
-                "Avoid or kill the rest!"
+				"Tu habilidad en el sigilo",
+				"ahora será puesta a prueba.",
+				"",
+				"Mata al líder de los trasgos",
+				"y escapa con tu vida.",
+				"¡Evita o mata al resto!"
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -571,10 +570,10 @@
         },
         "tutorial6n": {
             "sign": [
-                "Flanking, sneaking,",
-				"backstabs, and managing",
-				"light will help adventurers",
-                "survive in the dungeon."
+				"El flanqueo, el sigilo,",
+				"los ataques por la espalda y",
+				"la gestión de la luz ayudará",
+				"a sobrevivir en la mazmorra."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -590,16 +589,16 @@
         },
         "tutorial6no": {
             "sign": [
-                "Congratulations!",
-				"This is the last of",
-				"the six basic trials.",
-				"Heroes do great deeds",
-				"with these lessons.",
+				"¡Felicidades!",
+				"Este es el último de los",
+				"seis desafíos básicos.",
+				"Los héroes realizan grandes",
+				"hazañas con estas lecciones.",
 				"",
-				"Trials 7 - 10 give",
-				"specialized lessons.",
-				"Master them if you",
-				"desire more skill."
+				"Los desafíos 7 a 10 brindan",
+				"lecciones especializadas.",
+				"Domínalas si anhelas tales",
+				"habilidades."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -643,9 +642,9 @@
         },		
         "tutorial6o": {
             "sign": [
-                "This gate only opens",
-				"when the goblin leader",
-				"has been killed."
+				"Esta puerta solo se abre",
+				"cuando el líder trasgo es",
+				"eliminado."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -665,9 +664,9 @@
         },
         "tutorial6p": {
             "sign": [
-                "Collect torches to",
-				"darken areas and make",
-				"sneaking easier."
+				"Recolecta antorchas para",
+				"oscurecer áreas y facilitar",
+				"el sigilo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -696,11 +695,11 @@
         },
         "tutorial6pa": {
             "sign": [
-                "After being detected,",
-				"sneaky adventurers can",
-				"flee and attempt",
-				"sneaking up on a",
-				"target once again."
+				"Después de ser detectados,",
+				"los aventureros sigilosos",
+				"pueden huir e intentar",
+				"acechar a un objetivo",
+				"una vez más."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -730,10 +729,10 @@
         },		
         "tutorial6q": {
             "sign": [
-                "Trolls are nearly blind.",
-				"More perceptive enemies",
-                "may detect you from",
-				"further away.",
+				"Los trolls están casi ciegos.",
+				"Enemigos más perceptivos",
+				"pueden detectarte desde",
+				"mayores distancias.",
 				"",
 				"$"
             ],

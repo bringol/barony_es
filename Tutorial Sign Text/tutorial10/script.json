@@ -29,15 +29,13 @@
     "script_entries": {
         "tutorial10a": {
             "sign": [
-                "The enemy in the next",
-				"room is capable of",
-				"poisoning you with",
-				"its attacks.",
+				"El enemigo en la siguiente",
+				"habitación es capaz de",
+				"envenenarte con sus ataques.",
 				"",
-				"Some adventurers keep",
-				"cures on hand. Others",
-				"simply tough it out",
-				"or avoid taking hits."
+				"Algunos aventureros llevan",
+				"antídotos a mano. Otros simplemente",
+				"lo soportan o evitan ser golpeados."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -83,10 +81,10 @@
         "tutorial10b": {
             "sign": [
 				"$",
-                "Taking the items you",
-				"find back to the market",
-				"may increase your",
-				"chances of success."
+				"Llevar los objetos que",
+				"encuentres de vuelta al",
+				"mercado puede aumentar",
+				"tus chances de éxito."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -113,15 +111,14 @@
         },
         "tutorial10c": {
             "sign": [
-                "Shopkeepers will treat",
-				"you differently if you",
-                "are under the effects",
-				"of polymorph.",
+				"Los mercaderes te tratarán",
+				"de manera diferente si estás",
+				"bajo los efectos de polimorfia.",
 				"",
-                "Most monsters behave",
-				"very differently if you",
-				"throw a polymorph potion",
-				"at them."
+				"La mayoría de los monstruos se",
+				"comportan de manera muy",
+				"diferente si les arrojas una",
+				"poción de polimorfia."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -164,14 +161,14 @@
         },
         "tutorial10d": {
             "sign": [
-                "Adventurers of all",
-				"classes will need to be",
-				"resourceful with items.",
+				"Sin importar la clase,",
+				"quienes se aventuren" ,
+				"deberán usar el ingenio",
+				"al lidiar con los objetos",
 				"",
-                "Smart shopping may",
-				"be the difference",
-				"between being prepared",
-				"and being dead."
+				"Comprar con astucia puede",
+				"ser la diferencia entre",
+				"la preparación y la muerte."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -187,14 +184,14 @@
         },
         "tutorial10e": {
             "sign": [
-                "The shopkeepers",
-				"won't pay well for an",
-				"unappraised gem as it",
-				"could be worthless glass!",
+				"Los mercaderes no",
+				"pagarán mucho por una",
+				"gema no tasada, ¡podría",
+				"ser un vidrio inserdible!",
 				"",
-				"Use a scroll of identify",
-                "when your appraisal skill",
-				"isn't high enough."
+				"Usa un Pergamino de Identificar",
+				"cuando tu habilidad de tasación",
+				"no sea lo suficientemente alta."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -228,15 +225,15 @@
         },
         "tutorial10f": {
             "sign": [
-                "If a Shopkeeper is killed,",
-				"they drop everything",
-				"they're selling.",
-				"But word travels fast",
-				"in the dungeons.",
+				"Si se mata a un mercader,",
+				"este dejará caer todo lo",
+				"que estaba vendiendo.",
+				"Pero la noticia se extiende",
+				"rápidamente en las mazmorras.",
 				"",
-                "Enemies of the",
-				"Merchants' Guild are",
-				"attacked on sight."
+				"Los enemigos del",
+				"Gremio de Mercaderes son",
+				"atacados a primera vista."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -271,11 +268,12 @@
         },
         "tutorial10g": {
             "sign": [
-                "Shopkeepers have great",
-				"self-defense training",
-				"and will attempt to",
-				"annihilate all assailants",
-				"with extreme prejudice."
+				"Los mercaderes tienen un",
+				"gran entrenamiento en defensa",
+				"personal, y tratarán de",
+				"aniquilar a todos los",
+				"asaltantes con extremo",
+				"prejuicio."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -303,16 +301,16 @@
         },
         "tutorial10h": {
             "sign": [
-                "Each Shopkeeper trades",
-				"in a specific category",
-				"of goods.",
+				"Cada mercader comercia",
+				"en una categoría específica",
+				"de bienes.",
 				"",
-                "This one only trades hats,",
-				"so he won't buy your gem.",
+				"Este solo comercia sombreros,",
+				"así que no comprará tu gema.",
 				"",
-                "Use this switch to",
-				"open the way to find",
-				"other buyers."
+				"Usa este interruptor para",
+				"abrir el camino y encontrar",
+				"otros compradores."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -361,16 +359,16 @@
         },
         "tutorial10h_gamepad": {
             "sign": [
-                "Each Shopkeeper trades",
-				"in a specific category",
-				"of goods.",
+				"Cada mercader comercia",
+				"en una categoría específica",
+				"de bienes.",
 				"",
-                "This one only trades hats,",
-				"so he won't buy your gem.",
+				"Este solo comercia sombreros,",
+				"así que no comprará tu gema.",
 				"",
-                "Use this switch to",
-				"open the way to find",
-				"other buyers."
+				"Usa este interruptor para",
+				"abrir el camino y encontrar",
+				"otros compradores."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -419,13 +417,13 @@
         },		
         "tutorial10i": {
             "sign": [
-                "With the shop menu open,",
-				"press$ on your items",
-				"to sell them.",
+				"Con el menú de la tienda abierto,",
+				"pulsa$en tus objetos para poder",
+				"venderlos.",
 				"",
-                "Press$ on items in the",
-				"Shopkeeper's inventory",
-				"to buy."
+				"Pulsa$en los objetos en el",
+				"inventario del mercader",
+				"para comprar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -466,13 +464,13 @@
         },
         "tutorial10i_gamepad": {
             "sign": [
-                "With the shop menu open,",
-				"press$ on your items",
-				"to sell them.",
+				"Con el menú de la tienda abierto,",
+				"pulsa$en tus objetos para poder",
+				"venderlos.",
 				"",
-                "Press$ on items in the",
-				"Shopkeeper's inventory",
-				"to buy."
+				"Pulsa$en los objetos en el",
+				"inventario del mercader",
+				"para comprar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -513,12 +511,12 @@
         },		
         "tutorial10j": {
             "sign": [
-                "You can start trading by",
-				"approaching shopkeepers",
-				"and pressing$ .",
+				"Puedes comenzar a comerciar",
+				"acercándote a los mercaderes",
+				"y pulsar$.",
 				"",
-                "To close the shop",
-				"menu, press$ ."
+				"Para cerrar la tienda,",
+				"pulsa$."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -550,12 +548,12 @@
         },		
         "tutorial10j_gamepad": {
             "sign": [
-                "You can start trading by",
-				"approaching shopkeepers",
-				"and pressing$ .",
+				"Puedes comenzar a comerciar",
+				"acercándote a los mercaderes",
+				"y pulsar$.",
 				"",
-                "To close the shop,",
-				"menu, press$ ."
+				"Para cerrar la tienda,",
+				"pulsa$."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -587,13 +585,15 @@
         },
         "tutorial10k": {
             "sign": [
-                "Shops always look",
-				"distinct, no matter",
-				"where they are found.",
+				"Las tiendas siempre tienen",
+				"un aspecto distintivo,",
+				"sin importar dónde se",
+				"encuentren.",
 				"$",
-				"Look for signs outside",
-				"shops for a preview of",
-				"what they buy and sell."
+				"Busca letreros fuera de",
+				"las tiendas para tener una",
+				"vista previa de lo que",
+				"compran y venden."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -616,13 +616,14 @@
         },
         "tutorial10l": {
             "sign": [
-                "This gem may be thrown",
-				"like any rock, but its",
-                "real value lies in what a",
-				"shopkeeper pays for it.",
+				"Esta gema puede ser arrojada",
+				"como cualquier roca, pero su",
+				"verdadero valor radica en lo que",
+				"un mercader pague por ella.",
 				"$",
-                "Maximize trade value",
-				"with high trading skill."
+				"Maximiza el valor del comercio",
+				"con una habilidad de Comercio",
+				"alta."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -650,13 +651,13 @@
         },
         "tutorial10m": {
             "sign": [
-                "Every item has a",
-				"gold value displayed",
-				"when you hover on it",
-				"in your inventory.",
+				"Cada objeto tiene un",
+				"valor en oro que se muestra",
+				"cuando te desplazas sobre él",
+				"en tu inventario.",
 				"",
-				"An item's value may change",
-				"when it is appraised."
+				"El valor de un objeto puede",
+				"cambiar cuando es tasado."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -693,13 +694,13 @@
         },
         "tutorial10m_gamepad": {
             "sign": [
-                "Every item has a",
-				"gold value displayed",
-				"when you hover on it",
-				"in your inventory.",
+				"Cada objeto tiene un",
+				"valor en oro que se muestra",
+				"cuando te desplazas sobre él",
+				"en tu inventario.",
 				"",
-				"An item's value may change",
-				"when it is appraised."
+				"El valor de un objeto puede",
+				"cambiar cuando es tasado."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -736,11 +737,11 @@
         },
         "tutorial10n": {
             "sign": [
-                "Gold cannot slay monsters,",
-				"nor will it feed you.",
+				"El oro no puede matar",
+				"monstruos, ni te alimentará.",
 				"$",
-                "However, it does allow you",
-				"to trade with shopkeepers."
+				"Sin embargo, te permite",
+				"comerciar con los mercaderes."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -769,11 +770,11 @@
         },
         "tutorial10o": {
             "sign": [
-                "Jewelers buy and sell",
-				"amulets, rings, and gems.",
+				"Los joyeros compran y venden",
+				"amuletos, anillos y gemas.",
 				"$",
-                "Here you may sell your",
-				"gem for a lot of gold!"
+				"¡Aquí puedes vender tu",
+				"gema por mucho oro!"
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -803,13 +804,13 @@
         },
         "tutorial10p": {
             "sign": [
-                "If you are hoarding",
-				"many things to sell, a",
-				"General Store is a",
-				"very lucky find.",
+				"Si estás acumulando",
+				"muchas cosas para vender,",
+				"una Tienda General es un",
+				"hallazgo muy afortunado.",
 				"$",
-				"They will buy anything",
-                "and carry random items."
+				"Comprarán cualquier cosa y",
+				"tendrán objetos aleatorios."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -839,9 +840,9 @@
         },
         "tutorial10q": {
             "sign": [
-                "View how much gold you",
-				"have accumulated on your",
-				"character sheet."
+				"Mira cuánto oro has",
+				"acumulado en tu",
+				"hoja de personaje."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -915,13 +916,14 @@
         },
         "tutorial10r_gamepad": {
             "sign": [
-                "To drop gold, hover on",
-				"your gold count, press$",
-				"and pick how much to drop.",
+				"Para soltar oro, pasa el",
+				"cursor sobre tu cantidad de",
+				"oro, pulsa$ y elige cuánto",
+				"soltar.",
 				"",
-                "If you are carrying lots",
-				"of gold, its weight can",
-				"add up and slow you down."
+				"Si llevas mucho oro, su peso",
+				"puede acumularse y causar",
+				"que te muevas más lento."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -969,15 +971,15 @@
         },		
         "tutorial10s": {
             "sign": [
-                "In the dungeon, you",
-				"may not be lucky enough",
-                "to find a buyer for",
-				"your goods.",
+				"En la mazmorra, es posible",
+				"que no tengas la suerte",
+				"de encontrar un comprador",
+				"para tus bienes.",
 				"",
-                "You will have to decide",
-				"if it's wise to keep",
-				"cumbersome items for",
-				"their trade value."
+				"Tendrás que decidir",
+				"si es sabio conservar",
+				"objetos voluminosos",
+				"por su valor comercial."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1008,15 +1010,15 @@
         },
         "tutorial10t": {
             "sign": [
-                "The shopkeepers",
-				"in this market are",
-				"your only option to",
-				"equip yourself properly",
-				"for this trial's test.",
+				"Los Mercaderes",
+				"de este comercio son",
+				"tu única opción para",
+				"equiparte adecuadamente",
+				"para la prueba de este",
+				"desafío.",
 				"",
-                "Buy and sell to",
-				"prepare yourself",
-				"however you prefer."
+				"Compra y vende para",
+				"prepararte como prefieras."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1042,14 +1044,13 @@
         },
         "tutorial10u": {
             "sign": [
-                "Through this portal lies",
-				"a series of increasingly",
-				"challenging fights.",
-				"Buy whatever will help",
-				"you to succeed.",
+				"A través de este portal se",
+				"encuentra una serie de peleas",
+				"cada vez más desafiantes.",
+				"Compra lo que sea que te",
+				"ayude para conseguir el éxito.",
 				"",
-                "Your resourcefulness",
-				"will be tested."
+				"Tu ingenio será puesto a prueba."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1065,14 +1066,13 @@
         },
         "tutorial10v": {
             "sign": [
-                "Items you find in shops",
-				"that are lying around",
-				"tables or in chests",
-				"are yours to take.",
+				"Los objetos que encuentres en las",
+				"tiendas que están en mesas o en cofres",
+				"son tuyos para que los tomes.",
 				"",
-				"The only items that matter",
-				"to shopkeepers are those",
-				"found in their inventory."
+				"Los únicos objetos que le importan",
+				"a los mercaderes son aquellos que",
+				"se encuentran en sus inventarios."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1096,14 +1096,14 @@
         },
         "tutorial10w": {
             "sign": [
-                "Facing two enemies at",
-				"one time can greatly",
-				"complicate a fight.",
+				"Enfrentarse a dos enemigos",
+				"al mismo tiempo puede complicar",
+				"en gran medida una pelea.",
 				"",
-				"All adventurers must",
-				"be ready to face both",
-				"ranged and melee",
-				"attackers."
+				"Todos los aventureros deben",
+				"estar preparados para enfrentar",
+				"atacantes que poseen ofensivas a",
+				"distancia y cuerpo a cuerpo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1136,15 +1136,16 @@
         },
         "tutorial10x": {
             "sign": [
-                "The next foe wields a",
-				"magicstaff, which can",
-				"slow and damage you",
-				"greatly, bypassing AC.",
+				"El próximo enemigo empuña un",
+				"bastón mágico, que puede",
+				"ralentizarte y dañarte",
+				"en gran medida,",
+				"pasando por alto la CA.",
 				"",
-				"Items can reduce magic",
-				"effects. Make use of",
-				"ambush tactics to avoid",
-				"magic projectiles."
+				"Los objetos pueden reducir los",
+				"efectos mágicos. Haz uso de",
+				"tácticas de emboscada para evitar",
+				"los proyectiles mágicos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
