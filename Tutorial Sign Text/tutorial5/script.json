@@ -29,12 +29,12 @@
     "script_entries": {
         "tutorial5a": {
             "sign": [
-                "Doors, furniture and",
-				"chests may block your way.",
-                "Melee attacks can destroy",
-                "them just as well as",
-				"fireballs, enemies",
-				"and boulders."
+				"Puertas, muebles y cofres",
+				"pueden bloquear tu camino.",
+				"Los ataques cuerpo a cuerpo pueden ",
+				"destruirlos igual de bien que las",
+				"bolas de fuego, los enemigos",
+				"y los pedruscos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -65,11 +65,11 @@
         },
         "tutorial5b": {
             "sign": [
-                "With active spells,",
-				"wielded spellbooks, and",
-				"magicstaffs, you can",
-				"access a variety of",
-				"spells quickly.",
+				"Con hechizos activos,",
+				"grimorios equipados y",
+				"bastones mágicos, puedes",
+				"acceder a una variedad de",
+				"hechizos rápidamente.",
 				"",
 				"$ $ $"
             ],
@@ -112,9 +112,9 @@
         },
         "tutorial5c": {
             "sign": [
-                "Use your knowledge of",
-				"magic to clear this",
-				"room of the undead."
+				"Usa tu conocimiento de",
+				"magia para limpiar esta",
+				"habitación de los no muertos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -134,15 +134,15 @@
         },
         "tutorial5d": {
             "sign": [
-                "You can automatically",
-				"wield difficult spellbooks",
-                "by using them from",
-				"your hotbar.",
+				"Puedes equipar de forma",
+				"automática cualquier",
+				"grimorio avanzado usándolo",
+				"desde tu hotbar.",
 				"",
-				"To wield a spellbook",
-				"from your hotbar without",
-				"attempting to memorize,",
-				"hold$ before using."
+				"Para equipar un grimorio",
+				"desde tu hotbar sin intentar",
+				"memorizarlo, deberás",
+				"mantener pulsado$ antes de usarlo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -184,15 +184,13 @@
         },
         "tutorial5d_gamepad": {
             "sign": [
-                "You can wield",
-				"difficult spellbooks, or",
-				"previously memorized",
-                "books, by using them",
-				"from your hotbar.",
+				"Puedes equipar grimorios avanzados,",
+				"o previamente memorizados,",
+				"usándolos desde tu hotbar.",
 				"",
-				"Some spells are more",
-				"powerful if cast from",
-				"a wielded spellbook."
+				"Algunos hechizos son más",
+				"poderosos si se lanzan desde",
+				"un grimorio equipado."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -217,10 +215,10 @@
         },		
         "tutorial5e": {
             "sign": [
-                "These scrolls remove",
-				"curses from items.",
-                "Use them from your",
-				"inventory with$ .",
+				"Estos pergaminos eliminan",
+				"maldiciones de objetos.",
+				"Úsalos desde tu",
+				"inventario con$ .",
 				"$"
             ],
             "attributes": {
@@ -256,10 +254,10 @@
         },
 		"tutorial5e_gamepad": {
             "sign": [
-                "These scrolls remove",
-				"curses from items.",
-                "Use them from your",
-				"inventory with$ .",
+				"Estos pergaminos eliminan",
+				"maldiciones de objetos.",
+				"Úsalos desde tu",
+				"inventario con$ .",
 				"$"
             ],
             "attributes": {
@@ -295,13 +293,14 @@
         },
         "tutorial5f": {
             "sign": [
-                "Low Casting Skill may",
-				"fizzle your spells.",
+				"Una habilidad baja de Canalizar",
+				"puede ocasionar que tus hechizos",
+				"fallen con frecuencia.",
 				"",
 				"$",
 				"",
-                "Simply try again!",
-				"Practice makes perfect."
+				"¡Simplemente inténtalo de nuevo!",
+				"La práctica hace al maestro."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -349,12 +348,12 @@
         },
         "tutorial5g": {
             "sign": [
-                "The dungeon hides many",
-				"secrets. Some require",
-				"abilities to access.",
+				"La mazmorra esconde muchos",
+				"secretos. Algunos requieren",
+				"habilidades para el acceso.",
 				"",
-				"Often, they hide",
-				"grand rewards."
+				"A menudo, esconden",
+				"grandes recompensas."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -377,12 +376,13 @@
         },
         "tutorial5h": {
             "sign": [
-                "Spellbooks, memorized,",
-				"spells, scrolls and",
-                "magicstaffs provide many",
-				"ways for spellcasters to",
-				"survive and conquer",
-				"the dungeon."
+				"Los grimorios, los hechizos",
+				"memorizados, los pergaminos",
+				"y los bastones mágicos",
+				"otorgan diversas formas",
+				"para que lanzadores de",
+				"hechizos logren sobrevivir",
+				"y conquistar la mazmorra."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -403,14 +403,14 @@
         },
         "tutorial5i": {
             "sign": [
-                "Spellbooks allow you",
-				"to memorize spells.",
+				"Los grimorios te permiten",
+				"memorizar hechizos.",
 				"",
 				"$",
 				"",
-                "Use spellbooks in your",
-				"inventory with$ and [Read]",
-				"to memorize the spell."
+				"Usa los grimorios en tu",
+				"inventario con$ y [Leer]",
+				"para memorizar el hechizo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -449,14 +449,14 @@
         },
 		"tutorial5i_gamepad": {
             "sign": [
-                "Spellbooks allow you",
-				"to memorize spells.",
+				"Los grimorios te permiten",
+				"memorizar hechizos.",
 				"",
 				"$",
 				"",
-                "Use spellbooks in your",
-				"inventory with$ and [Read]",
-				"to memorize the spell."
+				"Usa los grimorios en tu",
+				"inventario con$ y [Leer]",
+				"para memorizar el hechizo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -496,11 +496,11 @@
         "tutorial5j": {
             "sign": [
 				"$",
-                "Magicstaffs are charged",
-				"with a single kind of",
-                "spell which any adventurer",
-				"can use. Equip them and",
-				"cast from them with$ ."
+				"Los bastones mágicos están",
+				"cargados con un solo tipo de",
+				"hechizo que cualquier",
+				"aventurero puede usar.",
+				"Equípalos y usa su hechizo con$ ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -540,10 +540,10 @@
         },
         "tutorial5k": {
             "sign": [
-                "Adventurers need to",
-				"understand magic in",
-				"order to survive in",
-				"the dungeons."
+				"Será pertinente entender",
+				"la importancia de la",
+				"magia para sobrevivir", 
+				"en las mazmorras."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -562,15 +562,14 @@
         },
         "tutorial5l": {
             "sign": [
-                "Some spells require",
-				"more INT and Magic",
-				"Skill to memorize.",
+				"Algunos hechizos requieren",
+				"más INT y Magia para",
+				"ser memorizados.",
 				"",
 				"$ $",
 				"",
-				"You may still cast those",
-                "spells by equipping",
-				"the book."
+				"Todavía puedes lanzar esos",
+				"hechizos equipando el libro."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -675,14 +674,14 @@
         },
         "tutorial5m_gamepad": {
             "sign": [
-                "Memorized spells appear",
-				"in your magic list, and",
-				"can be placed for quick",
-				"use in the hotbar.",
+				"Los hechizos memorizados",
+				"aparecen en tu lista de",
+				"magias, y pueden colocarse",
+				"para su uso rápido en tu hotbar.",
 				"$",
-                "Access the list from the",
-				"inventory with$and ready",
-                "the spell with$ ."
+				"Accede rápidamente a la",
+				"lista con$ y prepara",
+				"el hechizo con$ ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -736,11 +735,11 @@
         },		
         "tutorial5n": {
             "sign": [
-                "Cast your readied",
-				"spell with$.",
-                "",
-				"Casting consumes MP,",
-				"depending on the spell."
+				"Lanza tu hechizo",
+				"preparado con$ .",
+				"",
+				"Canalizar consumirá PM,",
+				"dependiendo del hechizo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -778,13 +777,13 @@
         },
         "tutorial5o": {
             "sign": [
-                "Press$ on spellbooks",
-				"in your inventory",
-                "and select [Wield] to",
-				"equip them.",
+				"Presiona$ en los grimorios",
+				"ubicados en tu inventario",
+				"y selecciona [Equipar] para",
+				"equiparlos.",
 				"",
-				"Cast from held",
-				"books using$."
+				"Canaliza desde los ",
+				"libros en mano con$ ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -817,13 +816,13 @@
         },
 		"tutorial5o_gamepad": {
             "sign": [
-                "Press$ on spellbooks",
-				"in your inventory",
-                "and select [Wield] to",
-				"equip them.",
+				"Presiona$ en los grimorios",
+				"ubicados en tu inventario",
+				"y selecciona [Equipar] para",
+				"equiparlos.",
 				"",
-				"Cast from held",
-				"books using$."
+				"Canaliza desde los ",
+				"libros en mano con$ ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -857,10 +856,10 @@
         "tutorial5p": {
             "sign": [
 				"$",
-                "Scrolls can hold",
-				"special magic that",
-				"can only be used",
-				"a single time."
+				"Los pergaminos pueden contener",
+				"magias especiales que solo",
+				"podrán ser utilizadas",
+				"una sola vez."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -889,9 +888,9 @@
         },
         "tutorial5q": {
             "sign": [
-                "This gate can only",
-				"be opened with a spell",
-				"from a wielded book.",
+				"Esta puerta solo puede",
+				"abrirse con el hechizo",
+				"de un libro equipado.",
 				"",
 				"$ $"
             ],
@@ -933,9 +932,9 @@
         },
         "tutorial5q_gamepad": {
             "sign": [
-                "This gate can only",
-				"be opened with a spell",
-				"from a wielded book.",
+				"Esta puerta solo puede",
+				"abrirse con el hechizo",
+				"de un libro equipado.",
 				"",
 				"$ $"
             ],
@@ -977,12 +976,11 @@
         },		
         "tutorial5r": {
             "sign": [
-                "You will need to",
-				"think quickly to get",
-				"the most out of",
-				"your magic.",
+				"Necesitarás pensar rápidamente",
+				"para aprovechar al máximo",
+				"tu magia.",
 				"",
-				"Ensure you are prepared."
+				"Prepárate para el desafío."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1001,9 +999,9 @@
         },
         "tutorial5s": {
             "sign": [
-                "Activate this magic",
-				"portal with$ when you",
-				"are ready to be tested."
+                "Activa este portal mágico",
+				"con$ cuando ya te hayas",
+				"preparado para el desafío."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1027,12 +1025,12 @@
         },
         "tutorial5t": {
             "sign": [
-                "Wizard hats may increase",
-				"your INT, which improves",
-				"your magic ability.",
+				"Los sombreros de mago pueden ",
+				"aumentar tu INT, lo a su vez ",
+				"mejorará tu habilidad mágica.",
 				"$",
-                "A blessed wizard hat",
-				"will add to INT even more."
+				"Un sombrero de mago bendecido",
+				"aumentará aún más tu INT."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1062,13 +1060,12 @@
         },
         "tutorial5u": {
             "sign": [
-                "Levitation",
+				"Levitar",
 				"",
 				"$ ",
 				"",
-				"Allows adventurers",
-				"to cross liquid",
-				"and pits freely"
+				"Permite atravezar líquidos",
+				"y pozos con total libertad."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1099,11 +1096,11 @@
         },
         "tutorial5v": {
             "sign": [
-				"Scroll of Recharge",
+				"Pergamino de Recarga",
 				"$ ",
-                "Magicstaffs can",
-				"be recharged with",
-				"this scroll."
+				"Los bastones mágicos",
+				"se pueden recargar con",
+				"este pergamino."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1132,14 +1129,14 @@
         },
         "tutorial5w": {
             "sign": [
-                "Sustained spells remain",
-				"active once cast, and",
-				"continue to drain MP.",
+				"Los hechizos sostenidos siguen",
+				"activos una vez canalizados, y",
+				"continuarán drenando PM.",
 				"",
 				"$",
 				"",
-				"Re-cast sustained spells",
-				"to deactivate them."
+				"Re-canaliza hechizos sostenidos",
+				"para desactivarlos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1184,14 +1181,14 @@
         },
         "tutorial5x": {
             "sign": [
-                "Sleep",
+				"Sueño",
 				"",
 				"$ ",
 				"",
-				"Causes the target to",
-				"fall into a brief slumber.",
-				"Sleeping targets will",
-				"awaken if harmed."
+				"Hace que el objetivo",
+				"caiga en un breve letargo.",
+				"Los objetivos dormidos se",
+				"despertarán si son dañados."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1232,12 +1229,12 @@
         },
         "tutorial5y": {
             "sign": [
-                "$$",
-				"MP regenerates slowly",
-				"over time (RGN), or you",
-                "may find potions of",
-				"restore magic to",
-				"instantly restore MP."
+				"$$",
+				"Los PM se regeneran lentamente",
+				"con el tiempo (RGN), también",
+				"es posible encontrar pociones",
+				"que restauran magia para poder",
+				"recuperar PM instantáneamente."		  
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1273,12 +1270,12 @@
         },
         "tutorial5z": {
             "sign": [
-                "Cold",
+                "Frío",
 				"",
 				"$ ",
 				"",
-				"Damages and",
-				"slows targets"
+				"Daña y ralentiza",
+				"a los objetivos"
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
