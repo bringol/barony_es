@@ -163,15 +163,15 @@
 			
 			"specialNPCs": {
 				"red riding hood": {
-					"localized_name": "Red Riding Hood",
+					"localized_name": "Caperucita Roja",
 					"models": [127]
 				},
 				"king arthur": {
-					"localized_name": "King Arthur",
+					"localized_name": "Rey Arturo",
 					"models": [113]
 				},
 				"merlin": {
-					"localized_name": "Merlin",
+					"localized_name": "Merlín",
 					"models": [332]
 				},
 				"robin hood": {
@@ -179,7 +179,7 @@
 					"models": [114]
 				},
 				"conan the barbarian": {
-					"localized_name": "Conan the Barbarian",
+					"localized_name": "Conan el Bárbaro",
 					"models": [342]
 				},
 				"othello": {
@@ -203,7 +203,7 @@
 					"models": [383]
 				},
 				"zap brigadier": {
-					"localized_name": "ZAP Brigadier",
+					"localized_name": "Brigadista ZAP",
 					"models": [114]
 				}
 			}
@@ -264,7 +264,7 @@
 			"specialNPCs": {
 				"potato king": {
 					"icon": "special/Icon_PotatoKing_00.png", 
-					"localized_name": "The Potato King",
+					"localized_name": "El Rey Patata",
 					"models": [1035]
 				}
 			}
@@ -300,7 +300,7 @@
 			"specialNPCs": {
 				"thumpus": {
 					"icon": "special/Icon_Thumpus_00.png", 
-					"localized_name": "Thumpus the Troll",
+					"localized_name": "Thumpus el Troll",
 					"models": [1132]
 				}
 			}
@@ -340,7 +340,7 @@
 				},
 				"bubbles": {
 					"icon": "basic/Icon_Crab_00.png", 
-					"localized_name": "Bubbles",
+					"localized_name": "Burbujas",
 					"models": [1189]
 				}
 			}
@@ -388,21 +388,21 @@
 			"specialNPCs": {
 				"funny bones": {
 					"icon": "special/Icon_FunnyBones_00.png", 
-					"localized_name": "Funny Bones",
+					"localized_name": "Huesitos Risueños",
 					"models": [1107]
 				},
 				"skeleton knight": {
 					"icon": "summons/Icon_SkeletonWarrior_00.png",
 					"no_override_icon": true,
-					"localized_name": "skeleton knight",
-					"localized_short_name": "Knight",
+					"localized_name": "Caballero esqueleto",
+					"localized_short_name": "Caballero",
 					"models": [229]
 				},
 				"skeleton sentinel": {
 					"icon": "summons/Icon_SkeletonMage_00.png", 
 					"no_override_icon": true,
-					"localized_name": "skeleton sentinel",
-					"localized_short_name": "Sentinel",
+					"localized_name": "Centinela esqueleto",
+					"localized_short_name": "Centinela",
 					"models": [229]
 				}
 			}
@@ -556,7 +556,7 @@
 		"crystalgolem": {
 			"default": {
 				"icon": "basic/Icon_CrystalGolem_00.png",
-				"localized_short_name": "Golem"
+				"localized_short_name": "Gólem"
 			},
 			
 			"monster": {
@@ -730,28 +730,28 @@
 		"sentrybot": {
 			"default": {
 				"icon": "basic/Icon_SentryBot_00.png", 
-				"localized_short_name": "Sentry",
+				"localized_short_name": "Guardia",
 				"models": [872] 
 			}
 		},
 		"spellbot": {
 			"default": {
 				"icon": "basic/Icon_SpellBot_00.png", 
-				"localized_short_name": "Spell",
+				"localized_short_name": "Mago",
 				"models": [885] 
 			}
 		},
 		"gyrobot": {
 			"default": {
 				"icon": "basic/Icon_GyroBot_00.png", 
-				"localized_short_name": "Gyro",
+				"localized_short_name": "Giro",
 				"models": [886] 
 			}
 		},
 		"dummybot": {
 			"default": {
 				"icon": "basic/Icon_DummyBot_00.png",
-				"localized_short_name": "Dummy",
+				"localized_short_name": "Maniquí",
 				"models": [889] 
 			}
 		}
