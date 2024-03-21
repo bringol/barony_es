@@ -625,30 +625,30 @@
 	},
 	"dropdowns": {
 		"drop_gold": {
-			"title": "Drop Gold",
+			"title": "Dejar Oro",
 			"align_right": false,
 			"gui_module": "character_sheet",
 			"default_option": 1,
 			"options": [{
-				"text": "10G",
+				"text": "10-PO",
 				"action": "gold_drop_10",
 				"controller_glyph": "",
 				"keyboard_glyph": ""
 			},
 			{
-				"text": "100G",
+				"text": "100-PO",
 				"action": "gold_drop_100",
 				"controller_glyph": "",
 				"keyboard_glyph": ""
 			},
 			{
-				"text": "1000G",
+				"text": "1000-PO",
 				"action": "gold_drop_1000",
 				"controller_glyph": "",
 				"keyboard_glyph": ""
 			},
 			{
-				"text": "ALL",
+				"text": "TODO",
 				"action": "gold_drop_all",
 				"controller_glyph": "",
 				"keyboard_glyph": ""
@@ -656,24 +656,24 @@
 			]
 		},
 		"paper_doll": {
-			"title": "Options",
+			"title": "Opciones",
 			"align_right": true,
 			"gui_module": "inventory",
 			"default_option": 0,
 			"options": [{
-				"text": "Autosort Items",
+				"text": "Auto-Ordenar",
 				"action": "inventory_autosort",
 				"controller_glyph": "",
 				"keyboard_glyph": ""
 			},
 			{
-				"text": "View Effects",
+				"text": "Ver Efectos",
 				"action": "view_status_effects",
 				"controller_glyph": "",
 				"keyboard_glyph": ""
 			},
 			{
-				"text": "Rotate Portrait",
+				"text": "Rotar Retrato",
 				"action": "view_portrait",
 				"controller_glyph": "",
 				"keyboard_glyph": ""
@@ -681,7 +681,7 @@
 			]
 		},
 		"item_interact": {
-			"title": "Interact",
+			"title": "Interactuar",
 			"align_right": true,
 			"gui_module": "inventory",
 			"default_option": 0,
@@ -712,7 +712,7 @@
 			]
 		},
 		"spell_interact": {
-			"title": "Interact",
+			"title": "Interactuar",
 			"align_right": true,
 			"gui_module": "spells",
 			"default_option": 0,
@@ -743,7 +743,7 @@
 			]
 		},
 		"hotbar_interact": {
-			"title": "Interact",
+			"title": "Interactuar",
 			"align_right": true,
 			"gui_module": "hotbar",
 			"default_option": 0,
@@ -774,7 +774,7 @@
 			]
 		},
 		"chest_interact": {
-			"title": "Interact",
+			"title": "Interactuar",
 			"align_right": true,
 			"gui_module": "chest",
 			"default_option": 0,
