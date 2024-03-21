@@ -2,7 +2,7 @@
 	"version": 1,
 	"descriptions": {
 		"human": {
-			"title": "Human",
+			"title": "Humano",
 			"text_line_highlights": {
 				"traits_lines": [1],
 				"benefit_lines": [4,7]
@@ -12,26 +12,26 @@
 			"traits_active_if_polymorphed_into": [2],
 			"left_align": [
 				"",
-				"Traits",
-				"- Welcomed by Shopkeepers",
+				"Rasgos",
+				"- Aceptado por Comerciantes",
 				"",
-				"Resistances",
-				"None",
+				"Resistencias",
+				"Ninguna",
 				"",
-				"Friendly With",
-				"Humans, Automatons"
+				"Amistades Con",
+				"Humanos, Autómatas"
 			],
 			"right_align": [
 				"",
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"None"
+				"Debilidades",
+				"Ninguna"
 			]
 		},
 		"skeleton": {
-			"title": "Skeleton",
+			"title": "Esqueleto",
 			"text_line_highlights": {
 				"traits_lines": [1],
 				"benefit_lines": [10, 16]
@@ -41,23 +41,23 @@
 			"line_spacing": [4],
 			"left_align": [
 				"",
-				"Traits",
-				"- Does not Hunger or Starve",
-				"- HP and MP Regeneration",
-				"    reduced by 75%",
-				"- Self-Resurrects for 75MP",
-				"- Immune to Burning",
-				"- Immune to Strangulation",
-				"- Swim speed reduced by 50%",
+				"Rasgos",
+				"- No sufre hambruna",
+				"- Regeneración PV y PM",
+				"    reducido en 75%",
+				"- Auto-Resurrección con 75 PM",
+				"- Inmune: Quemaduras",
+				"- Inmune: Estrangulamientos",
+				"- Velocidad de nado reducido en 50%",
 				"",
-				"Resistances",
-				"- Swords",
-				"- Ranged",
-				"- Axes",
-				"- Magic",
+				"Resistencias",
+				"- Espadas",
+				"- Rango",
+				"- Hachas",
+				"- Magias",
 				"",
-				"Friendly With",
-				"- Ghouls, Automatons"
+				"Amistades Con",
+				"- Necrófagos, Autómatas"
 			],
 			"right_align": [
 				"",
@@ -70,14 +70,14 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Maces",
-				"- Polearms",
-				"- Smite"
+				"Debilidades",
+				"- Mazas",
+				"- Armas de Astas",
+				"- Castigos"
 			]
 		},
 		"vampire": {
-			"title": "Vampire",
+			"title": "Vampiro",
 			"text_line_highlights": {
 				"traits_lines": [3],
 				"benefit_lines": [1, 12, 18]
@@ -108,25 +108,25 @@
 			"traits_active_if_polymorphed_into": [4, 5, 6, 7, 8, 9, 10],
 			"left_align": [
 				"",
-				"Innate Spells",
-				"- Bloodletting, Levitation",
-				"Traits",
-				"- Uses HP when out of MP to",
-				"    cast and sustain spells",
-				"- Can only sustain hunger",
-				"    with Blood Vials",
-				"- Kills may drop Blood Vials",
-				"- Bloodletting / Assassinate",
-				"    kills drop Blood Vials",
+				"Hechizos Innatos",
+				"- Sangría, Levitar",
+				"Rasgos",
+				"- Usa PV cuando agota PM para",
+				"    lanzar y sostener magias",
+				"- Come solamente ",
+				"    Frascos de Sangre",
+				"- Matar puede soltar frascos",
+				"- Muertes por Sangría o",
+				"  asesinatos dan frascos",
 				"",
-				"Resistances",
-				"- Swords",
-				"- Ranged",
-				"- Axes",
-				"- Magic",
+				"Resistencias",
+				"- Espadas",
+				"- Rango",
+				"- Hachas",
+				"- Magias",
 				"",
-				"Friendly With",
-				"- Vampires, Automatons"
+				"Amistades Con",
+				"- Vampiros, Autómatas"
 			],
 			"right_align": [
 				"",
@@ -141,18 +141,18 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Maces",
-				"- Polearms",
-				"- Water",
-				"- Smite",
+				"Debilidades",
+				"- Mazas",
+				"- Armas de Astas",
+				"- Agua",
+				"- Castigos",
 				"",
 				"",
 				""
 			]
 		},
 		"succubus": {
-			"title": "Succubus",
+			"title": "Súcubo",
 			"text_line_highlights": {
 				"traits_lines": [3],
 				"benefit_lines": [1, 12, 16]
@@ -191,24 +191,24 @@
 			"traits_active_if_polymorphed_into": [4, 5, 6, 7, 8, 9, 10],
 			"left_align": [
 				"",
-				"Innate Spells",
-				"- Teleport, Polymorph",
-				"Traits",
-				"- Cursed equipment can be",
-				"    removed; gives bonuses",
-				"- Blessed equipment is not",
-				"    removable; gives bonuses",
-				"- +MP from Strangulation",
-				"- Able to recruit Drunk/",
-				"    Confused Humans",
+				"Hechizos Innatos",
+				"- Teletransporte, Polimorfia",
+				"Rasgos",
+				"- Equip. Maldito puede ser",
+				"    removido; brinda bonus",
+				"- Equip. Bendito no es",
+				"    removible; brinda bonus",
+				"- +PM por Estrangulamiento",
+				"- Puede Reclutar humanos",
+				"    Ebrios/Confundidos",
 				"",
-				"Resistances",
-				"- Magic",
-				"- Polearms",
+				"Resistencias",
+				"- Magias",
+				"- Armas de Astas",
 				"",
-				"Friendly With",
-				"- Succubi, Incubi,",
-				"    Automatons"
+				"Amistades Con",
+				"- Súcubos, Íncubos,",
+				"    Autómatas"
 			],
 			"right_align": [
 				"",
@@ -223,16 +223,16 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Swords",
-				"- Smite",
+				"Debilidades",
+				"- Espadas",
+				"- Castigos",
 				"",
 				"",
 				"",""
 			]
 		},
 		"goatman": {
-			"title": "Goatman",
+			"title": "Fauno",
 			"text_line_highlights": {
 				"traits_lines": [1],
 				"benefit_lines": [11, 16]
@@ -261,23 +261,23 @@
 			"traits_active_if_polymorphed_into": [4, 5, 6, 7, 8, 9, 10],
 			"left_align": [
 				"",
-				"Traits",
-				"- Afflicted with Alcoholism,",
-				"    causing Hangovers",
-				"- +STR/CON/Damage Resist/",
-				"    Free Action while Drunk",
-				"- Can recruit fellow Drunks",
-				"- Eats Tins without an Opener",
-				"- Immune to Greasy effect",
-				"- May find bonus potions",
-				"    interacting with fountains",
-				"Resistances",
-				"- Swords",
+				"Rasgos",
+				"- Sufre de Alcoholismo,",
+				"    causando Resaca",
+				"- +FUE/CON/Resist. al Daño/",
+				"  Acción Libre estando Ebrio",
+				"- Puede reclutar otros Ebrios",
+				"- Come Latas sin Abrelatas",
+				"- Inmune: efectos de grasa",
+				"- Chance de +pociones",
+				"    al usar ls fuentes",
+				"Resistencias",
+				"- Espadas",
 				"",
 				"",
 				"",
-				"Friendly With",
-				"- Goatmen, Automatons"
+				"Amistades Con",
+				"- Faunos, Autómatas"
 			],
 			"right_align": [
 				"",
@@ -291,15 +291,15 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Polearms",
-				"- Axes",
-				"- Ranged",
-				"- Magic"
+				"Debilidades",
+				"- Armas de Astas",
+				"- Hachas",
+				"- Rango",
+				"- Magias"
 			]
 		},
 		"automaton": {
-			"title": "Automaton",
+			"title": "Autómata",
 			"text_line_highlights": {
 				"traits_lines": [3],
 				"benefit_lines": [1, 12, 16]
@@ -338,23 +338,23 @@
 			"traits_active_if_polymorphed_into": [4, 5, 6, 7, 8, 9, 10, 11],
 			"left_align": [
 				 "",
-				"Innate Spells",
-				"- Salvage",
-				"Traits",
-				"- Requires Heat (HT) to",
-				"    survive and cast spells",
-				"- Regen HT with a hot boiler",
-				"    fueled by gems and paper",
-				"- Can remove cursed items",
-				"- Immune to Burning",
-				"- +20 to Tinkering Repairs",
-				"- Welcomed by Shopkeepers",
-				"Resistances",
-				"- Ranged",
-				"- Unarmed",
+				"Hechizos Innatos",
+				"- Reciclar",
+				"Rasgos",
+				"- Requiere Calor (KLR) para",
+				"    sobrevivir y usar magias",
+				"- Regen. KLR con su caldera",
+				"    mediante gemas y papel",
+				"- Puede remover obj. malditos",
+				"- Inmune: Quemaduras",
+				"- +20 a Reparaciones",
+				"- Aceptado por Comerciantes",
+				"Resistencias",
+				"- Rango",
+				"- Desarmado",
 				"",
-				"Friendly With",
-				"- Automatons, Humans"
+				"Amistades Con",
+				"- Autómatas, Humanos"
 			],
 			"right_align": [
 				"",
@@ -369,14 +369,14 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Axes",
-				"- Maces",
-				"- Magic"
+				"Debilidades",
+				"- Hachas",
+				"- Mazas",
+				"- Magias"
 			]
 		},
 		"incubus": {
-			"title": "Incubus",
+			"title": "Íncubo",
 			"text_line_highlights": {
 				"traits_lines": [3],
 				"benefit_lines": [1, 10, 15]
@@ -397,23 +397,23 @@
 			"traits_active_if_polymorphed_into": [4, 5, 6, 7, 8],
 			"left_align": [
 				"",
-				"Innate Spells",
-				"- Teleport, Arcane Mark",
-				"Traits",
-				"- Cursed equipment can be",
-				"    removed; gives bonuses",
-				"- Blessed equipment is not",
-				"    removable; gives bonuses",
-				"- +MP from Strangulation",
+				"Hechizos Innatos",
+				"- Teletransporte, Marca Arcana",
+				"Rasgos",
+				"- Equip. Maldito puede ser",
+				"    removido; brinda bonus",
+				"- Equip. Bendito no es",
+				"    removible; brinda bonus",
+				"- +PM por Estrangulamiento",
 				"",
-				"Resistances",
-				"- Magic",
-				"- Polearms",
+				"Resistencias",
+				"- Magias",
+				"- Armas de Astas",
 				"",
 				"",
-				"Friendly With",
-				"- Succubi, Incubi,",
-				"    Automatons"
+				"Amistades Con",
+				"- Súcubos, Íncubos,",
+				"    Autómatas"
 			],
 			"right_align": [
 				"",
@@ -426,14 +426,14 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Ranged",
-				"- Swords",
-				"- Smite"
+				"Debilidades",
+				"- Rango",
+				"- Espadas",
+				"- Castigos"
 			]
 		},
 		"goblin": {
-			"title": "Goblin",
+			"title": "Trasgo",
 			"text_line_highlights": {
 				"traits_lines": [1],
 				"benefit_lines": [9, 14]
@@ -443,21 +443,21 @@
 			"traits_active_if_polymorphed_into": [2, 3, 4, 5, 6, 7],
 			"left_align": [
 				 "",
-				"Traits",
-				"- Worn Equipment has lower",
-				"    chance to degrade",
-				"- Raising any Melee Weapon",
-				"    Skill raises all of them",
-				"- Weapon Skills raise slower",
-				"- Cannot Memorize new spells",
+				"Rasgos",
+				"- Equip. tiene menos chance",
+				"    de degradarse",
+				"- Subir el nivel con armas CaC",
+				"    aumentará todas a la vez",
+				"- Menos EXP ganada con armas",
+				"- No puede memorizar hechizos",
 				"",
-				"Resistances",
-				"- Swords",
-				"- Unarmed",
+				"Resistencias",
+				"- Espadas",
+				"- Desarmado",
 				"",
 				"",
-				"Friendly With",
-				"- Goblins, Automatons"
+				"Amistades Con",
+				"- Trasgos, Autómatas"
 			],
 			"right_align": [
 				"",
@@ -469,14 +469,14 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Axes",
-				"- Polearms",
-				"- Ranged"
+				"Debilidades",
+				"- Hachas",
+				"- Armas de Astas",
+				"- Rango"
 			]
 		},
 		"insectoid": {
-			"title": "Insectoid",
+			"title": "Insectoide",
 			"text_line_highlights": {
 				"traits_lines": [3],
 				"benefit_lines": [1, 11, 15]
@@ -502,23 +502,23 @@
 			"traits_active_if_polymorphed_into": [8, 9],
 			"left_align": [
 				"",
-				"Innate Spells",
-				"- Flutter, Dash, Spray Acid",
-				"Traits",
-				"- Requires Energy (EN) to",
-				"    survive and cast spells",
-				"- Regain EN by consuming",
-				"    food and sweet liquids",
-				"- Immune to Poison",
-				"- Immune to rotten food",
+				"Hechizos Innatos",
+				"- Aleteo, Brío, Rocío Ácido",
+				"Rasgos",
+				"- Requiere Energía (EN) para",
+				"    sobrevivir y lanzar magias",
+				"- Recupera EN consumiendo",
+				"    comida y líquidos dulces",
+				"- Inmune: Veneno",
+				"- Inmune: Comida podrida",
 				"",
-				"Resistances",
-				"- Maces",
-				"- Unarmed",
+				"Resistencias",
+				"- Mazas",
+				"- Desarmado",
 				"",
-				"Friendly With",
-				"- Insectoids, Scarabs",
-				"    Scorpions, Automatons"
+				"Amistades Con",
+				"- Insectoides, Osgos",
+				"    Escorpiones, Autómatas"
 			],
 			"right_align": [
 				"",
@@ -532,17 +532,17 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Axes",
-				"- Polearms",
-				"- Ranged",
+				"Debilidades",
+				"- Hachas",
+				"- Armas de Astas",
+				"- Rango",
 				"",
 				""
 				
 			]
 		},
 		"rat": {
-			"title": "Rat",
+			"title": "Rata",
 			"text_line_highlights": {
 				"traits_lines": [1],
 				"benefit_lines": [6, 14]
@@ -552,21 +552,21 @@
 			"traits_active_if_polymorphed_into": [2, 3, 4],
 			"left_align": [
 				"",
-				"Traits",
-				"- Higher chance to gain",
-				"    DEX/INT on level up",
-				"- Immune to rotten food",
+				"Rasgos",
+				"- Mayor chance de subir",
+				"   DES/INT al ganar nivel",
+				"- Inmune: Comida podrida",
 				"",
-				"Resistances",
-				"- Axes",
-				"- Polearms",
-				"",
-				"",
+				"Resistencias",
+				"- Hachas",
+				"- Armas de Astas",
 				"",
 				"",
 				"",
-				"Friendly With",
-				"- Rats, Automatons"
+				"",
+				"",
+				"Amistades Con",
+				"- Ratas, Autómatas"
 			],
 			"right_align": [
 				"",
@@ -575,15 +575,15 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Unarmed",
-				"- Ranged",
-				"- Swords",
-				"- Maces"
+				"Debilidades",
+				"- Desarmado",
+				"- Rango",
+				"- Espadas",
+				"- Mazas"
 			]
 		},
 		"spider": {
-			"title": "Spider",
+			"title": "Tarántula",
 			"text_line_highlights": {
 				"traits_lines": [1],
 				"benefit_lines": [6,14]
@@ -593,22 +593,22 @@
 			"traits_active_if_polymorphed_into": [2, 3, 4],
 			"left_align": [
 				"",
-				"Traits",
-				"- Higher chance to gain",
-				"    PER/CON on level up",
-				"- Immune to rotten food",
+				"Rasgos",
+				"- Mayor chance de subir",
+				"   PER/CON al ganar nivel",
+				"- Inmune: Comida podrida",
 				"",
-				"Resistances",
-				"- None",
-				"",
-				"",
+				"Resistencias",
+				"- Ninguna",
 				"",
 				"",
 				"",
 				"",
-				"Friendly With",
-				"- Spiders, Scarabs, Scorpions,",
-				"    Automatons"
+				"",
+				"",
+				"Amistades Con",
+				"- Arácnidos, Osgos,",
+				"  Escorpiones, Autómatas"
 			],
 			"right_align": [
 				"",
@@ -617,12 +617,12 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Axes"
+				"Debilidades",
+				"- Hachas"
 			]
 		},
 		"crab": {
-			"title": "Crab",
+			"title": "Escarabajo",
 			"text_line_highlights": {
 				"traits_lines": [1],
 				"benefit_lines": [6,14]
@@ -632,22 +632,22 @@
 			"traits_active_if_polymorphed_into": [2, 3, 4],
 			"left_align": [
 				"",
-				"Traits",
-				"- Higher chance to gain",
-				"    PER/CON on level up",
-				"- Immune to rotten food",
+				"Rasgos",
+				"- Mayor chance de subir",
+				"   PER/CON al ganar nivel",
+				"- Inmune: Comida podrida",
 				"",
-				"Resistances",
-				"- None",
-				"",
-				"",
+				"Resistencias",
+				"- Ninguna",
 				"",
 				"",
 				"",
 				"",
-				"Friendly With",
-				"- Crabs, Scarabs, Scorpions,",
-				"    Automatons"
+				"",
+				"",
+				"Amistades Con",
+				"- Osgos, Escarabajos,",
+				"  Escorpiones, Autómatas"
 			],
 			"right_align": [
 				"",
@@ -656,8 +656,8 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Axes"
+				"Debilidades",
+				"- Hachas"
 			]
 		},
 		"troll": {
@@ -671,19 +671,19 @@
 			"traits_active_if_polymorphed_into": [2, 3, 4],
 			"left_align": [
 				"",
-				"Traits",
-				"- Higher chance to gain",
-				"    STR/CON on level up",
-				"- Immune to rotten food",
+				"Rasgos",
+				"- Mayor chance de subir",
+				"   FUE/CON al ganar nivel",
+				"- Inmune: Comida podrida",
 				"",
-				"Resistances",
-				"- Maces",
-				"- Polearms",
-				"- Unarmed",
-				"- Ranged",
+				"Resistencias",
+				"- Mazas",
+				"- Armas de Astas",
+				"- Desarmado",
+				"- Rango",
 				"",
-				"Friendly With",
-				"- Trolls, Automatons"
+				"Amistades Con",
+				"- Trolls, Autómatas"
 			],
 			"right_align": [
 				"",
@@ -692,13 +692,13 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"Swords",
-				"Axes"
+				"Debilidades",
+				"Espadas",
+				"Hachas"
 			]
 		},
 		"imp": {
-			"title": "Imp",
+			"title": "Diablillo",
 			"text_line_highlights": {
 				"traits_lines": [1],
 				"benefit_lines": [7, 11]
@@ -708,18 +708,18 @@
 			"traits_active_if_polymorphed_into": [2, 3, 4, 5],
 			"left_align": [
 				"",
-				"Traits",
-				"- Higher chance to gain",
-				"    INT/DEX on level up",
-				"- Levitation",
-				"- Immune to rotten food",
+				"Rasgos",
+				"- Mayor chance de subir",
+				"    INT/DES al ganar nivel",
+				"- Levitar",
+				"- Inmune: Comida podrida",
 				"",
-				"Resistances",
-				"- Axes",
+				"Resistencias",
+				"- Hachas",
 				"",
 				"",
-				"Friendly With",
-				"- Imps, Automatons"
+				"Amistades Con",
+				"- Diablillos, Autómatas"
 			],
 			"right_align": [
 				"",
@@ -729,9 +729,9 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Magic",
-				"- Swords"
+				"Debilidades",
+				"- Magias",
+				"- Espadas"
 			]
 		}
 	}
