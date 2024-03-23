@@ -71,7 +71,7 @@
 			"id": -5,
 			"internal_name": "EFF_WANTED",
 			"name": "¡Se Busca!",
-			"desc": ["Decretado enemigo del Gremio de Comerciantes por sus crímenes %s:","Asesinato", "Incitar violencia", "Cómplice de violencia"],
+			"desc": ["Decretado enemigo del Gremio de Comerciantes por sus crímenes %s:","Asesinato", "Incitar violencia", "Cómplice de violencia","Cubierta Facial Prohibida"],
 			"img_path": "*images/ui/HUD/statusfx/redhanded.png",
 			"img_from_spell_id": -1,
 			"tooltip_width": 270
@@ -80,7 +80,7 @@
 			"id": -6,
 			"internal_name": "EFF_WANTED",
 			"name": "¡Se Busca!\n(Usurpación)",
-			"desc": ["Decretado enemigo del Gremio de Comerciantes por sus crímenes %s:","Asesinato", "Incitar violencia", "Cómplice de violencia"],
+			"desc": ["Decretado enemigo del Gremio de Comerciantes por sus crímenes %s:","Asesinato", "Incitar violencia", "Cómplice de violencia","Cubierta Facial Prohibida"],
 			"img_path": "*images/ui/HUD/statusfx/redhanded.png",
 			"img_from_spell_id": -1,
 			"tooltip_width": 270
@@ -228,6 +228,34 @@
 			"img_from_spell_id": -1,
 			"tooltip_width": 212
 		},
+
+		"EFF_BOUNTY_TARGET": {
+			"id": -23,
+			"internal_name": "EFF_BOUNTY_TARGET",
+			"name": ["Objetivo Buscado\n(Activo)", "Objetivo Buscado (Activo)"],
+			"desc": "Recibe oro extra por matar un objetivo marcado como Buscado",
+			"img_path": "*images/ui/HUD/statusfx/targeting.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 212
+		},
+		"EFF_INSPIRATION": {
+			"id": -24,
+			"internal_name": "EFF_INSPIRATION",
+			"name": "Inspiración",
+			"desc": "Jugadores aliados y seguidores reciben incremento de EXP cuando poseen menos nivel que uno mismo",
+			"img_path": "*images/ui/HUD/statusfx/inspiration.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 250
+		},
+		"EFF_RELATIATION": {
+			"id": -25,
+			"internal_name": "EFF_RELATIATION",
+			"name": "Represalia",
+			"desc": "Inflige daño a atacantes cuerpo a cuerpo al recibir daño",
+			"img_path": "*images/ui/HUD/statusfx/thorns.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 260
+		},
 		"EFF_ASLEEP": {
 			"id": 0,
 			"internal_name": "EFF_ASLEEP",
@@ -314,7 +342,7 @@
 			"id": 10,
 			"internal_name": "EFF_PARALYZED",
 			"name": "Parálisis",
-			"desc": "Incapaz de moverte",
+			"desc": "Incapaz de actuar o moverte",
 			"img_path": "*images/ui/HUD/statusfx/paralyze.png",
 			"img_from_spell_id": -1
 		},
@@ -554,6 +582,32 @@
 			"img_path": "",
 			"img_from_spell_id": -1,
 			"never_display": true
+		},
+		"EFF_MIMIC_LOCKED": {
+			"id": 39,
+			"internal_name": "EFF_MIMIC_LOCKED",
+			"name": "",
+			"desc": "",
+			"img_path": "",
+			"img_from_spell_id": -1,
+			"never_display": true
+		},
+		"EFF_ROOTED": {
+			"id": 40,
+			"internal_name": "EFF_ROOTED",
+			"name": "Arraigo",
+			"desc": "Incapaz de moverte",
+			"img_path": "*images/ui/HUD/statusfx/rooted.png",
+			"img_from_spell_id": -1
+		},
+		"EFF_NAUSEA_PROTECTION": {
+			"id": 41,
+			"internal_name": "EFF_NAUSEA_PROTECTION",
+			"name": "Resistencia a las Náuseas",
+			"desc": "Inmune al vómito inducido por eventos tales como indigestión, ebriedad, o flechas de cacería",
+			"img_path": "*images/ui/HUD/statusfx/resist_nausea.png",
+			"img_from_spell_id": -1,
+			"tooltip_width": 280
 		}
 	}
 }
