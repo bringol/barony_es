@@ -94,7 +94,7 @@
             "name_unidentified": "brazaletes"
         },
         "bracers_constitution": {
-            "name_identified": "brazaletes de hierro de consitución",
+            "name_identified": "brazaletes de hierro de constitución",
             "name_unidentified": "brazaletes"
         },
         "gauntlets": {
@@ -150,16 +150,16 @@
             "name_unidentified": "botas de acero"
         },
         "leather_breastpiece": {
-            "name_identified": "pechera de cuero",
-            "name_unidentified": "pechera de cuero"
+            "name_identified": "coraza de cuero",
+            "name_unidentified": "coraza de cuero"
         },
         "iron_breastpiece": {
-            "name_identified": "pechera de hierro",
-            "name_unidentified": "pechera de hierro"
+            "name_identified": "coraza de hierro",
+            "name_unidentified": "coraza de hierro"
         },
         "steel_breastpiece": {
-            "name_identified": "pechera de acero",
-            "name_unidentified": "pechera de acero"
+            "name_identified": "coraza de acero",
+            "name_unidentified": "coraza de acero"
         },
         "hat_phrygian": {
             "name_identified": "gorro frigio",
@@ -190,7 +190,7 @@
             "name_unidentified": "yelmo de acero"
         },
         "amulet_sexchange": {
-            "name_identified": "amuleto de cambio de sexo",
+            "name_identified": "amuleto de cambiar sexo",
             "name_unidentified": "amuleto"
         },
         "amulet_lifesaving": {
@@ -202,11 +202,11 @@
             "name_unidentified": "amuleto"
         },
         "amulet_magicreflection": {
-            "name_identified": "amuleto de reflexión mágica",
+            "name_identified": "amuleto de reflejar magia",
             "name_unidentified": "amuleto"
         },
         "amulet_strangulation": {
-            "name_identified": "amuleto de estrangulación",
+            "name_identified": "amuleto de estrangulamiento",
             "name_unidentified": "amuleto"
         },
         "amulet_poisonresistance": {
@@ -298,7 +298,7 @@
             "name_unidentified": "pergamino"
         },
         "scroll_removecurse": {
-            "name_identified": "pergamino de remover maldición",
+            "name_identified": "pergamino de romper maldición",
             "name_unidentified": "pergamino"
         },
         "scroll_fire": {
@@ -438,7 +438,7 @@
             "name_unidentified": "grimorio"
         },
         "spellbook_removecurse": {
-            "name_identified": "grimorio de remover maldición",
+            "name_identified": "grimorio de romper maldición",
             "name_unidentified": "grimorio"
         },
         "spellbook_lightning": {
@@ -474,7 +474,7 @@
             "name_unidentified": "grimorio"
         },
         "spellbook_levitation": {
-            "name_identified": "grimorio de levitation",
+            "name_identified": "grimorio de levitación",
             "name_unidentified": "grimorio"
         },
         "spellbook_invisibility": {
@@ -538,7 +538,7 @@
             "name_unidentified": "gema"
         },
         "gem_sapphire": {
-            "name_identified": "sapphire",
+            "name_identified": "zafiro",
             "name_unidentified": "gema"
         },
         "gem_aquamarine": {
@@ -610,8 +610,8 @@
             "name_unidentified": "toalla"
         },
         "tool_glasses": {
-            "name_identified": "anteojos",
-            "name_unidentified": "anteojos"
+            "name_identified": "gafas",
+            "name_unidentified": "gafas"
         },
         "tool_beartrap": {
             "name_identified": "cepo",
@@ -675,7 +675,7 @@
         },
         "artifact_breastpiece": {
             "name_identified": "Malla del Dragón",
-            "name_unidentified": "pechera de artefacto"
+            "name_unidentified": "coraza de artefacto"
         },
         "artifact_helm": {
             "name_identified": "Velo de la Esfinge",
@@ -694,24 +694,24 @@
             "name_unidentified": "brazaletes de artifacto"
         },
         "crystal_breastpiece": {
-            "name_identified": "pechera cristalina",
-            "name_unidentified": "pechera cristalina"
+            "name_identified": "coraza de cristal",
+            "name_unidentified": "coraza de cristal"
         },
         "crystal_helm": {
-            "name_identified": "yelmo cristalino",
-            "name_unidentified": "yelmo cristalino"
+            "name_identified": "yelmo de cristal",
+            "name_unidentified": "yelmo de cristal"
         },
         "crystal_boots": {
-            "name_identified": "botas cristalinas",
-            "name_unidentified": "botas cristalinas"
+            "name_identified": "botas de cristals",
+            "name_unidentified": "botas de cristals"
         },
         "crystal_shield": {
-            "name_identified": "escudo cristalino",
-            "name_unidentified": "escudo cristalino"
+            "name_identified": "escudo de cristal",
+            "name_unidentified": "escudo de cristal"
         },
         "crystal_gloves": {
-            "name_identified": "guanteletes cristalinos",
-            "name_unidentified": "guanteletes cristalinos"
+            "name_identified": "guanteletes de cristals",
+            "name_unidentified": "guanteletes de cristals"
         },
         "vampire_doublet": {
             "name_identified": "jubón de vampiro",
@@ -750,20 +750,20 @@
             "name_unidentified": "fragmento de cristal"
         },
         "crystal_sword": {
-            "name_identified": "espada cristalina",
-            "name_unidentified": "estpada cristalina"
+            "name_identified": "espada de cristal",
+            "name_unidentified": "espada de cristal"
         },
         "crystal_spear": {
-            "name_identified": "lanza cristalina",
-            "name_unidentified": "lanza cristalina"
+            "name_identified": "lanza de cristal",
+            "name_unidentified": "lanza de cristal"
         },
         "crystal_battleaxe": {
-            "name_identified": "hacha cristalina",
-            "name_unidentified": "hacha cristalina"
+            "name_identified": "hacha de cristal",
+            "name_unidentified": "hacha de cristal"
         },
         "crystal_mace": {
-            "name_identified": "maza cristalina",
-            "name_unidentified": "maza cristalina"
+            "name_identified": "maza de cristal",
+            "name_unidentified": "maza de cristal"
         },
         "bronze_tomahawk": {
             "name_identified": "tomahawk de bronce",
@@ -778,8 +778,8 @@
             "name_unidentified": "chakram de acero"
         },
         "crystal_shuriken": {
-            "name_identified": "shuriken cristalino",
-            "name_unidentified": "shuriken cristalino"
+            "name_identified": "shuriken de cristal",
+            "name_unidentified": "shuriken de cristal"
         },
         "cloak_black": {
             "name_identified": "capa negra",
@@ -794,7 +794,7 @@
             "name_unidentified": "bastón mágico"
         },
         "magicstaff_summon": {
-            "name_identified": "Bastón de invocar esqueleto",
+            "name_identified": "bastón de invocar esqueleto",
             "name_unidentified": "bastón mágico"
         },
         "tool_blindfold_focus": {
@@ -818,7 +818,7 @@
             "name_unidentified": "grimorio"
         },
         "spellbook_reflect_magic": {
-            "name_identified": "grimorio de reflección mágica",
+            "name_identified": "grimorio de reflejar magia",
             "name_unidentified": "grimorio"
         },
         "spellbook_acid_spray": {
@@ -874,7 +874,7 @@
             "name_unidentified": "bastón mágico"
         },
         "potion_polymorph": {
-            "name_identified": "poción de polimorfismo",
+            "name_identified": "poción de polimorfia",
             "name_unidentified": "poción"
         },
         "food_blood": {
@@ -978,8 +978,8 @@
             "name_unidentified": "grimorio"
         },
         "mask_shaman": {
-            "name_identified": "máscara chamánica",
-            "name_unidentified": "máscara chamánica"
+            "name_identified": "máscara shamánica",
+            "name_unidentified": "máscara shamánica"
         },
         "spellbook_amplify_magic": {
             "name_identified": "grimorio de amplificar magia",
@@ -1018,7 +1018,7 @@
             "name_unidentified": "grimorio"
         },
         "spellbook_self_polymorph": {
-            "name_identified": "grimorio de polimorfismo",
+            "name_identified": "grimorio de polimorfia",
             "name_unidentified": "grimorio"
         },
         "spellbook_9": {
@@ -1034,7 +1034,7 @@
             "name_unidentified": "bastón mágico"
         },
         "tool_metal_scrap": {
-            "name_identified": "chatarra metálicaa",
+            "name_identified": "chatarra metálica",
             "name_unidentified": "chatarra"
         },
         "tool_magic_scrap": {
@@ -1042,8 +1042,8 @@
             "name_unidentified": "chatarra"
         },
         "tool_tinkering_kit": {
-            "name_identified": "kit de ingeniería",
-            "name_unidentified": "kit de ingeniería"
+            "name_identified": "kit de fabricación",
+            "name_unidentified": "kit de fabricación"
         },
         "tool_sentrybot": {
             "name_identified": "centinela robótico",
@@ -1074,16 +1074,16 @@
             "name_unidentified": "girobot"
         },
         "tool_spellbot": {
-            "name_identified": "magibot",
-            "name_unidentified": "magibot"
+            "name_identified": "centinela mágico",
+            "name_unidentified": "centinela mágico"
         },
         "tool_decoy": {
             "name_identified": "sonajero",
             "name_unidentified": "sonajero"
         },
         "tool_dummybot": {
-            "name_identified": "muñeco",
-            "name_unidentified": "muñeco"
+            "name_identified": "maniquí",
+            "name_unidentified": "maniquí"
         },
         "machinist_apron": {
             "name_identified": "delantal de cuero",
@@ -1122,7 +1122,7 @@
             "name_unidentified": "carcaj"
         },
         "quiver_crystal": {
-            "name_identified": "carcaj de flechas cristalinas",
+            "name_identified": "carcaj de flechas de cristal",
             "name_unidentified": "carcaj"
         },
         "quiver_hunting": {
@@ -1156,7 +1156,167 @@
 		"tool_player_loot_bag": {
             "name_identified": "caja mortuoria",
             "name_unidentified": "caja mortuoria"
-        }
+        },
+        "mask_bandit": {
+			"name_identified": "máscara de bandido",
+			"name_unidentified": "máscara de bandido"
+		},
+		"mask_eyepatch": {
+			"name_identified": "parche en el ojo",
+			"name_unidentified": "parche en el ojo"
+		},
+		"mask_masquerade": {
+			"name_identified": "máscara de comparsa",
+			"name_unidentified": "máscara de comparsa"
+		},
+		"mask_mouth_rose": {
+			"name_identified": "rosa",
+			"name_unidentified": "rosa"
+		},
+		"mask_golden": {
+			"name_identified": "máscara dorada",
+			"name_unidentified": "máscara dorada"
+		},
+		"mask_spooky": {
+			"name_identified": "máscara espeluznante",
+			"name_unidentified": "máscara espeluznante"
+		},
+		"mask_tech_goggles": {
+			"name_identified": "gafas tecnológicas",
+			"name_unidentified": "gafas tecnológicas"
+		},
+		"mask_hazard_goggles": {
+			"name_identified": "gafas de seguridad",
+			"name_unidentified": "gafas de seguridad"
+		},
+		"mask_phantom": {
+			"name_identified": "máscara fantasmal",
+			"name_unidentified": "máscara fantasmal"
+		},
+		"mask_pipe": {
+			"name_identified": "tubería",
+			"name_unidentified": "tubería"
+		},
+		"mask_grass_sprig": {
+			"name_identified": "ramillete de hierba dulce",
+			"name_unidentified": "ramillete de hierba dulce"
+		},
+		"mask_plague": {
+			"name_identified": "máscara de la peste",
+			"name_unidentified": "máscara de la peste"
+		},
+		"mask_mouthknife": {
+			"name_identified": "caracuchillo",
+			"name_unidentified": "caracuchillo"
+		},
+		"hat_silken_bow": {
+			"name_identified": "lazo de seda",
+			"name_unidentified": "lazo de seda"
+		},
+		"hat_plumed_cap": {
+			"name_identified": "sombrero emplumado",
+			"name_unidentified": "sombrero emplumado"
+		},
+		"hat_bycocket": {
+			"name_identified": "Felucca",
+			"name_unidentified": "Felucca"
+		},
+		"hat_tophat": {
+			"name_identified": "sombrero de copa",
+			"name_unidentified": "sombrero de copa"
+		},
+		"hat_bandana": {
+			"name_identified": "bandana",
+			"name_unidentified": "bandana"
+		},
+		"hat_circlet": {
+			"name_identified": "diadema",
+			"name_unidentified": "diadema"
+		},
+		"hat_crown": {
+			"name_identified": "corona",
+			"name_unidentified": "corona"
+		},
+		"hat_laurels": {
+			"name_identified": "laureles",
+			"name_unidentified": "laureles"
+		},
+		"hat_turban": {
+			"name_identified": "turbante",
+			"name_unidentified": "turbante"
+		},
+		"hat_crowned_helm": {
+			"name_identified": "yelmo coronado",
+			"name_unidentified": "yelmo coronado"
+		},
+		"hat_warm": {
+			"name_identified": "gorro abrigado",
+			"name_unidentified": "gorro abrigado"
+		},
+		"hat_wolf_hood": {
+			"name_identified": "capucha de lobo",
+			"name_unidentified": "capucha de lobo"
+		},
+		"hat_bear_hood": {
+			"name_identified": "capucha de oso",
+			"name_unidentified": "capucha de oso"
+		},
+		"hat_stag_hood": {
+			"name_identified": "capucha de ciervo",
+			"name_unidentified": "capucha de ciervo"
+		},
+		"hat_bunny_hood": {
+			"name_identified": "capucha de conejo",
+			"name_unidentified": "capucha de conejo"
+		},
+		"hat_bountyhunter": {
+			"name_identified": "sombrero de cazarecompensas",
+			"name_unidentified": "sombrero de cazarecompensas"
+		},
+		"hat_miter": {
+			"name_identified": "mitra sacerdotal",
+			"name_unidentified": "mitra sacerdotal"
+		},
+		"hat_headdress": {
+			"name_identified": "escofión de maga",
+			"name_unidentified": "escofión de maga"
+		},
+		"hat_chef": {
+			"name_identified": "sombrero de chef",
+			"name_unidentified": "sombrero de chef"
+		},
+		"helm_mining": {
+			"name_identified": "casco minero",
+			"name_unidentified": "casco minero"
+		},
+		"mask_steel_visor": {
+			"name_identified": "visera de acero",
+			"name_unidentified": "visera de acero"
+		},
+		"mask_crystal_visor": {
+			"name_identified": "visera de cristal",
+			"name_unidentified": "visera de cristal"
+		},
+		"mask_artifact_visor": {
+			"name_identified": "Velo de la Valkiria",
+			"name_unidentified": "visera de artefacto"
+		},
+		"hat_circlet_wisdom": {
+			"name_identified": "diadema de sabiduría",
+			"name_unidentified": "diadema"
+		},
+		"hat_hood_apprentice": {
+			"name_identified": "capucha de aprendiz",
+			"name_unidentified": "capucha"
+		},
+		"hat_hood_assassin": {
+			"name_identified": "capucha de asesino",
+			"name_unidentified": "capucha"
+		},
+		"hat_hood_whispers": {
+			"name_identified": "capucha de susurros",
+			"name_unidentified": "capucha"
+		}
     },
 	"spell_names": {
         "spell_forcebolt": {
@@ -1202,7 +1362,7 @@
             "name": "Cerradura"
         },
         "spell_levitation": {
-            "name": "Levitación"
+            "name": "Levitar"
         },
         "spell_invisibility": {
             "name": "Invisibilidad"
@@ -1220,7 +1380,7 @@
             "name": "Curar Dolencia"
         },
         "spell_dig": {
-            "name": "Excavación"
+            "name": "Excavar"
         },
         "spell_summon": {
             "name": "Invocar Esqueleto"
@@ -1313,13 +1473,17 @@
             "name": "Brío"
         },
         "spell_self_polymorph": {
-            "name": "Polimorfismo"
+            "name": "polimorfia"
         },
         "spell_crab_form": {
             "name": "Forma Antrópoda"
         },
         "spell_crab_web": {
             "name": "Enmarañar"
+		},
+		"spell_ghost_bolt": {
+			"name": "Rayo Espectral"
 		}
+        
     }
 }

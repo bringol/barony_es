@@ -1,4 +1,4 @@
-{
+	{
 	"version": 1,
 	"panel_center_x_offset": -62,
 	"panel_center_y_offset": -24,
@@ -242,22 +242,22 @@
 		"text_maps": [{
 			"wait_here" : 
 			{
-				"text": "Wait Here",
+				"text": "Espera Aquí",
 				"word_highlights" : []
 			},
 			"follow" : 
 			{
-				"text": "Follow",
+				"text": "Sígueme",
 				"word_highlights" : []
 			},
 			"wait_here_all" : 
 			{
-				"text": "(ALL) Wait Here",
+				"text": "(TODOS) Esperen Aquí",
 				"word_highlights" : []
 			},
 			"follow_all" : 
 			{
-				"text": "(ALL) Follow",
+				"text": "(TODOS) Síganme",
 				"word_highlights" : []
 			}
 		}]
@@ -272,7 +272,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Move Aside",
+				"text": "Muévete",
 				"word_highlights" : []
 			}
 		}]
@@ -287,7 +287,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Move to...",
+				"text": "Mover a...",
 				"word_highlights" : []
 			}
 		}]
@@ -302,7 +302,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Attack...",
+				"text": "Atacar...",
 				"word_highlights" : []
 			}
 		}]
@@ -317,7 +317,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Attack / Interact with...",
+				"text": "Atacar / Interactuar con...",
 				"word_highlights" : []
 			}
 		}]
@@ -332,7 +332,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Interact...",
+				"text": "Interactuar...",
 				"word_highlights" : []
 			}
 		}]
@@ -347,7 +347,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Rest",
+				"text": "Descanso",
 				"word_highlights" : []
 			}
 		}]
@@ -362,17 +362,17 @@
 		"text_maps": [{
 			"leader_drop_weapon" : 
 			{
-				"text": "Drop Weapon",
+				"text": "Dejar Arma",
 				"word_highlights" : [1]
 			},
 			"leader_drop_equipment" : 
 			{
-				"text": "Drop Equipment",
+				"text": "Dejar Equipo",
 				"word_highlights" : [1]
 			},
 			"leader_drop_all" : 
 			{
-				"text": "Drop All",
+				"text": "Dejar Todo",
 				"word_highlights" : []
 			}
 		}]
@@ -387,7 +387,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Prefer Equipment: Any",
+				"text": "Preferir Equipo: Todos",
 				"word_highlights" : [2]
 			}
 		}]
@@ -402,7 +402,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Prefer Equipment: Ranged",
+				"text": "Preferir Equipo: Rango",
 				"word_highlights" : [2]
 			}
 		}]
@@ -417,7 +417,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Prefer Equipment: Melee",
+				"text": "Preferir Equipo: Cuerpo a cuerpo",
 				"word_highlights" : [2]
 			}
 		}]
@@ -432,7 +432,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Pickup Items: All",
+				"text": "Recoger Objetos: Todos",
 				"word_highlights" : [2]
 			}
 		}]
@@ -447,12 +447,12 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Pickup Items: Unowned",
+				"text": "Recoger Objetos: Sin-Dueños",
 				"word_highlights" : [2]
 			},
 			"leader_pickup_none" : 
 			{
-				"text": "Pickup Items: None",
+				"text": "Recoger Objetos: Ninguno",
 				"word_highlights" : [2]
 			}
 		}]
@@ -467,7 +467,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Relinquish Soul",
+				"text": "Liberar Alma",
 				"word_highlights" : []
 			}
 		}]
@@ -482,22 +482,22 @@
 		"text_maps": [{
 			"wait_here" : 
 			{
-				"text": "Wait Here",
+				"text": "Espera Aquí",
 				"word_highlights" : []
 			},
 			"follow" : 
 			{
-				"text": "Follow",
+				"text": "Sígueme",
 				"word_highlights" : []
 			},
 			"wait_here_all" : 
 			{
-				"text": "(ALL) Wait Here",
+				"text": "(TODOS) Espera Aquí",
 				"word_highlights" : []
 			},
 			"follow_all" : 
 			{
-				"text": "(ALL) Follow",
+				"text": "(TODOS) Síganme",
 				"word_highlights" : []
 			}
 		}]
@@ -512,22 +512,22 @@
 		"text_maps": [{
 			"hold_aim" : 
 			{
-				"text": "Hold Aim",
+				"text": "Apuntar",
 				"word_highlights" : []
 			},
 			"free_look" : 
 			{
-				"text": "Free Look",
+				"text": "Vista Libre",
 				"word_highlights" : []
 			},
 			"hold_aim_all" : 
 			{
-				"text": "(ALL) Hold Aim",
+				"text": "(TODOS) Apuntar",
 				"word_highlights" : []
 			},
 			"free_look_all" : 
 			{
-				"text": "(ALL) Free Look",
+				"text": "(TODOS) Vista Libre",
 				"word_highlights" : []
 			}
 		}]
@@ -542,7 +542,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Return & Land",
+				"text": "Retornar & Aterrizar",
 				"word_highlights" : []
 			}
 		}]
@@ -557,12 +557,12 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Deactivate",
+				"text": "Deactivar",
 				"word_highlights" : []
 			},
 			"dummybot_deactivate" : 
 			{
-				"text": "Return To Box",
+				"text": "Retornar a la Caja",
 				"word_highlights" : []
 			}
 		}]
@@ -577,7 +577,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Move aside",
+				"text": "Muévete",
 				"word_highlights" : []
 			}
 		}]
@@ -592,7 +592,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Move to...",
+				"text": "Mover a...",
 				"word_highlights" : []
 			}
 		}]
@@ -607,7 +607,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Look at...",
+				"text": "Mirar a...",
 				"word_highlights" : []
 			}
 		}]
@@ -622,7 +622,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Attack...",
+				"text": "Atacar...",
 				"word_highlights" : []
 			}
 		}]
@@ -637,7 +637,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Interact...",
+				"text": "Interactuar...",
 				"word_highlights" : []
 			}
 		}]
@@ -652,7 +652,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Drop item",
+				"text": "Dejar objeto",
 				"word_highlights" : []
 			}
 		}]
@@ -667,7 +667,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Detect items with: [Metal Scrap]",
+				"text": "Detectar objetos: [Chatarra Metálica]",
 				"word_highlights" : [3,4]
 			}
 		}]
@@ -682,7 +682,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Detect items with: [Magic Scrap]",
+				"text": "Detectar objetos: [Chatarra Mágica]",
 				"word_highlights" : [3,4]
 			}
 		}]
@@ -697,7 +697,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Detect items: [Valuable]",
+				"text": "Detectar objetos: [Valiosos]",
 				"word_highlights" : [2]
 			}
 		}]
@@ -712,7 +712,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Detect: [Monsters]",
+				"text": "Detectar: [Monstruos]",
 				"word_highlights" : [1]
 			}
 		}]
@@ -727,7 +727,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Detect: [Traps]",
+				"text": "Detectar: [Trampas]",
 				"word_highlights" : [1]
 			}
 		}]
@@ -742,7 +742,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Detect: [Exits]",
+				"text": "Detectar: [Salidas]",
 				"word_highlights" : [1]
 			}
 		}]
@@ -757,7 +757,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Radial Detection OFF",
+				"text": "Detección Radial Desactivada",
 				"word_highlights" : []
 			}
 		}]
@@ -772,7 +772,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Emit light: [Faint]",
+				"text": "Emitir luz: [Tenue]",
 				"word_highlights" : []
 			}
 		}]
@@ -787,7 +787,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Emit light: [Bright]",
+				"text": "Emitir luz: [Brillante]",
 				"word_highlights" : []
 			}
 		}]
@@ -802,7 +802,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Emit light: [None]",
+				"text": "Emitir luz: [Ninguna]",
 				"word_highlights" : []
 			}
 		}]
@@ -817,7 +817,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Cancel",
+				"text": "Cancelar",
 				"word_highlights" : [0]
 			}
 		}]
@@ -832,27 +832,27 @@
 		"text_maps": [{
 			"skill_missing_leader" : 
 			{
-				"text": "Missing skill / stat requirement: %d / %d",
+				"text": "Habilidad faltante / nivel requerido: %d / %d",
 				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
 			},
 			"skill_missing_tinker" : 
 			{
-				"text": "Missing skill / stat requirement: %d / %d ",
+				"text": "Habilidad faltante / nivel requerido: %d / %d",
 				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
 			},
 			"command_unavailable" : 
 			{
-				"text": "Command unavailable for %s",
+				"text": "Commando no disponible para %s",
 				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
 			},
 			"rest_cooldown" : 
 			{
-				"text": "You may only use this command once per floor",
+				"text": "Solo puedes usar este comando una vez por piso",
 				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
 			},
 			"tinker_quality_low" : 
 			{
-				"text": "Higher quality %s required",
+				"text": "Se requiere %s de mejor calidad",
 				"word_highlights" : [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
 			}
 		}]
