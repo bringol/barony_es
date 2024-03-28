@@ -1528,7 +1528,7 @@ comerte... para la cena."#
 1042 [Imperfecto/a] #
 1043 [Perfecto/a] #
 1044 [Gasificado/a-%s] #
-1045 [Nubloso/a-%s] #
+1045 [Nuboso/a-%s] #
 1046 [Agitado/a-%s] # 
 1047 [Simple%s] #
 1048 [Burbujeante-%s] #
@@ -2954,7 +2954,7 @@ drenarse el resto de tu magia!#
 2586 DEPRECATED#
 2587 DEPRECATED#
 2588 DEPRECATED#
-589 Tu %s aliado %s#
+2589 Tu %s aliado %s#
 2590 DEPRECATED#
 2591 No tienes nada más para aprender sobre este hechizo.#
 
