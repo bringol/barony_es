@@ -48,10 +48,10 @@
 		"compact_scale_modifier_x": 0.5,
 		"compact_scale_modifier_y": 0.0
 	},
-	"alchemy_potion_names_to_filter": ["potion of ", "bottle of "],
+	"alchemy_potion_names_to_filter": ["poción de ", "botella de "],
 	"skills": [
 		{
-			"name": "Stealth",
+			"name": "Sigilo",
 			"id": 1,
 			"sfx": 549,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Stealth01.png",
@@ -59,8 +59,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Stealth02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Stealth02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_DEX_00.png",
-			"description": "Provides reduced visibility to enemies, bonus melee stealth attack damage, and additional vision while sneaking. Use the Defend command without holding a shield to sneak.",
-			"legend_text": "Sneaking grants invisibility. Backstab bonus damage is doubled.",
+			"description": "Provee visibilidad reducida a enemigos, daño extra con ataques furtivos, y visión adicional. Usa el botón de bloqueo para activar el sigilo",
+			"legend_text": "Sigilo brinda invisibilidad. Ataques por espalda causan doble daño.",
 			"effects_position": {
 				"effect_start_offset_x": 80,
 				"effect_background_offset_x": 8,
@@ -69,29 +69,30 @@
 			"effects": [
 				{
 					"tag": "STEALTH_VIS_REDUCTION",
-					"title": "Visibility Reduction:",
+					"title": "Visibilidad Reducida:",
 					"value": "%+d%%"
 				},
 				{
 					"tag": "STEALTH_SNEAK_VIS",
-					"title": "Sneaking Bonus Vision:",
-					"value": "%+d Light"
+					"title": "Bonus Visión Furtiva:",
+					"value": "%+d Luz"
 				},
 				{
 					"tag": "STEALTH_BACKSTAB",
-					"title": "Backstab Bonus DMG:",
-					"value": "%+d ATK"
+					"title": "Bonus Daño por Espalda:",
+					"value": "%+d ATQ",
+					"realtime_update": true
 				},
 				{
 					"tag": "STEALTH_CURRENT_VIS",
-					"title": "Current Visibility:",
-					"value": "%d Tiles",
+					"title": "Visibilidad Actual:",
+					"value": "%d Casillas",
 					"realtime_update": true
 				}
 			]
 		},
 		{
-			"name": "Blocking",
+			"name": "Bloqueo",
 			"id": 13,
 			"sfx": 599,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Blocking01.png",
@@ -99,8 +100,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Blocking02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Blocking02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CON_00.png",
-			"description": "Increases Armor Class bonus while defending.\n Provides passive Armor Class bonus to held shields. Improves durability of Off-hand items during combat.",
-			"legend_text": "Shields never degrade on hit.",
+			"description": "Aumenta CA al bloquear.\n Provee Bonus de CA al empuñar escudos. Mejora durabilidad de objetos empuñados en la mano no-hábil durante el combate.",
+			"legend_text": "Los escudos nunca se degradan al ser golpeados.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -109,28 +110,28 @@
 			"effects": [
 				{
 					"tag": "BLOCK_AC_INCREASE",
-					"title": "Defending AC increase:",
-					"value": "%+d AC"
+					"title": "Aumento CA Defensiva:",
+					"value": "%+d CA"
 				},
 				{
 					"tag": "PASSIVE_AC_INCREASE",
-					"title": "Passive AC increase\n while holding shields:",
-					"value": "%+d AC"
+					"title": "Incremento Pasivo de CA\n al empuñar escudos:",
+					"value": "%+d CA"
 				},
 				{
 					"tag": "BLOCK_DEGRADE_NORMAL_CHANCE",
-					"title": "Shield degrade chance:\n (On receiving damage)",
+					"title": "Chance de degradar escudo:\n (Al recibir daño)",
 					"value": "%.2f%%"
 				},
 				{
 					"tag": "BLOCK_DEGRADE_DEFENDING_CHANCE",
-					"title": "Shield degrade chance:\n (While Defending):",
+					"title": "Chance de degradar escudo:\n (Al Defender):",
 					"value": "%.2f%%"
 				}
 			]
 		},
 		{
-			"name": "Ranged",
+			"name": "Distancia",
 			"id": 8,
 			"sfx": 600,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Ranged01.png",
@@ -138,8 +139,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Ranged02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Ranged02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_DEX_00.png",
-			"description": "Increases ranged/thrown damage and improves durability of ranged weaponry.",
-			"legend_text": "Ranged weaponry never degrades on use.",
+			"description": "Incrementa el daño a distancia/arrojadizo y mejora la durabilidad de armas a distancia.",
+			"legend_text": "Armas a distancia nunca se degradan con el uso.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -148,28 +149,28 @@
 			"effects": [
 				{
 					"tag": "RANGED_DMG_EFFECTIVENESS",
-					"title": "Ranged ATK\n effectiveness:",
+					"title": "ATQ a Distancia\n efectividad:",
 					"value": "%+d%%"
 				},
 				{
 					"tag": "RANGED_DEGRADE_CHANCE",
-					"title": "Ranged weapon\n degrade chance:",
+					"title": "Arma a Distancia\n chance de degradarse:",
 					"value": "%.2f%%"
 				},
 				{
 					"tag": "RANGED_PIERCE_CHANCE",
-					"title": "Ranged attack\n piercing arrow chance:\n (using PER Stat)",
+					"title": "Ataque a Distancia\n chance de penetrar:\n (usando PER)",
 					"value": "%+d%%"
 				},
 				{
 					"tag": "RANGED_THROWN_DMG",
-					"title": "Thrown weapon ATK:",
+					"title": "ATQ Arma Arrojadiza:",
 					"value": "%+d%%"
 				}
 			]
 		},
 		{
-			"name": "Unarmed",
+			"name": "Desarmado",
 			"id": 14,
 			"sfx": 594,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Unarmed01.png",
@@ -177,8 +178,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Unarmed02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Unarmed02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
-			"description": "Increases unarmed damage with bare fists or fist weapons. Improves fist weapon durability and applies knockback on fully charged strikes.",
-			"legend_text": "+5 ATK and inflict 1 second Paralyze status on fully charged stealth backstab strike.",
+			"description": "Aumenta el daño desarmado con puños desnudos o armas de puño. Mejora durabilidad de armas de puño y aplica empuje en golpes completamente cargados.",
+			"legend_text": "+5 ATQ y causa Parálisis de 1 segundo al golpear por la espalda con sigilo completamente cargado.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -187,33 +188,33 @@
 			"effects": [
 				{
 					"tag": "UNARMED_DMG_EFFECTIVENESS",
-					"title": "Unarmed ATK\n effectiveness:",
+					"title": "ATQ Desarmado\n efectividad:",
 					"value": "%+d%%"
 				},
 				{
 					"tag": "UNARMED_BONUS_DMG",
-					"title": "Unarmed bonus ATK:",
-					"value": "%+d ATK"
+					"title": "Bonus ATQ Desarmado:",
+					"value": "%+d ATQ"
 				},
 				{
 					"tag": "GLOVE_DEGRADE_CHANCE",
-					"title": "Fist weapon degrade\n chance:\n (Normal strikes)",
+					"title": "Degradación del arma de puño\n chance:\n (Ataques normales)",
 					"value": "%.2f%%"
 				},
 				{
 					"tag": "GLOVE_DEGRADE0_CHANCE",
-					"title": "Fist weapon degrade\n chance:\n (On 0 damage dealt)",
+					"title": "Degradación del arma de puño:\n (Al hacer 0 daño)",
 					"value": "%.2f%%"
 				},
 				{
 					"tag": "UNARMED_KNOCKBACK_DIST",
-					"title": "Fist weapon knockback\n distance:",
+					"title": "Empuje Arma de Puño\n distancia:",
 					"value": "%+d%%"
 				}
 			]
 		},
 		{
-			"name": "Swords",
+			"name": "Espadas",
 			"id": 9,
 			"sfx": 588,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Swords01.png",
@@ -221,8 +222,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Swords02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Swords02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
-			"description": "Increases damage and improves durability of sword weaponry.",
-			"legend_text": "+5 ATK and inflict 5 second Bleed status on fully charged strike.",
+			"description": "Incrementa el daño y mejora la durabilidad de las espadas.",
+			"legend_text": "+5 ATQ y causa Sangrado por 5 segundos en golpes completamente cargados.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -231,23 +232,23 @@
 			"effects": [
 				{
 					"tag": "SWORD_DMG_EFFECTIVENESS",
-					"title": "Sword ATK\n effectiveness:",
+					"title": "ATQ Espada\n efectividad:",
 					"value": "%+d%%"
 				},
 				{
 					"tag": "SWORD_DEGRADE_CHANCE",
-					"title": "Weapon degrade\n chance:\n (Normal strikes)",
+					"title": "Degradación del arma\n chance:\n (Ataques normales)",
 					"value": "%.2f%%"
 				},
 				{
 					"tag": "SWORD_DEGRADE0_CHANCE",
-					"title": "Weapon degrade\n chance:\n (On 0 damage dealt)",
+					"title": "Degradación del arma\n chance:\n (Al hacer 0 daño)",
 					"value": "%.2f%%"
 				}
 			]
 		},
 		{
-			"name": "Polearms",
+			"name": "Armas de Asta",
 			"id": 12,
 			"sfx": 578,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Polearms01.png",
@@ -255,8 +256,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Polearms02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Polearms02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
-			"description": "Increases damage and improves durability of polearm weaponry.",
-			"legend_text": "+5 ATK and inflict Knockback status on fully charged strike.",
+			"description": "Incrementa el daño y mejora la durabilidad de las armas de asta.",
+			"legend_text": "+5 ATQ y causa Empuje en golpes completamente cargados.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -265,17 +266,17 @@
 			"effects": [
 				{
 					"tag": "POLEARM_DMG_EFFECTIVENESS",
-					"title": "Polearm ATK\n effectiveness:",
+					"title": "ATQ Arma de Asta\n efectividad:",
 					"value": "%+d%%"
 				},
 				{
 					"tag": "POLEARM_DEGRADE_CHANCE",
-					"title": "Weapon degrade\n chance:\n (Normal strikes)",
+					"title": "Degradación del arma\n chance:\n (Ataques normales)",
 					"value": "%.2f%%"
 				},
 				{
 					"tag": "POLEARM_DEGRADE0_CHANCE",
-					"title": "Weapon degrade\n chance:\n (On 0 damage dealt)",
+					"title": "Degradación del arma\n chance:\n (Al hacer 0 daño)",
 					"value": "%.2f%%"
 				}
 			]
@@ -289,8 +290,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Axes02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Axes02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
-			"description": "Increases damage and improves durability of axe weaponry.",
-			"legend_text": "+10 ATK and inflict 3 second Slow status on fully charged strike.",
+			"description": "Incrementa el daño y mejora la durabilidad de las hachas.",
+			"legend_text": "+10 ATQ y causa 3 segundos de Lentitud en golpes completamente cargados.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -299,17 +300,17 @@
 			"effects": [
 				{
 					"tag": "AXE_DMG_EFFECTIVENESS",
-					"title": "Axe ATK\n effectiveness:",
+					"title": "ATQ con Hacha\n efectividad:",
 					"value": "%+d%%"
 				},
 				{
 					"tag": "AXE_DEGRADE_CHANCE",
-					"title": "Weapon degrade\n chance:\n (Normal strikes)",
+					"title": "Degradación del arma\n chance:\n (Ataques normales)",
 					"value": "%.2f%%"
 				},
 				{
 					"tag": "AXE_DEGRADE0_CHANCE",
-					"title": "Weapon degrade\n chance:\n (On 0 damage dealt)",
+					"title": "Degradación del arma\n chance:\n (Al hacer 0 daño)",
 					"value": "%.2f%%"
 				}
 			]
@@ -323,8 +324,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Maces02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Maces02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
-			"description": "Increases damage and improves durability of mace weaponry.",
-			"legend_text": "+5 ATK and 25% chance to inflict 1.5 second Paralyze status on fully charged strike.",
+			"description": "Incrementa el daño y mejora la durabilidad de las mazas.",
+			"legend_text": "+5 ATQ y 25% chance de causar 1.5 segundos de Parálisis en golpes completamente cargados.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -333,23 +334,23 @@
 			"effects": [
 				{
 					"tag": "MACE_DMG_EFFECTIVENESS",
-					"title": "Mace ATK\n effectiveness:",
+					"title": "ATQ maza\n efectividad:",
 					"value": "%+d%%"
 				},
 				{
 					"tag": "MACE_DEGRADE_CHANCE",
-					"title": "Weapon degrade\n chance:\n (Normal strikes)",
+					"title": "Degradación del arma\n chance:\n (Ataques normales)",
 					"value": "%.2f%%"
 				},
 				{
 					"tag": "MACE_DEGRADE0_CHANCE",
-					"title": "Weapon degrade\n chance:\n (On 0 damage dealt)",
+					"title": "Degradación del arma\n chance:\n (Al hacer 0 daño)",
 					"value": "%.2f%%"
 				}
 			]
 		},
 		{
-			"name": "Swimming",
+			"name": "Nadar",
 			"id": 4,
 			"sfx": 552,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Swimming01.png",
@@ -357,8 +358,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Swimming02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Swimming02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CON_00.png",
-			"description": "Increases movement speed while swimming in liquids.",
-			"legend_text": "Permanent water-walking over water and lava.",
+			"description": "Incrementa velocidad de movimiento al nadar en líquidos.",
+			"legend_text": "Caminar sobre el agua y lava permanentemente.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -367,23 +368,23 @@
 			"effects": [
 				{
 					"tag": "SWIM_SPEED_TOTAL",
-					"title": "Movement speed\n while swimming:",
+					"title": "Velocidad\n al nadar:",
 					"value": "%d%%"
 				},
 				{
 					"tag": "SWIM_SPEED_BASE",
-					"title": "Base speed multiplier\n penalty in liquids:",
+					"title": "Multiplicador de Velocidad Base\n penalidad en líquidos:",
 					"value": "%+d%%"
 				},
 				{
 					"tag": "SWIM_SPEED_BONUS",
-					"title": "Bonus speed multiplier\n from Swimming skill:",
+					"title": "Bonus multiplicador de velocidad\n de la habilidad Nadar:",
 					"value": "+%d%%"
 				}
 			]
 		},
 		{
-			"name": "Leadership",
+			"name": "Liderazgo",
 			"id": 5,
 			"sfx": 603,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Leadership01.png",
@@ -391,8 +392,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Leadership02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Leadership02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CHA_00.png",
-			"description": "Increases number of NPC followers able to be recruited at one time and unlocks more follower commands while interacting.",
-			"legend_text": "Can recruit goblins, goatmen and insectoids in addition to standard racial allegiances.",
+			"description": "Incrementa el número de seguidores reclutables y desbloquea más órdenes posibles.",
+			"legend_text": "Permite reclutar trasgos, faunos e insectoides, además de las lealtades raciales estándar.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -401,29 +402,29 @@
 			"effects": [
 				{
 					"tag": "LEADER_MAX_FOLLOWERS",
-					"title": "Maximum followers:",
+					"title": "Máximo de Seguidores:",
 					"value": "%d"
 				},
 				{
 					"tag": "LEADER_FOLLOWER_SPEED",
-					"title": "Bonus follower\n movement speed:",
-					"value": "+%d DEX"
+					"title": "Bonus de seguidor\n velocidad:",
+					"value": "+%d DES"
 				},
 				{
 					"tag": "LEADER_CHARM_MONSTER",
-					"title": "Charm Monster spell\n base chance:\n (Using skill + CHR stat)",
+					"title": "Hechizo Encantar Monstruo\n chance base:\n (Usando habilidad + CAR)",
 					"value": "+%d%%"
 				},
 				{
 					"tag": "LIST_LEADER_AVAILABLE_FOLLOWERS",
-					"title": "Current recruitable\n ally races:",
+					"title": "Reclutable actual\n razas aliadas:",
 					"value": "%s",
 					"auto_resize_value": true
 				}
 			]
 		},
 		{
-			"name": "Trading",
+			"name": "Comercio",
 			"id": 2,
 			"sfx": 552,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Trading01.png",
@@ -431,8 +432,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Trading02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Trading02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CHA_00.png",
-			"description": "Reduces buying prices and improves selling prices when trading with Shopkeepers.",
-			"legend_text": "Unlocks the ability to sell items of any kind to any Shopkeeper.",
+			"description": "Reduce los precios de compra y mejora los precios de venta al comerciar.",
+			"legend_text": "Desbloquea la habilidad de vender artículos de cualquier tipo a cualquier Comerciante.",
 			"effects_position": {
 				"effect_start_offset_x": 102,
 				"effect_background_offset_x": 8,
@@ -441,18 +442,18 @@
 			"effects": [
 				{
 					"tag": "TRADING_BUY_PRICE",
-					"title": "Price markup on\nbuying items from shop:",
-					"value": "%+.f%% Gold"
+					"title": "Margen de precio\ncomprando artículos de tienda:",
+					"value": "%+.f%% Oro"
 				},
 				{
 					"tag": "TRADING_SELL_PRICE",
-					"title": "Resale penalty from\nselling items to shop:\n (Using skill + CHR stat)",
-					"value": "%.f%% Gold"
+					"title": "Penalidad de reventa\nvendiendo artículos a tiendas:\n (Usando habilidad + CAR)",
+					"value": "%.f%% Oro"
 				}
 			]
 		},
 		{
-			"name": "Appraisal",
+			"name": "Tasar",
 			"id": 3,
 			"sfx": 568,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Appraisal01.png",
@@ -460,8 +461,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Appraisal02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Appraisal02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_PER_00.png",
-			"description": "Increases speed of appraising and allows appraising of higher gold value items.",
-			"legend_text": "Appraise all items instantly.",
+			"description": "Aumenta la velocidad de tasación y permite tasar objetos de mayor valor en oro",
+			"legend_text": "Tasar todos los objetos al instante.",
 			"effects_position": {
 				"effect_start_offset_x": 88,
 				"effect_background_offset_x": 8,
@@ -470,24 +471,24 @@
 			"effects": [
 				{
 					"tag": "APPRAISE_GOLD_SPEED",
-					"title": "Time to appraise item\n per gold value:",
-					"value": "%.2f seconds",
+					"title": "Tiempo de Tasación\n por valor en oro:",
+					"value": "%.2f segundos",
 					"auto_resize_value": true
 				},
 				{
 					"tag": "APPRAISE_MAX_GOLD_VALUE",
-					"title": "Maximum gold value\n able to appraise:\n (Using skill + PER stat)",
-					"value": "%d Gold"
+					"title": "Máximo valor en oro\n capaz de ser tasado:\n (Usando habilidad + PER)",
+					"value": "%d Oro"
 				},
 				{
 					"tag": "APPRAISE_WORTHLESS_GLASS",
-					"title": "Able to appraise\n Worthless Glass:\n (Using skill + PER stat)",
+					"title": "Capaz de tasar\n Vidrio Inserdible:\n (Usando habilidad + PER)",
 					"value": "%s"
 				}
 			]
 		},
 		{
-			"name": "Tinkering",
+			"name": "Fabricar",
 			"id": 0,
 			"sfx": 552,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Tinkering01.png",
@@ -495,8 +496,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Tinkering02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Tinkering02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_PER_00.png",
-			"description": "Improves ability with tinkering kits, increasing the amount of craftable items and deployed machinery. Increases chances to lockpick objects in the world.",
-			"legend_text": "Able to repair most weapons and armor using a tinkering kit and find bonus items or gold when lockpicking chests.",
+			"description": "Mejora habilidad con kits de fabricación, aumentando cantidad de objetos fabricables y máquinas desplegables. Aumenta las chances de abrir cerraduras con objetos dentro.",
+			"legend_text": "Capaz de reparar la mayoría de armas y armaduras usando el kit de fabricación. Encuentras oro u objetos extra al abrir cofres",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -505,44 +506,44 @@
 			"effects": [
 				{
 					"tag": "TINKERING_LOCKPICK_CHESTS_DOORS",
-					"title": "Chance to lockpick\n chests and doors:",
+					"title": "Chance de forzar cerraduras\n de cofres y puertas:",
 					"value": "%d%%"
 				},
 				{
 					"tag": "TINKERING_SCRAP_CHESTS",
-					"title": "Scrap chance from\n lockpicking chests:",
+					"title": "Chance de Reciclar con\n cofres abiertos por ganzúas:",
 					"value": "%d%%"
 				},
 				{
 					"tag": "TINKERING_SCRAP_AUTOMATONS",
-					"title": "Scrap chance from\n lockpicking Automatons:",
+					"title": "Chance de Reciclar\n ganzuando Autómatas:",
 					"value": "%d%%"
 				},
 				{
 					"tag": "TINKERING_DISARM_ARROWS",
-					"title": "Chance to disarm\n arrow traps:",
+					"title": "Chance de Desarmar\n trampas de flechas:",
 					"value": "%d%%"
 				},
 				{
 					"tag": "TINKERING_KIT_SCRAP_BONUS",
-					"title": "Bonus scrap\n while salvaging:\n (Using skill + PER stat)",
+					"title": "Chatarra extra\n reciclando:\n (Usando habilidad + PER)",
 					"value": "+%d%%"
 				},
 				{
 					"tag": "TINKERING_KIT_REPAIR_ITEM",
-					"title": "Highest Metal/Magic\n item able to repair:\n (Using skill + PER stat)",
+					"title": "Objeto Metálico/Mágico \n reparable de mayor nivel:\n (Usando habilidad + PER)",
 					"value": "%s",
 					"auto_resize_value": true
 				},
 				{
 					"tag": "TINKERING_MAX_ALLIES",
-					"title": "Maximum deployed\n tinkering allies:",
+					"title": "Despliegue Máximo de\n aliados fabricados:",
 					"value": "%d"
 				}
 			]
 		},
 		{
-			"name": "Alchemy",
+			"name": "Alquimia",
 			"id": 15,
 			"sfx": 552,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Alchemy01.png",
@@ -550,8 +551,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Alchemy02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Alchemy02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
-			"description": "Improves ability to brew potions with alembics and increases damage of thrown offensive potions.\nDrink or brew potions to learn useful ingredients in Alchemy.",
-			"legend_text": "Alembics never degrade.\nBrewed potions have +2 blessing.",
+			"description": "Mejora de habilidad para elaborar pociones con alambiques y aumenta el daño de las pociones ofensivas arrojadizas. \nBebe o elabora pociones para aprender ingredientes útiles Alquímicos.",
+			"legend_text": "Alambiques nunca se degradan.\n Pociones elaboradas tiene +2 bendición.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -560,32 +561,32 @@
 			"effects": [
 				{
 					"tag": "ALCHEMY_POTION_EFFECT_DMG",
-					"title": "Potion effect damage:",
+					"title": "Efecto dañino de pociones:",
 					"value": "+%d%%"
 				},
 				{
 					"tag": "ALCHEMY_THROWN_IMPACT_DMG",
-					"title": "Thrown potion\n impact damage:",
+					"title": "Poción arrojadiza\n daño al impactar:",
 					"value": "+%d%%"
 				},
 				{
 					"tag": "ALCHEMY_DUPLICATION_CHANCE",
-					"title": "Potion duplication\n chance using water:",
+					"title": "Duplicación de poción\n chance usando agua:",
 					"value": "%d%%"
 				},
 				{
 					"tag": "ALCHEMY_EMPTY_BOTTLE_CONSUME",
-					"title": "Empty bottle salvage\n on consuming potions:",
+					"title": "Reciclar botella vacía\n al consumir pociones:",
 					"value": "%d%%"
 				},
 				{
 					"tag": "ALCHEMY_EMPTY_BOTTLE_BREW",
-					"title": "Empty bottle salvage\n on brewing potions:",
+					"title": "Reciclar botella vacía\n al elaborar pociones:",
 					"value": "%d%%"
 				},
 				{
 					"tag": "ALCHEMY_LEARNT_INGREDIENTS_BASE",
-					"title": "Learnt Alchemy\n ingredients:\n (Primary)",
+					"title": "Alquimia Aprendida\n ingredientes:\n (Primarios)",
 					"value": "%s",
 					"custom_value_width_offset": 0,
 					"auto_resize_value": true,
@@ -593,7 +594,7 @@
 				},
 				{
 					"tag": "ALCHEMY_LEARNT_INGREDIENTS_SECONDARY",
-					"title": "Learnt Alchemy\n ingredients:\n (Secondary)",
+					"title": "Alquimia Aprendida\n ingredientes:\n (Secundarios)",
 					"value": "%s",
 					"custom_value_width_offset": 0,
 					"auto_resize_value": true,
@@ -602,7 +603,7 @@
 			]
 		},
 		{
-			"name": "Magic",
+			"name": "Magia",
 			"id": 7,
 			"sfx": 597,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Magic01.png",
@@ -610,8 +611,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Magic02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Magic02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
-			"description": "Allows higher level magic spells to be learned from spellbooks. Equip spells via the Magic menu and use the Cast command, or wield spellbooks and use the Defend command to use magic.",
-			"legend_text": "Auto-learn Dominate spell.",
+			"description": "Permite aprender hechizos de nivel superior mediante grimorios. Equipa los hechizos a través del menú de Magia y canaliza, o empuña los grirmorios y utiliza el botón Defender para usar la magia.",
+			"legend_text": "Autoaprende el hechizo Dominar.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -619,25 +620,25 @@
 			},
 			"effects": [
 				{
-					"tag": "MAGIC_SPELLPOWER",
-					"title": "Base spell power bonus:\n (Using INT stat)",
+					"tag": "MAGIC_SPELLPOWER_INT",
+					"title": "Bonus de poder mágico base:\n (Usando INT)",
 					"value": "%+d%%"
 				},
 				{
 					"tag": "MAGIC_CURRENT_TIER",
-					"title": "Highest Magic tier\n able to learn:\n (Using skill + INT stat)",
+					"title": "Nivel máximo de magia\n aprendible:\n (Usando habilidad + INT)",
 					"value": "%s"
 				},
 				{
 					"tag": "MAGIC_CURRENT_TIER_SPELLS",
-					"title": "Spells in current\n Magic tier:",
+					"title": "Hechizos Actuales Según\n Nivel Mágico:",
 					"value": "%s",
 					"auto_resize_value": true
 				}
 			]
 		},
 		{
-			"name": "Casting",
+			"name": "Canalizar",
 			"id": 6,
 			"sfx": 596,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Casting01.png",
@@ -645,8 +646,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Casting02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Casting02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
-			"description": "Improves reliability of Casting and Spellbook-Casting spells, reducing chances to fumble or over-expend mana. Increases passive MP regen.",
-			"legend_text": "Auto-learn Forcebolt spell with (0) MP cost.",
+			"description": "Mejora la fiabilidad de Canalizar y lanzar hechizos desde grimorios, reduciendo las chances de fallo, o de gastar demasiada magia. Incrementa la regeneración pasiva de PM.",
+			"legend_text": "Autoaprende Virote Mágico con coste nulo de magia",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -655,24 +656,24 @@
 			"effects": [
 				{
 					"tag": "CASTING_MP_REGEN_SKILL_MULTIPLIER",
-					"title": "MP Regen INT multiplier\n from skill:",
+					"title": "Multip. Regen. de PM por INT\n mediante habilidad:",
 					"value": "%dx INT",
 					"auto_resize_value": true
 				},
 				{
 					"tag": "CASTING_MP_REGEN",
-					"title": "Base MP Regen rate:\n (Before item/race\n modifiers)",
-					"value": "1 MP every\n%.2f seconds",
+					"title": "Tasa Base de Regen. de PM:\n (Antes de modificadores\n de objetos/raza.)",
+					"value": "1 PM cada\n%.2f segundos",
 					"auto_resize_value": true
 				},
 				{
 					"tag": "CASTING_BEGINNER",
-					"title": "Able to fail casting\n of learned spells:",
+					"title": "Fallo al canalizar\n con hechizos aprendidos:",
 					"value": "%s"
 				},
 				{
 					"tag": "CASTING_SPELLBOOK_FUMBLE",
-					"title": "Highest Magic tier\n to Spellbook-Cast\n without fumbling:\n (Using skill + INT stat)",
+					"title": "Nivel Mágico Máximo\n para lanzar desde grimorios\n sin fallar:\n (Usando habilidad + INT)",
 					"value": "%s"
 				}
 			]

@@ -349,13 +349,21 @@
 			"3": "tagPink_move-NPC.png",
 			"4": "tagWhite_move-NPC.png"
 		},
-		"self_player-thanks": {
+		"thanks": {
 			"default": "self_player-thanks.png",
 			"0": "self_playerGold-thanks.png",
 			"1": "self_playerGreen-thanks.png",
 			"2": "self_playerRed-thanks.png",
 			"3": "self_playerPink-thanks.png",
 			"4": "self_playerWhite-thanks.png"
+		},
+		"thanks_display_self": {
+			"default": "self_player_thanks.png",
+			"0": "btn_playerGold_thanks.png",
+			"1": "btn_playerGreen_thanks.png",
+			"2": "btn_playerRed_thanks.png",
+			"3": "btn_playerPink_thanks.png",
+			"4": "btn_playerWhite_thanks.png"
 		},
 		"mini_spot": {
 			"default": "mini_spot.png",
@@ -738,10 +746,10 @@
 			},
 			"sink" : 
 			{
-				"text": "Señala el lavabo.",
+				"text": "Señala el fregadero.",
 				"word_highlights" : [3],
-				"msg_emote": "%s señala un lavabo.",
-				"msg_emote_you": "Señalas un lavabo.",
+				"msg_emote": "%s señala un fregadero.",
+				"msg_emote_you": "Señalas un fregadero.",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
@@ -763,7 +771,7 @@
 			},
 			"teleporter_down" : 
 			{
-				"text": "Point out the way down.",
+				"text": "Señala el camino hacia abajo.",
 				"word_highlights" : [3, 4],
 				"msg_says": "%s\"Esta escalera nos conducirá hacia abajo.\"",
 				"world_icon": "tag_spot",
@@ -771,17 +779,17 @@
 			},
 			"bomb" : 
 			{
-				"text": "Indica el/la %s.",
+				"text": "Indica %s.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"Se ha colocado un/a %s aquí.\"",
+				"msg_says": "%s\"%s fue ha colocado aquí.\"",
 				"world_icon": "tag_spot-trap",
 				"world_icon_small": "mini_spot"
 			},
 			"collider" : 
 			{
-				"text": "Indica que este/a %s es frágil.",
+				"text": "Indica que %s es frágil.",
 				"word_highlights" : [4],
-				"msg_says": "%s\"Podemos abrirnos paso a través de este/a %s.\"",
+				"msg_says": "%s\"Podemos abrirnos paso a través de %s.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			}
@@ -876,327 +884,327 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Call for help!",
+				"text": "¡Pide ayuda!",
 				"word_highlights" : [],
-				"msg_emote": "%s calls for help!",
-				"msg_emote_you": "You call for help!",
+				"msg_emote": "¡%s pide ayuda!",
+				"msg_emote_you": "Tus pides ayuda",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"help_all_conditions":
 			{
-				"text": "Call for help! (%s)",
+				"text": "¡Pide ayuda! (%s)",
 				"word_highlights" : [],
-				"msg_emote": "%s calls for help!\n(%s)",
-				"msg_emote_you": "You call for help!\n(%s)",
+				"msg_emote": "¡%s pide ayuda!\n(%s)",
+				"msg_emote_you": "Tu pides ayuda\n(%s)",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"condition_food_hungry":
 			{
-				"text": "I need food! (Hungry)",
+				"text": "¡Necesito comida! (Hambriento)",
 				"word_highlights" : [3],
-				"msg_says": "%s\"I need food! (Hungry)",
+				"msg_says": "%s\"¡Necesito comida! (Hambriento)",
 				"world_icon": "tag_help-food",
 				"world_icon_small": "mini_help"
 			},
 			"condition_blood_hungry":
 			{
-				"text": "I need blood! (Hungry)",
+				"text": "¡Necesito sangre! (Hambriento)",
 				"word_highlights" : [],
-				"msg_says": "%s\"I need blood! (Hungry)",
+				"msg_says": "%s\"¡Necesito sangre! (Hambriento)",
 				"world_icon": "tag_help-food",
 				"world_icon_small": "mini_help"
 			},
 			"condition_food_weak":
 			{
-				"text": "I need food! (Feeling Weak)",
+				"text": "¡Necesito comida! (Agotamiento)",
 				"word_highlights" : [],
-				"msg_says": "%s\"I need food! (Feeling Weak)",
+				"msg_says": "%s\"¡Necesito comida! (Agotamiento)",
 				"world_icon": "tag_help-food",
 				"world_icon_small": "mini_help"
 			},
 			"condition_blood_weak":
 			{
-				"text": "I need blood! (Feeling Weak)",
+				"text": "¡Necesito sangre! (Agotamiento)",
 				"word_highlights" : [],
-				"msg_says": "%s\"I need blood! (Feeling Weak)",
+				"msg_says": "%s\"¡Necesito sangre! (Agotamiento)",
 				"world_icon": "tag_help-food",
 				"world_icon_small": "mini_help"
 			},
 			"condition_steam_empty":
 			{
-				"text": "My boiler is empty!",
+				"text": "¡Mi caldera está vacía!",
 				"word_highlights" : [],
-				"msg_says": "%s\"My boiler is empty!",
+				"msg_says": "%s\"¡Mi caldera está vacía!",
 				"world_icon": "tag_help-food",
 				"world_icon_small": "mini_help"
 			},
 			"condition_food_starving":
 			{
-				"text": "I'm dying of starvation!",
+				"text": "¡Me muero de hambre!",
 				"word_highlights" : [],
-				"msg_says": "%s\"I'm dying of starvation!",
+				"msg_says": "%s\"¡Me muero de hambre!",
 				"world_icon": "tag_help-food",
 				"world_icon_small": "mini_help"
 			},
 			"condition_blood_starving":
 			{
-				"text": "I'm dying of starvation! (Blood)",
+				"text": "¡Me muero de hambre! (Sangre)",
 				"word_highlights" : [],
-				"msg_says": "%s\"I'm dying of starvation!  (Blood)",
+				"msg_says": "%s\"¡Me muero de hambre!  (Sangre)",
 				"world_icon": "tag_help-food",
 				"world_icon_small": "mini_help"
 			},
 			"condition_heal":
 			{
-				"text": "I need healing!",
+				"text": "¡Necesito curación!",
 				"word_highlights" : [],
-				"msg_says": "%s\"I need healing!",
+				"msg_says": "%s\"¡Necesito curación!",
 				"world_icon": "tag_help-hp",
 				"world_icon_small": "mini_help"
 			},
 			"condition_heal_urgent":
 			{
-				"text": "I'm almost out of health!",
+				"text": "¡Estoy a punto de morir!",
 				"word_highlights" : [],
-				"msg_says": "%s\"I'm almost out of health!",
+				"msg_says": "%s\"¡Estoy a punto de morir!",
 				"world_icon": "tag_help-hp",
 				"world_icon_small": "mini_help"
 			},
 			"condition_cure_ailment":
 			{
-				"text": "I need cure ailment!",
+				"text": "¡Necesito curación de dolencia!",
 				"word_highlights" : [],
-				"msg_says": "%s\"I need cure ailment!",
+				"msg_says": "%s\"¡Necesito curación de dolencia!",
 				"world_icon": "tag_help-cure",
 				"world_icon_small": "mini_help"
 			},
 			"location" :
 			{
-				"text": "I need help!",
+				"text": "¡Auxilio!",
 				"word_highlights" : [],
-				"msg_emote": "%s needs help!",
-				"msg_emote_you": "You request help!",
+				"msg_emote": "¡%s necesita ayuda!",
+				"msg_emote_you": "¡Pides ayuda!",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"item" : 
 			{
-				"text": "I need assistance with this %s.",
+				"text": "Necesito respaldo con esto %s.",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need assistance with this %s.\"",
+				"msg_says": "%s\"Necesito respaldo con esto %s.\"",
 				"world_icon": "tag_help-item",
 				"world_icon_small": "mini_help"
 			},
 			"item_an" : 
 			{
-				"text": "I need assistance with this %s.",
+				"text": "Necesito respaldo con esto %s.",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need assistance with this %s.\"",
+				"msg_says": "%s\"Necesito respaldo con esto %s.\"",
 				"world_icon": "tag_help-item",
 				"world_icon_small": "mini_help"
 			},
 			"npc" : 
 			{
-				"text": "I need help with this %s!",
+				"text": "¡Necesito ayuda con esto %s!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help with this %s!\"",
+				"msg_says": "%s\"¡Necesito ayuda con esto %s!\"",
 				"world_icon": "tag_help-npc",
 				"world_icon_small": "mini_help"
 			},
 			"npc_named" : 
 			{
-				"text": "I need help with %s!",
+				"text": "¡Necesito ayuda con %s!",
 				"word_highlights" : [4],
-				"msg_says": "%s\"I need help with %s!\"",
+				"msg_says": "%s\"¡Necesito ayuda con %s!\"",
 				"world_icon": "tag_help-npc",
 				"world_icon_small": "mini_help"
 			},
 			"npc_an" : 
 			{
-				"text": "I need help with this %s!",
+				"text": "¡Necesito ayuda con esto %s!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help with this %s!\"",
+				"msg_says": "%s\"¡Necesito ayuda con esto %s!\"",
 				"world_icon": "tag_help-npc",
 				"world_icon_small": "mini_help"
 			},
 			"npc_enemy_named" : 
 			{
-				"text": "I need help with %s!",
+				"text": "¡Necesito ayuda con %s!",
 				"word_highlights" : [4],
-				"msg_says": "%s\"I need help with %s!\"",
+				"msg_says": "%s\"¡Necesito ayuda con %s!\"",
 				"world_icon": "tag_help-npc",
 				"world_icon_small": "mini_help"
 			},
 			"npc_enemy" : 
 			{
-				"text": "I need help with this %s!",
+				"text": "¡Necesito ayuda con esto %s!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help with this %s!\"",
+				"msg_says": "%s\"¡Necesito ayuda con esto %s!\"",
 				"world_icon": "tag_help-npc",
 				"world_icon_small": "mini_help"
 			},
 			"npc_ally" : 
 			{
-				"text": "Our ally %s needs help!",
+				"text": "¡Nuesto aliado %s necesita ayuda!",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Our ally %s needs help!\"",
+				"msg_says": "%s\"¡Nuesto aliado %s necesita ayuda!\"",
 				"world_icon": "tag_help-npc",
 				"world_icon_small": "mini_help"
 			},
 			"chest" : 
 			{
-				"text": "I need help with this chest.",
+				"text": "Necesito ayuda con este cofre.",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help with this chest.\"",
+				"msg_says": "%s\"Necesito ayuda con este cofre.\"",
 				"world_icon": "tag_help-item",
 				"world_icon_small": "mini_help"
 			},
 			"switch_on" : 
 			{
-				"text": "I need help with this switch.",
+				"text": "Necesito ayuda con este interruptor.",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help with this switch.\"",
+				"msg_says": "%s\"Necesito ayuda con este interruptor.\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"switch_off" : 
 			{
-				"text": "I need help with this switch.",
+				"text": "Necesito ayuda con este interruptor.",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help with this switch.\"",
+				"msg_says": "%s\"Necesito ayuda este interruptor.\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"switch" : 
 			{
-				"text": "I need help with this switch.",
+				"text": "Necesito ayuda con este interruptor.",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help with this switch.\"",
+				"msg_says": "%s\"Necesito ayuda con este interruptor.\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"boulder" : 
 			{
-				"text": "I need help with this boulder.",
+				"text": "Necesito ayuda con este pedrusco.",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help with this boulder.\"",
+				"msg_says": "%s\"Necesito ayuda este pedrusco.\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"trap" : 
 			{
-				"text": "I need help by this %s!",
+				"text": "¡Necesito ayuda junto a esta %s!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help by this %s!\"",
+				"msg_says": "%s\"¡Necesito ayuda junto a esta %s!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"generic_interactable" : 
 			{
-				"text": "I need help by this %s!",
+				"text": "¡Necesito ayuda junto al interactuable %s!",
 				"word_highlights" : [5, 6],
-				"msg_says": "%s\"I need help by this %s!\"",
+				"msg_says": "%s\"¡Necesito ayuda junto al interactuable %s!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"shrine" : 
 			{
-				"text": "I need help by this shrine!",
+				"text": "¡Necesito ayuda con este santuario!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help by this shrine!\"",
+				"msg_says": "%s\"¡Necesito ayuda con este santuario!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"exit" : 
 			{
-				"text": "Request help by the exit.",
+				"text": "Solicito ayuda junto a la salida.",
 				"word_highlights" : [4],
-				"msg_emote": "%s requests help by the exit!",
-				"msg_emote_you": "You request help by the exit!",
+				"msg_emote": "¡%s solicita ayuda junto a la salida!",
+				"msg_emote_you": "¡Solicitas ayuda junto a la salida!",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"secret_exit" : 
 			{
-				"text": "Request help by the secret level exit.",
+				"text": "Solicita ayuda junto a la salida secreta.",
 				"word_highlights" : [4, 5, 6],
-				"msg_emote": "%s requests help by the secret level exit!",
-				"msg_emote_you": "You request help by the secret level exit!",
+				"msg_emote": "¡%s solicita ayuda junto a la salida secreta!",
+				"msg_emote_you": "¡Solicitas ayuda junto a la salida secreta!",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"secret_entrance" : 
 			{
-				"text": "Request help by the secret level entrance.",
+				"text": "Solicita ayuda junto a la entrada secreta.",
 				"word_highlights" : [4, 5, 6],
-				"msg_emote": "%s requests help by the secret level entrance!",
-				"msg_emote_you": "You request help by the secret level entrance!",
+				"msg_emote": "¡%s solicita ayuda junto a la entrada secreta!",
+				"msg_emote_you": "¡Solicitas ayuda junto a la entrada secreta!",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"gold" : 
 			{
-				"text": "I need help carrying this gold.",
+				"text": "Necesito ayuda llevando el oro.",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help carrying this gold.\"",
+				"msg_says": "%s\"Necesito ayuda llevando el oro.\"",
 				"world_icon": "tag_help-item",
 				"world_icon_small": "mini_help"
 			},
 			"fountain" : 
 			{
-				"text": "I need help by this fountain!",
+				"text": "¡Necesito ayuda junto a la fuente!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help by this fountain!\"",
+				"msg_says": "%s\"¡Necesito ayuda junto a la fuente!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"sink" : 
 			{
-				"text": "I need help by this sink!",
+				"text": "¡Necesito ayuda junto a este fregadero!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help by this sink!\"",
+				"msg_says": "%s\"¡Necesito ayuda junto a este fregadero!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"teleporter" : 
 			{
-				"text": "I need help by this teleporter!",
+				"text": "¡Necesito ayuda junto a este teletransportador!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help by this teleporter!\"",
+				"msg_says": "%s\"¡Necesito ayuda junto a este teletransportador!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"teleporter_up" : 
 			{
-				"text": "I need help by this ladder!",
+				"text": "¡Necesito ayuda junto a esta escalera!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help by this ladder!\"",
+				"msg_says": "%s\"¡Necesito ayuda junto a esta escalera!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"teleporter_down" : 
 			{
-				"text": "I need help by this ladder!",
+				"text": "¡Necesito ayuda junto a esta escalera!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help by this ladder!\"",
+				"msg_says": "%s\"¡Necesito ayuda junto a esta escalera!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"bomb" : 
 			{
-				"text": "I need help by this %s!",
+				"text": "¡Necesito ayuda junto a esta %s!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help by this %s!\"",
+				"msg_says": "%s\"¡Necesito ayuda junto a esta %s!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"collider" : 
 			{
-				"text": "I need help with this breakable %s.",
+				"text": "¡Necesito ayuda con esto breakable %s.",
 				"word_highlights" : [6],
-				"msg_says": "%s\"I need help with this breakable %s.\"",
+				"msg_says": "%s\"¡Necesito ayuda con esto breakable %s.\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			}
@@ -1210,11 +1218,29 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Let's move here!",
+				"text": "¡Vayamos allí!",
 				"word_highlights" : [],
-				"msg_says": "%s\"Let's move here!\"",
+				"msg_says": "%s\"¡Vayamos allí!\"",
 				"world_icon": "tag_move",
 				"world_icon_small": "mini_move"
+			}
+		}]
+	},
+	{
+		"action": "thanks",
+		"id": 11,
+		"path": "#*images/ui/CalloutWheel/icons/btn_player_up.png",
+		"path_hover": "#*images/ui/CalloutWheel/icons/btn_player_up_hover.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "¡Gracias, %s!",
+				"word_highlights" : [1],
+				"msg_emote": "¡%s agradece %s!",
+				"msg_emote_you": "¡Agracedes a %s!",
+				"msg_emote_to_you": "¡%s te lo agradece!",
+				"world_icon": "thanks",
+				"world_icon_small": "mini_spot"
 			}
 		}]
 	},
@@ -1226,235 +1252,245 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Give a thumbs up.",
+				"text": "Dar pulgar arriba.",
 				"word_highlights" : [],
-				"msg_emote_you": "You give a thumbs up!",
-				"msg_emote": "%s gives a thumbs up!",
+				"msg_emote_you": "¡Has dado un pulgar arriba!",
+				"msg_emote": "¡%s da un pulgar arriba!",
 				"world_icon": "tag_good",
 				"world_icon_small": "mini_yes"
 			},
+			"player_thanks":
+			{
+				"text": "Gracias %s",
+				"word_highlights" : [1],
+				"msg_emote": "¡%s agradece a %s!",
+				"msg_emote_you": "Le das las gracias a %s",
+				"msg_emote_to_you": "¡%s te agradece!",
+				"world_icon": "thanks",
+				"world_icon_small": "mini_spot"
+			},
 			"location" :
 			{
-				"text": "Give a thumbs up here.",
+				"text": "Dar pulgar arriba aquí.",
 				"word_highlights" : [],
-				"msg_emote_you": "You give a thumbs up here!",
-				"msg_emote": "%s gives a thumbs up here!",
+				"msg_emote_you": "¡Das un pulgar arriba aquí!",
+				"msg_emote": "¡%s da un pulgar arriba aquí!",
 				"world_icon": "tag_good",
 				"world_icon_small": "mini_yes"
 			},
 			"item" : 
 			{
-				"text": "This %s is good.",
+				"text": "El objeto %s es bueno.",
 				"word_highlights" : [1],
-				"msg_says": "%s\"This %s is good.\"",
+				"msg_says": "%s\"El objeto %s es bueno.\"",
 				"world_icon": "tag_good-item",
 				"world_icon_small": "mini_yes"
 			},
 			"item_an" : 
 			{
-				"text": "This %s is good.",
+				"text": "El objeto %s es bueno.",
 				"word_highlights" : [1],
-				"msg_says": "%s\"This %s is good.\"",
+				"msg_says": "%s\"El objeto %s es bueno.\"",
 				"world_icon": "tag_good-item",
 				"world_icon_small": "mini_yes"
 			},
 			"npc" : 
 			{
-				"text": "This %s needs to be dealt with.",
+				"text": "Debemos lidiar con %s .",
 				"word_highlights" : [1],
-				"msg_says": "%s\"This %s needs to be dealt with.\"",
+				"msg_says": "%s\"Debemos lidiar con %s .\"",
 				"world_icon": "tag_good-NPC",
 				"world_icon_small": "mini_move"
 			},
 			"npc_named" : 
 			{
-				"text": "%s needs to be dealt with.",
+				"text": "Debemos lidiar con %s .",
 				"word_highlights" : [0],
-				"msg_says": "%s\"%s needs to be dealt with.\"",
+				"msg_says": "%s\"Debemos lidiar con %s .\"",
 				"world_icon": "tag_good-NPC",
 				"world_icon_small": "mini_move"
 			},
 			"npc_an" : 
 			{
-				"text": "This %s needs to be dealt with.",
+				"text": "Hay que encargarse de %s .",
 				"word_highlights" : [1],
-				"msg_says": "%s\"This %s needs to be dealt with.\"",
+				"msg_says": "%s\"Hay que encargarse de %s.\"",
 				"world_icon": "tag_good-NPC",
 				"world_icon_small": "mini_move"
 			},
 			"npc_enemy_named" : 
 			{
-				"text": "Attack %s!",
+				"text": "¡Ataca a %s!",
 				"word_highlights" : [1],
-				"msg_says": "%s\"Attack %s!\"",
+				"msg_says": "¡%s\"Ataca a %s!\"",
 				"world_icon": "tag_good-NPC",
 				"world_icon_small": "mini_move"
 			},
 			"npc_enemy" : 
 			{
-				"text": "Attack the %s!",
+				"text": "¡Ataca al enemigo %s!",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Attack the %s!\"",
+				"msg_says": "%s\"¡Ataca al enemigo %s!\"",
 				"world_icon": "tag_good-NPC",
 				"world_icon_small": "mini_move"
 			},
 			"npc_ally" : 
 			{
-				"text": "Our ally %s is up to the task.",
+				"text": "Nuestro camarada %s es una persona capaz.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Our ally %s is up to the task.\"",
+				"msg_says": "%s\"Nuestro camarada %s es una persona capaz.\"",
 				"world_icon": "tag_good",
 				"world_icon_small": "mini_yes"
 			},
 			"chest" : 
 			{
-				"text": "I'll check the chest.",
+				"text": "Revisaré el cofre.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"I'll check the chest.\"",
+				"msg_says": "%s\"Revisaré el cofre.\"",
 				"world_icon": "tag_good-item",
 				"world_icon_small": "mini_yes"
 			},
 			"switch_on" : 
 			{
-				"text": "Turn that switch off!",
+				"text": "¡Apaga ese interruptor!",
 				"word_highlights" : [2, 3],
-				"msg_says": "%s\"Turn that switch off!\"",
+				"msg_says": "%s\"¡Apaga ese interruptor!\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_yes"
 			},
 			"switch_off" : 
 			{
-				"text": "Turn that switch on!",
+				"text": "¡Enciende ese interruptor!",
 				"word_highlights" : [2, 3],
-				"msg_says": "%s\"Turn that switch on!\"",
+				"msg_says": "%s\"¡Enciende ese interruptor!\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_yes"
 			},
 			"switch" : 
 			{
-				"text": "Go ahead and use that switch.",
+				"text": "Ve y usa ese interruptor.",
 				"word_highlights" : [5],
-				"msg_says": "%s\"Go ahead and use that switch.\"",
+				"msg_says": "%s\"Ve y usa ese interruptor.\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_yes"
 			},
 			"boulder" : 
 			{
-				"text": "That boulder needs to be handled.",
+				"text": "Hay que lidiar con ese pedrusco.",
 				"word_highlights" : [1],
-				"msg_says": "%s\"That boulder needs to be handled.\"",
+				"msg_says": "%s\"Hay que lidiar con ese pedrusco.\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_yes"
 			},
 			"trap" : 
 			{
-				"text": "I think that %s is safe.",
+				"text": "Creo que estamos a salvo de la %s.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"I think that %s is safe.\"",
+				"msg_says": "%s\"Creo que estamos a salvo de la %s.\"",
 				"world_icon": "tag_good-trap",
 				"world_icon_small": "mini_yes"
 			},
 			"generic_interactable" : 
 			{
-				"text": "This %s is ready to use.",
+				"text": "Ya es posible interactuar con %s .",
 				"word_highlights" : [1],
-				"msg_says": "%s\"This %s is ready to use.\"",
+				"msg_says": "%s\"Ya es posible interactuar con %s .\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_spot"
 			},
 			"shrine" : 
 			{
-				"text": "I'll use the shrine.",
+				"text": "Usaré el santuario.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"I'll use the shrine.\"",
+				"msg_says": "%s\"Usaré el santuario.\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_spot"
 			},
 			"exit" : 
 			{
-				"text": "I'm ready to use the exit.",
+				"text": "Estoy disponible para usar la salida.",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I'm ready to use the exit.\"",
+				"msg_says": "%s\"Estoy disponible para usar la salida.\"",
 				"world_icon": "tag_move-exit",
 				"world_icon_small": "mini_move"
 			},
 			"secret_exit" : 
 			{
-				"text": "Let's leave the secret level.",
+				"text": "Salgamos del piso secreto.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"Let's get out of this place!\"",
+				"msg_says": "%s\"¡Salgamos de aquí!\"",
 				"world_icon": "tag_move-exit",
 				"world_icon_small": "mini_move"
 			},
 			"secret_entrance" : 
 			{
-				"text": "Let's take the secret path.",
+				"text": "Vayamos por el camino secreto.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"Let's take the secret path.\"",
+				"msg_says": "%s\"Vayamos por el camino secreto.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"gold" : 
 			{
-				"text": "I'll carry the gold.",
+				"text": "Yo llevaré el oro.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"I'll carry the gold.\"",
+				"msg_says": "%s\"Yo llevaré el oro.\"",
 				"world_icon": "tag_good-item",
 				"world_icon_small": "mini_yes"
 			},
 			"fountain" : 
 			{
-				"text": "I'll use the fountain.",
+				"text": "Usaré la fuente",
 				"word_highlights" : [3],
-				"msg_says": "%s\"I'll use the fountain.\"",
+				"msg_says": "%s\"Usaré la fuente.\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_spot"
 			},
 			"sink" : 
 			{
-				"text": "I'll use the sink.",
+				"text": "Usaré el fregadero.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"I'll use the sink.\"",
+				"msg_says": "%s\"Usaré el fregadero.\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_spot"
 			},
 			"teleporter" : 
 			{
-				"text": "I'll go through the teleporter.",
+				"text": "Iré a través del teletransportador.",
 				"word_highlights" : [4],
-				"msg_says": "%s\"I'll go through the teleporter.\"",
+				"msg_says": "%s\"Iré a través del teletransportador.\"",
 				"world_icon": "tag_move-exit",
 				"world_icon_small": "mini_move"
 			},
 			"teleporter_up" : 
 			{
-				"text": "I'm climbing up this ladder.",
+				"text": "Estoy subiendo por la escalera.",
 				"word_highlights" : [4],
-				"msg_says": "%s\"I'm climbing up this ladder.\"",
+				"msg_says": "%s\"Estoy subiendo por la escalera.\"",
 				"world_icon": "tag_move-exit",
 				"world_icon_small": "mini_move"
 			},
 			"teleporter_down" : 
 			{
-				"text": "I'm climbing down the ladder.",
+				"text": "Estoy bajando por la escalera.",
 				"word_highlights" : [4],
-				"msg_says": "%s\"I'm climbing down the ladder.\"",
+				"msg_says": "%s\"Estoy bajando por la escalera.\"",
 				"world_icon": "tag_move-exit",
 				"world_icon_small": "mini_move"
 			},
 			"bomb" : 
 			{
-				"text": "This %s is good to go.",
+				"text": "La bomba %s está lista.",
 				"word_highlights" : [1],
-				"msg_says": "%s\"This %s is good to go.\"",
+				"msg_says": "%s\"La bomba %s está lista.\"",
 				"world_icon": "tag_good-trap",
 				"world_icon_small": "mini_yes"
 			},
 			"collider" : 
 			{
-				"text": "Let's bust through this %s.",
+				"text": "Atravesemos esta %s.",
 				"word_highlights" : [4],
-				"msg_says": "%s\"Let's bust through this %s.\"",
+				"msg_says": "%s\"Atravesemos esta %s.\"",
 				"world_icon": "tag_good-NPC",
 				"world_icon_small": "mini_help"
 			}
@@ -1468,129 +1504,129 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Give a thumbs down.",
+				"text": "Dar pulgar abajo.",
 				"word_highlights" : [],
-				"msg_emote_you": "You give a thumbs down.",
+				"msg_emote_you": "¡Has dado un pulgar abajo!.",
 				"msg_emote": "%s gives a thumbs down.",
 				"world_icon": "tag_bad",
 				"world_icon_small": "mini_no"
 			},
 			"location" :
 			{
-				"text": "Give a thumbs down here.",
+				"text": "Dar pulgar abajo aquí.",
 				"word_highlights" : [],
-				"msg_emote_you": "You give a thumbs down here.",
-				"msg_emote": "%s gives a thumbs down here.",
+				"msg_emote_you": "Has dado un pulgar abajo aquí.",
+				"msg_emote": "%s da un pulgar abajo aquí.",
 				"world_icon": "tag_bad",
 				"world_icon_small": "mini_no"
 			},
 			"item" : 
 			{
-				"text": "This %s is no good for me.",
+				"text": "El objeto %s para mi no es bueno.",
 				"word_highlights" : [1],
-				"msg_says": "%s\"This %s is no good for me.\"",
+				"msg_says": "%s\"El objeto %s para mi no es bueno.\"",
 				"world_icon": "tag_bad-item",
 				"world_icon_small": "mini_no"
 			},
 			"item_an" : 
 			{
-				"text": "This %s is no good for me.",
+				"text": "El objeto %s para mi no es bueno.",
 				"word_highlights" : [1],
-				"msg_says": "%s\"This %s is no good for me.\"",
+				"msg_says": "%s\"El objeto %s para mi no es bueno.\"",
 				"world_icon": "tag_bad-item",
 				"world_icon_small": "mini_no"
 			},
 			"npc" : 
 			{
-				"text": "Avoid that %s!",
+				"text": "¡Evita a %s!",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Avoid that %s!\"",
+				"msg_says": "%s\"¡Evita a %s!\"",
 				"world_icon": "tag_bad-NPC",
 				"world_icon_small": "mini_no"
 			},
 			"npc_named" : 
 			{
-				"text": "Avoid %s!",
+				"text": "¡Evita a %s!",
 				"word_highlights" : [1],
-				"msg_says": "%s\"Avoid %s!\"",
+				"msg_says": "%s\"¡Evita a %s!\"",
 				"world_icon": "tag_bad-NPC",
 				"world_icon_small": "mini_no"
 			},
 			"npc_an" : 
 			{
-				"text": "Avoid that %s!",
+				"text": "¡Evita a %s!",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Avoid that %s!\"",
+				"msg_says": "%s\"¡Evita a %s!\"",
 				"world_icon": "tag_bad-NPC",
 				"world_icon_small": "mini_no"
 			},
 			"npc_enemy_named" : 
 			{
-				"text": "Flee from %s!",
+				"text": "¡Escapa de %s!",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Flee from %s!\"",
+				"msg_says": "%s\"¡Escapa de %s!\"",
 				"world_icon": "tag_move-NPC",
 				"world_icon_small": "mini_danger"
 			},
 			"npc_enemy" : 
 			{
-				"text": "Flee from the %s!",
+				"text": "Escapar de la criatura %s",
 				"word_highlights" : [3],
-				"msg_says": "%s\"Flee from the %s!\"",
+				"msg_says": "%s\"¡%s! ¡Escapa de la criatura!\"",
 				"world_icon": "tag_move-NPC",
 				"world_icon_small": "mini_danger"
 			},
 			"npc_ally" : 
 			{
-				"text": "Our ally %s isn't up to the task.",
+				"text": "%s no está a la altura de las circunstancias.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Our ally %s isn't up to the task.\"",
+				"msg_says": "%s\"Nuestro camarada %s no está a la altura de las circunstancias.\"",
 				"world_icon": "tag_bad",
 				"world_icon_small": "mini_no"
 			},
 			"chest" : 
 			{
-				"text": "Nothing useful in this chest.",
+				"text": "No hay nada interesante dentro del cofre.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Nothing useful in this chest.\"",
+				"msg_says": "%s\"No hay nada interesante dentro del cofre.\"",
 				"world_icon": "tag_bad-item",
 				"world_icon_small": "mini_no"
 			},
 			"switch_on" : 
 			{
-				"text": "Leave that switch on!",
+				"text": "¡Deja encendido ese interruptor!",
 				"word_highlights" : [2, 3],
-				"msg_says": "%s\"Leave that switch on!\"",
+				"msg_says": "%s\"¡Deja encendido ese interruptor!\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"switch_off" : 
 			{
-				"text": "Leave that switch off!",
+				"text": "¡Deja apagado ese interruptor!",
 				"word_highlights" : [2, 3],
-				"msg_says": "%s\"Leave that switch off!\"",
+				"msg_says": "%s\"¡Deja apagado ese interruptor!\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"switch" : 
 			{
-				"text": "Don't touch that switch!",
+				"text": "¡No toques ese el interruptor!",
 				"word_highlights" : [3],
-				"msg_says": "%s\"Don't touch that switch!\"",
+				"msg_says": "%s\"¡No toques ese el interruptor!\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"boulder" : 
 			{
-				"text": "Watch out for that boulder!",
+				"text": "¡Ten cuidado con ese pedrusco!",
 				"word_highlights" : [4],
-				"msg_says": "%s\"Watch out for that boulder!\"",
+				"msg_says": "%s\"¡Ten cuidado con ese pedrusco!\"",
 				"world_icon": "tag_move-NPC",
 				"world_icon_small": "mini_danger"
 			},
 			"trap" : 
 			{
-				"text": "That %s could be trouble.",
+				"text": "Esa %s pudo haber sido letal.",
 				"word_highlights" : [1],
 				"msg_says": "%s\"That %s could be trouble.\"",
 				"world_icon": "tag_bad-trap",
@@ -1598,105 +1634,105 @@
 			},
 			"generic_interactable" : 
 			{
-				"text": "Don't use that %s.",
+				"text": "No interactues con %s.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"Don't use that %s.\"",
+				"msg_says": "%s\"No interactues con %s.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"shrine" : 
 			{
-				"text": "Don't use that shrine.",
+				"text": "No uses ese santuario.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"Don't use that shrine.\"",
+				"msg_says": "%s\"No uses ese santuario.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"exit" : 
 			{
-				"text": "I'm not ready to use the exit.",
+				"text": "No me he preparado para usar la salida.",
 				"word_highlights" : [6],
-				"msg_says": "%s\"I'm not ready to leave yet.\"",
+				"msg_says": "%s\"Aún no me he preparado para usar la salida.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"secret_exit" : 
 			{
-				"text": "I'm not ready to leave the secret level.",
+				"text": "No me he prepaarado para salir del piso secreto.",
 				"word_highlights" : [6, 7],
-				"msg_says": "%s\"I'm not ready to leave this place yet.\"",
+				"msg_says": "%s\"Aún no me he preparado para salir de este lugar.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"secret_entrance" : 
 			{
-				"text": "We should avoid the secret path.",
+				"text": "Deberíamos evitar el camino secreto.",
 				"word_highlights" : [4, 5],
-				"msg_says": "%s\"We should avoid the secret path.\"",
+				"msg_says": "%s\"Deberíamos evitar el camino secreto.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"gold" : 
 			{
-				"text": "I don't need this gold.",
+				"text": "No necesito este oro.",
 				"word_highlights" : [4],
-				"msg_says": "%s\"I don't need this gold.\"",
+				"msg_says": "%s\"No necesito este oro.\"",
 				"world_icon": "tag_bad-item",
 				"world_icon_small": "mini_no"
 			},
 			"fountain" : 
 			{
-				"text": "This fountain is no good for me.",
+				"text": "Esta fuente no es buena para mi.",
 				"word_highlights" : [1],
-				"msg_says": "%s\"This fountain is no good for me.\"",
+				"msg_says": "%s\"Esta fuente no es buena para mi.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"sink" : 
 			{
-				"text": "This sink is no good for me.",
+				"text": "Este fregadero no es bueno para mi.",
 				"word_highlights" : [1],
-				"msg_says": "%s\"This sink is no good for me.\"",
+				"msg_says": "%s\"Este fregadero no es bueno para mi.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"teleporter" : 
 			{
-				"text": "I'm not ready to go through the teleporter yet.",
+				"text": "Aún no me he preparado para atravesar el portal.",
 				"word_highlights" : [7],
-				"msg_says": "%s\"I'm not ready to go through the teleporter yet.\"",
+				"msg_says": "%s\"Aún no me he preparado para atravesar el portal.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"teleporter_up" : 
 			{
-				"text": "I'm not ready to ascend just yet.",
+				"text": "Aún no me he preparado para ascender.",
 				"word_highlights" : [],
-				"msg_says": "%s\"I'm not ready to ascend just yet.\"",
+				"msg_says": "%s\"Aún no me he preparado para ascender.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"teleporter_down" : 
 			{
-				"text": "I'm not ready to descend just yet.",
+				"text": "Aún no me he preparado para desscender.",
 				"word_highlights" : [],
-				"msg_says": "%s\"I'm not ready to descend just yet.\"",
+				"msg_says": "%s\"Aún no me he preparado para descender.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"bomb" : 
 			{
-				"text": "Leave this %s alone.",
+				"text": "No toques la %s.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Leave this %s alone.\"",
+				"msg_says": "%s\"No toques la %s.\"",
 				"world_icon": "tag_bad-trap",
 				"world_icon_small": "mini_no"
 			},
 			"collider" : 
 			{
-				"text": "Leave that %s alone.",
+				"text": "No toques la %s.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Leave that %s alone.\"",
+				"msg_says": "%s\"No toques la %s.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			}
@@ -1727,27 +1763,27 @@
 		"text_maps": [{
 			"skill_missing_leader" : 
 			{
-				"text": "Missing skill / stat requirement: %d / %d",
+				"text": "Habilidad faltante / requiere estadística: %d / %d",
 				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
 			},
 			"skill_missing_tinker" : 
 			{
-				"text": "Missing skill / stat requirement: %d / %d ",
+				"text": "Habilidad faltante / requiere estadistica: %d / %d",
 				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
 			},
 			"command_unavailable" : 
 			{
-				"text": "Command unavailable for %s",
+				"text": "Comando no disponible para %s",
 				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
 			},
 			"rest_cooldown" : 
 			{
-				"text": "You may only use this command once per floor",
+				"text": "Solo puedes usar este comando una vez por piso",
 				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
 			},
 			"tinker_quality_low" : 
 			{
-				"text": "Higher quality %s required",
+				"text": "Se requiere %s de mejor calidad",
 				"word_highlights" : [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
 			}
 		}]
