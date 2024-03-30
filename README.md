@@ -15,7 +15,7 @@
 - [ ] Historia y Cinemáticas
 - [ ] Texto General
 - [x] Nombres de Objetos y Descripciones
-- [ ] Datos de Texto del Menú
+- [x] Datos de Texto del Menú
 - [x] Textos en los Letreros del Tutorial
 - [x] Fuentes
 
