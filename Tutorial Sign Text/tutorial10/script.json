@@ -111,7 +111,7 @@
         },
         "tutorial10c": {
             "sign": [
-				"Los mercaderes te tratarán",
+				"Los comerciantes te tratarán",
 				"de manera diferente si estás",
 				"bajo los efectos de polimorfia.",
 				"",
@@ -184,7 +184,7 @@
         },
         "tutorial10e": {
             "sign": [
-				"Los mercaderes no",
+				"Los comerciantes no",
 				"pagarán mucho por una",
 				"gema no tasada, ¡podría",
 				"ser un vidrio inserdible!",
@@ -225,14 +225,14 @@
         },
         "tutorial10f": {
             "sign": [
-				"Si se mata a un mercader,",
+				"Si se mata a un comerciante,",
 				"este dejará caer todo lo",
 				"que estaba vendiendo.",
 				"Pero la noticia se extiende",
 				"rápidamente en las mazmorras.",
 				"",
 				"Los enemigos del",
-				"Gremio de Mercaderes son",
+				"Gremio de Comerciantes son",
 				"atacados a primera vista."
             ],
             "attributes": {
@@ -268,7 +268,7 @@
         },
         "tutorial10g": {
             "sign": [
-				"Los mercaderes tienen un",
+				"Los comerciantes tienen un",
 				"gran entrenamiento en defensa",
 				"personal, y tratarán de",
 				"aniquilar a todos los",
@@ -301,7 +301,7 @@
         },
         "tutorial10h": {
             "sign": [
-				"Cada mercader comercia",
+				"Cada comerciante comercia",
 				"en una categoría específica",
 				"de bienes.",
 				"",
@@ -359,7 +359,7 @@
         },
         "tutorial10h_gamepad": {
             "sign": [
-				"Cada mercader comercia",
+				"Cada comerciante comercia",
 				"en una categoría específica",
 				"de bienes.",
 				"",
@@ -422,7 +422,7 @@
 				"venderlos.",
 				"",
 				"Pulsa$en los objetos en el",
-				"inventario del mercader",
+				"inventario del comerciante",
 				"para comprar."
             ],
             "attributes": {
@@ -469,7 +469,7 @@
 				"venderlos.",
 				"",
 				"Pulsa$en los objetos en el",
-				"inventario del mercader",
+				"inventario del comerciante",
 				"para comprar."
             ],
             "attributes": {
@@ -512,7 +512,7 @@
         "tutorial10j": {
             "sign": [
 				"Puedes comenzar a comerciar",
-				"acercándote a los mercaderes",
+				"acercándote a los comerciantes",
 				"y pulsar$.",
 				"",
 				"Para cerrar la tienda,",
@@ -549,7 +549,7 @@
         "tutorial10j_gamepad": {
             "sign": [
 				"Puedes comenzar a comerciar",
-				"acercándote a los mercaderes",
+				"acercándote a los comerciantes",
 				"y pulsar$.",
 				"",
 				"Para cerrar la tienda,",
@@ -619,7 +619,7 @@
 				"Esta gema puede ser arrojada",
 				"como cualquier roca, pero su",
 				"verdadero valor radica en lo que",
-				"un mercader pague por ella.",
+				"un comerciante pague por ella.",
 				"$",
 				"Maximiza el valor del comercio",
 				"con una habilidad de Comercio",
@@ -741,7 +741,7 @@
 				"monstruos, ni te alimentará.",
 				"$",
 				"Sin embargo, te permite",
-				"comerciar con los mercaderes."
+				"comerciar con los comerciantes."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1010,7 +1010,7 @@
         },
         "tutorial10t": {
             "sign": [
-				"Los Mercaderes",
+				"Los Comerciantes",
 				"de este comercio son",
 				"tu única opción para",
 				"equiparte adecuadamente",
@@ -1071,7 +1071,7 @@
 				"son tuyos para que los tomes.",
 				"",
 				"Los únicos objetos que le importan",
-				"a los mercaderes son aquellos que",
+				"a los comerciantes son aquellos que",
 				"se encuentran en sus inventarios."
             ],
             "attributes": {
