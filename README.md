@@ -26,8 +26,14 @@ La traducción ofrece una instalación independiente de Steam para aquellas pers
 
 
 ##  Instalación Manual
+<p align="center">
+    <a href="https://ibb.co/ftbmNmF"><img src="https://i.ibb.co/d6SnpnM/paso-1.png" alt="paso-1" border="0"></a>
+</p>
 
-Placeholder
+<p align="center">
+        <a href="https://ibb.co/zRRjYyK"><img src="https://i.ibb.co/1qqh5DH/paso-2.png" alt="paso-2" border="0"></a>
+
+</p>
 
 
 
