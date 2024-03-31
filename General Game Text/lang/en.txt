@@ -1662,7 +1662,7 @@ Pulsa 'Ok' para volver al Menú Principal.#
 #
 1134 Tu equipamiento ha sido identificado.
 #
-1135 Puntuación #
+1135 Puntaje #
 1136 Felicitaciones
 Has conseguido clasificar en el ranking.
 
@@ -1683,7 +1683,7 @@ Has conseguido clasificar en el ranking.
 1142 Como el resto del grupo ha fallecido,
 el host deberá crear una nueva partida o
 reiniciar la actual para poder continuar.#
-1143 Puntuación #
+1143 Puntaje #
 1144    Ok   #
 
 
@@ -5194,12 +5194,15 @@ Código de sala inválido.#
 
 5378 Desactivar Hambre#
 5379 Desactivar Minotauros
-Random#
+Aleatorios#
 5380 Activar Amuleto de
 Salvación#
-5381 Mantener Objetos al Morir#
-5382 Desactivar Trampas Aleatorias#
-5383 Desactivar Fuego Amigo#
+5381 Mantener Objetos al
+Morir#
+5382 Desactivar Trampas
+Aleatorias#
+5383 Desactivar Fuego
+Amigo#
 5384 Activar Modo
 Clásico#
 5385 Activar Modo
@@ -5215,12 +5218,13 @@ Hardcore#
 5390 LOGROS ACTIVADOS#
 
 5391 AJUSTES DE LOBBY#
-5392 Reglas del Juego#
-5393 Sólo Invitaciones#
-5394 Sólo Amistades#
+5392 Reglas del
+Juego#
+5393 Sólo Invitación#
+5394 Sólo Amigos#
 5395 Lobby Abierto#
-6018 Colocar Contador
-de Jugadores#
+6018 Contador de
+Jugadores#
 5396 ¡Esto echará a %s
 y %s!#
 5397 Esto echará a %s.
@@ -5229,7 +5233,8 @@ y %s!#
 5399 Volver#
 5400 Si#
 5401 No#
-5402 Echar Jugador#
+5402 Echar
+Jugador#
 5403 ¿Realmente quieres
 echar a %s?#
 
@@ -5265,7 +5270,7 @@ MP:#
 5428 Supervivencia:
 Complejidad:#
 5429 Ocultar info. de clase#
-5430 Mostrar info. de clase#
+5430 Ver info. de clase#
 5431 *** Espera %d segundos antes de sugerir otra clase. ***#
 5432 %s: Necesitamos un %s.#
 
@@ -5392,9 +5397,10 @@ Dirección IP#
 5534 Crossplay#
 
 5535 TUTORIALES#
-5536 Supera los 10 retos que enseñan y desafían tus habilidades, preparándote para enfrentar a la mazmorra!#
-5537 Desafíos#
-5538 Mejor Tiempo#
+5536 Retos que te prepararán para enfrentar la mazmorra#
+5537 Tests#
+5538  Mejor 
+Tiempo#
 5539 Centro#
 5540  El Salón de Desafíos#
 5541  Desafío 1: Conceptos Básicos y Combate Cuerpo a Cuerpo#
@@ -5408,7 +5414,7 @@ Dirección IP#
 5549  Desafío 9: Fabricar#
 5550  Desafío 10: Comerciantes y Comercios#
 5551  Tiempo Total#
-5552 Reiniciar 
+5552  Reiniciar 
 Progreso#
 5553 ¿Realmente deseas reiniciar tus
 mejores tiempos?#
@@ -5439,13 +5445,13 @@ en el puerto %hu.#
 
 5571 Juega solitario o con 2-%d
 jugadores en pantalla dividida local#
-5572 Crea una partida con 2-%d jugadores
+5572 Partida con 2-%d jugadores
 en una conexión inalámrbica#
-5573 Crea una partida con 2-%d jugadores
+5573 Partida con 2-%d jugadores
 en una conexión local (LAN)#
-5574 Crea una partida con 2-%d jugadores
+5574 Partida con 2-%d jugadores
 en Internet#
-5575 Crea una partida con 2-%d jugadores
+5575 Partida con 2-%d jugadores
 en el Internet (desactivado)#
 5576 Únete a una partida multijugador#
 5577 NUEVA AVENTURA#
@@ -5453,8 +5459,8 @@ en el Internet (desactivado)#
 5579 Crear Grupo
 Inalámbrico#
 5580 Crear Grupo LAN#
-5581 Crear Grupo Online#
-5582 Buscador de Lobbies#
+5581 Crear Grupo MP#
+5582 Buscar Lobbies#
 
 5583 Barony es un juego desafiante.
 ¿Quisieras jugar el tutorial primero?#
@@ -5464,7 +5470,7 @@ Inalámbrico#
 en el menú de Juego.#
 5587 Ok#
 5588 ¿Realmente quieres borrar
-la partida guardada "%s"?"#
+la partida "%s"?"#
 5589 Cuidado: Partida no jugada con mods.
 Ahora no posees hay mods iniciados.
 
@@ -5498,10 +5504,10 @@ Piso%d#
 5605 Borrar Partida#
 5606 Selecionar una partida para borrar.#
 5607 Ok#
-5608 Comenzar Mazmorra#
+5608 Iniciar Mazmorra#
 5609 Seleccionar una partida para iniciar.#
 
-5610 ARCHIVOS DE AVENTURA#
+5610 ARCHIVO DE AVENTURA#
 5611 LOGROS#
 5612 COMPEDIO DE LA MAZMORRA#
 5613 PUNTUACIONES#
@@ -5567,13 +5573,14 @@ al menú principal?#
 5702 ¡Nunca!#
 5703 ¿Los trasguitos
 te hicieron llorar?#
-5704 Si#
-5705 No#
+5704 Si T-T#
+5705 ¡Nunca!#
 5706 Solo cancela tus planes.
 Esperaré.#
 5707 Buena suerte#
 5708 Claro#
-5709 De todos modos, ¡no podrías matar al lich!.#
+5709 De todos modos
+ no podrías matar al lich.#
 5710 Tienes razón#
 5711 ¿Ah, si?#
 5712 ¡No sabes jugar!
@@ -5581,7 +5588,7 @@ Esperaré.#
 5713 Soy la furia#
 5714 Ok#
 5715 ¡Los gnomos se ríen de ti!
-¿Realmente va a permitir eso?#
+¿Realmente lo permitirás?#
 5716 Sipi :(#
 5717 ¡Jamás!#
 5718 ¡No te vayas! ¡Hay una
@@ -5654,10 +5661,10 @@ te echo de este juego.#
 5771 SALIR AL MENÚ#
 5772 SALIR AL ESCRITORIO#
 5773 JUGAR#
-5774 JUGAR JUEGO#
-5775 JUGAR JUEGO CON MODS#
+5774 COMENZAR PARTIDA#
+5775 PARTIDA CON MODS#
 5776 DESACTIVAR MODS#
-5777 ARCHIVOS DE AVENTURA#
+5777 ARCHIVO DE AVENTURA#
 5778 CONFIGURACIÓN#
 5779 EDITOR#
 5780 SALIR#
@@ -5936,7 +5943,8 @@ espere#
 5952 Reintentar
 Subida#
 5953 Código de Error: #
-5954 DIFICULTAD PERSONALIZADA#
+5954 PERSONALIZAR
+DIFICULTAD#
 5955 No se encontraron objetos del Workshop.#
 
 5956 Equipar#
@@ -6122,7 +6130,7 @@ intro - God Rest Ye Merry Gentlemen por NaturesEye#
 6052 Tu grupo fue derrotada...#
 6053 PERSONALIZAR REGLAS#
 6054 SEMILLA PERSONALIZADA#
-6055 Ingresar nombre de semilla...#
+6055 Nombre de semilla...#
 6056 Nada#
 6057 Aqui ya hace
 %s
@@ -6136,8 +6144,8 @@ Intentar más tarde.#
 6063 Cercanías#
 6064 Victorias#
 6065 Derrotas#
-6066 Mejor Puntaje#
-6067 Mejor Tiempo#
+6066 Mejor Ptje#
+6067 Mejor Tiemp.#
 6068 Solitario#
 6069 Co-op#
 6070 Humanos#
@@ -6149,8 +6157,8 @@ Filtro#
 6075 Ciudadela#
 6076 Clásico#
 6077 Infierno#
-6078 Filtros de Tabla de Puntuación#
-6079 Tabla de Puntuación
+6078 Filtros de Tabla#
+6079 Tabla de Puntajes
 Filtros#
 6080 Profundidad#
 6081 ¡El mimeto se abre!#
@@ -6213,7 +6221,7 @@ Event:#
 clasificar! Solo Modo Local.#
 6121 ¡Enfrenta eventos semanales!
 En Solitario o Multijugador.#
-6122 ¡Eventos variados cada fin de semana!
+6122 Eventos nuevos cada fin de semana
 ¡Para un jugador y multijugador!#
 6123 Archivos guardados no coinciden.
 Incongruiencia de LID.#
@@ -6285,7 +6293,7 @@ resultados.#
 6158 Detalles:#
 6159 Raza:#
 6160 Clase:#
-6161 Todos#
+6161 Todas#
 6162 Modo de Juego:#
 6163 Evento Activo:#
 6164 Habilidades:#
@@ -6307,4 +6315,4 @@ para participar.#
 "%s"
 para jugar esta clase.#
 
-6200 END#
+6200 FIN#
