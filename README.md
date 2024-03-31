@@ -38,8 +38,8 @@ Placeholder
 ### Agradecimientos
 * Turning Wheel LLC por Barony por su [lanzamiento Open-Source](https://github.com/TurningWheel/Barony) y su dehardcoding de textos para facilitar el proceso de traducción.
 * _LordDestroHD_, _Adrii_,  y su equipo por los adelantos en la traducción Pre v3.7.7.
-* Kyara Fujimori y FrankySniper por sus esfuerzos de traducción Post v3.7.7 
-* El grupo de discord [Barony en Español](https://discord.gg/SqZTwQV) por la comunidad hispanohablante.
+* Kyara _Fujimori_ y _FrankySniper_ por sus esfuerzos de traducción Post v3.7.7 
+* Al grupo de discord [Barony en Español](https://discord.gg/SqZTwQV) por su comunidad hispanohablante.
 * _suquinho de chorume_ por la [traducción PT-BR](https://steamcommunity.com/sharedfiles/filedetails/?id=2613956785)
 
 
