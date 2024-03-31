@@ -10,7 +10,7 @@ La traducción ofrece una instalación independiente de Steam para aquellas pers
 
 ##
 
-<p align="left">
+<p align="center">
   <img src="https://images.squarespace-cdn.com/content/v1/64409ed03c29a863fc1d0bdf/2a03bd65-0ed7-4228-a540-f579df404e84/EatMyHat.png?format=250w"/>
 </p>
 
@@ -36,7 +36,7 @@ Placeholder
 
 
 ### Agradecimientos
-* Turning Wheel LLC por Barony por su [lanzamiento Open-Source](https://github.com/TurningWheel/Barony) y su dehardcoding de textos para facilitar el proceso de traducción.
+* Turning Wheel LLC por Barony por su [lanzamiento Open-Source](https://github.com/TurningWheel/Barony) y su dehardcoding de textos para facilitar el proceso de traducción Pre v3.7.7.
 * _LordDestroHD_, _Adrii_,  y su equipo por los adelantos en la traducción.
 * Kyara Fujimori y FrankySniper por sus esfuerzos de traducción Post v3.7.7 
 * El grupo de discord [Barony en Español](https://discord.gg/SqZTwQV) por la comunidad hispanohablante.
