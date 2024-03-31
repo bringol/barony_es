@@ -1662,7 +1662,7 @@ Pulsa 'Ok' para volver al Menú Principal.#
 #
 1134 Tu equipamiento ha sido identificado.
 #
-1135 Puntuación #
+1135 Puntaje #
 1136 Felicitaciones
 Has conseguido clasificar en el ranking.
 
@@ -1683,7 +1683,7 @@ Has conseguido clasificar en el ranking.
 1142 Como el resto del grupo ha fallecido,
 el host deberá crear una nueva partida o
 reiniciar la actual para poder continuar.#
-1143 Puntuación #
+1143 Puntaje #
 1144    Ok   #
 
 
@@ -3759,7 +3759,7 @@ ingrediente alquímico secundario %s #
 3471 ¡No hay espacio para invocar un demonio interno!#
 3472 ¡Eres incapaz de coaccionar un demonio fuera de %s!#
 3473 ¡Eres incapaz de coaccionar un demonio fuera de %s!#
-3474 HT#
+3474 KLR#
 3475 Tu piel se resquebraja a medida que se disipa la polimorfia...#
 3476 Tu regeneración de vida vuelve a la normalidad.#
 3477 Tu regeneración de maná vuelve a la normalidad.#
@@ -4307,158 +4307,158 @@ antes de negociar!#
 3992 DEPRECATED#
 3993 DEPRECATED#
 3994 DEPRECATED#
-3995 You have no items able to be uncursed!#
-3996 You have no items able to be identified!#
-3997 You have no room left in your pack to unequip a 
- %s!#
+3995 No tienes objetos que se puedan desmaldecir#
+3996 No tienes objetos que se puedan identificar#
+3997 No hay lugar en tu mochila para desequipar 
+ %s#
 # World UI Tooltips
-3998 (Hold) #
-3999 Salvage item#
-4000 Pick up item#
-4001 Take gold#
-4002 Drink from fountain#
-4003 Drink from sink#
-4004 Close chest#
-4005 Open chest#
-4006 Salvage torch#
-4007 Take torch#
-4008 Salvage shard#
-4009 Take shard#
-4010 Inspect gravestone#
-4011 follower#
-4012 Command #
-4013 Trade with #
-4014 Interact with #
-4015 Close door#
-4016 Open door#
-4017 Inspect gate#
-4018 Deactivate switch#
-4019 Activate switch#
-4020 Turn crystal#
-4021 Push boulder#
-4022 Take orb#
-4023 Inspect#
-4024 Pull torch#
-4025 Read sign#
-4026 Disarm beartrap#
-4027 Inspect trapdoor#
-4028 Exit secret level#
-4029 Enter secret level#
-4030 Exit dungeon floor#
-4031 Exit Hamlet#
-4032 Step through portal#
-4033 Enter trial#
-4034 Exit trial#
-4035 Enter portal#
-4036 Enter trapdoor#
-4037 Descend ladder#
-4038 Climb ladder#
-4039 Disarm #
-4040 Interact#
+3998 (Mantén) #
+3999 Reciclar objeto#
+4000 Recoger objeto#
+4001 Recoger oro#
+4002 Beber de la fuente#
+4003 Beber del fregadero#
+4004 Cerrar cofre#
+4005 Abrir cofre#
+4006 Reciclar antorcha#
+4007 Recoger antorcha#
+4008 Reciclar vidrio roto#
+4009 Recoger vidrio roto#
+4010 Inspeccionar lápida#
+4011 Seguidor#
+4012 Comandar #
+4013 Comerciar con #
+4014 Interactuar con #
+4015 Cerrar puerta#
+4016 Abrir puerta#
+4017 Inspeccionar puertas#
+4018 Desactivar interruptor#
+4019 Activar interruptor#
+4020 Girar cristal#
+4021 Empujar pedrusco#
+4022 Recoger orbe#
+4023 Inspeccionar#
+4024 Mover antorcha#
+4025 Leer cartel#
+4026 Desarmar trampa de oso#
+4027 Inspeccionar trampilla#
+4028 Salir del nivel secreto#
+4029 Entrar al nivel secreto#
+4030 Salir del nivel#
+4031 Salir de Hamlet#
+4032 Pasar a través portal#
+4033 Entrar al desafío#
+4034 Salir del desafío#
+4035 Atravesar portal#
+4036 Entrar a la trampilla#
+4037 Descender escalera#
+4038 Subir escalera#
+4039 Desarmar #
+4040 Interactuar#
 # Follower interact text
-4041 Interact with...#
-4042 Attack...#
-4043 Attack #
-4044 switch#
-4045 trap#
-4046 item#
-4047 No interactions available#
-4048 You don't feel like yourself.#
-4049 Quickcast#
-4050 Grab#
-4051 Level %d#
-4052 Floor %d#
-4053 Close#
-4054 Next Page#
-4055 Previous Page#
-4056 LEGEND BONUS#
-4057 None#
-4058 All items#
+4041 Interactuar con...#
+4042 Atacar...#
+4043 Atacar #
+4044 interruptor#
+4045 trampa#
+4046 objeto#
+4047 Interacciones no disponibles#
+4048 No te sientes como tu verdadero yo.#
+4049 Hechizo rápido#
+4050 Recoger#
+4051 Nivel %d#
+4052 Piso %d#
+4053 Cerrar#
+4054 Siguente página#
+4055 Página anterior#
+4056 BONUS LEGENDARIO#
+4057 Nada#
+4058 Todos los objetos#
 4059 %d Metal#
-4060 %d Magic#
-4061 Tier#
-4062 Scroll up/down#
-4063 Scroll#
-4064 Instant#
-4065 Any#
+4060 %d Magia#
+4061 Grado#
+4062 Desplazar arriba/abajo#
+4063 Desplazar#
+4064 Instante#
+4065 Cualquiera#
 # Skillsheet - Casting MP Regen for insectoid
 4066 N/A
-(Insectoid)#
+(Insectoide)#
 # Skillsheet - Casting MP Regen for automaton
 4067 N/A
 (Automaton)#
-4068 Guised#
-4069 OPEN MAP#
-4070 OPEN LOG#
-4071 MAP#
-4072 LOG#
-4073 You see a signpost.#
-4074 Skills List#
+4068 Disfrazado#
+4069 ABRIR MAPA#
+4070 VER REGISTRO#
+4071 MAPA#
+4072 REGISTRO#
+4073 Ves un cartel.#
+4074 Lista de Habilidades#
 # Action Prompts
-4075 Attack#
-4076 Defend#
-4077 Sneak#
-4078 Cast#
-4079 Spellbook
-Cast#
-4080 Lockpick#
-4081 Tinker#
-4082 Throw#
+4075 Atacar#
+4076 Defender#
+4077 Sigilo#
+4078 Canalizar#
+4079 Grimorio#
+4080 Ganzuar#
+4081 Fabricar#
+4082 Arrojar#
 4083 Zap#
-4084 Dig#
-4085 You can not drop gold here.#
-4086 View item details#
-4087 Hide item details#
-4088 You found %d gold pieces in the chest!#
-4089 The crab's pinching claws are poisonous!#
-4090 gets pinched to pieces by the clawing crab.#
+4084 Cavar#
+4085 Aquí no puedes soltar oro .#
+4086 Ver detalles del objeto#
+4087 Esconder detalles del objeto#
+4088 ¡Has encontrado %d piezas de oro en el cofre!#
+4089 ¡Las pinzas del crustáceo son venenosas!#
+4090 Te ha descuatrizado un crustáceo.#
 
 # Nav Prompts
-4091 Take All#
-4092 Move Cursor#
-4093 View Spells#
-4094 View Items#
-4095 View Skills#
-4096 Take#
-4097 Store All#
-4098 There is no room left in the chest for a
- %s!#
-4099 Took %d items from the chest.#
-4100 You have no room left in your pack!#
-4101 You reignite another %s.#
-4102 Appraise item#
-4103 View spell details#
-4104 Hide spell details#
-4105 Open Map#
-4106 Open Log#
-4107 Activate#
-4108 Drop Gold#
-4109 Pin Timer To HUD#
-4110 Unpin Timer From HUD#
-4111 Show Tooltip (Hold)#
-4112 Show Level Info (Hold)#
-4113 Buy#
-4114 Sell#
-4115 Spells#
-4116 Items#
-4117 Skills#
-4118 Status#
+4091 Recoger Todo#
+4092 Mover cursor#
+4093 Ver Hechizos#
+4094 Ver Objetos#
+4095 Ver Habilidades#
+4096 Recoger#
+4097 Guardar Todo#
+4098 Ya no hay lugar en el cofre para 
+ %s#
+4099 Has recogido %d objetos del cofre.#
+4100 ¡Ya no hay lugar en tu mochila!#
+4101 Vuelves a encender otra %s.#
+4102 Tasar objeto#
+4103 Ver detalles de hechizos#
+4104 Esconder detalles de hechizos#
+4105 Abrir Mapa#
+4106 Abrir Registro#
+4107 Activar#
+4108 Dejar oro#
+4109 Fijar Temporizador en HUD#
+4110 Desfijar Temporizador del HUD#
+4111 Mostrar Mje. Emergente (Mantén)#
+4112 Mostrar Info. del Nivel (Mantén)#
+4113 Comprar#
+4114 Vender#
+4115 Hechizos#
+4116 Objetos#
+4117 Habilidades#
+4118 Estados#
 
 # new shop GUI
 
-4119 Your gold:#
-4120 Buyback Items#
-4121 Stop Trading#
-4122 Store Markup:#
-4123 Resale Penalty:#
-4124 Shop Items#
-4125 My stores are too full to
-part with any more gold!#
-4126 Hand the orb to me directly.
-There is no need to involve
-formalities of gold, now!#
+4119 Tu oro:#
+4120 Recomprar objetos#
+4121 Dejar de Comerciar#
+4122 Margen de Tienda:#
+4123 Penalidad por Reventa:#
+4124 Comprar Objetos#
+4125 ¡Mis cofres están muy
+llenos como para desprenderme
+de más oro!#
+4126 Dame el orbe directamente.
+no hacen falta lasformalidades
+del oro, ¡rápido!#
 4127 %s's#
-4128 Rare Goods#
+4128 Bienes Raros#
 4129 ???'s#
 
 # new tinkering
@@ -5194,12 +5194,15 @@ Código de sala inválido.#
 
 5378 Desactivar Hambre#
 5379 Desactivar Minotauros
-Random#
+Aleatorios#
 5380 Activar Amuleto de
 Salvación#
-5381 Mantener Objetos al Morir#
-5382 Desactivar Trampas Aleatorias#
-5383 Desactivar Fuego Amigo#
+5381 Mantener Objetos al
+Morir#
+5382 Desactivar Trampas
+Aleatorias#
+5383 Desactivar Fuego
+Amigo#
 5384 Activar Modo
 Clásico#
 5385 Activar Modo
@@ -5215,12 +5218,13 @@ Hardcore#
 5390 LOGROS ACTIVADOS#
 
 5391 AJUSTES DE LOBBY#
-5392 Reglas del Juego#
-5393 Sólo Invitaciones#
-5394 Sólo Amistades#
+5392 Reglas del
+Juego#
+5393 Sólo Invitación#
+5394 Sólo Amigos#
 5395 Lobby Abierto#
-6018 Colocar Contador
-de Jugadores#
+6018 Contador de
+Jugadores#
 5396 ¡Esto echará a %s
 y %s!#
 5397 Esto echará a %s.
@@ -5229,7 +5233,8 @@ y %s!#
 5399 Volver#
 5400 Si#
 5401 No#
-5402 Echar Jugador#
+5402 Echar
+Jugador#
 5403 ¿Realmente quieres
 echar a %s?#
 
@@ -5259,1060 +5264,1055 @@ de Raza#
 5425 Mostar Info.
 de Raza#
 
-5426 CLASS SELECTION#
-5427 HP:
+5426 ELIGIR CLASE#
+5427 PV:
 MP:#
-5428 Survival:
-Complexity:#
-5429 Hide Class Info#
-5430 Show Class Info#
-5431 *** Please wait %d seconds before suggesting another class. ***#
-5432 %s: We need a %s.#
+5428 Supervivencia:
+Complejidad:#
+5429 Ocultar info. de clase#
+5430 Ver info. de clase#
+5431 *** Espera %d segundos antes de sugerir otra clase. ***#
+5432 %s: Necesitamos un %s.#
 
-5433 NAME:#
-5434 Enter a name for Player %d#
-5435 View Game Settings#
-5436 *** Press [LB] to suggest a class for your party ***#
-5437 *** Press [L] to suggest a class for your party ***#
-5438 *** Press [L1] to suggest a class for your party ***#
-5439 *** Press [L1] to suggest a class for your party ***#
-5440 Ready#
-5441 LOCKED#
-5442 New players
-cannot join#
-5443 PLAYER %d#
-5444 Press to Start#
-5445 Connect Controller#
-5446 Please Wait#
-5447 INVITE#
-5448 Click to Invite#
-5449 OPEN#
-5450 Waiting for
-player to join#
-5451 *** %s has joined the game ***#
-5452 Ready!#
-5453 Not Ready#
-5454 Are you sure you want to leave
-this lobby?#
-5455 Yes#
+5433 NOMBRE:#
+5434 Coloca un nombre %d#
+5435 Ver Ajustes de Juego#
+5436 *** Pulsa [LB] para sugerirle una clase a tu grupo ***#
+5437 *** Pulsa [L] para sugerirle una clase a tu grupo ***#
+5438 *** Pulsa [L1] para sugerirle una clase a tu grupo ***#
+5439 *** Pulsa [L1] para sugerirle una clase a tu grupo ***#
+5440 Listo#
+5441 BLOQUEADO#
+5442 Nuevos jugadores
+no pueden unirse#
+5443 JUGADOR %d#
+5444 Pulsa para Iniciar#
+5445 Conectar el control#
+5446 Espera Por Favor#
+5447 INVITAR#
+5448 Clic para invitar#
+5449 ABRIR#
+5450 Esperando que 
+se unan jugadores#
+5451 *** %s se ha unido al juego ***#
+5452 Listo#
+5453 Aún No#
+5454 ¿Realmente quieres abandonar
+este lobby?#
+5455 Si#
 5456 No#
-5457 Set a public name for this lobby.#
-5458 Local Lobby#
-5459 Wireless Lobby#
-5460 LAN Lobby#
-5461 Online Lobby (Epic)#
-5462 Online Lobby (Steam)#
-5463 Online Lobby#
-5464 LAN address#
-5465 Room code#
-5466 Wireless lobby opened successfully.#
-5467 Server hosted on LAN successfully.#
-5468 Lobby successfully hosted via Steam.#
-5469 Lobby successfully hosted via Epic Online.#
-5470 Joined wireless lobby successfully.#
-5471 Joined LAN server successfully.#
-5472 Joined lobby successfully via Steam.#
-5473 Joined lobby successfully via Epic Online.#
-5474 Press A on a controller to assign it to Player %d,
-or click here to assign only the mouse and keyboard
+5457 Crear un nombre público para el lobby.#
+5458 Lobby Local#
+5459 Lobby Inalámbrico#
+5460 Lobby LAN#
+5461 Lobby en Línea (Epic)#
+5462 Lobby en Línea (Steam)#
+5463 Lobby en Línea #
+5464 Dirección LAN#
+5465 Código de sala#
+5466 Lobby Inalámbrico abierto exitosamente.#
+5467 Servidor creado en LAN exitosamente.#
+5468 Lobby alojado correctamente a través de Steam.#
+5469 Lobby alojado correctamente a través de Epic Online.#
+5470 Unido al lobby inalámrbico exitosamente.#
+5471 Unido al servidor LAN exitosamente.#
+5472 Unido al lobby exitosamente a través de Steam.#
+5473 Unido al lobby exitosamente a través de Epic Online.#
+5474 Pulsa A en un control para asignarlo al Jugador %d,
+o hacer clic aquí para usar el cursor y teclado.
 
 
 
 #
-5475 Press A on a controller to activate it now,
-or click here to use only the mouse and keyboard
+5475 Pulsa A en tu control para activarlo
+o hacer clic aquí para usar el cursor y teclado.
 
 
 
 #
-5476 ASSIGN CONTROLLER#
+5476 ASIGNAR CONTROL#
 5477 P%d#
 
-5478 Private lobby#
-5479 [MODDED]#
-5480 Unable to join lobby.
-Lobby is modded.#
-5481 Unable to join lobby.
-Lobby is locked.#
-5482 Okay#
-5483 Requesting lobby list...#
-5484 Cancel#
-5485 ONLINE LOBBY BROWSER#
-5486 Filters#
-5487 Show non-joinable#
-5488 Show friends only#
-5489 Achievements enabled#
-5490 Cheats enabled#
-5491 Friendly fire enabled#
-5492 Minotaurs enabled#
-5493 Hunger enabled#
-5494 Random traps enabled#
-5495 Hardcore mode#
-5496 Classic mode#
-5497 Keep items on death#
-5498 +1 Life#
+5478 Lobby Privado#
+5479 [MODIFICADO]#
+5480 No se ha podido unir al lobby.
+El lobby posee mods.#
+5481 No se ha podido unir al lobby.
+El lobby está bloqueado.#
+5482 Ok#
+5483 Buscando lista de lobbies...#
+5484 Cancelar#
+5485 BUSCAR LOBBY EN LÍNEA#
+5486 Filtros#
+5487 Mostrar bloqueados#
+5488 Solo mostrar amigos#
+5489 Logros activados#
+5490 Trucos activados#
+5491 Fuego amigo activado#
+5492 Minotauros activados#
+5493 Hambre activada#
+5494 Trampas Aleatorias activadas#
+5495 Modo Hardcore#
+5496 Modo Clásico#
+5497 Mantener Objetos al Morir#
+5498 Vida +1#
 
-5500 Cheats#
-5501 Hurt allies#
-5502 Minotaurs#
-5503 Hunger#
-5504 Traps#
+5500 Trucos#
+5501 Fuego amigo#
+5502 Minotauros#
+5503 Hambre#
+5504 Trampas#
 5505 Hardcore#
-5506 Classic#
-5507 Keep items#
-5508 +1 Life#
-5509 None#
-5510 Name:#
-5511 Flags:#
-5512 Lobby Info#
-5513 ONLINE#
-5514 Unable to connect to Epic Online
-Online play is not available.#
-5515 Okay#
-5516 WIRELESS#
+5506 Clásico#
+5507 Mantener Objetos#
+5508 Vida +1#
+5509 Nada#
+5510 Nombre:#
+5511 Reglas:#
+5512 Info de Lobby#
+5513 EN LÍNEA#
+5514 No se pudo conectar a Epic Online
+Juego en línea no disponible.#
+5515 Ok#
+5516 INALÁMBRICO#
 5517 LAN#
-5518 Enter an IP address to connect to.#
-5519 Enter the code to a lobby you wish to connect to.#
-5520 Enter IP address...#
-5521 Enter roomcode...#
-5522 Connect#
-5523 Cancel#
-5524 Enter Lobby
-Code#
-5525 Enter IP
-Address#
-5526 Select a lobby to join first.#
-5527 Join Lobby#
-5528  Lobby Name#
-5529  Lobby Name (%d hidden)#
-5530  Players#
-5531  Version#
-5532  Ping#
-5533 Filter Settings#
+5518 Ingresar una dirección de IP para conectarse.#
+5519 Ingresar el código del lobby al que quieras entrar.#
+5520 Ingresar dirección IP...#
+5521 Ingresar contraseña...#
+5522 Conectar#
+5523 Cancelar#
+5524 Ingresar
+Código#
+5525 Ingresar 
+Dirección IP#
+5526 Eligir un lobby para unirse.#
+5527  Unirse al Lobby#
+5528  Nombre del Lobby#
+5529  Nombre de Lobby(%d ocultos)#
+5530  Jugadores#
+5531  Versión#
+5532  Sondeo#
+5533 Ajustes de Filtros#
 5534 Crossplay#
 
-5535 TUTORIALS#
-5536 Take on 10 challenges that teach and test your adventuring
-skills, preparing you to take on the dungeon#
-5537 Trial#
-5538 Best Time#
-5539 Hub#
-5540  The Hall of Trials#
-5541  Trial 1: Dungeon Basics and Melee Fighting#
-5542  Trial 2: Bows, Arrows, and Throwing Weapons#
-5543  Trial 3: Dungeon Traps, Spikes, and Boulders#
-5544  Trial 4: Food, Appraisal, and Curses#
-5545  Trial 5: Magic, Spellbooks, and Casting#
-5546  Trial 6: Stealth and Sneak Attacks#
-5547  Trial 7: Follower Recruiting and Commands#
-5548  Trial 8: Potions and Alchemy#
-5549  Trial 9: Tinkering#
-5550  Trial 10: Merchants and Shops#
-5551  Total Clear Time#
-5552 Reset Trial
-Progress#
-5553 Are you sure you want to reset
-your best times?#
-5554 Yes#
+5535 TUTORIALES#
+5536 Retos que te prepararán para enfrentar la mazmorra#
+5537 Tests#
+5538  Mejor 
+Tiempo#
+5539 Centro#
+5540  El Salón de Desafíos#
+5541  Desafío 1: Conceptos Básicos y Combate Cuerpo a Cuerpo#
+5542  Desafío 2: Arcos, Flechas y Armas Arrojadizas#
+5543  Desafío 3: Trampas de Mazmorra, Púas y Pedruscos#
+5544  Desafío 4: Alimentos, Tasaciones y Maldiciones#
+5545  Desafío 5: Magias, Grimorios y Conjuros#
+5546  Desafío 6: Sigilo y Ataques Furtivos#
+5547  Desafío 7: Comandos y Reclutamiento de Seguidores#
+5548  Desafío 8: Pociones y Alquimia#
+5549  Desafío 9: Fabricar#
+5550  Desafío 10: Comerciantes y Comercios#
+5551  Tiempo Total#
+5552  Reiniciar 
+Progreso#
+5553 ¿Realmente deseas reiniciar tus
+mejores tiempos?#
+5554 Si#
 5555 No#
-5556 Enter Level#
-5557 Select a level to start first.#
-5558 Okay#
-5559 PLAY GAME#
-5560 TUTORIALS#
+5556 Entrar al Nivel#
+5557 Selecione un nivel incial.#
+5558 Ok#
+5559 JUGAR#
+5560 TUTORIALES#
 5561  
-CONTINUE#
+CONTINUAR#
 5562  
-NEW#
-5563 Creating Epic lobby...#
-5564 Failed to host Epic lobby.#
-5565 Failed to host Epic lobby.
+NUEVO#
+5563 Creando lobby de Epic...#
+5564 Error al crear lobby de Epic.#
+5565 Error al crear lobby de Epic.
 
-Please try again later.#
-5566 Creating Steam lobby...#
-5567 Failed to host Steam lobby.#
-5568 Unable to host lobby:
-Online play is not available.#
-5569 Would you like to host via
-Epic Online for crossplay?#
-5570 Failed to open UDP socket
-on port %hu.#
+Intentalo más tarde.#
+5566 Creando lobby de Steam...#
+5567 Error al crear lobby de Steam.#
+5568 No es posible crear lobby:
+Modo En-Línea no disponible.#
+5569 ¿Quisieras ser host via 
+Epic Online para crossplay? #
+5570 Error al abrir socket UDP 
+en el puerto %hu.#
 
-5571 Play singleplayer or with 2-%d
-players in splitscreen multiplayer#
-5572 Host a game with 2-%d players
-over a wireless connection#
-5573 Host a game with 2-%d players
-over a local area network (LAN)#
-5574 Host a game with 2-%d players
-over the internet#
-5575 Host a game with 2-%d players
-over the internet (disabled)#
-5576 Join a multiplayer game#
-5577 NEW ADVENTURER#
-5578 Local Adventure#
-5579 Host Wireless
-Party#
-5580 Host LAN Party#
-5581 Host Online Party#
-5582 Lobby Browser#
+5571 Juega solitario o con 2-%d
+jugadores en pantalla dividida local#
+5572 Partida con 2-%d jugadores
+en una conexión inalámrbica#
+5573 Partida con 2-%d jugadores
+en una conexión local (LAN)#
+5574 Partida con 2-%d jugadores
+en Internet#
+5575 Partida con 2-%d jugadores
+en el Internet (desactivado)#
+5576 Únete a una partida multijugador#
+5577 NUEVA AVENTURA#
+5578 Aventura Local#
+5579 Crear Grupo
+Inalámbrico#
+5580 Crear Grupo LAN#
+5581 Crear Grupo MP#
+5582 Buscar Lobbies#
 
-5583 Barony is a challenging game.
-Would you like to play a tutorial?#
-5584 Yes#
+5583 Barony es un juego desafiante.
+¿Quisieras jugar el tutorial primero?#
+5584 Si#
 5585 No#
-5586 You can find the Tutorials
-in the Play Game menu.#
-5587 Okay#
-5588 Are you sure you want to delete
-the save game "%s"?"#
-5589 Warning: This is a modded save game!
-No mods are currently loaded.
+5586 Puedes buscar los Tutoriales
+en el menú de Juego.#
+5587 Ok#
+5588 ¿Realmente quieres borrar
+la partida "%s"?"#
+5589 Cuidado: Partida no jugada con mods.
+Ahora no posees hay mods iniciados.
 
-Continuing may cause save data issues.
+Continuar puede tener problemas de guardado.
 
-Are you sure you want to load
-the save game "%s"?#
-5590 Warning: This is an unmodded save game!
-%d mod(s) are currently loaded.
+¿Realmente quieres cargar el
+juego guardado "%s"?#
+5590 Cuidado: Partida no posee mods
+%d estos mods fueron iniciados
 
-Continuing may invalidate achievements for this save.
+Continuar podría invalidar los logros para esta partida.
 
-Are you sure you want to load
-the save game "%s"?#
-5591 Cancel#
-5592 Are you sure you want to load
-the save game "%s"?#
+¿Realmente quieres cargar
+la partida "%s"?#
+5591 Cancelar#
+5592 ¿Realmente quieres cargar
+la partida "%s"?#
 5593 P%d
-Lv%d#
-5594 Lv%d#
-5595 No compatible save files found.#
-5596 Singleplayer#
-5597 Online Host %dp (p1)#
-5598 Online Client %dp (p%d)#
-5599 Local Host %dp (p1)#
-5600 Local Client %dp (p%d)#
-5601 Splitscreen %dp#
-5602 CONTINUE ADVENTURE#
-5603 Local Games#
-5604 Net Games#
-5605 Delete Save#
-5606 Select a savegame to delete first.#
-5607 Okay#
-5608 Enter Dungeon#
-5609 Select a savegame to load first.#
+Piso%d#
+5594 Piso%d#
+5595 Partidas compatibles no halladas.#
+5596 Solitario#
+5597 Host Online %dp (p1)#
+5598 Cliente Online %dp (p%d)#
+5599 Host Local %dp (p1)#
+5600 Cliente Local %dp (p%d)#
+5601 Pantalla Dividida %dp#
+5602 CONTINUAR AVENTURA#
+5603 Juegos Locales#
+5604 Juegos En-Línea#
+5605 Borrar Partida#
+5606 Selecionar una partida para borrar.#
+5607 Ok#
+5608 Iniciar Mazmorra#
+5609 Seleccionar una partida para iniciar.#
 
-5610 ADVENTURE ARCHIVES#
-5611 ACHIEVEMENTS#
-5612 DUNGEON COMPENDIUM#
-5613 HIGHSCORES#
-5614 LEADERBOARDS#
-5615 STORY INTRODUCTION#
-5616 CREDITS#
-5617 BACK TO MAIN MENU#
+5610 ARCHIVO DE AVENTURA#
+5611 LOGROS#
+5612 COMPEDIO DE LA MAZMORRA#
+5613 PUNTUACIONES#
+5614 MARCADORES#
+5615 HISTORIA INTRODUCTORIA#
+5616 CRÉDITOS#
+5617 VOLVER AL MENÚ#
 
 5618 General#
 5619 Video#
 5620 Audio#
-5621 Controls#
-5622 Online#
-5623 Game#
-5624 SETTINGS#
-5625 Restore
-Defaults#
-5626 Discard
-& Exit#
-5627 Are you sure you want
-to discard changes?#
-5628 Yes,
-Discard#
-5629 Cancel#
-5630 Confirm
-& Exit#
-5631 You must restart Barony for
-some settings to take effect.#
-5632 Okay#
+5621 Controles#
+5622 En-Línea#
+5623 Juego#
+5624 CONFIGURAR#
+5625 Valores 
+Preterminados#
+5626 Descartar
+y Salir#
+5627 ¿Realmente deseas
+Descartar los cambios?#
+5628 Si,
+Descártalo#
+5629 Cancelar#
+5630 Confirmar
+y Salir#
+5631 Debes reiniciar el juego para
+que los cambios se guarden.#
+5632 Ok#
 
-5633 Are you sure you want to die?
-There is no return from this.#
-5634 End Life#
-5635 Cancel#
-5636 Do you want to drop out?
-This player will be lost forever.#
-5637 Okay#
-5638 Cancel#
-5639 Are you sure you want to restart?
-This adventure will be lost forever.#
-5640 Are you sure you want to restart
-the current trial?#
-5641 Restart#
-5642 Cancel#
-5643 Are you sure you want to return
-to the Hall of Trials?#
-5644 Are you sure you want to reset
-the Hall of Trials level?#
-5645 Okay#
-5646 Cancel#
-5647 All progress before the current
-dungeon level will be saved.#
-5648 Are you sure you want to return
-to the main menu?#
-5649 Quit to Menu#
-5650 Cancel#
+5633 ¿Realmente deseas hacerlo?
+No hay vuelta atrás.#
+5634 Desvivir#
+5635 Cancelar#
+5636 ¿Quieres salir ahora?
+Este jugador se perderá por siempre.#
+5637 Ok#
+5638 Cancelar#
+5639 ¿Realmente deseas reiniciar?
+Esta aventura se perderá por siempre.#
+5640 ¿Realmente deseas reiniciar el
+desafío actual?#
+5641 Reiniciar#
+5642 Cancelar#
+5643 ¿Realmente deseas volver
+al Salón de Desafíos?#
+5644 ¿Realmente deseas reiniciar
+el nivel del Salón de Desafíos?#
+5645 Ok#
+5646 Cancelar#
+5647 Todo el progreso antes del
+piso actual será guardado.#
+5648 ¿Realmente deseas volver
+al menú principal?#
+5649 Salir al menu#
+5650 Cancelar#
 
 # quit messages
 
-5700 You want to leave, eh?
-Then get out and don't come back!#
-5701 Fine geez#
-5702 Never!#
-5703 Did the wittle gobwins
-hurt your feewings?#
-5704 Yes#
-5705 No#
-5706 Just cancel your plans.
-I'll wait.#
-5707 Good luck#
-5708 Sure#
-5709 You couldn't kill the lich anyway.#
-5710 You're right#
-5711 Oh yeah?#
-5712 Mad cuz bad!
-Git gud!#
-5713 I am anger#
-5714 Okay#
-5715 The gnomes are laughing at you!
-Are you really gonna take that?#
-5716 Yeah :(#
-5717 No way!#
-5718 Don't go now! There's a
-boulder trap around the corner!#
-5719 Kill me#
-5720 Oh thanks#
-5721 I'll tell your parents
-you said a bad word.#
-5722 Poop#
-5723 Please no#
-5724 Please don't leave!
-There's more treasure to loot!#
-5725 Don't care#
-5726 More loot!#
-5727 Just be glad I can't summon
-the minotaur in real life.#
-5728 Too bad#
-5729 Point taken#
-5730 Off to leave a salty review I see?#
-5731 ... yeah#
-5732 No way!#
-5733 I'd leave too.
-This game looks just like Minecraft.#
+5700 ¿Quieres irte, eh?
+¡Entonces lárgate y no vuelvas!#
+5701 Bien, chau.#
+5702 ¡Nunca!#
+5703 ¿Los trasguitos
+te hicieron llorar?#
+5704 Si T-T#
+5705 ¡Nunca!#
+5706 Solo cancela tus planes.
+Esperaré.#
+5707 Buena suerte#
+5708 Claro#
+5709 De todos modos
+ no podrías matar al lich.#
+5710 Tienes razón#
+5711 ¿Ah, si?#
+5712 ¡No sabes jugar!
+¡Aprende de una vez!#
+5713 Soy la furia#
+5714 Ok#
+5715 ¡Los gnomos se ríen de ti!
+¿Realmente lo permitirás?#
+5716 Sipi :(#
+5717 ¡Jamás!#
+5718 ¡No te vayas! ¡Hay una
+trampa de pedrusco a la vuelta!#
+5719 Mátame#
+5720 Oh gracias#
+5721 Le diré a tus padres
+que dijiste una mala palabra.#
+5722 Ji ji ji#
+5723 Por favor, no#
+5724 ¡Por favor, no te vayas!
+¡Hay más tesoros para saquear!#
+5725 No me importa#
+5726 ¡Más botín!#
+5727  Solo alégrate de que no pueda
+tener un minotauro en la vida real.#
+5728 Qué lástima#
+5729 Buen dato#
+5730 ¿Te vas a ir a dejar una mala reseña, verdad?#
+5731 ... sí#
+5732 ¡De ninguna manera!#
+5733 Yo también me iría.
+Este juego se ve igual que Minecraft.#
 5734 lol#
-5735 Ouch#
-5736 Okay, I see how it is.
-See if I'm still here tomorrow.#
-5737 Whatever#
-5738 I love you!#
-5739 Don't quit now, you were
-going to win the next run.#
-5740 Don't lie#
-5741 Really?#
-5742 A wimpy adventurer
-would quit right now.#
-5743 Wimp time#
-5744 Am not!#
-5745 An adventurer is trapped
-and they need your help!#
-5746 Who cares#
-5747 I'll do it!#
-5748 A quitter says what?#
-5749 What?#
-5750 Not today#
-5751 You won't quit.
-You're just bluffing.#
-5752 Bet#
-5753 Ya got me.#
-5754 Say one more thing and
-I'm kicking you out of this game.#
-5755 Thing#
+5735 ¡Ay!#
+5736 Ok, veo cómo es.
+Mira si todavía estoy aquí mañana.#
+5737 Como sea#
+5738 ¡Te quiero!#
+5739 No te rindas ahora, ibas
+a ganar la próxima partida.#
+5740 No mientas#
+5741 ¿De verdad?#
+5742  Un aventurero cobarde
+se iría ahora mismo.#
+5743 Eres débil#
+5744 ¡No es verdad!#
+5745 ¡Un aventurero está atrapado
+y necesitan tu ayuda!#
+5746 No me importa#
+5747 ¡Lo haré!#
+5748 ¿Un cobarde dice qué?#
+5749 ¿Qué?#
+5750 Hoy no#
+5751 No te rendirías.
+Solo estás fingiendo.#
+5752 Claro#
+5753 Me descubriste.#
+5754 Di algo más y
+te echo de este juego.#
+5755 Algo más#
 5756 ...#
 
-5757 Does the screen look okay?
+5757 ¿Se ve bien la pantalla?
 %llu...#
-5758 Yes#
+5758 Si#
 5759 No#
 
-5760 Press to Start#
-5761 BACK TO GAME#
-5762 ASSIGN CONTROLLERS#
-5763 DUNGEON COMPENDIUM#
-5764 ACHIEVEMENTS#
-5765 SETTINGS#
-5766 END LIFE#
-5767 DROP OUT#
-5768 RESTART GAME#
-5769 RESTART TRIAL#
-5770 RETURN TO TRIAL HUB#
-5771 QUIT TO MAIN MENU#
-5772 QUIT TO DESKTOP#
-5773 PLAY#
-5774 PLAY GAME#
-5775 PLAY MODDED GAME#
-5776 UNLOAD MODS#
-5777 ADVENTURE ARCHIVES#
-5778 SETTINGS#
+5760 Pulsa para iniciar#
+5761 VOLVER AL JUEGO#
+5762 ASIGNAR CONTROLES#
+5763 COMPEDIO DE LA MAZMORRA#
+5764 LOGROS#
+5765 CONFIGURACIONES#
+5766 DESVIVIR#
+5767 DESCONECTARSE#
+5768 REINICIAR JUEGO#
+5769 REINICIAR DESAFÍO#
+5770 SALIR AL SALÓN#
+5771 SALIR AL MENÚ#
+5772 SALIR AL ESCRITORIO#
+5773 JUGAR#
+5774 COMENZAR PARTIDA#
+5775 PARTIDA CON MODS#
+5776 DESACTIVAR MODS#
+5777 ARCHIVO DE AVENTURA#
+5778 CONFIGURACIÓN#
 5779 EDITOR#
-5780 QUIT#
+5780 SALIR#
 
-5781 ACHIEVEMENTS DISABLED (MODDED LOBBY)#
-5782 ACHIEVEMENTS DISABLED (MODDED)#
-5783 ACHIEVEMENTS DISABLED (PREVIOUSLY MODDED LOBBY)#
-5784 ACHIEVEMENTS DISABLED#
-5785 ACHIEVEMENTS ENABLED#
+5781 LOGROS DESACTIVADOS (LOBBY CON MODS)#
+5782 LOGROS DESACTIVADOS (CON MODS)#
+5783 LOGROS DESACTIVADOS (LOBBY ANTERIORMENTE CON MODS)#
+5784 LOGROS DESACTIVADOS#
+5785 LOGROS ACTIVADOS#
 
-5786 Players online: ... #
-5787 Players online: %d #
+5786 Jugadores Online: ... #
+5787 Jugadores online: %d #
 
-5788 The network connection to the game has been lost.#
-5789 The network connection to the game has been lost.
+5788 La conexión de red al juego se ha perdido.#
+5789 La conexión de red al juego se ha perdido.
 
-Please re-establish your network connection and try again later.#
-5790 The network connection to the game has been lost.
+Por favor restablece tu conexión de red e intenta nuevamente.#
+5790 La conexión de red al juego se ha perdido.
 
-All game progress up to the current dungeon level has been saved.
+Se ha guardado todo el progreso hasta el piso actual.
 
-Please re-establish your network connection and try again later.#
-5791 The network connection
-has been lost.#
+Por favor restablece tu conexion e intenta nuevamente.#
+5791 La conexión de red
+ha sido perdida.#
 
-5792 You have died.#
-5793 Your party has been wiped out.#
-5794 Unknown#
-5795 Monster#
-5796 Item#
-5797 Betrayal#
-5798 Attempted Robbery#
-5799 Trespassing#
-5800 Arrow Trap#
-5801 Bear Trap#
-5802 Spike Trap#
-5803 Magic Trap#
-5804 Bomb Trap#
-5805 Boulder#
+5792 Has muerto.#
+5793 Tu grupo fue eliminado.#
+5794 Desconocido#
+5795 Monstruo#
+5796 Objeto#
+5797 Traición#
+5798 Intento de Robo#
+5799 Traspaso#
+5800 Trampa de Flechas#
+5801 Trampa de Oso#
+5802 Trampa de Púas#
+5803 Trampa Mágica#
+5804 Trampa Bomba#
+5805 Pedrusco#
 5806 Lava#
-5807 Hot Water#
-5808 Invocation#
-5809 Starvation#
-5810 Poison#
-5811 Bleeding#
-5812 Burning#
-5813 Strangulation#
-5814 Funny Potion#
-5815 Bottomless Pit#
-5816 Lack of Fuel#
-5817 Fountain#
-5818 Sink#
-5819 Alchemy#
+5807 Agua Caliente#
+5808 Invocación#
+5809 Hambruna#
+5810 Envenenado#
+5811 Desangrando#
+5812 Ardiendo#
+5813 Estrangulamiento#
+5814 Poción Extraña#
+5815 Pozo Sin Fondo#
+5816 Sin combustible#
+5817 Fuente#
+5818 Fregadero#
+5819 Alquimia#
 
-5820 We hardly knew ye.#
-5821 Rest In Peace.#
-5822 You will be missed.#
-5823 Until we meet again.#
-5824 Now at rest.#
-5825 Mourn not my death.#
-5826 Passed into memory.#
-5827 In Loving Memory.#
-5828 They sleep in memory.#
-5829 Gone but not forgotten.#
-5830 Killed by: #
+5820 Apenas te conocimos.#
+5821 Descansa en paz#
+5822 Te hecharemos de menos.#
+5823 Hasta que nos volvamos a ver.#
+5824 Ahora descansa.#
+5825 No lamenten mi muerte.#
+5826 Paso a ser una memoria.#
+5827 Se te recordará con amor.#
+5828 Yace en la memoria.#
+5829 Caído, pero no olvidado.#
+5830 Asesinado por: #
 
-5831 Learn from your failure
-to complete the test!#
-5832 You will be revived if your
-party makes it to the next level.#
-5833 You placed at position (%d)
-in local highscores!#
-5834 You failed to place
-in local highscores.#
+5831 ¡Aprende de tus errores y 
+termina esta lección!#
+5832 Volverás si tu grupo
+pasa al siguiente piso.#
+5833 Quedaste en el puesto (%d)
+de tu puntuación local#
+5834 Fallaste al clasificar 
+en tu puntuación local.#
 
-5835 Dismiss#
-5836 Back to Hub#
-5837 Quit to Main#
-5838 Restart#
-5839 Okay#
+5835 Descartar#
+5836 Volver al Salón#
+5837 Salir al Menú#
+5838 Reiniciar#
+5839 Ok#
 
-5840 Congratulations, you've completed the first tutorial!
+5840 ¡Felicidades, has completado el primer tutorial!
 
-You are now within the Hall of Trials,
-9 more trials are available to teach and test you.
+Ahora estás en el Salón de Desafíos,
+9 desafíos más aguardan para que aprendas de ellos.
 
-Explore the Hall of Trials to learn more or return
-to the main menu and start your adventure.#
-5841 Explore
-Hall of Trials#
-5842 Return to
-Main Menu#
-5843 Reconnect the controller for Player #
-5844 Please reconnect your controller.#
-5845 RECONNECT CONTROLLER#
+Explora el Salón de Desafíos para aprender más
+o vuelve al menú e inicia tu aventura#
+5841 Explorar 
+el Salón de Desafíos#
+5842 Volver a el
+Menú Principal#
+5843 Reconecta el control para el jugador#
+5844 Porfavor reconecta tu control.#
+5845 RECONECTAR CONTROL#
 
-5846 Enabling Crossplay allows you to host and join
-lobbies via Epic Games, Inc.
+5846 Activar Crossplay permite jugar y crear 
+lobbies que usen Epic Games, Inc.
 
-By clicking Accept, you agree to share public info
-about your Steam profile with Epic Games, Inc.
-for the purpose of enabling crossplay.#
+Al hacer clic en Aceptar, estarás de acuerdo en compartir información pública sobre tu perfil de Steam con Epic Games, Inc.
+con el fin de permitir el crossplay.#
 
-5847 Would you like to link your device to an online
-account hosted by Epic Games, Inc. to play online?
+5847 ¿Le gustaría vincular su dispositivo a una conexion en línea?
+cuenta alojada por Epic Games, Inc. para jugar online?
 
-By choosing Accept, you agree to share some info
-about your Nintendo console with Epic Games, Inc.
-for the purpose of enabling online play.#
+Al elegir Aceptar, aceptas compartir cierta información.
+sobre tu consola Nintendo con Epic Games, Inc.
+con el fin de permitir el juego online.#
 
-5848 Enabling online play allows you to host and join
-online lobbies hosted via Epic Games, Inc.
+5848 Habilitar el juego en línea te permite hospedar y unirte
+a salas en línea hospedadas por Epic Games, Inc.
 
-By clicking Accept, you agree to share some info
-about your device with Epic Games, Inc. for the
-purpose of enabling online play.#
+Al hacer clic en Aceptar, aceptas compartir cierta información
+sobre tu dispositivo con Epic Games, Inc.
+con el fin de habilitar el juego en línea.#
 
-5849 Accept#
-5850 View
-Privacy Policy#
-5851 Deny#
+5849 Aceptar#
+5850 Ver
+Politica de Privacidad#
+5851 Denegar#
 
-5852 Select at least 1 mod to load.#
-5853 Okay#
-5854 Unload Mod#
-5855 Load Mod#
-5856 Load Order: #
-5857 Update Mod#
+5852 Seleccióna al menos 1 mod para cargar.#
+5853 Ok#
+5854 Quitar Mod#
+5855 Cargar Mod#
+5856 Orden de Carga: #
+5857 Actualizar Mod#
 5858 Steam Workshop#
-5859 Fetching subscriptions...#
-5860 Cancel#
-5861 Fetching my items...#
-5862 No Workshop items found.#
-5863 Loading local mod folders...#
-5864 No folders found in /mods/ directory.#
+5859 Obteniendo subscripciones...#
+5860 Cancelar#
+5861 Obteniendo mis objetos...#
+5862 Objetos de Workshop no encontrados.#
+5863 Cargando archivos de carpeta local...#
+5864 Sin carpetas encontradas en /mods/.#
 5865 MODS#
-5866 Local
-Mods#
+5866 Mods
+Locales#
 5867 Steam
 Workshop#
-5868 My Workshop
-Items#
-5869 Do you want to exit this menu?
-Any active mods will be unloaded.#
-5870 Yes#
+5868 Mis Objetos
+de Workshop#
+5869 ¿Quieres salir de este menú?
+Todos los mods serán desactivados.#
+5870 Si#
 5871 No#
 5872 
-Mods Loaded:
+Mods Cargados:
 #
-5873 Local Mods:
+5873 Mods Locales:
 Workshop:
-Total Loaded:#
-5874 ACHIEVEMENTS
-DISABLED#
-5875 ACHIEVEMENTS
-ENABLED#
-5876 Note: Not all modded files can be
-verified prior to game start to
-ensure Achievements are enabled.#
-5877 Dismiss#
-5878 Start
-Modded Game#
-5879 New Workshop
-Mod#
-5880 Browse
+Carga total:#
+5874 LOGROS
+DESACTIVADOS#
+5875 LOGROS
+DESACTIVADOS#
+5876 Nota: No todos los mods pueden
+ser verificados antes de que iniciar
+para activar los logros.#
+5877 Descartar#
+5878 Iniciar
+Juego con Mods#
+5879 Nuevo Mod de
 Workshop#
-5881 Open
+5880 Buscar en
 Workshop#
-5882 Browse community created mods and 'subscribe' to
-download mods for use.
+5881 Abrir
+Workshop#
+5882 Explora mods creados por la comunidad y 'suscríbete'
+para descargarlos.
 
-Subscribing while Barony is running may require
-closing the game in order for Steam to begin downloading.
+Suscribirse mientras Barony está en ejecución puede requerir
+cerrar el juego para que Steam comience a descargar.
 
-Current game version: #
-5883 Your workshop items
-will now reload.#
-5884 Okay#
-5885 Cancel#
-5886 Create Blank
-Mod Folder#
-5887 This will create a new mod folder inside the Barony
-/mods/ directory with a blank file structure
-and default preview.png file.#
-5888 Enter a name for the new folder#
-5889 Confirm#
-5890 Cancel#
-5891 Error: Folder name cannot
- be blank.#
-5892 New folder: '%s'
-created successfully!#
-5893 Error: A folder already exists
-named '%s'#
-5894 Error: Unable to write folder
+Versión del juego actual: #
+5883 Tus objetos de workshop
+tendrán que recargarse.#
+5884 Ok#
+5885 Cancelar#
+5886 Crear Carpeta
+Mod Vacía#
+5887 Esto creará una nueva carpeta de mod dentro del directorio Barony
+/mods/ con una estructura de archivos en blanco
+y un archivo preview.png predeterminado.#
+5888 Nombrar a la carpeta#
+5889 Confirmar#
+5890 Cancelar#
+5891 Error: El nombre de la carpeta
+no puede estar vacía.#
+5892 Carpeta nueva: '%s'
+creada exitosamente#
+5893 Error: Ya existe la carpeta
+llamada '%s'#
+5894 Error: No se pudo escribir carpeta
 '%s'#
-5895 Title#
-5896 Description#
-5897 UPDATE WORKSHOP MOD#
-5898 NEW WORKSHOP MOD#
-5899 Upload a folder within the /mods/ directory for your mod.
-Files/tags may be changed within this menu after creation.#
-5900 Submitting an update changes the tagged game version.
-Choosing a new folder or changing tags is optional.#
-5901 Folder to Upload:#
-5902 No folder selected#
-5903 Choose...#
-5904 Error: Parent folder
-must be "mods".#
-5905 Error: Could not open folder:#
-5906 Title:#
-5907 Edit...#
-5908 This can be edited later with a larger length
-within the Steam Workshop page after creation.#
-5909 Enter a title for this item#
-5910 Confirm#
-5911 Cancel#
-5912 For existing items, visit the
-Workshop page to make edits.#
-5913 Description:#
-5914 Enter a description for this item#
-5915 For existing items, visit the
-Workshop page to make edits.#
-5916 Tags:#
-5917 Manage In
+5895 Título#
+5896 Descripción#
+5897 ACTUALIZAR MOD DE WORKSHOP#
+5898 NUEVO MOD DE WORKSHOP#
+5899 Cargar una carpeta dentro del directorio /mods/ para tu mod.
+Los archivos/etiquetas se pueden cambiar en este menú después de la creación.#
+5900 Enviar una actualización cambia la versión del juego etiquetada.
+Elegir una nueva carpeta o cambiar las etiquetas es opcional.#
+5901 Carpeta a Cargar:#
+5902 Carpeta no elegida#
+5903 Elige...#
+5904 Error: Carpeta padre
+debe ser "mods".#
+5905 Error: No se pudo abrir carpeta:#
+5906 Título:#
+5907 Editar...#
+5908 Esto se puede editar después dentro de la página del Workshop de Steam después de la creación.#
+5909 Pon un título para el objeto#
+5910 Confirmar#
+5911 Cancelar#
+5912 Para objetos existentes, visitar
+Workshop para editar.#
+5913 Descripción:#
+5914 Pon una descripción para el objeto#
+5915 Para objetos existentes, visita la
+Workshop para editarlos.#
+5916 Etiquetas:#
+5917 Administrar en
 Workshop#
-5918 You can view and edit most attributes of your mod
-directly on the Workshop page, such as longer
-descriptions with HTML support, setting visibility to public
-or adding screenshots to the carousel.
+5918 Puedes ver y editar la mayoría de los atributos de tu mod.
+directamente en la página del Workshop, como descripciones más largas con soporte HTML, configurar la visibilidad al público
+o agregar capturas de pantalla al carrusel.
 
-If you need to edit the preview image or modded files,
-use the upload window here in-game instead.#
-5919 Open
+Si necesitas una imagen de vista previa o archivos modificados,
+usa la ventada subida aquí en el juego en su lugar.#
+5919 Abrir
 Workshop#
-5920 Your workshop items
-will now reload.#
-5921 Submit
-Update#
-5922 Submit New
-Workshop Mod#
-5923 No new files selected:
-Only tags/version will be modified.#
-5924 New files will be uploaded and
-tags/version will be modified.#
-5925 Proceed#
-5926 Cancel#
-5927 Starting upload#
-5928 Modifying existing item#
-5929 Creating item#
-5930 Waiting on update handle#
-5931 Setting title#
-5932 Setting description#
-5933 Setting tags#
-5934 Preparing content#
-5935 Note: No preview.png image found#
-5936 First upload.#
-5937 Item updated.#
-5938 Uploading content, this may take
-some time.#
-5939 Timed out while uploading,
-retrying 1/3...#
-5940 Timed out while uploading,
-retrying 2/3...#
-5941 Timed out while uploading,
-retrying 3/3...#
-5942 Timed out while uploading,
-try again later.#
-5943 Successfully uploaded content!#
-5944 Unknown error#
-5945 Waiting#
-5946 Error: Not logged in.#
-5947 Error: No content folder
-selected to upload.#
-5948 Error: Could not read
-content folder.#
-5949 Starting upload#
-5950 Please
-wait#
-5951 View Item#
-5952 Retry
-Upload#
-5953 Error code: #
-5954 CUSTOM DIFFICULTY#
-5955 No subscribed Workshop items found.#
+5920 Tus objetos del workshop
+serán recargados.#
+5921 Subir
+Actualización#
+5922 Subir Nuevo
+Mod de Workshop#
+5923 Sin nuevos archivos seleccionados:
+solo etiqueta/versión será modificada.#
+5924 Serán subidos nuevos archivos y
+etiqueta/versión serán modificadas.#
+5925 Continuar#
+5926 Cancelar#
+5927 Empezando Subida#
+5928 Modificando objeto existente#
+5929 Creando objeto#
+5930 Esperando handle update#
+5931 Configurando título#
+5932 Configurando descripción#
+5933 Configurando etiquetas#
+5934 Preparando contenido#
+5935 Note: No existe imagen preview.png#
+5936 Primer subida.#
+5937 Objeto subido.#
+5938 Subiendo contenido, esto puede tardar.#
+5939 Tiempo agotado al subir,
+reintento 1/3...#
+5940 Tiempo agotado al subir,
+reintento 2/3...#
+5941 Tiempo agotado al subir,
+reintento 3/3...#
+5942 Tiempo agotado al subir,
+intenta más tarde.#
+5943 Contenido subido exitosamente.#
+5944 Error desconocido#
+5945 Esperando#
+5946 Error: No se ha registrado.#
+5947 Error: No hay contenido
+selecionado para subir.#
+5948 Error: No se pudo leer
+carpeta de contenido.#
+5949 Iniciando subida#
+5950 Porfavor
+espere#
+5951 Ver Objeto#
+5952 Reintentar
+Subida#
+5953 Código de Error: #
+5954 PERSONALIZAR
+DIFICULTAD#
+5955 No se encontraron objetos del Workshop.#
 
-5956 Equip#
-5957 Drop#
-5958 SPELLS#
-5959 Chest#
-5960 Take All#
-5961 Skill Level:#
-5962 Associated Stat:#
-5963 Attack#
-5964 Sneak#
-5965 Cast Spell#
-5966 Map#
-5967 Log#
-5968 CHARACTER SHEET#
-5969 GOLD#
+5956 Equipar#
+5957 Dejar#
+5958 HECHIZOS#
+5959 Cofre#
+5960 Recoger todo#
+5961 Nivel de Hab:#
+5962 Estadística Asociada:#
+5963 Atacar#
+5964 Sigilo#
+5965 Canalizar#
+5966 Mapa#
+5967 Registro#
+5968 HOJA DE PERSONAJE#
+5969 ORO#
 
-5970 Attack#
-5971 Use#
-5972 Cast Spell#
-5973 Defend#
-5974 Sneak#
-5975 Character Status#
-5976 Pause Game#
-5977 Spell List#
-5978 Skill Sheet#
-5979 Autosort Inventory#
-5980 Command NPC#
-5981 Show NPC Commands#
-5982 Cycle NPCs#
-5983 Open Map#
-5984 Open Log#
-5985 Toggle Minimap#
-5986 Hotbar Left#
-5987 Hotbar Right#
-5988 Hotbar Up / Select#
-5989 Hotbar Down / Cancel#
-5990 Interact Tooltip Next#
-5991 Interact Tooltip Prev#
-5992 Expand Inventory Tooltip#
-5993 Quick Turn#
+5970 Atacar#
+5971 Usar#
+5972 Canalizar#
+5973 Defender#
+5974 Sigilo#
+5975 Estado del Personaje#
+5976 Pausar Juego#
+5977 Lista de Hechizos#
+5978 Lista de Habilidades#
+5979 Ordenar Inventario#
+5980 Comandar NPC#
+5981 Mostrar Comandos de NPC#
+5982 Ciclar NPCs#
+5983 Abrir Mapa
+5984 Abrir Registro#
+5985 Alternar Minimapa#
+5986 Hotbar Izquierda#
+5987 Hotbar Derecha#
+5988 Hotbar Arriba / Elegir#
+5989 Hotbar Abajo / Cancelar#
+5990 Interactuar con Tooltip Sig.#
+5991 Interactuar con Tooltip Ant.#
+5992 Expandir Tooltip#
+5993 Vuelta Rápida#
 5994 Chat#
-5995 Move Forward#
-5996 Move Left#
-5997 Move Backward#
-5998 Move Right#
-5999 Turn Left#
-6000 Turn Right#
-6001 Look Up#
-6002 Look Down#
-6003 Screenshot#
-6004 Hotbar Slot 1#
-6005 Hotbar Slot 2#
-6006 Hotbar Slot 3#
-6007 Hotbar Slot 4#
-6008 Hotbar Slot 5#
-6009 Hotbar Slot 6#
-6010 Hotbar Slot 7#
-6011 Hotbar Slot 8#
-6012 Hotbar Slot 9#
-6013 Hotbar Slot 10#
+5995 Moverse Adelante#
+5996 Moverse Izquierda#
+5997 Moverse Atrás#
+5998 Moverse Derecha#
+5999 Giro Izquierdo#
+6000 Giro Derecho#
+6001 Mirar Arriba#
+6002 Mirar Abajo#
+6003 Captura de Pantalla#
+6004 Ranura de Hotbar 1#
+6005 Ranura de Hotbar 2#
+6006 Ranura de Hotbar 3#
+6007 Ranura de Hotbar 4#
+6008 Ranura de Hotbar 5#
+6009 Ranura de Hotbar 6#
+6010 Ranura de Hotbar 7#
+6011 Ranura de Hotbar 8#
+6012 Ranura de Hotbar 9#
+6013 Ranura de Hotbar 10#
 
-6014 Standard#
-6015 Expert#
-6016 Classic#
-6017 Minimal#
+6014 Estándar#
+6015 Experto#
+6016 Clásico#
+6017 Mínimo#
 #6018 was missed earlier, so it is used.
 
-6019 Populate Hotbar#
-6020 Preload Music Files#
-6021 Preloading improves playback performance, but increases system memory usage. (Applied next game launch)#
-6022 Holiday Themes#
-6023 Festive Content#
-6024 Toggle holiday themed content on or off as desired. Bah, humbug!#
-6025 Credits#
-6026 Display#
-6027 View credits for holiday content.#
-6028 Next
-Page#
-6029 Close#
+6019 Completar Hotbar#
+6020 Precargar de Archivos Musicales#
+6021 La precarga mejora el rendimiento de la reproducción, pero aumenta el uso de memoria del sistema. (Aplicado en el próximo inicio del juego)#
+6022 Temas Festivos#
+6023 Contenido Festivo#
+6024 Alternar el contenido temático festivo según se desee.#
+6025 Créditos#
+6026 Mostrar#
+6027 Ver créditos para el contenido festivo.#
+6028 Siguiente
+Página#
+6029 Cerrar#
 
 # Scarony Barony Credits:
 
-6030 caves00 - Among Us by Myuu
-caves01 - Fatal Shrine by Myuu
-caves02 - Tormented Souls by Myuu
-citadel00 - Evil Returns by Myuu
-citadel01 - Friday the 13th by Myuu
-citadel02 - October 31st by Myuu#
+6030 caves00 - Among Us por Myuu
+caves01 - Fatal Shrine por Myuu
+caves02 - Tormented Souls por Myuu
+citadel00 - Evil Returns por Myuu
+citadel01 - Friday the 13th por Myuu
+citadel02 - October 31st por Myuu#
 
-6031 endgame - The Order's Theme by Myuu
-herxboss - Soul Rail by Myuu
-intermission - Echo by Myuu
-intro - Ghost Town by Myuu
-intro01 - Countdown by Myuu
-intro02 - Untold Secrets by Myuu#
+6031 endgame - The Order's Theme por Myuu
+herxboss - Soul Rail por Myuu
+intermission - Echo por Myuu
+intro - Ghost Town por Myuu
+intro01 - Countdown por Myuu
+intro02 - Untold Secrets por Myuu#
 
-6032 labyrinth00 - Final Showdown by Myuu
-labyrinth01 - Living in the Dark by Myuu
-labyrinth02 - Silent Turmoil by Myuu
-library - Countdown by Myuu
-mines00 - Look Out by Myuu
-mines01 - Haunted House by Myuu#
+6032 labyrinth00 - Final Showdown por Myuu
+labyrinth01 - Living in the Dark por Myuu
+labyrinth02 - Silent Turmoil por Myuu
+library - Countdown por Myuu
+mines00 - Look Out por Myuu
+mines01 - Haunted House por Myuu#
 
-6033 mines02 - Nebula by Myuu
-mines03 - Strange Vision by Myuu
-mines04 - The Crypt by Myuu
-minetown - Haunted By Screams by Myuu
-minotaur00 - Run! by Myuu
-minotaur01 - Cornered by Myuu#
+6033 mines02 - Nebula por Myuu
+mines03 - Strange Vision por Myuu
+mines04 - The Crypt por Myuu
+minetown - Haunted por Screams por Myuu
+minotaur00 - Run! por Myuu
+minotaur01 - Cornered por Myuu#
 
-6034 ruins00 - You're Next by Myuu
-ruins01 - Into the Depths by Myuu
-ruins02 - The Backrooms by Myuu
-sanctum - Metamorphosis by Myuu
-shop - Carnival Freaks by Myuu
-swamp00 - Poltergeist by Myuu#
+6034 ruins00 - You're Next por Myuu
+ruins01 - Into the Depths por Myuu
+ruins02 - The Backrooms por Myuu
+sanctum - Metamorphosis por Myuu
+shop - Carnival Freaks por Myuu
+swamp00 - Poltergeist por Myuu#
 
-6035 swamp01 - Abyss by Myuu
-swamp02 - Danger by Myuu
+6035 swamp01 - Abyss por Myuu
+swamp02 - Danger por Myuu
 swamp03 - Growing Shadows
-temple - Extinction by Myuu#
+temple - Extinction por Myuu#
 
 # Merry Barony credits:
 
-6036 caves00 - Sleigh Bells by Myuu
-caves01 - Deck the Halls by Myuu
-caves02 - Snow Wonders by Myuu
-citadel00 - Jingle Bells by Myuu
-citadel01 - Underneath the Christmas Tree by Myuu
-citadel02 - God Rest Ye Merry Gentlemen by Myuu#
+6036 caves00 - Sleigh Bells por Myuu
+caves01 - Deck the Halls por Myuu
+caves02 - Snow Wonders por Myuu
+citadel00 - Jingle Bells por Myuu
+citadel01 - Underneath the Christmas Tree por Myuu
+citadel02 - God Rest Ye Merry Gentlemen por Myuu#
 
-6037 endgame - Disintegrating by Myuu
-escape - Deck the Halls by Myuu
-hell00 - Deck the Halls by Myuu
-hell01 - Santa's Tricks by Myuu
-hell02 - Winter Trouble by Myuu
-herxboss - Krampus is Here by Myuu#
+6037 endgame - Disintegrating por Myuu
+escape - Deck the Halls por Myuu
+hell00 - Deck the Halls por Myuu
+hell01 - Santa's Tricks por Myuu
+hell02 - Winter Trouble por Myuu
+herxboss - Krampus is Here por Myuu#
 
-6038 intermission - Disintegrating by Myuu
-introduction - Disintegrating by Myuu
-labyrinth00 - Ice Land (Part 1) by Myuu
-labyrinth01 - Holiday Macabre by Myuu
-labyrinth02 - Disintegrating by Myuu
-library - Santa's Tricks by Myuu#
+6038 intermission - Disintegrating por Myuu
+introduction - Disintegrating por Myuu
+labyrinth00 - Ice Land (Part 1) por Myuu
+labyrinth01 - Holiday Macabre por Myuu
+labyrinth02 - Disintegrating por Myuu
+library - Santa's Tricks por Myuu#
 
-6039 mines00 - Sleigh Bells by Myuu
-mines01 - God Rest Ye Merry Gentlemen by Myuu
-mines02 - Silent Night by Myuu
-mines03 - Carol of the Bells by Myuu
-mines04 - Angels We Have Heard on High by Myuu
-minetown - Underneath the Christmas Tree by Myuu#
+6039 mines00 - Sleigh Bells por Myuu
+mines01 - God Rest Ye Merry Gentlemen por Myuu
+mines02 - Silent Night por Myuu
+mines03 - Carol of the Bells por Myuu
+mines04 - Angels We Have Heard on High por Myuu
+minetown - Underneath the Christmas Tree por Myuu#
 
-6040 minotaur00 - Krampus is Here by Myuu
-minotaur01 - Deck the Halls by Myuu
-ruins00 - Ice Land (Part 2) by Myuu
-ruins01 - Winter Trouble by Myuu
-ruins02 - Snow Wonders by Myuu
-sanctum - Krampus is Here by Myuu#
+6040 minotaur00 - Krampus is Here por Myuu
+minotaur01 - Deck the Halls por Myuu
+ruins00 - Ice Land (Part 2) por Myuu
+ruins01 - Winter Trouble por Myuu
+ruins02 - Snow Wonders por Myuu
+sanctum - Krampus is Here por Myuu#
 
-6041 shop - Sleigh Bells by Myuu
-swamp00 - Jingle Bells by Myuu
-swamp01 - Rudolph the Red Nosed Reindeer by Myuu
-swamp02 - Dance of the Sugar Plum Fairy by Myuu
-swamp03 - What Child is This by Myuu
-temple - Santa's Tricks by Myuu#
+6041 shop - Sleigh Bells por Myuu
+swamp00 - Jingle Bells por Myuu
+swamp01 - Rudolph the Red Nosed Reindeer por Myuu
+swamp02 - Dance of the Sugar Plum Fairy por Myuu
+swamp03 - What Child is This por Myuu
+temple - Santa's Tricks por Myuu#
 
-6042 underworld00 - Ice Land (Part 1) by Myuu
-underworld01 - Deck the Halls by Myuu
-underworld02 - Winter Trouble by Myuu
-intro - God Rest Ye Merry Gentlemen by NaturesEye#
+6042 underworld00 - Ice Land (Part 1) por Myuu
+underworld01 - Deck the Halls por Myuu
+underworld02 - Winter Trouble por Myuu
+intro - God Rest Ye Merry Gentlemen por NaturesEye#
 
-6043 No holiday currently active.#
+6043 No hay día festivo activo actualmente.#
 
-6044 Call Out#
-6045 Push item#
-6046 Chill#
-6047 Haunt#
-6048 Push#
-6049 View Wheel#
-6050 SPECTATE#
-6051 SPAWN AS GHOST#
-6052 Your party has been wiped out...#
-6053 CUSTOMIZE RULES#
-6054 CUSTOM SEED#
-6055 Enter seed name...#
-6056 None#
-6057 Here lies
+6044 Gritar#
+6045 Empujar objeto#
+6046 Congelar#
+6047 Embrujar#
+6048 Empujar#
+6049 Ver Rueda#
+6050 ESPECTAR#
+6051 VOLVER COMO FANTASMA#
+6052 Tu grupo fue derrotada...#
+6053 PERSONALIZAR REGLAS#
+6054 SEMILLA PERSONALIZADA#
+6055 Nombre de semilla...#
+6056 Nada#
+6057 Aqui ya hace
 %s
-Death by: %s#
-6058 Penniless-mode active, gold pickup is disabled!#
-6059 Penniless-mode deactivated, gold pickup is enabled.#
-6060 Player savefile is not eligible for Penniless Achievement. Restart game to reset.#
-6061 Unable to connect to global leaderboards.
-Try again later.#
+Muerto por: %s#
+6058 Modo Peniless activado, no puedes Recoger oro#
+6059 Modo Peniless desactivado, puedes Recoger oro.#
+6060 El archivo de guardado no es elegible para el logro Peniless. Reinicia el juego para resetearlo.#
+6061 Incapaz de conectar a la tabla de puntuación global.
+Intentar más tarde.#
 6062 Top 100#
-6063 Near me#
-6064 Wins#
-6065 Losses#
-6066 Top Scores#
-6067 Best Times#
-6068 Solo#
+6063 Cercanías#
+6064 Victorias#
+6065 Derrotas#
+6066 Mejor Ptje#
+6067 Mejor Tiemp.#
+6068 Solitario#
 6069 Co-op#
-6070 Humans#
-6071 Monsters#
+6070 Humanos#
+6071 Monstruos#
 6072 Normal#
 6073 Hardcore#
-6074 Apply
-Filter#
-6075 Citadel#
-6076 Classic#
-6077 Hell#
-6078 Leaderboard Filters#
-6079 Leaderboard
-Filters#
-6080 Depth#
-6081 The mimic swings open!#
-6082 Wait! That's a mimic!#
-6083 You lock the mimic!#
-6084 The mimic evades your skeleton key!#
-6085 The mimic eats your %s!#
-6086 The %s poisons you!#
-6087 Hey! That %s stole your %s!#
-6088 But the goggles protect you!#
-6089 Your goggles protect you from the explosion!#
-6090 The goggles do nothing!#
-6091 *cough*#
-6092 Your hat is sweltering!#
-6093 ATK#
-6094 AC#
-6095 PWR#
+6074 Aplicar
+Filtro#
+6075 Ciudadela#
+6076 Clásico#
+6077 Infierno#
+6078 Filtros de Tabla#
+6079 Tabla de Puntajes
+Filtros#
+6080 Profundidad#
+6081 ¡El mimeto se abre!#
+6082 ¡Espera! ¡Eso es un mimeto!#
+6083 ¡Cierras al mimeto!#
+6084 ¡El mimeto evade tu llave maestra!#
+6085 ¡El mimeto se come tu %s!#
+6086 ¡El %s te envenena!#
+6087 ¡Oye! %s te roba tu %s#
+6088 ¡Pero los anteojos te protejen!#
+6089 ¡Los anteojos te protejen de la explosión!#
+6090 ¡Los anteojos no hacen nada!#
+6091 *Tos*#
+6092 ¡Tu sombrero es sofocante!#
+6093 ATQ#
+6094 CA#
+6095 PDR#
 6096 RES#
 6097 RGN#
-6098 WGT#
-6099 Error: Unable to load save file: "%s".
-Error code: %d
+6098 PESO#
+6099 Error: No se pudo cargar la partida: "%s".
+Código de Error: %d
 
-Could not verify required DLC installed
-to load this save file.
+No se pudo verificar el DLC requerido para cargar esta partida guardada.
 
-Check DLC is installed correctly and
-relaunch the game to try again.#
-6100 Could not verify DLC is installed
-to load your matching save file.#
-6101 You fulfilled your bounty for %d gold!#
-6102 You failed to finish your bounty target.#
-6103 Effects Modifier:#
-6104 Your shot catches the %s unaware!#
-6105 Your shot catches %s unaware!#
-6106 / 100 XP#
-6107 XP#
-6108 You do not yet have any 
-entries on this leaderboard 
-to find nearby scores.#
-6109 Note: This challenge ends soon!
-Finish before the expiry time
-to make it to the leaderboards!#
-6110 One-Shot
-Challenge#
-6111 Unlimited
-Challenge#
-6112 Event
-Challenge#
-6113 Checking connectivity#
-6114 Unable to load challenges.
-Please try again later.#
-6115 Unable to load challenge.
-Please try again later.#
-6116 Event update in progress.
-Please try again in a few minutes.#
-6117 Challenges are currently
-unavailable.#
-6118 Next
+Chequear que el DLC se instaló correctamente y reinicia el juego para intentar de nuevo.#
+6100 No se pudo verificar que el DLC fue instalado para cargar la partida guardada correspondiente.#
+6101 Has completado tu recompensa por %d oro.#
+6102 Has fallado en completar tu objetivo de recompensa.#
+6103 Modificador de Efectos:#
+6104 ¡Tu disparo alcanza a %s repentinamente!#
+6105 %s fue repentinamente alcanzado/a por un disparo#
+6106 / 100 EXP#
+6107 EXP#
+6108 Aún no posees ninguna 
+entrada en esta tabla como 
+para ver puntuaciones.#
+6109 Nota: Este reto acabará pronto
+Terminar antes del tiempo límite
+para lograr clasificar.#
+6110 Desafío
+One-Shot#
+6111 Desafío
+Ilimitado#
+6112 Desafío
+de Evento#
+6113 Verificando conectividad#
+6114 Incapaz de cargar desafío.
+Intentar más tarde por favor.#
+6115 Incapaz de cargar desafío.
+Intentar más tarde por favor.#
+6116 Actualizac. de Evento en progreso.
+Reintentar en unos minutos.#
+6117 No hay desafíos disponibles
+en este momento.#
+6118 Sig
 Event:#
-6119 SEED EVENTS#
-6120 One chance to make the
-leaderboards! Local play only.#
-6121 Tackle weekly set dungeons!
-For solo and multiplayer.#
-6122 Variety event twists each weekend!
-For solo and multiplayer.#
-6123 Savegames do not match.
-LID mismatch.#
-6124 Joined lobby is not hosting
-your selected challenge.#
-6125 You have already submitted an attempt
-for this challenge!
+6119 EVENTO DE SEMILLA#
+6120 ¡Una sola chance para
+clasificar! Solo Modo Local.#
+6121 ¡Enfrenta eventos semanales!
+En Solitario o Multijugador.#
+6122 Eventos nuevos cada fin de semana
+¡Para un jugador y multijugador!#
+6123 Archivos guardados no coinciden.
+Incongruiencia de LID.#
+6124 Lobby actual no posee el
+desafío que habías elegido.#
+6125 ¡Ya has enviado un intento
+para este desafío!
 
-You may replay this challenge, though your
-scored leaderboard rank will not change.
+Puedes reintentar este desafío, aunque tu
+posición en la tabla de clasif no cambiará.
 
-Would you still like to replay this challenge?#
-6126 Myths & Outcasts DLC is required 
-to replay this challenge!
+¿Aún quieres reintentar este desafío?#
+6126 DLC Myths & Outcasts requerido 
+para reintentar este desafío.
 
 
 #
-6127 Legends & Pariahs DLC is required
-to replay this challenge!
+6127 DLC Legends & Pariahs requerido
+para reintentar este desafío.
 
 
 #
 6128 Leaderboards Updated!#
-6129 Unable to join lobby.
-Chosen challenge does not
-match host challenge.#
-6130 Unable to join lobby.
-Joining challenges is
-not supported.#
-6131 Seed events require mods
-to be unloaded before starting.#
-6132 Lobby requires mods to be
-unloaded before joining.#
-6133 Savefile requires mods to be
-unloaded before loading.#
+6129 No se puede unir al lobby.
+El desafío elegido no coincide
+con el desafío del anfitrión.#
+6130 No se puede unir al lobby.
+No se admite unirse
+a desafíos.#
+6131 Eventos Semilla requiere
+desactivar mods antes de empezar.#
+6132 Lobby requiere desactivar
+mods antes de unirse.#
+6133 Partida guardada requiere
+desactivar mods antes de inicar.#
 6134 
-New rank achieved for the
+¡Nueva posición alcanzada en
 %s
-leaderboards!#
-6135 Changing class is not
-allowed in this challenge!#
-6136 Changing race is not
-allowed in this challenge!#
-6137 ACHIEVEMENTS DISABLED
-(CHALLENGE EVENT)#
-6138 ACHIEVEMENTS DISABLED (CHALLENGE EVENT)#
-6139 Challenge Event!#
+tabla de clasificación!#
+6135 No se permite cambiar
+de clase en este desafío.#
+6136 No se permite cambiar
+de raza en este desafío.#
+6137 LOGROS DESACTIVADOS
+(EVENTO DE DESAFÍO)#
+6138 LOGROS DESACTIVADOS (EVENTO DE DESAFÍO)#
+6139 ¡Evento de Desafío!#
 # Audio speaker mode settings
-6140 Configuration#
-6141 Default#
+6140 Configuración#
+6141 Predeterminado#
 6142 Raw#
 6143 Mono#
-6144 Stereo#
+6144 Estéreo#
 6145 Quad#
 6146 Surround Sound#
 6147 5.1 Surround Sound#
 6148 7.1 Surround Sound#
 6149 7.1.4 Surround Sound#
-6150 The desired speaker configuration.#
-6151 No scores found with current filter.
-Try different leaderboard filters
-to see more results.#
-6152 fails the challenge.#
-6153 Challenge#
-6154 Challenge Progress#
-6155 Party Kill Count#
-6156 Challenge Complete!#
-6157 Furniture Destroyed#
-6158 Details:#
-6159 Race:#
-6160 Class:#
-6161 Any#
-6162 Game Mode:#
-6163 Active Event:#
-6164 Skills:#
-6165 Make Way For
+6150 La configuración deseada de sonido.#
+6151 Puntajes no encontrados en el filtro.
+Intente con otros filtros para ver más
+resultados.#
+6152 Falla el Desafío.#
+6153 Desafío#
+6154 Desafío Progress#
+6155 Contador Muerte Grupal#
+6156 Desafío Completado#
+6157 Muebles Destruidos#
+6158 Detalles:#
+6159 Raza:#
+6160 Clase:#
+6161 Todas#
+6162 Modo de Juego:#
+6163 Evento Activo:#
+6164 Habilidades:#
+6165 Abran paso ante
 %s
-the Breaker!#
-6166 Tremble Before
+¡La virtud vence la fuerza!#
+6166 Tiemblen ante
 %s
-the Slayer!#
-6167 Quitting here does not count to
-your One-Shot score attempt.#
-6168 Quitting now will end this run and
-submit it as your One-Shot score.#
-6169 New Seed Events Available!#
+¡Vino, Vió y Venció!#
+6167  Salir aquí no cuenta para tu
+intento de puntuación de One-Shot.#
+6168 Salir ahora terminará la partida y
+la enviará como resultado de One-Shot#
+6169 ¡Nuevos Eventos de Semilla Disponibles!#
 6170 
-Visit the Seed Events menu
-to participate.#
-6171 Unlock the Achievement:
+Visita el menú de Eventos de Semilla
+para participar.#
+6171 Desbloquea el Logro:
 "%s"
-to play this class combination.#
+para jugar esta clase.#
 
-6200 END#
+6200 FIN#
