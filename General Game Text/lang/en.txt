@@ -5585,7 +5585,7 @@ Esperaré.#
 5711 ¿Ah, si?#
 5712 ¡No sabes jugar!
 ¡Aprende de una vez!#
-5713 Soy la furia#
+5713 Odio esto#
 5714 Ok#
 5715 ¡Los gnomos se ríen de ti!
 ¿Realmente lo permitirás?#
@@ -5607,11 +5607,12 @@ que dijiste una mala palabra.#
 tener un minotauro en la vida real.#
 5728 Qué lástima#
 5729 Buen dato#
-5730 ¿Te vas a ir a dejar una mala reseña, verdad?#
-5731 ... sí#
-5732 ¡De ninguna manera!#
+5730 ¿Te vas a ir a dejar
+una mala reseña, verdad?#
+5731 ...si#
+5732 ¡Jamás!#
 5733 Yo también me iría.
-Este juego se ve igual que Minecraft.#
+El juego se ve igual que Minecraft.#
 5734 lol#
 5735 ¡Ay!#
 5736 Ok, veo cómo es.
@@ -5624,19 +5625,20 @@ a ganar la próxima partida.#
 5741 ¿De verdad?#
 5742  Un aventurero cobarde
 se iría ahora mismo.#
-5743 Eres débil#
-5744 ¡No es verdad!#
+5743 Soy débil#
+5744 ¡Mentiras!#
 5745 ¡Un aventurero está atrapado
 y necesitan tu ayuda!#
 5746 No me importa#
-5747 ¡Lo haré!#
+5747 ¡En camino!#
 5748 ¿Un cobarde dice qué?#
 5749 ¿Qué?#
 5750 Hoy no#
 5751 No te rendirías.
 Solo estás fingiendo.#
 5752 Claro#
-5753 Me descubriste.#
+5753 Me 
+descubriste.#
 5754 Di algo más y
 te echo de este juego.#
 5755 Algo más#
@@ -5845,8 +5847,8 @@ tendrán que recargarse.#
 5885 Cancelar#
 5886 Crear Carpeta
 Mod Vacía#
-5887 Esto creará una nueva carpeta de mod dentro del directorio Barony
-/mods/ con una estructura de archivos en blanco
+5887 Hará una nueva carpeta de mod dentro del directorio
+Barony/mods/ con una estructura de archivos en blanco
 y un archivo preview.png predeterminado.#
 5888 Nombrar a la carpeta#
 5889 Confirmar#
