@@ -8,10 +8,10 @@
 
 La traducción ofrece una instalación independiente de Steam para aquellas personas que no tienen acceso a Steam-Workshop.
 
-## Actualización Eat My Hat
+##
 
-<p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/64409ed03c29a863fc1d0bdf/2a03bd65-0ed7-4228-a540-f579df404e84/EatMyHat.png?format=2500w"/>
+<p align="left">
+  <img src="https://images.squarespace-cdn.com/content/v1/64409ed03c29a863fc1d0bdf/2a03bd65-0ed7-4228-a540-f579df404e84/EatMyHat.png?format=250w"/>
 </p>
 
 #### To-Do
