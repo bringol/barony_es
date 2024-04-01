@@ -5211,9 +5211,9 @@ Hardcore#
 
 
 5387 LOGROS DESACTIVADOS
-(MODS)#
+(MODIFICADO)#
 5388 LOGROS DESACTIVADOS
-(LOBBY MODEADO)#
+(LOBBY MODIFICADO)#
 5389 LOGROS DESACTIVADOS#
 5390 LOGROS ACTIVADOS#
 
@@ -5821,9 +5821,9 @@ Carga total:#
 5874 LOGROS
 DESACTIVADOS#
 5875 LOGROS
-DESACTIVADOS#
+ACTIVADOS#
 5876 Nota: No todos los mods pueden
-ser verificados antes de que iniciar
+ser verificados antes de iniciar
 para activar los logros.#
 5877 Descartar#
 5878 Iniciar
