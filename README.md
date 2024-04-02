@@ -17,7 +17,7 @@ La traducción ofrece una instalación independiente de Steam para aquellas pers
 #### To-Do
 - [x] Libros
 - [ ] Historia y Cinemáticas
-- [ ] Tooltips
+- [x] Tooltips
 - [x] Texto General
 - [x] Nombres de Objetos y Descripciones
 - [x] Datos de Texto del Menú
@@ -31,7 +31,7 @@ La traducción ofrece una instalación independiente de Steam para aquellas pers
 </p>
 
 <p align="center">
-        <a href="https://ibb.co/zRRjYyK"><img src="https://i.ibb.co/1qqh5DH/paso-2.png" alt="paso-2" border="0"></a>
+        <a href="https://ibb.co/z4LShwp"><img src="https://i.ibb.co/kSrhgFj/Screenshot-from-2024-04-02-17-28-32.png" alt="Screenshot" border="0"></a>
 
 </p>
 
@@ -47,7 +47,7 @@ La traducción ofrece una instalación independiente de Steam para aquellas pers
 * _Kyara Fujimori_ y _FrankySniper_ por sus esfuerzos de traducción Post v3.3.7 
 * Al grupo de discord [Barony en Español](https://discord.gg/SqZTwQV) por su comunidad hispanohablante.
 * _suquinho de chorume_ por la [traducción PT-BR](https://steamcommunity.com/sharedfiles/filedetails/?id=2613956785)
-
+* _reffpixels_ por su fuente [Pixelart_Serif_Font_v02](https://reffpixels.itch.io/seriffont)
 
 
  
