@@ -16,7 +16,7 @@
 1906 comerciante#
 1907 mago#
 1908 arcanista#
-1909 guazón#
+1909 bufón#
 
 
 # class descriptions
@@ -5069,22 +5069,22 @@ Puntaje:#
 
 5280  Desafíos Voluntarios:#
 5281  Nada#
-5282 Hiciste trampa.#
-5283 Jugaste con mods.#
-5284 Jugaste con amistades.#
-5285 Fuiste Hardcore.#
-5286 Jugaste en Modo Clásico.#
-5287 Fuiste pobre.#
-5288 Nunca comiste.#
-5289 Seguiste el vegetarianismo.#
-5290 Fuiste analfabeta.#
-5291 No usaste armas.#
-5292 Solamente usaste armas a distancia.#
-5293 Fuiste extremadamente veloz.#
-5294 Fuiste muy veloz.#
-5295 Mantuviste objetos después de morir.#
-5296 Tenías una vida extra.#
-5297 Te habían maldecido.#
+5282 Hacer trampa.#
+5283 Jugar con mods.#
+5284 Jugar con amistades.#
+5285 Ser Hardcore.#
+5286 Jugar en Modo Clásico.#
+5287 Ser pobre.#
+5288 Nunca comió.#
+5289 Seguir el vegetarianismo.#
+5290 Ser analfabeta.#
+5291 Sin uso de armas.#
+5292 Solo armas a distancia.#
+5293 Ser extremadamente veloz.#
+5294 Ser muy veloz.#
+5295 Mantener objetos después de morir.#
+5296 Tener una vida extra.#
+5297 Haber sido maldecido.#
 5298 Nivel %d %s %s#
 5299 %d/100
 %d
@@ -5239,30 +5239,30 @@ Jugador#
 echar a %s?#
 
 5404 SELECCIÓN DE RAZA#
-5405 Escolta Terrestre#
-5406 Linaje Nórdico#
-5407 Marca Flamante#
-5408 Estirpe del Rigor#
+5405 Terravigía#
+5406 Nordurlónd#
+5407 Flamarca#
+5408 Rigestripe#
 5409 Centinela#
-5410 Forja Apenumbrada#
-5411 Florecimiento Pirófilo#
-5412 Piedra Ofidia#
+5410 Umbrisforja#
+5411 Piroflor#
+5412 Roca Ofidia#
 5413 Clan Eólico#
-5414 Sangre Bélica#
-5415 Herencia Moledora#
-5416 Pedúnculo Solar#
-5417 Monte Sedimentario#
-5418 Guardián de la Tempestad#
-5419 Caída Mercantil#
-5420 Colina Nocturna#
-5421 Torre Costera#
-5422 Despertar Cántico#
+5414 Hostilcrúor#
+5415 Machacador#
+5416 Solaris#
+5417 Sedimonte#
+5418 Tempestario#
+5419 Mercaída#
+5420 Montenoche#
+5421 Torracosta#
+5422 Noctívago#
 5423 Desactivar Hab.
-de Razas#
+Raciales#
 5424 Ocultar Info.
-de Raza#
-5425 Mostar Info.
-de Raza#
+Racial#
+5425 Ver Info.
+Racial#
 
 5426 ELIGIR CLASE#
 5427 PV:
@@ -5398,11 +5398,11 @@ Dirección IP#
 
 5535 TUTORIALES#
 5536 Retos que te prepararán para enfrentar la mazmorra#
-5537 Tests#
+5537 Desafíos#
 5538  Mejor 
 Tiempo#
 5539 Centro#
-5540  El Salón de Desafíos#
+5540     El Salón de Desafíos#
 5541  Desafío 1: Conceptos Básicos y Combate Cuerpo a Cuerpo#
 5542  Desafío 2: Arcos, Flechas y Armas Arrojadizas#
 5543  Desafío 3: Trampas de Mazmorra, Púas y Pedruscos#
@@ -5425,10 +5425,8 @@ mejores tiempos?#
 5558 Ok#
 5559 JUGAR#
 5560 TUTORIALES#
-5561  
-CONTINUAR#
-5562  
-NUEVO#
+5561 CONTINUAR#
+5562 COMENZAR#
 5563 Creando lobby de Epic...#
 5564 Error al crear lobby de Epic.#
 5565 Error al crear lobby de Epic.
@@ -5507,7 +5505,7 @@ Piso%d#
 5608 Iniciar Mazmorra#
 5609 Seleccionar una partida para iniciar.#
 
-5610 ARCHIVO DE AVENTURA#
+5610 ARCHIVOS DE AVENTURA#
 5611 LOGROS#
 5612 COMPEDIO DE LA MAZMORRA#
 5613 PUNTUACIONES#
@@ -5580,7 +5578,7 @@ Esperaré.#
 5707 Buena suerte#
 5708 Claro#
 5709 De todos modos
- no podrías matar al lich.#
+ no podrías matar al liche.#
 5710 Tienes razón#
 5711 ¿Ah, si?#
 5712 ¡No sabes jugar!
@@ -5666,7 +5664,7 @@ te echo de este juego.#
 5774 COMENZAR PARTIDA#
 5775 PARTIDA CON MODS#
 5776 DESACTIVAR MODS#
-5777 ARCHIVO DE AVENTURA#
+5777 ARCHIVOS DE AVENTURA#
 5778 CONFIGURACIÓN#
 5779 EDITOR#
 5780 SALIR#
@@ -6216,9 +6214,11 @@ Intentar más tarde por favor.#
 Reintentar en unos minutos.#
 6117 No hay desafíos disponibles
 en este momento.#
-6118 Sig
-Event:#
-6119 EVENTO DE SEMILLA#
+6118 Próximo
+Evento:#
+6119  EVENTO 
+ DE 
+SEMILLA#
 6120 ¡Una sola chance para
 clasificar! Solo Modo Local.#
 6121 ¡Enfrenta eventos semanales!
