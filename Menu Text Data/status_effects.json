@@ -97,7 +97,7 @@
 			"id": -8,
 			"internal_name": "EFF_FREEACTION",
 			"name": "Acción Libre",
-			"desc": "Cura [Dormir], [Lentitud], [Parálisis]",
+			"desc": "Cura [Sueño], [Lentitud], [Parálisis]",
 			"img_path": "*images/ui/HUD/statusfx/freeaction.png",
 			"img_from_spell_id": -1,
 			"tooltip_width": 200
