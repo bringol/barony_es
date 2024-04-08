@@ -60,61 +60,61 @@
 			"unknown_scroll": "pergamino desconocido"
 		},
 		"equipment_status": {
-			"broken": "Roto",
-			"decrepit": "Decrépito",
-			"worn": "Desgastado",
-			"serviceable": "Utilizable",
-			"excellent": "Excelente"
+			"broken": "[Rot@]",
+			"decrepit": "[Decrépit@]",
+			"worn": "[Desgastad@]",
+			"serviceable": "[Utilizable]",
+			"excellent": "[Excelente]"
 		},
 		"food_status": {
-			"broken": "Podrido",
-			"decrepit": "Mohoso",
-			"worn": "Pasado",
-			"serviceable": "Ligeramente añejo",
-			"excellent": "Fresco"
+			"broken": "[Podrid@]",
+			"decrepit": "[Mohos@]",
+			"worn": "[Pasad@]",
+			"serviceable": "[Ligeramente Añej@]",
+			"excellent": "[Fresc@]"
 		},
 		"potion_status": {
-			"broken": "Evaporado",
-			"decrepit": "Nublado",
-			"worn": "Remolinante",
-			"serviceable": "Básico",
-			"excellent": "Burbujeante"
+			"broken": "[Evaporad@]",
+			"decrepit": "[Nublad@]",
+			"worn": "[Remolinante]",
+			"serviceable": "[Básic@]",
+			"excellent": "[Burbujeante]"
 		},
 		"book_status": {
-			"broken": "Destrozado",
-			"decrepit": "Rasgado",
-			"worn": "Descolorido",
-			"serviceable": "Marcado",
-			"excellent": "Inmaculado"
-		},
+			"broken": "[Destrozad@]",
+			"decrepit": "[Rasgad@]",
+			"worn": "[Descolorid@]",
+			"serviceable": "[Marcad@]",
+			"excellent": "[Inmaculad@]"
+		},	
 		"jewelry_status": {
-			"broken": "Destruido",
-			"decrepit": "Agrietado",
-			"worn": "Áspero",
-			"serviceable": "Imperfecto",
-			"excellent": "Perfecto"
+			"broken": "[Destruid@]",
+			"decrepit": "[Agrieta@]",
+			"worn": "[Ásper@]",
+			"serviceable": "[Imperfect@]",
+			"excellent": "[Perfect@]"
 		},
 		"tinkering_status": {
-			"broken": "Roto",
-			"decrepit": "Simple",
-			"worn": "Complejo",
-			"serviceable": "Intricado",
-			"excellent": "Artesanal"
+			"broken": "[Rot@]",
+			"decrepit": "[Simple]",
+			"worn": "[Complej@]",
+			"serviceable": "[Intricad@]",
+			"excellent": "[Artesanal]"
 		},
 		"beatitude_status": {
-			"cursed": "Maldito",
-			"blessed": "Bendito",
-			"uncursed": "Sin Maldecir"
+			"cursed": "[Maldit@]",
+			"blessed": "[Bendit@]",
+			"uncursed": "[Sin-Maldecir]"
 		},
 		"skill_modifiers": {
 			"penalty": "penalidad",
 			"bonus": "bonus"
 		},
 		"item_identified_status": {
-			"unidentified": "Desconocido",
-			"cursed": "Maldito",
-			"blessed": "Bendito",
-			"uncursed": "Sin Maldecir"
+			"unidentified": "[Desconocid@]",
+			"cursed": "[Maldit@]",
+			"blessed": "[Bendit@]",
+			"uncursed": "[Sin-Maldecir]"
 		},
 		"potion_ally_damage": {
 			"no_harm_ally": "\n+Sin daño aliado",
@@ -139,7 +139,7 @@
 			"mace": "Maza",
 			"sword": "Espada",
 			"axe": "Hacha",
-			"polearm": "Arma de asta",
+			"polearm": "Arma de Asta",
 			"unarmed": "Desarmado",
 			"shield": "Bloqueo",
 			"ranged": "Distancia"
