@@ -248,7 +248,7 @@
 			]
 		},
 		{
-			"name": "Armas de Asta",
+			"name": "Astas",
 			"id": 12,
 			"sfx": 578,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Polearms01.png",
@@ -282,7 +282,7 @@
 			]
 		},
 		{
-			"name": "Axes",
+			"name": "Hachas",
 			"id": 11,
 			"sfx": 570,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Axes01.png",
@@ -316,7 +316,7 @@
 			]
 		},
 		{
-			"name": "Maces",
+			"name": "Mazas",
 			"id": 10,
 			"sfx": 575,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Maces01.png",
