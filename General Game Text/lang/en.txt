@@ -4766,7 +4766,7 @@ ha sido desbloqueado#
 5024 Conectando
 .....#
 5025 Esperando al host...#
-5026 Saltear historia#
+5026    Omitir historia#
 5027 Confirmar (1)#
 5028 Confirmar (2)#
 5029 ¿Realmente quieres
@@ -5269,7 +5269,7 @@ Racial#
 MP:#
 5428 Supervivencia:
 Complejidad:#
-5429 Ocultar info. de clase#
+5429  Ocultar info. de clase#
 5430 Ver info. de clase#
 5431 *** Espera %d segundos antes de sugerir otra clase. ***#
 5432 %s: Necesitamos un %s.#
