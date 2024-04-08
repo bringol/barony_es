@@ -1,7 +1,7 @@
  # Barony en Español
 
 <p align="center">
-  <img src="https://i.postimg.cc/tCXPK436/logo.jpg"/>
+  <img src="https://i.postimg.cc/VN7ztswL/preview.png"/>
 </p>
 
 **Traducción no-oficial** al español del videojuego Barony y sus expansiones - de la compañía Turning Wheel LLC, actualmente disponible para PC en [Steam](https://store.steampowered.com/app/371970/Barony/), [GOG](https://www.gog.com/game/barony_cursed_edition), [EGS](https://www.epicgames.com/store/en-US/p/barony) y [Nintedo Switch](https://www.nintendo.com/us/store/products/barony-switch/).
@@ -27,12 +27,11 @@ La traducción ofrece una instalación independiente de Steam para aquellas pers
 
 ##  Instalación Manual
 <p align="center">
-    <a href="https://ibb.co/ftbmNmF"><img src="https://i.ibb.co/d6SnpnM/paso-1.png" alt="paso-1" border="0"></a>
+    <a><img src="https://i.postimg.cc/c4ZLtLtw/paso-1.png" alt="paso-1" border="0"></a>
 </p>
 
 <p align="center">
-        <a href="https://ibb.co/z4LShwp"><img src="https://i.ibb.co/kSrhgFj/Screenshot-from-2024-04-02-17-28-32.png" alt="Screenshot" border="0"></a>
-
+        <a><img src="https://i.postimg.cc/7Ysbvybz/paso-2.png" alt="paso-2" border="0"></a>
 </p>
 
 
