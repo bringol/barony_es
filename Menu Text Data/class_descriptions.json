@@ -3,7 +3,7 @@
 	"descriptions": {
 		"barbarian": {
 			"id": 0,
-			"stats": ["bien", "decente", "mal", "mal", "decente", "decente"],
+			"stats": ["good", "decent", "bad", "bad", "decent", "decent"],
 			"survival_complexity": [3,2],
 			"line_spacing": [0,
 				0,
@@ -33,7 +33,7 @@
 		},		
 		"warrior": {
 			"id": 1,
-			"stats": ["bien", "mal", "bien", "mal", "mal", "bien"],
+			"stats": ["good", "bad", "good", "bad", "bad", "good"],
 			"survival_complexity": [4,1],
 			"line_spacing": [0,
 				0,
@@ -63,7 +63,7 @@
 		},
 		"healer": {
 			"id": 2,
-			"stats": ["promedio", "promedio", "decente", "bien", "decente", "promedio"],
+			"stats": ["average", "average", "decent", "good", "decent", "average"],
 			"survival_complexity": [4,2],
 			"line_spacing": [0,
 				0,
@@ -96,7 +96,7 @@
 		},
 		"rogue": {
 			"id": 3,
-			"stats": ["mal", "bien", "mal", "mal", "bien", "decente"],
+			"stats": ["bad", "good", "bad", "bad", "good", "decent"],
 			"survival_complexity": [2,3],
 			"line_spacing": [0,
 				0,
@@ -128,7 +128,7 @@
 		},
 		"wanderer": {
 			"id": 4,
-			"stats": ["decente", "promedio", "decente", "promedio", "decente", "mal"],
+			"stats": ["decent", "average", "decent", "average", "decent", "bad"],
 			"survival_complexity": [4,1],
 			"line_spacing": [0,
 				0,
@@ -160,7 +160,7 @@
 		},
 		"cleric": {
 			"id": 5,
-			"stats": ["promedio", "mal", "decente", "decente", "promedio", "promedio"],
+			"stats": ["average", "bad", "decent", "decent", "average", "average"],
 			"survival_complexity": [3,2],
 			"line_spacing": [0,
 				0,
@@ -192,7 +192,7 @@
 		},
 		"merchant": {
 			"id": 6,
-			"stats": ["promedio", "mal", "decente", "promedio", "decente", "bien"],
+			"stats": ["average", "bad", "decent", "average", "decent", "good"],
 			"survival_complexity": [3,2],
 			"line_spacing": [0,
 				0,
@@ -224,7 +224,7 @@
 		},
 		"wizard": {
 			"id": 7,
-			"stats": ["mal", "promedio", "mal", "bien", "bien", "decente"],
+			"stats": ["bad", "average", "bad", "good", "good", "decent"],
 			"survival_complexity": [2,2],
 			"line_spacing": [0,
 				0,
@@ -256,7 +256,7 @@
 		},
 		"arcanist": {
 			"id": 8,
-			"stats": ["mal", "decente", "mal", "decente", "decente", "mal"],
+			"stats": ["bad", "decent", "bad", "decent", "decent", "bad"],
 			"survival_complexity": [3,3],
 			"line_spacing": [0,
 				0,
@@ -288,7 +288,7 @@
 		},
 		"joker": {
 			"id": 9,
-			"stats": ["promedio", "promedio", "promedio", "promedio", "promedio", "promedio"],
+			"stats": ["average", "average", "average", "average", "average", "average"],
 			"survival_complexity": [1,3],
 			"line_spacing": [0,
 				0,
@@ -320,7 +320,7 @@
 		},
 		"sexton": {
 			"id": 10,
-			"stats": ["bien", "bien", "promedio", "bien", "promedio", "promedio"],
+			"stats": ["good", "good", "average", "good", "average", "average"],
 			"survival_complexity": [3,4],
 			"line_spacing": [0,
 				0,
@@ -351,7 +351,7 @@
 			]
 		},
 		"ninja": {
-			"stats": ["bien", "bien", "decente", "promedio", "promedio", "mal"],
+			"stats": ["good", "good", "decent", "average", "average", "bad"],
 			"survival_complexity": [2,2],
 			"line_spacing": [0,
 				0,
@@ -384,7 +384,7 @@
 		},
 		"monk": {
 			"id": 12,
-			"stats": ["decente", "mal", "bien", "promedio", "mal", "mal"],
+			"stats": ["decent", "bad", "good", "average", "bad", "bad"],
 			"survival_complexity": [5,1],
 			"line_spacing": [0,
 				0,
@@ -416,7 +416,7 @@
 		},
 		"conjurer": {
 			"id": 13,
-			"stats": ["mal", "mal", "decente", "bien", "decente", "decente"],
+			"stats": ["bad", "bad", "decent", "good", "decent", "decent"],
 			"survival_complexity": [3,3],
 			"line_spacing": [0,
 				0,
@@ -448,7 +448,7 @@
 		},
 		"accursed": {
 			"id": 14,
-			"stats": ["promedio", "promedio", "mal", "bien", "bien", "promedio"],
+			"stats": ["average", "average", "bad", "good", "good", "average"],
 			"survival_complexity": [1,3],
 			"line_spacing": [0,
 				0,
@@ -480,7 +480,7 @@
 		},
 		"mesmer": {
 			"id": 15,
-			"stats": ["promedio", "promedio", "mal", "bien", "decente", "bien"],
+			"stats": ["average", "average", "bad", "good", "decent", "good"],
 			"survival_complexity": [3,3],
 			"line_spacing": [0,
 				0,
@@ -512,7 +512,7 @@
 		},
 		"brewer": {
 			"id": 16,
-			"stats": ["promedio", "decente", "decente", "mal", "pobre", "decente"],
+			"stats": ["average", "decent", "decent", "bad", "poor", "decent"],
 			"survival_complexity": [2,5],
 			"line_spacing": [0,
 				0,
@@ -544,7 +544,7 @@
 		},
 		"mechanist": {
 			"id": 17,
-			"stats": ["mal", "decente", "mal", "promedio", "bien", "promedio"],
+			"stats": ["bad", "decent", "bad", "average", "good", "average"],
 			"survival_complexity": [2,5],
 			"line_spacing": [0,
 				0,
@@ -576,7 +576,7 @@
 		},
 		"punisher": {
 			"id": 18,
-			"stats": ["decente", "promedio", "mal", "promedio", "decente", "decente"],
+			"stats": ["decent", "average", "bad", "average", "decent", "decent"],
 			"survival_complexity": [2,4],
 			"line_spacing": [0,
 				0,
@@ -608,7 +608,7 @@
 		},
 		"shaman": {
 			"id": 19,
-			"stats": ["promedio", "promedio", "promedio", "promedio", "promedio", "promedio"],
+			"stats": ["average", "average", "average", "average", "average", "average"],
 			"survival_complexity": [2,4],
 			"line_spacing": [0,
 				0,
@@ -640,7 +640,7 @@
 		},
 		"hunter": {
 			"id": 20,
-			"stats": ["mal", "bien", "mal", "promedio", "bien", "promedio"],
+			"stats": ["bad", "good", "bad", "average", "good", "average"],
 			"survival_complexity": [2,2],
 			"line_spacing": [0,
 				0,
@@ -672,28 +672,28 @@
 		},
 		"shapeshift_rat": {
 			"id": 100,
-			"stats": ["mal", "bien", "mal", "decente", "mal", "mal"],
+			"stats": ["bad", "good", "bad", "decent", "bad", "bad"],
 			"survival_complexity": [1,1],
 			"line_spacing": [],
 			"desc": []
 		},
 		"shapeshift_spider": {
 			"id": 101,
-			"stats": ["mal", "mal", "decente", "mal", "bien", "mal"],
+			"stats": ["bad", "bad", "decent", "bad", "good", "bad"],
 			"survival_complexity": [1,1],
 			"line_spacing": [],
 			"desc": []
 		},
 		"shapeshift_troll": {
 			"id": 102,
-			"stats": ["bien", "mal", "decente", "mal", "mal", "mal"],
+			"stats": ["good", "bad", "decent", "bad", "bad", "bad"],
 			"survival_complexity": [1,1],
 			"line_spacing": [],
 			"desc": []
 		},
 		"shapeshift_imp": {
 			"id": 103,
-			"stats": ["mal", "decente", "mal", "bien", "mal", "mal"],
+			"stats": ["bad", "decent", "bad", "good", "bad", "bad"],
 			"survival_complexity": [1,1],
 			"line_spacing": [],
 			"desc": []
