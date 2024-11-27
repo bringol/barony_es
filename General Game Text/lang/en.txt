@@ -4002,7 +4002,7 @@ ingrediente alquímico secundario %s #
 en blanco para incribir#
 3721 DEPRECATED#
 3722 DEPRECATED#
-3723 Liberar Casilla #
+3723 Liberar Celda #
 3724 ¡%s inscripto!#
 3725 Rastreas parte del texto desgastado...#
 3726 Seleccionar un grimorio
@@ -4395,7 +4395,7 @@ antes de negociar!#
 4073 Ves un cartel.#
 4074 Lista de Habilidades#
 # Action Prompts
-4075 Atacar#
+4075 Atq#
 4076 Defender#
 4077 Sigilo#
 4078 Canalizar#
@@ -4677,7 +4677,7 @@ ser cómplice de un acto violento!#
 4311 portal#
 4312 La poción no tuvo efecto.#
 4313 ¡Tus aliados se sienten purificados!#
-4314 Saltear al inicio/fin#
+4314 Ir al inicio/fin#
 4315 Página anterior/siguiente#
 4316 Desplazar arriba/abajo#
 4317 Tu %s no pudo caer en un lugar aceptable.#
@@ -5560,7 +5560,7 @@ el nivel del Salón de Desafíos?#
 piso actual será guardado.#
 5648 ¿Realmente deseas volver
 al menú principal?#
-5649 Salir al menu#
+5649 Salir al menú#
 5650 Cancelar#
 
 # quit messages
@@ -5952,7 +5952,7 @@ DIFICULTAD#
 5958 HECHIZOS#
 5959 Cofre#
 5960 Recoger todo#
-5961 Nivel de Hab:#
+5961 Nivel de Habilidad:#
 5962 Estadística Asociada:#
 5963 Atacar#
 5964 Sigilo#
@@ -5962,7 +5962,7 @@ DIFICULTAD#
 5968 HOJA DE PERSONAJE#
 5969 ORO#
 
-5970 Atacar#
+5970 Atq#
 5971 Usar#
 5972 Canalizar#
 5973 Defender#
@@ -6216,9 +6216,7 @@ Reintentar en unos minutos.#
 en este momento.#
 6118 Próximo
 Evento:#
-6119  EVENTO 
- DE 
-SEMILLA#
+6119  EVENTO SEMILLA#
 6120 ¡Una sola chance para
 clasificar! Solo Modo Local.#
 6121 ¡Enfrenta eventos semanales!
@@ -6253,7 +6251,7 @@ con el desafío del anfitrión.#
 6130 No se puede unir al lobby.
 No se admite unirse
 a desafíos.#
-6131 Eventos Semilla requiere
+6131 Eventos Semilla requieren
 desactivar mods antes de empezar.#
 6132 Lobby requiere desactivar
 mods antes de unirse.#
@@ -6309,9 +6307,9 @@ resultados.#
 intento de puntuación de One-Shot.#
 6168 Salir ahora terminará la partida y
 la enviará como resultado de One-Shot#
-6169 ¡Nuevos Eventos de Semilla Disponibles!#
+6169 ¡Nuevos Eventos Semilla Disponibles!#
 6170 
-Visita el menú de Eventos de Semilla
+Visita el menú de Eventos Semilla
 para participar.#
 6171 Desbloquea el Logro:
 "%s"

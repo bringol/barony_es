@@ -602,8 +602,8 @@
             "name_unidentified": "linterna"
         },
         "tool_blindfold": {
-            "name_identified": "venda para los ojos",
-            "name_unidentified": "venda para los ojos"
+            "name_identified": "antifaz",
+            "name_unidentified": "antifaz"
         },
         "tool_towel": {
             "name_identified": "toalla",
@@ -798,12 +798,12 @@
             "name_unidentified": "bastón mágico"
         },
         "tool_blindfold_focus": {
-            "name_identified": "venda de accion libre",
-            "name_unidentified": "venda"
+            "name_identified": "antifaz de acción libre",
+            "name_unidentified": "antifaz"
         },
         "tool_blindfold_telepathy": {
-            "name_identified": "venda de telepatía",
-            "name_unidentified": "venda"
+            "name_identified": "antifaz de telepatía",
+            "name_unidentified": "antifaz"
         },
         "spellbook_summon": {
             "name_identified": "grimorio de invocar esqueleto",
