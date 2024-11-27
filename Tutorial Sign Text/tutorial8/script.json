@@ -145,7 +145,7 @@
 				"con$ .",
 				"",
 				"Luego selecciona el resultado",
-				"de la casilla inferior",
+				"de la celda inferior",
 				"con$ para elaborarla."
             ],
             "attributes": {
@@ -192,7 +192,7 @@
 				"con$ .",
 				"",
 				"Luego selecciona el resultado",
-				"de la casilla inferior",
+				"de la celda inferior",
 				"con$ para elaborarla."
             ],
             "attributes": {
@@ -408,7 +408,7 @@
         "tutorial8h": {
             "sign": [
 				"Para ver las chances de duplicación,",
-				"pasa el cursor sobre la casilla",
+				"pasa el cursor sobre la celda",
 				"inferior del Alambique una vez",
 				"que tu poción y el agua estén",
 				"listos para la elaboración."

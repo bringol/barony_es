@@ -86,7 +86,7 @@
 				{
 					"tag": "STEALTH_CURRENT_VIS",
 					"title": "Visibilidad Actual:",
-					"value": "%d Casillas",
+					"value": "%d Celdas",
 					"realtime_update": true
 				}
 			]
