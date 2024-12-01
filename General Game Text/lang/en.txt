@@ -6314,5 +6314,148 @@ para participar.#
 6171 Desbloquea el Logro:
 "%s"
 para jugar esta clase.#
+6172 
+Magia Requerida: %d (%s)#
+6173 Nivel de Mazmorra:#
+6174 Habitantes#
+6175 Items#
+6176 Magia#
+6177 Mundo#
+6178 Codex#
+6179 ENTRADA ANT: #
+6180 ENTRADA SIG: #
+6181 %d of %d#
+6182 CONTENIDO#
+6183 ¡Nueva Entrada!#
+6184 Logros#
+6185 REGISTROS#
+6186 RECETARIO#
+6187 TIPS DE USO#
+6188 DETALLES#
+6189 ESTADÍSTICAS#
+6190 NVL #
+6191 EFECTIVIDAD DE DAÑO TIPADO:#
+6192 HABILIDADES:#
+6193 INVENTARIO:#
+6194 PUNTOS DE SABER DISPONIBLES#
+6195 ORDENAR ALFABÉTICAMENTE#
+6196 OCULTAR DESCONOCIDOS#
+6197 ATQ:#
+6198 PDR:#
+6199 PV:#
+6200 CA:#
+6201 VEL:#
+6202 HUMANOIDE#
+6203 RAZAS-BESTIA#
+6204 BESTIA#
+6205 NO-MUERTO#
+6206 DEMONÍACO#
+6207 CONSTRUCTO#
+6208 ELEMENTAL#
+6209 PTS#
+6210 COMPLETITUD TOTAL#
+6211 INVESTIGACIÓN#
+6212 CARTELES DE COMERCIOS#
+# breakables
+6213 tarro#
+6214 canasta#
+6215 ataúd#
+6216 jaula#
+6217 urna#
+6218 saco#
+6219 sarcófago#
+6220 olla#
+6221 carreta#
+6222 pallet#
+6223 caja#
+6224 tienda#
+6225 relicario#
+6226 bombilla#
+6227 doncella de hierro#
+6228 carretilla#
+6229 cristal#
+6230 gabinete#
+6231 cápsula#
+6232 barril#
+6233 tocón#
+6234 ¡Una entidad %s surge desde %s!#
+6235 ¡Te empuja un torrente!#
+6236 ¡Te rocían con grasa!#
+6237 ¡Te rocían con magma!#
+6238 ¡%s recibe un baño de magma ardiente!#
+6239 ¡%s recibe un baño de magma ardiente!#
+6240 ¡%s recibe un baño de lodo corrosivo!#
+6241 ¡%s recibe un baño de lodo corrosivo!#
+6242 ¡Te envuelve un rocío de lodo corrosivo!##
+6243 ¡%s recibe un baño de grasa!#
+6244 ¡%s recibe un baño de grasa!#
+6245 ¡Tus manos se vuelven resbalozas!#
+6246 ¡Tu escudo se desliza entre tus dedos!#
+6247 ORDENAR PRIMERO POR BLOQ.#
+6248 ¡%s aparece de repente!#
+6249 ¡Fallido!#
+6250 ESTADÍSTICAS (HARDCORE)#
+6251 ¡Abrir Compendio!#
+6252 ¡Un murciélago cercano despierta!#
+6253 ¡Varios ejemplares de %s emergen desde %s!#
+6254 sufrió una brutal extracción por parte de un murciélago.#
+6255 recibe un golpazo por parte de un osgo.#
+6256 osgo#
+6257 osgos#
+6258 golpea#
+6259 *gruñido*#
+6260 Ves un santuario de Dédalo.#
+6261 Santuario de Dédalo#
+6262 Tocar el santuaario de Dédalo#
+6263 ¡%s te lastima!#
+6264 ¡Te lastimas al atacar %s!#
+6265 ¡Los aliados de los gnomos se acobardan de miedo!#
+6266  No tienes suficientes Puntos de Saber. ¡Desbloquea logros para ganar más!#
+6267 ¡La salida es revelada!#
+6268 Tiras de la cuerda...#
+6269 campana#
+6270 campana#
+6271 Tocar campana#
+6272 ¡Algo estaba atorado dentro de la campana!#
+6273 ¡Esta campana está rota!#
+6274 Pero no pasa nada.#
+6275 ¡La campana cae estruendosamente!#
+6276 ¡Una campana que cae te golpea!#
+6277 recibe un campanazo.#
+6278 Campana#
+6279 ¡El badajo se rompe!#
+6280 ¡El tañido vigoriza tu %s!#
+6281 fuerza#
+6282 vigor#
+6283 agilidad#
+6284 mentalidad#
+6285 ¡El minotauro está cerca, apúrate!#
+6286 ¡Esquivas un ataque!#
+6287 ¡Esquivas un(a) %s!#
+6288 Your vigor vuelve a la normalidad.#
+6289 Tu agilidad vuelve a la normalidad.#
+6290 Tu mentalidad vuelve a la normalidad.#
+6291 flecha voladora#
+6292 virote volador#
+6293 roca voladora#
+6294 ¡Esquivaste un(a) %s volando hacia ti!#
+6295 hechizo#
+6296 proyectil#
+6297 ¡La cuerda se incendia!#
+6298 ¡El sonar te refrezca!#
+6299 Sala: Abierta#
+6300 Sala: Solo Amigos#
+6301 Sala: Solo por Invitación#
+6302 ladrón gnomo#
+6303 líder ladrón#
+6304 Encantar Arma#
+6305 Encantar Armadura#
+6306 Selecciona un item para encantar:#
+6307 El item %s
+ no se puede ser encantado.#
+6308 %s pierde algunas bendiciones.#
+6309 ¡Te golpea un torrente!#
+6310 Velcidad de Giro Rápido#
+6311 Afecta la velocidad horizonal de la acción Giro Rápido.#
 
-6200 FIN#
+6350 END#
