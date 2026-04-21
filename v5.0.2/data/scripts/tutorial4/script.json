@@ -1,0 +1,848 @@
+{
+    "version": 1,
+        "default_attributes": {
+			"font_color": {
+				"r": 239,
+				"g": 237,
+				"b": 235,
+				"a": 255
+			},
+			"font_outline_color": {
+				"r": 50,
+				"g": 29,
+				"b": 25,
+				"a": 255
+			},
+			"font_highlight_color": {
+				"r": 18,
+				"g": 196,
+				"b": 131,
+				"a": 255
+			},
+			"font_highlight2_color": {
+				"r": 64,
+				"g": 192,
+				"b": 255,
+				"a": 255
+			}
+        },
+    "script_entries": {		
+        "tutorial4a": {
+            "sign": [
+				"$",
+				"Los Pergaminos de Identificar",
+				"pueden darte la",
+				"certeza que necesitas",
+				"cuando no tienes",
+				"tiempo para esperar."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0,1,2],
+					[],
+					[0]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial4/sign_scroll.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+        },
+        "tutorial4b": {
+            "sign": [
+				"Descarta los objetos",
+				"que no necesitas, ya que",
+				"te ralentizarán.",
+				"",
+				"Moverte lentamente",
+				"puede llevarte a la muerte."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+				},
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[0],
+					[],
+					[],
+					[2]
+				],
+                "word_highlights2": [
+					[0]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial4/dump_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial4b_gamepad": {
+            "sign": [
+				"Descarta los objetos",
+				"que no necesitas, ya que",
+				"te ralentizarán.",
+				"",
+				"Moverte lentamente",
+				"puede llevarte a la muerte."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+				},
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[0],
+					[],
+					[],
+					[2]
+				],
+                "word_highlights2": [
+					[0]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial4/dump_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },		
+        "tutorial4c": {
+            "sign": [
+				"No puedes atacar, bloquear,",
+				"conjurar hechizos o moverte",
+				"sigilosamente mientras nadas,",
+				"¡pero puedes interactuar",
+				"con objetos!",
+				"",
+				"$ "
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight2_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[3]
+				],
+                "word_highlights2": [
+					[1]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#images/ui/SkillSheet/Icons/Swimming02_32.png",
+				"sizex": 0,
+				"sizey": 0
+				}
+			]
+        },
+        "tutorial4do": {
+            "sign": [
+				"Si la Levitación termina",
+				"mientras estás sobre un",
+				"abismo, seguro morirás.",
+				"",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[5],
+					[2,3]
+				],
+                "word_highlights2": [
+					[1]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#items/images/spells/levitation.png",
+				"sizex": 0,
+				"sizey": 0
+				}				
+			]
+        },
+        "tutorial4d": {
+            "sign": [
+				"No siempre tendrás el",
+				"lujo del tiempo cuando",
+				"te enfrentes a desafíos en",
+				"la mazmorra.",
+				"",
+				"Las soluciones imperfectas pueden",
+				"ser necesarias para sobrevivir.",
+				"Ahora serás puesto a prueba."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[1,2,3],
+					[],
+					[],
+					[],
+					[0,1],
+					[1]
+				]
+            },
+            "variables": []
+        },		
+        "tutorial4e": {
+            "sign": [
+				"Encontrar comida es esencial",
+				"para tu supervivencia.",
+				"",
+				"$",
+				"Si te demoras,",
+				"morirás de hambre."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},		
+					"font_highlight2_color": {
+						"r": 64,
+						"g": 192,
+						"b": 255,
+						"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[1,3]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#images/ui/HUD/HUD_Hunger_01D.png",
+				"sizex": 0,
+				"sizey": 0
+				}		
+			]
+        },
+        "tutorial4f": {
+            "sign": [
+				"Uno de estos amuletos",
+				"está encantado con",
+				"una maldición mortal.",
+				"",
+				"La Tasación te dirá",
+				"cuál es cuál."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[1,2]
+				],
+                "word_highlights2": [
+					[3],
+					[],
+					[],
+					[],
+					[0]
+				]
+            },
+            "variables": []
+        },
+        "tutorial4g": {
+            "sign": [
+				"La mayoría de los objetos",
+				"no están identificados.",
+				"$",
+				"Si tu habilidad de Tasar",
+				"es baja, puedes fallar",
+				"al intentar identificarlos."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 255,
+						"b": 64,
+						"a": 255
+					},		
+					"font_highlight2_color": {
+						"r": 64,
+						"g": 192,
+						"b": 255,
+						"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[1,2]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[3,4],
+					[1]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial4/sign_bread.png",
+				"sizex": 0,
+				"sizey": 0
+				}
+			]
+        },
+        "tutorial4h": {
+            "sign": [
+				"A veces, los objetos malditos",
+				"son mejores que nada.",
+				"Úsalos cuando sea necesario.",
+				"",
+				"Algunas maldiciones tienen penalizaciones",
+				"al usarlos, o peor, sus beneficios pueden",
+				"ser revertidos.",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[3],
+					[],
+					[3]
+				],
+                "word_highlights2": [
+					[],
+					[1,2,3]				
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial4/sign_reverse.png",
+				"sizex": 0,
+				"sizey": 0
+				}			
+			]
+        },
+        "tutorial4ha": {
+            "sign": [
+				"El equipo maldito no puede",
+				"ser removido normalmente",
+				"una vez equipado.",
+				"$",
+				"Las consecuencias de esto",
+				"pueden ser devastadoras,",
+				"dependiendo del objeto."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0,2],
+					[1,2],
+					[],
+					[],
+					[],
+					[3]
+				],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial4/sign_curse.png",
+				"sizex": 0,
+				"sizey": 0
+				}	
+			]		
+        },
+        "tutorial4hi": {
+            "sign": [
+				"Prioriza los objetos del inventario",
+				"que desees Tasar primero",
+				"pulsando$.",
+				"$",
+				"Pulsa$ en objetos identificados",
+				"para ver en mayor detalle",
+				"sus efectos específicos."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[1],
+					[2],
+					[1],
+					[],
+					[0],
+					[2,3],
+					[0]
+				],
+                "word_highlights2": [
+					[],
+					[2]
+				]
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Expand Inventory Tooltip"
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial4/sign_appraise.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Expand Inventory Tooltip"
+				}		
+			]				
+        },
+        "tutorial4i": {
+            "sign": [
+				"Tasar y decidir",
+				"si usar o no",
+				"los objetos puede ser",
+				"la diferencia entre",
+				"la vida y la muerte",
+				"en las mazmorras.",
+				"",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#images/ui/SkillSheet/Icons/Appraisal02_32.png",
+				"sizex": 0,
+				"sizey": 0
+				}
+			]
+        },
+        "tutorial4j": {
+            "sign": [
+				"La paciencia puede causar",
+				"tu muerte.",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial4/sign_potion.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+        },
+        "tutorial4k": {
+            "sign": [
+				"Este objeto es un",
+				"Amuleto Maldito de",
+				"Reflejo Mágico.",
+				"",
+				"Este efecto aún funciona",
+				"incluso si está maldito.",
+				"",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[0,1]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[0,1],
+					[],
+					[2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial4/magicreflect.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#items/images/spells/reflect_magic.png",
+				"sizex": 0,
+				"sizey": 0
+				}	
+			]
+        },
+        "tutorial4ks": {
+            "sign": [
+				"Las Bendiciones pueden ofrecer",
+				"efectos mejorados a algunos",
+				"objetos existentes."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[0],
+					[0,1]
+				]
+            },
+            "variables": []
+        },		
+        "tutorial4l": {
+            "sign": [
+				"La comida en mal estado",
+				"tiene la posiblidad de",
+				"causarte perjuicios.",
+				"$",
+				"Tu desesperación deberá",
+				"influenciar si vale",
+				"la pena tal riesgo."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[2],
+					[],
+					[1]
+				],
+                "word_highlights2": [
+					[0,1],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial4/sign_pie.png",
+				"sizex": 0,
+				"sizey": 0
+				}			
+			]
+        },
+        "tutorial4m": {
+            "sign": [
+				"La comida puede parecer",
+				"muy escasa al principio.",
+				"",
+				"Persiste y mejora en el",
+				"acto de tu aventura."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial4n": {
+            "sign": [
+				"$$$",
+				"Las Toallas pueden ser",
+				"usadas para limpiarte,",
+				"o usadas como vendajes",
+				"para detener sangrados.",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight2_color": {
+						"r": 64,
+						"g": 192,
+						"b": 255,
+						"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[3]
+				],
+                "word_highlights2": [
+					[],
+					[0],
+					[1,2,3],
+					[],
+					[1,2]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#images/ui/HUD/statusfx/messypie.png",
+				"sizex": 0,
+				"sizey": 0
+				},
+				{
+				"type": "image",
+				"value": "*#images/ui/HUD/statusfx/grease.png",
+				"sizex": 0,
+				"sizey": 0
+				},			
+				{
+				"type": "image",
+				"value": "*#images/ui/HUD/statusfx/bleed.png",
+				"sizex": 0,
+				"sizey": 0
+				},
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial4/sign_towel.png",
+				"sizex": 80,
+				"sizey": 80
+				}				
+			]
+        },
+        "tutorial4o": {
+            "sign": [
+				"La comida podrida puede",
+				"causarte agravios, acelerando",
+				"tu inanición.",
+				"",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0,1],
+					[],
+					[1]
+				],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial4/sign_meat.png",
+				"sizex": 0,
+				"sizey": 0
+				}
+			]
+        }
+    }
+}

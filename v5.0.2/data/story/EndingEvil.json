@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "press_a_to_advance": true,
+    "text": [
+    	"*3A través del portal, una débil magia te empuja desde la Ciudadela.\n",
+    	"Tus pies flotan por encima del suelo mientras tiemblan violentamente.\n",
+    	"Tuberías y pistones caen en un estruendo ahogado...\n^",
+    	"*1Cierras los ojos sabiendo que la magia te sujeta con firmeza.\n^",
+    	"*2Parece que has obtenido lo que esperabas, aunque no como quisieras..\n",
+    	"El poder no puede ser contenido...debe ser usado.\n^",
+    	"Los años venideros no son fáciles para el mundo exterior. Eventualmente,\n",
+    	"aprenden que la alegría y la gloria provienen de la fuerza.\n^",
+    	"*1Masacras a quienquiera se oponga ante ti. Con el tiempo, hasta los humanos.\n",
+    	"*2llevan tu estandarte ¿Puede algún imperio desafiar lo que has construido? Los\n",
+    	"profetas enseñan que el espíritu humano lo soporta todo, y temes que sea verdad...\n^",
+    	"*1El poder que conoces siempre estará esperando."
+    ],
+    "images": [
+	"images/ui/Main Menus/Story/black.png",
+	"images/ui/Main Menus/Story/white.png",
+	"images/ui/Main Menus/Story/PowerWaiting.png",
+	"images/ui/Main Menus/Story/intro3.png",
+	"images/ui/Main Menus/Story/EvilThrone.png",
+	"images/ui/Main Menus/Story/PowerWaiting.png"
+    ]
+}
