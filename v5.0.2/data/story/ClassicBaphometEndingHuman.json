@@ -1,0 +1,30 @@
+{
+    "version": 1,
+    "press_a_to_advance": true,
+    "text": [
+    	"*3Abriéndote paso a través de cada demonio en tu camino, te lanzas hacia\n",
+	"el portal sin dudarlo. Cualquier lugar es mejor que aquí...\n",
+	"o eso crees.\n^",
+	"*3Repentinamente, y con cansancio, te encuentras en un interminable pasillo blanco\n",
+	"repleto de enormes columnas que se extienden más alto de lo que puedes ver. Ya sin\n",
+	"energías, dejas caer tus armas y das un paso adelante.\n",
+	"*2Seguramente, si algo sucediera ahora sería tu fin; no obstante, sin explicación\n",
+	"sientes que el poder regresa repentinamente a ti. Una voz retumba:\n^",
+	"*3\"Saludos, humano. Hemos sido testigos de tus pruebas y tribulaciones, y estamos\n",
+	"infinitamente impresionados por tu fortaleza y fuerza de voluntad. Por lo tanto,\n",
+	"tenemos una proposición para ofrecerte...\"^",
+	"*3Mientras la voz se dirige hacia ti, te encuentras renuente o incapaz de rechazar\n",
+	"sus palabras. Eventualmente, hay un cambio inexplicable en tu ser mortal,\n",
+	"y sientes que te desvaneces...\n^",
+	"*3\"El mal se disipa del mundo mortal, y su Guardián duerme. La primera era\n",
+	"llega a su fin, y la era del caos comienza. Descansa ahora, valiente: tu tiempo\n",
+	"volverá a llegar.\""
+    ],
+    "images": [
+	"*images/ui/Main Menus/Story/black.png",
+	"*images/ui/Main Menus/Story/NoEternals.png",
+	"*images/ui/Main Menus/Story/Eternals.png",
+	"*images/ui/Main Menus/Story/white.png",
+	"*images/ui/Main Menus/Story/black.png"
+    ]
+}

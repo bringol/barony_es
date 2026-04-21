@@ -1,0 +1,1316 @@
+{
+    "version": 1,
+	"default_attributes": {
+		"font_color": {
+			"r": 239,
+			"g": 237,
+			"b": 235,
+			"a": 255
+		},
+		"font_outline_color": {
+			"r": 50,
+			"g": 29,
+			"b": 25,
+			"a": 255
+		},
+		"font_highlight_color": {
+			"r": 18,
+			"g": 196,
+			"b": 131,
+			"a": 255
+		},
+		"font_highlight2_color": {
+			"r": 64,
+			"g": 192,
+			"b": 255,
+			"a": 255
+		}
+	},
+    "script_entries": {
+        "tutorial5a": {
+            "sign": [
+				"Puertas, muebles y cofres",
+				"pueden bloquear tu camino.",
+				"Los ataques cuerpo a cuerpo pueden ",
+				"destruirlos igual de bien que las",
+				"bolas de fuego, los enemigos",
+				"y los pedruscos."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[3],
+					[0],
+					[]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial5/furniture.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial5b": {
+            "sign": [
+				"Con hechizos activos,",
+				"grimorios equipados y",
+				"bastones mágicos, puedes",
+				"acceder a una variedad de",
+				"hechizos rápidamente.",
+				"",
+				"$ $ $"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[1,2],
+					[0,1],
+					[0],
+					[],
+					[1]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#items/images/SpellbookGreen.png",
+					"sizex": 36,
+					"sizey": 36
+				},
+				{
+					"type": "image",
+					"value": "*#items/images/spells/forcebolt.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#items/images/RedMysticStaff.png",
+					"sizex": 36,
+					"sizey": 36
+				}						
+			]
+        },
+        "tutorial5c": {
+            "sign": [
+				"Usa tu conocimiento de",
+				"magia para limpiar esta",
+				"habitación de los no muertos."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[2,3],
+					[0,1,2,3]
+				]
+            },
+            "variables": []
+        },
+        "tutorial5d": {
+            "sign": [
+				"Puedes equipar de forma",
+				"automática cualquier",
+				"grimorio avanzado usándolo",
+				"desde tu hotbar.",
+				"",
+				"Para equipar un grimorio",
+				"desde tu hotbar sin intentar",
+				"memorizarlo, deberás",
+				"mantener pulsado$ antes de usarlo."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[0,1,2],
+					[],
+					[1],
+					[],
+					[],
+					[],
+					[],
+					[0]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[3],
+					[2]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#images/ui/Glyphs/KeyboardGlyphs/Rendered/NamedKeys/Unpressed_Text_Alt_00.png",
+					"sizex": 0,
+					"sizey": 0
+				}					
+			]
+        },
+        "tutorial5d_gamepad": {
+            "sign": [
+				"Puedes equipar grimorios avanzados,",
+				"o previamente memorizados,",
+				"usándolos desde tu hotbar.",
+				"",
+				"Algunos hechizos son más",
+				"poderosos si se lanzan desde",
+				"un grimorio equipado."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[2],
+					[],
+					[],
+					[2],
+					[1,2]
+				],
+                "word_highlights2": [
+					[],
+					[0,1]
+				]
+            },
+            "variables": []
+        },		
+        "tutorial5e": {
+            "sign": [
+				"Estos pergaminos eliminan",
+				"maldiciones de objetos.",
+				"Úsalos desde tu",
+				"inventario con$ .",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[0],
+					[0,1]
+				],
+                "word_highlights2": [
+					[2],
+					[0]
+				]
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuRightClick"
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial5/sign_cursed.png",
+					"sizex": 0,
+					"sizey": 0
+				}						
+			]
+        },
+		"tutorial5e_gamepad": {
+            "sign": [
+				"Estos pergaminos eliminan",
+				"maldiciones de objetos.",
+				"Úsalos desde tu",
+				"inventario con$ .",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[0],
+					[0,1]
+				],
+                "word_highlights2": [
+					[2],
+					[0]
+				]
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuConfirm"
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial5/sign_cursed.png",
+					"sizex": 0,
+					"sizey": 0
+				}						
+			]
+        },
+        "tutorial5f": {
+            "sign": [
+				"Una habilidad baja de Canalizar",
+				"puede ocasionar que tus hechizos",
+				"fallen con frecuencia.",
+				"",
+				"$",
+				"",
+				"¡Simplemente inténtalo de nuevo!",
+				"La práctica hace al maestro."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},							
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[0]
+				],
+                "word_highlights2": [
+					[1,2],
+					[2],
+					[],
+					[],
+					[],
+					[1,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial5/fizzle.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Casting02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				}			
+			]
+        },
+        "tutorial5g": {
+            "sign": [
+				"La mazmorra esconde muchos",
+				"secretos. Algunos requieren",
+				"habilidades para el acceso.",
+				"",
+				"A menudo, esconden",
+				"grandes recompensas."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0,2],
+					[],
+					[2],
+					[],
+					[0,1]
+				]
+            },
+            "variables": []
+        },
+        "tutorial5h": {
+            "sign": [
+				"Los grimorios, los hechizos",
+				"memorizados, los pergaminos",
+				"y los bastones mágicos",
+				"otorgan diversas formas",
+				"para que lanzadores de",
+				"hechizos logren sobrevivir",
+				"y conquistar la mazmorra."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial5i": {
+            "sign": [
+				"Los grimorios te permiten",
+				"memorizar hechizos.",
+				"",
+				"$",
+				"",
+				"Usa los grimorios en tu",
+				"inventario con$ y [Leer]",
+				"para memorizar el hechizo."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1],
+					[0,1,3],
+					[1]					
+				],
+                "word_highlights2": [
+					[0],
+					[1,2]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Magic02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuRightClick"
+				}				
+			]
+        },
+		"tutorial5i_gamepad": {
+            "sign": [
+				"Los grimorios te permiten",
+				"memorizar hechizos.",
+				"",
+				"$",
+				"",
+				"Usa los grimorios en tu",
+				"inventario con$ y [Leer]",
+				"para memorizar el hechizo."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1],
+					[0,1,3],
+					[1]					
+				],
+                "word_highlights2": [
+					[0],
+					[1,2]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Magic02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuConfirm"
+				}				
+			]
+        },
+        "tutorial5j": {
+            "sign": [
+				"$",
+				"Los bastones mágicos están",
+				"cargados con un solo tipo de",
+				"hechizo que cualquier",
+				"aventurero puede usar.",
+				"Equípalos y usa su hechizo con$ ."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,3]
+					
+				],
+                "word_highlights2": [
+					[],
+					[0,2],
+					[],
+					[2,3]
+				]
+            },
+            "variables": [			
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial5/sign_firestaff.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				}				
+			]
+        },
+        "tutorial5k": {
+            "sign": [
+				"Será pertinente entender",
+				"la importancia de la",
+				"magia para sobrevivir", 
+				"en las mazmorras."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[1]
+				]
+            },
+            "variables": []
+        },
+        "tutorial5l": {
+            "sign": [
+				"Algunos hechizos requieren",
+				"más INT y Magia para",
+				"ser memorizados.",
+				"",
+				"$ $",
+				"",
+				"Todavía puedes lanzar esos",
+				"hechizos equipando el libro."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[2]
+				],
+                "word_highlights2": [
+					[2],
+					[1],
+					[2],
+					[],
+					[],
+					[],
+					[3]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Magic01.png",
+					"sizex": 0,
+					"sizey": 0
+				}							
+			]
+        },
+        "tutorial5m": {
+            "sign": [
+                "Memorized spells appear",
+				"in your magic list, and can",
+				"be placed in the hotbar.",
+				"$",
+                "Quickly access the",
+				"list with$and ready",
+                "the spell with$ ."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[1],
+					[1,3],
+					[1,2]
+				],
+                "word_highlights2": [
+					[0,1],
+					[2,3],
+					[],
+					[3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial5/magiclist_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial5/sign_readyspell.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Spell List"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuRightClick"
+				}				
+			]
+        },
+        "tutorial5m_gamepad": {
+            "sign": [
+				"Los hechizos memorizados",
+				"aparecen en tu lista de",
+				"magias, y pueden colocarse",
+				"para su uso rápido en tu hotbar.",
+				"$",
+				"Accede rápidamente a la",
+				"lista con$ y prepara",
+				"el hechizo con$ ."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[2],
+					[1,3],
+					[1,2]
+				],
+                "word_highlights2": [
+					[0,1],
+					[2,3],
+					[],
+					[3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial5/magiclist_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial5/sign_readyspell.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuPageLeftAlt"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuConfirm"
+				}				
+			]
+        },		
+        "tutorial5n": {
+            "sign": [
+				"Lanza tu hechizo",
+				"preparado con$ .",
+				"",
+				"Canalizar consumirá PM,",
+				"dependiendo del hechizo."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0],
+					[1]
+				],
+                "word_highlights2": [
+					[2],
+					[],
+					[],
+					[1,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial5/cast_memorized.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Cast Spell"
+				}			
+			]
+        },
+        "tutorial5o": {
+            "sign": [
+				"Presiona$ en los grimorios",
+				"ubicados en tu inventario",
+				"y selecciona [Equipar] para",
+				"equiparlos.",
+				"",
+				"Canaliza desde los ",
+				"libros en mano con$ ."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0,2],
+					[],
+					[1,2],
+					[0],
+					[],
+					[0,2],
+					[1]
+				],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuRightClick"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Defend"
+				}				
+			]
+        },
+		"tutorial5o_gamepad": {
+            "sign": [
+				"Presiona$ en los grimorios",
+				"ubicados en tu inventario",
+				"y selecciona [Equipar] para",
+				"equiparlos.",
+				"",
+				"Canaliza desde los ",
+				"libros en mano con$ ."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0,2],
+					[],
+					[1,2],
+					[0],
+					[],
+					[0,2],
+					[1]
+				],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuConfirm"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Defend"
+				}				
+			]
+        },
+        "tutorial5p": {
+            "sign": [
+				"$",
+				"Los pergaminos pueden contener",
+				"magias especiales que solo",
+				"podrán ser utilizadas",
+				"una sola vez."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0],
+					[],
+					[3],
+					[1]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial4/sign_scroll.png",
+					"sizex": 0,
+					"sizey": 0
+				}			
+			]
+        },
+        "tutorial5q": {
+            "sign": [
+				"Esta puerta solo puede",
+				"abrirse con el hechizo",
+				"de un libro equipado.",
+				"",
+				"$ $"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[3],
+					[],
+					[2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial5/open_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Defend"
+				},
+				{
+					"type": "image",
+					"value": "*#items/images/spells/opening.png",
+					"sizex": 0,
+					"sizey": 0
+				}				
+			]
+        },
+        "tutorial5q_gamepad": {
+            "sign": [
+				"Esta puerta solo puede",
+				"abrirse con el hechizo",
+				"de un libro equipado.",
+				"",
+				"$ $"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[3],
+					[],
+					[2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial5/open_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Defend"
+				},
+				{
+					"type": "image",
+					"value": "*#items/images/spells/opening.png",
+					"sizex": 0,
+					"sizey": 0
+				}				
+			]
+        },		
+        "tutorial5r": {
+            "sign": [
+				"Necesitarás pensar rápidamente",
+				"para aprovechar al máximo",
+				"tu magia.",
+				"",
+				"Prepárate para el desafío."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0,1]
+				]
+            },
+            "variables": []
+        },
+        "tutorial5s": {
+            "sign": [
+                "Activa este portal mágico",
+				"con$ cuando ya te hayas",
+				"preparado para el desafío."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0],
+					[1]
+				],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				}				
+			]
+        },
+        "tutorial5t": {
+            "sign": [
+				"Los sombreros de mago pueden ",
+				"aumentar tu INT, lo a su vez ",
+				"mejorará tu habilidad mágica.",
+				"$",
+				"Un sombrero de mago bendecido",
+				"aumentará aún más tu INT."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[1],
+					[1,2],
+					[],
+					[1],
+					[4,5]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial5/sign_wizardhat.png",
+					"sizex": 0,
+					"sizey": 0
+				}					
+			]
+        },
+        "tutorial5u": {
+            "sign": [
+				"Levitar",
+				"",
+				"$ ",
+				"",
+				"Permite atravezar líquidos",
+				"y pozos con total libertad."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[1,2],
+					[1,2]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#items/images/spells/levitation.png",
+					"sizex": 0,
+					"sizey": 0
+				}			
+			]
+        },
+        "tutorial5v": {
+            "sign": [
+				"Pergamino de Recarga",
+				"$ ",
+				"Los bastones mágicos",
+				"se pueden recargar con",
+				"este pergamino."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[0],
+					[1],
+					[]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial5/sign_recharge.png",
+					"sizex": 0,
+					"sizey": 0
+				}				
+			]
+        },
+        "tutorial5w": {
+            "sign": [
+				"Los hechizos sostenidos siguen",
+				"activos una vez canalizados, y",
+				"continuarán drenando PM.",
+				"",
+				"$",
+				"",
+				"Re-canaliza hechizos sostenidos",
+				"para desactivarlos."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0],
+					[0,1]
+				],
+                "word_highlights2": [
+					[0,1],
+					[0],
+					[2,3]				
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial5/sustained.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#items/images/spells/light.png",
+					"sizex": 0,
+					"sizey": 0
+				}					
+			]
+        },
+        "tutorial5x": {
+            "sign": [
+				"Sueño",
+				"",
+				"$ ",
+				"",
+				"Hace que el objetivo",
+				"caiga en un breve letargo.",
+				"Los objetivos dormidos se",
+				"despertarán si son dañados."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[2],
+					[4],
+					[],
+					[2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial5/sleep.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#items/images/spells/sleep.png",
+					"sizex": 0,
+					"sizey": 0
+				}			
+			]
+        },
+        "tutorial5y": {
+            "sign": [
+				"$$",
+				"Los PM se regeneran lentamente",
+				"con el tiempo (RGN), también",
+				"es posible encontrar pociones",
+				"que restauran magia para poder",
+				"recuperar PM instantáneamente."		  
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0,1],
+					[2],
+					[],
+					[0,1],
+					[0,1,2]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial5/sign_restoremp.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/CharSheet/HUD_CharSheet_REGEN_00.png",
+					"sizex": 0,
+					"sizey": 0
+				}		
+			]
+        },
+        "tutorial5z": {
+            "sign": [
+                "Frío",
+				"",
+				"$ ",
+				"",
+				"Daña y ralentiza",
+				"a los objetivos"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[0],
+					[0]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial5/cold.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#items/images/spells/cold.png",
+					"sizex": 0,
+					"sizey": 0
+				}					
+			]
+        }
+    }
+}

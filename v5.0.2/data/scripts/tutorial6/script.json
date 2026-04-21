@@ -1,0 +1,764 @@
+{
+    "version": 1,
+	"default_attributes": {
+		"font_color": {
+			"r": 239,
+			"g": 237,
+			"b": 235,
+			"a": 255
+		},
+		"font_outline_color": {
+			"r": 50,
+			"g": 29,
+			"b": 25,
+			"a": 255
+		},
+		"font_highlight_color": {
+			"r": 18,
+			"g": 196,
+			"b": 131,
+			"a": 255
+		},
+		"font_highlight2_color": {
+			"r": 64,
+			"g": 192,
+			"b": 255,
+			"a": 255
+		}
+	},
+    "script_entries": {
+        "tutorial6a": {
+            "sign": [
+				"Mientras estás invisible,",
+				"los enemigos aún pueden",
+				"detectarte si estás muy cerca,",
+				"especialmente si atacas.",
+				"",
+				"$ "
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[0,1],
+					[],
+					[2]
+				],
+                "word_highlights2": [
+					[1]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#items/images/spells/invisible.png",
+					"sizex": 0,
+					"sizey": 0
+				}			
+			]
+        },
+        "tutorial6b": {
+            "sign": [
+				"Destruye los esqueletos",
+				"situados en el patio",
+				"a tu derecha.",
+				"",
+				"Solo en ese entonces",
+				"encontrarás abierta",
+				"la puerta situada a",
+				"tu izquierda."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[2],
+					[],
+					[],
+					[0],
+					[]
+				]
+            },
+            "variables": []
+        },
+        "tutorial6c": {
+            "sign": [
+				"Recuerda las debilidades",
+				"a los tipos de armas al",
+				"atacar sigilosamente.",
+				"$",
+				"¡Prepárate para golpear",
+				"otra vez después del",
+				"ataque inicial!"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[0,1,2],
+					[],
+					[3,4],
+					[],
+					[0,1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial6/swordmace.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial6/sign_ironmace.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+        },
+        "tutorial6d": {
+            "sign": [
+				"Observa el encaramiento",
+				"de los enemigos y calcula",
+				"tu ataque para garantizar",
+				"garantizar un golpe por la espalda.",
+				"",
+				"¡No necesitas moverte sigilosamente",
+				" cuando la espalda de tu enemigo",
+				" está expuesta!"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[2],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial6/backturned.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial6do": {
+            "sign": [
+				"Los fragmentos de cristal",
+				"son antorchas tenues",
+				"que nunca se apagan,",
+				"pero son muy frágiles.",
+				"",
+				"La penalización de visibilidad",
+				"de las antorchas de cristal",
+				"es la mitad que la de las",
+				"antorchas normales."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},	
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[2,3],
+					[],
+					[1,2]
+				],
+                "word_highlights2": [
+					[0,1],
+					[1],
+					[2,3],
+					[],
+					[],
+					[],
+					[],
+					[1]
+				]
+            },
+            "variables": []
+        },		
+        "tutorial6e": {
+            "sign": [
+				"Quienes decidan aventurarse",
+				"en la mazmorra, deberán usar",
+				"el sigilo a su favor para",
+				"lograr sobrevivir."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[3],
+					[2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial6f": {
+            "sign": [
+				"Cuando un enemigo está ocupado",
+				"con otro adversario, tu",
+				"puedes aumentar el daño",
+				"con ataques por flanqueo.",
+				"",
+				"¡No te acerques demasiado o",
+				"volverán su atención hacia ti!"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[2,3],
+					[],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[4],
+					[],
+					[1,2],
+					[1,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial6/flanking.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial6g": {
+            "sign": [
+				"Saber cómo pelear es útil,",
+				"pero acercarse a una pelea",
+				"con ventaja puede garantizar",
+				"la victoria."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[1,2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial6h": {
+            "sign": [
+				"$",
+				"Los enemigos tienen más",
+				"dificultades para detectarte",
+				"en la oscuridad.",
+				"Sostener una antorcha te hace",
+				"mucho más visible."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[1,2,3,4]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[2],
+					[],
+					[2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial6/sneaklight.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial1/sign_torch.png",
+					"sizex": 0,
+					"sizey": 0
+				}			
+			]
+        },
+        "tutorial6i": {
+            "sign": [
+				"$",
+				"",
+				"Sin un objeto en tu",
+				"mano secundaria,",
+				"mantén pulsado$para",
+				"moverte sigilosamente."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[0,2]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[1,2],
+					[]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Stealth02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Defend"
+				}				
+			]
+        },
+        "tutorial6j": {
+            "sign": [
+				"Al igual que al defender,",
+				"el sigilo te hace mover",
+				"con mayor lentitud.",
+				"",
+				"También hace más difícil",
+				"que puedan detectarte y",
+				"te permite ver mejor",
+				"en la oscuridad."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0],
+					[2],
+					[],
+					[],
+					[0,1,2],
+					[3,4],
+					[2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial6k": {
+            "sign": [
+				"Los enemigos que",
+				"no están al tanto de ti",
+				"reciben daño adicional al",
+				"ser atacados por la espalda."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[1,2],
+					[],
+					[0,1]
+				]
+            },
+            "variables": []
+        },
+        "tutorial6l": {
+            "sign": [
+				"Mantén presionado$para cargar",
+				"un ataque crítico y",
+				"maximizar el daño de",
+				"tu ataque inicial cuando",
+				"golpeas por la espalda."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0],
+					[2,3],
+					[],
+					[],
+					[],
+					[],
+					[3]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[0,1],
+					[],
+					[],
+					[],
+					[1,2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial6/followstrike.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				}					
+			]
+        },
+        "tutorial6m": {
+            "sign": [
+				"Tu habilidad en el sigilo",
+				"ahora será puesta a prueba.",
+				"",
+				"Mata al líder de los trasgos",
+				"y escapa con tu vida.",
+				"¡Evita o mata al resto!"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[0,1,2,3]
+				]
+            },
+            "variables": []
+        },
+        "tutorial6n": {
+            "sign": [
+				"El flanqueo, el sigilo,",
+				"los ataques por la espalda y",
+				"la gestión de la luz ayudará",
+				"a sobrevivir en la mazmorra."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial6no": {
+            "sign": [
+				"¡Felicidades!",
+				"Este es el último de los",
+				"seis desafíos básicos.",
+				"Los héroes realizan grandes",
+				"hazañas con estas lecciones.",
+				"",
+				"Los desafíos 7 a 10 brindan",
+				"lecciones especializadas.",
+				"Domínalas si anhelas tales",
+				"habilidades."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color":
+					{
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[0,1,2,3],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[1,2]
+					
+				]
+            },
+            "variables": []
+        },		
+        "tutorial6o": {
+            "sign": [
+				"Esta puerta solo se abre",
+				"cuando el líder trasgo es",
+				"eliminado."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[2,3],
+					[]
+				]
+            },
+            "variables": []
+        },
+        "tutorial6p": {
+            "sign": [
+				"Recolecta antorchas para",
+				"oscurecer áreas y facilitar",
+				"el sigilo."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0],
+					[]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial6/darken.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial6pa": {
+            "sign": [
+				"Después de ser detectados,",
+				"los aventureros sigilosos",
+				"pueden huir e intentar",
+				"acechar a un objetivo",
+				"una vez más."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[1,2]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[0],
+					[],
+					[]
+				]
+            },
+            "variables": []
+        },		
+        "tutorial6q": {
+            "sign": [
+				"Los trolls están casi ciegos.",
+				"Enemigos más perceptivos",
+				"pueden detectarte desde",
+				"mayores distancias.",
+				"",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[0],
+					[1],
+					[1],
+					[]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#images/ui/CharSheet/HUD_CharSheet_PER_00.png",
+					"sizex": 48,
+					"sizey": 48
+				}			
+			]
+        }
+    }
+}

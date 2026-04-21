@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "press_a_to_advance": true,
+    "text": [
+    	"*3Triunfante, entras en el portal. No sabes qué esperar, pero te\n",
+	"inunda la alegría. Esperas que la fuente del poder del Barón esté ahora\n",
+	"más cerca que nunca.\n^",
+	"*3Antes de tener tiempo para pensar, te encuentras de pie frente a las minas\n",
+	"una vez más. Pero algo es diferente; el poder seductor que sentiste aquí\n",
+	"está distante. Los cielos negros se despejan para mostrar la luz del día.\n^",
+	"*3De repente, las puertas de la mina se abren de par en par. Selladas durante \n",
+	"siglos para contener su mal, se abren desde adentro, mientras cien humanos\n",
+	"agradecidos corren hacia afuera. Parece que el poder del Barón escapó del alcance.\n^",
+	"*4La infernal fuente de ese poder oscuro sigue siendo un misterio para ti, y\n",
+	"algunas voces desde las sombras te hacen creer que el Gremio de Magos\n",
+	"puede tener pistas sobre alguna magia oscura. Por ahora, resuelves dejar esta\n",
+	"tierra y regresar en otro momento para explotar los secretos de Hamlet..."
+    ],
+    "images": [
+	"*images/ui/Main Menus/Story/black.png",
+	"*images/ui/Main Menus/Story/intro4.png",
+	"*images/ui/Main Menus/Story/Hamlet_Rescue.png",
+	"*images/ui/Main Menus/Story/MagiciansGuild.png"
+    ]
+}

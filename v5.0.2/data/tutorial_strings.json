@@ -1,0 +1,51 @@
+{
+    "version": 1,
+    "window_title": "¡Enfréntate a 10 desafíos que explican y ponen a prueba tus habilidades, preparándote para\n enfrentarte a la mazmorra!",
+    "default_hover_text": "Pasa el cursor sobre una entrada para más información.",
+    "levels": {
+        "tutorial_hub": {
+            "title": "El Salón de Desafíos",
+            "desc": "Descripción: El centro donde se pueden acceder a todos los desafios."
+        },
+        "tutorial1": {
+            "title": "Desafío 1: Conceptos Básicos y Combate Cuerpo a Cuerpo",
+            "desc": "Descripción: Aprende cómo interactuar con la mazmorra, cómo atacar con armas cuerpo a cuerpo,\n y cómo defenderte con escudos."
+        },
+        "tutorial2": {
+            "title": "Desafío 2: Arcos, Flechas y Armas Arrojadizas",
+            "desc": "Descripción: Aprende sobre los diferentes tipos de arcos y municiones,\n y cómo usar armas arrojadizas."
+        },
+        "tutorial3": {
+            "title": "Desafío 3: Trampas de Mazmorra, Púas y Pedruscos",
+            "desc": "Descripción: Aprende sobre los tipos de trampas que encontrarás, qué tan peligrosas son,\n y cómo evitarlas."
+        },
+        "tutorial4": {
+            "title": "Desafío 4: Alimentos, Tasaciones y Maldiciones",
+            "desc": "Descripción: Aprende sobre el hambre y la comida, y cómo tasar puede ayudarte a mitigar el\n riesgo de objetos no identificados."
+        },
+        "tutorial5": {
+            "title": "Desafío 5: Magias, Grimorios y Conjuros",
+            "desc": "Descripción: Aprende cómo memorizar hechizos y lanzar desde pergaminos, grimorios y bastones mágicos."
+        },
+        "tutorial6": {
+            "title": "Desafío 6: Sigilo y Ataques Furtivos",
+            "desc": "Descripción: Aprende cómo abordar el combate con ventaja usando la oscuridad, flanqueando y\n realizando asesinatos."
+        },
+        "tutorial7": {
+            "title": "Desafío 7: Comandos y Reclutamiento de Seguidores",
+            "desc": "Descripción: Aprende cómo liderar seguidores para aprovechar al máximo sus \ncapacidades versátiles."
+        },
+        "tutorial8": {
+            "title": "Desafío 8: Pociones y Alquimia",
+            "desc": "Descripción: Aprende lo básico sobre beber y lanzar pociones, así como mezclar las tuyas\n con un alambique."
+        },
+        "tutorial9": {
+            "title": "Desafío 9: Fabricar",
+            "desc": "Descripción: Aprende sobre muchos dispositivos que utilizan la habilidad de Fabricar, desde\n abrir cerraduras hasta elaborar defensas elaboradas."
+        },
+        "tutorial10": {
+            "title": "Desafío 10: Comerciantes y Comercios",
+            "desc": "Descripción: Aprende sobre los enigmáticos comerciantes, que son tan exigentes como poderosos,\n y cómo pueden ayudarte."
+        }
+    }
+}

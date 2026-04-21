@@ -2,18 +2,18 @@
 	"version": 1,
 	"contents": [
 		{"    CATEGORIES": "-"},
-		{"ADVENTURE": "adventure"},
-		{"EXPERIENCE": "experience"},
-		{"JOKER'S CHOICE": "joker"},
-		{"TEAMWORK": "teamwork"},
-		{"TECHNIQUE": "technique"}
+		{"ADVENTURE": "aventura"},
+		{"EXPERIENCE": "experiencia"},
+		{"JOKER'S CHOICE": "elección del guasón"},
+		{"TEAMWORK": "trabajo en equipo"},
+		{"TECHNIQUE": "técnica"}
 	],
 	"contents_alphabetical": [
 		{"    CATEGORIES": "-"},
-		{"ADVENTURE": "adventure"},
-		{"EXPERIENCE": "experience"},
-		{"JOKER'S CHOICE": "joker"},
-		{"TEAMWORK": "teamwork"},
-		{"TECHNIQUE": "technique"}
+		{"ADVENTURE": "aventura"},
+		{"EXPERIENCE": "experiencia"},
+		{"JOKER'S CHOICE": "elección del guasón"},
+		{"TEAMWORK": "trabajo en equipo"},
+		{"TECHNIQUE": "técnica"}
 	]
 }

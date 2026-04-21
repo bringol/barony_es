@@ -1,0 +1,1192 @@
+{
+    "version": 1,
+	"default_attributes": {
+		"font_color": {
+			"r": 239,
+			"g": 237,
+			"b": 235,
+			"a": 255
+		},
+		"font_outline_color": {
+			"r": 50,
+			"g": 29,
+			"b": 25,
+			"a": 255
+		},
+		"font_highlight_color": {
+			"r": 18,
+			"g": 196,
+			"b": 131,
+			"a": 255
+		},
+		"font_highlight2_color": {
+			"r": 64,
+			"g": 192,
+			"b": 255,
+			"a": 255
+		}
+	},
+    "script_entries": {
+        "tutorial10a": {
+            "sign": [
+				"El enemigo en la siguiente",
+				"habitación es capaz de",
+				"envenenarte con sus ataques.",
+				"",
+				"Algunos aventureros llevan",
+				"antídotos a mano. Otros simplemente",
+				"lo soportan o evitan ser golpeados."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[0]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0],
+					[],
+					[1,2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/blockcrab.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial10b": {
+            "sign": [
+				"$",
+				"Llevar los objetos que",
+				"encuentres de vuelta al",
+				"mercado puede aumentar",
+				"tus chances de éxito."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[1,2,3,4]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#images/system/shopkeeper.png",
+				"sizex": 74,
+				"sizey": 74
+				}					
+			]
+        },
+        "tutorial10c": {
+            "sign": [
+				"Los comerciantes te tratarán",
+				"de manera diferente si estás",
+				"bajo los efectos de polimorfia.",
+				"",
+				"La mayoría de los monstruos se",
+				"comportan de manera muy",
+				"diferente si les arrojas una",
+				"poción de polimorfia."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},		
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[1]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[1],
+					[],
+					[1],
+					[],
+					[0,1,2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/polythrow.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial10d": {
+            "sign": [
+				"Sin importar la clase,",
+				"quienes se aventuren" ,
+				"deberán usar el ingenio",
+				"al lidiar con los objetos",
+				"",
+				"Comprar con astucia puede",
+				"ser la diferencia entre",
+				"la preparación y la muerte."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial10e": {
+            "sign": [
+				"Los comerciantes no",
+				"pagarán mucho por una",
+				"gema no tasada, ¡podría",
+				"ser un vidrio inserdible!",
+				"",
+				"Usa un Pergamino de Identificar",
+				"cuando tu habilidad de tasación",
+				"no sea lo suficientemente alta."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[0,1,2],
+					[],
+					[2,3]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[2,3,4]
+				]
+            },
+            "variables": []
+        },
+        "tutorial10f": {
+            "sign": [
+				"Si se mata a un comerciante,",
+				"este dejará caer todo lo",
+				"que estaba vendiendo.",
+				"Pero la noticia se extiende",
+				"rápidamente en las mazmorras.",
+				"",
+				"Los enemigos del",
+				"Gremio de Comerciantes son",
+				"atacados a primera vista."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[],
+					[1,2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial10g": {
+            "sign": [
+				"Los comerciantes tienen un",
+				"gran entrenamiento en defensa",
+				"personal, y tratarán de",
+				"aniquilar a todos los",
+				"asaltantes con extremo",
+				"prejuicio."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[1,2]
+				],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial10h": {
+            "sign": [
+				"Cada comerciante comercia",
+				"en una categoría específica",
+				"de bienes.",
+				"",
+				"Este solo comercia sombreros,",
+				"así que no comprará tu gema.",
+				"",
+				"Usa este interruptor para",
+				"abrir el camino y encontrar",
+				"otros compradores."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[2,3,4,5]
+				],
+                "word_highlights2": [
+					[],
+					[2,3],
+					[],
+					[],
+					[2,3,4],
+					[],
+					[],
+					[],
+					[],
+					[0,1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/nosale_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial10h_gamepad": {
+            "sign": [
+				"Cada comerciante comercia",
+				"en una categoría específica",
+				"de bienes.",
+				"",
+				"Este solo comercia sombreros,",
+				"así que no comprará tu gema.",
+				"",
+				"Usa este interruptor para",
+				"abrir el camino y encontrar",
+				"otros compradores."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[2,3,4,5]
+				],
+                "word_highlights2": [
+					[],
+					[2,3],
+					[],
+					[],
+					[2,3,4],
+					[],
+					[],
+					[],
+					[],
+					[0,1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/nosale_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },		
+        "tutorial10i": {
+            "sign": [
+				"Con el menú de la tienda abierto,",
+				"pulsa$en tus objetos para poder",
+				"venderlos.",
+				"",
+				"Pulsa$en los objetos en el",
+				"inventario del comerciante",
+				"para comprar."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[0,1,2,3],
+					[],
+					[],
+					[0,1,2],
+					[0,1]
+				],
+                "word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/buysell_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuRightClick"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuRightClick"
+				}					
+			]
+        },
+        "tutorial10i_gamepad": {
+            "sign": [
+				"Con el menú de la tienda abierto,",
+				"pulsa$en tus objetos para poder",
+				"venderlos.",
+				"",
+				"Pulsa$en los objetos en el",
+				"inventario del comerciante",
+				"para comprar."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[0,1,2,3],
+					[],
+					[],
+					[0,1,2],
+					[0,1]
+				],
+                "word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/buysell_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuConfirm"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuConfirm"
+				}					
+			]
+        },		
+        "tutorial10j": {
+            "sign": [
+				"Puedes comenzar a comerciar",
+				"acercándote a los comerciantes",
+				"y pulsar$.",
+				"",
+				"Para cerrar la tienda,",
+				"pulsa$."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[1],
+					[],
+					[1],
+					[1]
+				],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Character Status"
+				}	
+			]
+        },		
+        "tutorial10j_gamepad": {
+            "sign": [
+				"Puedes comenzar a comerciar",
+				"acercándote a los comerciantes",
+				"y pulsar$.",
+				"",
+				"Para cerrar la tienda,",
+				"pulsa$."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[1],
+					[],
+					[1],
+					[1]				
+				],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuCancel"
+				}				
+			]
+        },
+        "tutorial10k": {
+            "sign": [
+				"Las tiendas siempre tienen",
+				"un aspecto distintivo,",
+				"sin importar dónde se",
+				"encuentren.",
+				"$",
+				"Busca letreros fuera de",
+				"las tiendas para tener una",
+				"vista previa de lo que",
+				"compran y venden."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial10/sign_shophat.png",
+				"sizex": 0,
+				"sizey": 0
+				}					
+			]
+        },
+        "tutorial10l": {
+            "sign": [
+				"Esta gema puede ser arrojada",
+				"como cualquier roca, pero su",
+				"verdadero valor radica en lo que",
+				"un comerciante pague por ella.",
+				"$",
+				"Maximiza el valor del comercio",
+				"con una habilidad de Comercio",
+				"alta."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[0,1],
+					[0,1]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial10/sign_gem.png",
+				"sizex": 0,
+				"sizey": 0
+				}				
+			]
+        },
+        "tutorial10m": {
+            "sign": [
+				"Cada objeto tiene un",
+				"valor en oro que se muestra",
+				"cuando te desplazas sobre él",
+				"en tu inventario.",
+				"",
+				"El valor de un objeto puede",
+				"cambiar cuando es tasado."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[2]
+				],
+                "word_highlights2": [
+					[],
+					[0,1],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/value_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial10m_gamepad": {
+            "sign": [
+				"Cada objeto tiene un",
+				"valor en oro que se muestra",
+				"cuando te desplazas sobre él",
+				"en tu inventario.",
+				"",
+				"El valor de un objeto puede",
+				"cambiar cuando es tasado."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[2]
+				],
+                "word_highlights2": [
+					[],
+					[0,1],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/value_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []			
+        },
+        "tutorial10n": {
+            "sign": [
+				"El oro no puede matar",
+				"monstruos, ni te alimentará.",
+				"$",
+				"Sin embargo, te permite",
+				"comerciar con los comerciantes."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[0],
+					[],
+					[],
+					[],
+					[1,2,3]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial10/sign_gold.png",
+				"sizex": 0,
+				"sizey": 0
+				}				
+			]
+        },
+        "tutorial10o": {
+            "sign": [
+				"Los joyeros compran y venden",
+				"amuletos, anillos y gemas.",
+				"$",
+				"¡Aquí puedes vender tu",
+				"gema por mucho oro!"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[0,1,2,3,4],
+					[0,1,2,3,4,5]
+					
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial10/sign_jeweler.png",
+				"sizex": 0,
+				"sizey": 0
+				}				
+			]
+        },
+        "tutorial10p": {
+            "sign": [
+				"Si estás acumulando",
+				"muchas cosas para vender,",
+				"una Tienda General es un",
+				"hallazgo muy afortunado.",
+				"$",
+				"Comprarán cualquier cosa y",
+				"tendrán objetos aleatorios."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[0,1],
+					[],
+					[],
+					[2,3]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial10/sign_general.png",
+				"sizex": 0,
+				"sizey": 0
+				}				
+			]
+        },
+        "tutorial10q": {
+            "sign": [
+				"Mira cuánto oro has",
+				"acumulado en tu",
+				"hoja de personaje."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[0,1]				
+				],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial10r": {
+            "sign": [
+                "To drop gold, hover on",
+				"your gold count, hold$",
+				"and pick how much to drop.",
+				"",
+                "If you are carrying lots",
+				"of gold, its weight can",
+				"add up and slow you down."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},								
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[3],
+					[3],
+					[1,2,3,4,5]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[3,4],
+					[3,4,5]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/dropgold_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuRightClick"
+				}			
+			]
+        },
+        "tutorial10r_gamepad": {
+            "sign": [
+				"Para soltar oro, pasa el",
+				"cursor sobre tu cantidad de",
+				"oro, pulsa$ y elige cuánto",
+				"soltar.",
+				"",
+				"Si llevas mucho oro, su peso",
+				"puede acumularse y causar",
+				"que te muevas más lento."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},								
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[3],
+					[3],
+					[1,2,3,4,5]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[3,4],
+					[3,4,5]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/dropgold_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuConfirm"
+				}			
+			]
+        },		
+        "tutorial10s": {
+            "sign": [
+				"En la mazmorra, es posible",
+				"que no tengas la suerte",
+				"de encontrar un comprador",
+				"para tus bienes.",
+				"",
+				"Tendrás que decidir",
+				"si es sabio conservar",
+				"objetos voluminosos",
+				"por su valor comercial."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},							
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[1,2,3],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1]
+				],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial10t": {
+            "sign": [
+				"Los Comerciantes",
+				"de este comercio son",
+				"tu única opción para",
+				"equiparte adecuadamente",
+				"para la prueba de este",
+				"desafío.",
+				"",
+				"Compra y vende para",
+				"prepararte como prefieras."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[0,1,2],
+					[],
+					[],
+					[0,1,2],
+					[],
+					[0,1,2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial10u": {
+            "sign": [
+				"A través de este portal se",
+				"encuentra una serie de peleas",
+				"cada vez más desafiantes.",
+				"Compra lo que sea que te",
+				"ayude para conseguir el éxito.",
+				"",
+				"Tu ingenio será puesto a prueba."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial10v": {
+            "sign": [
+				"Los objetos que encuentres en las",
+				"tiendas que están en mesas o en cofres",
+				"son tuyos para que los tomes.",
+				"",
+				"Los únicos objetos que le importan",
+				"a los comerciantes son aquellos que",
+				"se encuentran en sus inventarios."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[1,2,3],
+					[],
+					[],
+					[]
+				]
+            },
+            "variables": []
+        },
+        "tutorial10w": {
+            "sign": [
+				"Enfrentarse a dos enemigos",
+				"al mismo tiempo puede complicar",
+				"en gran medida una pelea.",
+				"",
+				"Todos los aventureros deben",
+				"estar preparados para enfrentar",
+				"atacantes que poseen ofensivas a",
+				"distancia y cuerpo a cuerpo."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[1,2],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/killtwo.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial10x": {
+            "sign": [
+				"El próximo enemigo empuña un",
+				"bastón mágico, que puede",
+				"ralentizarte y dañarte",
+				"en gran medida,",
+				"pasando por alto la CA.",
+				"",
+				"Los objetos pueden reducir los",
+				"efectos mágicos. Haz uso de",
+				"tácticas de emboscada para evitar",
+				"los proyectiles mágicos."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[0,1,2,3],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2,3],
+					[],
+					[0,1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial10/staffambush.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        }
+    }
+}

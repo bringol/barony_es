@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "press_a_to_advance": true,
+    "text": [
+		"Habiendo derrotado al Barón y colocado su orbe violeta en el pedestal,\n",
+    	"entras al portal. Una magia poderosa causa un hormigueo por todo tu cuerpo.\n^",
+    	"Un destello blanco te transporta.^ Apareces en las afueras de las minas de\n",
+    	"Hamlet y observas una oscura maldición disipándose de la tierra.\n",
+    	"La cálida luz del sol fluye sobre el campo. Conforme las puertas de la mina\n",
+    	"se abren, la gente corre a las calles, aclimatándose a la libertad.\n^",
+    	"Te escabulles hacia un edificio cercano, buscando un lugar para esconderte y\n",
+	"planear qué hacer. Hay demasiados humanos, y el sol es muy brillante para ti.\n^",
+	"Entras a lo que parece ser una posada. Pasas la noche en el abrigo de las mantas\n",
+	"de una cómoda cama mientras los sonidos de alboroto te rodean.\n^",
+	"Mientras los humanos festejan en el hostal, oyes sobre un poder aún mayor que el\n",
+	"de Herx, dice estar oculto en el Gremio de Magos...\n^",
+	"Una trampilla en el dormitorio lleva a un alcantarillado.\n",
+	"Esperas a que los humanos se vayan..."
+    ],
+    "images": [
+	"*images/ui/Main Menus/Story/black.png",
+	"*images/ui/Main Menus/Story/white.png",
+	"*images/ui/Main Menus/Story/Hamlet_Rescue.png",
+	"*images/ui/Main Menus/Story/MagiciansGuild.png",
+	"*images/ui/Main Menus/Story/black.png",
+	"*images/ui/Main Menus/Story/PowerWaiting.png",
+	"*images/ui/Main Menus/Story/black.png"
+    ]
+}
