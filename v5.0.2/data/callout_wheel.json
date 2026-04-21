@@ -42,7 +42,7 @@
 		"healing_urgent": "Curación Urgente",
 		"low_steam": "Necesita Combustible",
 		"empty_steam": "Caldera Vacía",
-		"ghost": "Deceased",
+		"ghost": "Fallecido",
 		"separator": "/"
 	},
 	"world_icons" : {
@@ -670,41 +670,41 @@
 			},
 			"wall_button_on" : 
 			{
-				"text": "Point out this active button.",
+				"text": "Señala este botón activo.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"That button over there has already been pressed.\"",
+				"msg_says": "%s\"Ese botón de allí ya fue presionado.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"wall_button_off" : 
 			{
-				"text": "Point out this inactive button.",
+				"text": "Señala este botón inactivo.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"That button over there hasn't been pressed.\"",
+				"msg_says": "%s\"Ese botón de allí aún no fue presionado.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"wall_lock_on" : 
 			{
-				"text": "Point out this active %s key.",
+				"text": "Señala esta llave %s activa.",
 				"word_highlights" : [3, 4, 5],
-				"msg_says": "%s\"That %s key over there has already been activated.\"",
+				"msg_says": "%s\"Esa llave %s de allí ya fue activada.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"wall_lock_off" : 
 			{
-				"text": "Point out this inactive %s key.",
+				"text": "Señala esta llave %s inactiva.",
 				"word_highlights" : [3, 4, 5],
-				"msg_says": "%s\"That %s key over there hasn't been activated.\"",
+				"msg_says": "%s\"Esa llave %s de allí aún no fue activada.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"wall_lock" : 
 			{
-				"text": "Point out the empty %s lock.",
+				"text": "Señala la cerradura %s vacía.",
 				"word_highlights" : [4, 5],
-				"msg_says": "%s\"There's a empty %s lock over there.\"",
+				"msg_says": "%s\"Hay una cerradura %s vacía allí.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
@@ -751,25 +751,25 @@
 			},
 			"bell" : 
 			{
-				"text": "Point out the bell.",
+				"text": "Señala la campana.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"There's a bell over here.\"",
+				"msg_says": "%s\"Hay una campana aquí.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"daedalus" : 
 			{
-				"text": "Point out the Daedalus shrine.",
+				"text": "Señala el santuario de Daedalus.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"There's a Daedalus shrine over here.\"",
+				"msg_says": "%s\"Hay un santuario de Daedalus aquí.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"assist_shrine" : 
 			{
-				"text": "Point out the Assist shrine.",
+				"text": "Señala el santuario de Asistencia.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"There's an Assist shrine over here.\"",
+				"msg_says": "%s\"Hay un santuario de Asistencia aquí.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
@@ -975,10 +975,10 @@
 			},
 			"help_deceased":
 			{
-				"text": "Call for help! (%s)",
+				"text": "¡Pide ayuda! (%s)",
 				"word_highlights" : [],
-				"msg_emote": "%s calls for help!\n(%s)",
-				"msg_emote_you": "You call for help!\n(%s)",
+				"msg_emote": "¡%s pide ayuda!\n(%s)",
+				"msg_emote_you": "¡Pides ayuda!\n(%s)",
 				"world_icon": "tag_help-ghost",
 				"world_icon_small": "mini_help"
 			},
@@ -1161,41 +1161,41 @@
 			},
 			"wall_button_on" : 
 			{
-				"text": "I need help with this button.",
+				"text": "Necesito ayuda con este botón.",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help with this button.\"",
+				"msg_says": "%s\"Necesito ayuda con este botón.\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"wall_button_off" : 
 			{
-				"text": "I need help with this button.",
+				"text": "Necesito ayuda con este botón.",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help with this button.\"",
+				"msg_says": "%s\"Necesito ayuda con este botón.\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"wall_lock_on" : 
 			{
-				"text": "I need help with this active %s key.",
+				"text": "Necesito ayuda con esta llave %s activa.",
 				"word_highlights" : [5, 6, 7],
-				"msg_says": "%s\"I need help with this active %s key.\"",
+				"msg_says": "%s\"Necesito ayuda con esta llave %s activa.\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"wall_lock_off" : 
 			{
-				"text": "I need help with this inactive %s key.",
+				"text": "Necesito ayuda con esta llave %s inactiva.",
 				"word_highlights" : [5, 6, 7],
-				"msg_says": "%s\"I need help with this inactive %s key.\"",
+				"msg_says": "%s\"Necesito ayuda con esta llave %s inactiva.\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"wall_lock" : 
 			{
-				"text": "I need help with this %s lock.",
+				"text": "Necesito ayuda con esta cerradura %s.",
 				"word_highlights" : [5, 6],
-				"msg_says": "%s\"I need help with this %s lock.\"",
+				"msg_says": "%s\"Necesito ayuda con esta cerradura %s.\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
@@ -1241,25 +1241,25 @@
 			},
 			"daedalus" : 
 			{
-				"text": "I need help by this Daedalus shrine!",
+				"text": "¡Necesito ayuda junto a este santuario de Daedalus!",
 				"word_highlights" : [5, 6],
-				"msg_says": "%s\"I need help by this Daedalus shrine!\"",
+				"msg_says": "%s\"¡Necesito ayuda junto a este santuario de Daedalus!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"assist_shrine" : 
 			{
-				"text": "I would like to use the Assist shrine!",
+				"text": "¡Quiero usar el santuario de Asistencia!",
 				"word_highlights" : [6, 7],
-				"msg_says": "%s\"I would like to use the Assist shrine!\"",
+				"msg_says": "%s\"¡Quiero usar el santuario de Asistencia!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"bell" : 
 			{
-				"text": "I need help by this bell!",
+				"text": "¡Necesito ayuda junto a esta campana!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"I need help by this bell!\"",
+				"msg_says": "%s\"¡Necesito ayuda junto a esta campana!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
@@ -1514,41 +1514,41 @@
 			},
 			"wall_button_on" : 
 			{
-				"text": "That button is on!",
+				"text": "¡Ese botón está activado!",
 				"word_highlights" : [2, 3],
-				"msg_says": "%s\"That button is on!\"",
+				"msg_says": "%s\"¡Ese botón está activado!\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_yes"
 			},
 			"wall_button_off" : 
 			{
-				"text": "Push that button!",
+				"text": "¡Presiona ese botón!",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Push that button!\"",
+				"msg_says": "%s\"¡Presiona ese botón!\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_yes"
 			},
 			"wall_lock_on" : 
 			{
-				"text": "Reset that %s key!",
+				"text": "¡Reinicia esa llave %s!",
 				"word_highlights" : [0, 2, 3],
-				"msg_says": "%s\"Reset that %s key!\"",
+				"msg_says": "%s\"¡Reinicia esa llave %s!\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_yes"
 			},
 			"wall_lock_off" : 
 			{
-				"text": "Turn that %s key on!",
+				"text": "¡Activa esa llave %s!",
 				"word_highlights" : [2, 3, 4],
-				"msg_says": "%s\"Turn that %s key on!\"",
+				"msg_says": "%s\"¡Activa esa llave %s!\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_yes"
 			},
 			"wall_lock" : 
 			{
-				"text": "Go ahead and open that %s lock.",
+				"text": "Adelante, abre esa cerradura %s.",
 				"word_highlights" : [5, 6],
-				"msg_says": "%s\"Go ahead and open that %s lock.\"",
+				"msg_says": "%s\"Adelante, abre esa cerradura %s.\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_yes"
 			},
@@ -1594,25 +1594,25 @@
 			},
 			"daedalus" : 
 			{
-				"text": "I'll use the Daedalus shrine.",
+				"text": "Usaré el santuario de Daedalus.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"I'll use the Daedalus shrine.\"",
+				"msg_says": "%s\"Usaré el santuario de Daedalus.\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_spot"
 			},
 			"assist_shrine" : 
 			{
-				"text": "The Assist shrine is good to go.",
+				"text": "El santuario de Asistencia está listo.",
 				"word_highlights" : [1, 2],
-				"msg_says": "%s\"The Assist shrine is good to go.\"",
+				"msg_says": "%s\"El santuario de Asistencia está listo.\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_spot"
 			},
 			"bell" : 
 			{
-				"text": "I'll use the bell.",
+				"text": "Usaré la campana.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"I'll use the bell.\"",
+				"msg_says": "%s\"Usaré la campana.\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_spot"
 			},
@@ -1717,7 +1717,7 @@
 				"text": "Dar pulgar abajo.",
 				"word_highlights" : [],
 				"msg_emote_you": "¡Has dado un pulgar abajo!",
-				"msg_emote": "%s gives a thumbs down.",
+				"msg_emote": "¡%s da un pulgar abajo!",
 				"world_icon": "tag_bad",
 				"world_icon_small": "mini_no"
 			},
@@ -1820,41 +1820,41 @@
 			},
 			"wall_button_on" : 
 			{
-				"text": "Leave that button pressed!",
+				"text": "¡Deja ese botón presionado!",
 				"word_highlights" : [2, 3],
-				"msg_says": "%s\"Leave that button pressed!\"",
+				"msg_says": "%s\"¡Deja ese botón presionado!\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"wall_button_off" : 
 			{
-				"text": "Leave that button untouched!",
+				"text": "¡Deja ese botón sin tocar!",
 				"word_highlights" : [2, 3],
-				"msg_says": "%s\"Leave that button untouched!\"",
+				"msg_says": "%s\"¡Deja ese botón sin tocar!\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"wall_lock_on" : 
 			{
-				"text": "Leave that %s key turned!",
+				"text": "¡Deja esa llave %s activada!",
 				"word_highlights" : [2, 3, 4],
-				"msg_says": "%s\"Leave that %s key turned!\"",
+				"msg_says": "%s\"¡Deja esa llave %s activada!\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"wall_lock_off" : 
 			{
-				"text": "Leave that %s key unturned!",
+				"text": "¡Deja esa llave %s sin activar!",
 				"word_highlights" : [2, 3, 4],
-				"msg_says": "%s\"Leave that %s key unturned!\"",
+				"msg_says": "%s\"¡Deja esa llave %s sin activar!\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"wall_lock" : 
 			{
-				"text": "Don't open that %s lock!",
+				"text": "¡No abras esa cerradura %s!",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"Don't open that %s lock!\"",
+				"msg_says": "%s\"¡No abras esa cerradura %s!\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
@@ -1878,7 +1878,7 @@
 			{
 				"text": "Esa %s pudo haber sido letal.",
 				"word_highlights" : [1],
-				"msg_says": "%s\"That %s could be trouble.\"",
+				"msg_says": "%s\"Esa %s podría ser peligrosa.\"",
 				"world_icon": "tag_bad-trap",
 				"world_icon_small": "mini_danger"
 			},
@@ -1900,25 +1900,25 @@
 			},
 			"daedalus" : 
 			{
-				"text": "Don't use that Daedalus shrine.",
+				"text": "No uses ese santuario de Daedalus.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"Don't use that Daedalus shrine.\"",
+				"msg_says": "%s\"No uses ese santuario de Daedalus.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"assist_shrine" : 
 			{
-				"text": "Don't use that Assist shrine.",
+				"text": "No uses ese santuario de Asistencia.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"Don't use that Assist shrine.\"",
+				"msg_says": "%s\"No uses ese santuario de Asistencia.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
 			"bell" : 
 			{
-				"text": "Don't use that bell.",
+				"text": "No uses esa campana.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"Don't use that bell.\"",
+				"msg_says": "%s\"No uses esa campana.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
@@ -2022,7 +2022,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Cancel",
+				"text": "Cancelar",
 				"word_highlights" : [0]
 			}
 		}]
