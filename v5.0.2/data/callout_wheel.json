@@ -582,17 +582,17 @@
 			},
 			"item_an" : 
 			{
-				"text": "Hay un %s aquí .",
+				"text": "Hay un %s aquí.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Hay un %s aquí .\"",
+				"msg_says": "%s\"Hay un %s aquí.\"",
 				"world_icon": "tag_spot-item",
 				"world_icon_small": "mini_item"
 			},
 			"npc" : 
 			{
-				"text": "Hay un %s aquí .",
+				"text": "Hay un %s aquí.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Hay un %s aquí .\"",
+				"msg_says": "%s\"Hay un %s aquí.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
@@ -606,7 +606,7 @@
 			},
 			"npc_an" : 
 			{
-				"text": "Hay un %s aquí .",
+				"text": "Hay un %s aquí.",
 				"word_highlights" : [2],
 				"msg_says": "%s\"Hay un/a %s aquí\"",
 				"world_icon": "tag_spot",
@@ -630,17 +630,17 @@
 			},
 			"npc_ally" : 
 			{
-				"text": "Nuestro aliado %s está aquí .",
+				"text": "Nuestro aliado %s está aquí.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Nuestro aliado %s está aquí .\"",
+				"msg_says": "%s\"Nuestro aliado %s está aquí.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_heal"
 			},
 			"player_look" : 
 			{
-				"text": "Nuestro aliado %s está aquí .",
+				"text": "Nuestro aliado %s está aquí.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Nuestro aliado %s está aquí .\"",
+				"msg_says": "%s\"Nuestro aliado %s está aquí.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_heal"
 			},
@@ -737,7 +737,7 @@
 			{
 				"text": "Señala el/la %s.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"Hay un %s aquí .\"",
+				"msg_says": "%s\"Hay un %s aquí.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
