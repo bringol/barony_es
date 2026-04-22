@@ -51,6 +51,12 @@
 			"b": 206,
 			"a": 255
 		},
+		"charsheet_dlc3_text": {
+			"r": 255,
+			"g": 64,
+			"b": 64,
+			"a": 255
+		},
 		"charsheet_neutral_text": {
 			"r": 188,
 			"g": 154,
@@ -114,6 +120,7 @@
 	},
 	"action_prompts": {
 		"x_offset": 284,
+		"x_offset_ghost_prompts": 60,
 		"y_offset": 62,
 		"icon_size": 32,
 		"icon_backing_size": 44,
@@ -545,6 +552,7 @@
 			"goblin": 0,
 			"slime": 0,
 			"troll": 0,
+			"bugbear": 0,
 			"spider": 0,
 			"ghoul": 0,
 			"skeleton": 0,
@@ -553,6 +561,8 @@
 			"gnome": 0,
 			"demon": 5,
 			"succubus": 0,
+			"mimic": 0,
+			"chest_mimic": 2.5,
 			"lich": -5,
 			"minotaur": 0,
 			"devil": 0,
@@ -577,8 +587,39 @@
 			"chair": -5,
 			"chest": 0,
 			"door": 0,
+			"iron_door": 0,
 			"breakable_wall": 0,
-			"object": 0
+			"object": 0,
+			"jar": -3,
+			"basket": 1,
+			"casket": -8,
+			"cage": -6,
+			"urn": -3,
+			"urn_tall": -5,
+			"sack": -4,
+			"sarcophagus": -8,
+			"pot": -2,
+			"pot_short": -1,
+			"cart": -2,
+			"pallet": -2,
+			"crate": -4,
+			"crate_short": -2,
+			"tent": -6,
+			"reliquary": -4,
+			"bulb": -3,
+			"iron maiden": -8,
+			"wheelbarrow": -3,
+			"crystal": -3,
+			"crystal_tall": -6,
+			"cabinet": -6,
+			"capsule": -4,
+			"capsule_tall": -8,
+			"barrel": -3,
+			"stump": -6,
+			"bat": 4,
+			"assist_shrine": -8,
+			"mushroom_spell": -6,
+			"shrub": -4
 		},
 		"screen_depth_distance_offset": {
 			"default": 0,
@@ -618,6 +659,7 @@
 			"table": 0,
 			"chair": 0,
 			"chest": 0,
+			"iron_door": 25,
 			"door": 25,
 			"breakable_wall": 25,
 			"object": 0
@@ -832,6 +874,9 @@
 		"show_orange_always": true,
 		"show_red_always": true,
 		"show_green_yellow_briefly": true
+	},
+	"voice_record": {
+		"enabled": true
 	},
 	"dmg_number_anim_curve": {
 		"default": [
