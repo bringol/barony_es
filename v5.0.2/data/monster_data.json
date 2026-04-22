@@ -6,7 +6,7 @@
 		"nothing": {
 			"default": {
 				"icon": "",
-				"models": 0
+				"models": [0]
 			}
 		},
 		"human": {
@@ -274,13 +274,25 @@
 				"icon": "basic/Icon_SlimeGreenC_00.png"
 			},
 			
-			"green": {
+			"slime green": {
 				"icon": "basic/Icon_SlimeGreenC_00.png", 
 				"models": [210, 1113, 1114, 1115, 1116, 1117] 
 			},
-			"blue": {
+			"slime blue": {
 				"icon": "basic/Icon_SlimeBlueC_00.png", 
 				"models": [189, 1108, 1109, 1110, 1111, 1112] 
+			},
+			"slime red": {
+				"icon": "basic/Icon_SlimeRedC_00.png", 
+				"models": [1380, 1383, 1384, 1385, 1386, 1387] 
+			},
+			"slime tar": {
+				"icon": "basic/Icon_SlimeTarC_00.png", 
+				"models": [1381, 1388, 1389, 1390, 1391, 1392] 
+			},
+			"slime metal": {
+				"icon": "basic/Icon_SlimeMetalC_00.png", 
+				"models": [1382, 1393, 1394, 1395, 1396, 1397] 
 			}
 		},
 		"troll": {
@@ -305,9 +317,14 @@
 				}
 			}
 		},
-		"octopus": {
+		"bat": {
 			"default": {
 				"icon": ""
+			},
+			
+			"monster": {
+				"icon": "", 
+				"models": [1408] 
 			}
 		},
 		"spider": {
@@ -450,9 +467,23 @@
 				"icon": "basic/Icon_Gnome_00.png"
 			},
 			
-			"monster": {
+			"monster male": {
 				"icon": "basic/Icon_Gnome_00.png", 
-				"models": [295] 
+				"models": [295, 1426]
+			},
+			
+			"monster female": {
+				"icon": "basic/Icon_GnomeF_00.png", 
+				"models": [1430]
+			},
+			
+			"player male": {
+				"icon": "basic/Icon_GnomeM_01.png", 
+				"models": [2213] 
+			},
+			"player female": {
+				"icon": "basic/Icon_GnomeF_01.png", 
+				"models": [2214] 
 			}
 		},
 		"demon": {
@@ -497,7 +528,8 @@
 		},
 		"mimic": {
 			"default": {
-				"icon": ""
+				"icon": "",
+				"models": [1247, 1792]
 			}
 		},
 		"lich": {
@@ -576,6 +608,13 @@
 			"player": {
 				"icon": "basic/Icon_Incubus_00.png", 
 				"models": [702] 
+			},
+			"specialNPCs": {
+				"johann": {
+					"icon": "special/Icon_Incubus_00.png", 
+					"localized_name": "Johann",
+					"models": [1826]
+				}
 			}
 		},
 		"vampire": {
@@ -753,6 +792,188 @@
 				"icon": "basic/Icon_DummyBot_00.png",
 				"localized_short_name": "Maniquí",
 				"models": [889] 
+			}
+		},
+		"bugbear": {
+			"default": {
+				"icon": "basic/Icon_Bugbear_00.png"
+			},
+			"monster": {
+				"icon": "basic/Icon_Bugbear_00.png", 
+				"models": [1412] 
+			}
+		},
+		"dryad": {
+			"default": {
+				"icon": "basic/Icon_DryadR_00.png"
+			},
+			
+			"monster male": {
+				"icon": "basic/Icon_DryadR_00.png", 
+				"models": [1485, 1514] 
+			},
+			"monster female": {
+				"icon": "basic/Icon_DryadR_00.png", 
+				"models": [1486, 1515] 
+			},
+			"player male": {
+				"icon": "basic/Icon_Dryad_00.png", 
+				"models": [1963, 1964] 
+			},
+			"player female": {
+				"icon": "basic/Icon_Dryad_00.png", 
+				"models": [1993, 1992] 
+			}
+		},
+		"myconid": {
+			"default": {
+				"icon": "basic/Icon_Myconid_00.png"
+			},
+			
+			"monster male": {
+				"icon": "basic/Icon_Myconid_00.png", 
+				"models": [1519] 
+			},
+			"monster female": {
+				"icon": "basic/Icon_Myconid_00.png", 
+				"models": [1520] 
+			},
+			"player male": {
+				"icon": "basic/Icon_Myconid_00.png", 
+				"models": [1997] 
+			},
+			"player female": {
+				"icon": "basic/Icon_Myconid_00.png", 
+				"models": [1998] 
+			}
+		},
+		"salamander": {
+			"default": {
+				"icon": "basic/Icon_SalamanderM_00.png"
+			},
+			
+			"monster male": {
+				"icon": "basic/Icon_SalamanderM_00.png", 
+				"models": [1536, 1538, 1540] 
+			},
+			"monster female": {
+				"icon": "basic/Icon_SalamanderF_00.png", 
+				"models": [1537, 1539, 1541] 
+			},
+			"player male": {
+				"icon": "basic/Icon_SalamanderM_00.png", 
+				"models": [2014, 2016, 2018] 
+			},
+			"player female": {
+				"icon": "basic/Icon_SalamanderF_00.png", 
+				"models": [2015, 2017, 2019] 
+			}
+		},
+		"gremlin": {
+			"default": {
+				"icon": "basic/Icon_GremlinM_00.png"
+			},
+			
+			"monster male": {
+				"icon": "basic/Icon_GremlinM_00.png", 
+				"models": [1569] 
+			},
+			"monster female": {
+				"icon": "basic/Icon_GremlinF_00.png", 
+				"models": [1570] 
+			},
+			"player male": {
+				"icon": "basic/Icon_GremlinM_00.png", 
+				"models": [2047] 
+			},
+			"player female": {
+				"icon": "basic/Icon_GremlinF_00.png", 
+				"models": [2048] 
+			}
+		},
+		"revenant_skull": {
+			"default": {
+				"icon": "summons/icon_revenantskull_00.png",
+				"models": [1796]
+			}
+		},
+		"minimimic": {
+			"default": {
+				"icon": "",
+				"models": [1794]
+			}
+		},
+		"monster_adorcised_weapon": {
+			"default": {
+				"icon": "",
+				"models": [1797]
+			}
+		},
+		"flame_elemental": {
+			"default": {
+				"icon": "basic/Icon_GoatmanM_00.png",
+				"models": [1804]
+			}
+		},
+		"hologram": {
+			"default": {
+				"icon": "basic/Icon_GoatmanM_00.png",
+				"models": [1803]
+			}
+		},
+		"moth": {
+			"default": {
+				"icon": "basic/Icon_Moth00.png",
+				"models": [1819]
+			},
+			"specialNPCs": {
+				"fire sprite": {
+					"icon": "summons/fire_sprite.png", 
+					"localized_name": "fire sprite",
+					"models": [1822]
+				}
+			}
+		},
+		"earth_elemental": {
+			"default": {
+				"icon": "summons/icon_earthsprite_00.png",
+				"models": [1871, 1876]
+			}
+		},
+		"duck_small": {
+			"default": {
+				"icon": "basic/Icon_GoatmanM_00.png",
+				"models": [2225, 2226]
+			},
+			"brown": {
+				"icon": "basic/Icon_GoatmanM_00.png",
+				"models": [2231, 2232]
+			},
+			"white": {
+				"icon": "basic/Icon_GoatmanM_00.png",
+				"models": [2307, 2308]
+			},
+			"white": {
+				"icon": "basic/Icon_GoatmanM_00.png",
+				"models": [2307, 2308]
+			}
+		},
+		"monster_unused_6": {
+			"default": {
+				"icon": "basic/Icon_GoatmanM_00.png",
+				"models": []
+			}
+		},
+		"monster_unused_7": {
+			"default": {
+				"icon": "basic/Icon_GoatmanM_00.png",
+				"models": []
+			}
+		},
+		"monster_unused_8": {
+			"default": {
+				"icon": "basic/Icon_GoatmanM_00.png",
+				"models": []
 			}
 		}
 	}
