@@ -47,18 +47,18 @@
 			],
 			"desc": [
 				"Guerrero",
-                "Soldado entrenado. Están",
+                "El soldado entrenado. Están",
                 "fuertemente acorazados y",
                 "son líderes capaces.",
-                "Combaten bien armados en la",
+                "Fuertemente equipados en la",
                 "mayoría de las peleas,",
                 "siempre que sepan bloquear",
                 "en los momentos oportunos.",
-				"Ser arrogante es el vicio",
+				"La soberbia es la perdición",
                 "de muchos guerreros, ya sea",
-                "actuando fatalmente cerca",
+                "por actuar torpemente cerca",
                 "de trampas o dejando que la",
-                "magia penetre su armadura."
+                "magia atraviese su armadura."
 			]
 		},
 		"healer": {
@@ -686,19 +686,19 @@
 				0
 			],
 			"desc": [
-				"Bard",
-                "This boistrous adventurer",
-                "may not look like much of a",
-                "fighter, magician, or rogue,",
-                "but a swift blade and sharp",
-                "wit makes the Bard a very",
-                "capable combatant.",
-                "Bards will need to master",
-                "parrying with their sword",
-                "to survive in close quarters.",
-                "The right song for the right",
-                "situation can bring swift",
-				"success to a Bard's party."
+				"Bardo",
+                "Un aventurero bullicioso",
+                "quizás no parezca gran",
+                "luchador, mago o pícaro,",
+                "pero una hoja veloz y su",
+                "ingenio hacen del Bardo",
+                "un combatiente capaz.",
+                "Los bardos deben dominar",
+                "el arte de parar con su",
+                "espada en lucha cerrada.",
+                "La canción correcta en la",
+                "situación adecuada trae",
+				"rápido éxito al grupo."
 			]
 		},
 		"class_sapper": {
@@ -718,19 +718,19 @@
 				0
 			],
 			"desc": [
-				"Sapper",
-                "A resourceful soldier, the",
-                "Sapper has several tools",
-                "that help destroy foes",
-                "beyond the front lines.",
-                "But lacking the defensive",
-				"prowess of other fighters,",
-                "they must take care not to",
-                "be overwhelmed by close-",
-                "quarters combat.",
-                "Successful Sappers combine",
-                "their tools to secure",
-				"decisive victory."
+				"Zapador",
+                "Soldado con recursos, el",
+                "Zapador tiene varias",
+                "herramientas para abatir",
+                "enemigos tras el frente.",
+                "Pero sin la defensa de",
+				"otros combatientes, debe",
+                "cuidarse de no quedar",
+                "superado en combate",
+                "cuerpo a cuerpo.",
+                "Los zapadores exitosos",
+                "combinan sus herramientas",
+				"para lograr victoria."
 			]
 		},
 		"class_scion": {
@@ -750,19 +750,19 @@
 				0
 			],
 			"desc": [
-				"Scion",
-                "Though very well trained",
-                "in all known disciplines of",
-                "magic, the Scion is ill-fit",
-                "for physical battle.",
-                "Nevertheless, the Scion has",
-                "ways to keep enemies at bay",
-                "while a spell does the work.",
-                "A successful Scion is very",
-                "capable in the learning of",
-                "new spells on their quest.",
-                "They should expect to",
-				"adapt with that advantage."
+				"Vástago",
+                "Aunque muy bien formado",
+                "en todas las disciplinas",
+                "mágicas, el Vástago es",
+                "débil en lucha física.",
+                "Aun así, el Vástago tiene",
+                "formas de mantener lejos",
+                "al enemigo mientras",
+                "sus hechizos hacen todo.",
+                "Un Vástago exitoso aprende",
+                "nuevos hechizos en su",
+                "travesía. Debe esperar",
+				"adaptarse con ventaja."
 			]
 		},
 		"class_hermit": {
@@ -782,19 +782,19 @@
 				0
 			],
 			"desc": [
-				"Hermit",
-                "Though not equipped with",
-                "traditional battle gear,",
-                "the Hermit survives by",
-                "combining both magical",
-                "and physical aptitude.",
-                "Though isolated, the Hermit",
-                "is not alone. A loyal pet",
-                "serves as an exceptional",
-                "distraction, and the",
-                "unbreakable shillelagh",
-                "is devastating against",
-				"hindered foes."
+				"Ermitaño",
+                "Aunque no lleva equipo",
+                "de combate tradicional,",
+                "el Ermitaño sobrevive",
+                "combinando aptitudes",
+                "mágicas y físicas.",
+                "Aunque aislado, el",
+                "Ermitaño no está solo.",
+                "Una mascota leal sirve",
+                "como gran distracción, y",
+                "su garrote irrompible",
+                "resulta devastador ante",
+				"enemigos impedidos."
 			]
 		},
 		"class_paladin": {
@@ -814,19 +814,19 @@
 				0
 			],
 			"desc": [
-				"Paladin",
-                "Wielding a large blade",
-                "and divine magic, the",
-                "Paladin's solutions are",
-                "simple and effective.",
-                "While adept at dealing",
-                "with martial challengers,",
-                "a Paladin must rise to the",
-                "occasion when honorable",
-                "fights aren't on offer.",
-                "Continued discipline with",
-                "miraculous magics may",
-				"improve adaptability."
+				"Paladín",
+                "Con una gran hoja y",
+                "magia divina, el",
+                "Paladín elige soluciones",
+                "simples y efectivas.",
+                "Aunque es hábil contra",
+                "rivales marciales, debe",
+                "estar a la altura cuando",
+                "no hay combate honorable",
+                "sobre la mesa.",
+                "La disciplina constante",
+                "con magia milagrosa puede",
+				"mejorar su adaptación."
 			]
 		},
 		"shapeshift_rat": {
