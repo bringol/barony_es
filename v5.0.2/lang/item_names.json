@@ -1046,8 +1046,8 @@
             "name_unidentified": "kit de fabricación"
         },
         "tool_sentrybot": {
-            "name_identified": "centinela robótico",
-            "name_unidentified": "centinela robótico"
+            "name_identified": "centinela ballestero",
+            "name_unidentified": "centinela ballestero"
         },
         "tool_detonated_charge": {
             "name_identified": "detonador",
@@ -1082,8 +1082,8 @@
             "name_unidentified": "sonajero"
         },
         "tool_dummybot": {
-            "name_identified": "maniquí",
-            "name_unidentified": "maniquí"
+            "name_identified": "títere",
+            "name_unidentified": "títere"
         },
         "machinist_apron": {
             "name_identified": "delantal de cuero",

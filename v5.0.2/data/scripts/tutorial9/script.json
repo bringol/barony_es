@@ -110,7 +110,7 @@
         },
         "tutorial9c": {
             "sign": [
-				"El maniquí otorgado",
+				"El títere otorgado",
 				"anteriormente se dañó.",
 				"",
 				"Repáralo para lograr",
@@ -788,7 +788,7 @@
         "tutorial9p": {
             "sign": [
 				"$",
-				"Los maniquíes son robustos",
+				"Los títeres son robustos",
 				"y buenos para mantener",
 				"la atención de los enemigos.",
 				"",
@@ -1847,7 +1847,7 @@
 				"en la línea de visión.",
 				"",
 				"Colócate a ti mismo,",
-				"y a los maniquíes,",
+				"y a los títeres,",
 				"adecuadamente."
             ],
             "attributes": {

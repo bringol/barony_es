@@ -35,24 +35,24 @@
 
 # appearance names
 
-20 Escolta Terrestre#
-21 Linaje Nórdico#
-22 Marca Flamante#
-23 Estirpe del Rigor#
-24 Centinela#
-25 Forja Apenumbrada#
-26 Florecimiento Pirófilo#
-27 Piedra Ofidia#
-28 Clan Eólico#
-29 Sangre Bélica#
-30 Herencia Moledora#
-31 Pedúnculo Solar#
-32 Monte Sedimentario#
-33 Guardián de la Tempestad#
-34 Caída Mercantil#
-35 Colina Nocturna#
-36 Torre Costera#
-37 Despertar Cántico#
+20 terravigía#
+21 nordurlónd#
+22 flamarca#
+23 rigestripe#
+24 centinela#
+25 umbrisforja#
+26 piroflor#
+27 roca ofidia#
+28 clan eólico#
+29 hostilcultor#
+30 machacador#
+31 solaris#
+32 sedimonte#
+33 tempestario#
+34 mercaída#
+35 montenoche#
+36 torrecosta#
+37 noctívago#
 
 
 # appearance descriptions
@@ -2462,10 +2462,10 @@ Sé creativo. Todo objeto tiene uso.#
 2009 autómata#
 2010 liche gélido#
 2011 liche ardiente#
-2012 centinela robótico#
-2013 centinela mágico#
+2012 ballestero#
+2013 magibot#
 2014 girobot#
-2015 maniquí#
+2015 títere#
 
 # monster plurals
 
@@ -2481,10 +2481,10 @@ Sé creativo. Todo objeto tiene uso.#
 2059 autómatas#
 2060 liches gélidos#
 2061 liches ardientes#
-2062 centinelas robóticos#
-2063 centinelas mágicos#
+2062 ballesteros#
+2063 magibots#
 2064 girobots#
-2065 maniquíes#
+2065 títeres#
 
 # injury types (2100-2149)
 
@@ -2518,10 +2518,10 @@ Sé creativo. Todo objeto tiene uso.#
 2159 fue neutralizado por un autómata.#
 2160 no consigió frustrar los planes de Erudyce.#
 2161 no pudo resistir el poder de Orpheus.#
-2162 fue neutralizado por un centinela robótico.#
-2163 fue neutralizado por un centinela mágico.#
+2162 fue neutralizado por un ballestero.#
+2163 fue neutralizado por un magibot.#
 2164 fue neutralizado por un girobot.#
-2165 fue neutralizado por un maniquí.#
+2165 fue neutralizado por un títere.#
 2166 es saqueado por un mimético.#
 
 # items, reserve (2200-2349) for new items
@@ -5248,14 +5248,14 @@ echar a %s?#
 5411 Piroflor#
 5412 Roca Ofidia#
 5413 Clan Eólico#
-5414 Hostilcrúor#
+5414 Hostilcultor#
 5415 Machacador#
 5416 Solaris#
 5417 Sedimonte#
 5418 Tempestario#
 5419 Mercaída#
 5420 Montenoche#
-5421 Torracosta#
+5421 Torrecosta#
 5422 Noctívago#
 5423 Desactivar Hab.
 Raciales#
