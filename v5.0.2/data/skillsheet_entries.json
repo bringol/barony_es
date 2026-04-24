@@ -127,6 +127,11 @@
 					"tag": "BLOCK_DEGRADE_DEFENDING_CHANCE",
 					"title": "Chance de degradar escudo:\n (Al Defender):",
 					"value": "%.2f%%"
+				},
+				{
+					"tag": "BLOCK_DEGRADE_DEFENDING_CHANCE",
+					"title": "Shield degrade chance:\n (While Defending)",
+					"value": "%.2f%%"
 				}
 			]
 		},
@@ -150,7 +155,8 @@
 				{
 					"tag": "RANGED_DMG_EFFECTIVENESS",
 					"title": "ATQ a Distancia\n efectividad:",
-					"value": "%+d%%"
+					"value": "%+d%%",
+					"custom_value_width_offset": 32
 				},
 				{
 					"tag": "RANGED_DEGRADE_CHANCE",
@@ -189,7 +195,8 @@
 				{
 					"tag": "UNARMED_DMG_EFFECTIVENESS",
 					"title": "ATQ Desarmado\n efectividad:",
-					"value": "%+d%%"
+					"value": "%+d%%",
+					"custom_value_width_offset": 32
 				},
 				{
 					"tag": "UNARMED_BONUS_DMG",
@@ -233,7 +240,8 @@
 				{
 					"tag": "SWORD_DMG_EFFECTIVENESS",
 					"title": "ATQ Espada\n efectividad:",
-					"value": "%+d%%"
+					"value": "%+d%%",
+					"custom_value_width_offset": 32
 				},
 				{
 					"tag": "SWORD_DEGRADE_CHANCE",
@@ -267,7 +275,8 @@
 				{
 					"tag": "POLEARM_DMG_EFFECTIVENESS",
 					"title": "ATQ Arma de Asta\n efectividad:",
-					"value": "%+d%%"
+					"value": "%+d%%",
+					"custom_value_width_offset": 32
 				},
 				{
 					"tag": "POLEARM_DEGRADE_CHANCE",
@@ -301,7 +310,8 @@
 				{
 					"tag": "AXE_DMG_EFFECTIVENESS",
 					"title": "ATQ con Hacha\n efectividad:",
-					"value": "%+d%%"
+					"value": "%+d%%",
+					"custom_value_width_offset": 32
 				},
 				{
 					"tag": "AXE_DEGRADE_CHANCE",
@@ -335,7 +345,8 @@
 				{
 					"tag": "MACE_DMG_EFFECTIVENESS",
 					"title": "ATQ maza\n efectividad:",
-					"value": "%+d%%"
+					"value": "%+d%%",
+					"custom_value_width_offset": 32
 				},
 				{
 					"tag": "MACE_DEGRADE_CHANCE",
@@ -380,6 +391,12 @@
 					"tag": "SWIM_SPEED_BONUS",
 					"title": "Bonus multiplicador de velocidad\n de la habilidad Nadar:",
 					"value": "+%d%%"
+				},
+				{
+					"tag": "LIST_LEADER_AVAILABLE_FOLLOWERS",
+					"title": "Current recruitable\n ally races:",
+					"value": "%s",
+					"auto_resize_value": true
 				}
 			]
 		},
@@ -409,17 +426,6 @@
 					"tag": "LEADER_FOLLOWER_SPEED",
 					"title": "Bonus de seguidor\n velocidad:",
 					"value": "+%d DES"
-				},
-				{
-					"tag": "LEADER_CHARM_MONSTER",
-					"title": "Hechizo Encantar Monstruo\n chance base:\n (Usando habilidad + CAR)",
-					"value": "+%d%%"
-				},
-				{
-					"tag": "LIST_LEADER_AVAILABLE_FOLLOWERS",
-					"title": "Reclutable actual\n razas aliadas:",
-					"value": "%s",
-					"auto_resize_value": true
 				}
 			]
 		},
@@ -449,6 +455,26 @@
 					"tag": "TRADING_SELL_PRICE",
 					"title": "Penalidad de reventa\nvendiendo artículos a tiendas:\n (Usando habilidad + CAR)",
 					"value": "%.f%% Oro"
+				},
+				{
+					"tag": "APPRAISE_SPEEDUP_CONSUMABLES",
+					"title": "Appraisal time reduction\n Food/Scrolls/Potions:",
+					"value": "%.f%%"
+				},
+				{
+					"tag": "APPRAISE_SPEEDUP",
+					"title": "Appraisal time reduction\n All other items:\n (With skill total above 50)",
+					"value": "%.f%%"
+				},
+				{
+					"tag": "APPRAISE_FLOOR_BONUS",
+					"title": "Appraisal time reduction\n for all inventory items on\n advancing to next floor: ",
+					"value": "%.f%%"
+				},
+				{
+					"tag": "APPRAISE_WORTHLESS_GLASS",
+					"title": "Able to appraise\n Worthless Glass:",
+					"value": "%s"
 				}
 			]
 		},
@@ -472,8 +498,7 @@
 				{
 					"tag": "APPRAISE_GOLD_SPEED",
 					"title": "Tiempo de Tasación\n por valor en oro:",
-					"value": "%.2f segundos",
-					"auto_resize_value": true
+					"value": "%.2f segundos"
 				},
 				{
 					"tag": "APPRAISE_MAX_GOLD_VALUE",
@@ -484,6 +509,27 @@
 					"tag": "APPRAISE_WORTHLESS_GLASS",
 					"title": "Capaz de tasar\n Vidrio Inserdible:\n (Usando habilidad + PER)",
 					"value": "%s"
+				},
+				{
+					"tag": "TINKERING_DISARM_ARROWS",
+					"title": "Chance to disarm\n arrow traps:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "TINKERING_KIT_SCRAP_BONUS",
+					"title": "Bonus scrap\n while salvaging:\n (Using skill + PER stat)",
+					"value": "+%d%%"
+				},
+				{
+					"tag": "TINKERING_KIT_REPAIR_ITEM",
+					"title": "Highest Metal/Magic\n item able to repair:\n (Using skill + PER stat)",
+					"value": "%s",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "TINKERING_MAX_ALLIES",
+					"title": "Maximum deployed\n tinkering allies:",
+					"value": "%d"
 				}
 			]
 		},
@@ -533,12 +579,17 @@
 					"tag": "TINKERING_KIT_REPAIR_ITEM",
 					"title": "Objeto Metálico/Mágico \n reparable de mayor nivel:\n (Usando habilidad + PER)",
 					"value": "%s",
-					"auto_resize_value": true
+					"custom_value_width_offset": 0,
+					"auto_resize_value": true,
+					"realtime_update": true
 				},
 				{
 					"tag": "TINKERING_MAX_ALLIES",
 					"title": "Despliegue Máximo de\n aliados fabricados:",
-					"value": "%d"
+					"value": "%d",
+					"custom_value_width_offset": 0,
+					"auto_resize_value": true,
+					"realtime_update": true
 				}
 			]
 		},
@@ -572,12 +623,15 @@
 				{
 					"tag": "ALCHEMY_DUPLICATION_CHANCE",
 					"title": "Duplicación de poción\n chance usando agua:",
-					"value": "%d%%"
+					"title_short": "Learned spells\n ideal to advance\n current Sorcery\n skill level:",
+					"value": "%d%%",
+					"auto_resize_value": true
 				},
 				{
 					"tag": "ALCHEMY_EMPTY_BOTTLE_CONSUME",
 					"title": "Reciclar botella vacía\n al consumir pociones:",
-					"value": "%d%%"
+					"value": "%d%%",
+					"auto_resize_value": true
 				},
 				{
 					"tag": "ALCHEMY_EMPTY_BOTTLE_BREW",
@@ -587,18 +641,7 @@
 				{
 					"tag": "ALCHEMY_LEARNT_INGREDIENTS_BASE",
 					"title": "Alquimia Aprendida\n ingredientes:\n (Primarios)",
-					"value": "%s",
-					"custom_value_width_offset": 0,
-					"auto_resize_value": true,
-					"realtime_update": true
-				},
-				{
-					"tag": "ALCHEMY_LEARNT_INGREDIENTS_SECONDARY",
-					"title": "Alquimia Aprendida\n ingredientes:\n (Secundarios)",
-					"value": "%s",
-					"custom_value_width_offset": 0,
-					"auto_resize_value": true,
-					"realtime_update": true
+					"value": "%s"
 				}
 			]
 		},
@@ -632,13 +675,31 @@
 				{
 					"tag": "MAGIC_CURRENT_TIER_SPELLS",
 					"title": "Hechizos Actuales Según\n Nivel Mágico:",
+					"title_short": "Learned spells\n ideal to advance\n current\n Mysticism skill\n level:",
 					"value": "%s",
 					"auto_resize_value": true
+				},
+				{
+					"tag": "MAGIC_CURRENT_TIER_SPELLS",
+					"title": "Spells in current\n Mysticism tier:",
+					"value": "%s",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "CASTING_BEGINNER",
+					"title": "Able to fail casting\n of learned spells:",
+					"value": "%s"
+				},
+				{
+					"tag": "CASTING_SPELLBOOK_FUMBLE",
+					"title": "Highest Mysticism tier\n to Spellbook-Cast\n without fumbling:\n (Using skill + INT stat)",
+					"value": "%s"
 				}
 			]
 		},
 		{
 			"name": "Canalizar",
+			"shortname": "Thauma",
 			"id": 6,
 			"sfx": 596,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Casting01.png",
@@ -657,24 +718,146 @@
 				{
 					"tag": "CASTING_MP_REGEN_SKILL_MULTIPLIER",
 					"title": "Multip. Regen. de PM por INT\n mediante habilidad:",
+					"value": "%dx INT"
+				},
+				{
+					"tag": "CASTING_MP_REGEN",
+					"title": "Tasa Base de Regen. de PM:\n (Antes de modificadores\n de objetos/raza.)",
+					"value": "1 PM cada\n%.2f segundos"
+				},
+				{
+					"tag": "CASTING_BEGINNER",
+					"title": "Fallo al canalizar\n con hechizos aprendidos:",
+					"title_short": "Learned spells\n ideal to advance\n current\n Thaumaturgy\n skill level:",
+					"value": "%s",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "CASTING_SPELLBOOK_FUMBLE",
+					"title": "Nivel Mágico Máximo\n para lanzar desde grimorios\n sin fallar:\n (Usando habilidad + INT)",
+					"title_short": "Spells in current\n Thaumaturgy\n tier:",
+					"value": "%s",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "CASTING_BEGINNER",
+					"title": "Able to fail casting\n of learned spells:",
+					"value": "%s"
+				},
+				{
+					"tag": "CASTING_SPELLBOOK_FUMBLE",
+					"title": "Highest Thaumaturgy tier\n to Spellbook-Cast\n without fumbling:\n (Using skill + INT stat)",
+					"value": "%s"
+				}
+			]
+		},
+		{
+			"name": "Magic",
+			"id": 33,
+			"sfx": 597,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Magic01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Magic01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Magic02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Magic02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+			"description": "Allows higher level magic spells to be learned from spellbooks. Equip spells via the Magic menu and use the Cast command, or wield spellbooks and use the Defend command to use magic.",
+			"legend_text": "Auto-learn Dominate spell.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "MAGIC_SPELLPOWER_INT",
+					"title": "Base spell power bonus:\n (Using INT stat)",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "MAGIC_CURRENT_TIER",
+					"title": "Highest Magic tier\n able to learn:\n (Using skill + INT stat)",
+					"value": "%s"
+				},
+				{
+					"tag": "MAGIC_CURRENT_TIER_SPELLS",
+					"title": "Spells in current\n Magic tier:",
+					"value": "%s",
+					"auto_resize_value": true
+				}
+			]
+		},
+		{
+			"name": "Casting",
+			"id": 34,
+			"sfx": 596,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Casting01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Casting01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Casting02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Casting02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+			"description": "Improves reliability of Casting and Spellbook-Casting spells, reducing chances to fumble or over-expend mana. Increases passive MP regen.",
+			"legend_text": "Auto-learn Forcebolt spell with (0) MP cost.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "CASTING_MP_REGEN_SKILL_MULTIPLIER",
+					"title": "MP Regen INT multiplier\n from skill:",
 					"value": "%dx INT",
 					"auto_resize_value": true
 				},
 				{
 					"tag": "CASTING_MP_REGEN",
-					"title": "Tasa Base de Regen. de PM:\n (Antes de modificadores\n de objetos/raza.)",
-					"value": "1 PM cada\n%.2f segundos",
+					"title": "Base MP Regen rate:\n (Before item/race\n modifiers)",
+					"value": "1 MP every\n%.2f seconds",
 					"auto_resize_value": true
 				},
 				{
 					"tag": "CASTING_BEGINNER",
-					"title": "Fallo al canalizar\n con hechizos aprendidos:",
+					"title": "Able to fail casting\n of learned spells:",
 					"value": "%s"
 				},
 				{
 					"tag": "CASTING_SPELLBOOK_FUMBLE",
-					"title": "Nivel Mágico Máximo\n para lanzar desde grimorios\n sin fallar:\n (Usando habilidad + INT)",
+					"title": "Highest Magic tier\n to Spellbook-Cast\n without fumbling:\n (Using skill + INT stat)",
 					"value": "%s"
+				}
+			]
+		},
+		{
+			"name": "Swimming",
+			"id": 32,
+			"sfx": 552,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Swimming01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Swimming01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Swimming02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Swimming02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CON_00.png",
+			"description": "Increases movement speed while swimming in liquids.",
+			"legend_text": "Permanent water-walking over water and lava.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "SWIM_SPEED_TOTAL",
+					"title": "Movement speed\n while swimming:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "SWIM_SPEED_BASE",
+					"title": "Base speed multiplier\n penalty in liquids:",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "SWIM_SPEED_BONUS",
+					"title": "Bonus speed multiplier\n from Swimming skill:",
+					"value": "+%d%%"
 				}
 			]
 		}
