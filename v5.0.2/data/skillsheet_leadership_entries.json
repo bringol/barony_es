@@ -1,150 +1,150 @@
 {
     "version": 1,
     "leadership_allies_base": {
-        "vampire": [
-            "vampire",
-            "automaton"
+        "vampiro": [
+            "vampiro",
+            "autómata"
         ],
         "skeleton": [
-            "ghoul",
-            "automaton"
+            "necrófago",
+            "autómata"
         ],
-        "human": [
-            "human",
-            "automaton"
+        "humano": [
+            "humano",
+            "autómata"
         ],
-        "succubus": [
-            "succubus",
-            "incubus",
-            "automaton"
+        "súcubo": [
+            "súcubo",
+            "íncubo",
+            "autómata"
         ],
-        "goatman": [
-            "goatman",
-            "automaton"
+        "fauno": [
+            "fauno",
+            "autómata"
         ],
-        "automaton": [
-            "human",
-            "automaton"
+        "autómata": [
+            "humano",
+            "autómata"
         ],
-        "incubus": [
-            "succubus",
-            "incubus",
-            "automaton"
+        "íncubo": [
+            "súcubo",
+            "íncubo",
+            "autómata"
         ],
-        "goblin": [
-            "goblin",
-            "automaton"
+        "trasgo": [
+            "trasgo",
+            "autómata"
         ],
-        "insectoid": [
-            "scorpion",
-            "scarab",
-            "insectoid",
-            "automaton"
+        "insectoide": [
+            "escorpión",
+            "escarabajo",
+            "insectoide",
+            "autómata"
         ],
-        "rat": [
-            "rat",
-            "automaton"
+        "rata": [
+            "rata",
+            "autómata"
         ],
         "troll": [
             "troll",
-            "automaton"
+            "autómata"
         ],
-        "spider": [
-            "spider",
-            "scorpion",
-            "scarab",
-            "automaton"
+        "tarántula": [
+            "tarántula",
+            "escorpión",
+            "escarabajo",
+            "autómata"
         ],
-        "imp": [
-            "imp",
-            "automaton"
+        "diablillo": [
+            "diablillo",
+            "autómata"
         ]
     },
     "leadership_allies_legendary": {
-        "vampire": [
-            "goblin",
-            "insectoid",
-            "goatman"
+        "vampiro": [
+            "trasgo",
+            "insectoide",
+            "fauno"
         ],
         "skeleton": [
-            "goblin",
-            "insectoid",
-            "goatman"
+            "trasgo",
+            "insectoide",
+            "fauno"
         ],
-        "human": [
-            "goblin",
-            "insectoid",
-            "goatman"
+        "humano": [
+            "trasgo",
+            "insectoide",
+            "fauno"
         ],
-        "succubus": [
-            "goblin",
-            "insectoid",
-            "goatman"
+        "súcubo": [
+            "trasgo",
+            "insectoide",
+            "fauno"
         ],
-        "goatman": [
-            "goblin",
-            "insectoid"
+        "fauno": [
+            "trasgo",
+            "insectoide"
         ],
-        "automaton": [
-            "goblin",
-            "insectoid",
-            "goatman"
+        "autómata": [
+            "trasgo",
+            "insectoide",
+            "fauno"
         ],
-        "incubus": [
-            "goblin",
-            "insectoid",
-            "goatman"
+        "íncubo": [
+            "trasgo",
+            "insectoide",
+            "fauno"
         ],
-        "goblin": [
-            "insectoid",
-            "goatman"
+        "trasgo": [
+            "insectoide",
+            "fauno"
         ],
-        "insectoid": [
-            "goblin",
-            "goatman"
+        "insectoide": [
+            "trasgo",
+            "fauno"
         ],
-        "rat": [
-            "goblin",
-            "insectoid",
-            "goatman"
+        "rata": [
+            "trasgo",
+            "insectoide",
+            "fauno"
         ],
         "troll": [
-            "goblin",
-            "insectoid",
-            "goatman"
+            "trasgo",
+            "insectoide",
+            "fauno"
         ],
-        "spider": [
-            "goblin",
-            "insectoid",
-            "goatman"
+        "tarántula": [
+            "trasgo",
+            "insectoide",
+            "fauno"
         ],
-        "imp": [
-            "goblin",
-            "insectoid",
-            "goatman"
+        "diablillo": [
+            "trasgo",
+            "insectoide",
+            "fauno"
         ]
     },
     "leadership_allies_unique_recruits": {
-        "succubus": [
+        "súcubo": [
             {
-                "human": "   (Drunk)"
+                "humano": "   (Ebrio)"
             },
             {
-                "human": "   (Confused)"
+                "humano": "   (Confundido)"
             }
         ],
-        "goatman": [
+        "fauno": [
             {
-                "human": "   (Throw Booze\n   while drunk)"
+                "humano": "   (Lanza bebida\n   en estado de ebriedad)"
             },
 			{
-                "goblin": "   (Throw Booze\n   while drunk)"
+                "trasgo": "   (Lanza bebida\n   en estado de ebriedad)"
             },
 			{
-                "succubus": "   (Throw Booze\n   while drunk)"
+                "súcubo": "   (Lanza bebida\n   en estado de ebriedad)"
             },
 			{
-                "incubus": "   (Throw Booze\n   while drunk)"
+                "íncubo": "   (Lanza bebida\n   en estado de ebriedad)"
             }
         ]
     }
