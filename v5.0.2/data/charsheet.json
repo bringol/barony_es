@@ -63,7 +63,7 @@
 			"stat_int_mp_regen_bonus": "Bonus Regen. PM:",
 			"stat_pwr_value_format": "%+.1f%% PDR",
 			"stat_mp_regen_value_format": "%+.1f%% RGN",
-			"stat_per_pierce_bonus": "Chance Penetrar Armadura a Distancia:",
+			"stat_per_pierce_bonus": "% Penetrar Armadura a Distancia:",
 			"stat_pierce_value_format": "%+.f%%",
 			"stat_per_light_bonus": "Bonus Visión Pasiva:",
 			"stat_per_sneaking_bonus": "Bonus Visión Sigilo:",
