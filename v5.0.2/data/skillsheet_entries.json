@@ -130,7 +130,7 @@
 				},
 				{
 					"tag": "BLOCK_DEGRADE_DEFENDING_CHANCE",
-					"title": "Shield degrade chance:\n (While Defending)",
+					"title": "Chance de degradar escudo:\n (Al Defender):",
 					"value": "%.2f%%"
 				}
 			]
@@ -394,7 +394,7 @@
 				},
 				{
 					"tag": "LIST_LEADER_AVAILABLE_FOLLOWERS",
-					"title": "Current recruitable\n ally races:",
+					"title": "Razas aliadas\n reclutables actualmente:",
 					"value": "%s",
 					"auto_resize_value": true
 				}
@@ -458,22 +458,22 @@
 				},
 				{
 					"tag": "APPRAISE_SPEEDUP_CONSUMABLES",
-					"title": "Appraisal time reduction\n Food/Scrolls/Potions:",
+					"title": "Reducción del tiempo de tasación\n Comida/Pergaminos/Pociones:",
 					"value": "%.f%%"
 				},
 				{
 					"tag": "APPRAISE_SPEEDUP",
-					"title": "Appraisal time reduction\n All other items:\n (With skill total above 50)",
+					"title": "Reducción del tiempo de tasación\n Todos los demás objetos:\n (Con habilidad total superior a 50)",
 					"value": "%.f%%"
 				},
 				{
 					"tag": "APPRAISE_FLOOR_BONUS",
-					"title": "Appraisal time reduction\n for all inventory items on\n advancing to next floor: ",
+					"title": "Reducción del tiempo de tasación\n para todos los objetos del inventario\n al avanzar al siguiente piso: ",
 					"value": "%.f%%"
 				},
 				{
 					"tag": "APPRAISE_WORTHLESS_GLASS",
-					"title": "Able to appraise\n Worthless Glass:",
+					"title": "Capaz de tasar\n Vidrio Inservible:",
 					"value": "%s"
 				}
 			]
@@ -512,23 +512,23 @@
 				},
 				{
 					"tag": "TINKERING_DISARM_ARROWS",
-					"title": "Chance to disarm\n arrow traps:",
+					"title": "Chance de Desarmar\n trampas de flechas:",
 					"value": "%d%%"
 				},
 				{
 					"tag": "TINKERING_KIT_SCRAP_BONUS",
-					"title": "Bonus scrap\n while salvaging:\n (Using skill + PER stat)",
+					"title": "Chatarra extra\n reciclando:\n (Usando habilidad + PER)",
 					"value": "+%d%%"
 				},
 				{
 					"tag": "TINKERING_KIT_REPAIR_ITEM",
-					"title": "Highest Metal/Magic\n item able to repair:\n (Using skill + PER stat)",
+					"title": "Objeto Metálico/Mágico \n reparable de mayor nivel:\n (Usando habilidad + PER)",
 					"value": "%s",
 					"auto_resize_value": true
 				},
 				{
 					"tag": "TINKERING_MAX_ALLIES",
-					"title": "Maximum deployed\n tinkering allies:",
+					"title": "Despliegue Máximo de\n aliados fabricados:",
 					"value": "%d"
 				}
 			]
@@ -623,7 +623,7 @@
 				{
 					"tag": "ALCHEMY_DUPLICATION_CHANCE",
 					"title": "Duplicación de poción\n chance usando agua:",
-					"title_short": "Learned spells\n ideal to advance\n current Sorcery\n skill level:",
+					"title_short": "Hechizos aprendidos\n ideales para subir\n el nivel actual de\n Hechicería:",
 					"value": "%d%%",
 					"auto_resize_value": true
 				},
@@ -675,31 +675,31 @@
 				{
 					"tag": "MAGIC_CURRENT_TIER_SPELLS",
 					"title": "Hechizos Actuales Según\n Nivel Mágico:",
-					"title_short": "Learned spells\n ideal to advance\n current\n Mysticism skill\n level:",
+					"title_short": "Hechizos aprendidos\n ideales para subir\n el nivel actual de\n Misticismo:",
 					"value": "%s",
 					"auto_resize_value": true
 				},
 				{
 					"tag": "MAGIC_CURRENT_TIER_SPELLS",
-					"title": "Spells in current\n Mysticism tier:",
+					"title": "Hechizos del nivel\n actual de Misticismo:",
 					"value": "%s",
 					"auto_resize_value": true
 				},
 				{
 					"tag": "CASTING_BEGINNER",
-					"title": "Able to fail casting\n of learned spells:",
+					"title": "Fallo al canalizar\n con hechizos aprendidos:",
 					"value": "%s"
 				},
 				{
 					"tag": "CASTING_SPELLBOOK_FUMBLE",
-					"title": "Highest Mysticism tier\n to Spellbook-Cast\n without fumbling:\n (Using skill + INT stat)",
+					"title": "Nivel máximo de Misticismo\n para lanzar desde grimorios\n sin fallar:\n (Usando habilidad + INT)",
 					"value": "%s"
 				}
 			]
 		},
 		{
 			"name": "Canalizar",
-			"shortname": "Thauma",
+			"shortname": "Tauma",
 			"id": 6,
 			"sfx": 596,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Casting01.png",
@@ -728,31 +728,31 @@
 				{
 					"tag": "CASTING_BEGINNER",
 					"title": "Fallo al canalizar\n con hechizos aprendidos:",
-					"title_short": "Learned spells\n ideal to advance\n current\n Thaumaturgy\n skill level:",
+					"title_short": "Hechizos aprendidos\n ideales para subir\n el nivel actual de\n Taumaturgia:",
 					"value": "%s",
 					"auto_resize_value": true
 				},
 				{
 					"tag": "CASTING_SPELLBOOK_FUMBLE",
 					"title": "Nivel Mágico Máximo\n para lanzar desde grimorios\n sin fallar:\n (Usando habilidad + INT)",
-					"title_short": "Spells in current\n Thaumaturgy\n tier:",
+					"title_short": "Hechizos del nivel\n actual de\n Taumaturgia:",
 					"value": "%s",
 					"auto_resize_value": true
 				},
 				{
 					"tag": "CASTING_BEGINNER",
-					"title": "Able to fail casting\n of learned spells:",
+					"title": "Fallo al canalizar\n con hechizos aprendidos:",
 					"value": "%s"
 				},
 				{
 					"tag": "CASTING_SPELLBOOK_FUMBLE",
-					"title": "Highest Thaumaturgy tier\n to Spellbook-Cast\n without fumbling:\n (Using skill + INT stat)",
+					"title": "Nivel máximo de Taumaturgia\n para lanzar desde grimorios\n sin fallar:\n (Usando habilidad + INT)",
 					"value": "%s"
 				}
 			]
 		},
 		{
-			"name": "Magic",
+			"name": "Magia",
 			"id": 33,
 			"sfx": 597,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Magic01.png",
@@ -760,8 +760,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Magic02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Magic02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
-			"description": "Allows higher level magic spells to be learned from spellbooks. Equip spells via the Magic menu and use the Cast command, or wield spellbooks and use the Defend command to use magic.",
-			"legend_text": "Auto-learn Dominate spell.",
+			"description": "Permite aprender hechizos de magia de nivel superior mediante grimorios. Equipa los hechizos desde el menú de Magia y usa el comando Canalizar, o empuña grimorios y usa el comando Defender para usar magia.",
+			"legend_text": "Autoaprende el hechizo Dominar.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -770,24 +770,24 @@
 			"effects": [
 				{
 					"tag": "MAGIC_SPELLPOWER_INT",
-					"title": "Base spell power bonus:\n (Using INT stat)",
+					"title": "Bonus de poder mágico base:\n (Usando INT)",
 					"value": "%+d%%"
 				},
 				{
 					"tag": "MAGIC_CURRENT_TIER",
-					"title": "Highest Magic tier\n able to learn:\n (Using skill + INT stat)",
+					"title": "Nivel máximo de magia\n aprendible:\n (Usando habilidad + INT)",
 					"value": "%s"
 				},
 				{
 					"tag": "MAGIC_CURRENT_TIER_SPELLS",
-					"title": "Spells in current\n Magic tier:",
+					"title": "Hechizos Actuales Según\n Nivel Mágico:",
 					"value": "%s",
 					"auto_resize_value": true
 				}
 			]
 		},
 		{
-			"name": "Casting",
+			"name": "Canalizar",
 			"id": 34,
 			"sfx": 596,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Casting01.png",
@@ -795,8 +795,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Casting02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Casting02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
-			"description": "Improves reliability of Casting and Spellbook-Casting spells, reducing chances to fumble or over-expend mana. Increases passive MP regen.",
-			"legend_text": "Auto-learn Forcebolt spell with (0) MP cost.",
+			"description": "Mejora la fiabilidad de Canalizar y de lanzar hechizos desde grimorios, reduciendo las chances de fallo o de gastar demasiada magia. Incrementa la regeneración pasiva de PM.",
+			"legend_text": "Autoaprende Virote Mágico con coste nulo de magia.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -805,30 +805,30 @@
 			"effects": [
 				{
 					"tag": "CASTING_MP_REGEN_SKILL_MULTIPLIER",
-					"title": "MP Regen INT multiplier\n from skill:",
+					"title": "Multip. Regen. de PM por INT\n mediante habilidad:",
 					"value": "%dx INT",
 					"auto_resize_value": true
 				},
 				{
 					"tag": "CASTING_MP_REGEN",
-					"title": "Base MP Regen rate:\n (Before item/race\n modifiers)",
-					"value": "1 MP every\n%.2f seconds",
+					"title": "Tasa Base de Regen. de PM:\n (Antes de modificadores\n de objetos/raza.)",
+					"value": "1 PM cada\n%.2f segundos",
 					"auto_resize_value": true
 				},
 				{
 					"tag": "CASTING_BEGINNER",
-					"title": "Able to fail casting\n of learned spells:",
+					"title": "Fallo al canalizar\n con hechizos aprendidos:",
 					"value": "%s"
 				},
 				{
 					"tag": "CASTING_SPELLBOOK_FUMBLE",
-					"title": "Highest Magic tier\n to Spellbook-Cast\n without fumbling:\n (Using skill + INT stat)",
+					"title": "Nivel máximo de Magia\n para lanzar desde grimorios\n sin fallar:\n (Usando habilidad + INT)",
 					"value": "%s"
 				}
 			]
 		},
 		{
-			"name": "Swimming",
+			"name": "Nadar",
 			"id": 32,
 			"sfx": 552,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Swimming01.png",
@@ -836,8 +836,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Swimming02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Swimming02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CON_00.png",
-			"description": "Increases movement speed while swimming in liquids.",
-			"legend_text": "Permanent water-walking over water and lava.",
+			"description": "Incrementa velocidad de movimiento al nadar en líquidos.",
+			"legend_text": "Caminar sobre el agua y lava permanentemente.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -846,17 +846,17 @@
 			"effects": [
 				{
 					"tag": "SWIM_SPEED_TOTAL",
-					"title": "Movement speed\n while swimming:",
+					"title": "Velocidad\n al nadar:",
 					"value": "%d%%"
 				},
 				{
 					"tag": "SWIM_SPEED_BASE",
-					"title": "Base speed multiplier\n penalty in liquids:",
+					"title": "Multiplicador de Velocidad Base\n penalidad en líquidos:",
 					"value": "%+d%%"
 				},
 				{
 					"tag": "SWIM_SPEED_BONUS",
-					"title": "Bonus speed multiplier\n from Swimming skill:",
+					"title": "Bonus multiplicador de velocidad\n de la habilidad Nadar:",
 					"value": "+%d%%"
 				}
 			]
