@@ -759,9 +759,9 @@
 			},
 			"daedalus" : 
 			{
-				"text": "Señala el santuario de Daedalus.",
+				"text": "Señala el santuario de Dédalo.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"Hay un santuario de Daedalus aquí.\"",
+				"msg_says": "%s\"Hay un santuario de Dédalo aquí.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
@@ -1241,9 +1241,9 @@
 			},
 			"daedalus" : 
 			{
-				"text": "¡Necesito ayuda junto a este santuario de Daedalus!",
+				"text": "¡Necesito ayuda junto a este santuario de Dédalo!",
 				"word_highlights" : [5, 6],
-				"msg_says": "%s\"¡Necesito ayuda junto a este santuario de Daedalus!\"",
+				"msg_says": "%s\"¡Necesito ayuda junto a este santuario de Dédalo!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
@@ -1594,9 +1594,9 @@
 			},
 			"daedalus" : 
 			{
-				"text": "Usaré el santuario de Daedalus.",
+				"text": "Usaré el santuario de Dédalo.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"Usaré el santuario de Daedalus.\"",
+				"msg_says": "%s\"Usaré el santuario de Dédalo.\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_spot"
 			},
@@ -1900,9 +1900,9 @@
 			},
 			"daedalus" : 
 			{
-				"text": "No uses ese santuario de Daedalus.",
+				"text": "No uses ese santuario de Dédalo.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"No uses ese santuario de Daedalus.\"",
+				"msg_says": "%s\"No uses ese santuario de Dédalo.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},

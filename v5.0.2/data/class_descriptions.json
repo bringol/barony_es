@@ -48,17 +48,17 @@
 			"desc": [
 				"Guerrero",
                 "El soldado entrenado. Están",
-                "fuertemente acorazados y",
+                "altamente acorazados y",
                 "son líderes capaces.",
-                "Fuertemente equipados en la",
-                "mayoría de las peleas,",
+                "Fuertemente equipados pa-",
+                "ra la mayoría de las peleas,",
                 "siempre que sepan bloquear",
                 "en los momentos oportunos.",
-				"La soberbia es la perdición",
-                "de muchos guerreros, ya sea",
-                "por actuar torpemente cerca",
-                "de trampas o dejando que la",
-                "magia atraviese su armadura."
+				"La soberbia es su perdición,",
+                "ya sea por actuar torpe-",
+                "mente cerca de trampas, o",
+                "dejando que los conjuros pe-",
+                "netren su armadura."
 			]
 		},
 		"healer": {
@@ -69,28 +69,28 @@
 				0,
 				0,
 				0,
-				0,
 				4,
 				0,
 				0,
 				0,
 				0,
-				4
+				4,
+				0
 			],
 			"desc": [
 				"Curandero",
                 "Médico talentoso. Aunque",
-                "son malos combatientes, se",
-                "equipan con medicinas y",
-                "otras habilidades curativas.",
+                "son malos combatientes, po-",
+                "seen medicinas y capacidades",
+                "curativas sorprendentes.",
                 "En comparación con otros,",
                 "el Curandero es un héroe",
                 "más duradero y equilibrado",
-                "a medida que obtienen",
-                "experiencia.",
-                "Con calma, podrán volverese",
+                "a medida que obtiene expe-",
+                "riencia.",
+                "Con calma, pueden volverese",
                 "poderosos lanzadores de",
-                "hechizos."
+                "conjuros y hechizos."
 			]
 		},
 		"rogue": {
@@ -115,14 +115,14 @@
                 "Rateros diestros y siniestros,",
                 "lo que les falta en poder, lo",
                 "compensan en versatilidad.",
-                "Hasta los más hábiles caen",
+                "Hasta los más curtidos caen",
                 "buscando vivir por la espada.",
                 "Sus manos hábiles desarman",
-                "cualquier trampa, y usando",
+                "cualquier trampa y, usando",
                 "sigilo, un pícaro paciente",
-                "acecha desde la distancia,",
-                "atentando emboscadas",
-                "contra enemigos más débiles."
+                "acecha desde la distancia, a-",
+                "tentando emboscadas sobre",
+                "sus vulnerables presas."
 			]
 		},
 		"wanderer": {
@@ -147,14 +147,14 @@
                 "Baja armadura y pericia en",
                 "combate, pero bien equipado",
                 "para explorar mazmorras.",
-                "Su gran conserva de comida",
-                "le provee un buen inicio",
-                "para la aventura,",
-                "permitiédoles jugar seguro.",
+                "Sus abundantes provisiones",
+                "le brinda un inicio seguro",
+                "para la aventura, lo que le",
+                "permite ir con cautela.",
                 "Su naturaleza resiliente",
-                "los convierten en robustos",
-                "guerreros en sus eternas",
-                "búsquedas."
+                "lo convierte en un robusto",
+                "luchador a medida que con-",
+                "tinua su periplo."
 			]
 		},
 		"cleric": {
@@ -175,18 +175,18 @@
 			],
 			"desc": [
 				"Clérigo",
-                "Estudiantes eclesiásticos.",
-                "Bastante bien equipados y",
-                "capaces en muchos aspectos,",
-                "son aventureros completos.",
-                "A pesar de tener magias aún",
-                "no pueden memorizarlas, el",
-                "entrenamiento los preparó",
-                "para aprender velozmente.",
-                "Un sabio clérigo hace uso de",
-                "magias cuando están dispo-",
-                "nibles, sin dejar de lado su",
-                "entrenamiento marcial."
+                "Estudiante eclesiástico.",
+				"Bien equipado, es un defen-",
+                "sor capaz y listo para apla-",
+                "star a los muertos vivientes.",
+                "Entrenado en bendiciones, el",
+                "Clérigo es un hábil tauma-",
+                "turgo que ayuda a sus cole-",
+                "gas mediante sanaciones.", 
+                "Un Clérigo sabio usa su magia",
+                "cuando puede, sin nunca olvi-",
+                "dar su instrucción marcial ni",
+                "tampoco sus sagrados votos."
 			]
 		},
 		"merchant": {
@@ -326,12 +326,12 @@
 				0,
 				0,
 				0,
+				0,
 				4,
 				0,
 				0,
 				0,
-				0,
-				4
+				0
 			],
 			"desc": [
 				"Sacristán",
@@ -339,7 +339,7 @@
                 "actúa sin ser visto, usando",
                 "sigilo y magias para esca-",
                 "bullirse a lo largo y ancho",
-                "de la mazmorra, gracias a",
+                "de la mazmorra gracias a",
                 "sus herramientas inusuales.",
                 "Meticulosos planificadores,",
                 "sus diversos talentos son",
@@ -376,9 +376,9 @@
                 "resplado. Sus frágiles espa-",
                 "das son filosas, pero una ro-",
                 "tura desfortunada es fatal.",
-                "Para mejorar sus chances, un",
+                "Para mejorar sus chances, el",
                 "Ninja debe poder controlar",
-                "cómo comienza una pelea."
+                "cómo abordar cada pelea."
 			]
 		},
 		"monk": {
@@ -399,18 +399,18 @@
 			],
 			"desc": [
 				"Monje",
-                "El miedo equivale al fracaso",
+                "Disciplinado y robusto.",
                 "Escaso en factores de entre-",
                 "namiento ofensivo y bienes",
                 "materiales, pero de enorme",
                 "fortaleza y adaptabilidad.",
                 "El monje es excepcional al",
                 "bloquear ataques, y lento",
-                "para sentir hambre.",
+                "para sufrir hambruna.",
 				"Encarar desafíos con pacien-",
-                "cia le saca partido a sus",
+                "cia está entre sus mejores",
                 "cualidades. Mantén escudos",
-                "o antorchas al alcance."
+                "o antorchas para la defensa."
 			]
 		},
 		"conjurer": {
@@ -432,7 +432,7 @@
 			"desc": [
 				"Conjurador",
                 "Un frágil pero adepto mago,",
-                "capaz de conjurar aliados",
+                "capaz de invocar aliados",
                 "con un filedigno conjuro.",
                 "Inaccesible para otros, el",
                 "conjuro Invocar Esqueleto",
@@ -465,12 +465,12 @@
 				"Condenado",
                 "El Condenado sufre de un",
                 "hambre bestial, pero gana",
-                "poder mágico supernatural",
+                "poder mágico sobrenatural",
                 "y velocidad.",
-				"Una bibliotca arcana en las",
+				"Una biblioteca arcana en las",
                 "mismísimas profundidades",
                 "puede poseer una cura.",
-                "Estando mal, el Condenado",
+                "Atormentado, el Condenado",
                 "debe moverse rápido y segar",
                 "sangre para evitar hambre.",
                 "Aunque poderosos, quienes",
@@ -497,16 +497,16 @@
 				"Hipnotista",
                 "Usa un hechizo de encanto y",
                 "su capacidad de liderazgo",
-                "para enlistar duros aliados.",
+                "para alistar duros aliados.",
                 "Sólo puede encantar a uno",
                 "por vez, así que debe ser cui-",
                 "dadoso con el reclutamiento.",
                 "Alguien Encantado se hace",
                 "más fuerte con experiencia;",
                 "Es sabio nutrirlo. El hechizo",
-                "Encantar es difícil de saber;",
-                "Un Hipnotista exitoso debe",
-                "practicar otras magias."
+                "Encantar es difícil de usar,",
+                "pues Hipnotista exitoso debe",
+                "practicar con otras magias."
 			]
 		},
 		"brewer": {
@@ -517,28 +517,28 @@
 				0,
 				0,
 				0,
-				0,
 				4,
 				0,
 				0,
 				0,
 				4,
+				0,
 				0
 			],
 			"desc": [
-				"Alquimista",
-                "Talentoso alquimista quien",
-                "a su vez está conforme con",
-                "las relaciones y peleas de",
-                "bares que solo puede brin-",
-                "dar un buen trago.",
-                "Los alquimistas exitosos pri-",
-                "orizan recolectar, elaborar",
-                "y duplicar pociones para",
-                "nunca quedarse sin stock.",
-                "Una mochila llena de bote-",
-                "llas le permite adaptarse",
-                "con corto aviso."
+				"Destilador",
+				"Alquimista talentoso que",
+				"disfruta los encuentros y",
+				"peleas de taberna que una",
+				"buena bebida conlleva.",
+				"Su prioridad es juntar,",
+				"destilar y duplicar pociones",
+				"para no quedar nunca des-",
+				"abastecido.",
+				"Una mochila llena de reci-",
+				"pientes le permite al Des-",
+				"tilador adaptarse con gran",
+				"rapidez y corto aviso."
 			]
 		},
 		"mechanist": {
@@ -567,7 +567,7 @@
                 "bajo sucio.",
                 "Usan la previsión para tener",
                 "éxito al planificar con ante-",
-                "lación, y poseen artefactos",
+                "lación; y poseen artefactos",
                 "ideales para cada situación.",
                 "Quienes dependan de la pre-",
                 "mura y fuerza sufrirán."
@@ -624,7 +624,7 @@
 			"desc": [
 				"Shamán",
                 "El Shamán es un místico cu-",
-                "yas conecciones con los espí-",
+                "yas conexiones con los espí-",
                 "ritus de la naturaleza le",
                 "permite tomar forma bestial.",
                 "Los talentos de cada forma",
@@ -687,15 +687,15 @@
 			],
 			"desc": [
 				"Bardo",
-                "Un aventurero bullicioso",
-                "quizás no parezca gran",
-                "luchador, mago o pícaro,",
-                "pero una hoja veloz y su",
-                "ingenio hacen del Bardo",
-                "un combatiente capaz.",
-                "Los bardos deben dominar",
-                "el arte de parar con su",
-                "espada en lucha cerrada.",
+                "Este aventurero bullicioso",
+                "quizás no se vea como un",
+                "guerrero, mago o pícaro,",
+                "pero una hoja veloz y sagaz",
+                "ingenio hacen del Bardo un",
+                "combatiente muy capaz.",
+                "Los bardos deben dominar el",
+                "arte de defender con espada",
+                "en combates cerrados.",
                 "La canción correcta en la",
                 "situación adecuada trae",
 				"rápido éxito al grupo."
@@ -719,18 +719,18 @@
 			],
 			"desc": [
 				"Zapador",
-                "Soldado con recursos, el",
-                "Zapador tiene varias",
-                "herramientas para abatir",
-                "enemigos tras el frente.",
-                "Pero sin la defensa de",
-				"otros combatientes, debe",
-                "cuidarse de no quedar",
-                "superado en combate",
-                "cuerpo a cuerpo.",
-                "Los zapadores exitosos",
-                "combinan sus herramientas",
-				"para lograr victoria."
+                "Un soldado resolultivo, el",
+                "Zapador posee múltiples he-",
+                "rramientas para abatir a e-",
+                "nemigos tras la vanguardia.",
+                "Pero sin la proeza defensiva",
+				"de otros combatientes, debe",
+                "cuidarse de no quedar abru-",
+                "mado durante el combate del",
+                "tipo cuerpo-a-cuerpo.",
+                "El zapador exitoso combina",
+                "sus herramientas para ase-",
+				"gurar una victoria decisiva."
 			]
 		},
 		"class_scion": {
@@ -744,25 +744,25 @@
 				4,
 				0,
 				0,
-				4,
 				0,
+				4,
 				0,
 				0
 			],
 			"desc": [
 				"Vástago",
-                "Aunque muy bien formado",
-                "en todas las disciplinas",
-                "mágicas, el Vástago es",
-                "débil en lucha física.",
+                "Aunque muy bien formado en",
+                "todas las disciplinas mágicas,",
+                "el Vástago es débil para el",
+                "combate del tipo físico.",
                 "Aun así, el Vástago tiene",
                 "formas de mantener lejos",
-                "al enemigo mientras",
-                "sus hechizos hacen todo.",
+                "al enemigo mientras sus",
+                "hechizos hacen el trabajo.",
                 "Un Vástago exitoso aprende",
-                "nuevos hechizos en su",
-                "travesía. Debe esperar",
-				"adaptarse con ventaja."
+                "nuevos hechizos durante su",
+                "travesía. Debe poder adap-",
+				"ptarse bajo esta ventaja."
 			]
 		},
 		"class_hermit": {
@@ -783,18 +783,18 @@
 			],
 			"desc": [
 				"Ermitaño",
-                "Aunque no lleva equipo",
-                "de combate tradicional,",
-                "el Ermitaño sobrevive",
-                "combinando aptitudes",
-                "mágicas y físicas.",
-                "Aunque aislado, el",
-                "Ermitaño no está solo.",
-                "Una mascota leal sirve",
-                "como gran distracción, y",
-                "su garrote irrompible",
-                "resulta devastador ante",
-				"enemigos impedidos."
+                "Aunque no porta equipo de",
+                "combate tradicional, este",
+                "Hermitaño sobrevive gracias",
+                "a la combinación de dotes",
+                "tanto mágicos como físicos.",
+                "Aunque aislado, el Ermitaño",
+                "no se encuentra solo. Su le-",
+                "al mascota le sirve como una",
+                "gran distracción, y su irrom-",
+                "pible garrote deviene devas-",
+                "tador ante enemigos entor-",
+				"pecidos."
 			]
 		},
 		"class_paladin": {
@@ -815,18 +815,18 @@
 			],
 			"desc": [
 				"Paladín",
-                "Con una gran hoja y",
-                "magia divina, el",
-                "Paladín elige soluciones",
-                "simples y efectivas.",
-                "Aunque es hábil contra",
-                "rivales marciales, debe",
-                "estar a la altura cuando",
-                "no hay combate honorable",
-                "sobre la mesa.",
-                "La disciplina constante",
-                "con magia milagrosa puede",
-				"mejorar su adaptación."
+                "Blandiendo una gran hoja y",
+                "magias divinas, el Paladín",
+                "elige soluciones simples y",
+                "efectivas.",
+                "Aunque es adepto lidiando",
+                "con rivales marciales, debe",
+                "estar a la altura de las",
+                "circunstancias cuando no",
+                "surge el combate honorable.",
+                "La disciplina constante con",
+                "magias milagrosas puede me-",
+				"jorar su adaptabilidad."
 			]
 		},
 		"shapeshift_rat": {

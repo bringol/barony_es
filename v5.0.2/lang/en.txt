@@ -5176,7 +5176,7 @@ Código de sala inválido.#
 5361 Conjurador#
 5362 Condenado#
 5363 Hipnotista#
-5364 Alquimista#
+5364 Destilador#
 5365 Mecanicista#
 5366 Castigador#
 5367 Shamán#

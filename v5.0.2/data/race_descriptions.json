@@ -5,7 +5,7 @@
 			"title": "Humano",
 			"text_line_highlights": {
 				"traits_lines": [1],
-				"benefit_lines": [4,7]
+				"benefit_lines": [5,8]
 			},
 			"line_spacing": [4],
 			"traits_active_if_polymorphed_out_of": [],
@@ -13,23 +13,23 @@
 			"left_align": [
 				"",
 				"Rasgos",
+				"- Mayor velocidad de nado",
 				"- Aceptado por Comerciantes",
 				"",
 				"Resistencias",
 				"Ninguna",
 				"",
 				"Amistades Con",
-				"Humanos, Autómatas",
-				"Humans, Automatons"
+				"Humanos y Autómatas"	
 			],
 			"right_align": [
 				"",
 				"",
 				"",
 				"",
+				"",
 				"Debilidades",
-				"Ninguna",
-				"None"
+				"Ninguna"
 			]
 		},
 		"skeleton": {
@@ -45,21 +45,21 @@
 				"",
 				"Rasgos",
 				"- No sufre hambruna",
-				"- Regeneración PV y PM",
+				"- Regeneración de PV y PM",
 				"    reducido en 75%",
-				"- Auto-Resurrección con 75 PM",
+				"- Resurrección con 75 PM",
 				"- Inmune: Quemaduras",
-				"- Inmune: Estrangulamientos",
-				"- Velocidad de nado reducido en 50%",
+				"- Inmune: Estrangulamiento",
+				"- Vel. nado reducido en 50%",
 				"",
 				"Resistencias",
-				"- Espadas",
 				"- Rango",
-				"- Hachas",
 				"- Magias",
+				"- Hachas",
+				"- Espadas",
 				"",
 				"Amistades Con",
-				"- Necrófagos, Autómatas"
+				"- Necrófagos y Autómatas"
 			],
 			"right_align": [
 				"",
@@ -73,9 +73,9 @@
 				"",
 				"",
 				"Debilidades",
-				"- Mazas",
-				"- Armas de Astas",
-				"- Castigos"
+				"- Arm. de Asta",
+				"- Castigos",
+				"- Mazas"
 			]
 		},
 		"vampire": {
@@ -113,22 +113,22 @@
 				"Hechizos Innatos",
 				"- Sangría, Levitar",
 				"Rasgos",
-				"- Usa PV cuando agota PM para",
+				"- Usa PV cuando agota PM al",
 				"    lanzar y sostener magias",
-				"- Come solamente ",
-				"    Frascos de Sangre",
-				"- Matar puede soltar frascos",
+				"- Sustenta hambre sólo con",
+				"    Frascos de Sangre (FdS)",
+				"- Matar podría generar FdS",
 				"- Muertes por Sangría o",
-				"  asesinatos dan frascos",
+				"    Asesinatos generan FdS",
 				"",
 				"Resistencias",
-				"- Espadas",
 				"- Rango",
-				"- Hachas",
 				"- Magias",
+				"- Hachas",
+				"- Espadas",
 				"",
 				"Amistades Con",
-				"- Vampiros, Autómatas"
+				"- Vampiros y Autómatas"
 			],
 			"right_align": [
 				"",
@@ -144,10 +144,10 @@
 				"",
 				"",
 				"Debilidades",
-				"- Mazas",
-				"- Armas de Astas",
-				"- Agua",
+				"- Arm. de Asta",
 				"- Castigos",
+				"- Mazas",
+				"- Agua",
 				"",
 				"",
 				""
@@ -194,23 +194,23 @@
 			"left_align": [
 				"",
 				"Hechizos Innatos",
-				"- Teletransporte, Polimorfia",
+				"- Polimorfia, Teletransporte",
 				"Rasgos",
 				"- Equip. Maldito puede ser",
-				"    removido; brinda bonus",
-				"- Equip. Bendito no es",
-				"    removible; brinda bonus",
+				"    removido y brinda mejoras",
+				"- Equip. Bendito no es remo-",
+				"    vible, pero brinda mejoras",
 				"- +PM por Estrangulamiento",
-				"- Puede Reclutar humanos",
-				"    Ebrios/Confundidos",
+				"- Puede alistar humanos",
+				"    Ebrios o Confundidos",
 				"",
 				"Resistencias",
 				"- Magias",
-				"- Armas de Astas",
+				"- Arm. de Asta",
 				"",
 				"Amistades Con",
-				"- Súcubos, Íncubos,",
-				"    Autómatas"
+				"- Súcubos, Íncubos y Autó-",
+				"   matas"
 			],
 			"right_align": [
 				"",
@@ -226,8 +226,8 @@
 				"",
 				"",
 				"Debilidades",
-				"- Espadas",
 				"- Castigos",
+				"- Espadas",
 				"",
 				"",
 				"",""
@@ -240,7 +240,7 @@
 				"benefit_lines": [11, 16]
 			},
 			"line_spacing": [
-				4,
+				0,
 				0,
 				0,
 				2,
@@ -264,22 +264,22 @@
 			"left_align": [
 				"",
 				"Rasgos",
-				"- Sufre de Alcoholismo,",
-				"    causando Resaca",
+				"- Sufre de Alcoholismo, cau-",
+				"    sando la condición Resaca",
 				"- +FUE/CON/Resist. al Daño/",
-				"  Acción Libre estando Ebrio",
-				"- Puede reclutar otros Ebrios",
+				"    Acción Libre estando Ebrio",
+				"- Puede alistar otros Ebrios",
 				"- Come Latas sin Abrelatas",
-				"- Inmune: efectos de grasa",
-				"- Chance de +pociones",
-				"    al usar ls fuentes",
+				"- Inmune: efectos de Grasa",
+				"- Chance de hallar pociones",
+				"    al usar las fuentes",
 				"Resistencias",
 				"- Espadas",
 				"",
 				"",
 				"",
 				"Amistades Con",
-				"- Faunos, Autómatas"
+				"- Faunos y Autómatas"
 			],
 			"right_align": [
 				"",
@@ -294,10 +294,10 @@
 				"",
 				"",
 				"Debilidades",
-				"- Armas de Astas",
+				"- Arm. de Asta",
 				"- Hachas",
-				"- Rango",
-				"- Magias"
+				"- Magias",
+				"- Rango"
 			]
 		},
 		"automaton": {
@@ -307,7 +307,7 @@
 				"benefit_lines": [1, 12, 16]
 			},
 			"line_spacing": [
-				4,
+				0,
 				0,
 				4,
 				0,
@@ -346,8 +346,8 @@
 				"- Requiere Calor (KLR) para",
 				"    sobrevivir y usar magias",
 				"- Regen. KLR con su caldera",
-				"    mediante gemas y papel",
-				"- Puede remover obj. malditos",
+				"    mediante gemas y papeles",
+				"- Se desequipa obj. malditos",
 				"- Inmune: Quemaduras",
 				"- +20 a Reparaciones",
 				"- Aceptado por Comerciantes",
@@ -356,7 +356,7 @@
 				"- Desarmado",
 				"",
 				"Amistades Con",
-				"- Autómatas, Humanos"
+				"- Autómatas y Humanos"
 			],
 			"right_align": [
 				"",
@@ -373,8 +373,8 @@
 				"",
 				"Debilidades",
 				"- Hachas",
-				"- Mazas",
-				"- Magias"
+				"- Magias",
+				"- Mazas"
 			]
 		},
 		"incubus": {
@@ -400,22 +400,22 @@
 			"left_align": [
 				"",
 				"Hechizos Innatos",
-				"- Teletransporte, Marca Arcana",
+				"- Marca Arcana, Teletransp.",
 				"Rasgos",
 				"- Equip. Maldito puede ser",
-				"    removido; brinda bonus",
-				"- Equip. Bendito no es",
-				"    removible; brinda bonus",
+				"    removido y brinda mejoras",
+				"- Equip. Bendito no es remo-",
+				"    vible, pero brinda mejoras",
 				"- +PM por Estrangulamiento",
 				"",
 				"Resistencias",
 				"- Magias",
-				"- Armas de Astas",
+				"- Arm. de Asta",
 				"",
 				"",
 				"Amistades Con",
-				"- Súcubos, Íncubos,",
-				"    Autómatas"
+				"- Súcubos, Íncubos y Autó-",
+				"  matas"
 			],
 			"right_align": [
 				"",
@@ -446,12 +446,12 @@
 			"left_align": [
 				 "",
 				"Rasgos",
-				"- Equip. tiene menos chance",
-				"    de degradarse",
-				"- Subir el nivel con armas CaC",
+				"- Equipamiento usado se de-",
+				"   grada más lentamente",
+				"- Practicar con armas CaC",
 				"    aumentará todas a la vez",
-				"- Menos EXP ganada con armas",
-				"- No puede memorizar hechizos",
+				"- Menor EXP por cada arma",
+				"- No memoriza hechizos",
 				"",
 				"Resistencias",
 				"- Espadas",
@@ -459,7 +459,7 @@
 				"",
 				"",
 				"Amistades Con",
-				"- Trasgos, Autómatas"
+				"- Trasgos y Autómatas"
 			],
 			"right_align": [
 				"",
@@ -472,8 +472,8 @@
 				"",
 				"",
 				"Debilidades",
+				"- Arm. de Asta",
 				"- Hachas",
-				"- Armas de Astas",
 				"- Rango"
 			]
 		},
@@ -519,8 +519,8 @@
 				"- Desarmado",
 				"",
 				"Amistades Con",
-				"- Insectoides, Osgos",
-				"    Escorpiones, Autómatas"
+				"- Insectoides, Osgos, Escor-",
+				"    piones y Autómatas"
 			],
 			"right_align": [
 				"",
@@ -535,8 +535,8 @@
 				"",
 				"",
 				"Debilidades",
+				"- Arm. de Asta",
 				"- Hachas",
-				"- Armas de Astas",
 				"- Rango",
 				"",
 				""
@@ -561,14 +561,14 @@
 				"",
 				"Resistencias",
 				"- Hachas",
-				"- Armas de Astas",
+				"- Arm. de Asta",
 				"",
 				"",
 				"",
 				"",
 				"",
 				"Amistades Con",
-				"- Ratas, Autómatas"
+				"- Ratas y Autómatas"
 			],
 			"right_align": [
 				"",
@@ -579,8 +579,8 @@
 				"",
 				"Debilidades",
 				"- Desarmado",
-				"- Rango",
 				"- Espadas",
+				"- Rango",
 				"- Mazas"
 			]
 		},
@@ -609,8 +609,8 @@
 				"",
 				"",
 				"Amistades Con",
-				"- Arácnidos, Osgos,",
-				"  Escorpiones, Autómatas"
+				"- Arácnidos, Osgos, Escor-",
+				"  piones y Autómatas"
 			],
 			"right_align": [
 				"",
@@ -624,7 +624,7 @@
 			]
 		},
 		"crab": {
-			"title": "Escarabajo",
+			"title": "Cangrejo",
 			"text_line_highlights": {
 				"traits_lines": [1],
 				"benefit_lines": [6,14]
@@ -648,8 +648,8 @@
 				"",
 				"",
 				"Amistades Con",
-				"- Osgos, Escarabajos,",
-				"  Escorpiones, Autómatas"
+				"- Osgos, Escarabajos, Escor-",
+				"  piones y Autómatas"
 			],
 			"right_align": [
 				"",
@@ -680,12 +680,12 @@
 				"",
 				"Resistencias",
 				"- Mazas",
-				"- Armas de Astas",
-				"- Desarmado",
 				"- Rango",
+				"- Desarmado",
+				"- Arm. de Asta",
 				"",
 				"Amistades Con",
-				"- Trolls, Autómatas"
+				"- Trolls y Autómatas"
 			],
 			"right_align": [
 				"",
@@ -721,7 +721,7 @@
 				"",
 				"",
 				"Amistades Con",
-				"- Diablillos, Autómatas"
+				"- Diablillos y Autómatas"
 			],
 			"right_align": [
 				"",
@@ -732,12 +732,12 @@
 				"",
 				"",
 				"Debilidades",
-				"- Magias",
-				"- Espadas"
+				"- Espadas",
+				"- Magias"
 			]
 		},
 		"dryad": {
-			"title": "Dryad",
+			"title": "Dríade",
 			"text_line_highlights": {
 				"traits_lines": [3],
 				"benefit_lines": [1, 13, 18]
@@ -748,7 +748,7 @@
 				2,
 				0,
 				-2,
-				-2,
+				-1,
 				0,
 				-2,
 				-2,
@@ -768,25 +768,25 @@
 			"traits_active_if_polymorphed_into": [4, 5, 6, 7, 8, 9, 10, 11],
 			"left_align": [
 				"",
-				"Innate Spells",
-				"- Germinate, Thorns",
-				"Traits",
-				"- Grows foliage on LVL up",
-				"    without headwear,",
-				"    provides +PWR, +MP RGN",
-				"- +Growth % from water",
-				"    consume; short form buffs",
-				"    chance % and +5% evasion",
-				"- 20% reduced CHR growth",
-				"- Welcomed by Shopkeepers",
+				"Hechizos Innatos",
+				"- Germinar, Espinas",
+				"Rasgos",
+				"- Brota follaje al subir de ni-",
+				"    vel sin equipo de cabeza,",
+				"    provee +PDR y +Regen. PM",
+				"- +%Crecim. por beber agua",
+				"    ;chance de mejoras breves",
+				"    por % y +5% evasión",
+				"- 20% menos crec. de CAR",
+				"- Aceptado por Comerciantes",
 				"",
-				"Resistances",
-				"- Ranged",
-				"- Unarmed",
-				"- Polearms",
+				"Resistencias",
+				"- Rango",
+				"- Desarmado",
+				"- Arm. de Asta",
 				"",
-				"Friendly With",
-				"- Dryads; Humans (Neutral)"
+				"Amistades Con",
+				"- Dríades y Humanos (Neut.)"
 			],
 			"right_align": [
 				"",
@@ -802,17 +802,17 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Fire",
-				"- Axes",
-				"- Swords",
-				"- Magic",
+				"Debilidades",
+				"- Espadas",
+				"- Hachas",
+				"- Magias",
+				"- Fuego",
 				"",
 				""
 			]
 		},
 		"myconid": {
-			"title": "Myconid",
+			"title": "Micónido",
 			"text_line_highlights": {
 				"traits_lines": [3],
 				"benefit_lines": [1, 14, 18]
@@ -840,25 +840,25 @@
 			"traits_active_if_polymorphed_into": [4, 5, 6, 7, 8, 9, 10, 12],
 			"left_align": [
 				"",
-				"Innate Spells",
-				"- Germinate, Spores",
-				"Traits",
-				"- Grows foliage on LVL up",
-				"    without headwear,",
-				"    provides physical defense",
-				"- +MP and +Growth % from",
-				"    rotten food; short form",
-				"    buffs chance %",
-				"- Immune to indigestion",
-				"- 20% reduced DEX growth",
-				"- Welcomed by Shopkeepers",
+				"Hechizos Innatos",
+				"- Germinar, Esporas",
+				"Rasgos",
+				"- Brota micelio al subir de ni-",
+				"    vel sin equipo de cabeza",
+				"    y provee defensa física",
+				"- +PM y % de +Crecim. por",
+				"    comida podrida; chance",
+				"    de mejoras breves por %",
+				"- Inmune a Indigestión",
+				"- 20% menos crec. de DES",
+				"- Aceptado por Comerciantes",
 				"",
-				"Resistances",
-				"- Maces",
-				"- Magic",
+				"Resistencias",
+				"- Mazas",
+				"- Magias",
 				"",
-				"Friendly With",
-				"- Myconids; Humans (Neutral)"
+				"Amistades Con",
+				"- Micónidos y Humanos (Neut.)"
 			],
 			"right_align": [
 				"",
@@ -874,16 +874,16 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Swords",
-				"- Axes",
+				"Debilidades",
+				"- Espadas",
+				"- Hachas",
 				"",
 				"",
 				""
 			]
 		},
 		"salamander": {
-			"title": "Salamander",
+			"title": "Salamandra",
 			"text_line_highlights": {
 				"traits_lines": [3],
 				"benefit_lines": [1, 14, 19]
@@ -914,27 +914,27 @@
 			"traits_active_if_polymorphed_into": [4, 5, 6, 7, 8, 9, 10, 11, 12],
 			"left_align": [
 				"",
-				"Innate Spells",
-				"- Breathe Fire",
-				"Traits",
-				"- Uses Fervor (FR) to cast",
-				"    spells, regens up to 50%",
-				"- Gaining XP increases FR",
-				"- Turns Radiant Form using",
-				"    Breathe Fire at 75% FR",
-				"- Stone Form at 25% FR",
-				"- CHR buffs Forms and FR gain",
-				"- +35% hungrier",
-				"- Welcomed by Shopkeepers",
+				"Conjuros Innatos",
+				"- Escupir Fuego",
+				"Rasgos",
+				"- Usa Fervor (FR) para",
+				"    magias, reg. hasta 50%",
+				"- Ganar EXP aumenta FR",
+				"- Se vuelve Radiante al",
+				"    Escupir Fuego a 75% FR",
+				"- Forma Pétrea a 25% FR",
+				"- CAR mejora Formas y FR",
+				"- +35% más hambruna",
+				"- Aceptada por Comerciantes",
 				"",
-				"Resistances",
-				"- Swords",
-				"- Unarmed",
-				"- Fire",
+				"Resistencias",
+				"- Fuego",
+				"- Espadas",
+				"- Desarmado",
 				"",
-				"Friendly With",
-				"- Salamanders;",
-				"    Humans (Neutral)"
+				"Amistades Con",
+				"- Salamandras y Humanos",
+				"    (Neut.)"
 			],
 			"right_align": [
 				"",
@@ -951,9 +951,9 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Polearms",
-				"- Ranged",
+				"Debilidades",
+				"- Arm. de Asta",
+				"- Rango",
 				"",
 				"",
 				"",
@@ -985,31 +985,31 @@
 				0,
 				0,
 				0,
-				-12
+				-15
 			],
 			"traits_active_if_polymorphed_out_of": [],
 			"traits_active_if_polymorphed_into": [4, 5, 6, 7, 8, 9],
 			"left_align": [
 				"",
-				"Innate Spells",
-				"- Deface",
-				"Traits",
-				"- Adept at breaking objects",
-				"    granting SPD, MP RGN, DMG",
-				"    as more are broken",
-				"- Evasive when Slippery",
-				"- Improved Sneak Vision",
-				"- 20% reduced CON growth",
+				"Hechizos Innatos",
+				"- Desfigurar",
+				"Rasgos",
+				"- Hábil rompiendo objetos;",
+				"    gana Vel., Regen. PM y Daño",
+				"    mientras más rompa",
+				"- Evasivo al Resbalar",
+				"- Mejor Visión Furtiva",
+				"- 20% menos crec. de CON",
 				"",
-				"Resistances",
-				"- Polearms",
-				"- Magic",
-				"- Ranged",
-				"- Unarmed",
-				"- Maces",
+				"Resistencias",
+				"- Rango",
+				"- Mazas",
+				"- Magias",
+				"- Desarmado",
+				"- Arm. de Asta",
 				"",
-				"Friendly With",
-				"- Gremlins; Goblins (Neutral)"
+				"Amistades Con",
+				"- Gremlins y Trasgos (Neut.)"
 			],
 			"right_align": [
 				"",
@@ -1023,9 +1023,9 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Swords",
-				"- Axes",
+				"Debilidades",
+				"- Espadas",
+				"- Hachas",
 				"",
 				"",
 				"",
@@ -1035,7 +1035,7 @@
 			]
 		},
 		"gnome": {
-			"title": "Gnome",
+			"title": "Gnomo",
 			"text_line_highlights": {
 				"traits_lines": [3],
 				"benefit_lines": [1, 13, 17]
@@ -1055,30 +1055,30 @@
 			-8,
 			0,
 			0,
-			0
+			-3
 			],
 			"traits_active_if_polymorphed_out_of": [],
 			"traits_active_if_polymorphed_into": [4, 5, 6, 7, 8, 9, 10, 11],
 			"left_align": [
 				"",
-				"Innate Spells",
-				"- Forge Jewel",
-				"Traits",
-				"- Sense gold (when Blind)",
-				"- More gold from containers",
-				"- Increased MP RGN from",
-				"    hoarding gold",
-				"- Improved Pickaxe Combat",
-				"- 20% reduced STR growth",
-				"- Recruits with forged jewels",
-				"- Welcomed by Shopkeepers",
+				"Hechizos Innatos",
+				"- Forjar Gema",
+				"Rasgos",
+				"- Detecta oro si está ciego",
+				"- Más oro de contenedores",
+				"- Mayor Regen. de PM por",
+				"    acumular oro",
+				"- Mejor combate con pico",
+				"- 20% menos crec. de FUE",
+				"- Alista con gemas forjadas",
+				"- Aceptado por Comerciantes",
 				"",
-				"Resistances",
-				"- Polearms",
-				"- Swords",
+				"Resistencias",
+				"- Espadas",
+				"- Arm. de Asta",
 				"",
-				"Neutral To",
-				"- Humans, Trolls"
+				"Neutral Con",
+				"- Humanos y Trolls"
 			],
 			"right_align": [
 				"",
@@ -1094,9 +1094,9 @@
 				"",
 				"",
 				"",
-				"Weaknesses",
-				"- Magic",
-				"- Ranged",
+				"Debilidades",
+				"- Magias",
+				"- Rango",
 				"",
 				"",
 				""
