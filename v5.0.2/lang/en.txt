@@ -807,8 +807,8 @@ los objetos antes de usarlos.#
 
 # monster chat
 
-513 El/La %s dice:#
-514 El/La %s no responde# 
+513 [ %s ] dice:#
+514 [ %s ] no responde# 
 515 %s no responde.#
 516 ¡%s %s! ¡Tendré tu cabeza!#
 517 ¡%s %s! ¡Eres mío!#
@@ -929,7 +929,7 @@ los objetos antes de usarlos.#
 "Los cofres rotos no contienen demasiadas cosas."
 "¡Es la verdad!"#
 569 "¿Sabías que..?"
-"No hay ninguna cuchara."
+"¡No contaban con mi astucia!."
 "¡Es la verdad!"#
 
 # random player messages
@@ -3054,6 +3054,8 @@ drenarse el resto de tu magia!#
 2702 %s ¿Realmente has conseguido suficiente descanso, %s?#
 2703 v%s Primero derrotas al Barón, y aún logras festejar con más fervor que un fiestero como yo!#
 2704 %s Te tomarás las cosas con calma a partir de ahora, ¿Cierto, %s?#
+2705 [%s]
+ ...#
 
 2710 type:rand#
 2711 %s Todo el mundo volvió a sus tiendas, como si nada hubiera sucedido.#
@@ -3069,6 +3071,8 @@ drenarse el resto de tu magia!#
 2733 %s Estamos remodelando el interior para nuestro siguiente regente.#
 2734 %s Queremos olvidar todo lo que nos recuerde a Herx.#
 2735 %s Es un secreto para todos.#
+2736 [%s]
+ ...#
 
 2740 type:seq#
 2741 %s Traté de entrar a las Cuevas de Cristal, pero una barrera me detuvo.#
@@ -3078,6 +3082,8 @@ drenarse el resto de tu magia!#
 2745 %s Supongo que tanto los Magos como los Cazadores no se llevan muy bien entre sí.#
 2746 %s Los Cazadores matan gente mala. A veces son Magos.#
 2747 ¡%s Sin rencores, simplemente no seas uno de los malos!#
+2748 [%s]
+ ...#
 
 2750 type:rand#
 2751 %s ¿Sería raro si siento la tentación de volver a las minas?#
@@ -3094,6 +3100,8 @@ drenarse el resto de tu magia!#
 2766 %s Escuché que el Gremio de Masones trabaja para la Iglesia.#
 2767 %s La Iglesia tiene sus secretos, pero también ayudan a los pobres.#
 2768 %s ¿La Iglesia es un gremio? Pregunto por un amigo.#
+2769 [%s]
+ ...#
 
 2770 type:seq#
 2771 %s Bienvenido seas, %s. Espero que hayas podido descansar.#
@@ -3104,6 +3112,8 @@ drenarse el resto de tu magia!#
 2776 %s Ahora que lo pienso, Herx solía venir aquí regularmente.#
 2777 %s Herx siempre salía furioso después de cada visita.#
 2778 %s Desearía haberle visto la cara a Herx cuando apareciste...#
+2779 [%s]
+ ...#
 
 2780 type:seq#
 2781 %s El Barón quería montar las minas en las Cuevas de Cristal.#
@@ -3111,7 +3121,9 @@ drenarse el resto de tu magia!#
 2783 %s Herx ofreció muchos subsidios al Gremio de Magos.#
 2784 %s Creo que Herx esperaba favores de los Archimagos.#
 2785 %s Eventualmente Herx desistió de obtener ayuda del Gremio.#
-2786 %s Las cosas empeoraron, pero pudieron haber sido mucho peor.#
+2786 %s Las cosas empeoraron, pero pudieron haber sido mucho peor.
+2787 [%s]
+ ...#
 
 2790 type:seq#
 2791 %s Merlín nos dijo sobre la peligrosa magia que Herx encontró.#
@@ -3119,6 +3131,8 @@ drenarse el resto de tu magia!#
 2793 %s Escuché rumores sobre una carta de Merlín, pero nunca la vi.#
 2794 %s Tu sabes, Merlín nunca fue un miembro oficial del Gremio de Magos.#
 2795 %s Algunas personas simplemente necesitan su independencia. Puedo respetar eso.#
+2796 [%s]
+ ...#
 
 2800 type:seq#
 2801 %s Después del encierro de Herx, los Archimagos fueron a las Cavernas de Cristal.#
@@ -3126,6 +3140,8 @@ drenarse el resto de tu magia!#
 2803 %s Si no fuera por los Archimagos, Herx hubiera creado un ejército aquí.#
 2804 %s Nosotros nunca hubiéramos encontado la forma de encerrar a Herx lejos de aquí. #
 2805 %s Creo que Erudyce y Orpheus sabían que encerrar a Herx no sería suficiente.#
+2806 [%s]
+ ...#
 
 2810 type:seq#
 2811 %s Monstruos poderosos comenzaron a salir de las Cavernas de Cristal.#
@@ -3134,6 +3150,8 @@ drenarse el resto de tu magia!#
 2814 %s Realmente espero que no haya relación entre monstruos y las investigaciones que estaban realizando.#
 2815 %s Orpheus es tan cometido. Nada lo puede detener.#
 2816 %s A Erudyce le gusta influenciar las cosas desde detrás de escenas.#
+2817 [%s]
+ ...#
 
 2820 type:seq#
 2821 %s Presentí un poder emanar de la orbe cuando la colocaste en el pedestal.#
@@ -3142,6 +3160,8 @@ drenarse el resto de tu magia!#
 2824 %s Este portal penetra el sello de las Cavernas usando el poder de la orbe.#
 2825 %s Los Archimagos Orpheus y Erudyce ayudarán a volver las cosas a la normalidad.#
 2826 %s Deben haber aprendido algo sobre el poder que encontró Herx.#
+2827 [%s]
+ ...#
 
 2830 type:seq#
 2831 %s No te preocupes %s, sé quién eres.#
@@ -3156,6 +3176,9 @@ drenarse el resto de tu magia!#
 2837 %s Sé que tienes demasiado corazón como para hacer algo así tu mismo.#
 2838 %s Depende de ti. Déjalas conmigo y no diré nada sobre
  nuestro pequeño encuentro.#
+2839 [%s]
+ ...#
+
 
 2850 type:rand#
 2851 %s Respuesta 1.#
@@ -3493,7 +3516,7 @@ drenarse el resto de tu magia!#
 3223 conjurador#
 3224 condenado#
 3225 hipnotista#
-3226 alquimista#
+3226 destilador#
 3227 mecanicista#
 3228 castigador#
 3229 shamán#
@@ -3637,7 +3660,7 @@ ingrediente alquímico secundario %s #
 3356 Tu brebaje se disuelve en agua...#
 
 3357 DEPRECATED#
-3358 ¿Te sientes con más energía?#
+3358 Te sientes con más energía#
 3359 DEPRECATED#
 3360 DEPRECATED#
 3361 DEPRECATED#
@@ -3919,16 +3942,16 @@ ingrediente alquímico secundario %s #
 3638 Tu liderazgo no es lo suficientemente alto para usar el comando anterior sobre %s.#
 3639 Tu habilidad de Fabricar no es lo suficientemente alta para usar el comando anterior sobre %s.#
 3640 Tu comando anterior no puede ser usado sobre %s.#
-3641 Retornar a#
-3642 Caja#
+3641 DEPRECATED#
+3642 DEPRECATED#
 3643 retorna a su caja.#
 3644 Construir #
 3645 Reciclar #
 3646 Reparar #
-3647 Chatarra disponible: %3d   %3d#
+3647 DEPRECATED#
 3648 ¡No hay suficientes materiales para construir %s!#
-3649 Desactivar#
-3650 Observa...#
+3647 DEPRECATED#
+3650 Observar...#
 3651 ¡Tu girobot recupera algunos aliados dejados en el camino!#
 3652 ¡Tu Fabricar no es suficientemente alto para contruir %s!#
 3653 Roto#
@@ -4116,7 +4139,7 @@ para reparar#
 3824 DEPRECATED#
 3825 DEPRECATED#
 3826 DEPRECATED#
-3827 Incubus#
+3827 Íncubo#
 3828 DEPRECATED#
 3829 DEPRECATED#
 3830 DEPRECATED#
@@ -4169,11 +4192,11 @@ para reparar#
 3873 ¡Esta trampa ya fue vaciada!#
 3874 ¡No puedes comer eso mientras lo sotienes!#
 3875 ¡El pastel golpea a %s!
- *SPLAT*#
+ *PLAF*#
 3876 ¡El pastel golpea a %s!
- *SPLAT*#
+ *PLAF*#
 3877 ¡Un pastel volador te golpea!
- *SPLAT*#
+ *PLAF*#
 3878 ¡%s tiene ceguera!#
 3879 ¡%s tiene ceguera!#
 3880 Tu aliado %s ya descansó por completo.#
@@ -4371,7 +4394,7 @@ antes de negociar!#
 4053 Cerrar#
 4054 Siguente página#
 4055 Página anterior#
-4056 BONUS LEGENDARIO#
+4056 MEJORA LEGENDARIA#
 4057 Nada#
 4058 Todos los objetos#
 4059 %d Metal#
@@ -4386,7 +4409,7 @@ antes de negociar!#
 (Insectoide)#
 # Skillsheet - Casting MP Regen for automaton
 4067 N/A
-(Automaton)#
+(Autómata)#
 4068 Disfrazado#
 4069 ABRIR MAPA#
 4070 VER REGISTRO#
@@ -4554,12 +4577,12 @@ Inestable!#
 4212 Ya esta identificado#
 4213 Ya no está maldito#
 4214 copia de#
-4215 Etiquetado#
+4215 etiquetado#
 4216 %s:#
 
 # NPC insults
 
-4217 maldito#
+4217 condenado#
 4218 espantoso#
 4219 plebeyo#
 4220 repugnante#
@@ -4577,7 +4600,7 @@ Inestable!#
 4232 criminal#
 4233 nefasto#
 
-4234 Maldito#
+4234 Condenado#
 4235 Espantoso#
 4236 Plebeyo#
 4237 Repugnante#
@@ -4597,7 +4620,7 @@ Inestable!#
 
 4251 Requiere mejor comercio y CAR %d#
 
-# shop try to buy hidden objeto
+# comercio intenta comprar objeto extraño
 4252 Perdona, no le vendo eso a
 cualquiera.#
 4253 Ya está reservado por
@@ -4606,12 +4629,12 @@ alguien más, disculpe.#
 clientela más fiel.#
 
 # shop buy added consumables
-4255 Mi stock personal, solo 
+4255 Mi inventario personal, solo 
 para ti.#
 4256  No dejo que cualquiera 
 compre eso, sabes.#
 4257 Algo particular de mi
-stock limitado.#
+inventario limitado.#
 4258 Veo que te gustan mis 
 ofertas especiales.#
 4259 Mantengo eso a mano para
@@ -4628,7 +4651,7 @@ mis clientes favoritos.#
 4265 Sankoxa.#
 4266 *slip slop*#
 4267 *gruñido*#
-4268 *Murmura*#
+4268 *murmura*#
 4269 *gorgoteo*#
 4270 *gemido*#
 4271 *traqueteo*#
@@ -4766,7 +4789,7 @@ ha sido desbloqueado#
 5024 Conectando
 .....#
 5025 Esperando al host...#
-5026    Omitir historia#
+5026 Omitir historia#
 5027 Confirmar (1)#
 5028 Confirmar (2)#
 5029 ¿Realmente quieres
@@ -4830,7 +4853,7 @@ y Salir#
 5077 Mensajes obituarios#
 5078 Activar mensajes obituarios al morir.#
 
-5079 KB & Mouse#
+5079 Teclado & Ratón#
 5080 Gamepad#
 5081 Joystick#
 
@@ -6028,94 +6051,94 @@ Página#
 
 # Scarony Barony Credits:
 
-6030 caves00 - Among Us por Myuu
-caves01 - Fatal Shrine por Myuu
-caves02 - Tormented Souls por Myuu
-citadel00 - Evil Returns por Myuu
-citadel01 - Friday the 13th por Myuu
-citadel02 - October 31st por Myuu#
+6030 caves00 - Among Us de Myuu
+caves01 - Fatal Shrine de Myuu
+caves02 - Tormented Souls de Myuu
+citadel00 - Evil Returns de Myuu
+citadel01 - Friday the 13th de Myuu
+citadel02 - October 31st de Myuu#
 
-6031 endgame - The Order's Theme por Myuu
-herxboss - Soul Rail por Myuu
-intermission - Echo por Myuu
-intro - Ghost Town por Myuu
-intro01 - Countdown por Myuu
-intro02 - Untold Secrets por Myuu#
+6031 endgame - The Order's Theme de Myuu
+herxboss - Soul Rail de Myuu
+intermission - Echo de Myuu
+intro - Ghost Town de Myuu
+intro01 - Countdown de Myuu
+intro02 - Untold Secrets de Myuu#
 
-6032 labyrinth00 - Final Showdown por Myuu
-labyrinth01 - Living in the Dark por Myuu
-labyrinth02 - Silent Turmoil por Myuu
-library - Countdown por Myuu
-mines00 - Look Out por Myuu
-mines01 - Haunted House por Myuu#
+6032 labyrinth00 - Final Showdown de Myuu
+labyrinth01 - Living in the Dark de Myuu
+labyrinth02 - Silent Turmoil de Myuu
+library - Countdown de Myuu
+mines00 - Look Out de Myuu
+mines01 - Haunted House de Myuu#
 
-6033 mines02 - Nebula por Myuu
-mines03 - Strange Vision por Myuu
-mines04 - The Crypt por Myuu
-minetown - Haunted por Screams por Myuu
-minotaur00 - Run! por Myuu
-minotaur01 - Cornered por Myuu#
+6033 mines02 - Nebula de Myuu
+mines03 - Strange Vision de Myuu
+mines04 - The Crypt de Myuu
+minetown - Haunted By Screams de Myuu
+minotaur00 - Run! de Myuu
+minotaur01 - Cornered de Myuu#
 
-6034 ruins00 - You're Next por Myuu
-ruins01 - Into the Depths por Myuu
-ruins02 - The Backrooms por Myuu
-sanctum - Metamorphosis por Myuu
-shop - Carnival Freaks por Myuu
-swamp00 - Poltergeist por Myuu#
+6034 ruins00 - You're Next de Myuu
+ruins01 - Into the Depths de Myuu
+ruins02 - The Backrooms de Myuu
+sanctum - Metamorphosis de Myuu
+shop - Carnival Freaks de Myuu
+swamp00 - Poltergeist de Myuu#
 
-6035 swamp01 - Abyss por Myuu
-swamp02 - Danger por Myuu
+6035 swamp01 - Abyss de Myuu
+swamp02 - Danger de Myuu
 swamp03 - Growing Shadows
-temple - Extinction por Myuu#
+temple - Extinction de Myuu#
 
 # Merry Barony credits:
 
-6036 caves00 - Sleigh Bells por Myuu
-caves01 - Deck the Halls por Myuu
-caves02 - Snow Wonders por Myuu
-citadel00 - Jingle Bells por Myuu
-citadel01 - Underneath the Christmas Tree por Myuu
-citadel02 - God Rest Ye Merry Gentlemen por Myuu#
+6036 caves00 - Sleigh Bells de Myuu
+caves01 - Deck the Halls de Myuu
+caves02 - Snow Wonders de Myuu
+citadel00 - Jingle Bells de Myuu
+citadel01 - Underneath the Christmas Tree de Myuu
+citadel02 - God Rest Ye Merry Gentlemen de Myuu#
 
-6037 endgame - Disintegrating por Myuu
-escape - Deck the Halls por Myuu
-hell00 - Deck the Halls por Myuu
-hell01 - Santa's Tricks por Myuu
-hell02 - Winter Trouble por Myuu
-herxboss - Krampus is Here por Myuu#
+6037 endgame - Disintegrating de Myuu
+escape - Deck the Halls de Myuu
+hell00 - Deck the Halls de Myuu
+hell01 - Santa's Tricks de Myuu
+hell02 - Winter Trouble de Myuu
+herxboss - Krampus is Here de Myuu#
 
-6038 intermission - Disintegrating por Myuu
-introduction - Disintegrating por Myuu
-labyrinth00 - Ice Land (Part 1) por Myuu
-labyrinth01 - Holiday Macabre por Myuu
-labyrinth02 - Disintegrating por Myuu
-library - Santa's Tricks por Myuu#
+6038 intermission - Disintegrating de Myuu
+introduction - Disintegrating de Myuu
+labyrinth00 - Ice Land (Part 1) de Myuu
+labyrinth01 - Holiday Macabre de Myuu
+labyrinth02 - Disintegrating de Myuu
+library - Santa's Tricks de Myuu#
 
-6039 mines00 - Sleigh Bells por Myuu
-mines01 - God Rest Ye Merry Gentlemen por Myuu
-mines02 - Silent Night por Myuu
-mines03 - Carol of the Bells por Myuu
-mines04 - Angels We Have Heard on High por Myuu
-minetown - Underneath the Christmas Tree por Myuu#
+6039 mines00 - Sleigh Bells de Myuu
+mines01 - God Rest Ye Merry Gentlemen de Myuu
+mines02 - Silent Night de Myuu
+mines03 - Carol of the Bells de Myuu
+mines04 - Angels We Have Heard on High de Myuu
+minetown - Underneath the Christmas Tree de Myuu#
 
-6040 minotaur00 - Krampus is Here por Myuu
-minotaur01 - Deck the Halls por Myuu
-ruins00 - Ice Land (Part 2) por Myuu
-ruins01 - Winter Trouble por Myuu
-ruins02 - Snow Wonders por Myuu
-sanctum - Krampus is Here por Myuu#
+6040 minotaur00 - Krampus is Here de Myuu
+minotaur01 - Deck the Halls de Myuu
+ruins00 - Ice Land (Part 2) de Myuu
+ruins01 - Winter Trouble de Myuu
+ruins02 - Snow Wonders de Myuu
+sanctum - Krampus is Here de Myuu#
 
-6041 shop - Sleigh Bells por Myuu
-swamp00 - Jingle Bells por Myuu
-swamp01 - Rudolph the Red Nosed Reindeer por Myuu
-swamp02 - Dance of the Sugar Plum Fairy por Myuu
-swamp03 - What Child is This por Myuu
-temple - Santa's Tricks por Myuu#
+6041 shop - Sleigh Bells de Myuu
+swamp00 - Jingle Bells de Myuu
+swamp01 - Rudolph the Red Nosed Reindeer de Myuu
+swamp02 - Dance of the Sugar Plum Fairy de Myuu
+swamp03 - What Child is This de Myuu
+temple - Santa's Tricks de Myuu#
 
-6042 underworld00 - Ice Land (Part 1) por Myuu
-underworld01 - Deck the Halls por Myuu
-underworld02 - Winter Trouble por Myuu
-intro - God Rest Ye Merry Gentlemen por NaturesEye#
+6042 underworld00 - Ice Land (Part 1) de Myuu
+underworld01 - Deck the Halls de Myuu
+underworld02 - Winter Trouble de Myuu
+intro - God Rest Ye Merry Gentlemen de NaturesEye#
 
 6043 No hay día festivo activo actualmente.#
 
@@ -6314,5 +6337,880 @@ para participar.#
 6171 Desbloquea el Logro:
 "%s"
 para jugar esta clase.#
+6172 
+Magic Required: %d (%s)#
+6173 Dungeon Floor:#
+6174 Denizens#
+6175 Items#
+6176 Magic#
+6177 World#
+6178 Codex#
+6179 PREV ENTRY: #
+6180 NEXT ENTRY: #
+6181 %d of %d#
+6182 CONTENTS#
+6183 New Entry!#
+6184 Achievements#
+6185 RECORDS#
+6186 RECIPE CHART#
+6187 USAGE TIPS#
+6188 DETAILS#
+6189 STATS#
+6190 LVL #
+6191 DAMAGE TYPE EFFECTIVENESS:#
+6192 ABILITIES:#
+6193 INVENTORY:#
+6194 LORE POINTS AVAILABLE#
+6195 SORT ALPHABETICAL#
+6196 HIDE UNDISCOVERED#
+6197 ATK:#
+6198 PWR:#
+6199 HP:#
+6200 AC:#
+6201 SPD:#
+6202 HUMANOID#
+6203 BEASTFOLK#
+6204 BEAST#
+6205 UNDEAD#
+6206 DEMONIC#
+6207 CONSTRUCT#
+6208 ELEMENTAL#
+6209 PTS#
+6210 TOTAL COMPLETION#
+6211 RESEARCH#
+6212 SHOP SIGNS#
+# breakables
+6213 jar#
+6214 basket#
+6215 casket#
+6216 cage#
+6217 urn#
+6218 sack#
+6219 sarcophagus#
+6220 pot#
+6221 cart#
+6222 pallet#
+6223 crate#
+6224 tent#
+6225 reliquary#
+6226 bulb#
+6227 iron maiden#
+6228 wheelbarrow#
+6229 crystal#
+6230 cabinet#
+6231 capsule#
+6232 barrel#
+6233 stump#
+6234 A %s jumps out from the %s!#
+6235 You are knocked back by a torrent!#
+6236 You are sprayed with grease!#
+6237 You are sprayed with magma!#
+6238 %s is sprayed with burning magma!#
+6239 The %s is sprayed with burning magma!#
+6240 %s is sprayed with corrosive sludge!#
+6241 The %s is sprayed with corrosive sludge!#
+6242 You are sprayed with corrosive sludge!#
+6243 %s is sprayed with grease!#
+6244 The %s is sprayed with grease!#
+6245 Your hands become slippery!#
+6246 Your shield slips through your fingers!#
+6247 SORT BY LOCKED FIRST#
+6248 A %s jumps out!#
+6249 Miss!#
+6250 STATS (HARDCORE)#
+6251 Open Compendium#
+6252 A nearby bat awakens!#
+6253 Some %s jump out from the %s!#
+6254 was fangoriously drained by a bat.#
+6255 gets roughhoused by a bugbear.#
+6256 bugbear#
+6257 bugbears#
+6258 strikes#
+6259 *grunt*#
+6260 You see a shrine of Daedalus.#
+6261 Daedalus shrine#
+6262 Touch Daedalus shrine#
+6263 You are hurt attacking the %s!#
+6264 You are hurt attacking %s!#
+6265 The gnomes' allies cower in fear!#
+6266 Not enough Lore Points available.
+Unlock Achievements to earn more!#
+6267 The exit is revealed!#
+6268 You pull the rope...#
+6269 bell#
+6270 bell#
+6271 Ring bell#
+6272 Something was lodged inside the bell!#
+6273 This bell is broken!#
+6274 But nothing happens.#
+6275 The bell comes crashing down!#
+6276 You are struck by a falling bell!#
+6277 gets their bell rung.#
+6278 Bell#
+6279 The clapper breaks off!#
+6280 The chime invigorates your %s!#
+6281 strength#
+6282 stamina#
+6283 agility#
+6284 mentality#
+6285 The minotaur is nigh, hurry!#
+6286 You dodged an attack!#
+6287 You dodged a %s!#
+6288 Your stamina returns back to normal.#
+6289 Your agility returns back to normal.#
+6290 Your mentality returns back to normal.#
+6291 flying arrow#
+6292 flying bolt#
+6293 flying rock#
+6294 You dodged a flying %s!#
+6295 spell#
+6296 projectile#
+6297 The rope catches fire!#
+6298 The chime refreshes you!#
+6299 Lobby: Open#
+6300 Lobby: Friends Only#
+6301 Lobby: Invite Only#
+6302 gnome thief#
+6303 thief leader#
+6304 Enchant Weapon#
+6305 Enchant Armor#
+6306 Select an item to enchant:#
+6307 This %s
+ is unable to be enchanted.#
+6308 Your %s loses some of its blessing.#
+6309 You are blasted by a torrent!#
+6310 Quick Turn Speed#
+6311 Affect the horizontal speed of the Quick Turn action.#
+6312 BACK#
+6313 FACE#
+6314 NECK#
+6315 RING#
+6316 Claim#
+6317 Already Claimed#
+6318 No Items To Claim#
+6319 CHANGE TO:
+#
+6320 CURRENT: #
+6321 ITEMS#
+6322 RACE#
+6323 CLASS#
+6324 ASSIST ITEM SELECTION#
+6325 RACE SELECTION#
+6326 CLASS SELECTION#
+6327 CHANGING TO: #
+6328 Assistance:#
+6329 Score Penalty:#
+6330 Achievements:#
+6331 ENABLED#
+6332 DISABLED#
+6333 Class choice has reset
+due to selected race.#
+6334 Character Changed#
+6335 Changes will be applied
+on next game start.#
+6336 %s has changed their character for next game start.
+(%s %s)#
+6337 Sending to server...#
+6338 Invalid Class!#
+6339 Take up to four gifts to ease
+the adventure that awaits.
 
-6200 FIN#
+Each point of Assistance reduces
+the party's final score ranking.#
+6340 ASSIST ITEMS#
+6341 You were Assisted. (%d Pts)#
+6342 Assist Items#
+6343 Allows claiming items from the starting floor Assist Shrine to adjust difficulty.#
+6344 Enable Assist Items#
+6345 Assist Items enabled#
+6346 Assist Items are disabled#
+6347 Take up to four gifts to ease
+the adventure that awaits.
+
+Assist Items are disabled in Game
+Settings. Toggle the option on to
+use Assist Items.
+
+#
+6348 Take up to four gifts to ease
+the adventure that awaits.
+
+Assist Items are disabled in Game
+Settings. Send a request to the
+Host to enable the game setting.
+
+#
+6349 Request Assist Items#
+6350 View Game Settings#
+6351 The shrine is currently in use by someone else.#
+6352 You see an Assist shrine.#
+6353 Assist shrine#
+6354 Use Assist shrine#
+6355 Your character has changed for next game start.
+(%s %s)#
+6356 You claim %d Assistance points from the shrine.#
+6357 %s claims %d Assistance points from the Assist shrine.#
+6358 dryad#
+6359 myconid#
+6360 salamander#
+6361 gremlin#
+6362 dryads#
+6363 myconids#
+6364 salamanders#
+6365 gremlins#
+6366 strikes#
+6367 strikes#
+6368 strikes#
+6369 strikes#
+6370 *sigh...*#
+6371 *croak*#
+6372 Hail, champion.#
+6373 Parrat soo skeba da.#
+6374 You reset the %s lock.#
+6375 You activate the %s lock.#
+6376 The %s key is stuck tight!#
+6377 The %s lock is currently in use.#
+6378 You activate the lock using your %s.#
+6379 You have no matching key for that %s lock.#
+6380 That button is already pressed.#
+6381 You press the button.#
+6382 You hit the button!#
+# lock types
+6383 stone#
+6384 spirit#
+6385 bronze#
+6386 iron#
+6387 silver#
+6388 gold#
+6389 crystal#
+6390 machine#
+6391 key#
+6392 lock#
+6393 button#
+6394 You see a %s lock.#
+6395 You see a %s lock with a key.#
+6396 You see a button.#
+6397 Use %s key #
+6398 #
+6399 Reset %s lock#
+6400 Activate %s lock#
+6401 Press button#
+6402 (%d held)#
+6403 The iron door's lock is controlled elsewhere!#
+6404 You open the iron door.#
+6405 You close the iron door.#
+6406 The iron door locks as you close it!#
+6407 The iron door is locked!#
+6408 You lock the iron door!#
+6409 You see an iron door.#
+6410 Your spell destroys the iron door!#
+6411 You open the iron door!#
+6412 You hit the iron door!#
+6413 The iron door crashes open!#
+6414 iron door#
+6415 You unlock the iron door.#
+6416 You lock the iron door.#
+6417 You failed to unlock the iron door.#
+6418 This iron door is already unlocked.#
+6419 An arcane protection holds the iron door firmly in place!#
+6420 Close iron door#
+6421 Open iron door#
+6422 You lack the skill to pick this %s lock!#
+6423 There is already a %s key inside this lock.#
+6424 This %s lock can't be picked!#
+6425 The skeleton key doesn't fit!#
+6426 Your %s activates the %s lock!#
+6427 Your %s resets the %s lock.#
+6428 You failed to lockpick the %s lock.#
+6429 The %s lock seems unable to be reset by lockpicking.#
+6430 This %s lock has already been lockpicked open.#
+6431 Your song's effect cannot be extended any further!#
+6432 Your strike pierced the %s's armor!#
+6433 Your strike pierced %s's armor!#
+6434 The %s parries your blow!#
+6435 %s parries your blow!#
+6436 You parry the %s's blow!#
+6437 You parry %s's blow!#
+6438 Input Device#
+6439 The input device for voice chat.#
+6440 Voice#
+6441 Input Gain#
+6442 Adjust volume after normalization effect.#
+6443 Input Monitoring#
+6444 Listen to your input based on input/output settings. Monitored input levels are shown to the right.#
+6445 Voice Volume#
+6446 Adjust volume of incoming player voice chat.#
+6447 Push To Talk#
+6448 Hold the Voice Chat binding to talk. When disabled, the binding instead toggles sending voice on and off.#
+6449 Voice input enabled.#
+6450 Voice input disabled.#
+6451 Voice Chat#
+6452 Send Voice Chat#
+6453 Toggle the feature to send voice on or off. Receive Voice Chat must be enabled to use.#
+6454 Receive Voice Chat#
+6455 Toggle the feature to receive voice on or off.#
+6456 Muted#
+6457 Voice Levels#
+6458 Increased Voice Distance#
+6459 Received voice chat can be heard from further away. Disable to increase proximity effect.#
+6460 Input Volume Normalization#
+6461 Increase volume of quieter input signals, high values increase background noise. 0% disables effect.#
+6462 Raw Input#
+6463 Modified#
+
+6464 Guard!#
+6465 Your protection stops an attack!#
+6466 The %s guards your spell!#
+6467 %s guards your spell!#
+6468 The %s guards your attack!#
+6469 %s guards your attack!#
+6470 Your protection stops a spell!#
+6471 Your protection stops a flying %s!#
+6472 Your protection stops a %s!#
+6473 You ward your body against physical harm!#
+6474 You ward your spirit against harmful magics!#
+6475 You ward youself against mundane and magical attack!#
+6476 Your joints are filled with nimble grace.#
+6477 Your muscles swell with greater might.#
+6478 Your mind stirs deeply with wise counsel.#
+6479 Your body hardens with sturdy toughness.#
+6480 Your magic calls for a target of holy wrath!#
+6481 You detect an ally!#
+6482 You divine the location of a nearby shrine.#
+6483 Nearby perils are revealed to you!#
+6484 Nearby perils are revealed to you!#
+6485 The location of nearby treasures emerges in your mind...#
+6486 You give blessings for the food that sustains you.#
+6487 You seek out a wandering soul in search of penance.#
+6488 You beg for providence from lowly places.#
+6489 You call for willing souls to join your quest!#
+6490 Your protection saves you from the boulder!#
+6491 Your protection saves you from the falling bell!#
+6492 Your protection saves you from the spikes!#
+6493 You ward you body against devious traps.#
+6494 Divine forces are leading you to treasure!#
+6495 An enemy is revealed to you!#
+6496 You recall your spell without a target.#
+6497 You command holy exorcism!#
+6498 Your spell had no target!#
+6499 Cast spell...#
+6500 Cast spell on #
+6501 Cancel#
+6502 Your blood is warded against impurities!#
+6503 Your spell (%s) was interrupted!#
+6504 Failed to sustain spell (%s).#
+6505 The ward against impurities fades...#
+6506 Your blood stirs with noble purpose!#
+6507 Your blood returns to normal...#
+6508 Your attacks are enchanted with holy light!#
+6509 Holy light fades from your attacks...#
+6510 Your attack smites the %s!#
+6511 Your attack smites %s!#
+6512 Alter Instrument#
+6513 Select instrument to transmute:#
+6514 This %s
+ is unable to be altered.#
+6515 Your %s transforms into
+ %s!#
+6516 The %s grows in strength!#
+6517 The %s shrivels away!#
+6518 The %s is severely weakened by your curse!#
+6519 The %s is befuddled by magic!#
+6520 Your spell focus improves!#
+6521 Your weapons are imbued with venom!#
+6522 Your curse humbles the %s!#
+6523 The %s is crushed by your will.#
+6524 You release a torrent of slippery grease!#
+6525 You release a wave of raw magical energy!#
+6526 %s is weakened!#
+6527 The %s is weakened!#
+6528 You feel weak!#
+6529 The magical venom evaporates from your weapons.#
+6530 Your spell focus returns to normal.#
+6531 The %s poisons you!#
+6532 %s poisons you!#
+6533 The %s is poisoned!#
+6534 %s is poisoned!#
+6535 The amulet feels warm against your neck.#
+6536 You feel greasy!#
+6537 The %s is compelled to your command!#
+6538 Gold Cost:#
+6539 Not enough gold#
+6540 Insufficient gold!#
+6541 Select a weapon to transmute:#
+6542 Select an item to transmute:#
+6543 Select a jewel to transmute:#
+6544 Transmutes Into:#
+6545 Metallurgy#
+6546 Geomancy#
+6547 Forge Key#
+6548 Forge Jewel#
+6549 Enhance Weapon#
+6550 Reshape Weapon#
+6551 Alter Arrow#
+6552 Not enough mana#
+6553 Transmuted %s using
+ %s.#
+6554 Transmuted %dG
+ using %s.#
+6555 Mana Cost:#
+6556 Change Focus#
+6557 You awaken a void chest!#
+6558 Your spell does nothing while the chest is open.#
+6559 Wait! That's a void mimic!#
+6560 Select an item to send to the void:#
+6561 Send To Void#
+6562 Sent %s
+ to the void.#
+6563 This does not belong in the void#
+6564 This %s
+ does not belong in the void.#
+6565 The void is already being accessed by somebody else.#
+6566 The void cannot accept any more items.#
+6567 The mimic voids your %s!#
+6568 revenant skull#
+6569 minimimic#
+6570 revenant skulls#
+6571 minimimics#
+6572 hits#
+6573 bites#
+6574 *rattle*#
+6575 *creak*#
+6576 You curse the flesh of the %s!#
+6577 You summon a spirited %s!#
+6578 There is no room here to summon!#
+6579 spirit weapon#
+6580 adorcised possession#
+6581 flame elemental#
+6582 hologram#
+6583 moth#
+6584 earth sprite#
+6585 duck#
+6586 monster_unused_6#
+6587 monster_unused_7#
+6588 monster_unused_8#
+6589 adorcised possessions#
+6590 flame elementals#
+6591 holograms#
+6592 moths#
+6593 earth sprites#
+6594 ducks#
+6595 monster_unused_6s#
+6596 monster_unused_7s#
+6597 monster_unused_8s#
+6598 hits#
+6599 hits#
+6600 hits#
+6601 hits#
+6602 hits#
+6603 hits#
+6604 hits#
+6605 hits#
+6606 hits#
+6607 ...#
+6608 ...#
+6609 ...#
+6610 ...#
+6611 ...#
+6612 *quack!*#
+6613 ...#
+6614 ...#
+6615 ...#
+6616 Adorcise#
+6617 Select a weapon to summon:#
+6618 This %s
+ cannot be adorcised.#
+6619 returns to the floor.#
+6620 vanishes!#
+6621 Your %s 
+ returns to the floor.#
+6622 Insufficient gold!#
+6623 The %s is numbed!#
+6624 %s is numbed!#
+6625 You feel numb!#
+6626 dies from delayed pain.#
+6627 You feel unstoppable!#
+6628 Pain returns to your body!#
+6629 The severity of your wounds sets in!#
+6630 The %s could not reach any allies!#
+6631 %s could not reach any allies!#
+6632 The %s loses their courage!#
+6633 The %s wanders in search of an ally!#
+6634 %s wanders in search of an ally!#
+6635 The %s could not reach any foes!#
+6636 %s could not reach any foes!#
+6637 The %s is encouraged!#
+6638 The %s wanders in search of a foe!#
+6639 %s wanders in search of a foe!#
+6640 The %s becomes a scapegoat!#
+6641 You become a scapegoat!#
+6642 Your spore pods shrivel away ...#
+6643 You bristle with swollen spore pods!#
+6644 The %s drops their weapon!#
+6645 %s drops their weapon!#
+6646 The %s drops their equipment!#
+6647 %s drops their equipment!#
+6648 Your food returns to normal.#
+6649 Your provisions return to normal.#
+6650 You beg for your food to be multiplied...#
+6651 You beg for your provisions to be multiplied...#
+6652 Greater Abundance preserves your %s!#
+6653 Abundance preserves your %s!#
+6654 Your magic protects the %s from damage!#
+6655 You cover your equipment with a magic barrier!#
+6656 The protective barrier fades from your equipment.#
+6657 Your magic could not preserve your %s!#
+6658 This trap has already been sabotaged.#
+6659 You sabotage the trap!#
+6660 You blast the %s!#
+6661 You blast %s!#
+6662 Some scrap pours out from the trap!#
+6663 Your body turns to mist!#
+6664 Your body materializes again.#
+6665 Your mana could not sustain your mist form!#
+6666 Your mist form protects you!#
+6667 You create a hologram in your image!#
+6668 fades into nothing.#
+6669 gets spooked by a revenant skull.#
+6670 gets looted by a minimimic.#
+6671 gets reduced to ashes by a flame elemental.#
+6672 is slain by the invisible hand of an adorcised weapon.#
+6673 explodes!#
+6674 You conjure a %s!#
+6675 You were unable to conjure a %s!#
+6676 You are already wielding a %s!#
+6677 You splinter the %s's %s!#
+6678 You splinter %s's %s!#
+6679 You break the %s's %s!#
+6680 You break %s's %s!#
+6681 Your equipment feels lighter!#
+6682 You feel the heft of your equipment again.#
+6683 You reach out to items with unseen energy...#
+6684 Your grasp on nearby items dissipates.#
+6685 Your tether your throwing weapons with invisible magic!#
+6686 Your throwing weapons return to normal.#
+6687 Your %s returns to you!#
+6688 You deface the %s!#
+6689 You've disturbed a %s!#
+6690 Your demesne door was closed.#
+6691 Your demesne door fades.#
+6692 There is no room to create a demesne door!#
+6693 doorway#
+6694 You enchant the doorway!#
+6695 You create a portal!#
+6696 You step through the portal.#
+6697 You forged %d %s!#
+6698 gets mothballed.#
+6699 Your off-hand items are imbued with defensive force!#
+6700 Your off-hand items are imbued with magic reflection!#
+6701 ASSIST ITEM SELECTION#
+6702 CLASS SELECTION#
+6703 RACE SELECTION#
+6704 The %s spins around!#
+6705 %s spins around!#
+6706 The %s gets dizzied!#
+6707 %s gets dizzied!#
+6708 Vandalize#
+6709 Desecrate#
+6710 Sanctify#
+6711 Bless#
+6712 Cleanse#
+6713 Select an instrument to summon:#
+6714 Select an item to vandalize:#
+6715 Select an item to desecrate:#
+6716 Select a bottle of water to bless:#
+6717 Select an item to sanctify:#
+6718 Select food to cleanse:#
+6719 This %s
+ is unable to be vandalized.#
+6720 This %s
+ is unable to be desecrated.#
+6721 This %s
+ is unable to be blessed.#
+6722 This %s
+ is unable to be sanctified.#
+6723 This %s
+ is unable to be cleansed.#
+6724 Vandalized %dG using
+ %s.#
+6725 Your %s looks more edible.#
+6726 Unable to bless further#
+6727 You are already under the effects of %s.#
+6728 You begin drawing energy from a well of magic...#
+6729 You empower your next cast with ritual preparation...#
+6730 You are enveloped by a flame cloak!#
+6731 You are surrounded with protective flames!#
+6732 Your flame cloak ignites the %s!#
+6733 Your flame cloak ignites %s!#
+6734 A flame cloak sets you on fire!#
+6735 You prepare to absorb hostile magical energy!#
+6736 There is no stable ceiling to complete the spell!#
+6737 gets rocked by an earth sprite.#
+6738 gets overgrown by a dryad.#
+6739 gets vandalised by a gremlin.#
+6740 gets capped by a myconid.#
+6741 learns how cold-blooded a salamander can be.#
+6742 %s is hit with a rooting seed!#
+6743 The %s is hit with a rooting seed!#
+6744 You are hit by a rooting seed!#
+6745 %s is hit with a poison seed!#
+6746 The %s is hit with a poison seed!#
+6747 You are hit by a poison seed!#
+6748 There is no ground to complete the spell!#
+6749 mushroom#
+6750 There is no room to complete the spell!#
+6751 You stop shimmering.#
+6752 You are covered with shimmering dust!#
+6753 gets capped by a mushroom.#
+6754 Mushroom#
+6755 The air is filled with a thick fog.#
+6756 You are pulled by telekinetic force!#
+6757 You are caught in a vortex!#
+6758 You are slammed back down!#
+6759 Leaves#
+6760 becomes dust in the wind.#
+6761 %s is covered with shimmering dust!#
+6762 The %s is covered with shimmering dust!#
+6763 You are ensnared!#
+6764 The %s is ensnared!#
+6765 %s is ensnared!#
+6766 The %s was unaffected by the bolas!#
+6767 %s was unaffected by the bolas!#
+6768 [4 rations needed]#
+6769 You combine the %s with some %s...#
+6770 You dissolve the %s and collect it with a %s...#
+6771 Created %s.#
+6772 [No tin opener]#
+6773 Cook#
+6774 [Insufficient fuel]#
+6775 shrub#
+6776 footlocker#
+6777 weapon rack#
+6778 Deserters & Disciples DLC is required
+to replay this challenge!
+
+
+#
+6779 Gnome#
+6780 Gremlin#
+6781 Dryad#
+6782 Myconid#
+6783 Salamander#
+6784 bard#
+6785 sapper#
+6786 scion#
+6787 hermit#
+6788 paladin#
+# main menu capitalized
+6789 Bard#
+6790 Sapper#
+6791 Scion#
+6792 Hermit#
+6793 Paladin#
+6794 You lack the foliage to cast the spell!#
+6795 You are covered with thorns!#
+6796 You are covered with bladevines!#
+6797 Your thorns withdraw.#
+6798 Your bladevines crumble away.#
+6799 You steady yourself with firm mycelium!#
+6800 You plant yourself with sturdy roots!#
+6801 You dismount the binding mycelium.#
+6802 You dismount the binding roots.#
+6803 returns to dust.#
+6804 Higher %s skill required#
+6805 Higher skill required#
+6806 finds its final resting place.#
+6807 revenant skeleton#
+6808 You command a %s from the deceased!#
+6809 You splinter the construction of the %s!#
+6810 You splinter the construction of %s!#
+6811 Your splintered armor wounds you!#
+6812 Your shattered armor heavily wounds you!#
+6813 Your mana could not return your %s!#
+6814 You are unable to create a passage through this wall.#
+6815 The %s comes to life!#
+6816 dresser#
+6817 drawer#
+6818 candelabra#
+
+6826 You are blessed with peace!#
+6827 You are blessed with justice!#
+6828 You are blessed with providence!#
+6829 You are blessed with purity!#
+6830 You are blessed with sanctuary!#
+6831 Unlearn#
+6832 Sacrifice a spell to recharge:#
+6833 Recharge#
+6834 Recharge#
+6835 Confirm Unlearn (%d)#
+6836 You forget the %s spell.#
+6837 This %s
+ cannot be used to recharge.#
+6838 Your %s 
+ is already fully charged!#
+6839 Your %s is depleted!#
+6840 The icon holds your enemies in stasis!#
+6841 The icon roots your enemies in place!#
+6842 Filtering Spells:
+%s#
+6843 Invoke#
+6844 Play#
+6845 You recall your previous light.#
+6846 Player Movement Deadzone#
+6847 Affect the analog deadzone of the control stick used for player movement.#
+6848 Camera Turn Deadzone#
+6849 Affect the analog deadzone of the control stick used for turning the player camera.#
+6850 tablet of %s#
+6851 tablets of %s#
+6852 The %s deteriorates and crumbles to ash!#
+6853 didn't survive the impact.#
+6854 Velocity#
+6855 Not enough resources#
+6856 Your spell can not absorb any more magic!#
+6857 Your spell absorbs the incoming hit!#
+6858 Your absorbed magic increased your damage!#
+6859 Your flame cloak falls to ashes.#
+6860 Your flame cloak is roaring with flames!#
+6861 The scroll erupts in a cloak of flame!#
+6862 You are protected by a magical bubble!#
+6863 Your magical bubble fades.#
+6864 The guard over your body fades.#
+6865 The guard over your spirit fades.#
+6866 Your divine guard fades.#
+6867 Your amulet glows a faint red.#
+6868 You have nothing else to learn by trading with this shopkeep.#
+6869 The duck slips out from your pack!#
+6870 Instrument Background Tracks#
+6871 Enable instrument music tracks to continue while their effects are active but not actively being played.#
+6872 Instrument Foreground Tracks#
+6873 Instrument Foreground Tracks description#
+6874 You project your spirit away!#
+6875 Your spirit rejoins your body.#
+6876 Your spirit projection begins to fade...#
+6877 Profile#
+6878 Quack#
+6879 Return#
+6880 Hotbar Keys Update Selection#
+6881 Allow the highlighted hotbar slot to change when using the individual slot keys to activate the hotbar.#
+6882 The rot invigorates you!#
+6883 You shed your burning foliage!#
+6884 You sprout forth a shrub!#
+6885 You spore forth a mushroom!#
+6886 Your vandalism energizes you!#
+6887 Select transmutation result:#
+6888 Confirm#
+6889 Deselect#
+6890 %s grows in strength!#
+6891 The %s cannot grow any stronger!#
+6892 %s cannot grow any stronger!#
+6893 %s shrivels away!#
+6894 The %s cannot shrivel down any further!#
+6895 %s cannot shrivel down any further!#
+6896 You feel enlarged!#
+6897 You feel diminished!#
+6898 Your stature feels ordinary once more.#
+6899 You were unable to scry any other allies.#
+6900 %s loses their courage!#
+6901 %s is encouraged!#
+6902 %s is compelled to your command!#
+6903 %s becomes a scapegoat!#
+6904 You curse the flesh of %s!#
+6905 The %s's vitality is defied!#
+6906 %s's vitality is defied!#
+6907 Your vitality is defied!#
+6908 Your spell has no effect right now!#
+6909 %s's spell power is diminished!#
+6910 The %s's spell power is diminished!#
+6911 Your spell power is diminished!#
+6912 You suddenly feel rather tall!#
+6913 You suddenly feel rather small!#
+6914 You suddenly detect a change of appearance!#
+6915 Cauldron#
+6916 Your dousing flames increase your fervor!#
+6917 Your impervious armor fades.#
+6918 You are blazing with radiance!#
+6919 Your scales constrict into impervious stone!#
+6920 Your temperance returns to normal.#
+6921 Your radiance reaches a more stable level.#
+6922 You are unable to charge your symbol any further!#
+6923 You are unable to charge your icon any further!#
+6924 Your foliage flourishes with nutrition!#
+6925 Your foliage grows!#
+6926 Your prayer on %s fades.#
+6927 Your prayer on the %s fades.#
+6928 The %s receives a prayer for healing!#
+6929 %s receives a prayer for healing!#
+6930 You pray for healing!#
+6931 Your prayer fades.#
+6932 You receive a healing prayer!#
+6933 Your prayer was interrupted!#
+6934 The blood ward cures your poisoning!#
+6935 The blood ward cures your bleeding!#
+6936 You are unable to scry any allies.#
+6937 You are unable to scry any traps nearby.#
+6938 You are unable to scry any other traps nearby.#
+6939 You are unable to scry any treasures nearby.#
+6940 You are unable to scry any other treasures nearby.#
+6941 You were not deemed worthy of an additional donation.#
+6942 Your call for divine providence falls unanswered.#
+6943 You discover a gift of divine providence!#
+6944 Your ally %s discovers a gift of divine providence!#
+6945 %s's ally %s discovers a gift of divine providence!#
+6946 You are unable to detect any more monsters nearby.#
+6947 You are unable to detect any monsters nearby.#
+6948 You are unable to pinpoint any more monsters nearby.#
+6949 You are unable to pinpoint any monsters nearby.#
+6950 The %s gets smited with divine precision!#
+6951 %s gets smited with divine precision!#
+6952 You cover the area with a divine sigil!#
+6953 You cover the area with divine sanctuary!#
+6954 The %s is purchased into your service!#
+6955 %s is purchased into your service!#
+6956 (%02d:%02d%) Appraising...#
+6957 (%02d:%02d%) %3.0f%% Appraising...#
+6958 You sabotage the construction of the %s!#
+6959 You sabotage the construction of %s!#
+6960 Your skeleton key is damaged.#
+6961 Your skeleton key is broken.#
+6962 Your current power is unable to dominate any more creatures.#
+6963 The scarab inflicts a curse of weakness!#
+6964 The scarab inflicts a greater curse of weakness!#
+6965 N/A#
+6966 Your influence is not high enough to compel the %s!#
+6967 Your influence is not high enough to compel %s!#
+6968 The %s refuses to be compelled further!#
+6969 %s refuses to be compelled further!#
+6970 was unable to drop some of their equipment.#
+6971 Your magical bubble enhances!#
+6972 Your magical bubble has reached the limit of your powers.#
+6973 Some of your gold has vanished!#
+6974 cauldron#
+6975 The cauldron is currently in use by someone else.#
+6976 You see a cauldron.#
+6977 Use cauldron#
+6978 Workbench#
+6979 Use workbench#
+6980 You see a workbench.#
+6981 workbench#
+6982 The workbench is currently in use by someone else.#
+6983 Mailbox#
+6984 Use mailbox#
+6985 You see a mailbox.#
+6986 mailbox#
+6987 The mailbox is currently in use by someone else.#
+6988 Claim#
+6989 Deserters and Disciples DLC
+has been unlocked!#
+6990 You are blinded by a flying slop ball!
+ *SPLAT*#
+6991 Yum! Rotten food!#
+6992 Your unidentified items are further appraised!#
+6993 Alternate Item Use Modifier#
+6994 Hotbar Quickcast Spells#
+6995 When enabled, activating spells from the hotbar will immediately attempt to cast them.#
+6996 Mouse Events Limit#
+6997 Limits the amount of mouse movement events processed per frame to prevent large camera swings.#
+6998 Unlimited#
+
+7999 END#
+
