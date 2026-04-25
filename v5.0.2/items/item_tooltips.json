@@ -3544,7 +3544,7 @@
 		"tooltip_amulet_lifesaving": {
 			"icons": [
 				{
-					"text": "%s",
+					"text": "Otorga [Resurrección] al\nmorir restaurando [%+d PV]",
 					"icon_path": "images/ui/Inventory/tooltips/tooltip_icons/lifesaving.png",
 					"conditional_attribute": "EFF_LIFESAVING"
 				}
@@ -3561,7 +3561,7 @@
 					"attributes_text": [ "Al activarse:" ]
 				},
 				{
-					"lifesaving_revival": [ "* Restaura +100% PV", "* Cura efectos de estado" ]
+					"lifesaving_revival": [ "* Cura efectos de estado", "* Aplica +5s de [Levitar]" ]
 				}
 			],
 			"size": {
