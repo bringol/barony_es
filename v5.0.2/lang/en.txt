@@ -5776,8 +5776,8 @@ Ahora estás en el Salón de Desafíos,
 
 Explora el Salón de Desafíos para aprender más
 o vuelve al menú e inicia tu aventura#
-5841 Explorar 
-el Salón de Desafíos#
+5841 Explorar el 
+Salón de Desafíos#
 5842 Volver a el
 Menú Principal#
 5843 Reconecta el control para el jugador#
