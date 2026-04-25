@@ -1,11 +1,11 @@
 {
     "version": 1,
     "window_title": "¡Enfréntate a 10 desafíos que explican y ponen a prueba tus habilidades, preparándote para\n enfrentarte a la mazmorra!",
-    "default_hover_text": "Pasa el cursor sobre una entrada para más información.",
+    "default_hover_text": "Mueve el cursor sobre una entrada para más información.",
     "levels": {
         "tutorial_hub": {
             "title": "El Salón de Desafíos",
-            "desc": "Descripción: El centro donde se pueden acceder a todos los desafios."
+            "desc": "Descripción: El centro donde se puede acceder a todos los desafíos."
         },
         "tutorial1": {
             "title": "Desafío 1: Conceptos Básicos y Combate Cuerpo a Cuerpo",
@@ -25,7 +25,7 @@
         },
         "tutorial5": {
             "title": "Desafío 5: Magias, Grimorios y Conjuros",
-            "desc": "Descripción: Aprende cómo memorizar hechizos y lanzar desde pergaminos, grimorios y bastones mágicos."
+            "desc": "Descripción: Aprende cómo memorizar hechizos y conjurar desde pergaminos, grimorios y bastones mágicos."
         },
         "tutorial6": {
             "title": "Desafío 6: Sigilo y Ataques Furtivos",
