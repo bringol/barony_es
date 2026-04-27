@@ -496,7 +496,7 @@
 		"template_spellbook_cast_success": [ "%+d%% éxito al canalizar sin memorizar" ],
 		"template_spellbook_extramana_chance": [ "%+d%% eficiencia mágica" ],
 		"template_spellbook_magic_requirement": [ "Requerimiento para aprender hechizo: %d (%s)" ],
-		"template_spellbook_magic_current": [ "Hab. mágica actual + INT: %d (%s)" ],
+		"template_spellbook_magic_current": [ "Hab. %s actual + INT: %d (%s)" ],
 		"template_spellbook_icon_damage_bonus": [ "Efectos de Grimorio:", "%+d%% Daño Mágico" ],
 		"template_spellbook_icon_duration_bonus": [ "Efectos de Grimorio:", "%+d%% Duración de efecto" ],
 		"template_spellbook_icon_pwr_bonus": [ "Spellbook-Cast effect:", "%+d%% Effect Power" ],
@@ -889,7 +889,7 @@
 		"template_spell_distance": [ "%+.1f tile base distance", "%+.1f tile distance from PER/effects" ],
 		"template_spell_generic_bonus_pwr": [ "Spell %s bonuses:", "%+.f%% spell %s from PWR" ],
 		"template_spell_damage_bonus_pwr_dual": [ "Spell %s bonuses:\n%+d base spell %s\n%+.f%% spell %s from PWR\n%+d base spell %s\n%+.f%% spell %s from PWR" ],
-		"template_spell_cast_success": [ "^Penalidad de Hab. Canalizar baja:", "^* %d%% Tasa de éxito" ],
+		"template_spell_cast_success": [ "^Penalidad baja de hab. %s:", "^* %d%% Tasa de éxito" ],
 		"template_spell_cast_success1": [ "^Low %s skill penalty:"],
 		"template_spell_cast_success2": [ "^* %d%% cast failure rate" ],
 		"template_spell_extramana_chance": [ "^* %d%% chance de consumir", "^PM adicional " ],
@@ -1522,18 +1522,18 @@
 					"conditional_attribute": "SPELL_ICON_EFFECT"
 				},
 				{
-					"text": "Reflejar Magia\nconsume [PM]",
+					"text": "Radio de revelado: %+d casillas",
 					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
 					"conditional_attribute": "spell_magicmapping"
 				},
 				{
 					"text": "Hechizo, consume salud\ncuando se acaba el [PM]",
-					"icon_path": "#*images/system/Hunger_blood.png",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
 					"conditional_attribute": "spell_reflect_magic"
 				},
 				{
 					"text": "Incrementa Fuerza/Destreza",
-					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"icon_path": "#*images/system/Hunger_blood.png",
 					"conditional_attribute": "spell_dominate"
 				},
 				{
@@ -1608,12 +1608,12 @@
 				},
 				{
 					"text": "El hechizo consume salud\nigual al 10% de [PV Máx]",
-					"icon_path": "#*images/system/Hunger_blood.png",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
 					"conditional_attribute": "spell_demon_illu"
 				},
 				{
 					"text": "Rompe puertas al impactar",
-					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"icon_path": "#*images/system/Hunger_blood.png",
 					"conditional_attribute": "spell_demon_illu"
 				},
 				{
@@ -2247,26 +2247,26 @@
 				},
 				{
 					"text": "",
-					"icon_path": "images/ui/CharSheet/HUD_CharSheet_SPWR_00.png",
+					"icon_path": "",
 					"conditional_attribute": "SPELLBOOK_SPELLINFO_LEARNED"
+				},
+				{
+					"text": "",
+					"icon_path": "images/ui/CharSheet/HUD_CharSheet_SPWR_00.png",
+					"conditional_attribute": "SPELLBOOK_CAST_BONUS"
 				},
 				{
 					"text": "[No se puede aprender aún]",
 					"icon_path": "#*images/system/Broken24x.png",
-					"conditional_attribute": "SPELLBOOK_CAST_BONUS"
+					"conditional_attribute": "SPELLBOOK_UNLEARNED"
 				},
 				{
 					"text": "[Aprendible]",
 					"icon_path": "images/system/int64u.png",
-					"conditional_attribute": "SPELLBOOK_UNLEARNED"
-				},
-				{
-					"text": "[No-aprendible]",
-					"icon_path": "#*images/system/Broken24x.png",
 					"conditional_attribute": "SPELLBOOK_LEARNABLE"
 				},
 				{
-					"text": "[Unlearnable]",
+					"text": "[No-aprendible]",
 					"icon_path": "#*images/system/Broken24x.png",
 					"conditional_attribute": "SPELLBOOK_UNLEARNABLE"
 				}
@@ -7314,7 +7314,7 @@
 				},
 				{
 					"text": "%+d [%s] Hab.ilidad bonus",
-					"icon_path": "#*images/ui/SkillSheet/Icons/Casting01.png",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Mysticism01.png",
 					"conditional_attribute": "EFF_SKILL_6"
 				},
 				{
