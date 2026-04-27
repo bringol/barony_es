@@ -110,7 +110,7 @@
 			"excellent": "[Artesanal]"
 		},
 		"beatitude_status": {
-			"cursed": "[Vil]",
+			"cursed": "[Infame]",
 			"blessed": "[Celestial]",
 			"uncursed": "[Corriente]"
 		},
@@ -120,7 +120,7 @@
 		},
 		"item_identified_status": {
 			"unidentified": "[Inescrutable]",
-			"cursed": "[Vil]",
+			"cursed": "[Infame]",
 			"blessed": "[Celestial]",
 			"uncursed": "[Corriente]"
 		},
