@@ -79,12 +79,12 @@
 			"broken": "[Volátil]",
 			"decrepit": "[Decadente]",
 			"worn": "[Remolinante]",
-			"serviceable": "[Pasable]",
+			"serviceable": "[Decente]",
 			"excellent": "[Burbujeante]"
 		},
 		"book_status": {
 			"broken": "[Ilegible]",
-			"decrepit": "[Frágil]",
+			"decrepit": "[Deplorable]",
 			"worn": "[Tenue]",
 			"serviceable": "[Legible]",
 			"excellent": "[Impecable]"
@@ -93,7 +93,7 @@
 			"broken": "[Irreparable]",
 			"decrepit": "[Frágil]",
 			"worn": "[Irregular]",
-			"serviceable": "[En-Bruto]",
+			"serviceable": "[Regular]",
 			"excellent": "[Deslumbrante]"
 		},
 		"jewel_levels": {
