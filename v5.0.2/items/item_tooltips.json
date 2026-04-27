@@ -62,39 +62,39 @@
 			"unknown_scroll": "pergamino desconocido"
 		},
 		"equipment_status": {
-			"broken": "[Rot@]",
-			"decrepit": "[Decrépit@]",
-			"worn": "[Desgastad@]",
+			"broken": "[Inservible]",
+			"decrepit": "[Deficiente]",
+			"worn": "[Endeble]",
 			"serviceable": "[Utilizable]",
 			"excellent": "[Excelente]"
 		},
 		"food_status": {
-			"broken": "[Podrid@]",
-			"decrepit": "[Mohos@]",
-			"worn": "[Pasad@]",
-			"serviceable": "[Ligeramente Añej@]",
-			"excellent": "[Fresc@]"
+			"broken": "[Incomible]",
+			"decrepit": "[Repugnante]",
+			"worn": "[Decadente]",
+			"serviceable": "[Comestible]",
+			"excellent": "[Saludable]"
 		},
 		"potion_status": {
-			"broken": "[Evaporad@]",
-			"decrepit": "[Nublad@]",
+			"broken": "[Volátil]",
+			"decrepit": "[Decadente]",
 			"worn": "[Remolinante]",
-			"serviceable": "[Básic@]",
+			"serviceable": "[Pasable]",
 			"excellent": "[Burbujeante]"
 		},
 		"book_status": {
-			"broken": "[Destrozad@]",
-			"decrepit": "[Rasgad@]",
-			"worn": "[Descolorid@]",
-			"serviceable": "[Marcad@]",
-			"excellent": "[Inmaculad@]"
+			"broken": "[Ilegible]",
+			"decrepit": "[Frágil]",
+			"worn": "[Tenue]",
+			"serviceable": "[Legible]",
+			"excellent": "[Impecable]"
 		},
 		"jewelry_status": {
-			"broken": "[Destruid@]",
-			"decrepit": "[Agrieta@]",
-			"worn": "[Ásper@]",
-			"serviceable": "[Imperfect@]",
-			"excellent": "[Perfect@]"
+			"broken": "[Irreparable]",
+			"decrepit": "[Frágil]",
+			"worn": "[Irregular]",
+			"serviceable": "[En-Bruto]",
+			"excellent": "[Deslumbrante]"
 		},
 		"jewel_levels": {
 			"1": "[The Mines] and\nearlier depths ",
@@ -103,26 +103,26 @@
 			"4": "all dungeon depths\n"
 		},
 		"tinkering_status": {
-			"broken": "[Rot@]",
+			"broken": "[Inservible]",
 			"decrepit": "[Simple]",
-			"worn": "[Complej@]",
-			"serviceable": "[Intricad@]",
+			"worn": "[Singular]",
+			"serviceable": "[Fascinante]",
 			"excellent": "[Artesanal]"
 		},
 		"beatitude_status": {
-			"cursed": "[Maldit@]",
-			"blessed": "[Bendit@]",
-			"uncursed": "[Sin-Maldecir]"
+			"cursed": "[Vil]",
+			"blessed": "[Celestial]",
+			"uncursed": "[Corriente]"
 		},
 		"skill_modifiers": {
 			"penalty": "penalidad",
 			"bonus": "bonus"
 		},
 		"item_identified_status": {
-			"unidentified": "[Desconocid@]",
-			"cursed": "[Maldit@]",
-			"blessed": "[Bendit@]",
-			"uncursed": "[Sin-Maldecir]"
+			"unidentified": "[Inescrutable]",
+			"cursed": "[Vil]",
+			"blessed": "[Celestial]",
+			"uncursed": "[Corriente]"
 		},
 		"potion_ally_damage": {
 			"no_harm_ally": "\n+Sin daño aliado",
@@ -1928,99 +1928,99 @@
 				"min_width": 250,
 				"max_header_width": 280,
 				"item_overrides": {
-					"spell_forcebolt": {
-						"min_width": 240
-					},
-					"spell_magicmissile": {
-						"min_width": 240
-					},
-					"spell_cold": {
-						"min_width": 240
-					},
-					"spell_fireball": {
-						"min_width": 240
-					},
+						"spell_forcebolt": {
+							"min_width": 280
+						},
+						"spell_magicmissile": {
+							"min_width": 280
+						},
+						"spell_cold": {
+							"min_width": 280
+						},
+						"spell_fireball": {
+							"min_width": 280
+						},
 					"spell_light": {
 						"min_width": 316
 					},
-					"spell_removecurse": {
-						"min_width": 250
-					},
-					"spell_lightning": {
-						"min_width": 240
-					},
-					"spell_identify": {
-						"min_width": 256
-					},
+						"spell_removecurse": {
+							"min_width": 290
+						},
+						"spell_lightning": {
+							"min_width": 280
+						},
+						"spell_identify": {
+							"min_width": 290
+						},
 					"spell_magicmapping": {
 						"min_width": 300
 					},
-					"spell_sleep": {
-						"min_width": 240
-					},
-					"spell_confuse": {
-						"min_width": 240
-					},
-					"spell_slow": {
-						"min_width": 240
-					},
+						"spell_sleep": {
+							"min_width": 280
+						},
+						"spell_confuse": {
+							"min_width": 280
+						},
+						"spell_slow": {
+							"min_width": 280
+						},
 					"spell_opening": {
 						"min_width": 280
 					},
-					"spell_locking": {
-						"min_width": 240
-					},
-					"spell_levitation": {
-						"min_width": 256
-					},
-					"spell_invisibility": {
-						"min_width": 256
-					},
-					"spell_teleportation": {
-						"min_width": 240
-					},
-					"spell_healing": {
-						"min_width": 250
-					},
-					"spell_extrahealing": {
-						"min_width": 250
-					},
+						"spell_locking": {
+							"min_width": 280
+						},
+						"spell_levitation": {
+							"min_width": 280
+						},
+						"spell_invisibility": {
+							"min_width": 280
+						},
+						"spell_teleportation": {
+							"min_width": 280
+						},
+						"spell_healing": {
+							"min_width": 290
+						},
+						"spell_extrahealing": {
+							"min_width": 290
+						},
 					"spell_cureailment": {
 						"min_width": 300
 					},
-					"spell_dig": {
-						"min_width": 240
-					},
+						"spell_dig": {
+							"min_width": 280
+						},
 					"spell_summon": {
 						"min_width": 320
 					},
-					"spell_stoneblood": {
-						"min_width": 240
-					},
-					"spell_bleed": {
-						"min_width": 270
-					},
+						"spell_stoneblood": {
+							"min_width": 280
+						},
+						"spell_bleed": {
+							"min_width": 280
+						},
 					"spell_reflect_magic": {
 						"min_width": 290
 					},
 					"spell_dominate": {
 						"min_width": 280
 					},
-					"spell_acid_spray": {
-						"min_width": 250
-					},
-					"spell_steal_weapon": {
-						"min_width": 260
-					},
-					"spell_drain_soul": {
-						"min_width": 270
-					},
+						"spell_acid_spray": {
+							"min_width": 280
+						},
+						"spell_steal_weapon": {
+							"min_width": 280
+						},
+						"spell_drain_soul": {
+							"min_width": 280
+						},
 					"spell_vampiric_aura": {
 						"min_width": 316
 					},
-					"spell_charm": {
-						"min_width": 310
-					},
+						"spell_charm": {
+							"min_width": 320
+						},
 					"spell_revert_form": {
 						"min_width": 260
 					},
@@ -2048,9 +2048,9 @@
 					"spell_fear": {
 						"min_width": 310
 					},
-					"spell_strike": {
-						"min_width": 310
-					},
+						"spell_strike": {
+							"min_width": 320
+						},
 					"spell_detect_food": {
 						"min_width": 286
 					},
@@ -2075,9 +2075,9 @@
 					"spell_salvage": {
 						"min_width": 310
 					},
-					"spell_flutter": {
-						"min_width": 240
-					},
+						"spell_flutter": {
+							"min_width": 280
+						},
 					"spell_dash": {
 						"min_width": 300
 					},
@@ -2901,10 +2901,10 @@
 				{
 					"lockpick_automaton_disarm": "template_lockpick_automaton_disarm"
 				}
-			],
-			"size": {
-				"min_width": 296
-			}
+				],
+				"size": {
+					"min_width": 296
+				}
 		},
 		"tooltip_tool_skeletonkey": {
 			"icons": [
@@ -2941,9 +2941,9 @@
 					"lockpick_arrow_disarm": "template_lockpick_arrow_disarm"
 				}
 			],
-			"size": {
-				"min_width": 296
-			}
+				"size": {
+					"min_width": 308
+				}
 		},
 		"tooltip_tool_pickaxe": {
 			"icons": [
