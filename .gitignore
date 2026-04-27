@@ -1,4 +1,4 @@
-.gitignore/
+.gitignore
 /descatalogado/
 FontForge-2023-01-01-a1dad3e-x86_64.AppImage
 Item Names and Tooltips/item_names (copy).json
@@ -9,3 +9,12 @@ fonts/nuevo/PixelSerif_16px_v02 (another copy).ttf
 fonts/nuevo/PixelSerif_16px_v02 (copy).ttf
 fonts/bk fonts modificadas.zip
 logo.xcf
+v5.0.2/1english_version/
+v5.0.2/1polish_version/
+v5.0.2/.codex
+/v5.0.2/tools
+v5.0.2/items/item_tooltips (copy).json
+General Game Text/lang/en - Copy.txt
+/v5.0.2/items
+/rc
+/v5.0.2/2polish_version

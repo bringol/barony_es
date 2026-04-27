@@ -1,0 +1,865 @@
+{
+	"version": 1,
+	"colors": {
+		"default": {
+			"r": 201,
+			"g": 162,
+			"b": 100,
+			"a": 255
+		},
+		"novice": {
+			"r": 74,
+			"g": 196,
+			"b": 20,
+			"a": 255
+		},
+		"expert": {
+			"r": 55,
+			"g": 149,
+			"b": 215,
+			"a": 255
+		},
+		"legend": {
+			"r": 230,
+			"g": 183,
+			"b": 20,
+			"a": 255
+		}
+	},
+	"skill_background_icons" : {
+		"default": "#*images/ui/SkillSheet/UI_Skills_Icons_BG00_00.png",
+		"default_selected": "#*images/ui/SkillSheet/UI_Skills_Icons_BG00Select_00.png",
+		"novice": "#*images/ui/SkillSheet/UI_Skills_Icons_BG20_00.png",
+		"novice_selected": "#*images/ui/SkillSheet/UI_Skills_Icons_BG20Select_00.png",
+		"expert": "#*images/ui/SkillSheet/UI_Skills_Icons_BG60_00.png",
+		"expert_selected": "#*images/ui/SkillSheet/UI_Skills_Icons_BG60Select_00.png",
+		"legend": "#*images/ui/SkillSheet/UI_Skills_Icons_BG100_00.png",
+		"legend_selected": "#*images/ui/SkillSheet/UI_Skills_Icons_BG100Select_00.png"
+	},
+	"skill_select_images": {
+		"highlight_left": "#*images/ui/SkillSheet/UI_Skills_SkillSelector_01.png",
+		"selected_left": "#*images/ui/SkillSheet/UI_Skills_SkillUnselected100_01.png",
+		"highlight_right": "#*images/ui/SkillSheet/UI_Skills_SkillSelectorR_01.png",
+		"selected_right": "#*images/ui/SkillSheet/UI_Skills_SkillUnselected100R_01.png"
+	},
+	"window_scaling": {
+		"standard_scale_modifier_x": 2.0,
+		"standard_scale_modifier_y": 1.2,
+		"compact_scale_modifier_x": 0.5,
+		"compact_scale_modifier_y": 0.0
+	},
+	"alchemy_potion_names_to_filter": ["poción de ", "botella de "],
+	"skills": [
+		{
+			"name": "Sigilo",
+			"id": 1,
+			"sfx": 549,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Stealth01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Stealth01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Stealth02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Stealth02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_DEX_00.png",
+			"description": "Provee visibilidad reducida a enemigos, daño extra con ataques furtivos, y visión adicional. Usa el botón de bloqueo para activar el sigilo",
+			"legend_text": "Sigilo brinda invisibilidad. Ataques por espalda causan doble daño.",
+			"effects_position": {
+				"effect_start_offset_x": 80,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 88
+			},
+			"effects": [
+				{
+					"tag": "STEALTH_VIS_REDUCTION",
+					"title": "Visibilidad Reducida:",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "STEALTH_SNEAK_VIS",
+					"title": "Bonus Visión Furtiva:",
+					"value": "%+d Luz"
+				},
+				{
+					"tag": "STEALTH_BACKSTAB",
+					"title": "Bonus Daño por Espalda:",
+					"value": "%+d ATQ",
+					"realtime_update": true
+				},
+				{
+					"tag": "STEALTH_CURRENT_VIS",
+					"title": "Visibilidad Actual:",
+					"value": "%d Casillas",
+					"realtime_update": true
+				}
+			]
+		},
+		{
+			"name": "Bloqueo",
+			"id": 13,
+			"sfx": 599,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Blocking01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Blocking01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Blocking02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Blocking02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CON_00.png",
+			"description": "Aumenta CA al bloquear.\n Provee Bonus de CA al empuñar escudos. Mejora durabilidad de objetos empuñados en la mano no-hábil durante el combate.",
+			"legend_text": "Los escudos nunca se degradan al ser golpeados.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "BLOCK_AC_INCREASE",
+					"title": "Aumento CA Defensiva:",
+					"value": "%+d CA"
+				},
+				{
+					"tag": "PASSIVE_AC_INCREASE",
+					"title": "Incremento Pasivo de CA\n al empuñar escudos:",
+					"value": "%+d CA"
+				},
+				{
+					"tag": "BLOCK_DEGRADE_NORMAL_CHANCE",
+					"title": "Chance de degradar escudo:\n (Al recibir daño)",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "BLOCK_DEGRADE_DEFENDING_CHANCE",
+					"title": "Chance de degradar escudo:\n (Al Defender):",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "BLOCK_DEGRADE_DEFENDING_CHANCE",
+					"title": "Chance de degradar escudo:\n (Al Defender):",
+					"value": "%.2f%%"
+				}
+			]
+		},
+		{
+			"name": "Distancia",
+			"id": 8,
+			"sfx": 600,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Ranged01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Ranged01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Ranged02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Ranged02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_DEX_00.png",
+			"description": "Incrementa el daño a distancia/arrojadizo y mejora la durabilidad de armas a distancia.",
+			"legend_text": "Armas a distancia nunca se degradan con el uso.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "RANGED_DMG_EFFECTIVENESS",
+					"title": "ATQ a Distancia\n efectividad:",
+					"value": "%+d%%",
+					"custom_value_width_offset": 32
+				},
+				{
+					"tag": "RANGED_DEGRADE_CHANCE",
+					"title": "Arma a Distancia\n chance de degradarse:",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "RANGED_PIERCE_CHANCE",
+					"title": "Ataque a Distancia\n chance de penetrar:\n (usando PER)",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "RANGED_THROWN_DMG",
+					"title": "ATQ Arma Arrojadiza:",
+					"value": "%+d%%"
+				}
+			]
+		},
+		{
+			"name": "Desarmado",
+			"id": 14,
+			"sfx": 594,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Unarmed01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Unarmed01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Unarmed02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Unarmed02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
+			"description": "Aumenta el daño desarmado con puños desnudos o armas de puño. Mejora durabilidad de armas de puño y aplica empuje en golpes completamente cargados.",
+			"legend_text": "+5 ATQ y causa Parálisis de 1 segundo al golpear por la espalda con sigilo completamente cargado.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "UNARMED_DMG_EFFECTIVENESS",
+					"title": "ATQ Desarmado\n efectividad:",
+					"value": "%+d%%",
+					"custom_value_width_offset": 32
+				},
+				{
+					"tag": "UNARMED_BONUS_DMG",
+					"title": "Bonus ATQ Desarmado:",
+					"value": "%+d ATQ"
+				},
+				{
+					"tag": "GLOVE_DEGRADE_CHANCE",
+					"title": "Degradación del arma de puño\n chance:\n (Ataques normales)",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "GLOVE_DEGRADE0_CHANCE",
+					"title": "Degradación del arma de puño:\n (Al hacer 0 daño)",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "UNARMED_KNOCKBACK_DIST",
+					"title": "Empuje Arma de Puño\n distancia:",
+					"value": "%+d%%"
+				}
+			]
+		},
+		{
+			"name": "Espadas",
+			"id": 9,
+			"sfx": 588,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Swords01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Swords01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Swords02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Swords02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
+			"description": "Incrementa el daño y mejora la durabilidad de las espadas.",
+			"legend_text": "+5 ATQ y causa Sangrado por 5 segundos en golpes completamente cargados.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "SWORD_DMG_EFFECTIVENESS",
+					"title": "ATQ Espada\n efectividad:",
+					"value": "%+d%%",
+					"custom_value_width_offset": 32
+				},
+				{
+					"tag": "SWORD_DEGRADE_CHANCE",
+					"title": "Degradación del arma\n chance:\n (Ataques normales)",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "SWORD_DEGRADE0_CHANCE",
+					"title": "Degradación del arma\n chance:\n (Al hacer 0 daño)",
+					"value": "%.2f%%"
+				}
+			]
+		},
+		{
+			"name": "Astas",
+			"id": 12,
+			"sfx": 578,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Polearms01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Polearms01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Polearms02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Polearms02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
+			"description": "Incrementa el daño y mejora la durabilidad de las armas de asta.",
+			"legend_text": "+5 ATQ y causa Empuje en golpes completamente cargados.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "POLEARM_DMG_EFFECTIVENESS",
+					"title": "ATQ Arma de Asta\n efectividad:",
+					"value": "%+d%%",
+					"custom_value_width_offset": 32
+				},
+				{
+					"tag": "POLEARM_DEGRADE_CHANCE",
+					"title": "Degradación del arma\n chance:\n (Ataques normales)",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "POLEARM_DEGRADE0_CHANCE",
+					"title": "Degradación del arma\n chance:\n (Al hacer 0 daño)",
+					"value": "%.2f%%"
+				}
+			]
+		},
+		{
+			"name": "Hachas",
+			"id": 11,
+			"sfx": 570,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Axes01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Axes01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Axes02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Axes02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
+			"description": "Incrementa el daño y mejora la durabilidad de las hachas.",
+			"legend_text": "+10 ATQ y causa 3 segundos de Lentitud en golpes completamente cargados.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "AXE_DMG_EFFECTIVENESS",
+					"title": "ATQ con Hacha\n efectividad:",
+					"value": "%+d%%",
+					"custom_value_width_offset": 32
+				},
+				{
+					"tag": "AXE_DEGRADE_CHANCE",
+					"title": "Degradación del arma\n chance:\n (Ataques normales)",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "AXE_DEGRADE0_CHANCE",
+					"title": "Degradación del arma\n chance:\n (Al hacer 0 daño)",
+					"value": "%.2f%%"
+				}
+			]
+		},
+		{
+			"name": "Mazas",
+			"id": 10,
+			"sfx": 575,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Maces01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Maces01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Maces02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Maces02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
+			"description": "Incrementa el daño y mejora la durabilidad de las mazas.",
+			"legend_text": "+5 ATQ y 25% chance de causar 1.5 segundos de Parálisis en golpes completamente cargados.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "MACE_DMG_EFFECTIVENESS",
+					"title": "ATQ maza\n efectividad:",
+					"value": "%+d%%",
+					"custom_value_width_offset": 32
+				},
+				{
+					"tag": "MACE_DEGRADE_CHANCE",
+					"title": "Degradación del arma\n chance:\n (Ataques normales)",
+					"value": "%.2f%%"
+				},
+				{
+					"tag": "MACE_DEGRADE0_CHANCE",
+					"title": "Degradación del arma\n chance:\n (Al hacer 0 daño)",
+					"value": "%.2f%%"
+				}
+			]
+		},
+		{
+			"name": "Nadar",
+			"id": 4,
+			"sfx": 552,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Swimming01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Swimming01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Swimming02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Swimming02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CON_00.png",
+			"description": "Incrementa velocidad de movimiento al nadar en líquidos.",
+			"legend_text": "Caminar sobre el agua y lava permanentemente.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "SWIM_SPEED_TOTAL",
+					"title": "Velocidad\n al nadar:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "SWIM_SPEED_BASE",
+					"title": "Multiplicador de Velocidad Base\n penalidad en líquidos:",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "SWIM_SPEED_BONUS",
+					"title": "Bonus multiplicador de velocidad\n de la habilidad Nadar:",
+					"value": "+%d%%"
+				},
+				{
+					"tag": "LIST_LEADER_AVAILABLE_FOLLOWERS",
+					"title": "Razas aliadas\n reclutables actualmente:",
+					"value": "%s",
+					"auto_resize_value": true
+				}
+			]
+		},
+		{
+			"name": "Liderazgo",
+			"id": 5,
+			"sfx": 603,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Leadership01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Leadership01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Leadership02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Leadership02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CHA_00.png",
+			"description": "Incrementa el número de seguidores reclutables y desbloquea más órdenes posibles.",
+			"legend_text": "Permite reclutar trasgos, faunos e insectoides, además de las lealtades raciales estándar.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "LEADER_MAX_FOLLOWERS",
+					"title": "Máximo de Seguidores:",
+					"value": "%d"
+				},
+				{
+					"tag": "LEADER_FOLLOWER_SPEED",
+					"title": "Bonus de seguidor\n velocidad:",
+					"value": "+%d DES"
+				}
+			]
+		},
+		{
+			"name": "Comercio",
+			"id": 2,
+			"sfx": 552,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Trading01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Trading01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Trading02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Trading02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CHA_00.png",
+			"description": "Reduce los precios de compra y mejora los precios de venta al comerciar.",
+			"legend_text": "Desbloquea la habilidad de vender artículos de cualquier tipo a cualquier Comerciante.",
+			"effects_position": {
+				"effect_start_offset_x": 102,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 110
+			},
+			"effects": [
+				{
+					"tag": "TRADING_BUY_PRICE",
+					"title": "Margen de precio\ncomprando artículos de tienda:",
+					"value": "%+.f%% Oro"
+				},
+				{
+					"tag": "TRADING_SELL_PRICE",
+					"title": "Penalidad de reventa\nvendiendo artículos a tiendas:\n (Usando habilidad + CAR)",
+					"value": "%.f%% Oro"
+				},
+				{
+					"tag": "APPRAISE_SPEEDUP_CONSUMABLES",
+					"title": "Reducción del tiempo de tasación\n Comida/Pergaminos/Pociones:",
+					"value": "%.f%%"
+				},
+				{
+					"tag": "APPRAISE_SPEEDUP",
+					"title": "Reducción del tiempo de tasación\n Todos los demás objetos:\n (Con habilidad total superior a 50)",
+					"value": "%.f%%"
+				},
+				{
+					"tag": "APPRAISE_FLOOR_BONUS",
+					"title": "Reducción del tiempo de tasación\n para todos los objetos del inventario\n al avanzar al siguiente piso: ",
+					"value": "%.f%%"
+				},
+				{
+					"tag": "APPRAISE_WORTHLESS_GLASS",
+					"title": "Capaz de tasar\n Vidrio Inservible:",
+					"value": "%s"
+				}
+			]
+		},
+		{
+			"name": "Tasar",
+			"id": 3,
+			"sfx": 568,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Appraisal01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Appraisal01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Appraisal02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Appraisal02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_PER_00.png",
+			"description": "Aumenta la velocidad de tasación y permite tasar objetos de mayor valor en oro",
+			"legend_text": "Tasar todos los objetos al instante.",
+			"effects_position": {
+				"effect_start_offset_x": 88,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 96
+			},
+			"effects": [
+				{
+					"tag": "APPRAISE_GOLD_SPEED",
+					"title": "Tiempo de Tasación\n por valor en oro:",
+					"value": "%.2f segundos"
+				},
+				{
+					"tag": "APPRAISE_MAX_GOLD_VALUE",
+					"title": "Máximo valor en oro\n capaz de ser tasado:\n (Usando habilidad + PER)",
+					"value": "%d Oro"
+				},
+				{
+					"tag": "APPRAISE_WORTHLESS_GLASS",
+					"title": "Capaz de tasar\n Vidrio Inserdible:\n (Usando habilidad + PER)",
+					"value": "%s"
+				},
+				{
+					"tag": "TINKERING_DISARM_ARROWS",
+					"title": "Chance de Desarmar\n trampas de flechas:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "TINKERING_KIT_SCRAP_BONUS",
+					"title": "Chatarra extra\n reciclando:\n (Usando habilidad + PER)",
+					"value": "+%d%%"
+				},
+				{
+					"tag": "TINKERING_KIT_REPAIR_ITEM",
+					"title": "Objeto Metálico/Mágico \n reparable de mayor nivel:\n (Usando habilidad + PER)",
+					"value": "%s",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "TINKERING_MAX_ALLIES",
+					"title": "Despliegue Máximo de\n aliados fabricados:",
+					"value": "%d"
+				}
+			]
+		},
+		{
+			"name": "Fabricar",
+			"id": 0,
+			"sfx": 552,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Tinkering01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Tinkering01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Tinkering02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Tinkering02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_PER_00.png",
+			"description": "Mejora habilidad con kits de fabricación, aumentando cantidad de objetos fabricables y máquinas desplegables. Aumenta las chances de abrir cerraduras con objetos dentro.",
+			"legend_text": "Capaz de reparar la mayoría de armas y armaduras usando el kit de fabricación. Encuentras oro u objetos extra al abrir cofres",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "TINKERING_LOCKPICK_CHESTS_DOORS",
+					"title": "Chance de forzar cerraduras\n de cofres y puertas:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "TINKERING_SCRAP_CHESTS",
+					"title": "Chance de Reciclar con\n cofres abiertos por ganzúas:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "TINKERING_SCRAP_AUTOMATONS",
+					"title": "Chance de Reciclar\n ganzuando Autómatas:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "TINKERING_DISARM_ARROWS",
+					"title": "Chance de Desarmar\n trampas de flechas:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "TINKERING_KIT_SCRAP_BONUS",
+					"title": "Chatarra extra\n reciclando:\n (Usando habilidad + PER)",
+					"value": "+%d%%"
+				},
+				{
+					"tag": "TINKERING_KIT_REPAIR_ITEM",
+					"title": "Objeto Metálico/Mágico \n reparable de mayor nivel:\n (Usando habilidad + PER)",
+					"value": "%s",
+					"custom_value_width_offset": 0,
+					"auto_resize_value": true,
+					"realtime_update": true
+				},
+				{
+					"tag": "TINKERING_MAX_ALLIES",
+					"title": "Despliegue Máximo de\n aliados fabricados:",
+					"value": "%d",
+					"custom_value_width_offset": 0,
+					"auto_resize_value": true,
+					"realtime_update": true
+				}
+			]
+		},
+		{
+			"name": "Alquimia",
+			"id": 15,
+			"sfx": 552,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Alchemy01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Alchemy01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Alchemy02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Alchemy02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+			"description": "Mejora de habilidad para elaborar pociones con alambiques y aumenta el daño de las pociones ofensivas arrojadizas. \nBebe o elabora pociones para aprender ingredientes útiles Alquímicos.",
+			"legend_text": "Alambiques nunca se degradan.\n Pociones elaboradas tiene +2 bendición.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "ALCHEMY_POTION_EFFECT_DMG",
+					"title": "Efecto dañino de pociones:",
+					"value": "+%d%%"
+				},
+				{
+					"tag": "ALCHEMY_THROWN_IMPACT_DMG",
+					"title": "Poción arrojadiza\n daño al impactar:",
+					"value": "+%d%%"
+				},
+				{
+					"tag": "ALCHEMY_DUPLICATION_CHANCE",
+					"title": "Duplicación de poción\n chance usando agua:",
+					"title_short": "Hechizos aprendidos\n ideales para subir\n el nivel actual de\n Hechicería:",
+					"value": "%d%%",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "ALCHEMY_EMPTY_BOTTLE_CONSUME",
+					"title": "Reciclar botella vacía\n al consumir pociones:",
+					"value": "%d%%",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "ALCHEMY_EMPTY_BOTTLE_BREW",
+					"title": "Reciclar botella vacía\n al elaborar pociones:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "ALCHEMY_LEARNT_INGREDIENTS_BASE",
+					"title": "Alquimia Aprendida\n ingredientes:\n (Primarios)",
+					"value": "%s"
+				}
+			]
+		},
+		{
+			"name": "Magia",
+			"id": 7,
+			"sfx": 597,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Magic01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Magic01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Magic02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Magic02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+			"description": "Permite aprender hechizos de nivel superior mediante grimorios. Equipa los hechizos a través del menú de Magia y canaliza, o empuña los grirmorios y utiliza el botón Defender para usar la magia.",
+			"legend_text": "Autoaprende el hechizo Dominar.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "MAGIC_SPELLPOWER_INT",
+					"title": "Bonus de poder mágico base:\n (Usando INT)",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "MAGIC_CURRENT_TIER",
+					"title": "Nivel máximo de magia\n aprendible:\n (Usando habilidad + INT)",
+					"value": "%s"
+				},
+				{
+					"tag": "MAGIC_CURRENT_TIER_SPELLS",
+					"title": "Hechizos Actuales Según\n Nivel Mágico:",
+					"title_short": "Hechizos aprendidos\n ideales para subir\n el nivel actual de\n Misticismo:",
+					"value": "%s",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "MAGIC_CURRENT_TIER_SPELLS",
+					"title": "Hechizos del nivel\n actual de Misticismo:",
+					"value": "%s",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "CASTING_BEGINNER",
+					"title": "Fallo al canalizar\n con hechizos aprendidos:",
+					"value": "%s"
+				},
+				{
+					"tag": "CASTING_SPELLBOOK_FUMBLE",
+					"title": "Nivel máximo de Misticismo\n para lanzar desde grimorios\n sin fallar:\n (Usando habilidad + INT)",
+					"value": "%s"
+				}
+			]
+		},
+		{
+			"name": "Canalizar",
+			"shortname": "Tauma",
+			"id": 6,
+			"sfx": 596,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Casting01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Casting01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Casting02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Casting02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+			"description": "Mejora la fiabilidad de Canalizar y lanzar hechizos desde grimorios, reduciendo las chances de fallo, o de gastar demasiada magia. Incrementa la regeneración pasiva de PM.",
+			"legend_text": "Autoaprende Virote Mágico con coste nulo de magia",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "CASTING_MP_REGEN_SKILL_MULTIPLIER",
+					"title": "Multip. Regen. de PM por INT\n mediante habilidad:",
+					"value": "%dx INT"
+				},
+				{
+					"tag": "CASTING_MP_REGEN",
+					"title": "Tasa Base de Regen. de PM:\n (Antes de modificadores\n de objetos/raza.)",
+					"value": "1 PM cada\n%.2f segundos"
+				},
+				{
+					"tag": "CASTING_BEGINNER",
+					"title": "Fallo al canalizar\n con hechizos aprendidos:",
+					"title_short": "Hechizos aprendidos\n ideales para subir\n el nivel actual de\n Taumaturgia:",
+					"value": "%s",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "CASTING_SPELLBOOK_FUMBLE",
+					"title": "Nivel Mágico Máximo\n para lanzar desde grimorios\n sin fallar:\n (Usando habilidad + INT)",
+					"title_short": "Hechizos del nivel\n actual de\n Taumaturgia:",
+					"value": "%s",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "CASTING_BEGINNER",
+					"title": "Fallo al canalizar\n con hechizos aprendidos:",
+					"value": "%s"
+				},
+				{
+					"tag": "CASTING_SPELLBOOK_FUMBLE",
+					"title": "Nivel máximo de Taumaturgia\n para lanzar desde grimorios\n sin fallar:\n (Usando habilidad + INT)",
+					"value": "%s"
+				}
+			]
+		},
+		{
+			"name": "Magia",
+			"id": 33,
+			"sfx": 597,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Magic01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Magic01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Magic02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Magic02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+			"description": "Permite aprender hechizos de magia de nivel superior mediante grimorios. Equipa los hechizos desde el menú de Magia y usa el comando Canalizar, o empuña grimorios y usa el comando Defender para usar magia.",
+			"legend_text": "Autoaprende el hechizo Dominar.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "MAGIC_SPELLPOWER_INT",
+					"title": "Bonus de poder mágico base:\n (Usando INT)",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "MAGIC_CURRENT_TIER",
+					"title": "Nivel máximo de magia\n aprendible:\n (Usando habilidad + INT)",
+					"value": "%s"
+				},
+				{
+					"tag": "MAGIC_CURRENT_TIER_SPELLS",
+					"title": "Hechizos Actuales Según\n Nivel Mágico:",
+					"value": "%s",
+					"auto_resize_value": true
+				}
+			]
+		},
+		{
+			"name": "Canalizar",
+			"id": 34,
+			"sfx": 596,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Casting01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Casting01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Casting02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Casting02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+			"description": "Mejora la fiabilidad de Canalizar y de lanzar hechizos desde grimorios, reduciendo las chances de fallo o de gastar demasiada magia. Incrementa la regeneración pasiva de PM.",
+			"legend_text": "Autoaprende Virote Mágico con coste nulo de magia.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "CASTING_MP_REGEN_SKILL_MULTIPLIER",
+					"title": "Multip. Regen. de PM por INT\n mediante habilidad:",
+					"value": "%dx INT",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "CASTING_MP_REGEN",
+					"title": "Tasa Base de Regen. de PM:\n (Antes de modificadores\n de objetos/raza.)",
+					"value": "1 PM cada\n%.2f segundos",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "CASTING_BEGINNER",
+					"title": "Fallo al canalizar\n con hechizos aprendidos:",
+					"value": "%s"
+				},
+				{
+					"tag": "CASTING_SPELLBOOK_FUMBLE",
+					"title": "Nivel máximo de Magia\n para lanzar desde grimorios\n sin fallar:\n (Usando habilidad + INT)",
+					"value": "%s"
+				}
+			]
+		},
+		{
+			"name": "Nadar",
+			"id": 32,
+			"sfx": 552,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Swimming01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Swimming01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Swimming02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Swimming02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CON_00.png",
+			"description": "Incrementa velocidad de movimiento al nadar en líquidos.",
+			"legend_text": "Caminar sobre el agua y lava permanentemente.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "SWIM_SPEED_TOTAL",
+					"title": "Velocidad\n al nadar:",
+					"value": "%d%%"
+				},
+				{
+					"tag": "SWIM_SPEED_BASE",
+					"title": "Multiplicador de Velocidad Base\n penalidad en líquidos:",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "SWIM_SPEED_BONUS",
+					"title": "Bonus multiplicador de velocidad\n de la habilidad Nadar:",
+					"value": "+%d%%"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,687 @@
+{
+    "version": 1,
+	"default_attributes": {
+		"font_color": {
+			"r": 239,
+			"g": 237,
+			"b": 235,
+			"a": 255
+		},
+		"font_outline_color": {
+			"r": 50,
+			"g": 29,
+			"b": 25,
+			"a": 255
+		},
+		"font_highlight_color": {
+			"r": 18,
+			"g": 196,
+			"b": 131,
+			"a": 255
+		},
+		"font_highlight2_color": {
+			"r": 64,
+			"g": 192,
+			"b": 255,
+			"a": 255
+		}
+	},
+    "script_entries": {
+        "tutorial2a": {
+            "sign": [
+                "Usando una combinación de",
+				"arcos, munición, y armas",
+				"arrojadizas, los aventureros",
+				"pueden distanciarse de las",
+				"amenazas más peligrosas",
+				"de la mazmorra."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+				[],
+				[],
+				[],
+				[0,1,2,3]
+				]
+            },
+            "variables": []
+        },
+        "tutorial2b": {
+            "sign": [
+                "Flechas de Cacería",
+				"$",
+				"Envenena y ralentiza a los enemigos."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[0,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial2/hunting.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial2/sign_hunting.png",
+					"sizex": 0,
+					"sizey": 0
+				}]
+        },
+        "tutorial2c": {
+            "sign": [
+                "Flechas Veloces",
+				"$",
+				"Dispara más rápido pero inflige",
+				"daño ligeramente menor."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[1,2]
+				],
+				"word_highlights2": [
+					[],
+					[],
+					[1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial2/swift.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [{
+					"type": "image",
+					"value": "*#data/scripts/tutorial2/sign_swift.png",
+					"sizex": 74,
+					"sizey": 74
+				}]
+        },
+        "tutorial2d": {
+            "sign": [
+                "Flechas de Empuje",
+				"$",
+				"Repele a los enemigos."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial2/springshot.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [{
+					"type": "image",
+					"value": "*#data/scripts/tutorial2/sign_springshot.png",
+					"sizex": 74,
+					"sizey": 74
+				}]
+        },
+        "tutorial2e": {
+            "sign": [
+                "Tu habilidad para luchar",
+				"a distancia será puesta",
+				"a prueba.",
+				"",
+				"Prepárate."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+            },
+            "variables": []
+        },
+        "tutorial2f": {
+            "sign": [
+                "Para mantener tu distancia",
+				"entre enemigos, puede que",
+				"necesites girar y correr."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial2f_gamepad": {
+            "sign": [
+                "Para mantener tu distancia",
+				"entre enemigos, puede que",
+				"necesites girar y correr.",
+				"",
+				"Pulsa$ para realizar",
+				"un giro rápido."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[2],
+					[],
+					[0],
+					[1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial2/backpedal.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [				{
+					"type": "input_glyph",
+					"value": "Quick Turn"
+				}]
+        },		
+        "tutorial2g": {
+            "sign": [
+				"Caminar hacia adelante es",
+				"más rápido que retroceder",
+				"y moverse de lado."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[0]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial2/backpedal.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial2h": {
+            "sign": [
+				"$",
+				"Con un lanzamiento fuerte,",
+				"los chakrams rebotan en las paredes.",
+				"Las trampas en el suelo más allá de",
+				"estas puertas abrirán el camino."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+				"font_highlight_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},
+				"line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[2,3],
+					[1],
+					[],
+					[2]
+				]
+            },
+            "variables": [{
+					"type": "image",
+					"value": "*#data/scripts/tutorial2/sign_chakram.png",
+					"sizex": 0,
+					"sizey": 0
+				}]
+        },
+        "tutorial2i": {
+            "sign": [
+                "Algunos objetos pueden usarse",
+				"como armas arrojadizas.",
+				"$",
+				"Úsalos para atacar a los enemigos",
+				"o activar trampas en el suelo."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[1],
+					[1],
+					[],
+					[],
+					[1,2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial2/rockthrow.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [{
+					"type": "image",
+					"value": "*#data/scripts/tutorial2/sign_rock.png",
+					"sizex": 0,
+					"sizey": 0
+				}]
+        },
+        "tutorial2j": {
+            "sign": [
+				"$",
+				"Los carcajes de flechas",
+				"aumentarán tus",
+				"ataques con arco.",
+				"",
+				"Equipa diferentes carcajes para",
+				"obtener diferentes efectos."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[0],
+					[],
+					[],
+					[],
+					[0],
+					[2]
+				]
+            },
+            "variables": [{
+					"type": "image",
+					"value": "*#data/scripts/tutorial2/sign_quiver.png",
+					"sizex": 0,
+					"sizey": 0
+				}]
+        },
+        "tutorial2k": {
+            "sign": [
+                "La distancia recorrida",
+				"por una flecha depende",
+				"del arco utilizado.",
+				"$",
+				"El arco largo tiene mayor alcance,",
+				"pero es un arma lenta."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[3,4]
+				],		
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[2,3,4]
+				]
+            },
+            "variables": [{
+					"type": "image",
+					"value": "*#data/scripts/tutorial2/sign_longbow.png",
+					"sizex": 0,
+					"sizey": 0
+				}]
+        },
+        "tutorial2l": {
+            "sign": [
+				"Caer en lava es una",
+				"forma rápida de morir.",
+				"",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+            },
+            "variables": [{
+					"type": "image",
+					"value": "*#images/ui/HUD/statusfx/burning.png",
+					"sizex": 32,
+					"sizey": 32
+				}]
+        },
+        "tutorial2m": {
+            "sign": [
+				"$",
+				"Equipa el arco corto y",
+				"demuestra tu puntería.",
+				"Mantén$ para disparar."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": -4,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[0]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial2/bows.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial2/sign_shortbow.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				}
+			]
+        },
+        "tutorial2n": {
+            "sign": [
+                "La munición no puede ser",
+				"recuperada una vez disparada.",
+				"",
+				"Las armas arrojadizas",
+				"pueden ser recogidas y",
+				"lanzadas de vuelta."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+            },
+            "variables": []
+        },
+        "tutorial2o": {
+            "sign": [
+                "Mantén$ para cargar",
+				"un ataque arrojadizo.",
+				"",
+				"Los lanzamientos cargados vuelan más lejos",
+				"y causan más daño."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": -4,
+				"word_highlights": [
+					[0]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial2/hardthrow.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [				{
+					"type": "input_glyph",
+					"value": "Attack"
+				}]
+        },
+        "tutorial2q": {
+            "sign": [
+				"Este títere está blindado.",
+				"$$",
+				"Las Flechas Perforantes",
+				"ignoran las defensas, infligiendo",
+				"más daño a los enemigos acorazados."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},							
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[3],
+					[],
+					[],
+					[],
+					[2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial2/longbow.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [{
+					"type": "image",
+					"value": "*#data/scripts/tutorial2/sign_longbow.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial2/sign_pierce.png",
+					"sizex": 0,
+					"sizey": 0
+		}]
+        },		
+        "tutorial2p": {
+            "sign": [
+                "Flechas de Plata",
+				"",
+				"$",
+				"Fatales contra Demonios",
+				"y No Muertos."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[2],
+					[2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial2/silver.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [{
+					"type": "image",
+					"value": "*#data/scripts/tutorial2/sign_silver.png",
+					"sizex": 74,
+					"sizey": 74
+				}]
+        }
+    }
+}

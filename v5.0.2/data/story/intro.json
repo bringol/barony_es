@@ -1,0 +1,28 @@
+{
+    "version": 1,
+    "press_a_to_advance": false,
+    "text": [
+		"Érase una vez en una tierra lejana,## había un bullicioso pueblo conocido\n",
+		"como Hamlet.#### Centro de comercio,## su riqueza solo crecía con los años.\n",
+		"Envidiosos, sus vecinos creían que la ciudad estaba bendecida...####\n",
+		"hasta que el Barón Herx se alzó al poder.\n^",
+		"Estimulado por visiones de riquezas y poder,## el Barón obligó a su gente\n",
+		"a minar las colinas,## buscando signos de un tesoro antiguo y legendario.\n",
+		"Enfurecidos bajo el yugo de su amo,## la gente planeó su caída.####\n",
+		"Lo engañaron con cuentos de oro desenterrado y lo sellaron dentro de las minas.\n^",
+		"Liberados de su cruel amo,## la gente de Hamlet floreció una vez más.####\n",
+		"Pero con el tiempo,## extraños sucesos comenzaron a afligir al pueblo.\n",
+		"Nubes malignas de oscuridad cayeron sobre las calles,## monstruos repugnantes \n",
+		"surgieron de la tierra,## y luces malévolas parpadearon dentro de las minas una vez más.\n^",
+		"Muchos aventureros han descendido a las minas para romper\n",
+	"la maldición del Barón,## pero ninguno ha regresado aún.\n",
+	"El pueblo de Hamlet clama por salvación,##\n",
+	"y solo un héroe puede salvarlo de su maldición..."
+    ],
+    "images": [
+    	"images/ui/Main Menus/Story/intro1.png",
+    	"images/ui/Main Menus/Story/intro2.png",
+    	"images/ui/Main Menus/Story/intro3.png",
+    	"images/ui/Main Menus/Story/intro4.png"
+    ]
+}

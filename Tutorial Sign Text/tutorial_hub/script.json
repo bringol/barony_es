@@ -258,7 +258,7 @@
                 "cualquier Desafío como desees.",
                 "",
                 "Algunos héroes dominan",
-                "todas los Desafíos."
+                "todos los Desafíos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -275,10 +275,10 @@
         "tutorial_hubn": {
             "sign": [
                 "Bienvenido al",
-                "Salón de Desafíos",
+                "Salón de Desafíos.",
                 "",
                 "En este lugar serás",
-                "impartido y evaluado"
+                "impartido y evaluado."
             ],
             "attributes": {
                 "font": "fonts/kongtext.ttf#16#2",
@@ -449,7 +449,7 @@
             "sign": [
                 "Desafío 10:",
 				"",
-				"Mercaderes & Comercios",
+				"Comercios & Comerciantes",
 				"",
                 "LECCIÓN AVANZADA"
             ],
@@ -709,13 +709,13 @@
         },
         "tutorial_hubad": {
             "sign": [
-                "Al mejorar los niveles en las",
-                "mazmorras, los aventureros ganan",
-                "un aumento de +1 a 3 estadísticas diferentes.",
+                "Al ganar niveles en las mazmorras, los",
+                "aventureros tendrán un aumento de",
+                "+1 en tres estadísticas diferentes.",
                 "",
-                "Se otorga un aumento adicional de +1 a",
-                "una 4ta estadística, si el aventurero",
-                "ha centrado su entrenamiento en esa habilidad."
+                "Obtendrá un aumento extra de +1 a una",
+                "4ta estadística, si el aventurero en-",
+                "foca su entrenamiento en esa habilidad."
             ],
             "attributes": {
                 "font": "fonts/pixel_maz_multiline.ttf#16#2",
@@ -815,8 +815,8 @@
         },								
         "tutorial_pupil": {
             "sign": [
-                "A los pupilos en el Salón de Desafíos",
-                "se les prohíbe seleccionar una clase",
+                "Los pupilos en el Salón de Desafíos",
+                "tienen prohibido seleccionar una clase",
                 "de aventurero mientras aprenden.",
                 "Sus hazañas aquí",
                 "serán olvidadas.",
@@ -824,7 +824,7 @@
                 "Al buscar aventuras, los graduados",
                 "pueden presumir un título de clase y",
                 "hacerse un nombre por sí mismos en",
-                "los Archivos de Aventuras."
+                "los Archivos-de-Aventuras."
             ],
             "attributes": {
                 "font": "fonts/pixel_maz_multiline.ttf#16#2",
@@ -867,7 +867,7 @@
                 "al Salón de Desafíos",
                 "para continuar las lecciones.",
                 "",
-                "Pulsa$ y",
+                "Pulsa$     y",
                 "[ Volver al Menú Principal ]",
                 "si deseas aventurarte."
             ],

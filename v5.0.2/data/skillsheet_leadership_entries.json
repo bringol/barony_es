@@ -1,0 +1,151 @@
+{
+    "version": 1,
+    "leadership_allies_base": {
+        "vampiro": [
+            "vampiro",
+            "autómata"
+        ],
+        "skeleton": [
+            "necrófago",
+            "autómata"
+        ],
+        "humano": [
+            "humano",
+            "autómata"
+        ],
+        "súcubo": [
+            "súcubo",
+            "íncubo",
+            "autómata"
+        ],
+        "fauno": [
+            "fauno",
+            "autómata"
+        ],
+        "autómata": [
+            "humano",
+            "autómata"
+        ],
+        "íncubo": [
+            "súcubo",
+            "íncubo",
+            "autómata"
+        ],
+        "trasgo": [
+            "trasgo",
+            "autómata"
+        ],
+        "insectoide": [
+            "escorpión",
+            "escarabajo",
+            "insectoide",
+            "autómata"
+        ],
+        "rata": [
+            "rata",
+            "autómata"
+        ],
+        "troll": [
+            "troll",
+            "autómata"
+        ],
+        "tarántula": [
+            "tarántula",
+            "escorpión",
+            "escarabajo",
+            "autómata"
+        ],
+        "diablillo": [
+            "diablillo",
+            "autómata"
+        ]
+    },
+    "leadership_allies_legendary": {
+        "vampiro": [
+            "trasgo",
+            "insectoide",
+            "fauno"
+        ],
+        "skeleton": [
+            "trasgo",
+            "insectoide",
+            "fauno"
+        ],
+        "humano": [
+            "trasgo",
+            "insectoide",
+            "fauno"
+        ],
+        "súcubo": [
+            "trasgo",
+            "insectoide",
+            "fauno"
+        ],
+        "fauno": [
+            "trasgo",
+            "insectoide"
+        ],
+        "autómata": [
+            "trasgo",
+            "insectoide",
+            "fauno"
+        ],
+        "íncubo": [
+            "trasgo",
+            "insectoide",
+            "fauno"
+        ],
+        "trasgo": [
+            "insectoide",
+            "fauno"
+        ],
+        "insectoide": [
+            "trasgo",
+            "fauno"
+        ],
+        "rata": [
+            "trasgo",
+            "insectoide",
+            "fauno"
+        ],
+        "troll": [
+            "trasgo",
+            "insectoide",
+            "fauno"
+        ],
+        "tarántula": [
+            "trasgo",
+            "insectoide",
+            "fauno"
+        ],
+        "diablillo": [
+            "trasgo",
+            "insectoide",
+            "fauno"
+        ]
+    },
+    "leadership_allies_unique_recruits": {
+        "súcubo": [
+            {
+                "humano": "   (Ebrio)"
+            },
+            {
+                "humano": "   (Confundido)"
+            }
+        ],
+        "fauno": [
+            {
+                "humano": "   (Lanza bebida\n   en estado de ebriedad)"
+            },
+			{
+                "trasgo": "   (Lanza bebida\n   en estado de ebriedad)"
+            },
+			{
+                "súcubo": "   (Lanza bebida\n   en estado de ebriedad)"
+            },
+			{
+                "íncubo": "   (Lanza bebida\n   en estado de ebriedad)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "version": 1,
+    "press_a_to_advance": true,
+    "text": [
+    	"*3A través del portal, una débil magia te empuja desde la Ciudadela.\n",
+    	"Tus pies flotan por encima del suelo mientras tiemblan violentamente.\n",
+    	"Tuberías y pistones caen en un estruendo ahogado...\n^",
+    	"*1Tratas de soportar el terror y cierras los ojos.\n^",
+    	"*3Repentinamente te encuentras en el Gremio de Magos junto a un obispo y un mago.\n",
+    	"Sus rostros delatan confusión, pero esperan tu reacción con paciente admiración.\n",
+    	"¿Son las mismas personas que trataron de asesinar a los tuyos?\n^",
+    	"*3Aunque tenebrosos al comienzo, tu gente crea una alianza a favor de la paz.\n",
+    	"Mediante tus acciones, insectoides, humanos, faunos y trasgos acogen el coraje\n",
+		"en lugar del miedo. El comercio prospera en Hamlet, y la sed de poder desaparece.\n^",
+    	"*2Tomas la corte y prontamente te coronan como Barón. Juras mantener el origen\n",
+    	"del poder de los liches en secreto, y detener a quien lo busque nuevamente.\n^",
+    	"*1El poder que conoces siempre estará esperando."
+    ],
+    "images": [
+	"*images/ui/Main Menus/Story/black.png",
+	"*images/ui/Main Menus/Story/white.png",
+	"*images/ui/Main Menus/Story/HeroRescued.png",
+	"*images/ui/Main Menus/Story/intro1.png",
+	"*images/ui/Main Menus/Story/throne.png",
+	"*images/ui/Main Menus/Story/PowerWaiting.png"
+    ]
+}

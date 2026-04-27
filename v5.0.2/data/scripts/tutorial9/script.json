@@ -1,0 +1,1909 @@
+{
+    "version": 1,
+	"default_attributes": {
+		"font_color": {
+			"r": 239,
+			"g": 237,
+			"b": 235,
+			"a": 255
+		},
+		"font_outline_color": {
+			"r": 50,
+			"g": 29,
+			"b": 25,
+			"a": 255
+		},
+		"font_highlight_color": {
+			"r": 18,
+			"g": 196,
+			"b": 131,
+			"a": 255
+		},
+		"font_highlight2_color": {
+			"r": 64,
+			"g": 192,
+			"b": 255,
+			"a": 255
+		}
+	},	
+    "script_entries": {
+        "tutorial9a": {
+            "sign": [
+				"Estos objetos están todos",
+				"rotos e inutilizables.",
+				"",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[0,2]
+				],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#items/images/spells/recycle.png",
+				"sizex": 32,
+				"sizey": 32
+				}						
+			]
+        },
+        "tutorial9b": {
+            "sign": [
+				"$",
+				"El girobot es el",
+				"asistente móvil",
+				"del fabricante.",
+				"Una vez desplegado,",
+				"haz uso de sus",
+				"comandos para realizar",
+				"una variedad de tareas."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[1],
+					[],
+					[],
+					[],
+					[1,2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/gyrobotdeploy.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial9/sign_gyrobot.png",
+				"sizex": 0,
+				"sizey": 0
+				}				
+			]
+        },
+        "tutorial9c": {
+            "sign": [
+				"El títere otorgado",
+				"anteriormente se dañó.",
+				"",
+				"Repáralo para lograr",
+				"sobrevivir esta trampa.",
+				"Si está roto, debes", 
+				"[Elaborar] uno nuevo desde",
+				"el menú de fabricación."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},	
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[1]
+				],
+                "word_highlights2": [
+					[],
+					[2],
+					[],
+					[0,1]
+				]
+            },
+            "variables": []
+        },
+        "tutorial9d": {
+            "sign": [
+				"El kit de fabricación",
+				"puede usarse para reparar.",
+				"",
+				"Esto es esencial para lograr",
+				"mantener tanto las máquinas",
+				"como el mismísimo kit en",
+				"condiciones funcionales.",
+				"Si tu kit se rompe, será",
+				"difícil encontrar otro."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2,3]
+				],
+                "word_highlights2": [
+					[],
+					[3],
+					[],
+					[2],
+					[],
+					[],
+					[0,1]
+				]
+            },
+            "variables": []
+        },
+        "tutorial9e": {
+            "sign": [
+				"AVISO:",
+				"Caíste bajo una trampa.",
+				"",
+				"La palanca abrirá la",
+				"puerta, pero también",
+				"liberará un pedrusco",
+				"para destruirte.",
+				"",
+				"Debes fabricar",
+				"para proceder."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},	
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[0,1,2],
+					[],
+					[],
+					[],
+					[0,1,2,3],
+					[0,1]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[1,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/boulder_block.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial9f": {
+            "sign": [
+				"Trampas fabricadas como",
+				"esta pueden arrojarse",
+				"a suelos, paredes, o",
+				"incluso puertas y cofres.",
+				"",
+				"Las trampas desplegadas no",
+				"se activarán contra aliados,",
+				"a menos que se modifiquen con",
+				"una ganzúa."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/firetrap.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial9g": {
+            "sign": [
+				"Usa el kit de fabricación para",
+				"abrir el menú de fabricación, y",
+				"selecciona la pestaña de reparación.",
+				"Luego elige los objetos a mejorar.",
+				"",
+				"Mantén tus máquinas", 
+				"reparadas y mejoradas."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0],
+					[],
+					[3,4],
+					[1,2]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[4],
+					[],
+					[],
+					[0,2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial9h": {
+            "sign": [
+				"Tu estrategia e",
+				"ingenio con la",
+				"fabricación serán",
+				"puestas a prueba.",
+				"",
+				"¡Prepárate!"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[1],
+					[0]
+				]
+            },
+            "variables": []
+        },
+        "tutorial9i": {
+            "sign": [
+				"La cantidad de máquinas",
+				"que puedes desplegar a la vez",
+				"dependerá de tu habilidad de",
+				"para la fabricación.",
+				"",
+				"Elige sabiamente, y",
+				"mantén un registro de",
+				"tus aliados mecánicos."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[1,2,3],
+					[],
+					[],
+					[0,1],
+					[],
+					[],
+					[0,1]
+				]
+            },			
+            "variables": []
+		},
+        "tutorial9is": {
+            "sign": [
+				"Puedes reciclar objetos",
+				"en tu inventario con",
+				"el menú de fabricación.",
+				"",
+				"Pulsa$ en tu kit",
+				"y selecciona [Fabricar].",
+				"Usa la pestaña [Reciclar]",
+				"para comenzar a seleccionar",
+				"objetos dispuestos a ser",
+				"convertidos en chatarra."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[0],
+					[1,2],
+					[2,3]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[1,2]				
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/salvage.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuRightClick"
+				}				
+			]			
+        },
+		"tutorial9is_gamepad": {
+            "sign": [
+				"Puedes reciclar objetos",
+				"en tu inventario con",
+				"el menú de fabricación.",
+				"",
+				"Pulsa$ en tu kit",
+				"y selecciona [Fabricar].",
+				"Usa la pestaña [Reciclar]",
+				"para comenzar a seleccionar",
+				"objetos dispuestos a ser",
+				"convertidos en chatarra."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[0],
+					[1,2],
+					[2,3]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[1,2]				
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/salvage.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuConfirm"
+				}				
+			]			
+        },
+        "tutorial9j": {
+            "sign": [
+				"Selecciona objetos a elaborar",
+				"desde la pestaña de fabricar",
+				"del menú de fabricación.",
+				"Observa los costos de chatarra cuando",
+				"pasas el cursor sobre cada objeto.",
+				"",
+				"Enfrentarás una prueba",
+				"de supervivencia usando",
+				"objetos que hayas creado."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[3],
+					[],
+					[0,1]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2]
+				]
+            },
+            "variables": []
+        },		
+        "tutorial9k": {
+            "sign": [
+				"Con el kit de fabricación",
+				"equipado, mantén$para",
+				"activar el auto-reciclaje.",
+				"",
+				"Los objetos que recojas luego",
+				"con$ serán reciclados en",
+				"forma chatarra utilizable."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[1],
+					[1],
+					[],
+					[],
+					[0]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/autoscrap.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Defend"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				}					
+			]
+        },
+        "tutorial9l": {
+            "sign": [
+				"Para acceder rápidamente al",
+				"menú de fabricación con el",
+				"kit de fabricación equipado,",
+				"mantén$y pulsa$ ."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[0,2]
+				],
+                "word_highlights2": [
+					[],
+					[0,1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/repair_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Defend"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				}				
+			]
+        },
+        "tutorial9l_gamepad": {
+            "sign": [
+                "To quickly access the",
+				"tinker menu with the",
+				"tinkering kit equipped,",
+				"hold$and press$ ."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[0,2]
+				],
+                "word_highlights2": [
+					[],
+					[0,1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/repair_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Defend"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				}				
+			]
+        },		
+        "tutorial9m": {
+            "sign": [
+				"¡Contempla!",
+				"$",
+				"Con el kit de fabricación",
+				"puedes acceder a máquinas,",
+				"trampas y objetos utilitarios,",
+				"siempre y cuando tengas la",
+				"habilidad y chatarra necesaria."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[2,3],
+					[],
+					[],
+					[],
+					[2]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial9/sign_tinkerkit.png",
+				"sizex": 0,
+				"sizey": 0
+				}				
+			]
+        },
+        "tutorial9n": {
+            "sign": [
+				"Las máquinas fabricadas",
+				"y las trampas son capaces",
+				"de recibir una paliza.",
+				"Si no están rotas, pueden",
+				"repararse y reutilizarse.",
+				"",
+				"Pero incluso la basura rota",
+				"puede tener valor para un",
+				"fabricante."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[0],
+					[],
+					[1,2,3],
+					[],
+					[],
+					[3]
+				]
+            },
+            "variables": []
+        },
+        "tutorial9o": {
+            "sign": [
+				"Los centinelas son vulnerables",
+				"y pueden ser rápidamente",
+				"destruidos por enemigos.",
+				"",
+				"Otras herramientas pueden ayudar",
+				"a mantener a los enemigos a raya,",
+				"permitiendo a los centinelas atacar",
+				"libremente."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},	
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[2],
+					[],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[0,1,2,3],
+					[],
+					[],
+					[1,2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial9p": {
+            "sign": [
+				"$",
+				"Los títeres son robustos",
+				"y buenos para mantener",
+				"la atención de los enemigos.",
+				"",
+				"Ten en cuenta que no podrás",
+				"disparar a través de ellos."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[3]
+				],
+                "word_highlights2": [
+					[],
+					[0,1,2],
+					[],
+					[0,1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/dummybot.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial9/sign_dummy.png",
+				"sizex": 0,
+				"sizey": 0
+				}				
+			]
+        },
+        "tutorial9q": {
+            "sign": [
+				"Puedes recuperar algo",
+				"de chatarra forzando la",
+				"cerradura de un cofre",
+				"cerrado."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/chest_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial9q_gamepad": {
+            "sign": [
+				"Puedes recuperar algo",
+				"de chatarra forzando la",
+				"cerradura de un cofre",
+				"cerrado."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/chest_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },		
+        "tutorial9r": {
+            "sign": [
+				"Las antorchas pueden brindar",
+				"un suministro constante de",
+				"chatarra metálica.",
+				"",
+				"Es posible ganar puntos",
+				"de Fabricar al reciclar",
+				"persistentemente.",
+				"",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[0,1],
+					[],
+					[1,2],
+					[],
+					[0,1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/torcher.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#images/ui/SkillSheet/Icons/Tinkering02_32.png",
+				"sizex": 32,
+				"sizey": 32
+				}					
+			]
+        },
+        "tutorial9re": {
+            "sign": [
+				"Los fabricantes expertos",
+				"pueden ganar ocasionalmente",
+				"chatarra extra al reciclar",
+				"objetos."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[0,1]
+				]
+            },
+            "variables": []
+        },		
+        "tutorial9s": {
+            "sign": [
+				"$",
+				"No tienes armas de largo",
+				"alcance o arrojadizas.",
+				"Pero un centinela puede luchar",
+				"contra enemigos en tu nombre."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[2]
+				],
+                "word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/sentry.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial9/sign_sentry.png",
+				"sizex": 0,
+				"sizey": 0
+				}				
+			]
+        },
+        "tutorial9t": {
+            "sign": [
+				"$",
+				"Las trampas se colocan",
+				"en el suelo con$.",
+				"Los enemigos que las pisen",
+				"quedarán inmovilizados,",
+				"convirtiéndolos en blancos",
+				"fáciles por un tiempo."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[3]
+				],
+                "word_highlights2": [
+					[],
+					[0],
+					[],
+					[],
+					[],
+					[0,1,2,3]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial9/sign_beartrap.png",
+				"sizex": 0,
+				"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				}						
+			]
+        },
+        "tutorial9u": {
+            "sign": [
+				"Esta puerta está cerrada con llave.",
+				"",
+				"$ ",
+				"Las puertas y cofres cerrados",
+				"pueden abrirse a la fuerza, pero",
+				"suele ser más rápido abrirlos",
+				"con ganzúas, si eres experto en",
+				"Fabricar."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0],
+					[],
+					[0]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/lockpick.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#items/images/spells/locking.png",
+				"sizex": 32,
+				"sizey": 32
+				}				
+			]
+        },
+        "tutorial9v": {
+            "sign": [
+				"$  $",
+				"",
+				"Los objetos reciclados producen",
+				"chatarra metálica y chatarra mágica.",
+				"",
+				"La chatarra mágica es más rara,",
+				"y necesaria para los trabajos",
+				"complejos."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[0,1,3,4]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#items/images/metal_scrap.png",
+				"sizex": 32,
+				"sizey": 32
+				},
+				{
+				"type": "image",
+				"value": "*#items/images/magic_scrap.png",
+				"sizex": 32,
+				"sizey": 32
+				}						
+			]
+        },
+        "tutorial9w": {
+            "sign": [
+				"$",
+				"Use$ to command machines.",
+				"Deactivate, collect",
+				"and bring them along",
+				"for continued use."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[1,2]
+				],
+                "word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/deactivate_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial9/sign_deactivate.png",
+				"sizex": 0,
+				"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				}				
+			]
+        },
+        "tutorial9w_gamepad": {
+            "sign": [
+				"$",
+				"Usa$ para comandar máquinas.",
+				"Desactívalas, recógelas",
+				"y llévalas contigo",
+				"para seguir usándolas."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[1,2]
+				],
+                "word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/deactivate_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial9/sign_deactivate.png",
+				"sizex": 0,
+				"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				}				
+			]
+        },		
+        "tutorial9x": {
+            "sign": [
+				"$",
+				"El sonajero es un",
+				"dispositivo simple pero útil,",
+				"elaborado por fabricantes.",
+				"Úsalo para atraer monstruos",
+				"hacia donde tu desees."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[1],
+					[],
+					[],
+					[],
+					[1,2,3,4]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial9/sign_noisemaker.png",
+				"sizex": 0,
+				"sizey": 0
+				}					
+			]
+        },
+        "tutorial9y": {
+            "sign": [
+				"La mayoría de las máquinas",
+				"y trampas fabricadas se empuñan",
+				"como cualquier arma.",
+				"",
+				"Usa$ para desplegarlas",
+				"delante de ti."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[3],
+					[],
+					[],
+					[0,2]
+				],
+                "word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/deploy.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				}				
+			]
+        },
+        "tutorial9z": {
+            "sign": [
+				"Encuentras un troll",
+				"más allá de esta puerta",
+				"por el que no estás",
+				"equipado para enfrentar.",
+				"",
+				"Usa lo que puedas",
+				"para pasarlo por alto.",
+				"Recuerda mantener",
+				"tu distancia."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[3]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[1,2]
+				],
+                "word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/noisemaker.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial9ab": {
+            "sign": [
+				"Esta palanca debe ser",
+				"girada completamente",
+				"para activarse del todo.",
+				"",
+				"Se desactivará",
+				"por sí sola al cabo",
+				"de un tiempo."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[1,2],
+					[],
+					[],
+					[],
+					[0,1,2]
+					
+				],
+                "word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/timedlever.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial9ac": {
+            "sign": [
+				"Las máquinas y trampas",
+				"que has reunido pueden ser",
+				"usadas para defenderte",
+				"contra enemigos.",
+				"",
+				"Deténlos, y",
+				"atráelos a",
+				"la muerte."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[2],
+					[],
+					[],
+					[],
+					[],
+					[0,1]
+				]
+            },
+            "variables": []
+        },
+        "tutorial9ace": {
+            "sign": [
+				"$",
+				"Ordena al girobot a",
+				"[Retornar y Aterrizar] si",
+				"si asisntencia deja de ser",
+				"requerida."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[1,2,3]
+				],
+                "word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/land.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial9/sign_land.png",
+				"sizex": 0,
+				"sizey": 0
+				}				
+			]
+        },		
+        "tutorial9ad": {
+            "sign": [
+				"Los no-muertos dentro",
+				"de estas celdas deben ser",
+				"eliminados antes de que",
+				"puedas proceder.",
+				"",
+				"Mueve la palanca cuando",
+				"te hayas preparado."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[1],
+					[],
+					[0,1,2],
+					[],
+					[],
+					[],
+					[2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial9ae": {
+            "sign": [
+				"Los centinelas están diseñados",
+				"para escanear aleatoriamente",
+				"en busca de enemigos.",
+				"$",
+				"Ordénales a [Mirar...]",
+				"y pulsa$ para asignar",
+				"la dirección del objetivo."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[0],
+					[0,1,3],
+					[1,2,3]
+				],
+                "word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/lookat_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial9/sign_lookat.png",
+				"sizex": 0,
+				"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				}						
+			]
+        },
+        "tutorial9ae_gamepad": {
+            "sign": [
+				"Los centinelas están diseñados",
+				"para escanear aleatoriamente",
+				"en busca de enemigos.",
+				"$",
+				"Ordénales a [Mirar...]",
+				"y pulsa$ para asignar",
+				"la dirección del objetivo."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[0],
+					[0,1,3],
+					[1,2,3]
+				],
+                "word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/lookat_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial9/sign_lookat.png",
+				"sizex": 0,
+				"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				}						
+			]
+        },		
+        "tutorial9af": {
+            "sign": [
+				"$ $ $",
+				"Tu girobot puede recoger",
+				"objetos con [Interactuar].",
+				"",
+				"Usa [Mover] y [Soltar] para",
+				"que el girobot suelte objetos,",
+				"donde puedas alcanzarlos."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[1,2],
+					[],
+					[1,2],
+					[2]
+				],
+                "word_highlights2": [
+					[],
+					[3,4],
+					[],
+					[],
+					[],
+					[],
+					[3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/retrieve.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial9/sign_interact.png",
+				"sizex": 0,
+				"sizey": 0
+				},
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial9/sign_move.png",
+				"sizex": 0,
+				"sizey": 0
+				},
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial9/sign_drop.png",
+				"sizex": 0,
+				"sizey": 0
+				}				
+			]
+        },
+        "tutorial9ag": {
+            "sign": [
+				"Los girobots avanzados pueden",
+				"desplegar trampas usando el",
+				"comando de soltar.",
+				"",
+				"También pueden operar",
+				"palancas y retocar",
+				"trampas desplegadas."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0,1],
+					[],
+					[],
+					[],
+					[2]
+					
+				]
+            },
+            "variables": []
+        },
+        "tutorial9ah": {
+            "sign": [
+				"Los girobots desplegados",
+				"reconocen sus máquinas aliadas,",
+				"y las llevarán al siguiente nivel",
+				"si se quedan atrás.",
+				"",
+				"Aunque los enemigos ignoran",
+				"a los girobots, pueden ser",
+				"asesinados por algunas trampas."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2,3]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[3,4]
+				]
+            },
+            "variables": []
+        },
+        "tutorial9ai": {
+            "sign": [
+				"ADVERTENCIA:",
+				"",
+				"Las máquinas desplegadas no",
+				"te seguirán a través de",
+				"este portal. Recoge cualquier",
+				"máquina que tengas para llevarla",
+				"contigo. No podrás",
+				"volver a través de él."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial9aj": {
+            "sign": [
+				"Activa la palanca",
+				"al final de la",
+				"plataforma y los monstruos.",
+				"comenzarán a atacar.",
+				"Usa el conocimiento técnico",
+				"para sobrevivir al asedio",
+				"y la puerta se abrirá."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[1,2,3]
+				],
+                "word_highlights2": [
+					[0,1,2],
+					[],
+					[],
+					[],
+					[],
+					[1,2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/necrotron.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial9ajz": {
+            "sign": [
+				"AVISO:",
+				"Tus centinelas abrirán",
+				"fuego contra los enemigos",
+				"que vean, incluso si hay aliados",
+				"en la línea de visión.",
+				"",
+				"Colócate a ti mismo,",
+				"y a los títeres,",
+				"adecuadamente."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[1,2,3]
+				],
+                "word_highlights2": [
+					[0],
+					[],
+					[0],
+					[],
+					[],
+					[],
+					[1]
+				]
+            },
+            "variables": []
+        },		
+        "tutorial9ak": {
+            "sign": [
+				"Los aventureros centrados",
+				"en fabricar tendrán muchas",
+				"ventajas estratégicas en",
+				"las mazmorras."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[],
+					[0,1]
+				]
+            },
+            "variables": []
+        }
+    }
+}
