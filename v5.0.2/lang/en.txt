@@ -3503,10 +3503,10 @@ drenarse el resto de tu magia!#
 3215 ¡¡El %s se tambalea hacia atrás!!#
 3216 ¡Eres empujado hacia atrás!#
 3217 No te puedes quitar el objeto %s.
- ¡Está bendito!#
-3218 No puedes, ¡está bendito!#
+ ¡Es celestial!#
+3218 No puedes, ¡está celestial!#
 3219 No puedes vender el objeto %s.
- ¡Está bendito!#
+ ¡Es celestial!#
 3220 Tú destruyes la lata de
  %s.#
 3221 Te despiertas sin idea de dónde estás...

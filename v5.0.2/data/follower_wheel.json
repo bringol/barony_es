@@ -447,7 +447,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Recoger Objetos: Sin-Dueños",
+				"text": "Recoger Objetos: Sin Reclamar",
 				"word_highlights" : [2]
 			},
 			"leader_pickup_none" : 
