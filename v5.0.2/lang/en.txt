@@ -855,9 +855,9 @@ los objetos antes de usarlos.#
 "¡Es la verdad!"#
 544 "¿Sabías que..?"
 "Luciérnaga es la mejor pony."
-"¡Niégalo!"#
+"¡Es la verdad!"#
 545 "¿Sabías que..?"
-"El veneno de la tarántula desaparece en diez segundos."
+"El veneno de la tarántula desvanece en diez segundos."
 "¡Es la verdad!"#
 546 "¿Sabías que..?"
 "Puedes encontrar anillos en los fregaderos."
@@ -869,52 +869,52 @@ los objetos antes de usarlos.#
 "Gungnir nunca falla su objetivo."
 "¡Es la verdad!"#
 549 "¿Sabías que..?"
-"Khryselekatos solía disparar flechas envenenadas."
+"Khryselekatos dispara flechas envenenadas."
 "¡Es la verdad!"#
 550 "¿Sabías que..?"
-"Hay un secreto siniestro oculto en Minetown."
+"Hay un siniestro secreto oculto en el pueblo minero."
 "¡Es la verdad!"#
 551 "¿Sabías que..?"
-"Hay dos maneras secretas de viajar al inframundo."
+"Hay dos caminos secretos hacia el inframundo."
 "¡Es la verdad!"#
 552 "¿Sabías que..?"
 "Las tiendas generales comprarán cualquier cosa."
 "¡Es la verdad!"#
 553 "¿Sabías que..?"
-"Algunas pociones solo aparecen en ciertos colores."
+"Algunas pociones solo existen en ciertos colores."
 "¡Es la verdad!"#
 554 "¿Sabías que..?"
-"Hay un camino secreto al infierno en las ruinas."
+"Hay un camino secreto hacia el infierno en las ruinas."
 "¡Es la verdad!"#
 555 "¿Sabías que..?"
-"Gungnir esta escondida en el laberinto del minotauro."
+"Gungnir esta escondida en el Laberinto del Minotauro."
 "¡Es la verdad!"#
 556 "¿Sabías que..?"
 "Khryselekatos se esconde en el inframundo."
 "¡Es la verdad"#
 557 "¿Sabías que..?"
-"Funny Bones lleva un hacha llamada Parashu."
+"Huesos Risueños lleva un hacha llamada Parashu."
 "¡Es la verdad!"#
 558 "¿Sabías que..?"
 "¡No contaban con mi astucia!"
 "¡Es la verdad!"#
 559 "¿Sabías que..?"
-"¡No puedo irme sin mi colega Superfly!"
+La derrota tiene una dignidad que la victoria no conoce."
 "¡Es la verdad!"#
 560 "¿Sabías que..?"
-"Todas las tostadoras hacen tostadas."
+"Todas las tostadoras tuestan tostadas."
 "¡Es la verdad!"#
 561 "¿Sabías que..?"
 "Se me chispoteó"
 "¡Es la verdad!"#
 562 "¿Sabías que..?"
-"Si te pasas el Sokoban, serás rico."
+"Resolver el Sokoban trae riquezas."
 "¡Es la verdad!"#
 563 "¿Sabías que..?"
 "Los gnomos y los trolls son grandes amigos."
 "¡Es la verdad!"#
 564 "¿Sabías que..?"
-"Los comerciantes en realidad son EXPERTOS hechiceros."
+"Los comerciantes también son EXPERTOS hechiceros."
 "¡Es la verdad!"#
 565 "¿Sabías que..?"
 "Los trolls prefieren que les dejen en paz."
@@ -926,10 +926,10 @@ los objetos antes de usarlos.#
 "No hay cura para teletransportitis."
 "¡Es la verdad!"#
 568 "¿Sabías que..?"
-"Los cofres rotos no contienen demasiadas cosas."
+"Los cofres rotos no terminan con tantas cosas."
 "¡Es la verdad!"#
 569 "¿Sabías que..?"
-"¡No contaban con mi astucia!."
+"La pelota no se mancha."
 "¡Es la verdad!"#
 
 # random player messages
