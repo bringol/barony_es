@@ -405,7 +405,7 @@
 			"specialNPCs": {
 				"funny bones": {
 					"icon": "special/Icon_FunnyBones_00.png", 
-					"localized_name": "Huesitos Risueños",
+					"localized_name": "Huesos Risueños",
 					"models": [1107]
 				},
 				"skeleton knight": {
