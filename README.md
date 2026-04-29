@@ -24,7 +24,7 @@ La traducción ofrece una instalación independiente de Steam para aquellas pers
 </div>
 <br>
 
-Barony aún no se encuentra completamente traducido, pero debería ser suficiente para jugar la nueva actualización Instruments of Destruction Part 1 (v5.0). En caso de encontrar errores/bugs/crashes, por favor, reportarlo en la sección ["Reporte de Errores" del Steam Workshop](https://steamcommunity.com/workshop/filedetails/discussion/2707610137/806849643178746906/), en el canal "Bugs Traducción" del [Discord no oficial Barony en Español](https://discord.gg/3qWzv7gTKK). Actualmente hace falta testearlo en busca de problemas mientras continuo traduciendo el resto.
+Barony aún no se encuentra completamente traducido, pero debería ser suficiente para jugar la nueva actualización Instruments of Destruction Part 1 (v5.0). En caso de encontrar errores/bugs/crashes, por favor, reportarlo en la sección ["Reporte de Errores" del Steam Workshop](https://steamcommunity.com/workshop/filedetails/discussion/2707610137/806849643178746906/), en el canal "Bugs Traducción" del [Discord no oficial Barony en Español](https://discord.gg/3qWzv7gTKK), o desde este mismo repositorio. Actualmente hace falta testearlo en busca de problemas mientras continuo traduciendo el resto.
 
 <br>
 <br>
