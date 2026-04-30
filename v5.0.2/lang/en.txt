@@ -5942,7 +5942,7 @@ etiqueta/versión serán modificadas.#
 5935 Note: No existe imagen preview.png#
 5936 Primer subida.#
 5937 Objeto subido.#
-5938 Subiendo contenido, esto puede tardar.#
+5938 Subiendo, esto puede tardar.#
 5939 Tiempo agotado al subir,
 reintento 1/3...#
 5940 Tiempo agotado al subir,
@@ -5960,7 +5960,7 @@ selecionado para subir.#
 5948 Error: No se pudo leer
 carpeta de contenido.#
 5949 Iniciando subida#
-5950 Porfavor
+5950 Por favor
 espere#
 5951 Ver Objeto#
 5952 Reintentar
