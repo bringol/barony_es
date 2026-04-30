@@ -929,7 +929,7 @@
 			"specialNPCs": {
 				"fire sprite": {
 					"icon": "summons/fire_sprite.png", 
-					"localized_name": "sílfide flameante",
+					"localized_name": "sílfide llameante",
 					"models": [1822]
 				}
 			}
