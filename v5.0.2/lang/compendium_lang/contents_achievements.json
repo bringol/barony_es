@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"contents": [
+		{"    CATEGORÍAS": "-"},
+		{"ADVENTURE": "adventure"},
+		{"EXPERIENCIA": "experience"},
+		{"PAYASADAS": "joker"},
+		{"TRABAJO EN EQUIPO": "TRABAJO EN EQUIPO"},
+		{"TÉCNICA": "TÉCNICA"}
+	],
+	"contents_alphabetical": [
+		{"    CATEGORÍAS": "-"},
+		{"AVENTURA": "adventure"},
+		{"EXPERIENCE": "experience"},
+		{"PAYASADAS": "joker"},
+		{"TRABAJO EN EQUIPO": "TRABAJO EN EQUIPO"},
+		{"TÉCNICA": "TÉCNICA"}
+	]
+}
