@@ -142,7 +142,7 @@
             "name_unidentified": "botas de acero"
         },
         "steel_boots_levitation": {
-            "name_identified": "botas de cuero de levitación",
+            "name_identified": "botas de acero de levitación",
             "name_unidentified": "botas de acero"
         },
         "steel_boots_feather": {
@@ -534,7 +534,7 @@
             "name_unidentified": "gema"
         },
         "gem_emerald": {
-            "name_identified": "emeralda",
+            "name_identified": "esmeralda",
             "name_unidentified": "gema"
         },
         "gem_sapphire": {
@@ -614,8 +614,8 @@
             "name_unidentified": "gafas"
         },
         "tool_beartrap": {
-            "name_identified": "trampa de oso",
-            "name_unidentified": "cepo"
+            "name_identified": "trampa de mandíbula",
+            "name_unidentified": "trampa de mandíbula"
         },
         "food_bread": {
             "name_identified": "pan",
@@ -702,16 +702,16 @@
             "name_unidentified": "yelmo de cristal"
         },
         "crystal_boots": {
-            "name_identified": "botas de cristals",
-            "name_unidentified": "botas de cristals"
+            "name_identified": "botas de cristal",
+            "name_unidentified": "botas de cristal"
         },
         "crystal_shield": {
             "name_identified": "escudo de cristal",
             "name_unidentified": "escudo de cristal"
         },
         "crystal_gloves": {
-            "name_identified": "guanteletes de cristals",
-            "name_unidentified": "guanteletes de cristals"
+            "name_identified": "guanteletes de cristal",
+            "name_unidentified": "guanteletes de cristal"
         },
         "vampire_doublet": {
             "name_identified": "jubón de vampiro",
@@ -742,8 +742,8 @@
             "name_unidentified": "nudillos"
         },
         "food_tomalley": {
-            "name_identified": "hígado de marisco",
-            "name_unidentified": "hígado de marisco"
+            "name_identified": "hígado de langosta",
+            "name_unidentified": "hígado de langosta"
         },
         "tool_crystalshard": {
             "name_identified": "fragmento de cristal",
@@ -982,7 +982,7 @@
             "name_unidentified": "máscara shamánica"
         },
         "spellbook_amplify_magic": {
-            "name_identified": "grimorio de amplificar magia",
+            "name_identified": "grimorio de foco elemental",
             "name_unidentified": "grimorio"
         },
         "spellbook_shadow_tag": {
@@ -1326,8 +1326,8 @@
 			"name_unidentified": "capa"
 		},
 		"mask_marigold": {
-			"name_identified": "margarita",
-			"name_unidentified": "margarita"
+			"name_identified": "caléndula",
+			"name_unidentified": "caléndula"
 		},
 		"key_stone": {
 			"name_identified": "llave pétrea",
@@ -1350,16 +1350,16 @@
 			"name_unidentified": "llave de plata"
 		},
 		"key_gold": {
-			"name_identified": "llave dorada",
-			"name_unidentified": "llave dorada"
+			"name_identified": "llave de oro",
+			"name_unidentified": "llave de oro"
 		},
 		"key_crystal": {
 			"name_identified": "llave de cristal",
 			"name_unidentified": "llave de cristal"
 		},
 		"key_machine": {
-			"name_identified": "llave mecánica",
-			"name_unidentified": "llave mecánica"
+			"name_identified": "llave de maquinaria",
+			"name_unidentified": "llave de maquinaria"
 		},
 		"tool_foci_fire": {
 			"name_identified": "foco ígneo",
@@ -1486,8 +1486,8 @@
             "name_unidentified": "hombreras de hierro"
         },
 		"quilted_gambeson": {
-            "name_identified": "chaqueta acolchada",
-            "name_unidentified": "chaqueta acolchada"
+            "name_identified": "gambesón acolchado",
+            "name_unidentified": "gambesón acolchado"
         },
 		"robe_cultist": {
             "name_identified": "capa de cultista",
@@ -1555,7 +1555,7 @@
         },
 		"chain_boots": {
             "name_identified": "botas de malla",
-            "name_unidentified": "botas malla"
+            "name_unidentified": "botas de malla"
         },
 		"scutum": {
             "name_identified": "scutum",
@@ -1606,8 +1606,8 @@
             "name_unidentified": "capucha de malla"
         },
 		"food_shroom": {
-            "name_identified": "rodaja de champiñones",
-            "name_unidentified": "rodaja de champiñones"
+            "name_identified": "rodaja de hongos",
+            "name_unidentified": "rodaja de hongos"
         },
 		"food_nut": {
             "name_identified": "nuez",
@@ -1718,12 +1718,12 @@
 			"name_unidentified": "bracamante de acero"
 		},
 		"steel_greataxe": {
-			"name_identified": "hacha de acero grande",
-			"name_unidentified": "hacha de acero grande"
+			"name_identified": "gran hacha de acero",
+			"name_unidentified": "gran hacha de acero"
 		},
 		"blackiron_axe": {
-			"name_identified": "gran hacha de hierro negro",
-			"name_unidentified": "gran hacha de hierro negro"
+			"name_identified": "hacha de hierro negro",
+			"name_unidentified": "hacha de hierro negro"
 		},
 		"blackiron_crossbow": {
 			"name_identified": "ballesta de hierro negro",
