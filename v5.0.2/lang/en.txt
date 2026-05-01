@@ -5124,9 +5124,9 @@ Puntaje:#
 Solitario#
 5309 Local
 Multijugador#
-5310 Mundo
+5310 Global
 Diario#
-5311 Mundo
+5311 Global
 Mejor Tiempo#
 5312 Borrar Entrada#
 5313 ¿Realmente quieres borrar
@@ -5698,8 +5698,8 @@ te echo de este juego.#
 5784 LOGROS DESACTIVADOS#
 5785 LOGROS ACTIVADOS#
 
-5786 Jugadores Online: ... #
-5787 Jugadores online: %d #
+5786 Jugadores Activos: ... #
+5787 Jugadores Activos: %d #
 
 5788 La conexión de red al juego se ha perdido.#
 5789 La conexión de red al juego se ha perdido.
@@ -6165,7 +6165,7 @@ Muerto por: %s#
 Intentar más tarde.#
 6062 Top 100#
 6063 Cercanías#
-6064 Victorias#
+6064 GNDOS#
 6065 Derrotas#
 6066 Mejor Ptje#
 6067 Mejor Tiemp.#
@@ -6360,9 +6360,9 @@ para jugar esta clase.#
 6191 EFECTIVIDAD DE TIPO DE DAÑO:#
 6192 HABILIDADES:#
 6193 INVENTARIO:#
-6194 PUNTOS DE HISTORIA DISPONIBLES#
-6195 ORDENAR ALFABÉTICAMENTE#
-6196 OCULTAR NO DESCUBIERTOS#
+6194 PTS. DE HISTORIA DISP.#
+6195 ORDEN ALFABÉTICO#
+6196 OCULTAR NO HALLADOS#
 6197 ATQ:#
 6198 PDR:#
 6199 HP:#
@@ -6406,12 +6406,12 @@ para jugar esta clase.#
 6236 ¡Estás rociado de grasa!#
 6237 ¡Estás rociado con magma!#
 6238 ¡%s está rociado con magma ardiente!#
-6239 ¡El %s está rociado con magma ardiente!#
+6239 ¡%s está rociado con magma ardiente!#
 6240 ¡%s está rociado con lodo corrosivo!#
-6241 ¡El %s está rociado con lodo corrosivo!#
+6241 ¡%s está rociado con lodo corrosivo!#
 6242 ¡Estás rociado con lodo corrosivo!#
 6243 ¡%s está rociado con grasa!#
-6244 ¡El %s está rociado con grasa!#
+6244 ¡%s está rociado con grasa!#
 6245 ¡Tus manos se vuelven resbaladizas!#
 6246 ¡Tu escudo se desliza entre tus dedos!#
 6247 ORDENAR POR BLOQUEADO PRIMERO#
