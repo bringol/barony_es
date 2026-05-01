@@ -891,15 +891,15 @@
         },
         "potion_firestorm": {
             "name_identified": "poción de tormenta de fuego",
-            "name_unidentified": "unstable potion"
+            "name_unidentified": "poción inestable"
         },
         "potion_icestorm": {
             "name_identified": "poción de tormenta de hielo",
-            "name_unidentified": "unstable potion"
+            "name_unidentified": "poción inestable"
         },
         "potion_thunderstorm": {
             "name_identified": "poción de tormenta eléctrica",
-            "name_unidentified": "unstable potion"
+            "name_unidentified": "poción inestable"
         },
         "potion_strength": {
             "name_identified": "poción de fuerza",
@@ -1022,11 +1022,11 @@
             "name_unidentified": "grimorio"
         },
         "spellbook_9": {
-            "name_identified": "grimorio de 9",
+            "name_identified": "grimorio 9",
             "name_unidentified": "grimorio"
         },
         "spellbook_10": {
-            "name_identified": "grimorio de 10",
+            "name_identified": "grimorio 10",
             "name_unidentified": "grimorio"
         },
         "magicstaff_poison": {
@@ -1046,8 +1046,8 @@
             "name_unidentified": "kit de fabricación"
         },
         "tool_sentrybot": {
-            "name_identified": "centinela robótico",
-            "name_unidentified": "centinela robótico"
+            "name_identified": "ballestero",
+            "name_unidentified": "ballestero"
         },
         "tool_detonated_charge": {
             "name_identified": "detonador",
@@ -1074,16 +1074,16 @@
             "name_unidentified": "girobot"
         },
         "tool_spellbot": {
-            "name_identified": "centinela mágico",
-            "name_unidentified": "centinela mágico"
+            "name_identified": "magibot",
+            "name_unidentified": "magibot"
         },
         "tool_decoy": {
             "name_identified": "sonajero",
             "name_unidentified": "sonajero"
         },
         "tool_dummybot": {
-            "name_identified": "maniquí",
-            "name_unidentified": "maniquí"
+            "name_identified": "títere",
+            "name_unidentified": "títere"
         },
         "machinist_apron": {
             "name_identified": "delantal de cuero",
@@ -1162,12 +1162,12 @@
 			"name_unidentified": "máscara de bandido"
 		},
 		"mask_eyepatch": {
-			"name_identified": "parche en el ojo",
-			"name_unidentified": "parche en el ojo"
+			"name_identified": "parche para ojos",
+			"name_unidentified": "parche para ojos"
 		},
 		"mask_masquerade": {
-			"name_identified": "máscara de comparsa",
-			"name_unidentified": "máscara de comparsa"
+			"name_identified": "máscara de carnaval",
+			"name_unidentified": "máscara de carnaval"
 		},
 		"mask_mouth_rose": {
 			"name_identified": "rosa",
@@ -1218,8 +1218,8 @@
 			"name_unidentified": "sombrero emplumado"
 		},
 		"hat_bycocket": {
-			"name_identified": "Felucca",
-			"name_unidentified": "Felucca"
+			"name_identified": "feluca",
+			"name_unidentified": "feluca"
 		},
 		"hat_tophat": {
 			"name_identified": "sombrero de copa",
@@ -1298,7 +1298,7 @@
 			"name_unidentified": "visera de cristal"
 		},
 		"mask_artifact_visor": {
-			"name_identified": "Velo de la Valkiria",
+			"name_identified": "Velo de la Valquiria",
 			"name_unidentified": "visera de artefacto"
 		},
 		"hat_circlet_wisdom": {
@@ -1318,784 +1318,784 @@
 			"name_unidentified": "capucha"
 		},
 		"ring_resolve": {
-			"name_identified": "ring of resolve",
-			"name_unidentified": "ring"
+			"name_identified": "anillo de resolución",
+			"name_unidentified": "anillo"
 		},
 		"cloak_guardian": {
-			"name_identified": "cloak of the guardian",
-			"name_unidentified": "cloak"
+			"name_identified": "capa del guardián",
+			"name_unidentified": "capa"
 		},
 		"mask_marigold": {
-			"name_identified": "marigold",
-			"name_unidentified": "marigold"
+			"name_identified": "margarita",
+			"name_unidentified": "margarita"
 		},
 		"key_stone": {
-			"name_identified": "stone key",
-			"name_unidentified": "stone key"
+			"name_identified": "llave pétrea",
+			"name_unidentified": "llave pétrea"
 		},
 		"key_bone": {
-			"name_identified": "spirit key",
-			"name_unidentified": "spirit key"
+			"name_identified": "llave espiritual",
+			"name_unidentified": "llave espiritual"
 		},
 		"key_bronze": {
-			"name_identified": "bronze key",
-			"name_unidentified": "bronze key"
+			"name_identified": "llave de bronce",
+			"name_unidentified": "llave de bronce"
 		},
 		"key_iron": {
-			"name_identified": "iron key",
-			"name_unidentified": "iron key"
+			"name_identified": "llave de hierro",
+			"name_unidentified": "llave de hierro"
 		},
 		"key_silver": {
-			"name_identified": "silver key",
-			"name_unidentified": "silver key"
+			"name_identified": "llave de plata",
+			"name_unidentified": "llave de plata"
 		},
 		"key_gold": {
-			"name_identified": "gold key",
-			"name_unidentified": "gold key"
+			"name_identified": "llave dorada",
+			"name_unidentified": "llave dorada"
 		},
 		"key_crystal": {
-			"name_identified": "crystal key",
-			"name_unidentified": "crystal key"
+			"name_identified": "llave de cristal",
+			"name_unidentified": "llave de cristal"
 		},
 		"key_machine": {
-			"name_identified": "machine key",
-			"name_unidentified": "machine key"
+			"name_identified": "llave mecánica",
+			"name_unidentified": "llave mecánica"
 		},
 		"tool_foci_fire": {
-			"name_identified": "focus of flames",
-			"name_unidentified": "focus"
+			"name_identified": "foco ígneo",
+			"name_unidentified": "foco"
 		},
 		"instrument_flute": {
-			"name_identified": "flute",
-			"name_unidentified": "flute"
+			"name_identified": "flauta",
+			"name_unidentified": "flauta"
 		},
 		"instrument_lyre": {
-			"name_identified": "lyre",
-			"name_unidentified": "lyre"
+			"name_identified": "lira",
+			"name_unidentified": "lira"
 		},
 		"instrument_drum": {
-			"name_identified": "drum",
-			"name_unidentified": "drum"
+			"name_identified": "tambor",
+			"name_unidentified": "tambor"
 		},
 		"instrument_lute": {
-			"name_identified": "lute",
-			"name_unidentified": "lute"
+			"name_identified": "laúd",
+			"name_unidentified": "laúd"
 		},
 		"instrument_horn": {
-			"name_identified": "horn",
-			"name_unidentified": "horn"
+			"name_identified": "cuerno",
+			"name_unidentified": "cuerno"
 		},
 		"rapier": {
-			"name_identified": "rapier",
-			"name_unidentified": "rapier"
+			"name_identified": "espada ropera",
+			"name_unidentified": "espada ropera"
 		},
 		"amulet_burningresist": {
-            "name_identified": "amulet of burning resistance",
-            "name_unidentified": "amulet"
+            "name_identified": "amuleto de resistir quemaduras",
+            "name_unidentified": "amuleto"
         },
 		"grease_ball": {
-			"name_identified": "grease ball",
-			"name_unidentified": "grease ball"
+			"name_identified": "bola de grasa",
+			"name_unidentified": "bola de grasa"
 		},
 		"branch_staff": {
-			"name_identified": "branch staff",
-			"name_unidentified": "branch staff"
+			"name_identified": "bastón de rama",
+			"name_unidentified": "bastón de rama"
 		},
 		"branch_bow": {
-			"name_identified": "branch bow",
-			"name_unidentified": "branch bow"
+			"name_identified": "arco de rama",
+			"name_unidentified": "arco de rama"
 		},
 		"branch_bow_infected": {
-			"name_identified": "infected branch bow",
-			"name_unidentified": "infected branch bow"
+			"name_identified": "arco de rama infectada",
+			"name_unidentified": "arco de rama infectada"
 		},
 		"dust_ball": {
-			"name_identified": "dust ball",
-			"name_unidentified": "dust ball"
+			"name_identified": "bola de polvo",
+			"name_unidentified": "bola de polvo"
 		},
 		"bolas": {
-			"name_identified": "bolas",
-			"name_unidentified": "bolas"
+			"name_identified": "boleadoras",
+			"name_unidentified": "boleadoras"
 		},
 		"steel_flail": {
-			"name_identified": "steel flail",
-			"name_unidentified": "steel flail"
+			"name_identified": "mangual de acero",
+			"name_unidentified": "mangual de acero"
 		},
 		"food_ration": {
-			"name_identified": "ration",
-			"name_unidentified": "ration"
+			"name_identified": "ración",
+			"name_unidentified": "ración"
 		},
 		"food_ration_spicy": {
-			"name_identified": "spicy ration",
-			"name_unidentified": "ration"
+			"name_identified": "ración picante",
+			"name_unidentified": "ración"
 		},
 		"food_ration_sour": {
-			"name_identified": "sour ration",
-			"name_unidentified": "ration"
+			"name_identified": "ración agria",
+			"name_unidentified": "ración"
 		},
 		"food_ration_bitter": {
-			"name_identified": "bitter ration",
-			"name_unidentified": "ration"
+			"name_identified": "ración amarga",
+			"name_unidentified": "ración"
 		},
 		"food_ration_hearty": {
-			"name_identified": "hearty ration",
-			"name_unidentified": "ration"
+			"name_identified": "ración abundante",
+			"name_unidentified": "ración"
 		},
 		"food_ration_herbal": {
-			"name_identified": "herbal ration",
-			"name_unidentified": "ration"
+			"name_identified": "ración a base de hierbas",
+			"name_unidentified": "ración"
 		},
 		"food_ration_sweet": {
-			"name_identified": "sweet ration",
-			"name_unidentified": "ration"
+			"name_identified": "ración dulce",
+			"name_unidentified": "ración"
 		},
 		"slop_ball": {
-			"name_identified": "slop ball",
-			"name_unidentified": "slop ball"
+			"name_identified": "bola de desechos",
+			"name_unidentified": "bola de desechos"
 		},
 		"tool_frying_pan": {
-			"name_identified": "frypan",
-			"name_unidentified": "frypan"
+			"name_identified": "sartén",
+			"name_unidentified": "sartén"
 		},
 		"cleat_boots": {
-			"name_identified": "cleats",
-			"name_unidentified": "cleats"
+			"name_identified": "botas de montaña",
+			"name_unidentified": "botas de montaña"
 		},
 		"bandit_breastpiece": {
-            "name_identified": "bandit leather",
-            "name_unidentified": "bandit leather"
+            "name_identified": "coraza de cuero de bandido",
+            "name_unidentified": "coraza de cuero"
         },
 		"tunic_blouse": {
-            "name_identified": "blouse",
-            "name_unidentified": "blouse"
+            "name_identified": "blusa",
+            "name_unidentified": "blusa"
         },
 		"bone_breastpiece": {
-            "name_identified": "bone breastpiece",
-            "name_unidentified": "bone breastpiece"
+            "name_identified": "coraza de hueso",
+            "name_unidentified": "coraza de hueso"
         },
 		"blackiron_breastpiece": {
-            "name_identified": "blackiron breastpiece",
-            "name_unidentified": "blackiron breastpiece"
+            "name_identified": "coraza de hierro negro",
+            "name_unidentified": "coraza de hierro negro"
         },
 		"silver_breastpiece": {
-            "name_identified": "silver breastpiece",
-            "name_unidentified": "silver breastpiece"
+            "name_identified": "coraza de plata",
+            "name_unidentified": "coraza de plata"
         },
 		"iron_pauldrons": {
-            "name_identified": "iron pauldrons",
-            "name_unidentified": "iron pauldrons"
+            "name_identified": "hombreras de hierro",
+            "name_unidentified": "hombreras de hierro"
         },
 		"quilted_gambeson": {
-            "name_identified": "quilted gambeson",
-            "name_unidentified": "quilted gambeson"
+            "name_identified": "chaqueta acolchada",
+            "name_unidentified": "chaqueta acolchada"
         },
 		"robe_cultist": {
-            "name_identified": "cultist robe",
-            "name_unidentified": "cultist robe"
+            "name_identified": "capa de cultista",
+            "name_unidentified": "capa de cultista"
         },
 		"robe_healer": {
-            "name_identified": "healer robe",
-            "name_unidentified": "healer robe"
+            "name_identified": "capa de sanador",
+            "name_unidentified": "capa de sanador"
         },
 		"robe_monk": {
-            "name_identified": "monk robe",
-            "name_unidentified": "monk robe"
+            "name_identified": "manto de monje",
+            "name_unidentified": "manto de monje"
         },
 		"robe_wizard": {
-            "name_identified": "wizard robe",
-            "name_unidentified": "wizard robe"
+            "name_identified": "capa de mago",
+            "name_unidentified": "capa de mago"
         },
 		"shawl": {
-            "name_identified": "shawl",
-            "name_unidentified": "shawl"
+            "name_identified": "chal",
+            "name_unidentified": "chal"
         },
 		"chain_hauberk": {
-            "name_identified": "chain hauberk",
-            "name_unidentified": "chain hauberk"
+            "name_identified": "cota de malla",
+            "name_unidentified": "cota de malla"
         },
 		"bone_bracers": {
-            "name_identified": "bone bracers",
-            "name_unidentified": "bone bracers"
+            "name_identified": "brazaletes de hueso",
+            "name_unidentified": "brazaletes de hueso"
         },
 		"blackiron_gauntlets": {
-            "name_identified": "blackiron gauntlets",
-            "name_unidentified": "blackiron gauntlets"
+            "name_identified": "guanteletes de hierro negro",
+            "name_unidentified": "guanteletes de hierro negro"
         },
 		"silver_gauntlets": {
-            "name_identified": "silver gauntlets",
-            "name_unidentified": "silver gauntlets"
+            "name_identified": "guanteletes de plata",
+            "name_unidentified": "guanteletes de plata"
         },
 		"quilted_gloves": {
-            "name_identified": "quilted gloves",
-            "name_unidentified": "quilted gloves"
+            "name_identified": "guantes acolchados",
+            "name_unidentified": "guantes acolchados"
         },
 		"chain_gloves": {
-            "name_identified": "chain gloves",
-            "name_unidentified": "chain gloves"
+            "name_identified": "guantes de malla",
+            "name_unidentified": "guantes de malla"
         },
 		"bone_boots": {
-            "name_identified": "bone boots",
-            "name_unidentified": "bone boots"
+            "name_identified": "botas de hueso",
+            "name_unidentified": "botas de hueso"
         },
 		"blackiron_boots": {
-            "name_identified": "blackiron boots",
-            "name_unidentified": "blackiron boots"
+            "name_identified": "botas de hierro negro",
+            "name_unidentified": "botas de hierro negro"
         },
 		"silver_boots": {
-            "name_identified": "silver boots",
-            "name_unidentified": "silver boots"
+            "name_identified": "botas de plata",
+            "name_unidentified": "botas de plata"
         },
 		"quilted_boots": {
-            "name_identified": "quilted boots",
-            "name_unidentified": "quilted boots"
+            "name_identified": "botas acolchadas",
+            "name_unidentified": "botas acolchadas"
         },
 		"loafers": {
-            "name_identified": "loafers",
-            "name_unidentified": "loafers"
+            "name_identified": "mocasines",
+            "name_unidentified": "mocasines"
         },
 		"chain_boots": {
-            "name_identified": "chain boots",
-            "name_unidentified": "chain boots"
+            "name_identified": "botas de malla",
+            "name_unidentified": "botas malla"
         },
 		"scutum": {
             "name_identified": "scutum",
             "name_unidentified": "scutum"
         },
 		"bone_shield": {
-            "name_identified": "bone shield",
-            "name_unidentified": "bone shield"
+            "name_identified": "escudo de hueso",
+            "name_unidentified": "escudo hueso"
         },
 		"blackiron_shield": {
-            "name_identified": "blackiron shield",
-            "name_unidentified": "blackiron shield"
+            "name_identified": "escudo de hierro negro",
+            "name_unidentified": "escudo de hierro negro"
         },
 		"silver_shield": {
-            "name_identified": "silver shield",
-            "name_unidentified": "silver shield"
+            "name_identified": "escudo de plata",
+            "name_unidentified": "escudo de plata"
         },
 		"cloak_dendrite": {
-            "name_identified": "dendrite cloak",
-            "name_unidentified": "dendrite cloak"
+            "name_identified": "capa dendrítica",
+            "name_unidentified": "capa dendrítica"
         },
 		"bone_helm": {
-            "name_identified": "bone helm",
-            "name_unidentified": "bone helm"
+            "name_identified": "casco de hueso",
+            "name_unidentified": "casco de hueso"
         },
 		"blackiron_helm": {
-            "name_identified": "blackiron helm",
-            "name_unidentified": "blackiron helm"
+            "name_identified": "casco de hierro negro",
+            "name_unidentified": "casco de hierro negro"
         },
 		"silver_helm": {
-            "name_identified": "silver helm",
-            "name_unidentified": "silver helm"
+            "name_identified": "casco de plata",
+            "name_unidentified": "casco de plata"
         },
 		"hat_felt": {
-            "name_identified": "felt hat",
-            "name_unidentified": "felt hat"
+            "name_identified": "sombrero de fieltro",
+            "name_unidentified": "sombrero de fieltro"
         },
 		"quilted_cap": {
-            "name_identified": "quilted cap",
-            "name_unidentified": "quilted cap"
+            "name_identified": "sombrero acolchado",
+            "name_unidentified": "sombrero acolchado"
         },
 		"hood_teal": {
-            "name_identified": "teal hood",
-            "name_unidentified": "teal hood"
+            "name_identified": "sombrero verde azulado",
+            "name_unidentified": "sombrero verde azulado"
         },
 		"chain_coif": {
-            "name_identified": "chain coif",
-            "name_unidentified": "chain coif"
+            "name_identified": "capucha de malla",
+            "name_unidentified": "capucha de malla"
         },
 		"food_shroom": {
-            "name_identified": "mushroom slice",
-            "name_unidentified": "mushroom slice"
+            "name_identified": "rodaja de champiñones",
+            "name_unidentified": "rodaja de champiñones"
         },
 		"food_nut": {
-            "name_identified": "nut",
-            "name_unidentified": "nut"
+            "name_identified": "nuez",
+            "name_unidentified": "nuez"
         },
 		"tool_foci_snow": {
-			"name_identified": "focus of snow",
-			"name_unidentified": "focus"
+			"name_identified": "foco gélido",
+			"name_unidentified": "foco"
 		},
 		"tool_foci_needles": {
-			"name_identified": "focus of needles",
-			"name_unidentified": "focus"
+			"name_identified": "foco pungente",
+			"name_unidentified": "foco"
 		},
 		"tool_foci_arcs": {
-			"name_identified": "focus of arcs",
-			"name_unidentified": "focus"
+			"name_identified": "foco voltáico",
+			"name_unidentified": "foco"
 		},
 		"tool_foci_sand": {
-			"name_identified": "focus of sandblast",
-			"name_unidentified": "focus"
+			"name_identified": "foco desértico",
+			"name_unidentified": "foco"
 		},
 		"tool_foci_dark_life": {
-			"name_identified": "icon of claim life",
-			"name_unidentified": "icon"
+			"name_identified": "ícono de reclamar vida",
+			"name_unidentified": "ícono"
 		},
 		"tool_foci_dark_rift": {
-			"name_identified": "icon of void rift",
-			"name_unidentified": "icon"
+			"name_identified": "ícono de grieta del vacío",
+			"name_unidentified": "ícono"
 		},
 		"tool_foci_dark_silence": {
-			"name_identified": "icon of silence",
-			"name_unidentified": "icon"
+			"name_identified": "ícono de silencio",
+			"name_unidentified": "ícono"
 		},
 		"tool_foci_dark_vengeance": {
-			"name_identified": "icon of vengeance",
-			"name_unidentified": "icon"
+			"name_identified": "ícono de venganza",
+			"name_unidentified": "ícono"
 		},
 		"tool_foci_dark_suppress": {
-			"name_identified": "icon of suppression",
-			"name_unidentified": "icon"
+			"name_identified": "ícono de supresión",
+			"name_unidentified": "ícono"
 		},
 		"tool_foci_light_peace": {
-			"name_identified": "symbol of peace",
-			"name_unidentified": "symbol"
+			"name_identified": "símbolo de paz",
+			"name_unidentified": "símbolo"
 		},
 		"tool_foci_light_justice": {
-			"name_identified": "symbol of justice",
-			"name_unidentified": "symbol"
+			"name_identified": "símbolo de justicia",
+			"name_unidentified": "símbolo"
 		},
 		"tool_foci_light_providence": {
-			"name_identified": "symbol of providence",
-			"name_unidentified": "symbol"
+			"name_identified": "símbolo de providencia",
+			"name_unidentified": "símbolo"
 		},
 		"tool_foci_light_purity": {
-			"name_identified": "symbol of purity",
-			"name_unidentified": "symbol"
+			"name_identified": "símbolo de pureza",
+			"name_unidentified": "símbolo"
 		},
 		"tool_foci_light_sanctuary": {
-			"name_identified": "symbol of sanctuary",
-			"name_unidentified": "symbol"
+			"name_identified": "símbolo del santuario",
+			"name_unidentified": "símbolo"
 		},
 		"magicstaff_scepter": {
-			"name_identified": "archon scepter",
-			"name_unidentified": "scepter"
+			"name_identified": "cetro de arconte",
+			"name_unidentified": "cetro"
 		},
 		"tome_sorcery": {
-			"name_identified": "tablet",
-			"name_unidentified": "tablet"
+			"name_identified": "tabla",
+			"name_unidentified": "tabla"
 		},
 		"tome_mysticism": {
-			"name_identified": "tablet",
-			"name_unidentified": "tablet"
+			"name_identified": "tabla",
+			"name_unidentified": "tabla"
 		},
 		"tome_thaumaturgy": {
-			"name_identified": "tablet",
-			"name_unidentified": "tablet"
+			"name_identified": "tabla",
+			"name_unidentified": "tabla"
 		},
 		"hat_circlet_sorcery": {
-			"name_identified": "circlet of sorcery",
-			"name_unidentified": "circlet"
+			"name_identified": "diadema de hechicería",
+			"name_unidentified": "diadema"
 		},
 		"hat_circlet_thaumaturgy": {
-			"name_identified": "circlet of thaumaturgy",
-			"name_unidentified": "circlet"
+			"name_identified": "diadema de taumaturgia",
+			"name_unidentified": "diadema"
 		},
 		"tool_duck": {
-			"name_identified": "duck",
-			"name_unidentified": "duck"
+			"name_identified": "pato",
+			"name_unidentified": "pato"
 		},
 		"shillelagh_mace": {
-			"name_identified": "shillelagh",
-			"name_unidentified": "shillelagh"
+			"name_identified": "garrote",
+			"name_unidentified": "garrote"
 		},
 		"claymore_sword": {
-			"name_identified": "claymore",
-			"name_unidentified": "claymore"
+			"name_identified": "mandoble",
+			"name_unidentified": "mandoble"
 		},
 		"anelace_sword": {
 			"name_identified": "anelace",
 			"name_unidentified": "anelace"
 		},
 		"lance_spear": {
-			"name_identified": "lance",
-			"name_unidentified": "lance"
+			"name_identified": "lanza",
+			"name_unidentified": "lanza"
 		},
 		"steel_falshion": {
-			"name_identified": "steel falshion",
-			"name_unidentified": "steel falshion"
+			"name_identified": "bracamante de acero",
+			"name_unidentified": "bracamante de acero"
 		},
 		"steel_greataxe": {
-			"name_identified": "steel greataxe",
-			"name_unidentified": "steel greataxe"
+			"name_identified": "hacha de acero grande",
+			"name_unidentified": "hacha de acero grande"
 		},
 		"blackiron_axe": {
-			"name_identified": "blackiron axe",
-			"name_unidentified": "blackiron axe"
+			"name_identified": "gran hacha de hierro negro",
+			"name_unidentified": "gran hacha de hierro negro"
 		},
 		"blackiron_crossbow": {
-			"name_identified": "blackiron crossbow",
-			"name_unidentified": "blackiron crossbow"
+			"name_identified": "ballesta de hierro negro",
+			"name_unidentified": "ballesta de hierro negro"
 		},
 		"blackiron_dart": {
-			"name_identified": "blackiron dart",
-			"name_unidentified": "blackiron dart"
+			"name_identified": "dardo de hierro negro",
+			"name_unidentified": "dardo de hierro negro"
 		},
 		"blackiron_mace": {
-			"name_identified": "blackiron mace",
-			"name_unidentified": "blackiron mace"
+			"name_identified": "maza de hierro negro",
+			"name_unidentified": "maza de hierro negro"
 		},
 		"blackiron_sword": {
-			"name_identified": "blackiron sword",
-			"name_unidentified": "blackiron sword"
+			"name_identified": "espada de hierro negro",
+			"name_unidentified": "espada de hierro negro"
 		},
 		"blackiron_trident": {
-			"name_identified": "blackiron trident",
-			"name_unidentified": "blackiron trident"
+			"name_identified": "tridente de hierro negro",
+			"name_unidentified": "tridente de hierro negro"
 		},
 		"bone_axe": {
-			"name_identified": "bone axe",
-			"name_unidentified": "bone axe"
+			"name_identified": "hacha de hueso",
+			"name_unidentified": "hacha de hueso"
 		},
 		"bone_mace": {
-			"name_identified": "bone mace",
-			"name_unidentified": "bone mace"
+			"name_identified": "maza de hueso",
+			"name_unidentified": "maza de hueso"
 		},
 		"bone_shortbow": {
-			"name_identified": "bone shortbow",
-			"name_unidentified": "bone shortbow"
+			"name_identified": "arco corto de hueso",
+			"name_unidentified": "arco corto de hueso"
 		},
 		"bone_spear": {
-			"name_identified": "bone spear",
-			"name_unidentified": "bone spear"
+			"name_identified": "lanza de hueso",
+			"name_unidentified": "lanza de hueso"
 		},
 		"bone_sword": {
-			"name_identified": "bone sword",
-			"name_unidentified": "bone sword"
+			"name_identified": "espada de hueso",
+			"name_unidentified": "espada de hueso"
 		},
 		"bone_throwing": {
-			"name_identified": "bone",
-			"name_unidentified": "bone"
+			"name_identified": "hueso",
+			"name_unidentified": "hueso"
 		},
 		"silver_axe": {
-			"name_identified": "silver axe",
-			"name_unidentified": "silver axe"
+			"name_identified": "hacha de plata",
+			"name_unidentified": "hacha de plata"
 		},
 		"silver_glaive": {
-			"name_identified": "silver glaive",
-			"name_unidentified": "silver glaive"
+			"name_identified": "guja de plata",
+			"name_unidentified": "guja de plata"
 		},
 		"silver_mace": {
-			"name_identified": "silver mace",
-			"name_unidentified": "silver mace"
+			"name_identified": "maza de plata",
+			"name_unidentified": "maza de plata"
 		},
 		"silver_plumbata": {
-			"name_identified": "silver plumbata",
-			"name_unidentified": "silver plumbata"
+			"name_identified": "plumbata de plata",
+			"name_unidentified": "plumbata de plata"
 		},
 		"silver_sword": {
-			"name_identified": "silver sword",
-			"name_unidentified": "silver sword"
+			"name_identified": "espada de plata",
+			"name_unidentified": "espada de plata"
 		},
 		"quiver_bone": {
-			"name_identified": "quiver of bone ammo",
-			"name_unidentified": "quiver"
+			"name_identified": "carcaj de flechas de hueso",
+			"name_unidentified": "carcaj"
 		},
 		"quiver_blackiron": {
-			"name_identified": "quiver of blackiron ammo",
-			"name_unidentified": "quiver"
+			"name_identified": "carcaj de flechas de hierro negro",
+			"name_unidentified": "carcaj"
 		},
 		"gem_jewel": {
-			"name_identified": "jewel",
-			"name_unidentified": "jewel"
+			"name_identified": "joya",
+			"name_unidentified": "joya"
 		},
 		"spellbook_meteor": {
-            "name_identified": "spellbook of meteor",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de meteorito",
+            "name_unidentified": "grimorio"
         },
         "spellbook_ice_wave": {
-            "name_identified": "spellbook of ice wave",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de onda de gélida",
+            "name_unidentified": "grimorio"
         },
         "spellbook_guard_body": {
-            "name_identified": "spellbook of guard body",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de protección corporal",
+            "name_unidentified": "grimorio"
         },
         "spellbook_guard_spirit": {
-            "name_identified": "spellbook of guard spirit",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de protección espiritual",
+            "name_unidentified": "grimorio"
         },
         "spellbook_divine_guard": {
-            "name_identified": "spellbook of divine guard",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de protección divina",
+            "name_unidentified": "grimorio"
         },
         "spellbook_prof_nimbleness": {
-            "name_identified": "spellbook of nimbleness",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de ligereza",
+            "name_unidentified": "grimorio"
         },
         "spellbook_prof_greater_might": {
-            "name_identified": "spellbook of greater might",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de fuerza mayor",
+            "name_unidentified": "grimorio"
         },
         "spellbook_prof_counsel": {
-            "name_identified": "spellbook of counsel",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de consejo",
+            "name_unidentified": "grimorio"
         },
         "spellbook_prof_sturdiness": {
-            "name_identified": "spellbook of sturdiness",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de robustez",
+            "name_unidentified": "grimorio"
         },
         "spellbook_bless_food": {
-            "name_identified": "spellbook of blessed meals",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de bendecir alimento",
+            "name_unidentified": "grimorio"
         },
         "spellbook_pinpoint": {
-            "name_identified": "spellbook of pinpoint",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de localizar",
+            "name_unidentified": "grimorio"
         },
         "spellbook_donation": {
-            "name_identified": "spellbook of donation",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de donación",
+            "name_unidentified": "grimorio"
         },
         "spellbook_scry_allies": {
-            "name_identified": "spellbook of scry allies",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de vislumbrar aliados",
+            "name_unidentified": "grimorio"
         },
         "spellbook_scry_traps": {
-            "name_identified": "spellbook of scry traps",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de vislumbrar trampas",
+            "name_unidentified": "grimorio"
         },
         "spellbook_scry_treasures": {
-            "name_identified": "spellbook of scry treasures",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de vislumbrar tesoros",
+            "name_unidentified": "grimorio"
         },
         "spellbook_detect_enemy": {
-            "name_identified": "spellbook of detect enemy",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de detectar enemigo",
+            "name_unidentified": "grimorio"
         },
         "spellbook_turn_undead": {
-            "name_identified": "spellbook of exorcise",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de exorcizar",
+            "name_unidentified": "grimorio"
         },
         "spellbook_heal_other": {
-            "name_identified": "spellbook of minor heal other",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de curación menor a otros",
+            "name_unidentified": "grimorio"
         },
         "spellbook_blood_ward": {
-            "name_identified": "spellbook of blood ward",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de protección sanguínea",
+            "name_unidentified": "grimorio"
         },
         "spellbook_divine_zeal": {
-            "name_identified": "spellbook of divine zeal",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de fervor divino",
+            "name_unidentified": "grimorio"
         },
         "spellbook_maximise": {
-            "name_identified": "spellbook of maximise",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de maximizar",
+            "name_unidentified": "grimorio"
         },
         "spellbook_minimise": {
-            "name_identified": "spellbook of minimise",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de minimizar",
+            "name_unidentified": "grimorio"
         },
         "spellbook_incoherence": {
-            "name_identified": "spellbook of incoherence",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de incoherencia",
+            "name_unidentified": "grimorio"
         },
         "spellbook_overcharge": {
-            "name_identified": "spellbook of overcharge",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de sobrecarga",
+            "name_unidentified": "grimorio"
         },
         "spellbook_envenom_weapon": {
-            "name_identified": "spellbook of envenom weapon",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de envenenar arma",
+            "name_unidentified": "grimorio"
         },
         "spellbook_psychic_spear": {
-            "name_identified": "spellbook of psychic spear",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de lanza psíquica",
+            "name_unidentified": "grimorio"
         },
         "spellbook_defy_flesh": {
-            "name_identified": "spellbook of defy flesh",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de profanar cuerpo",
+            "name_unidentified": "grimorio"
         },
         "spellbook_grease_spray": {
-            "name_identified": "spellbook of grease spray",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de ráfaga de grasa",
+            "name_unidentified": "grimorio"
         },
         "spellbook_blood_waves": {
-            "name_identified": "spellbook of blood waves",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de ondas sanguíneas",
+            "name_unidentified": "grimorio"
         },
         "spellbook_command": {
-            "name_identified": "spellbook of compel",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de obligar",
+            "name_unidentified": "grimorio"
         },
         "spellbook_metallurgy": {
-            "name_identified": "spellbook of metallurgy",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de metalurgia",
+            "name_unidentified": "grimorio"
         },
         "spellbook_forge_key": {
-            "name_identified": "spellbook of forge key",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de forjar llave",
+            "name_unidentified": "grimorio"
         },
         "spellbook_reshape_weapon": {
-            "name_identified": "spellbook of reshape weapon",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de reformar arma",
+            "name_unidentified": "grimorio"
         },
         "spellbook_alter_arrow": {
-            "name_identified": "spellbook of alter arrow",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de alterar flecha",
+            "name_unidentified": "grimorio"
         },
         "spellbook_void_chest": {
-            "name_identified": "spellbook of void chest",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de arca del vacío",
+            "name_unidentified": "grimorio"
         },
         "spellbook_lead_bolt": {
-            "name_identified": "spellbook of lead bolt",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de rayo de plomo",
+            "name_unidentified": "grimorio"
         },
         "spellbook_numbing_bolt": {
-            "name_identified": "spellbook of numbing bolt",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de rayo adormecedor",
+            "name_unidentified": "grimorio"
         },
         "spellbook_curse_flesh": {
-            "name_identified": "spellbook of curse flesh",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de maldecir cuerpo",
+            "name_unidentified": "grimorio"
         },
         "spellbook_cowardice": {
-            "name_identified": "spellbook of cowardice",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de cobardía",
+            "name_unidentified": "grimorio"
         },
         "spellbook_seek_ally": {
-            "name_identified": "spellbook of seek ally",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de localizar aliado",
+            "name_unidentified": "grimorio"
         },
         "spellbook_deep_shade": {
-            "name_identified": "spellbook of deep shade",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de sombra profunda",
+            "name_unidentified": "grimorio"
         },
         "spellbook_spirit_weapon": {
-            "name_identified": "spellbook of spirit weapon",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de arma espiritual",
+            "name_unidentified": "grimorio"
         },
         "spellbook_spores": {
-            "name_identified": "spellbook of spores",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de esporas",
+            "name_unidentified": "grimorio"
         },
         "spellbook_windgate": {
-            "name_identified": "spellbook of windgate",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de muro de viento",
+            "name_unidentified": "grimorio"
         },
         "spellbook_telekinesis": {
-            "name_identified": "spellbook of telekinesis",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de telequinesis",
+            "name_unidentified": "grimorio"
         },
         "spellbook_disarm": {
-            "name_identified": "spellbook of disarm",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de desarmar",
+            "name_unidentified": "grimorio"
         },
         "spellbook_abundance": {
-            "name_identified": "spellbook of abundance",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de abundancia",
+            "name_unidentified": "grimorio"
         },
         "spellbook_preserve": {
-            "name_identified": "spellbook of preserve",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de preservar",
+            "name_unidentified": "grimorio"
         },
         "spellbook_sabotage": {
-            "name_identified": "spellbook of sabotage",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de sabotaje",
+            "name_unidentified": "grimorio"
         },
         "spellbook_mist_form": {
-            "name_identified": "spellbook of mist form",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de forma gaseosa",
+            "name_unidentified": "grimorio"
         },
         "spellbook_force_shield": {
-            "name_identified": "spellbook of kinetic defense",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de defensa cinética",
+            "name_unidentified": "grimorio"
         },
         "spellbook_splinter_gear": {
-            "name_identified": "spellbook of splinter armor",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de destrozar armadura",
+            "name_unidentified": "grimorio"
         },
         "spellbook_attract_items": {
-            "name_identified": "spellbook of attract items",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de atraer objetos",
+            "name_unidentified": "grimorio"
         },
         "spellbook_absorb_magic": {
-            "name_identified": "spellbook of absorb magic",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de absorber magia",
+            "name_unidentified": "grimorio"
         },
         "spellbook_tunnel": {
-            "name_identified": "spellbook of portal",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de portal",
+            "name_unidentified": "grimorio"
         },
         "spellbook_null_area": {
-            "name_identified": "spellbook of null area",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de anular área",
+            "name_unidentified": "grimorio"
         },
         "spellbook_fire_sprite": {
-            "name_identified": "spellbook of summon fire sprite",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de invocar sílfide ígnea",
+            "name_unidentified": "grimorio"
         },
         "spellbook_spin": {
-            "name_identified": "spellbook of spin",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de giro",
+            "name_unidentified": "grimorio"
         },
         "spellbook_cleanse_food": {
-            "name_identified": "spellbook of cleanse food",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de purificar alimento",
+            "name_unidentified": "grimorio"
         },
         "spellbook_flame_cloak": {
-            "name_identified": "spellbook of flame cloak",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de capa ígneo",
+            "name_unidentified": "grimorio"
         },
         "spellbook_lightning_bolt": {
-            "name_identified": "spellbook of lightning bolt",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de destello de relámpago",
+            "name_unidentified": "grimorio"
         },
         "spellbook_disrupt_earth": {
-            "name_identified": "spellbook of disrupt earth",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de fractura terrenal",
+            "name_unidentified": "grimorio"
         },
         "spellbook_fire_wall": {
-            "name_identified": "spellbook of fire wall",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de muro ardiente",
+            "name_unidentified": "grimorio"
         },
         "spellbook_slam": {
-            "name_identified": "spellbook of lift",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de elevar",
+            "name_unidentified": "grimorio"
         },
         "spellbook_ignite": {
-            "name_identified": "spellbook of ignite",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de incendiar",
+            "name_unidentified": "grimorio"
         },
         "spellbook_shatter_objects": {
-            "name_identified": "spellbook of shatter objects",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de destruir objetos",
+            "name_unidentified": "grimorio"
         },
         "spellbook_kinetic_field": {
-            "name_identified": "spellbook of kinetic field",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de campo cinético",
+            "name_unidentified": "grimorio"
         },
         "spellbook_thorns": {
-            "name_identified": "spellbook of thorns",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de espinas",
+            "name_unidentified": "grimorio"
         },
         "spellbook_magicians_armor": {
-            "name_identified": "spellbook of magicians' bubble",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de burbuja del mago",
+            "name_unidentified": "grimorio"
         },
         "spellbook_heal_minor": {
-            "name_identified": "spellbook of minor heal",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de curación menor",
+            "name_unidentified": "grimorio"
         },
         "spellbook_sigil": {
-            "name_identified": "spellbook of holy sigil",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de sello sagrado",
+            "name_unidentified": "grimorio"
         },
         "spellbook_sanctuary": {
-            "name_identified": "spellbook of divine fortress",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de fortaleza divina",
+            "name_unidentified": "grimorio"
         },
         "spellbook_holy_beam": {
-            "name_identified": "spellbook of holy beam",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de haz sagrado",
+            "name_unidentified": "grimorio"
         },
 		"spellbook_dominate": {
-            "name_identified": "spellbook of dominate",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de dominar",
+            "name_unidentified": "grimorio"
         }
     },
 	"spell_names": {
@@ -2280,460 +2280,460 @@
 			"name": "Rocío de Cieno (Metal)"
 		},
 		"spell_foci_fire": {
-			"name": "Focus of Flames"
+			"name": "Foco Ígneo"
 		},
 		"spell_foci_snow": {
-			"name": "Focus of Snow"
+			"name": "Foco Gélido"
 		},
 		"spell_foci_needles": {
-			"name": "Focus of Needles"
+			"name": "Foco Pungente"
 		},
 		"spell_foci_arcs": {
-			"name": "Focus of Arcs"
+			"name": "Foco Voláico"
 		},
 		"spell_foci_sandblast": {
-			"name": "Focus of Sandblast"
+			"name": "Foco Desértico"
 		},
 		"spell_meteor": {
-			"name": "Meteor"
+			"name": "Meteorito"
 		},
 		"spell_flames": {
-			"name": "Flames"
+			"name": "Llamas"
 		},
 		"spell_ice_wave": {
-			"name": "Ice Wave"
+			"name": "Onda de Gélida"
 		},
 		"spell_earth_elemental": {
-			"name": "Summon Earth Sprite"
+			"name": "Invocar Sílfide Pétrea"
 		},
 		"spell_bless_food": {
-			"name": "Blessed Meals"
+			"name": "Bendecir Alimento"
 		},
 		"spell_shrub": {
-			"name": "Germinate"
+			"name": "Germinar"
 		},
 		"spell_conjure_food": {
-			"name": "Conjure Food"
+			"name": "Conjurar Alimento"
 		},
 		"spell_guard_body": {
-			"name": "Guard Body"
+			"name": "Protección Corporal"
 		},
 		"spell_guard_spirit": {
-			"name": "Guard Spirit"
+			"name": "Protección Espiritual"
 		},
 		"spell_divine_guard": {
-			"name": "Divine Guard"
+			"name": "Protección Divina"
 		},
 		"spell_prof_nimbleness": {
-			"name": "Nimbleness"
+			"name": "Ligereza"
 		},
 		"spell_prof_greater_might": {
-			"name": "Greater Might"
+			"name": "Fuerza Mayor"
 		},
 		"spell_prof_counsel": {
-			"name": "Counsel"
+			"name": "Consejo"
 		},
 		"spell_prof_sturdiness": {
-			"name": "Sturdiness"
+			"name": "Robustez"
 		},
 		"spell_pinpoint": {
-			"name": "Pinpoint"
+			"name": "Localizar"
 		},
 		"spell_donation": {
-			"name": "Donation"
+			"name": "Donación"
 		},
 		"spell_scry_allies": {
-			"name": "Scry Allies"
+			"name": "Vislumbrar Aliados"
 		},
 		"spell_scry_shrines": {
-			"name": "Scry Shrines"
+			"name": "Vislumbrar Santuarios"
 		},
 		"spell_scry_traps": {
-			"name": "Scry Traps"
+			"name": "Vislumbrar Trampas"
 		},
 		"spell_scry_treasures": {
-			"name": "Scry Treasures"
+			"name": "Vislumbrar Tesoros"
 		},
 		"spell_penance": {
-			"name": "Penance"
+			"name": "Penitencia"
 		},
 		"spell_call_allies": {
-			"name": "Call Allies"
+			"name": "Llamar a los Aliados"
 		},
 		"spell_sacred_path": {
-			"name": "Sacred Path"
+			"name": "Camino Sagrado"
 		},
 		"spell_manifest_destiny": {
-			"name": "Manifest Destiny"
+			"name": "Manifiestar Destino"
 		},
 		"spell_detect_enemy": {
-			"name": "Detect Enemy"
+			"name": "Detectar Enemigo"
 		},
 		"spell_detect_enemies": {
-			"name": "Detect Enemies"
+			"name": "Detectar Enemigos"
 		},
 		"spell_turn_undead": {
-			"name": "Exorcise"
+			"name": "Exorcizar"
 		},
 		"spell_heal_other": {
-			"name": "Minor Heal Other"
+			"name": "Curación Menor a Otros"
 		},
 		"spell_blood_ward": {
-			"name": "Blood Ward"
+			"name": "Protección Sanguínea"
 		},
 		"spell_true_blood": {
-			"name": "True Blood"
+			"name": "Purasangre"
 		},
 		"spell_divine_zeal": {
-			"name": "Divine Zeal"
+			"name": "Fervor Divino"
 		},
 		"spell_alter_instrument": {
-			"name": "Alter Instrument"
+			"name": "Alterar Instrumento"
 		},
 		"spell_maximise": {
-			"name": "Maximise"
+			"name": "Maximizar"
 		},
 		"spell_minimise": {
-			"name": "Minimise"
+			"name": "Minimizar"
 		},
 		"spell_jump": {
-			"name": "Jump"
+			"name": "Salto Mágico"
 		},
 		"spell_incoherence": {
-			"name": "Incoherence"
+			"name": "Incoherencia"
 		},
 		"spell_overcharge": {
-			"name": "Overcharge"
+			"name": "Sobrecarga"
 		},
 		"spell_envenom_weapon": {
-			"name": "Envenom Weapon"
+			"name": "Envenenar Arma"
 		},
 		"spell_psychic_spear": {
-			"name": "Psychic Spear"
+			"name": "Lanza Psíquica"
 		},
 		"spell_defy_flesh": {
-			"name": "Defy Flesh"
+			"name": "Profanar Cuerpo"
 		},
 		"spell_grease_spray": {
-			"name": "Grease Spray"
+			"name": "Ráfaga de Grasa"
 		},
 		"spell_blood_waves": {
-			"name": "Blood Waves"
+			"name": "Ondas Sanguíneas"
 		},
 		"spell_booby_trap": {
-			"name": "Booby Trap"
+			"name": "Trampa"
 		},
 		"spell_command": {
-			"name": "Compel"
+			"name": "Obligar"
 		},
 		"spell_metallurgy": {
-			"name": "Metallurgy"
+			"name": "Metalurgia"
 		},
 		"spell_geomancy": {
-			"name": "Geomancy"
+			"name": "Geomancia"
 		},
 		"spell_forge_key": {
-			"name": "Forge Key"
+			"name": "Forjar Llave"
 		},
 		"spell_forge_jewel": {
-			"name": "Forge Jewel"
+			"name": "Forjar Joya"
 		},
 		"spell_enhance_weapon": {
-			"name": "Enhance Weapon"
+			"name": "Potenciar Arma"
 		},
 		"spell_reshape_weapon": {
-			"name": "Reshape Weapon"
+			"name": "Reformar Arma"
 		},
 		"spell_alter_arrow": {
-			"name": "Alter Arrow"
+			"name": "Alterar Flecha"
 		},
 		"spell_void_chest": {
-			"name": "Void Chest"
+			"name": "Arca del Vacío"
 		},
 		"spell_puncture_void": {
-			"name": "Puncture Void"
+			"name": "Perforar Vacío"
 		},
 		"spell_lead_bolt": {
-			"name": "Lead Bolt"
+			"name": "Rayo de Plomo"
 		},
 		"spell_mercury_bolt": {
-			"name": "Mercury Bolt"
+			"name": "Rayo de Mercurio"
 		},
 		"spell_numbing_bolt": {
-			"name": "Numbing Bolt"
+			"name": "Rayo Adormecedor"
 		},
 		"spell_delay_pain": {
-			"name": "Delay Pain"
+			"name": "Posponer Dolor"
 		},
 		"spell_curse_flesh": {
-			"name": "Curse Flesh"
+			"name": "Maldecir Cuerpo"
 		},
 		"spell_revenant_curse": {
-			"name": "Revenant Curse"
+			"name": "Maldición Espectral"
 		},
 		"spell_cowardice": {
-			"name": "Cowardice"
+			"name": "Cobardía"
 		},
 		"spell_courage": {
-			"name": "Courage"
+			"name": "Coraje"
 		},
 		"spell_seek_ally": {
-			"name": "Seek Ally"
+			"name": "Localizar Aliado"
 		},
 		"spell_seek_foe": {
-			"name": "Seek Foe"
+			"name": "Localizar Enemigo"
 		},
 		"spell_deep_shade": {
-			"name": "Deep Shade"
+			"name": "Sombra Profunda"
 		},
 		"spell_shade_bolt": {
-			"name": "Shade Bolt"
+			"name": "Rayo Sombrío"
 		},
 		"spell_spirit_weapon": {
-			"name": "Spirit Weapon"
+			"name": "Arma Espiritual"
 		},
 		"spell_adorcism": {
-			"name": "Adorcism"
+			"name": "Sacralizar"
 		},
 		"spell_taboo": {
-			"name": "Scapegoat"
+			"name": "Chivo Expiatorio"
 		},
 		"spell_wonderlight": {
-			"name": "Wonderlight"
+			"name": "Luz Deslumbrante"
 		},
 		"spell_spores": {
-			"name": "Spores"
+			"name": "Esporas"
 		},
 		"spell_spore_bomb": {
-			"name": "Spore Bomb"
+			"name": "Bomba de Esporas"
 		},
 		"spell_windgate": {
-			"name": "Windgate"
+			"name": "Muro de Viento"
 		},
 		"spell_vortex": {
-			"name": "Vortex"
+			"name": "Vórtice"
 		},
 		"spell_telekinesis": {
-			"name": "Telekinesis"
+			"name": "Telequinesis"
 		},
 		"spell_kinetic_push": {
-			"name": "Kinetic Push"
+			"name": "Empuje Cinético"
 		},
 		"spell_disarm": {
-			"name": "Disarm"
+			"name": "Desarmar"
 		},
 		"spell_strip": {
-			"name": "Strip"
+			"name": "Desnudar"
 		},
 		"spell_abundance": {
-			"name": "Abundance"
+			"name": "Abundancia"
 		},
 		"spell_greater_abundance": {
-			"name": "Greater Abundance"
+			"name": "Gran Abundancia"
 		},
 		"spell_preserve": {
-			"name": "Preserve"
+			"name": "Preservar"
 		},
 		"spell_restore": {
-			"name": "Restore"
+			"name": "Restaurar"
 		},
 		"spell_sabotage": {
-			"name": "Sabotage"
+			"name": "Sabotaje"
 		},
 		"spell_harvest_trap": {
-			"name": "Harvest Trap"
+			"name": "Cosechar Trampa"
 		},
 		"spell_mist_form": {
-			"name": "Mist Form"
+			"name": "Forma Gaseosa"
 		},
 		"spell_hologram": {
-			"name": "Hologram"
+			"name": "Holograma"
 		},
 		"spell_force_shield": {
-			"name": "Kinetic Defense"
+			"name": "Defensa Cinética"
 		},
 		"spell_reflector": {
 			"name": "Reflector"
 		},
 		"spell_splinter_gear": {
-			"name": "Splinter Armor"
+			"name": "Destrozar Armadura"
 		},
 		"spell_lighten_load": {
-			"name": "Lighten Load"
+			"name": "Carga Reducida"
 		},
 		"spell_attract_items": {
-			"name": "Attract Items"
+			"name": "Atraer Objetos"
 		},
 		"spell_return_items": {
-			"name": "Return Items"
+			"name": "Retornar Objetos"
 		},
 		"spell_absorb_magic": {
-			"name": "Absorb Magic"
+			"name": "Absorber Magia"
 		},
 		"spell_seize_magic": {
-			"name": "Seize Magic"
+			"name": "Apresar Magia"
 		},
 		"spell_deface": {
-			"name": "Deface"
+			"name": "Profanar"
 		},
 		"spell_sunder_monument": {
-			"name": "Sunder Monument"
+			"name": "Hendir Monumento"
 		},
 		"spell_demesne_door": {
-			"name": "Demesne Door"
+			"name": "Umbral del Dominio"
 		},
 		"spell_tunnel": {
 			"name": "Portal"
 		},
 		"spell_null_area": {
-			"name": "Null Area"
+			"name": "Anular Área"
 		},
 		"spell_sphere_silence": {
-			"name": "Sphere of Silence"
+			"name": "Esfera del Silencio"
 		},
 		"spell_forge_metal_scrap": {
-			"name": "Forge Metal"
+			"name": "Forja Metal"
 		},
 		"spell_forge_magic_scrap": {
-			"name": "Forge Magic"
+			"name": "Forjar Magia"
 		},
 		"spell_fire_sprite": {
-			"name": "Summon Fire Sprite"
+			"name": "Invocar Sílfide Ígnea"
 		},
 		"spell_flame_elemental": {
-			"name": "Flame Elemental"
+			"name": "Elemental Ígneo"
 		},
 		"spell_spin": {
-			"name": "Spin"
+			"name": "Giro"
 		},
 		"spell_dizzy": {
-			"name": "Dizzy"
+			"name": "Mareo"
 		},
 		"spell_vandalise": {
-			"name": "Vandalise"
+			"name": "Vandalizar"
 		},
 		"spell_desecrate": {
-			"name": "Desecrate"
+			"name": "Profanar"
 		},
 		"spell_sanctify": {
-			"name": "Sanctify"
+			"name": "Santificar"
 		},
 		"spell_sanctify_water": {
-			"name": "Sanctify Water"
+			"name": "Santificar Agua"
 		},
 		"spell_cleanse_food": {
-			"name": "Cleanse Food"
+			"name": "Purificar Alimento"
 		},
 		"spell_adorcise_instrument": {
-			"name": "Adorcise Instrument"
+			"name": "Sacralizar Instrumento"
 		},
 		"spell_flame_cloak": {
-			"name": "Flame Cloak"
+			"name": "Capa Ígneo"
 		},
 		"spell_critical_spell": {
-			"name": "Critical Spell"
+			"name": "Conjuro Crítico"
 		},
 		"spell_magic_well": {
-			"name": "Magic Well"
+			"name": "Pozo Mágico"
 		},
 		"spell_flame_shield": {
-			"name": "Flame Shield"
+			"name": "Escudo Ígneo"
 		},
 		"spell_lightning_bolt": {
-			"name": "Lightning Bolt"
+			"name": "Destello de Relámpago"
 		},
 		"spell_disrupt_earth": {
-			"name": "Disrupt Earth"
+			"name": "Fractura Terrenal"
 		},
 		"spell_earth_spines": {
-			"name": "Earth Spines"
+        "name": "Espinas Terrenales"
 		},
 		"spell_lightning_nexus": {
-			"name": "Lightning Nexus"
+			"name": "Nexo Relámpago"
 		},
 		"spell_fire_wall": {
-			"name": "Fire Wall"
+			"name": "Muro Ardiente"
 		},
 		"spell_lift": {
-			"name": "Lift"
+			"name": "Elevar"
 		},
 		"spell_slam": {
-			"name": "Lift"
+			"name": "Elevar"
 		},
 		"spell_ignite": {
-			"name": "Ignite"
+			"name": "Incendiar"
 		},
 		"spell_shatter_objects": {
-			"name": "Shatter Objects"
+			"name": "Destruir Objetos"
 		},
 		"spell_kinetic_field": {
-			"name": "Kinetic Field"
+			"name": "Campo Cinético"
 		},
 		"spell_ice_block": {
-			"name": "Ice Block"
+			"name": "Bloque de Hielo"
 		},
 		"spell_meteor_shower": {
-			"name": "Meteor Shower"
+			"name": "Lluvia de Meteoritos"
 		},
 		"spell_chronomic_field": {
-			"name": "Chronomic Field"
+			"name": "Campo Cronómico"
 		},
 		"spell_eternals_gaze": {
-			"name": "Eternals' Gaze"
+			"name": "Eterna Mirada"
 		},
 		"spell_shatter_earth": {
-			"name": "Shatter Earth"
+			"name": "Destruir la Tierra"
 		},
 		"spell_roots": {
-			"name": "Roots"
+			"name": "Arraigo"
 		},
 		"spell_mushroom": {
-			"name": "Germinate"
+			"name": "Germinar"
 		},
 		"spell_mycelium": {
-			"name": "Mycelium"
+			"name": "Micelio"
 		},
 		"spell_mycelium_spores": {
-			"name": "Mycelium Spores"
+			"name": "Esporas de Micelio"
 		},
 		"spell_heal_pulse": {
-			"name": "Heal Pulse"
+			"name": "Pulso Curativo"
 		},
 		"spell_thorns": {
-			"name": "Thorns"
+			"name": "Espinas"
 		},
 		"spell_bladevines": {
-			"name": "Bladevines"
+			"name": "Liana Cortante"
 		},
 		"spell_bastion_mushroom": {
-			"name": "Bastion"
+			"name": "Bastión"
 		},
 		"spell_bastion_roots": {
-			"name": "Bastion"
+			"name": "Bastión"
 		},
 		"spell_magicians_armor": {
-			"name": "Magicians' Bubble"
+			"name": "Burbuja del Mago"
 		},
 		"spell_project_spirit": {
-			"name": "Project Spirit"
+			"name": "Proyectar Espíritu"
 		},
 		"spell_breathe_fire": {
-			"name": "Breathe Fire"
+			"name": "Respirar Fuego"
 		},
 		"spell_heal_minor": {
-			"name": "Minor Heal"
+			"name": "Curación Menor"
 		},
 		"spell_holy_fire": {
-			"name": "Holy Fire"
+			"name": "Fuego Santo"
 		},
 		"spell_sigil": {
-			"name": "Holy Sigil"
+			"name": "Sello Sagrado"
 		},
 		"spell_sanctuary": {
-			"name": "Divine Fortress"
+			"name": "Fortaleza Divina"
 		},
 		"spell_holy_beam": {
-			"name": "Holy Beam"
+			"name": "Haz Sagrado"
 		}
     }
 }
