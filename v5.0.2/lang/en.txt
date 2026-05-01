@@ -125,52 +125,52 @@
 
 # monster names
 
-90 nada#
-91 humano#
-92 rata#
-93 trasgo#
-94 cieno#
-95 troll#
-96 pulpo#
-97 arácnido#
-98 necrófago#
-99 esqueleto#
-100 escorpión#
-101 diablillo#
-102 osgo#
-103 gnomo#
-104 demonio#
-105 súcubo#
-106 mimeto#
-107 liche#
-108 minotauro#
-109 diablo#
-110 comerciante#
+90 Nada#
+91 Humano#
+92 Rata#
+93 Trasgo#
+94 Cieno#
+95 Troll#
+96 Murciélago#
+97 Arácnido#
+98 Necrófago#
+99 Esqueleto#
+100 Escorpión#
+101 Diablillo#
+102 Osgo#
+103 Gnomo#
+104 Demonio#
+105 Súcubo#
+106 Mimeto#
+107 Liche#
+108 Minotauro#
+109 Diablo#
+110 Comerciante#
 
 
 # monster names (plural)
 
-111 nada#
-112 humanos#
-113 ratas#
-114 trasgos# 
-115 cienos#
-116 trolls#
-117 pulpos#
-118 arácnidos#
-119 necrófagos#
-120 esqueletos#
-121 escorpiones#
-122 diablillos#
-123 osgos# 
-124 gnomos#
-125 demonios#
-126 súcubos#
-127 mimetos#
-128 liches#
-129 minotauros#
-130 diablos#
-131 comerciantes#
+111 Nada#
+112 Humanos#
+113 Ratas#
+114 Trasgos# 
+115 Cienos#
+116 Trolls#
+117 Murciélagos#
+118 Arácnidos#
+119 Necrófagos#
+120 Esqueletos#
+121 Escorpiones#
+122 Diablillos#
+123 Osgos# 
+124 Gnomos#
+125 Demonios#
+126 Súcubos#
+127 Mimetos#
+128 Liches#
+129 Minotauros#
+130 Diablos#
+131 Comerciantes#
 
 
 # injury types
