@@ -137,7 +137,7 @@
 99 Esqueleto#
 100 Escorpión#
 101 Diablillo#
-102 Osgo#
+102 Cangrejo#
 103 Gnomo#
 104 Demonio#
 105 Súcubo#
@@ -162,7 +162,7 @@
 120 Esqueletos#
 121 Escorpiones#
 122 Diablillos#
-123 Osgos# 
+123 Cangrejos# 
 124 Gnomos#
 125 Demonios#
 126 Súcubos#
@@ -5925,10 +5925,10 @@ serán recargados.#
 Actualización#
 5922 Subir Nuevo
 Mod de Workshop#
-5923 Sin nuevos archivos seleccionados:
-solo etiqueta/versión será modificada.#
+5923 Sin nuevos archivos elegidos:
+solo tag/versión se modificará.#
 5924 Serán subidos nuevos archivos y
-etiqueta/versión serán modificadas.#
+la versión se modificará.#
 5925 Continuar#
 5926 Cancelar#
 5927 Empezando Subida#
@@ -6337,880 +6337,880 @@ Semilla para participar.#
 6171 Desbloquea el Logro:
 "%s"
 para jugar esta clase.#
-6172 
-Magic Required: %d (%s)#
-6173 Dungeon Floor:#
-6174 Denizens#
-6175 Items#
-6176 Magic#
-6177 World#
-6178 Codex#
-6179 PREV ENTRY: #
-6180 NEXT ENTRY: #
-6181 %d of %d#
-6182 CONTENTS#
-6183 New Entry!#
-6184 Achievements#
-6185 RECORDS#
-6186 RECIPE CHART#
-6187 USAGE TIPS#
-6188 DETAILS#
-6189 STATS#
-6190 LVL #
-6191 DAMAGE TYPE EFFECTIVENESS:#
-6192 ABILITIES:#
-6193 INVENTORY:#
-6194 LORE POINTS AVAILABLE#
-6195 SORT ALPHABETICAL#
-6196 HIDE UNDISCOVERED#
-6197 ATK:#
-6198 PWR:#
+6172 Magia requerida: %d (%s)#
+
+6173 Piso de Mazmorra:#
+6174 Habitantes#
+6175 Objetos#
+6176 Magia#
+6177 Mundo#
+6178 Códice#
+6179 ENTRADA ANT.: #
+6180 ENTRADA SIG.: #
+6181 %d de %d#
+6182 CONTENIDO#
+6183 ¡Nueva entrada!#
+6184 Logros#
+6185 RÉCORDS#
+6186 TABLA DE RECETAS#
+6187 CONSEJOS DE USO#
+6188 DETALLES#
+6189 ESTADÍSTICAS#
+6190 NVL#
+6191 EFECTIVIDAD DE TIPO DE DAÑO:#
+6192 HABILIDADES:#
+6193 INVENTARIO:#
+6194 PUNTOS DE HISTORIA DISPONIBLES#
+6195 ORDENAR ALFABÉTICAMENTE#
+6196 OCULTAR NO DESCUBIERTOS#
+6197 ATQ:#
+6198 PDR:#
 6199 HP:#
-6200 AC:#
-6201 SPD:#
-6202 HUMANOID#
-6203 BEASTFOLK#
-6204 BEAST#
-6205 UNDEAD#
-6206 DEMONIC#
-6207 CONSTRUCT#
+6200 CA:#
+6201 VEL:#
+6202 HUMANOIDE#
+6203 BESTIAL#
+6204 BESTIA#
+6205 NO MUERTO#
+6206 DEMONÍACO#
+6207 CONSTRUCTO#
 6208 ELEMENTAL#
 6209 PTS#
-6210 TOTAL COMPLETION#
-6211 RESEARCH#
-6212 SHOP SIGNS#
-# breakables
-6213 jar#
-6214 basket#
-6215 casket#
-6216 cage#
-6217 urn#
-6218 sack#
-6219 sarcophagus#
-6220 pot#
-6221 cart#
-6222 pallet#
-6223 crate#
-6224 tent#
-6225 reliquary#
-6226 bulb#
-6227 iron maiden#
-6228 wheelbarrow#
-6229 crystal#
-6230 cabinet#
-6231 capsule#
-6232 barrel#
-6233 stump#
-6234 A %s jumps out from the %s!#
-6235 You are knocked back by a torrent!#
-6236 You are sprayed with grease!#
-6237 You are sprayed with magma!#
-6238 %s is sprayed with burning magma!#
-6239 The %s is sprayed with burning magma!#
-6240 %s is sprayed with corrosive sludge!#
-6241 The %s is sprayed with corrosive sludge!#
-6242 You are sprayed with corrosive sludge!#
-6243 %s is sprayed with grease!#
-6244 The %s is sprayed with grease!#
-6245 Your hands become slippery!#
-6246 Your shield slips through your fingers!#
-6247 SORT BY LOCKED FIRST#
-6248 A %s jumps out!#
-6249 Miss!#
-6250 STATS (HARDCORE)#
-6251 Open Compendium#
-6252 A nearby bat awakens!#
-6253 Some %s jump out from the %s!#
-6254 was fangoriously drained by a bat.#
-6255 gets roughhoused by a bugbear.#
-6256 bugbear#
-6257 bugbears#
-6258 strikes#
-6259 *grunt*#
-6260 You see a shrine of Daedalus.#
-6261 Daedalus shrine#
-6262 Touch Daedalus shrine#
-6263 You are hurt attacking the %s!#
-6264 You are hurt attacking %s!#
-6265 The gnomes' allies cower in fear!#
-6266 Not enough Lore Points available.
-Unlock Achievements to earn more!#
-6267 The exit is revealed!#
-6268 You pull the rope...#
-6269 bell#
-6270 bell#
-6271 Ring bell#
-6272 Something was lodged inside the bell!#
-6273 This bell is broken!#
-6274 But nothing happens.#
-6275 The bell comes crashing down!#
-6276 You are struck by a falling bell!#
-6277 gets their bell rung.#
-6278 Bell#
-6279 The clapper breaks off!#
-6280 The chime invigorates your %s!#
-6281 strength#
-6282 stamina#
-6283 agility#
-6284 mentality#
-6285 The minotaur is nigh, hurry!#
-6286 You dodged an attack!#
-6287 You dodged a %s!#
-6288 Your stamina returns back to normal.#
-6289 Your agility returns back to normal.#
-6290 Your mentality returns back to normal.#
-6291 flying arrow#
-6292 flying bolt#
-6293 flying rock#
-6294 You dodged a flying %s!#
-6295 spell#
-6296 projectile#
-6297 The rope catches fire!#
-6298 The chime refreshes you!#
-6299 Lobby: Open#
-6300 Lobby: Friends Only#
-6301 Lobby: Invite Only#
-6302 gnome thief#
-6303 thief leader#
-6304 Enchant Weapon#
-6305 Enchant Armor#
-6306 Select an item to enchant:#
-6307 This %s
- is unable to be enchanted.#
-6308 Your %s loses some of its blessing.#
-6309 You are blasted by a torrent!#
-6310 Quick Turn Speed#
-6311 Affect the horizontal speed of the Quick Turn action.#
-6312 BACK#
-6313 FACE#
-6314 NECK#
-6315 RING#
-6316 Claim#
-6317 Already Claimed#
-6318 No Items To Claim#
-6319 CHANGE TO:
+6210 PROGRESO TOTAL#
+6211 INVESTIGACIÓN#
+6212 CARTELES DE TIENDA#
+
+6213 frasco#
+6214 canasta#
+6215 cofre#
+6216 jaula#
+6217 urna#
+6218 saco#
+6219 sarcófago#
+6220 tinaja#
+6221 carreta#
+6222 tarima#
+6223 cajón#
+6224 tienda#
+6225 relicario#
+6226 bulbo#
+6227 doncella de hierro#
+6228 carretilla#
+6229 cristal#
+6230 armario#
+6231 cápsula#
+6232 barril#
+6233 tocón#
+6234 ¡Un %s salta del %s!#
+6235 ¡Un torrente te derriba!#
+6236 ¡Estás rociado de grasa!#
+6237 ¡Estás rociado con magma!#
+6238 ¡%s está rociado con magma ardiente!#
+6239 ¡El %s está rociado con magma ardiente!#
+6240 ¡%s está rociado con lodo corrosivo!#
+6241 ¡El %s está rociado con lodo corrosivo!#
+6242 ¡Estás rociado con lodo corrosivo!#
+6243 ¡%s está rociado con grasa!#
+6244 ¡El %s está rociado con grasa!#
+6245 ¡Tus manos se vuelven resbaladizas!#
+6246 ¡Tu escudo se desliza entre tus dedos!#
+6247 ORDENAR POR BLOQUEADO PRIMERO#
+6248 ¡Salta un %s!#
+6249 ¡Fallo!#
+6250 ESTADÍSTICAS (HARDCORE)#
+6251 Abrir Compendio#
+6252 ¡Un murciélago cercano despierta!#
+6253 ¡Algunos %s saltan del %s!#
+6254 Fue drenado ferozmente por un murciélago.#
+6255 es apaleado por un osgo.#
+6256 osgo#
+6257 osgos#
+6258 golpea#
+6259 *gruñido*#
+6260 Ves un santuario de Dédalo.#
+6261 Santuario de Dédalo#
+6262 Toca el santuario de Dédalo#
+6263 ¡Estás herido al atacar el %s!#
+6264 ¡Estás herido al atacar a %s!#
+6265 ¡Los aliados de los gnomos se encogen de miedo!#
+6266 No hay suficientes puntos de conocimiento disponibles.
+¡Desbloquea logros para ganar más!#
+6267 ¡La salida se revela!#
+6268 Tiras de la cuerda...#
+6269 campana#
+6270 campana#
+6271 Tocar campana#
+6272 ¡Algo estaba alojado dentro de la campana!#
+6273 ¡Esta campana está rota!#
+6274 Pero no pasa nada.#
+6275 ¡La campana se derrumba!#
+6276 ¡Te golpea una campana que cae!#
+6277 le hacen sonar la campana.#
+6278 Campana#
+6279 ¡El badajo se rompe!#
+6280 ¡El timbre vigoriza tu %s!#
+6281 fuerza#
+6282 resistencia#
+6283 agilidad#
+6284 mente#
+6285 ¡El minotauro está cerca, apúrate!#
+6286 ¡Esquivaste un ataque!#
+6287 ¡Esquivaste un %s!#
+6288 Tu resistencia vuelve a la normalidad.#
+6289 Tu agilidad vuelve a la normalidad.#
+6290 Tu mentalidad vuelve a la normalidad.#
+6291 flecha voladora#
+6292 perno volador#
+6293 roca voladora#
+6294 ¡Esquivaste un %s volador!#
+6295 hechizo#
+6296 proyectil#
+6297 ¡La cuerda se incendia!#
+6298 ¡El timbre te refresca!#
+6299 Vestíbulo: Abierto#
+6300 Vestíbulo: Sólo amigos#
+6301 Vestíbulo: Sólo por invitación#
+6302 ladrón gnomo#
+6303 líder ladrón#
+6304 Encantar Arma#
+6305 Encantar Armadura#
+6306 Selecciona un objeto para encantar:#
+6307 Este %s
+no puede ser encantado.#
+6308 Tu %s pierde parte de su bendición.#
+6309 ¡Te azota un torrente!#
+6310 Velocidad de giro rápido#
+6311 Ajusta la velocidad horizontal de la acción de giro rápido.#
+6312 ATRÁS#
+6313 ROSTRO#
+6314 CUELLO#
+6315 ANILLO#
+6316 Reclamar#
+6317 Ya Reclamado#
+6318 No hay artículos para reclamar#
+6319 CAMBIAR A:
 #
-6320 CURRENT: #
-6321 ITEMS#
-6322 RACE#
-6323 CLASS#
-6324 ASSIST ITEM SELECTION#
-6325 RACE SELECTION#
-6326 CLASS SELECTION#
-6327 CHANGING TO: #
-6328 Assistance:#
-6329 Score Penalty:#
-6330 Achievements:#
-6331 ENABLED#
-6332 DISABLED#
-6333 Class choice has reset
-due to selected race.#
-6334 Character Changed#
-6335 Changes will be applied
-on next game start.#
-6336 %s has changed their character for next game start.
+6320 ACTUAL:#
+6321 OBJETOS#
+6322 RAZA#
+6323 CLASE#
+6324 SELECCIÓN DE OBJETO DE ASISTENCIA#
+6325 SELECCIÓN DE RAZA#
+6326 SELECCIÓN DE CLASE#
+6327 CAMBIANDO A:#
+6328 Asistencia:#
+6329 Penalización de puntuación:#
+6330 Logros:#
+6331 ACTIVADO#
+6332 DESACTIVADO#
+6333 La elección de clase se ha reiniciado.
+debido a la raza seleccionada.#
+6334 Personaje cambiado#
+6335 Se aplicarán cambios
+al inicio del próximo juego.#
+6336 %s ha cambiado su personaje para el próximo inicio del juego.
 (%s %s)#
-6337 Sending to server...#
-6338 Invalid Class!#
-6339 Take up to four gifts to ease
-the adventure that awaits.
+6337 Enviando al servidor...#
+6338 ¡Clase no válida!#
+6339 Acepta hasta cuatro regalos para facilitarte
+la aventura que te espera.
 
-Each point of Assistance reduces
-the party's final score ranking.#
-6340 ASSIST ITEMS#
-6341 You were Assisted. (%d Pts)#
-6342 Assist Items#
-6343 Allows claiming items from the starting floor Assist Shrine to adjust difficulty.#
-6344 Enable Assist Items#
-6345 Assist Items enabled#
-6346 Assist Items are disabled#
-6347 Take up to four gifts to ease
-the adventure that awaits.
+Cada punto de Asistencia reduce
+la clasificación de puntuación final del partido.#
+6340 OBJETOS DE ASISTENCIA#
+6341 Fuiste asistido. (%d puntos)#
+6342 Objetos de asistencia#
+6343 Permite reclamar elementos del Santuario de asistencia del piso inicial para ajustar la dificultad.#
+6344 Habilitar elementos de asistencia#
+6345 Elementos de asistencia habilitados#
+6346 Los elementos de asistencia están deshabilitados#
+6347 Acepta hasta cuatro regalos para facilitarte
+la aventura que te espera.
 
-Assist Items are disabled in Game
-Settings. Toggle the option on to
-use Assist Items.
-
-#
-6348 Take up to four gifts to ease
-the adventure that awaits.
-
-Assist Items are disabled in Game
-Settings. Send a request to the
-Host to enable the game setting.
+Los elementos de asistencia están deshabilitados en el juego
+Ajustes. Active la opción para
+utilizar elementos de asistencia.
 
 #
-6349 Request Assist Items#
-6350 View Game Settings#
-6351 The shrine is currently in use by someone else.#
-6352 You see an Assist shrine.#
-6353 Assist shrine#
-6354 Use Assist shrine#
-6355 Your character has changed for next game start.
+6348 Acepta hasta cuatro regalos para facilitarte
+la aventura que te espera.
+
+Los elementos de asistencia están deshabilitados en el juego
+Ajustes. Enviar una solicitud a la
+Anfitrión para habilitar la configuración del juego.
+
+#
+6349 Solicitar artículos de asistencia#
+6350 Ver configuración del juego#
+6351 El santuario está actualmente en uso por otra persona.#
+6352 Ves un santuario de asistencia.#
+6353 santuario de asistencia#
+6354 Usar el santuario de asistencia#
+6355 Tu personaje ha cambiado para el próximo inicio del juego.
 (%s %s)#
-6356 You claim %d Assistance points from the shrine.#
-6357 %s claims %d Assistance points from the Assist shrine.#
-6358 dryad#
-6359 myconid#
-6360 salamander#
+6356 Reclamas %d puntos de asistencia del santuario.#
+6357 %s reclama %d puntos de asistencia del santuario de asistencia.#
+6358 dríade#
+6359 micónido#
+6360 salamandra#
 6361 gremlin#
-6362 dryads#
-6363 myconids#
-6364 salamanders#
+6362 dríades#
+6363 micónidos#
+6364 salamandras#
 6365 gremlins#
-6366 strikes#
-6367 strikes#
-6368 strikes#
-6369 strikes#
-6370 *sigh...*#
-6371 *croak*#
-6372 Hail, champion.#
+6366 golpea#
+6367 golpea#
+6368 golpea#
+6369 golpea#
+6370 *suspiro...*#
+6371 *croar*#
+6372 Salve, campeón.#
 6373 Parrat soo skeba da.#
-6374 You reset the %s lock.#
-6375 You activate the %s lock.#
-6376 The %s key is stuck tight!#
-6377 The %s lock is currently in use.#
-6378 You activate the lock using your %s.#
-6379 You have no matching key for that %s lock.#
-6380 That button is already pressed.#
-6381 You press the button.#
-6382 You hit the button!#
-# lock types
-6383 stone#
-6384 spirit#
-6385 bronze#
-6386 iron#
-6387 silver#
-6388 gold#
-6389 crystal#
-6390 machine#
-6391 key#
-6392 lock#
-6393 button#
-6394 You see a %s lock.#
-6395 You see a %s lock with a key.#
-6396 You see a button.#
-6397 Use %s key #
+6374 Restableces el bloqueo %s.#
+6375 Activas el bloqueo %s.#
+6376 ¡La tecla %s está atascada!#
+6377 El bloqueo %s está actualmente en uso.#
+6378 Activas el bloqueo usando tu %s.#
+6379 No tienes ninguna llave que coincida con esa cerradura %s.#
+6380 Ese botón ya está presionado.#
+6381 Presionas el botón.#
+6382 ¡Presionaste el botón!#
+# tipos de bloqueo
+6383 pétrea#
+6384 espíritu#
+6385 bronce#
+6386 hierro#
+6387 plata#
+6388 oro#
+6389 cristalina#
+6390 máquina#
+6391 llave#
+6392 cerradura#
+6393 botón#
+6394 Ves un candado %s.#
+6395 Ves una cerradura %s con llave.#
+6396 Ves un botón.#
+6397 Usar llave %s #
 6398 #
-6399 Reset %s lock#
-6400 Activate %s lock#
-6401 Press button#
-6402 (%d held)#
-6403 The iron door's lock is controlled elsewhere!#
-6404 You open the iron door.#
-6405 You close the iron door.#
-6406 The iron door locks as you close it!#
-6407 The iron door is locked!#
-6408 You lock the iron door!#
-6409 You see an iron door.#
-6410 Your spell destroys the iron door!#
-6411 You open the iron door!#
-6412 You hit the iron door!#
-6413 The iron door crashes open!#
-6414 iron door#
-6415 You unlock the iron door.#
-6416 You lock the iron door.#
-6417 You failed to unlock the iron door.#
-6418 This iron door is already unlocked.#
-6419 An arcane protection holds the iron door firmly in place!#
-6420 Close iron door#
-6421 Open iron door#
-6422 You lack the skill to pick this %s lock!#
-6423 There is already a %s key inside this lock.#
-6424 This %s lock can't be picked!#
-6425 The skeleton key doesn't fit!#
-6426 Your %s activates the %s lock!#
-6427 Your %s resets the %s lock.#
-6428 You failed to lockpick the %s lock.#
-6429 The %s lock seems unable to be reset by lockpicking.#
-6430 This %s lock has already been lockpicked open.#
-6431 Your song's effect cannot be extended any further!#
-6432 Your strike pierced the %s's armor!#
-6433 Your strike pierced %s's armor!#
-6434 The %s parries your blow!#
-6435 %s parries your blow!#
-6436 You parry the %s's blow!#
-6437 You parry %s's blow!#
-6438 Input Device#
-6439 The input device for voice chat.#
-6440 Voice#
-6441 Input Gain#
-6442 Adjust volume after normalization effect.#
-6443 Input Monitoring#
-6444 Listen to your input based on input/output settings. Monitored input levels are shown to the right.#
-6445 Voice Volume#
-6446 Adjust volume of incoming player voice chat.#
-6447 Push To Talk#
-6448 Hold the Voice Chat binding to talk. When disabled, the binding instead toggles sending voice on and off.#
-6449 Voice input enabled.#
-6450 Voice input disabled.#
-6451 Voice Chat#
-6452 Send Voice Chat#
-6453 Toggle the feature to send voice on or off. Receive Voice Chat must be enabled to use.#
-6454 Receive Voice Chat#
-6455 Toggle the feature to receive voice on or off.#
-6456 Muted#
-6457 Voice Levels#
-6458 Increased Voice Distance#
-6459 Received voice chat can be heard from further away. Disable to increase proximity effect.#
-6460 Input Volume Normalization#
-6461 Increase volume of quieter input signals, high values increase background noise. 0% disables effect.#
-6462 Raw Input#
-6463 Modified#
+6399 Restablecer bloqueo %s#
+6400 Activar bloqueo %s#
+6401 Presione el botón#
+6402 (%d retenido)#
+6403 ¡La cerradura de la puerta de hierro está controlada desde otro lugar!#
+6404 Abres la puerta de hierro.#
+6405 Cierras la puerta de hierro.#
+6406 ¡La puerta de hierro se cierra al cerrarla!#
+6407 ¡La puerta de hierro está cerrada con llave!#
+6408 ¡Bloqueas la puerta de hierro!#
+6409 Ves una puerta de hierro.#
+6410 ¡Tu hechizo destruye la puerta de hierro!#
+6411 ¡Abres la puerta de hierro!#
+6412 ¡Golpeaste la puerta de hierro!#
+6413 ¡La puerta de hierro se abre de golpe!#
+6414 puerta de hierro#
+6415 Desbloqueas la puerta de hierro.#
+6416 Bloqueas la puerta de hierro.#
+6417 No logras desbloquear la puerta de hierro.#
+6418 Esta puerta de hierro ya está desbloqueada.#
+6419 ¡Una protección arcana mantiene la puerta de hierro firmemente en su lugar!#
+6420 Cerrar puerta de hierro#
+6421 Abrir puerta de hierro#
+6422 ¡Te falta la habilidad para abrir esta cerradura %s!#
+6423 Ya hay una llave %s dentro de esta cerradura.#
+6424 ¡Esta cerradura %s no se puede forzar!#
+6425 ¡La llave maestra no encaja!#
+6426 ¡Tu %s activa el bloqueo %s!#
+6427 Tu %s restablece la cerradura %s.#
+6428 No lograste abrir la cerradura %s.#
+6429 La cerradura %s parece no poder restablecerse mediante la apertura de cerraduras.#
+6430 Esta cerradura %s ya se ha abierto con llave.#
+6431 ¡El efecto de tu canción no se puede extender más!#
+6432 ¡Tu golpe atravesó la armadura del %s!#
+6433 ¡Tu golpe atravesó la armadura de %s!#
+6434 ¡El %s detiene tu golpe!#
+6435 ¡%s detiene tu golpe!#
+6436 ¡Paras el golpe del %s!#
+6437 ¡Paras el golpe de %s!#
+6438 Dispositivo de entrada#
+6439 El dispositivo de entrada para el chat de voz.#
+6440 Voz#
+6441 Ganancia de entrada#
+6442 Ajuste el volumen después del efecto de normalización.#
+6443 Monitoreo de entrada#
+6444 Escuche sus comentarios según la configuración de entrada/salida. Los niveles de entrada monitoreados se muestran a la derecha.#
+6445 Volumen de voz#
+6446 Ajusta el volumen del chat de voz entrante del jugador.#
+6447 Empuje para hablar#
+6448 Mantenga presionado el enlace Chat de voz para hablar. Cuando está deshabilitado, el enlace activa y desactiva el envío de voz.#
+6449 Entrada de voz habilitada.#
+6450 Entrada de voz deshabilitada.#
+6451 Chat de voz#
+6452 Enviar chat de voz#
+6453 Activa o desactiva la función para enviar voz. Recibir chat de voz debe estar habilitado para su uso.#
+6454 Recibir chat de voz#
+6455 Active o desactive la función para recibir voz.#
+6456 Silenciado#
+6457 Niveles de voz#
+6458 Mayor distancia de voz#
+6459 El chat de voz recibido se puede escuchar desde más lejos. Desactívelo para aumentar el efecto de proximidad.#
+6460 Normalización del volumen de entrada#
+6461 Aumente el volumen de las señales de entrada más silenciosas; los valores altos aumentan el ruido de fondo. 0% desactiva el efecto.#
+6462 Entrada sin procesar#
+6463 Modificado#
 
-6464 Guard!#
-6465 Your protection stops an attack!#
-6466 The %s guards your spell!#
-6467 %s guards your spell!#
-6468 The %s guards your attack!#
-6469 %s guards your attack!#
-6470 Your protection stops a spell!#
-6471 Your protection stops a flying %s!#
-6472 Your protection stops a %s!#
-6473 You ward your body against physical harm!#
-6474 You ward your spirit against harmful magics!#
-6475 You ward youself against mundane and magical attack!#
-6476 Your joints are filled with nimble grace.#
-6477 Your muscles swell with greater might.#
-6478 Your mind stirs deeply with wise counsel.#
-6479 Your body hardens with sturdy toughness.#
-6480 Your magic calls for a target of holy wrath!#
-6481 You detect an ally!#
-6482 You divine the location of a nearby shrine.#
-6483 Nearby perils are revealed to you!#
-6484 Nearby perils are revealed to you!#
-6485 The location of nearby treasures emerges in your mind...#
-6486 You give blessings for the food that sustains you.#
-6487 You seek out a wandering soul in search of penance.#
-6488 You beg for providence from lowly places.#
-6489 You call for willing souls to join your quest!#
-6490 Your protection saves you from the boulder!#
-6491 Your protection saves you from the falling bell!#
-6492 Your protection saves you from the spikes!#
-6493 You ward you body against devious traps.#
-6494 Divine forces are leading you to treasure!#
-6495 An enemy is revealed to you!#
-6496 You recall your spell without a target.#
-6497 You command holy exorcism!#
-6498 Your spell had no target!#
-6499 Cast spell...#
-6500 Cast spell on #
-6501 Cancel#
-6502 Your blood is warded against impurities!#
-6503 Your spell (%s) was interrupted!#
-6504 Failed to sustain spell (%s).#
-6505 The ward against impurities fades...#
-6506 Your blood stirs with noble purpose!#
-6507 Your blood returns to normal...#
-6508 Your attacks are enchanted with holy light!#
-6509 Holy light fades from your attacks...#
-6510 Your attack smites the %s!#
-6511 Your attack smites %s!#
-6512 Alter Instrument#
-6513 Select instrument to transmute:#
-6514 This %s
- is unable to be altered.#
-6515 Your %s transforms into
- %s!#
-6516 The %s grows in strength!#
-6517 The %s shrivels away!#
-6518 The %s is severely weakened by your curse!#
-6519 The %s is befuddled by magic!#
-6520 Your spell focus improves!#
-6521 Your weapons are imbued with venom!#
-6522 Your curse humbles the %s!#
-6523 The %s is crushed by your will.#
-6524 You release a torrent of slippery grease!#
-6525 You release a wave of raw magical energy!#
-6526 %s is weakened!#
-6527 The %s is weakened!#
-6528 You feel weak!#
-6529 The magical venom evaporates from your weapons.#
-6530 Your spell focus returns to normal.#
-6531 The %s poisons you!#
-6532 %s poisons you!#
-6533 The %s is poisoned!#
-6534 %s is poisoned!#
-6535 The amulet feels warm against your neck.#
-6536 You feel greasy!#
-6537 The %s is compelled to your command!#
-6538 Gold Cost:#
-6539 Not enough gold#
-6540 Insufficient gold!#
-6541 Select a weapon to transmute:#
-6542 Select an item to transmute:#
-6543 Select a jewel to transmute:#
-6544 Transmutes Into:#
-6545 Metallurgy#
-6546 Geomancy#
-6547 Forge Key#
-6548 Forge Jewel#
-6549 Enhance Weapon#
-6550 Reshape Weapon#
-6551 Alter Arrow#
-6552 Not enough mana#
-6553 Transmuted %s using
- %s.#
-6554 Transmuted %dG
- using %s.#
-6555 Mana Cost:#
-6556 Change Focus#
-6557 You awaken a void chest!#
-6558 Your spell does nothing while the chest is open.#
-6559 Wait! That's a void mimic!#
-6560 Select an item to send to the void:#
-6561 Send To Void#
-6562 Sent %s
- to the void.#
-6563 This does not belong in the void#
-6564 This %s
- does not belong in the void.#
-6565 The void is already being accessed by somebody else.#
-6566 The void cannot accept any more items.#
-6567 The mimic voids your %s!#
-6568 revenant skull#
+6464 ¡Guardia!#
+6465 ¡Tu protección detiene un ataque!#
+6466 ¡El %s guarda tu hechizo!#
+6467 ¡%s guarda tu hechizo!#
+6468 ¡El %s protege tu ataque!#
+6469 ¡%s protege tu ataque!#
+6470 ¡Tu protección detiene un hechizo!#
+6471 ¡Tu protección detiene un %s volador!#
+6472 ¡Tu protección detiene un %s!#
+6473 ¡Proteges tu cuerpo contra daños físicos!#
+6474 ¡Proteges tu espíritu contra magias dañinas!#
+6475 ¡Te proteges contra ataques mundanos y mágicos!#
+6476 Tu DES rebosa de gracia ágil.#
+6477 Tus músculos se hinchan con mayor FUE.#
+6478 Tu mente despierta con sabio INT.#
+6479 Tu cuerpo se endurece con firme CON.#
+6480 ¡Tu magia exige un objetivo de ira santa!#
+6481 ¡Detectas un aliado!#
+6482 Adivinas la ubicación de un santuario cercano.#
+6483 ¡Se te revelan los peligros cercanos!#
+6484 ¡Se te revelan los peligros cercanos!#
+6485 La ubicación de los tesoros cercanos surge en tu mente...#
+6486 Das bendiciones por el alimento que te sustenta.#
+6487 Buscas un alma errante en busca de penitencia.#
+6488 Suplicas por providencia desde lugares humildes.#
+6489 ¡Llamas a almas dispuestas a unirse a tu búsqueda!#
+6490 ¡Tu protección te salva de la roca!#
+6491 ¡Tu protección te salva de la caída de la campana!#
+6492 ¡Tu protección te salva de los picos!#
+6493 Proteges tu cuerpo contra trampas tortuosas.#
+6494 ¡Las fuerzas divinas te están llevando al tesoro!#
+6495 ¡Se te revela un enemigo!#
+6496 Recuerdas tu hechizo sin un objetivo.#
+6497 ¡Ordenas un exorcismo sagrado!#
+6498 ¡Tu hechizo no tenía objetivo!#
+6499 Lanzar hechizo...#
+6500 Lanzar hechizo a #
+6501 Cancelar#
+6502 ¡Tu sangre está protegida contra las impurezas!#
+6503 ¡Tu hechizo (%s) fue interrumpido!#
+6504 No se pudo mantener el hechizo (%s).#
+6505 La protección contra las impurezas se desvanece...#
+6506 ¡Tu sangre se agita con noble propósito!#
+6507 Tu sangre vuelve a la normalidad...#
+6508 ¡Tus ataques están encantados con luz sagrada!#
+6509 La luz sagrada se desvanece de tus ataques...#
+6510 ¡Tu ataque golpea al %s!#
+6511 ¡Tu ataque golpea a %s!#
+6512 Alterar Instrumento#
+6513 Seleccione el instrumento para transmutar:#
+6514 Este %s
+no se puede alterar.#
+6515 Tu %s se transforma en
+%s!#
+6516 ¡El %s crece en fuerza!#
+6517 ¡El %s se marchita!#
+6518 ¡El %s está gravemente debilitado por tu maldición!#
+6519 ¡El %s está confundido por magia!#
+6520 ¡Tu enfoque en hechizos mejora!#
+6521 ¡Tus armas están imbuidas de veneno!#
+6522 ¡Tu maldición humilla al %s!#
+6523 El %s es aplastado por tu voluntad.#
+6524 ¡Sueltas un torrente de grasa resbaladiza!#
+6525 ¡Liberas una ola de energía mágica pura!#
+6526 ¡%s está debilitado!#
+6527 ¡El %s está debilitado!#
+6528 ¡Te sientes débil!#
+6529 El veneno mágico se evapora de tus armas.#
+6530 El enfoque de tu hechizo vuelve a la normalidad.#
+6531 ¡El %s te envenena!#
+6532 ¡%s te envenena!#
+6533 ¡El %s está envenenado!#
+6534 ¡%s está envenenado!#
+6535 El amuleto se siente cálido contra tu cuello.#
+6536 ¡Te sientes grasoso!#
+6537 ¡El %s está obligado a obedecer tus órdenes!#
+6538 Costo del oro:#
+6539 No hay suficiente oro#
+6540 ¡Oro insuficiente!#
+6541 Selecciona un arma para transmutar:#
+6542 Selecciona un objeto para transmutar:#
+6543 Selecciona una joya para transmutar:#
+6544 Se transmuta en:#
+6545 Metalurgia#
+6546 Geomancia#
+6547 Forjar Llave#
+6548 Forjar Joya#
+6549 Potenciar Arma#
+6550 Reformar Arma#
+6551 Alterar Flecha#
+6552 No hay suficiente maná#
+6553 Transmutado %s usando
+%s.#
+6554 Transmutado %dG
+usando %s.#
+6555 Costo de maná:#
+6556 Cambiar enfoque#
+6557 ¡Despiertas un arca del vacío!#
+6558 Tu hechizo no hace nada mientras el cofre está abierto.#
+6559 ¡Espera! ¡Eso es un mimeto del vacío!#
+6560 Selecciona un objeto para enviar al vacío:#
+6561 Enviar al vacío#
+6562 Enviaste %s
+al vacío.#
+6563 Esto no pertenece al vacío#
+6564 Este %s
+no pertenece al vacío.#
+6565 Alguien más ya está accediendo al vacío.#
+6566 El vacío no puede aceptar más artículos.#
+6567 ¡El mimeto anula tu %s!#
+6568 cráneo de revenant#
 6569 minimimic#
-6570 revenant skulls#
+6570 cráneos de revenant#
 6571 minimimics#
-6572 hits#
-6573 bites#
-6574 *rattle*#
-6575 *creak*#
-6576 You curse the flesh of the %s!#
-6577 You summon a spirited %s!#
-6578 There is no room here to summon!#
-6579 spirit weapon#
-6580 adorcised possession#
-6581 flame elemental#
-6582 hologram#
-6583 moth#
-6584 earth sprite#
-6585 duck#
+6572 golpes#
+6573 picaduras#
+6574 *traqueteo*#
+6575 *crujir*#
+6576 ¡Maldices la carne del %s!#
+6577 ¡Convocas a un enérgico %s!#
+6578 ¡Aquí no hay lugar para convocar!#
+6579 arma espiritual#
+6580 posesión sacralizada#
+6581 sílfide ígnea#
+6582 holograma#
+6583 polilla#
+6584 sílfide pétrea#
+6585 pato#
 6586 monster_unused_6#
 6587 monster_unused_7#
 6588 monster_unused_8#
-6589 adorcised possessions#
-6590 flame elementals#
-6591 holograms#
-6592 moths#
-6593 earth sprites#
-6594 ducks#
+6589 posesiones sacralizadas#
+6590 sílfides ígneas#
+6591 hologramas#
+6592 polillas#
+6593 sílfides pétreas#
+6594 patos#
 6595 monster_unused_6s#
 6596 monster_unused_7s#
 6597 monster_unused_8s#
-6598 hits#
-6599 hits#
-6600 hits#
-6601 hits#
-6602 hits#
-6603 hits#
-6604 hits#
-6605 hits#
-6606 hits#
+6598 golpes#
+6599 golpes#
+6600 golpes#
+6601 golpes#
+6602 golpes#
+6603 golpes#
+6604 golpes#
+6605 golpes#
+6606 golpes#
 6607 ...#
 6608 ...#
 6609 ...#
 6610 ...#
 6611 ...#
-6612 *quack!*#
+6612 *¡cuac!*#
 6613 ...#
 6614 ...#
 6615 ...#
-6616 Adorcise#
-6617 Select a weapon to summon:#
-6618 This %s
- cannot be adorcised.#
-6619 returns to the floor.#
-6620 vanishes!#
-6621 Your %s 
- returns to the floor.#
-6622 Insufficient gold!#
-6623 The %s is numbed!#
-6624 %s is numbed!#
-6625 You feel numb!#
-6626 dies from delayed pain.#
-6627 You feel unstoppable!#
-6628 Pain returns to your body!#
-6629 The severity of your wounds sets in!#
-6630 The %s could not reach any allies!#
-6631 %s could not reach any allies!#
-6632 The %s loses their courage!#
-6633 The %s wanders in search of an ally!#
-6634 %s wanders in search of an ally!#
-6635 The %s could not reach any foes!#
-6636 %s could not reach any foes!#
-6637 The %s is encouraged!#
-6638 The %s wanders in search of a foe!#
-6639 %s wanders in search of a foe!#
-6640 The %s becomes a scapegoat!#
-6641 You become a scapegoat!#
-6642 Your spore pods shrivel away ...#
-6643 You bristle with swollen spore pods!#
-6644 The %s drops their weapon!#
-6645 %s drops their weapon!#
-6646 The %s drops their equipment!#
-6647 %s drops their equipment!#
-6648 Your food returns to normal.#
-6649 Your provisions return to normal.#
-6650 You beg for your food to be multiplied...#
-6651 You beg for your provisions to be multiplied...#
-6652 Greater Abundance preserves your %s!#
-6653 Abundance preserves your %s!#
-6654 Your magic protects the %s from damage!#
-6655 You cover your equipment with a magic barrier!#
-6656 The protective barrier fades from your equipment.#
-6657 Your magic could not preserve your %s!#
-6658 This trap has already been sabotaged.#
-6659 You sabotage the trap!#
-6660 You blast the %s!#
-6661 You blast %s!#
-6662 Some scrap pours out from the trap!#
-6663 Your body turns to mist!#
-6664 Your body materializes again.#
-6665 Your mana could not sustain your mist form!#
-6666 Your mist form protects you!#
-6667 You create a hologram in your image!#
-6668 fades into nothing.#
-6669 gets spooked by a revenant skull.#
-6670 gets looted by a minimimic.#
-6671 gets reduced to ashes by a flame elemental.#
-6672 is slain by the invisible hand of an adorcised weapon.#
-6673 explodes!#
-6674 You conjure a %s!#
-6675 You were unable to conjure a %s!#
-6676 You are already wielding a %s!#
-6677 You splinter the %s's %s!#
-6678 You splinter %s's %s!#
-6679 You break the %s's %s!#
-6680 You break %s's %s!#
-6681 Your equipment feels lighter!#
-6682 You feel the heft of your equipment again.#
-6683 You reach out to items with unseen energy...#
-6684 Your grasp on nearby items dissipates.#
-6685 Your tether your throwing weapons with invisible magic!#
-6686 Your throwing weapons return to normal.#
-6687 Your %s returns to you!#
-6688 You deface the %s!#
-6689 You've disturbed a %s!#
-6690 Your demesne door was closed.#
-6691 Your demesne door fades.#
-6692 There is no room to create a demesne door!#
-6693 doorway#
-6694 You enchant the doorway!#
-6695 You create a portal!#
-6696 You step through the portal.#
-6697 You forged %d %s!#
-6698 gets mothballed.#
-6699 Your off-hand items are imbued with defensive force!#
-6700 Your off-hand items are imbued with magic reflection!#
-6701 ASSIST ITEM SELECTION#
-6702 CLASS SELECTION#
-6703 RACE SELECTION#
-6704 The %s spins around!#
-6705 %s spins around!#
-6706 The %s gets dizzied!#
-6707 %s gets dizzied!#
-6708 Vandalize#
-6709 Desecrate#
-6710 Sanctify#
-6711 Bless#
-6712 Cleanse#
-6713 Select an instrument to summon:#
-6714 Select an item to vandalize:#
-6715 Select an item to desecrate:#
-6716 Select a bottle of water to bless:#
-6717 Select an item to sanctify:#
-6718 Select food to cleanse:#
-6719 This %s
- is unable to be vandalized.#
-6720 This %s
- is unable to be desecrated.#
-6721 This %s
- is unable to be blessed.#
-6722 This %s
- is unable to be sanctified.#
-6723 This %s
- is unable to be cleansed.#
-6724 Vandalized %dG using
- %s.#
-6725 Your %s looks more edible.#
-6726 Unable to bless further#
-6727 You are already under the effects of %s.#
-6728 You begin drawing energy from a well of magic...#
-6729 You empower your next cast with ritual preparation...#
-6730 You are enveloped by a flame cloak!#
-6731 You are surrounded with protective flames!#
-6732 Your flame cloak ignites the %s!#
-6733 Your flame cloak ignites %s!#
-6734 A flame cloak sets you on fire!#
-6735 You prepare to absorb hostile magical energy!#
-6736 There is no stable ceiling to complete the spell!#
-6737 gets rocked by an earth sprite.#
-6738 gets overgrown by a dryad.#
-6739 gets vandalised by a gremlin.#
-6740 gets capped by a myconid.#
-6741 learns how cold-blooded a salamander can be.#
-6742 %s is hit with a rooting seed!#
-6743 The %s is hit with a rooting seed!#
-6744 You are hit by a rooting seed!#
-6745 %s is hit with a poison seed!#
-6746 The %s is hit with a poison seed!#
-6747 You are hit by a poison seed!#
-6748 There is no ground to complete the spell!#
-6749 mushroom#
-6750 There is no room to complete the spell!#
-6751 You stop shimmering.#
-6752 You are covered with shimmering dust!#
-6753 gets capped by a mushroom.#
-6754 Mushroom#
-6755 The air is filled with a thick fog.#
-6756 You are pulled by telekinetic force!#
-6757 You are caught in a vortex!#
-6758 You are slammed back down!#
-6759 Leaves#
-6760 becomes dust in the wind.#
-6761 %s is covered with shimmering dust!#
-6762 The %s is covered with shimmering dust!#
-6763 You are ensnared!#
-6764 The %s is ensnared!#
-6765 %s is ensnared!#
-6766 The %s was unaffected by the bolas!#
-6767 %s was unaffected by the bolas!#
-6768 [4 rations needed]#
-6769 You combine the %s with some %s...#
-6770 You dissolve the %s and collect it with a %s...#
-6771 Created %s.#
-6772 [No tin opener]#
-6773 Cook#
-6774 [Insufficient fuel]#
-6775 shrub#
-6776 footlocker#
-6777 weapon rack#
-6778 Deserters & Disciples DLC is required
-to replay this challenge!
+6616 Sacralizar#
+6617 Selecciona un arma para invocar:#
+6618 Este %s
+no puede ser sacralizado.#
+6619 vuelve al suelo.#
+6620 ¡desaparece!#
+6621 Tu %s
+vuelve al suelo.#
+6622 ¡Oro insuficiente!#
+6623 ¡El %s está entumecido!#
+6624 ¡%s está entumecido!#
+6625 ¡Te sientes entumecido!#
+6626 muere por dolor retardado.#
+6627 ¡Te sientes imparable!#
+6628 ¡El dolor vuelve a tu cuerpo!#
+6629 ¡La gravedad de tus heridas aparece!#
+6630 ¡El %s no pudo alcanzar a ningún aliado!#
+6631 ¡%s no pudo llegar a ningún aliado!#
+6632 ¡El %s pierde el coraje!#
+6633 ¡El %s deambula en busca de un aliado!#
+6634 ¡%s deambula en busca de un aliado!#
+6635 ¡El %s no pudo alcanzar a ningún enemigo!#
+6636 ¡%s no pudo alcanzar a ningún enemigo!#
+6637 ¡Se anima el %s!#
+6638 ¡El %s deambula en busca de un enemigo!#
+6639 ¡%s deambula en busca de un enemigo!#
+6640 ¡El %s se convierte en chivo expiatorio!#
+6641 ¡Te conviertes en un chivo expiatorio!#
+6642 Tus vainas de esporas se marchitan...#
+6643 ¡Estás erizado de vainas de esporas hinchadas!#
+6644 ¡El %s suelta su arma!#
+6645 ¡%s suelta su arma!#
+6646 ¡El %s deja caer su equipo!#
+6647 ¡%s deja caer su equipo!#
+6648 Tu alimentación vuelve a la normalidad.#
+6649 Tus provisiones vuelven a la normalidad.#
+6650 Suplicas que te multipliquen la comida...#
+6651 Suplicas que te multipliquen tus provisiones...#
+6652 ¡Mayor Abundancia preserva tu %s!#
+6653 ¡La abundancia preserva tu %s!#
+6654 ¡Tu magia protege al %s del daño!#
+6655 ¡Cubres tu equipo con una barrera mágica!#
+6656 La barrera protectora se desvanece de su equipo.#
+6657 ¡Tu magia no pudo preservar tu %s!#
+6658 Esta trampa ya ha sido saboteada.#
+6659 ¡Saboteas la trampa!#
+6660 ¡Fulminas al %s!#
+6661 ¡Fulminas a %s!#
+6662 ¡Un poco de chatarra sale de la trampa!#
+6663 ¡Tu cuerpo se convierte en niebla!#
+6664 Tu cuerpo se materializa nuevamente.#
+6665 ¡Tu maná no pudo sostener tu forma de niebla!#
+6666 ¡Tu forma de niebla te protege!#
+6667 ¡Creas un holograma a tu imagen!#
+6668 se desvanece en la nada.#
+6669 se asusta por un cráneo de revenant.#
+6670 es saqueado por un minimimic.#
+6671 es reducido a cenizas por una sílfide ígnea.#
+6672 es asesinado por la mano invisible de un arma sacralizada.#
+6673 explota!#
+6674 ¡Conjuras un %s!#
+6675 ¡No pudiste conjurar un %s!#
+6676 ¡Ya estás empuñando un %s!#
+6677 ¡Astillas el %s del %s!#
+6678 ¡Astillas el %s de %s!#
+6679 ¡Rompiste el %s del %s!#
+6680 ¡Rompiste el %s de %s!#
+6681 ¡Tu equipo se siente más liviano!#
+6682 Sientes de nuevo el peso de tu equipo.#
+6683 Te acercas a objetos con energía invisible...#
+6684 Tu agarre sobre los objetos cercanos se disipa.#
+6685 ¡Atas tus armas arrojadizas con magia invisible!#
+6686 Tus armas arrojadizas vuelven a la normalidad.#
+6687 ¡Tu %s regresa a ti!#
+6688 ¡Estás desfigurando el %s!#
+6689 ¡Has molestado a %s!#
+6690 La puerta de tu heredad estaba cerrada.#
+6691 La puerta de tu heredad se desvanece.#
+6692 ¡No hay espacio para crear una puerta de heredad!#
+6693 puerta#
+6694 ¡Encantas la entrada!#
+6695 ¡Tú creas un portal!#
+6696 Cruzas el portal.#
+6697 ¡Forjaste %d %s!#
+6698 queda suspendido.#
+6699 ¡Tus objetos de mano secundaria se imbuyen con fuerza defensiva!#
+6700 ¡Tus objetos de mano secundaria se imbuyen con reflejo mágico!#
+6701 SELECCIÓN DE OBJETO DE ASISTENCIA#
+6702 SELECCIÓN DE CLASE#
+6703 SELECCIÓN DE RAZA#
+6704 ¡El %s gira!#
+6705 ¡%s da vueltas!#
+6706 ¡El %s se marea!#
+6707 ¡%s se marea!#
+6708 Vandalizar#
+6709 Profanar#
+6710 Santificar#
+6711 Bendecir#
+6712 Purificar#
+6713 Seleccione un instrumento para invocar:#
+6714 Selecciona un objeto para vandalizar:#
+6715 Selecciona un objeto para profanar:#
+6716 Selecciona una botella de agua para bendecir:#
+6717 Selecciona un objeto para santificar:#
+6718 Selecciona comida para purificar:#
+6719 Este %s
+no puede ser vandalizado.#
+6720 Este %s
+no puede ser profanado.#
+6721 Este %s
+no puede ser bendecido.#
+6722 Este %s
+no puede ser santificado.#
+6723 Este %s
+no se puede limpiar.#
+6724 Vandalizado %dG usando
+%s.#
+6725 Tu %s parece más comestible.#
+6726 No se puede bendecir más#
+6727 Ya estás bajo los efectos de %s.#
+6728 Empiezas a extraer energía de un pozo de magia...#
+6729 Potencias tu próximo lanzamiento con preparación ritual...#
+6730 ¡Estás envuelto por un manto de llamas!#
+6731 ¡Estás rodeado de llamas protectoras!#
+6732 ¡Tu capa de llamas enciende el %s!#
+6733 ¡Tu capa de llamas enciende %s!#
+6734 ¡Una capa de llamas te prende fuego!#
+6735 ¡Te preparas para absorber energía mágica hostil!#
+6736 ¡No hay un techo estable para completar el hechizo!#
+6737 queda sacudido por una sílfide pétrea.#
+6738 es cubierto por una dríade.#
+6739 es vandalizado por un gremlin.#
+6740 es rematado por un micónido.#
+6741 aprende lo implacable que puede ser una salamandra.#
+6742 ¡%s recibe el impacto de una semilla enraizada!#
+6743 ¡El %s recibe el golpe de una semilla enraizada!#
+6744 ¡Te golpea una semilla que está enraizando!#
+6745 ¡%s recibe el impacto de una semilla venenosa!#
+6746 ¡El %s recibe el impacto de una semilla venenosa!#
+6747 ¡Te golpea una semilla venenosa!#
+6748 ¡No hay terreno para completar el hechizo!#
+6749 hongo#
+6750 ¡No hay espacio para completar el hechizo!#
+6751 Dejas de brillar.#
+6752 ¡Estás cubierto de polvo reluciente!#
+6753 queda cubierto por un hongo.#
+6754 Hongo#
+6755 El aire está lleno de una espesa niebla.#
+6756 ¡Eres atraído por una fuerza telequinética!#
+6757 ¡Estás atrapado en un vórtice!#
+6758 ¡Estás derribado de golpe!#
+6759 Hojas#
+6760 se convierte en polvo con el viento.#
+6761 ¡%s está cubierto de polvo brillante!#
+6762 ¡El %s está cubierto de polvo brillante!#
+6763 ¡Estás atrapado!#
+6764 ¡El %s está atrapado!#
+6765 ¡%s está atrapado!#
+6766 ¡El %s no se vio afectado por las bolas!#
+6767 ¡%s no se vio afectado por las bolas!#
+6768 [Se necesitan 4 raciones]#
+6769 Combinas el %s con un poco de %s...#
+6770 Disuelves el %s y lo recoges con un %s...#
+6771 Creaste %s.#
+6772 [Sin abrelatas]#
+6773 Cocinar#
+6774 [Combustible insuficiente]#
+6775 arbusto#
+6776 baúl#
+6777 estante de armas#
+6778 Se requiere el DLC Desertores y Discípulos
+para volver a jugar este desafío!
 
 
 #
-6779 Gnome#
+6779 Gnomo#
 6780 Gremlin#
-6781 Dryad#
-6782 Myconid#
-6783 Salamander#
-6784 bard#
-6785 sapper#
-6786 scion#
-6787 hermit#
-6788 paladin#
-# main menu capitalized
-6789 Bard#
-6790 Sapper#
-6791 Scion#
-6792 Hermit#
-6793 Paladin#
-6794 You lack the foliage to cast the spell!#
-6795 You are covered with thorns!#
-6796 You are covered with bladevines!#
-6797 Your thorns withdraw.#
-6798 Your bladevines crumble away.#
-6799 You steady yourself with firm mycelium!#
-6800 You plant yourself with sturdy roots!#
-6801 You dismount the binding mycelium.#
-6802 You dismount the binding roots.#
-6803 returns to dust.#
-6804 Higher %s skill required#
-6805 Higher skill required#
-6806 finds its final resting place.#
-6807 revenant skeleton#
-6808 You command a %s from the deceased!#
-6809 You splinter the construction of the %s!#
-6810 You splinter the construction of %s!#
-6811 Your splintered armor wounds you!#
-6812 Your shattered armor heavily wounds you!#
-6813 Your mana could not return your %s!#
-6814 You are unable to create a passage through this wall.#
-6815 The %s comes to life!#
-6816 dresser#
-6817 drawer#
-6818 candelabra#
+6781 Dríade#
+6782 Micónido#
+6783 Salamandra#
+6784 bardo#
+6785 zapador#
+6786 vástago#
+6787 ermitaño#
+6788 paladín#
 
-6826 You are blessed with peace!#
-6827 You are blessed with justice!#
-6828 You are blessed with providence!#
-6829 You are blessed with purity!#
-6830 You are blessed with sanctuary!#
-6831 Unlearn#
-6832 Sacrifice a spell to recharge:#
-6833 Recharge#
-6834 Recharge#
-6835 Confirm Unlearn (%d)#
-6836 You forget the %s spell.#
-6837 This %s
- cannot be used to recharge.#
-6838 Your %s 
- is already fully charged!#
-6839 Your %s is depleted!#
-6840 The icon holds your enemies in stasis!#
-6841 The icon roots your enemies in place!#
-6842 Filtering Spells:
+6789 Bardo#
+6790 Zapador#
+6791 Vástago#
+6792 Ermitaño#
+6793 Paladín#
+6794 ¡Te falta follaje para lanzar el hechizo!#
+6795 ¡Estás cubierto de espinas!#
+6796 ¡Estás cubierto de lianas cortantes!#
+6797 Tus espinas se retiran.#
+6798 Tus lianas cortantes se desmoronan.#
+6799 ¡Te estabilizas con micelio firme!#
+6800 ¡Te plantas con raíces fuertes!#
+6801 Te liberas del micelio vinculante.#
+6802 Te liberas de las raíces vinculantes.#
+6803 vuelve al polvo.#
+6804 Se requiere una habilidad %s superior#
+6805 Se requiere mayor habilidad#
+6806 encuentra su lugar de descanso final.#
+6807 esqueleto revenant#
+6808 ¡Comandas un %s desde los difuntos!#
+6809 ¡Astillas la construcción del %s!#
+6810 ¡Astillas la construcción de %s!#
+6811 ¡Tu armadura astillada te hiere!#
+6812 ¡Tu armadura destrozada te hiere gravemente!#
+6813 ¡Tu maná no pudo devolver tu %s!#
+6814 No puedes crear un pasaje a través de esta pared.#
+6815 ¡El %s cobra vida!#
+6816 cómoda#
+6817 cajón#
+6818 candelabro#
+
+6826 ¡Estás bendecido con la paz!#
+6827 ¡Estás bendecido con la justicia!#
+6828 ¡Estás bendecido con la providencia!#
+6829 ¡Estás bendecido con la pureza!#
+6830 ¡Estás bendecido con el santuario!#
+6831 Olvidar#
+6832 Sacrificar un hechizo para recargar:#
+6833 Recargar#
+6834 Recargar#
+6835 Confirmar olvido (%d)#
+6836 Olvidas el hechizo %s.#
+6837 Este %s
+no se puede utilizar para recargar.#
+6838 Tu %s
+¡Ya está completamente cargado!#
+6839 ¡Tu %s está agotado!#
+6840 ¡El ícono mantiene a tus enemigos en estasis!#
+6841 ¡El ícono inmoviliza a tus enemigos en su lugar!#
+6842 Filtrar hechizos:
 %s#
-6843 Invoke#
-6844 Play#
-6845 You recall your previous light.#
-6846 Player Movement Deadzone#
-6847 Affect the analog deadzone of the control stick used for player movement.#
-6848 Camera Turn Deadzone#
-6849 Affect the analog deadzone of the control stick used for turning the player camera.#
-6850 tablet of %s#
-6851 tablets of %s#
-6852 The %s deteriorates and crumbles to ash!#
-6853 didn't survive the impact.#
-6854 Velocity#
-6855 Not enough resources#
-6856 Your spell can not absorb any more magic!#
-6857 Your spell absorbs the incoming hit!#
-6858 Your absorbed magic increased your damage!#
-6859 Your flame cloak falls to ashes.#
-6860 Your flame cloak is roaring with flames!#
-6861 The scroll erupts in a cloak of flame!#
-6862 You are protected by a magical bubble!#
-6863 Your magical bubble fades.#
-6864 The guard over your body fades.#
-6865 The guard over your spirit fades.#
-6866 Your divine guard fades.#
-6867 Your amulet glows a faint red.#
-6868 You have nothing else to learn by trading with this shopkeep.#
-6869 The duck slips out from your pack!#
-6870 Instrument Background Tracks#
-6871 Enable instrument music tracks to continue while their effects are active but not actively being played.#
-6872 Instrument Foreground Tracks#
-6873 Instrument Foreground Tracks description#
-6874 You project your spirit away!#
-6875 Your spirit rejoins your body.#
-6876 Your spirit projection begins to fade...#
-6877 Profile#
-6878 Quack#
-6879 Return#
-6880 Hotbar Keys Update Selection#
-6881 Allow the highlighted hotbar slot to change when using the individual slot keys to activate the hotbar.#
-6882 The rot invigorates you!#
-6883 You shed your burning foliage!#
-6884 You sprout forth a shrub!#
-6885 You spore forth a mushroom!#
-6886 Your vandalism energizes you!#
-6887 Select transmutation result:#
-6888 Confirm#
-6889 Deselect#
-6890 %s grows in strength!#
-6891 The %s cannot grow any stronger!#
-6892 %s cannot grow any stronger!#
-6893 %s shrivels away!#
-6894 The %s cannot shrivel down any further!#
-6895 %s cannot shrivel down any further!#
-6896 You feel enlarged!#
-6897 You feel diminished!#
-6898 Your stature feels ordinary once more.#
-6899 You were unable to scry any other allies.#
-6900 %s loses their courage!#
-6901 %s is encouraged!#
-6902 %s is compelled to your command!#
-6903 %s becomes a scapegoat!#
-6904 You curse the flesh of %s!#
-6905 The %s's vitality is defied!#
-6906 %s's vitality is defied!#
-6907 Your vitality is defied!#
-6908 Your spell has no effect right now!#
-6909 %s's spell power is diminished!#
-6910 The %s's spell power is diminished!#
-6911 Your spell power is diminished!#
-6912 You suddenly feel rather tall!#
-6913 You suddenly feel rather small!#
-6914 You suddenly detect a change of appearance!#
-6915 Cauldron#
-6916 Your dousing flames increase your fervor!#
-6917 Your impervious armor fades.#
-6918 You are blazing with radiance!#
-6919 Your scales constrict into impervious stone!#
-6920 Your temperance returns to normal.#
-6921 Your radiance reaches a more stable level.#
-6922 You are unable to charge your symbol any further!#
-6923 You are unable to charge your icon any further!#
-6924 Your foliage flourishes with nutrition!#
-6925 Your foliage grows!#
-6926 Your prayer on %s fades.#
-6927 Your prayer on the %s fades.#
-6928 The %s receives a prayer for healing!#
-6929 %s receives a prayer for healing!#
-6930 You pray for healing!#
-6931 Your prayer fades.#
-6932 You receive a healing prayer!#
-6933 Your prayer was interrupted!#
-6934 The blood ward cures your poisoning!#
-6935 The blood ward cures your bleeding!#
-6936 You are unable to scry any allies.#
-6937 You are unable to scry any traps nearby.#
-6938 You are unable to scry any other traps nearby.#
-6939 You are unable to scry any treasures nearby.#
-6940 You are unable to scry any other treasures nearby.#
-6941 You were not deemed worthy of an additional donation.#
-6942 Your call for divine providence falls unanswered.#
-6943 You discover a gift of divine providence!#
-6944 Your ally %s discovers a gift of divine providence!#
-6945 %s's ally %s discovers a gift of divine providence!#
-6946 You are unable to detect any more monsters nearby.#
-6947 You are unable to detect any monsters nearby.#
-6948 You are unable to pinpoint any more monsters nearby.#
-6949 You are unable to pinpoint any monsters nearby.#
-6950 The %s gets smited with divine precision!#
-6951 %s gets smited with divine precision!#
-6952 You cover the area with a divine sigil!#
-6953 You cover the area with divine sanctuary!#
-6954 The %s is purchased into your service!#
-6955 %s is purchased into your service!#
-6956 (%02d:%02d%) Appraising...#
-6957 (%02d:%02d%) %3.0f%% Appraising...#
-6958 You sabotage the construction of the %s!#
-6959 You sabotage the construction of %s!#
-6960 Your skeleton key is damaged.#
-6961 Your skeleton key is broken.#
-6962 Your current power is unable to dominate any more creatures.#
-6963 The scarab inflicts a curse of weakness!#
-6964 The scarab inflicts a greater curse of weakness!#
+6843 Invocar#
+6844 Tocar#
+6845 Recuerdas tu luz anterior.#
+6846 Zona muerta de movimiento del jugador#
+6847 Afecta la zona muerta analógica de la palanca de control utilizada para el movimiento del jugador.#
+6848 Zona muerta de giro de cámara#
+6849 Afecta la zona muerta analógica de la palanca de control utilizada para girar la cámara del jugador.#
+6850 tabla de %s#
+6851 tablas de %s#
+6852 ¡El %s se deteriora y se convierte en cenizas!#
+6853 no sobrevivió al impacto.#
+6854 Velocidad#
+6855 No hay suficientes recursos#
+6856 ¡Tu hechizo no puede absorber más magia!#
+6857 ¡Tu hechizo absorbe el golpe entrante!#
+6858 ¡Tu magia absorbida aumentó tu daño!#
+6859 Tu capa de llamas se reduce a cenizas.#
+6860 ¡Tu capa de llamas está rugiendo en llamas!#
+6861 ¡El pergamino estalla en un manto de llamas!#
+6862 ¡Estás protegido por una burbuja mágica!#
+6863 Tu burbuja mágica se desvanece.#
+6864 La guardia sobre tu cuerpo se desvanece.#
+6865 La guardia sobre tu espíritu se desvanece.#
+6866 Tu guardia divina se desvanece.#
+6867 Tu amuleto brilla con un color rojo tenue.#
+6868 No tienes nada más que aprender comerciando con este comerciante.#
+6869 ¡El pato se escapa de tu mochila!#
+6870 Pistas de fondo de instrumentos#
+6871 Permita que las pistas de música de instrumentos continúen mientras sus efectos estén activos pero no se reproduzcan activamente.#
+6872 Pistas de primer plano del instrumento#
+6873 Descripción de Pistas en primer plano del instrumento#
+6874 ¡Proyectas tu espíritu!#
+6875 Tu espíritu se reúne con tu cuerpo.#
+6876 Tu proyección espiritual comienza a desvanecerse...#
+6877 Perfil#
+6878 Cuac#
+6879 Volver#
+6880 Selección de actualización de teclas de la barra de acceso rápido#
+6881 Permita que la ranura de la barra de acceso rápido resaltada cambie cuando use las teclas de ranura individuales para activar la barra de acceso rápido.#
+6882 ¡La podredumbre te vigoriza!#
+6883 ¡Te deshaces de tu follaje ardiente!#
+6884 ¡Brotas un arbusto!#
+6885 ¡Haces brotar un hongo de esporas!#
+6886 ¡Tu vandalismo te da energía!#
+6887 Seleccione el resultado de la transmutación:#
+6888 Confirmar#
+6889 Deseleccionar#
+6890 ¡%s crece en fuerza!#
+6891 ¡El %s no puede volverse más fuerte!#
+6892 ¡%s no puede volverse más fuerte!#
+6893 ¡%s se marchita!#
+6894 ¡El %s no puede marchitarse más!#
+6895 ¡%s no puede marchitarse más!#
+6896 ¡Te sientes agrandado!#
+6897 ¡Te sientes disminuido!#
+6898 Tu estatura se siente normal una vez más.#
+6899 No pudiste vislumbrar a ningún otro aliado.#
+6900 ¡%s pierde el coraje!#
+6901 ¡Se anima a %s!#
+6902 ¡%s está obligado a obedecer tus órdenes!#
+6903 ¡%s se convierte en un chivo expiatorio!#
+6904 ¡Maldices la carne de %s!#
+6905 ¡La vitalidad del %s está desafiada!#
+6906 ¡La vitalidad de %s está desafiada!#
+6907 ¡Tu vitalidad está desafiada!#
+6908 ¡Tu hechizo no tiene ningún efecto en este momento!#
+6909 ¡El poder con hechizos de %s ha disminuido!#
+6910 ¡El poder con hechizos del %s ha disminuido!#
+6911 ¡Tu poder con hechizos ha disminuido!#
+6912 ¡De repente te sientes bastante alto!#
+6913 ¡De repente te sientes bastante pequeño!#
+6914 ¡De repente detectas un cambio de apariencia!#
+6915 Caldero#
+6916 ¡Tus llamas apagadas aumentan tu fervor!#
+6917 Tu armadura impermeable se desvanece.#
+6918 ¡Estás ardiendo con resplandor!#
+6919 ¡Tus escamas se contraen hasta convertirse en piedra impermeable!#
+6920 Tu templanza vuelve a la normalidad.#
+6921 Tu resplandor alcanza un nivel más estable.#
+6922 ¡Ya no puedes cargar tu símbolo!#
+6923 ¡Ya no puedes cargar tu ícono!#
+6924 ¡Tu follaje florece con nutrición!#
+6925 ¡Tu follaje crece!#
+6926 Tu oración sobre %s se desvanece.#
+6927 Tu oración en el %s se desvanece.#
+6928 ¡El %s recibe una oración por curación!#
+6929 ¡%s recibe una oración por curación!#
+6930 ¡Oras por curación!#
+6931 Tu oración se desvanece.#
+6932 ¡Recibes una oración de sanación!#
+6933 ¡Tu oración fue interrumpida!#
+6934 ¡La protección sanguínea cura tu envenenamiento!#
+6935 ¡La protección sanguínea cura tu sangrado!#
+6936 No puedes vislumbrar aliados.#
+6937 No puedes vislumbrar trampas cercanas.#
+6938 No puedes vislumbrar más trampas cercanas.#
+6939 No puedes vislumbrar tesoros cercanos.#
+6940 No puedes vislumbrar más tesoros cercanos.#
+6941 No se le consideró digno de una donación adicional.#
+6942 Su llamado a la divina providencia queda sin respuesta.#
+6943 ¡Descubres un don de la divina providencia!#
+6944 ¡Tu aliado %s descubre un regalo de la divina providencia!#
+6945 ¡El aliado de %s, %s, descubre un regalo de la divina providencia!#
+6946 No puedes detectar más monstruos cerca.#
+6947 No puedes detectar ningún monstruo cercano.#
+6948 No puedes localizar más monstruos cercanos.#
+6949 No puedes localizar monstruos cercanos.#
+6950 ¡El %s es golpeado con precisión divina!#
+6951 ¡%s es golpeado con precisión divina!#
+6952 ¡Cubres el área con un sello divino!#
+6953 ¡Cubres el área con un santuario divino!#
+6954 ¡El %s se une a tu servicio!#
+6955 ¡%s se une a tu servicio!#
+6956 (%02d:%02d%) Tasando...#
+6957 (%02d:%02d%) %3.0f%% Tasando...#
+6958 ¡Saboteas la construcción del %s!#
+6959 ¡Saboteas la construcción de %s!#
+6960 Tu llave maestra está dañada.#
+6961 Tu llave maestra está rota.#
+6962 Tu poder actual no puede dominar más criaturas.#
+6963 ¡El escarabajo inflige una maldición de debilidad!#
+6964 ¡El escarabajo inflige una maldición mayor de debilidad!#
 6965 N/A#
-6966 Your influence is not high enough to compel the %s!#
-6967 Your influence is not high enough to compel %s!#
-6968 The %s refuses to be compelled further!#
-6969 %s refuses to be compelled further!#
-6970 was unable to drop some of their equipment.#
-6971 Your magical bubble enhances!#
-6972 Your magical bubble has reached the limit of your powers.#
-6973 Some of your gold has vanished!#
-6974 cauldron#
-6975 The cauldron is currently in use by someone else.#
-6976 You see a cauldron.#
-6977 Use cauldron#
-6978 Workbench#
-6979 Use workbench#
-6980 You see a workbench.#
-6981 workbench#
-6982 The workbench is currently in use by someone else.#
-6983 Mailbox#
-6984 Use mailbox#
-6985 You see a mailbox.#
-6986 mailbox#
-6987 The mailbox is currently in use by someone else.#
-6988 Claim#
-6989 Deserters and Disciples DLC
-has been unlocked!#
-6990 You are blinded by a flying slop ball!
- *SPLAT*#
-6991 Yum! Rotten food!#
-6992 Your unidentified items are further appraised!#
-6993 Alternate Item Use Modifier#
-6994 Hotbar Quickcast Spells#
-6995 When enabled, activating spells from the hotbar will immediately attempt to cast them.#
-6996 Mouse Events Limit#
-6997 Limits the amount of mouse movement events processed per frame to prevent large camera swings.#
-6998 Unlimited#
+6966 ¡Tu influencia no es lo suficientemente alta como para obligar al %s!#
+6967 ¡Tu influencia no es lo suficientemente alta como para obligar a %s!#
+6968 ¡El %s se niega a ser obligado a seguir adelante!#
+6969 ¡%s se niega a ser obligado a seguir!#
+6970 no pudo dejar caer parte de su equipo.#
+6971 ¡Tu burbuja mágica mejora!#
+6972 Tu burbuja mágica ha llegado al límite de tus poderes.#
+6973 ¡Parte de tu oro ha desaparecido!#
+6974 caldero#
+6975 El caldero lo está utilizando actualmente otra persona.#
+6976 Ves un caldero.#
+6977 usar caldero#
+6978 Banco de trabajo#
+6979 usar banco de trabajo#
+6980 Ves un banco de trabajo.#
+6981 banco de trabajo#
+6982 Actualmente otra persona está utilizando el banco de trabajo.#
+6983 Buzón#
+6984 Usar buzón#
+6985 Ves un buzón.#
+6986 buzón#
+6987 El buzón está siendo utilizado actualmente por otra persona.#
+6988 Reclamar#
+6989 El DLC Desertores y Discípulos
+¡ha sido desbloqueado!#
+6990 ¡Quedas cegado por una bola de desechos voladora!
+ *¡SPLAT!*#
+6991 ¡Mmm! ¡Comida podrida!#
+6992 ¡Tus objetos no identificados son tasados aún más!#
+6993 Modificador alternativo de uso de objeto#
+6994 Hechizos de lanzamiento rápido en barra#
+6995 Cuando está habilitado, la activación de hechizos desde la barra de acceso rápido intentará lanzarlos inmediatamente.#
+6996 Límite de eventos del mouse#
+6997 Limita la cantidad de eventos de movimiento del mouse procesados ​​por cuadro para evitar grandes cambios de cámara.#
+6998 Ilimitado#
 
 7999 END#
 
