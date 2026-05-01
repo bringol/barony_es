@@ -142,7 +142,7 @@
             "name_unidentified": "botas de acero"
         },
         "steel_boots_levitation": {
-            "name_identified": "botas de cuero de levitación",
+            "name_identified": "botas de acero de levitación",
             "name_unidentified": "botas de acero"
         },
         "steel_boots_feather": {
@@ -534,7 +534,7 @@
             "name_unidentified": "gema"
         },
         "gem_emerald": {
-            "name_identified": "emeralda",
+            "name_identified": "esmeralda",
             "name_unidentified": "gema"
         },
         "gem_sapphire": {
@@ -602,8 +602,8 @@
             "name_unidentified": "linterna"
         },
         "tool_blindfold": {
-            "name_identified": "venda para los ojos",
-            "name_unidentified": "venda para los ojos"
+            "name_identified": "antifaz",
+            "name_unidentified": "antifaz"
         },
         "tool_towel": {
             "name_identified": "toalla",
@@ -614,8 +614,8 @@
             "name_unidentified": "gafas"
         },
         "tool_beartrap": {
-            "name_identified": "trampa de oso",
-            "name_unidentified": "cepo"
+            "name_identified": "trampa de mandíbula",
+            "name_unidentified": "trampa de mandíbula"
         },
         "food_bread": {
             "name_identified": "pan",
@@ -702,16 +702,16 @@
             "name_unidentified": "yelmo de cristal"
         },
         "crystal_boots": {
-            "name_identified": "botas de cristals",
-            "name_unidentified": "botas de cristals"
+            "name_identified": "botas de cristal",
+            "name_unidentified": "botas de cristal"
         },
         "crystal_shield": {
             "name_identified": "escudo de cristal",
             "name_unidentified": "escudo de cristal"
         },
         "crystal_gloves": {
-            "name_identified": "guanteletes de cristals",
-            "name_unidentified": "guanteletes de cristals"
+            "name_identified": "guanteletes de cristal",
+            "name_unidentified": "guanteletes de cristal"
         },
         "vampire_doublet": {
             "name_identified": "jubón de vampiro",
@@ -742,8 +742,8 @@
             "name_unidentified": "nudillos"
         },
         "food_tomalley": {
-            "name_identified": "hígado de marisco",
-            "name_unidentified": "hígado de marisco"
+            "name_identified": "hígado de langosta",
+            "name_unidentified": "hígado de langosta"
         },
         "tool_crystalshard": {
             "name_identified": "fragmento de cristal",
@@ -798,12 +798,12 @@
             "name_unidentified": "bastón mágico"
         },
         "tool_blindfold_focus": {
-            "name_identified": "venda de accion libre",
-            "name_unidentified": "venda"
+            "name_identified": "antifaz de acción libre",
+            "name_unidentified": "antifaz"
         },
         "tool_blindfold_telepathy": {
-            "name_identified": "venda de telepatía",
-            "name_unidentified": "venda"
+            "name_identified": "antifaz de telepatía",
+            "name_unidentified": "antifaz"
         },
         "spellbook_summon": {
             "name_identified": "grimorio de invocar esqueleto",
@@ -891,15 +891,15 @@
         },
         "potion_firestorm": {
             "name_identified": "poción de tormenta de fuego",
-            "name_unidentified": "unstable potion"
+            "name_unidentified": "poción inestable"
         },
         "potion_icestorm": {
             "name_identified": "poción de tormenta de hielo",
-            "name_unidentified": "unstable potion"
+            "name_unidentified": "poción inestable"
         },
         "potion_thunderstorm": {
             "name_identified": "poción de tormenta eléctrica",
-            "name_unidentified": "unstable potion"
+            "name_unidentified": "poción inestable"
         },
         "potion_strength": {
             "name_identified": "poción de fuerza",
@@ -982,7 +982,7 @@
             "name_unidentified": "máscara shamánica"
         },
         "spellbook_amplify_magic": {
-            "name_identified": "grimorio de amplificar magia",
+            "name_identified": "grimorio de foco elemental",
             "name_unidentified": "grimorio"
         },
         "spellbook_shadow_tag": {
@@ -1022,11 +1022,11 @@
             "name_unidentified": "grimorio"
         },
         "spellbook_9": {
-            "name_identified": "grimorio de 9",
+            "name_identified": "grimorio 9",
             "name_unidentified": "grimorio"
         },
         "spellbook_10": {
-            "name_identified": "grimorio de 10",
+            "name_identified": "grimorio 10",
             "name_unidentified": "grimorio"
         },
         "magicstaff_poison": {
@@ -1046,8 +1046,8 @@
             "name_unidentified": "kit de fabricación"
         },
         "tool_sentrybot": {
-            "name_identified": "centinela ballestero",
-            "name_unidentified": "centinela ballestero"
+            "name_identified": "ballestero",
+            "name_unidentified": "ballestero"
         },
         "tool_detonated_charge": {
             "name_identified": "detonador",
@@ -1074,8 +1074,8 @@
             "name_unidentified": "girobot"
         },
         "tool_spellbot": {
-            "name_identified": "centinela mágico",
-            "name_unidentified": "centinela mágico"
+            "name_identified": "magibot",
+            "name_unidentified": "magibot"
         },
         "tool_decoy": {
             "name_identified": "sonajero",
@@ -1157,17 +1157,17 @@
             "name_identified": "caja mortuoria",
             "name_unidentified": "caja mortuoria"
         },
-        "mask_bandit": {
+		"mask_bandit": {
 			"name_identified": "máscara de bandido",
 			"name_unidentified": "máscara de bandido"
 		},
 		"mask_eyepatch": {
-			"name_identified": "parche en el ojo",
-			"name_unidentified": "parche en el ojo"
+			"name_identified": "parche para ojos",
+			"name_unidentified": "parche para ojos"
 		},
 		"mask_masquerade": {
-			"name_identified": "máscara de comparsa",
-			"name_unidentified": "máscara de comparsa"
+			"name_identified": "máscara de carnaval",
+			"name_unidentified": "máscara de carnaval"
 		},
 		"mask_mouth_rose": {
 			"name_identified": "rosa",
@@ -1218,8 +1218,8 @@
 			"name_unidentified": "sombrero emplumado"
 		},
 		"hat_bycocket": {
-			"name_identified": "Felucca",
-			"name_unidentified": "Felucca"
+			"name_identified": "feluca",
+			"name_unidentified": "feluca"
 		},
 		"hat_tophat": {
 			"name_identified": "sombrero de copa",
@@ -1298,7 +1298,7 @@
 			"name_unidentified": "visera de cristal"
 		},
 		"mask_artifact_visor": {
-			"name_identified": "Velo de la Valkiria",
+			"name_identified": "Velo de la Valquiria",
 			"name_unidentified": "visera de artefacto"
 		},
 		"hat_circlet_wisdom": {
@@ -1316,7 +1316,787 @@
 		"hat_hood_whispers": {
 			"name_identified": "capucha de susurros",
 			"name_unidentified": "capucha"
-		}
+		},
+		"ring_resolve": {
+			"name_identified": "anillo de resolución",
+			"name_unidentified": "anillo"
+		},
+		"cloak_guardian": {
+			"name_identified": "capa del guardián",
+			"name_unidentified": "capa"
+		},
+		"mask_marigold": {
+			"name_identified": "caléndula",
+			"name_unidentified": "caléndula"
+		},
+		"key_stone": {
+			"name_identified": "llave pétrea",
+			"name_unidentified": "llave pétrea"
+		},
+		"key_bone": {
+			"name_identified": "llave espiritual",
+			"name_unidentified": "llave espiritual"
+		},
+		"key_bronze": {
+			"name_identified": "llave de bronce",
+			"name_unidentified": "llave de bronce"
+		},
+		"key_iron": {
+			"name_identified": "llave de hierro",
+			"name_unidentified": "llave de hierro"
+		},
+		"key_silver": {
+			"name_identified": "llave de plata",
+			"name_unidentified": "llave de plata"
+		},
+		"key_gold": {
+			"name_identified": "llave de oro",
+			"name_unidentified": "llave de oro"
+		},
+		"key_crystal": {
+			"name_identified": "llave de cristal",
+			"name_unidentified": "llave de cristal"
+		},
+		"key_machine": {
+			"name_identified": "llave de maquinaria",
+			"name_unidentified": "llave de maquinaria"
+		},
+		"tool_foci_fire": {
+			"name_identified": "foco ígneo",
+			"name_unidentified": "foco"
+		},
+		"instrument_flute": {
+			"name_identified": "flauta",
+			"name_unidentified": "flauta"
+		},
+		"instrument_lyre": {
+			"name_identified": "lira",
+			"name_unidentified": "lira"
+		},
+		"instrument_drum": {
+			"name_identified": "tambor",
+			"name_unidentified": "tambor"
+		},
+		"instrument_lute": {
+			"name_identified": "laúd",
+			"name_unidentified": "laúd"
+		},
+		"instrument_horn": {
+			"name_identified": "cuerno",
+			"name_unidentified": "cuerno"
+		},
+		"rapier": {
+			"name_identified": "espada ropera",
+			"name_unidentified": "espada ropera"
+		},
+		"amulet_burningresist": {
+            "name_identified": "amuleto de resistir quemaduras",
+            "name_unidentified": "amuleto"
+        },
+		"grease_ball": {
+			"name_identified": "bola de grasa",
+			"name_unidentified": "bola de grasa"
+		},
+		"branch_staff": {
+			"name_identified": "bastón de rama",
+			"name_unidentified": "bastón de rama"
+		},
+		"branch_bow": {
+			"name_identified": "arco de rama",
+			"name_unidentified": "arco de rama"
+		},
+		"branch_bow_infected": {
+			"name_identified": "arco de rama infectada",
+			"name_unidentified": "arco de rama infectada"
+		},
+		"dust_ball": {
+			"name_identified": "bola de polvo",
+			"name_unidentified": "bola de polvo"
+		},
+		"bolas": {
+			"name_identified": "boleadoras",
+			"name_unidentified": "boleadoras"
+		},
+		"steel_flail": {
+			"name_identified": "mangual de acero",
+			"name_unidentified": "mangual de acero"
+		},
+		"food_ration": {
+			"name_identified": "ración",
+			"name_unidentified": "ración"
+		},
+		"food_ration_spicy": {
+			"name_identified": "ración picante",
+			"name_unidentified": "ración"
+		},
+		"food_ration_sour": {
+			"name_identified": "ración agria",
+			"name_unidentified": "ración"
+		},
+		"food_ration_bitter": {
+			"name_identified": "ración amarga",
+			"name_unidentified": "ración"
+		},
+		"food_ration_hearty": {
+			"name_identified": "ración abundante",
+			"name_unidentified": "ración"
+		},
+		"food_ration_herbal": {
+			"name_identified": "ración a base de hierbas",
+			"name_unidentified": "ración"
+		},
+		"food_ration_sweet": {
+			"name_identified": "ración dulce",
+			"name_unidentified": "ración"
+		},
+		"slop_ball": {
+			"name_identified": "bola de desechos",
+			"name_unidentified": "bola de desechos"
+		},
+		"tool_frying_pan": {
+			"name_identified": "sartén",
+			"name_unidentified": "sartén"
+		},
+		"cleat_boots": {
+			"name_identified": "botas de montaña",
+			"name_unidentified": "botas de montaña"
+		},
+		"bandit_breastpiece": {
+            "name_identified": "coraza de cuero de bandido",
+            "name_unidentified": "coraza de cuero"
+        },
+		"tunic_blouse": {
+            "name_identified": "blusa",
+            "name_unidentified": "blusa"
+        },
+		"bone_breastpiece": {
+            "name_identified": "coraza de hueso",
+            "name_unidentified": "coraza de hueso"
+        },
+		"blackiron_breastpiece": {
+            "name_identified": "coraza de hierro negro",
+            "name_unidentified": "coraza de hierro negro"
+        },
+		"silver_breastpiece": {
+            "name_identified": "coraza de plata",
+            "name_unidentified": "coraza de plata"
+        },
+		"iron_pauldrons": {
+            "name_identified": "hombreras de hierro",
+            "name_unidentified": "hombreras de hierro"
+        },
+		"quilted_gambeson": {
+            "name_identified": "gambesón acolchado",
+            "name_unidentified": "gambesón acolchado"
+        },
+		"robe_cultist": {
+            "name_identified": "capa de cultista",
+            "name_unidentified": "capa de cultista"
+        },
+		"robe_healer": {
+            "name_identified": "capa de sanador",
+            "name_unidentified": "capa de sanador"
+        },
+		"robe_monk": {
+            "name_identified": "manto de monje",
+            "name_unidentified": "manto de monje"
+        },
+		"robe_wizard": {
+            "name_identified": "capa de mago",
+            "name_unidentified": "capa de mago"
+        },
+		"shawl": {
+            "name_identified": "chal",
+            "name_unidentified": "chal"
+        },
+		"chain_hauberk": {
+            "name_identified": "cota de malla",
+            "name_unidentified": "cota de malla"
+        },
+		"bone_bracers": {
+            "name_identified": "brazaletes de hueso",
+            "name_unidentified": "brazaletes de hueso"
+        },
+		"blackiron_gauntlets": {
+            "name_identified": "guanteletes de hierro negro",
+            "name_unidentified": "guanteletes de hierro negro"
+        },
+		"silver_gauntlets": {
+            "name_identified": "guanteletes de plata",
+            "name_unidentified": "guanteletes de plata"
+        },
+		"quilted_gloves": {
+            "name_identified": "guantes acolchados",
+            "name_unidentified": "guantes acolchados"
+        },
+		"chain_gloves": {
+            "name_identified": "guantes de malla",
+            "name_unidentified": "guantes de malla"
+        },
+		"bone_boots": {
+            "name_identified": "botas de hueso",
+            "name_unidentified": "botas de hueso"
+        },
+		"blackiron_boots": {
+            "name_identified": "botas de hierro negro",
+            "name_unidentified": "botas de hierro negro"
+        },
+		"silver_boots": {
+            "name_identified": "botas de plata",
+            "name_unidentified": "botas de plata"
+        },
+		"quilted_boots": {
+            "name_identified": "botas acolchadas",
+            "name_unidentified": "botas acolchadas"
+        },
+		"loafers": {
+            "name_identified": "mocasines",
+            "name_unidentified": "mocasines"
+        },
+		"chain_boots": {
+            "name_identified": "botas de malla",
+            "name_unidentified": "botas de malla"
+        },
+		"scutum": {
+            "name_identified": "scutum",
+            "name_unidentified": "scutum"
+        },
+		"bone_shield": {
+            "name_identified": "escudo de hueso",
+            "name_unidentified": "escudo hueso"
+        },
+		"blackiron_shield": {
+            "name_identified": "escudo de hierro negro",
+            "name_unidentified": "escudo de hierro negro"
+        },
+		"silver_shield": {
+            "name_identified": "escudo de plata",
+            "name_unidentified": "escudo de plata"
+        },
+		"cloak_dendrite": {
+            "name_identified": "capa dendrítica",
+            "name_unidentified": "capa dendrítica"
+        },
+		"bone_helm": {
+            "name_identified": "casco de hueso",
+            "name_unidentified": "casco de hueso"
+        },
+		"blackiron_helm": {
+            "name_identified": "casco de hierro negro",
+            "name_unidentified": "casco de hierro negro"
+        },
+		"silver_helm": {
+            "name_identified": "casco de plata",
+            "name_unidentified": "casco de plata"
+        },
+		"hat_felt": {
+            "name_identified": "sombrero de fieltro",
+            "name_unidentified": "sombrero de fieltro"
+        },
+		"quilted_cap": {
+            "name_identified": "sombrero acolchado",
+            "name_unidentified": "sombrero acolchado"
+        },
+		"hood_teal": {
+            "name_identified": "sombrero verde azulado",
+            "name_unidentified": "sombrero verde azulado"
+        },
+		"chain_coif": {
+            "name_identified": "capucha de malla",
+            "name_unidentified": "capucha de malla"
+        },
+		"food_shroom": {
+            "name_identified": "rodaja de hongos",
+            "name_unidentified": "rodaja de hongos"
+        },
+		"food_nut": {
+            "name_identified": "nuez",
+            "name_unidentified": "nuez"
+        },
+		"tool_foci_snow": {
+			"name_identified": "foco gélido",
+			"name_unidentified": "foco"
+		},
+		"tool_foci_needles": {
+			"name_identified": "foco pungente",
+			"name_unidentified": "foco"
+		},
+		"tool_foci_arcs": {
+			"name_identified": "foco voltáico",
+			"name_unidentified": "foco"
+		},
+		"tool_foci_sand": {
+			"name_identified": "foco desértico",
+			"name_unidentified": "foco"
+		},
+		"tool_foci_dark_life": {
+			"name_identified": "ícono de reclamar vida",
+			"name_unidentified": "ícono"
+		},
+		"tool_foci_dark_rift": {
+			"name_identified": "ícono de grieta del vacío",
+			"name_unidentified": "ícono"
+		},
+		"tool_foci_dark_silence": {
+			"name_identified": "ícono de silencio",
+			"name_unidentified": "ícono"
+		},
+		"tool_foci_dark_vengeance": {
+			"name_identified": "ícono de venganza",
+			"name_unidentified": "ícono"
+		},
+		"tool_foci_dark_suppress": {
+			"name_identified": "ícono de supresión",
+			"name_unidentified": "ícono"
+		},
+		"tool_foci_light_peace": {
+			"name_identified": "símbolo de paz",
+			"name_unidentified": "símbolo"
+		},
+		"tool_foci_light_justice": {
+			"name_identified": "símbolo de justicia",
+			"name_unidentified": "símbolo"
+		},
+		"tool_foci_light_providence": {
+			"name_identified": "símbolo de providencia",
+			"name_unidentified": "símbolo"
+		},
+		"tool_foci_light_purity": {
+			"name_identified": "símbolo de pureza",
+			"name_unidentified": "símbolo"
+		},
+		"tool_foci_light_sanctuary": {
+			"name_identified": "símbolo del santuario",
+			"name_unidentified": "símbolo"
+		},
+		"magicstaff_scepter": {
+			"name_identified": "cetro de arconte",
+			"name_unidentified": "cetro"
+		},
+		"tome_sorcery": {
+			"name_identified": "tabla",
+			"name_unidentified": "tabla"
+		},
+		"tome_mysticism": {
+			"name_identified": "tabla",
+			"name_unidentified": "tabla"
+		},
+		"tome_thaumaturgy": {
+			"name_identified": "tabla",
+			"name_unidentified": "tabla"
+		},
+		"hat_circlet_sorcery": {
+			"name_identified": "diadema de hechicería",
+			"name_unidentified": "diadema"
+		},
+		"hat_circlet_thaumaturgy": {
+			"name_identified": "diadema de taumaturgia",
+			"name_unidentified": "diadema"
+		},
+		"tool_duck": {
+			"name_identified": "pato",
+			"name_unidentified": "pato"
+		},
+		"shillelagh_mace": {
+			"name_identified": "garrote",
+			"name_unidentified": "garrote"
+		},
+		"claymore_sword": {
+			"name_identified": "mandoble",
+			"name_unidentified": "mandoble"
+		},
+		"anelace_sword": {
+			"name_identified": "anelace",
+			"name_unidentified": "anelace"
+		},
+		"lance_spear": {
+			"name_identified": "lanza",
+			"name_unidentified": "lanza"
+		},
+		"steel_falshion": {
+			"name_identified": "bracamante de acero",
+			"name_unidentified": "bracamante de acero"
+		},
+		"steel_greataxe": {
+			"name_identified": "gran hacha de acero",
+			"name_unidentified": "gran hacha de acero"
+		},
+		"blackiron_axe": {
+			"name_identified": "hacha de hierro negro",
+			"name_unidentified": "hacha de hierro negro"
+		},
+		"blackiron_crossbow": {
+			"name_identified": "ballesta de hierro negro",
+			"name_unidentified": "ballesta de hierro negro"
+		},
+		"blackiron_dart": {
+			"name_identified": "dardo de hierro negro",
+			"name_unidentified": "dardo de hierro negro"
+		},
+		"blackiron_mace": {
+			"name_identified": "maza de hierro negro",
+			"name_unidentified": "maza de hierro negro"
+		},
+		"blackiron_sword": {
+			"name_identified": "espada de hierro negro",
+			"name_unidentified": "espada de hierro negro"
+		},
+		"blackiron_trident": {
+			"name_identified": "tridente de hierro negro",
+			"name_unidentified": "tridente de hierro negro"
+		},
+		"bone_axe": {
+			"name_identified": "hacha de hueso",
+			"name_unidentified": "hacha de hueso"
+		},
+		"bone_mace": {
+			"name_identified": "maza de hueso",
+			"name_unidentified": "maza de hueso"
+		},
+		"bone_shortbow": {
+			"name_identified": "arco corto de hueso",
+			"name_unidentified": "arco corto de hueso"
+		},
+		"bone_spear": {
+			"name_identified": "lanza de hueso",
+			"name_unidentified": "lanza de hueso"
+		},
+		"bone_sword": {
+			"name_identified": "espada de hueso",
+			"name_unidentified": "espada de hueso"
+		},
+		"bone_throwing": {
+			"name_identified": "hueso",
+			"name_unidentified": "hueso"
+		},
+		"silver_axe": {
+			"name_identified": "hacha de plata",
+			"name_unidentified": "hacha de plata"
+		},
+		"silver_glaive": {
+			"name_identified": "guja de plata",
+			"name_unidentified": "guja de plata"
+		},
+		"silver_mace": {
+			"name_identified": "maza de plata",
+			"name_unidentified": "maza de plata"
+		},
+		"silver_plumbata": {
+			"name_identified": "plumbata de plata",
+			"name_unidentified": "plumbata de plata"
+		},
+		"silver_sword": {
+			"name_identified": "espada de plata",
+			"name_unidentified": "espada de plata"
+		},
+		"quiver_bone": {
+			"name_identified": "carcaj de flechas de hueso",
+			"name_unidentified": "carcaj"
+		},
+		"quiver_blackiron": {
+			"name_identified": "carcaj de flechas de hierro negro",
+			"name_unidentified": "carcaj"
+		},
+		"gem_jewel": {
+			"name_identified": "joya",
+			"name_unidentified": "joya"
+		},
+		"spellbook_meteor": {
+            "name_identified": "grimorio de meteorito",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_ice_wave": {
+            "name_identified": "grimorio de onda de gélida",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_guard_body": {
+            "name_identified": "grimorio de protección corporal",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_guard_spirit": {
+            "name_identified": "grimorio de protección espiritual",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_divine_guard": {
+            "name_identified": "grimorio de protección divina",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_prof_nimbleness": {
+            "name_identified": "grimorio de ligereza",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_prof_greater_might": {
+            "name_identified": "grimorio de fuerza mayor",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_prof_counsel": {
+            "name_identified": "grimorio de consejo",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_prof_sturdiness": {
+            "name_identified": "grimorio de robustez",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_bless_food": {
+            "name_identified": "grimorio de bendecir alimento",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_pinpoint": {
+            "name_identified": "grimorio de localizar",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_donation": {
+            "name_identified": "grimorio de donación",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_scry_allies": {
+            "name_identified": "grimorio de vislumbrar aliados",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_scry_traps": {
+            "name_identified": "grimorio de vislumbrar trampas",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_scry_treasures": {
+            "name_identified": "grimorio de vislumbrar tesoros",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_detect_enemy": {
+            "name_identified": "grimorio de detectar enemigo",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_turn_undead": {
+            "name_identified": "grimorio de exorcizar",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_heal_other": {
+            "name_identified": "grimorio de curación menor a otros",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_blood_ward": {
+            "name_identified": "grimorio de protección sanguínea",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_divine_zeal": {
+            "name_identified": "grimorio de fervor divino",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_maximise": {
+            "name_identified": "grimorio de maximizar",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_minimise": {
+            "name_identified": "grimorio de minimizar",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_incoherence": {
+            "name_identified": "grimorio de incoherencia",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_overcharge": {
+            "name_identified": "grimorio de sobrecarga",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_envenom_weapon": {
+            "name_identified": "grimorio de envenenar arma",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_psychic_spear": {
+            "name_identified": "grimorio de lanza psíquica",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_defy_flesh": {
+            "name_identified": "grimorio de profanar cuerpo",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_grease_spray": {
+            "name_identified": "grimorio de ráfaga de grasa",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_blood_waves": {
+            "name_identified": "grimorio de ondas sanguíneas",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_command": {
+            "name_identified": "grimorio de obligar",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_metallurgy": {
+            "name_identified": "grimorio de metalurgia",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_forge_key": {
+            "name_identified": "grimorio de forjar llave",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_reshape_weapon": {
+            "name_identified": "grimorio de reformar arma",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_alter_arrow": {
+            "name_identified": "grimorio de alterar flecha",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_void_chest": {
+            "name_identified": "grimorio de arca del vacío",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_lead_bolt": {
+            "name_identified": "grimorio de rayo de plomo",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_numbing_bolt": {
+            "name_identified": "grimorio de rayo adormecedor",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_curse_flesh": {
+            "name_identified": "grimorio de maldecir cuerpo",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_cowardice": {
+            "name_identified": "grimorio de cobardía",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_seek_ally": {
+            "name_identified": "grimorio de localizar aliado",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_deep_shade": {
+            "name_identified": "grimorio de sombra profunda",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_spirit_weapon": {
+            "name_identified": "grimorio de arma espiritual",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_spores": {
+            "name_identified": "grimorio de esporas",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_windgate": {
+            "name_identified": "grimorio de muro de viento",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_telekinesis": {
+            "name_identified": "grimorio de telequinesis",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_disarm": {
+            "name_identified": "grimorio de desarmar",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_abundance": {
+            "name_identified": "grimorio de abundancia",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_preserve": {
+            "name_identified": "grimorio de preservar",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_sabotage": {
+            "name_identified": "grimorio de sabotaje",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_mist_form": {
+            "name_identified": "grimorio de forma gaseosa",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_force_shield": {
+            "name_identified": "grimorio de defensa cinética",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_splinter_gear": {
+            "name_identified": "grimorio de destrozar armadura",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_attract_items": {
+            "name_identified": "grimorio de atraer objetos",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_absorb_magic": {
+            "name_identified": "grimorio de absorber magia",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_tunnel": {
+            "name_identified": "grimorio de portal",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_null_area": {
+            "name_identified": "grimorio de anular área",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_fire_sprite": {
+            "name_identified": "grimorio de invocar sílfide ígnea",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_spin": {
+            "name_identified": "grimorio de giro",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_cleanse_food": {
+            "name_identified": "grimorio de purificar alimento",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_flame_cloak": {
+            "name_identified": "grimorio de capa ígneo",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_lightning_bolt": {
+            "name_identified": "grimorio de destello de relámpago",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_disrupt_earth": {
+            "name_identified": "grimorio de fractura terrenal",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_fire_wall": {
+            "name_identified": "grimorio de muro ardiente",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_slam": {
+            "name_identified": "grimorio de elevar",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_ignite": {
+            "name_identified": "grimorio de incendiar",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_shatter_objects": {
+            "name_identified": "grimorio de destruir objetos",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_kinetic_field": {
+            "name_identified": "grimorio de campo cinético",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_thorns": {
+            "name_identified": "grimorio de espinas",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_magicians_armor": {
+            "name_identified": "grimorio de burbuja del mago",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_heal_minor": {
+            "name_identified": "grimorio de curación menor",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_sigil": {
+            "name_identified": "grimorio de sello sagrado",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_sanctuary": {
+            "name_identified": "grimorio de fortaleza divina",
+            "name_unidentified": "grimorio"
+        },
+        "spellbook_holy_beam": {
+            "name_identified": "grimorio de haz sagrado",
+            "name_unidentified": "grimorio"
+        },
+		"spellbook_dominate": {
+            "name_identified": "grimorio de dominar",
+            "name_unidentified": "grimorio"
+        }
     },
 	"spell_names": {
         "spell_forcebolt": {
@@ -1483,7 +2263,477 @@
 		},
 		"spell_ghost_bolt": {
 			"name": "Rayo Espectral"
+		},
+		"spell_slime_acid": {
+			"name": "Rocío de Cieno (Ácido)"
+		},
+		"spell_slime_water": {
+			"name": "Rocío de Cieno (Agua)"
+		},
+		"spell_slime_fire": {
+			"name": "Rocío de Cieno (Magma)"
+		},
+		"spell_slime_tar": {
+			"name": "Rocío de Cieno (Brea)"
+		},
+		"spell_slime_metal": {
+			"name": "Rocío de Cieno (Metal)"
+		},
+		"spell_foci_fire": {
+			"name": "Foco Ígneo"
+		},
+		"spell_foci_snow": {
+			"name": "Foco Gélido"
+		},
+		"spell_foci_needles": {
+			"name": "Foco Pungente"
+		},
+		"spell_foci_arcs": {
+			"name": "Foco Voláico"
+		},
+		"spell_foci_sandblast": {
+			"name": "Foco Desértico"
+		},
+		"spell_meteor": {
+			"name": "Meteorito"
+		},
+		"spell_flames": {
+			"name": "Llamas"
+		},
+		"spell_ice_wave": {
+			"name": "Onda de Gélida"
+		},
+		"spell_earth_elemental": {
+			"name": "Invocar Sílfide Pétrea"
+		},
+		"spell_bless_food": {
+			"name": "Bendecir Alimento"
+		},
+		"spell_shrub": {
+			"name": "Germinar"
+		},
+		"spell_conjure_food": {
+			"name": "Conjurar Alimento"
+		},
+		"spell_guard_body": {
+			"name": "Protección Corporal"
+		},
+		"spell_guard_spirit": {
+			"name": "Protección Espiritual"
+		},
+		"spell_divine_guard": {
+			"name": "Protección Divina"
+		},
+		"spell_prof_nimbleness": {
+			"name": "Ligereza"
+		},
+		"spell_prof_greater_might": {
+			"name": "Fuerza Mayor"
+		},
+		"spell_prof_counsel": {
+			"name": "Consejo"
+		},
+		"spell_prof_sturdiness": {
+			"name": "Robustez"
+		},
+		"spell_pinpoint": {
+			"name": "Localizar"
+		},
+		"spell_donation": {
+			"name": "Donación"
+		},
+		"spell_scry_allies": {
+			"name": "Vislumbrar Aliados"
+		},
+		"spell_scry_shrines": {
+			"name": "Vislumbrar Santuarios"
+		},
+		"spell_scry_traps": {
+			"name": "Vislumbrar Trampas"
+		},
+		"spell_scry_treasures": {
+			"name": "Vislumbrar Tesoros"
+		},
+		"spell_penance": {
+			"name": "Penitencia"
+		},
+		"spell_call_allies": {
+			"name": "Llamar a los Aliados"
+		},
+		"spell_sacred_path": {
+			"name": "Camino Sagrado"
+		},
+		"spell_manifest_destiny": {
+			"name": "Manifiestar Destino"
+		},
+		"spell_detect_enemy": {
+			"name": "Detectar Enemigo"
+		},
+		"spell_detect_enemies": {
+			"name": "Detectar Enemigos"
+		},
+		"spell_turn_undead": {
+			"name": "Exorcizar"
+		},
+		"spell_heal_other": {
+			"name": "Curación Menor a Otros"
+		},
+		"spell_blood_ward": {
+			"name": "Protección Sanguínea"
+		},
+		"spell_true_blood": {
+			"name": "Purasangre"
+		},
+		"spell_divine_zeal": {
+			"name": "Fervor Divino"
+		},
+		"spell_alter_instrument": {
+			"name": "Alterar Instrumento"
+		},
+		"spell_maximise": {
+			"name": "Maximizar"
+		},
+		"spell_minimise": {
+			"name": "Minimizar"
+		},
+		"spell_jump": {
+			"name": "Salto Mágico"
+		},
+		"spell_incoherence": {
+			"name": "Incoherencia"
+		},
+		"spell_overcharge": {
+			"name": "Sobrecarga"
+		},
+		"spell_envenom_weapon": {
+			"name": "Envenenar Arma"
+		},
+		"spell_psychic_spear": {
+			"name": "Lanza Psíquica"
+		},
+		"spell_defy_flesh": {
+			"name": "Profanar Cuerpo"
+		},
+		"spell_grease_spray": {
+			"name": "Ráfaga de Grasa"
+		},
+		"spell_blood_waves": {
+			"name": "Ondas Sanguíneas"
+		},
+		"spell_booby_trap": {
+			"name": "Trampa"
+		},
+		"spell_command": {
+			"name": "Obligar"
+		},
+		"spell_metallurgy": {
+			"name": "Metalurgia"
+		},
+		"spell_geomancy": {
+			"name": "Geomancia"
+		},
+		"spell_forge_key": {
+			"name": "Forjar Llave"
+		},
+		"spell_forge_jewel": {
+			"name": "Forjar Joya"
+		},
+		"spell_enhance_weapon": {
+			"name": "Potenciar Arma"
+		},
+		"spell_reshape_weapon": {
+			"name": "Reformar Arma"
+		},
+		"spell_alter_arrow": {
+			"name": "Alterar Flecha"
+		},
+		"spell_void_chest": {
+			"name": "Arca del Vacío"
+		},
+		"spell_puncture_void": {
+			"name": "Perforar Vacío"
+		},
+		"spell_lead_bolt": {
+			"name": "Rayo de Plomo"
+		},
+		"spell_mercury_bolt": {
+			"name": "Rayo de Mercurio"
+		},
+		"spell_numbing_bolt": {
+			"name": "Rayo Adormecedor"
+		},
+		"spell_delay_pain": {
+			"name": "Posponer Dolor"
+		},
+		"spell_curse_flesh": {
+			"name": "Maldecir Cuerpo"
+		},
+		"spell_revenant_curse": {
+			"name": "Maldición Espectral"
+		},
+		"spell_cowardice": {
+			"name": "Cobardía"
+		},
+		"spell_courage": {
+			"name": "Coraje"
+		},
+		"spell_seek_ally": {
+			"name": "Localizar Aliado"
+		},
+		"spell_seek_foe": {
+			"name": "Localizar Enemigo"
+		},
+		"spell_deep_shade": {
+			"name": "Sombra Profunda"
+		},
+		"spell_shade_bolt": {
+			"name": "Rayo Sombrío"
+		},
+		"spell_spirit_weapon": {
+			"name": "Arma Espiritual"
+		},
+		"spell_adorcism": {
+			"name": "Sacralizar"
+		},
+		"spell_taboo": {
+			"name": "Chivo Expiatorio"
+		},
+		"spell_wonderlight": {
+			"name": "Luz Deslumbrante"
+		},
+		"spell_spores": {
+			"name": "Esporas"
+		},
+		"spell_spore_bomb": {
+			"name": "Bomba de Esporas"
+		},
+		"spell_windgate": {
+			"name": "Muro de Viento"
+		},
+		"spell_vortex": {
+			"name": "Vórtice"
+		},
+		"spell_telekinesis": {
+			"name": "Telequinesis"
+		},
+		"spell_kinetic_push": {
+			"name": "Empuje Cinético"
+		},
+		"spell_disarm": {
+			"name": "Desarmar"
+		},
+		"spell_strip": {
+			"name": "Desnudar"
+		},
+		"spell_abundance": {
+			"name": "Abundancia"
+		},
+		"spell_greater_abundance": {
+			"name": "Gran Abundancia"
+		},
+		"spell_preserve": {
+			"name": "Preservar"
+		},
+		"spell_restore": {
+			"name": "Restaurar"
+		},
+		"spell_sabotage": {
+			"name": "Sabotaje"
+		},
+		"spell_harvest_trap": {
+			"name": "Cosechar Trampa"
+		},
+		"spell_mist_form": {
+			"name": "Forma Gaseosa"
+		},
+		"spell_hologram": {
+			"name": "Holograma"
+		},
+		"spell_force_shield": {
+			"name": "Defensa Cinética"
+		},
+		"spell_reflector": {
+			"name": "Reflector"
+		},
+		"spell_splinter_gear": {
+			"name": "Destrozar Armadura"
+		},
+		"spell_lighten_load": {
+			"name": "Carga Reducida"
+		},
+		"spell_attract_items": {
+			"name": "Atraer Objetos"
+		},
+		"spell_return_items": {
+			"name": "Retornar Objetos"
+		},
+		"spell_absorb_magic": {
+			"name": "Absorber Magia"
+		},
+		"spell_seize_magic": {
+			"name": "Apresar Magia"
+		},
+		"spell_deface": {
+			"name": "Profanar"
+		},
+		"spell_sunder_monument": {
+			"name": "Hendir Monumento"
+		},
+		"spell_demesne_door": {
+			"name": "Umbral del Dominio"
+		},
+		"spell_tunnel": {
+			"name": "Portal"
+		},
+		"spell_null_area": {
+			"name": "Anular Área"
+		},
+		"spell_sphere_silence": {
+			"name": "Esfera del Silencio"
+		},
+		"spell_forge_metal_scrap": {
+			"name": "Forja Metal"
+		},
+		"spell_forge_magic_scrap": {
+			"name": "Forjar Magia"
+		},
+		"spell_fire_sprite": {
+			"name": "Invocar Sílfide Ígnea"
+		},
+		"spell_flame_elemental": {
+			"name": "Elemental Ígneo"
+		},
+		"spell_spin": {
+			"name": "Giro"
+		},
+		"spell_dizzy": {
+			"name": "Mareo"
+		},
+		"spell_vandalise": {
+			"name": "Vandalizar"
+		},
+		"spell_desecrate": {
+			"name": "Profanar"
+		},
+		"spell_sanctify": {
+			"name": "Santificar"
+		},
+		"spell_sanctify_water": {
+			"name": "Santificar Agua"
+		},
+		"spell_cleanse_food": {
+			"name": "Purificar Alimento"
+		},
+		"spell_adorcise_instrument": {
+			"name": "Sacralizar Instrumento"
+		},
+		"spell_flame_cloak": {
+			"name": "Capa Ígneo"
+		},
+		"spell_critical_spell": {
+			"name": "Conjuro Crítico"
+		},
+		"spell_magic_well": {
+			"name": "Pozo Mágico"
+		},
+		"spell_flame_shield": {
+			"name": "Escudo Ígneo"
+		},
+		"spell_lightning_bolt": {
+			"name": "Destello de Relámpago"
+		},
+		"spell_disrupt_earth": {
+			"name": "Fractura Terrenal"
+		},
+		"spell_earth_spines": {
+        "name": "Espinas Terrenales"
+		},
+		"spell_lightning_nexus": {
+			"name": "Nexo Relámpago"
+		},
+		"spell_fire_wall": {
+			"name": "Muro Ardiente"
+		},
+		"spell_lift": {
+			"name": "Elevar"
+		},
+		"spell_slam": {
+			"name": "Elevar"
+		},
+		"spell_ignite": {
+			"name": "Incendiar"
+		},
+		"spell_shatter_objects": {
+			"name": "Destruir Objetos"
+		},
+		"spell_kinetic_field": {
+			"name": "Campo Cinético"
+		},
+		"spell_ice_block": {
+			"name": "Bloque de Hielo"
+		},
+		"spell_meteor_shower": {
+			"name": "Lluvia de Meteoritos"
+		},
+		"spell_chronomic_field": {
+			"name": "Campo Cronómico"
+		},
+		"spell_eternals_gaze": {
+			"name": "Eterna Mirada"
+		},
+		"spell_shatter_earth": {
+			"name": "Destruir la Tierra"
+		},
+		"spell_roots": {
+			"name": "Arraigo"
+		},
+		"spell_mushroom": {
+			"name": "Germinar"
+		},
+		"spell_mycelium": {
+			"name": "Micelio"
+		},
+		"spell_mycelium_spores": {
+			"name": "Esporas de Micelio"
+		},
+		"spell_heal_pulse": {
+			"name": "Pulso Curativo"
+		},
+		"spell_thorns": {
+			"name": "Espinas"
+		},
+		"spell_bladevines": {
+			"name": "Liana Cortante"
+		},
+		"spell_bastion_mushroom": {
+			"name": "Bastión"
+		},
+		"spell_bastion_roots": {
+			"name": "Bastión"
+		},
+		"spell_magicians_armor": {
+			"name": "Burbuja del Mago"
+		},
+		"spell_project_spirit": {
+			"name": "Proyectar Espíritu"
+		},
+		"spell_breathe_fire": {
+			"name": "Respirar Fuego"
+		},
+		"spell_heal_minor": {
+			"name": "Curación Menor"
+		},
+		"spell_holy_fire": {
+			"name": "Fuego Sagrado"
+		},
+		"spell_sigil": {
+			"name": "Sello Sagrado"
+		},
+		"spell_sanctuary": {
+			"name": "Fortaleza Divina"
+		},
+		"spell_holy_beam": {
+			"name": "Haz Sagrado"
 		}
-        
     }
 }

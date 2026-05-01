@@ -48,7 +48,7 @@
 		"compact_scale_modifier_x": 0.5,
 		"compact_scale_modifier_y": 0.0
 	},
-	"alchemy_potion_names_to_filter": ["poción de ", "botella de "],
+	"alchemy_potion_names_to_filter": ["potion of ", "bottle of "],
 	"skills": [
 		{
 			"name": "Sigilo",
@@ -114,6 +114,11 @@
 					"value": "%+d CA"
 				},
 				{
+					"tag": "BLOCK_AC_INCREASE_OFFHAND",
+					"title": "Aumento de CA al defender\n con mano secundaria:",
+					"value": "%+d AC"
+				},
+				{
 					"tag": "PASSIVE_AC_INCREASE",
 					"title": "Incremento Pasivo de CA\n al empuñar escudos:",
 					"value": "%+d CA"
@@ -121,11 +126,6 @@
 				{
 					"tag": "BLOCK_DEGRADE_NORMAL_CHANCE",
 					"title": "Chance de degradar escudo:\n (Al recibir daño)",
-					"value": "%.2f%%"
-				},
-				{
-					"tag": "BLOCK_DEGRADE_DEFENDING_CHANCE",
-					"title": "Chance de degradar escudo:\n (Al Defender):",
 					"value": "%.2f%%"
 				},
 				{
@@ -153,9 +153,9 @@
 			},
 			"effects": [
 				{
-					"tag": "RANGED_DMG_EFFECTIVENESS",
+					"tag": "WEAPON_DMG_EFFECTIVENESS",
 					"title": "ATQ a Distancia\n efectividad:",
-					"value": "%+d%%",
+					"value": "%d%% - %d%%",
 					"custom_value_width_offset": 32
 				},
 				{
@@ -193,9 +193,9 @@
 			},
 			"effects": [
 				{
-					"tag": "UNARMED_DMG_EFFECTIVENESS",
+					"tag": "WEAPON_DMG_EFFECTIVENESS",
 					"title": "ATQ Desarmado\n efectividad:",
-					"value": "%+d%%",
+					"value": "%d%% - %d%%",
 					"custom_value_width_offset": 32
 				},
 				{
@@ -238,9 +238,9 @@
 			},
 			"effects": [
 				{
-					"tag": "SWORD_DMG_EFFECTIVENESS",
+					"tag": "WEAPON_DMG_EFFECTIVENESS",
 					"title": "ATQ Espada\n efectividad:",
-					"value": "%+d%%",
+					"value": "%d%% - %d%%",
 					"custom_value_width_offset": 32
 				},
 				{
@@ -273,9 +273,9 @@
 			},
 			"effects": [
 				{
-					"tag": "POLEARM_DMG_EFFECTIVENESS",
+					"tag": "WEAPON_DMG_EFFECTIVENESS",
 					"title": "ATQ Arma de Asta\n efectividad:",
-					"value": "%+d%%",
+					"value": "%d%% - %d%%",
 					"custom_value_width_offset": 32
 				},
 				{
@@ -308,9 +308,9 @@
 			},
 			"effects": [
 				{
-					"tag": "AXE_DMG_EFFECTIVENESS",
+					"tag": "WEAPON_DMG_EFFECTIVENESS",
 					"title": "ATQ con Hacha\n efectividad:",
-					"value": "%+d%%",
+					"value": "%d%% - %d%%",
 					"custom_value_width_offset": 32
 				},
 				{
@@ -343,9 +343,9 @@
 			},
 			"effects": [
 				{
-					"tag": "MACE_DMG_EFFECTIVENESS",
+					"tag": "WEAPON_DMG_EFFECTIVENESS",
 					"title": "ATQ maza\n efectividad:",
-					"value": "%+d%%",
+					"value": "%d%% - %d%%",
 					"custom_value_width_offset": 32
 				},
 				{
@@ -357,46 +357,6 @@
 					"tag": "MACE_DEGRADE0_CHANCE",
 					"title": "Degradación del arma\n chance:\n (Al hacer 0 daño)",
 					"value": "%.2f%%"
-				}
-			]
-		},
-		{
-			"name": "Nadar",
-			"id": 4,
-			"sfx": 552,
-			"icon_base_path": "#*images/ui/SkillSheet/Icons/Swimming01.png",
-			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Swimming01_Gold.png",
-			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Swimming02_32.png",
-			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Swimming02_32Gold.png",
-			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CON_00.png",
-			"description": "Incrementa velocidad de movimiento al nadar en líquidos.",
-			"legend_text": "Caminar sobre el agua y lava permanentemente.",
-			"effects_position": {
-				"effect_start_offset_x": 72,
-				"effect_background_offset_x": 8,
-				"effect_background_width": 80
-			},
-			"effects": [
-				{
-					"tag": "SWIM_SPEED_TOTAL",
-					"title": "Velocidad\n al nadar:",
-					"value": "%d%%"
-				},
-				{
-					"tag": "SWIM_SPEED_BASE",
-					"title": "Multiplicador de Velocidad Base\n penalidad en líquidos:",
-					"value": "%+d%%"
-				},
-				{
-					"tag": "SWIM_SPEED_BONUS",
-					"title": "Bonus multiplicador de velocidad\n de la habilidad Nadar:",
-					"value": "+%d%%"
-				},
-				{
-					"tag": "LIST_LEADER_AVAILABLE_FOLLOWERS",
-					"title": "Razas aliadas\n reclutables actualmente:",
-					"value": "%s",
-					"auto_resize_value": true
 				}
 			]
 		},
@@ -426,6 +386,17 @@
 					"tag": "LEADER_FOLLOWER_SPEED",
 					"title": "Bonus de seguidor\n velocidad:",
 					"value": "+%d DES"
+				},
+				{
+					"tag": "LEADER_CHARM_MONSTER",
+					"title": "Chance base del hechizo\n Encantar Monstruo:\n (Usando habilidad + CAR)",
+					"value": "+%d%%"
+				},
+				{
+					"tag": "LIST_LEADER_AVAILABLE_FOLLOWERS",
+					"title": "Razas aliadas\n reclutables actualmente:",
+					"value": "%s",
+					"auto_resize_value": true
 				}
 			]
 		},
@@ -455,6 +426,35 @@
 					"tag": "TRADING_SELL_PRICE",
 					"title": "Penalidad de reventa\nvendiendo artículos a tiendas:\n (Usando habilidad + CAR)",
 					"value": "%.f%% Oro"
+				}
+			]
+		},
+		{
+			"name": "Tasar",
+			"id": 3,
+			"sfx": 568,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Lore01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Lore01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Lore02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Lore02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_PER_00.png",
+			"description": "Aumenta la velocidad de tasación y permite tasar objetos de mayor valor en oro",
+			"legend_text": "Tasar todos los objetos al instante.",
+			"effects_position": {
+				"effect_start_offset_x": 88,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 96
+			},
+			"effects": [
+				{
+					"tag": "APPRAISE_GOLD_FAST",
+					"title": "Valor máximo en oro\n que puedes tasar rápido:",
+					"value": "%d Oro"
+				},
+				{
+					"tag": "APPRAISE_MAX_GOLD_VALUE",
+					"title": "Máximo valor en oro\n capaz de ser tasado:\n (Usando habilidad + PER)",
+					"value": "%d Oro"
 				},
 				{
 					"tag": "APPRAISE_SPEEDUP_CONSUMABLES",
@@ -473,63 +473,8 @@
 				},
 				{
 					"tag": "APPRAISE_WORTHLESS_GLASS",
-					"title": "Capaz de tasar\n Vidrio Inservible:",
-					"value": "%s"
-				}
-			]
-		},
-		{
-			"name": "Tasar",
-			"id": 3,
-			"sfx": 568,
-			"icon_base_path": "#*images/ui/SkillSheet/Icons/Appraisal01.png",
-			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Appraisal01_Gold.png",
-			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Appraisal02_32.png",
-			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Appraisal02_32Gold.png",
-			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_PER_00.png",
-			"description": "Aumenta la velocidad de tasación y permite tasar objetos de mayor valor en oro",
-			"legend_text": "Tasar todos los objetos al instante.",
-			"effects_position": {
-				"effect_start_offset_x": 88,
-				"effect_background_offset_x": 8,
-				"effect_background_width": 96
-			},
-			"effects": [
-				{
-					"tag": "APPRAISE_GOLD_SPEED",
-					"title": "Tiempo de Tasación\n por valor en oro:",
-					"value": "%.2f segundos"
-				},
-				{
-					"tag": "APPRAISE_MAX_GOLD_VALUE",
-					"title": "Máximo valor en oro\n capaz de ser tasado:\n (Usando habilidad + PER)",
-					"value": "%d Oro"
-				},
-				{
-					"tag": "APPRAISE_WORTHLESS_GLASS",
 					"title": "Capaz de tasar\n Vidrio Inserdible:\n (Usando habilidad + PER)",
 					"value": "%s"
-				},
-				{
-					"tag": "TINKERING_DISARM_ARROWS",
-					"title": "Chance de Desarmar\n trampas de flechas:",
-					"value": "%d%%"
-				},
-				{
-					"tag": "TINKERING_KIT_SCRAP_BONUS",
-					"title": "Chatarra extra\n reciclando:\n (Usando habilidad + PER)",
-					"value": "+%d%%"
-				},
-				{
-					"tag": "TINKERING_KIT_REPAIR_ITEM",
-					"title": "Objeto Metálico/Mágico \n reparable de mayor nivel:\n (Usando habilidad + PER)",
-					"value": "%s",
-					"auto_resize_value": true
-				},
-				{
-					"tag": "TINKERING_MAX_ALLIES",
-					"title": "Despliegue Máximo de\n aliados fabricados:",
-					"value": "%d"
 				}
 			]
 		},
@@ -579,17 +524,12 @@
 					"tag": "TINKERING_KIT_REPAIR_ITEM",
 					"title": "Objeto Metálico/Mágico \n reparable de mayor nivel:\n (Usando habilidad + PER)",
 					"value": "%s",
-					"custom_value_width_offset": 0,
-					"auto_resize_value": true,
-					"realtime_update": true
+					"auto_resize_value": true
 				},
 				{
 					"tag": "TINKERING_MAX_ALLIES",
 					"title": "Despliegue Máximo de\n aliados fabricados:",
-					"value": "%d",
-					"custom_value_width_offset": 0,
-					"auto_resize_value": true,
-					"realtime_update": true
+					"value": "%d"
 				}
 			]
 		},
@@ -601,7 +541,7 @@
 			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Alchemy01_Gold.png",
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Alchemy02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Alchemy02_32Gold.png",
-			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_PER_00.png",
 			"description": "Mejora de habilidad para elaborar pociones con alambiques y aumenta el daño de las pociones ofensivas arrojadizas. \nBebe o elabora pociones para aprender ingredientes útiles Alquímicos.",
 			"legend_text": "Alambiques nunca se degradan.\n Pociones elaboradas tiene +2 bendición.",
 			"effects_position": {
@@ -623,15 +563,12 @@
 				{
 					"tag": "ALCHEMY_DUPLICATION_CHANCE",
 					"title": "Duplicación de poción\n chance usando agua:",
-					"title_short": "Hechizos aprendidos\n ideales para subir\n el nivel actual de\n Hechicería:",
-					"value": "%d%%",
-					"auto_resize_value": true
+					"value": "%d%%"
 				},
 				{
 					"tag": "ALCHEMY_EMPTY_BOTTLE_CONSUME",
 					"title": "Reciclar botella vacía\n al consumir pociones:",
-					"value": "%d%%",
-					"auto_resize_value": true
+					"value": "%d%%"
 				},
 				{
 					"tag": "ALCHEMY_EMPTY_BOTTLE_BREW",
@@ -641,21 +578,32 @@
 				{
 					"tag": "ALCHEMY_LEARNT_INGREDIENTS_BASE",
 					"title": "Alquimia Aprendida\n ingredientes:\n (Primarios)",
-					"value": "%s"
+					"value": "%s",
+					"custom_value_width_offset": 0,
+					"auto_resize_value": true,
+					"realtime_update": true
+				},
+				{
+					"tag": "ALCHEMY_LEARNT_INGREDIENTS_SECONDARY",
+					"title": "Ingredientes de Alquimia\n aprendidos:\n (Secundarios)",
+					"value": "%s",
+					"custom_value_width_offset": 0,
+					"auto_resize_value": true,
+					"realtime_update": true
 				}
 			]
 		},
 		{
-			"name": "Magia",
+			"name": "Hechicería",
 			"id": 7,
 			"sfx": 597,
-			"icon_base_path": "#*images/ui/SkillSheet/Icons/Magic01.png",
-			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Magic01_Gold.png",
-			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Magic02_32.png",
-			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Magic02_32Gold.png",
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Sorcery01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Sorcery01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Sorcery02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Sorcery02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
-			"description": "Permite aprender hechizos de nivel superior mediante grimorios. Equipa los hechizos a través del menú de Magia y canaliza, o empuña los grirmorios y utiliza el botón Defender para usar la magia.",
-			"legend_text": "Autoaprende el hechizo Dominar.",
+			"description": "Permite aprender hechizos de Hechicería de nivel superior mediante grimorios. Aumenta aún más los bonus de poder mágico de Hechicería a partir de INT cuando la habilidad supera el nivel Experto (60).",
+			"legend_text": "Los hechizos de Hechicería tienen +40% de bonus de poder por INT y +100% de reducción de tiempo de lanzamiento por DES.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -664,17 +612,69 @@
 			"effects": [
 				{
 					"tag": "MAGIC_SPELLPOWER_INT",
-					"title": "Bonus de poder mágico base:\n (Usando INT)",
+					"title": "Bonus base de poder mágico:\n (Usando 2x INT)",
 					"value": "%+d%%"
 				},
 				{
 					"tag": "MAGIC_CURRENT_TIER",
-					"title": "Nivel máximo de magia\n aprendible:\n (Usando habilidad + INT)",
+					"title": "Nivel máximo de Hechicería\n que puedes aprender:\n (Usando habilidad + INT)",
 					"value": "%s"
 				},
 				{
+					"tag": "MAGIC_MEMORIZED_LEVEL_SPELLS",
+					"title": "Hechizos aprendidos ideales para\n subir el nivel actual de\n Hechicería:",
+					"title_short": "Hechizos aprendidos\n ideales para subir\n el nivel actual de\n Hechicería:",
+					"value": "%s",
+					"auto_resize_value": true
+				},
+				{
 					"tag": "MAGIC_CURRENT_TIER_SPELLS",
-					"title": "Hechizos Actuales Según\n Nivel Mágico:",
+					"title": "Hechizos del nivel\n actual de Hechicería:",
+					"value": "%s",
+					"auto_resize_value": true
+				},
+				{
+					"tag": "CASTING_BEGINNER",
+					"title": "Fallo al canalizar\n con hechizos aprendidos:",
+					"value": "%s"
+				},
+				{
+					"tag": "CASTING_SPELLBOOK_FUMBLE",
+					"title": "Nivel máximo de Hechicería\n para lanzar desde grimorios\n sin fallar:\n (Usando habilidad + INT)",
+					"value": "%s"
+				}
+			]
+		},
+		{
+			"name": "Misticismo",
+			"id": 6,
+			"sfx": 596,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Mysticism01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Mysticism01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Mysticism02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Mysticism02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+			"description": "Permite aprender hechizos de Misticismo de nivel superior mediante grimorios. Aumenta aún más los bonus de poder mágico de Misticismo a partir de INT + CAR cuando la habilidad supera el nivel Experto (60).",
+			"legend_text": "Los hechizos de Misticismo tienen +40% de bonus de poder por INT/CAR y +100% de reducción de tiempo de lanzamiento por DES.",
+			"effects_position": {
+				"effect_start_offset_x": 72,
+				"effect_background_offset_x": 8,
+				"effect_background_width": 80
+			},
+			"effects": [
+				{
+					"tag": "MAGIC_SPELLPOWER_INT",
+					"title": "Bonus base de poder mágico:\n (Usando INT + CAR)",
+					"value": "%+d%%"
+				},
+				{
+					"tag": "MAGIC_CURRENT_TIER",
+					"title": "Nivel máximo de Misticismo\n que puedes aprender:\n (Usando habilidad + INT)",
+					"value": "%s"
+				},
+				{
+					"tag": "MAGIC_MEMORIZED_LEVEL_SPELLS",
+					"title": "Hechizos aprendidos ideales para\n subir el nivel actual de\n Misticismo:",
 					"title_short": "Hechizos aprendidos\n ideales para subir\n el nivel actual de\n Misticismo:",
 					"value": "%s",
 					"auto_resize_value": true
@@ -698,17 +698,17 @@
 			]
 		},
 		{
-			"name": "Canalizar",
-			"shortname": "Tauma",
-			"id": 6,
-			"sfx": 596,
-			"icon_base_path": "#*images/ui/SkillSheet/Icons/Casting01.png",
-			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Casting01_Gold.png",
-			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Casting02_32.png",
-			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Casting02_32Gold.png",
-			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
-			"description": "Mejora la fiabilidad de Canalizar y lanzar hechizos desde grimorios, reduciendo las chances de fallo, o de gastar demasiada magia. Incrementa la regeneración pasiva de PM.",
-			"legend_text": "Autoaprende Virote Mágico con coste nulo de magia",
+			"name": "Taumaturgia",
+			"shortname": "Thauma",
+			"id": 4,
+			"sfx": 552,
+			"icon_base_path": "#*images/ui/SkillSheet/Icons/Thaumaturgy01.png",
+			"icon_legend_path": "#*images/ui/SkillSheet/Icons/Thaumaturgy01_Gold.png",
+			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Thaumaturgy02_32.png",
+			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Thaumaturgy02_32Gold.png",
+			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CON_00.png",
+			"description": "Permite aprender hechizos de Taumaturgia de nivel superior mediante grimorios. Aumenta aún más los bonus de poder mágico de Taumaturgia a partir de INT + CON cuando la habilidad supera el nivel Experto (60).",
+			"legend_text": "Los hechizos de Taumaturgia tienen +40% de bonus de poder por INT/CON y +100% de reducción de tiempo de lanzamiento por DES.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -716,25 +716,25 @@
 			},
 			"effects": [
 				{
-					"tag": "CASTING_MP_REGEN_SKILL_MULTIPLIER",
-					"title": "Multip. Regen. de PM por INT\n mediante habilidad:",
-					"value": "%dx INT"
+					"tag": "MAGIC_SPELLPOWER_INT",
+					"title": "Bonus base de poder mágico:\n (Usando INT + CON)",
+					"value": "%+d%%"
 				},
 				{
-					"tag": "CASTING_MP_REGEN",
-					"title": "Tasa Base de Regen. de PM:\n (Antes de modificadores\n de objetos/raza.)",
-					"value": "1 PM cada\n%.2f segundos"
+					"tag": "MAGIC_CURRENT_TIER",
+					"title": "Nivel máximo de Taumaturgia\n que puedes aprender:\n (Usando habilidad + INT)",
+					"value": "%s"
 				},
 				{
-					"tag": "CASTING_BEGINNER",
-					"title": "Fallo al canalizar\n con hechizos aprendidos:",
+					"tag": "MAGIC_MEMORIZED_LEVEL_SPELLS",
+					"title": "Hechizos aprendidos ideales para\n subir el nivel actual de\n Taumaturgia:",
 					"title_short": "Hechizos aprendidos\n ideales para subir\n el nivel actual de\n Taumaturgia:",
 					"value": "%s",
 					"auto_resize_value": true
 				},
 				{
-					"tag": "CASTING_SPELLBOOK_FUMBLE",
-					"title": "Nivel Mágico Máximo\n para lanzar desde grimorios\n sin fallar:\n (Usando habilidad + INT)",
+					"tag": "MAGIC_CURRENT_TIER_SPELLS",
+					"title": "Hechizos del nivel\n actual de Taumaturgia:",
 					"title_short": "Hechizos del nivel\n actual de\n Taumaturgia:",
 					"value": "%s",
 					"auto_resize_value": true
