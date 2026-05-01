@@ -53,7 +53,7 @@
 	"adjectives": {
 		"spell_prefixes": {
 			"spell_of": "Hechizo de  ",
-			"tome_of": "tablet of ",
+			"tome_of": "tabla de ",
 			"tier": " %s"
 		},
 		"scroll_prefixes": {
