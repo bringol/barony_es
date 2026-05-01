@@ -6332,8 +6332,8 @@ intento de puntuación de One-Shot.#
 la enviará como resultado de One-Shot#
 6169 ¡Nuevos Eventos de Semilla Disponibles!#
 6170 
-Visita el menú de Eventos de Semilla
-para participar.#
+Visita el menú de Eventos de
+Semilla para participar.#
 6171 Desbloquea el Logro:
 "%s"
 para jugar esta clase.#
