@@ -53,9 +53,9 @@
 				"- Vel. nado reducido en 50%",
 				"",
 				"Resistencias",
-				"- Rango",
 				"- Magias",
 				"- Hachas",
+				"- Alcance",
 				"- Espadas",
 				"",
 				"Amistades Con",
@@ -122,9 +122,9 @@
 				"    Asesinatos generan FdS",
 				"",
 				"Resistencias",
-				"- Rango",
 				"- Magias",
 				"- Hachas",
+				"- Alcance",
 				"- Espadas",
 				"",
 				"Amistades Con",
@@ -295,9 +295,9 @@
 				"",
 				"Debilidades",
 				"- Arm. de Asta",
+				"- Alcance",
 				"- Hachas",
-				"- Magias",
-				"- Rango"
+				"- Magias"
 			]
 		},
 		"automaton": {
@@ -352,7 +352,7 @@
 				"- +20 a Reparaciones",
 				"- Aceptado por Comerciantes",
 				"Resistencias",
-				"- Rango",
+				"- Alcance",
 				"- Desarmado",
 				"",
 				"Amistades Con",
@@ -429,7 +429,7 @@
 				"",
 				"",
 				"Debilidades",
-				"- Rango",
+				"- Alcance",
 				"- Espadas",
 				"- Castigos"
 			]
@@ -473,8 +473,8 @@
 				"",
 				"Debilidades",
 				"- Arm. de Asta",
-				"- Hachas",
-				"- Rango"
+				"- Alcance",
+				"- Hachas"
 			]
 		},
 		"insectoid": {
@@ -536,8 +536,8 @@
 				"",
 				"Debilidades",
 				"- Arm. de Asta",
+				"- Alcance",
 				"- Hachas",
-				"- Rango",
 				"",
 				""
 				
@@ -580,7 +580,7 @@
 				"Debilidades",
 				"- Desarmado",
 				"- Espadas",
-				"- Rango",
+				"- Alcance",
 				"- Mazas"
 			]
 		},
@@ -680,7 +680,7 @@
 				"",
 				"Resistencias",
 				"- Mazas",
-				"- Rango",
+				"- Alcance",
 				"- Desarmado",
 				"- Arm. de Asta",
 				"",
@@ -781,7 +781,7 @@
 				"- Aceptado por Comerciantes",
 				"",
 				"Resistencias",
-				"- Rango",
+				"- Alcance",
 				"- Desarmado",
 				"- Arm. de Asta",
 				"",
@@ -953,7 +953,7 @@
 				"",
 				"Debilidades",
 				"- Arm. de Asta",
-				"- Rango",
+				"- Alcance",
 				"",
 				"",
 				"",
@@ -1002,9 +1002,9 @@
 				"- 20% menos crec. de CON",
 				"",
 				"Resistencias",
-				"- Rango",
 				"- Mazas",
 				"- Magias",
+				"- Alcance",
 				"- Desarmado",
 				"- Arm. de Asta",
 				"",
@@ -1096,7 +1096,7 @@
 				"",
 				"Debilidades",
 				"- Magias",
-				"- Rango",
+				"- Alcance",
 				"",
 				"",
 				""
