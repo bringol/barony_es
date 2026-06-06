@@ -417,7 +417,7 @@
 		"text_maps": [{
 			"default" : 
 			{
-				"text": "Preferir Equipo: Cuerpo a cuerpo",
+				"text": "Preferir Equipo: Cuerpo-a-Cuerpo",
 				"word_highlights" : [2]
 			}
 		}]
@@ -492,7 +492,7 @@
 			},
 			"wait_here_all" : 
 			{
-				"text": "(TODOS) Espera Aquí",
+				"text": "(TODOS) Esperen Aquí",
 				"word_highlights" : []
 			},
 			"follow_all" : 
@@ -847,7 +847,7 @@
 			},
 			"command_unavailable_spell" : 
 			{
-				"text": "Comando no disponible para %s por coección",
+				"text": "Comando no disponible para %s por Obligar",
 				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
 			},
 			"rest_cooldown" : 
