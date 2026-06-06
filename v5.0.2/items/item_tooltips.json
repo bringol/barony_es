@@ -204,7 +204,7 @@
 		"equipment_effects_icon_text": {
 			"EFF_LEVITATION": "Brinda [Levitar]",
 			"EFF_FEATHER": "[Peso Ligero]",
-			"EFF_WATERWALKING": "Brinda [Caminar Sobre Agua]",
+			"EFF_WATERWALKING": "Brinda [Paso Acuático]",
 			"EFF_POISONRESIST": "Brinda [Antiveneno]",
 			"EFF_MAGICRESIST": "+1  [Resistencia Mágica]",
 			"EFF_MAGICRESIST_SHIELD": "+1  [Resistencia Mágica]",
@@ -466,7 +466,7 @@
 		"template_armor_stat_bonus": [ "%+d objeto base %s", "%+d %s por %s" ],
 		"template_armor_resist_icon": [ "resistance:\n[%s] damage\n"],
 		"template_equipment_effect_feather": [ "%+d objeto base por peso %s" ],
-		"template_equipment_effect_waterwalking": [ "* Usuario flota en agua y lava por [Caminar sobre el Agua]" ],
+		"template_equipment_effect_waterwalking": [ "* Usuario flota en agua y lava por [Paso Acuático]" ],
 		"template_equipment_effect_poisonresist": [ "* Cura efecto de estado [veneno]", "+2 [Resistencia Mágica] contra\nVeneno / hechizos de ácido", "+60% [Magic Resist] against\nPoison / Acid spells" ],
 		"template_equipment_effect_burningresist": [ "* Cures [Burning] status effect", "* 12.5% chance to degrade on curing" ],
 		"template_equipment_effect_magicreflect": [ "* Refleja magia al ser golpeado", "* 50% de chance de degradarse al reflejar" ],
