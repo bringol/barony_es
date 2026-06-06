@@ -905,7 +905,7 @@ La derrota tiene una dignidad que la victoria no conoce."
 "Todas las tostadoras tuestan tostadas."
 "¡Es la verdad!"#
 561 "¿Sabías que..?"
-"Se me chispoteó"
+"Violencia es mentir"
 "¡Es la verdad!"#
 562 "¿Sabías que..?"
 "Resolver el Sokoban trae riquezas."
@@ -3736,10 +3736,10 @@ ingrediente alquímico secundario %s #
 3425 Tu nariz se contrae, pero no hay olores nuevos.#
 3426 ¡%s es rociado con veneno!#
 3427 ¡%s es rociado con veneno!#
-3428 ¡Has sido rociado por veneno!#
+3428 ¡Sufriste un rocío de veneno!#
 3429 ¡%s está atrapado en un telaraña!#
 3430 ¡%s está atrapado en un telaraña!#
-3431 ¡Estás atrapado en una telaraña!#
+3431 ¡Te encuentras inmóvil en una telaraña!#
 3432 ¡No puedes usar eso en tu forma actual!#
 3433 DEPRECATED#
 3434 ¡%s se retuerce del miedo!#
