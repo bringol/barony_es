@@ -370,7 +370,7 @@
 			"id": 5,
 			"internal_name": "EFF_INVISIBLE",
 			"name": "Invisible",
-			"desc": "Imposibilita que te detecten enemigos fuera del alcance cuerpo a cuerpo",
+			"desc": "Imposibilita que te detecten enemigos fuera del alcance cuerpo-a-cuerpo",
 			"img_path": "",
 			"img_from_spell_id": 16,
 			"use_entry_for_sustained_spell": 16
@@ -419,7 +419,7 @@
 			"id": 11,
 			"internal_name": "EFF_LEVITATING",
 			"name": "Levitando",
-			"desc": "Flotar sobre abismos, lava y cuerpos de agua",
+			"desc": "Flotación sobre abismos, lava y cuerpos de agua",
 			"img_path": "",
 			"img_from_spell_id": 15,
 			"use_entry_for_sustained_spell": 15
@@ -488,7 +488,7 @@
 		"EFF_SHRINE_RED_BUFF": {
 			"id": 19,
 			"internal_name": "EFF_SHRINE_RED_BUFF",
-			"name": "Buff del Santuario Rojo",
+			"name": "Mejora del Santuario Rojo",
 			"desc": "+ Fuerza\n+ Constitución",
 			"img_path": "*images/ui/HUD/statusfx/orb_red.png",
 			"img_from_spell_id": -1
@@ -496,7 +496,7 @@
 		"EFF_SHRINE_GREEN_BUFF": {
 			"id": 20,
 			"internal_name": "EFF_SHRINE_GREEN_BUFF",
-			"name": "Buff del Santuario Verde",
+			"name": "Mejora del Santuario Verde",
 			"desc": "+ Destreza\n+ Percepción",
 			"img_path": "*images/ui/HUD/statusfx/orb_green.png",
 			"img_from_spell_id": -1
@@ -504,7 +504,7 @@
 		"EFF_SHRINE_BLUE_BUFF": {
 			"id": 21,
 			"internal_name": "EFF_SHRINE_BLUE_BUFF",
-			"name": "Buff del Santuario Azul",
+			"name": "Mejora del Santuario Azul",
 			"desc": "+ Inteligencia\n+1 Resist. Mágica",
 			"img_path": "*images/ui/HUD/statusfx/orb_blue.png",
 			"img_from_spell_id": -1
