@@ -3488,7 +3488,7 @@ drenarse el resto de tu magia!#
 
 3201 ¡Puaj! ¡Tu cuerpo rechaza los sólidos en tu estómago!#
 3202 Que horrible noche para tener una maldición...#
-3203 ¡Puaajj! Esto es repugnante!#
+3203 ¡Puaaj! Esto es repugnante!#
 3204 Desarmado#
 3205 ¡%s está atontado por tu golpe!#
 3206 ¡El %s está atontado por tu golpe!#
@@ -4670,15 +4670,15 @@ mis clientes favoritos.#
 4284 *chirrido*#
 4285 *retumbe*#
 4286 ¿Quieres jugar?#
-4287 ¿Puaj!#
+4287 ¡Puaj!#
 4288 ...#
-4289 *chillido*#
+4289 *Chirrido*#
 4290 *zumbido*#
 4291 Ba-a-a-a-a.#
-4292 *chu chu*#
+4292 *fiumba*#
 4293 Hola, gusano.#
 4294 Hola, cretino.#
-4295 *vibración*#
+4295 *zumbido*#
 4296 *silbido*#
 4297 *repique*#
 4298 *boing*#
