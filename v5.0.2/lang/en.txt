@@ -1568,7 +1568,7 @@ comerte... para la cena."#
 1082 [%d|Decadente] #
 1083 [%d|Comestible] #
 1084 [%d|Saludable] #
-1085 %d %s con etiqueta de %s #
+1085 %s con etiqueta de %s #
 1086 %d copias de "%s" #
 
 
@@ -5500,7 +5500,7 @@ Continuar puede tener problemas de guardado.
 ¿Realmente quieres cargar el
 juego guardado "%s"?#
 5590 Cuidado: Partida no posee mods
-%d estos mods fueron iniciados
+%d mods fueron iniciados
 
 Continuar podría invalidar los logros para esta partida.
 
