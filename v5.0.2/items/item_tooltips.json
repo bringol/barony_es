@@ -53,7 +53,7 @@
 	"adjectives": {
 		"spell_prefixes": {
 			"spell_of": "Hechizo de  ",
-			"tome_of": "tablet of ",
+			"tome_of": "tabla de ",
 			"tier": " %s"
 		},
 		"scroll_prefixes": {
@@ -204,7 +204,7 @@
 		"equipment_effects_icon_text": {
 			"EFF_LEVITATION": "Brinda [Levitar]",
 			"EFF_FEATHER": "[Peso Ligero]",
-			"EFF_WATERWALKING": "Brinda [Caminar Sobre Agua]",
+			"EFF_WATERWALKING": "Brinda [Paso Acuático]",
 			"EFF_POISONRESIST": "Brinda [Antiveneno]",
 			"EFF_MAGICRESIST": "+1  [Resistencia Mágica]",
 			"EFF_MAGICRESIST_SHIELD": "+1  [Resistencia Mágica]",
@@ -328,7 +328,7 @@
 		"template_thrown_description": [ "Arma arrojadiza. Mantén [Ataque] para más daño y distancia." ],
 		"template_gem_description": [ "Puede arrojarse o venderse por un precio alto. Mantén [Ataque] para incrementar daño y distancia." ],
 		"template_rock_description": [ "Arma pesada arrojadiza. Mantén [Ataque] para incrementar daño y distancia." ],
-		"template_glass_description": [ "Imitación de gema, mejor tira esto. Mantén [Ataque] para incrementar rango y distancia." ],
+		"template_glass_description": [ "Imitación de gema, mejor tira esto. Mantén [Ataque] para incrementar daño y distancia." ],
 		"template_amulet_description_single_use": [ "Se desintegra al activarlo." ],
 		"template_amulet_description_lifesaving": [ "Se desintegra al activarlo." ],
 		"template_armor_monocle_description": [ "Te haces un aliado de los comerciantes si te ven usándolo." ],
@@ -466,7 +466,7 @@
 		"template_armor_stat_bonus": [ "%+d objeto base %s", "%+d %s por %s" ],
 		"template_armor_resist_icon": [ "resistance:\n[%s] damage\n"],
 		"template_equipment_effect_feather": [ "%+d objeto base por peso %s" ],
-		"template_equipment_effect_waterwalking": [ "* Usuario flota en agua y lava por [Caminar sobre el Agua]" ],
+		"template_equipment_effect_waterwalking": [ "* Usuario flota en agua y lava por [Paso Acuático]" ],
 		"template_equipment_effect_poisonresist": [ "* Cura efecto de estado [veneno]", "+2 [Resistencia Mágica] contra\nVeneno / hechizos de ácido", "+60% [Magic Resist] against\nPoison / Acid spells" ],
 		"template_equipment_effect_burningresist": [ "* Cures [Burning] status effect", "* 12.5% chance to degrade on curing" ],
 		"template_equipment_effect_magicreflect": [ "* Refleja magia al ser golpeado", "* 50% de chance de degradarse al reflejar" ],
@@ -894,7 +894,7 @@
 		"template_spell_cast_success2": [ "^* %d%% cast failure rate" ],
 		"template_spell_extramana_chance": [ "^* %d%% chance de consumir", "^PM adicional " ],
 		"template_spell_no_gain_levels": [ "Spell Tier mastered:", "* Reduced skill level", "advancement" ],
-		"template_attr_spell_shadow_tag": [ "Atributos:", "* Todo tipo de daño (Rango, Hachas, etc) en objetivos Anulados siempre reciben 100% de daño", "-50% PM de costo por hechizos de teletransporte", "", "* Usar [Teletransporte] mueve al usuario hacia objetivo marcado", "* Usar [Teletransporte Ajeno] mueve objetivo marcado enfrente del usuario" ],
+		"template_attr_spell_shadow_tag": [ "Atributos:", "* Todo tipo de daño (Alcance, Hachas, etc) en objetivos Anulados siempre reciben 100% de daño", "-50% PM de costo por hechizos de teletransporte", "", "* Usar [Teletransporte] mueve al usuario hacia objetivo marcado", "* Usar [Teletransporte Ajeno] mueve objetivo marcado enfrente del usuario" ],
 		"template_attr_spell_summon": [ "Atributos:", "* NVLs de aliados invocados se mantienen, mejora equipamiento cada 5 NVLs (Máx en NVL 30)", "* Costo de PM sube junto al rango", "* Experto (60) Hab. magia + INT generan un nuevo aliado", "", "Comando de seguidor:", "* [Liberar Alma] destruye invocaciones y recupera PM en base al PV" ],
 		"template_attr_spell_self_polymorph": [ "Atributos:", "* Efecto [Polimorfia] desaparece al tocar o beber agua" ],
 		"template_attr_spell_acid_spray": [ "Atributos:", "+25% chance base de degradar armadura al golpear", "" ],
@@ -7433,12 +7433,12 @@
 					"conditional_attribute": "EFF_BOUNTY"
 				},
 				{
-					"text": "%+d Rango [Distancia]",
+					"text": "%+d Alcance [Distancia]",
 					"icon_path": "images/ui/HUD/statusfx/attack_range.png",
 					"conditional_attribute": "EFF_RANGED_DISTANCE"
 				},
 				{
-					"text": "%+d%% rango [Velocidad de Tensión]",
+					"text": "%+d%% Alcance [Velocidad de Tensión]",
 					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01.png",
 					"conditional_attribute": "EFF_RANGED_FIRERATE"
 				},

@@ -36,8 +36,8 @@
 			"id": -1,
 			"spell_id": 127,
 			"internal_name": "SUSTAIN_SHADE",
-			"name": "Deep Shade",
-			"desc": "Sustaining a magical source of shade",
+			"name": "Profunda Penumbra",
+			"desc": "Sustenta una fuente de sombra mágica",
 			"img_path": "",
 			"img_from_spell_id": 127
 		},
@@ -55,7 +55,7 @@
 		"EFF_HUNGER": {
 			"id": -2,
 			"internal_name": "EFF_HUNGER",
-			"name": ["¡Sobresaciado!", "Hambriento", "Muy Hambriento", "¡Famélico!"],
+			"name": ["¡Hastiado!", "Hambriento", "Muy Hambriento", "¡Famélico!"],
 			"desc": [
 			"Sufriendo de sobrecalentamiento:\n- Fuerza\n- Destreza", 
 			"No comer causará efectos negativos", 
@@ -68,7 +68,7 @@
 		"EFF_BLOOD_HUNGER": {
 			"id": -3,
 			"internal_name": "EFF_HUNGER",
-			"name": ["¡Sobresaciado!", "Hambriento", "Muy Hambriento", "¡Famélico!"],
+			"name": ["¡Hastiado!", "Hambriento", "Muy Hambriento", "¡Famélico!"],
 			"desc": ["Sufriendo de sobrecalentamiento:\n- Fuerza\n- Destreza", "No comer causará efectos negativos", "Sufriendo por falta de comida:\n- Fuerza\n- Destreza", "Sufriendo por falta de comida, muriendo lentamente:\n- Fuerza\n- Destreza\n- Inteligencia\n- Percepción"],
 			"img_path": ["*images/ui/HUD/HUD_Hunger_Blood_00A.png", "*images/ui/HUD/HUD_Hunger_Blood_00B.png", "*images/ui/HUD/HUD_Hunger_Blood_00C.png", "*images/ui/HUD/HUD_Hunger_Blood_00D.png"],
 			"img_from_spell_id": -1
@@ -148,7 +148,7 @@
 		"EFF_RESISTPOISON": {
 			"id": -12,
 			"internal_name": "EFF_RESISTPOISON",
-			"name": "Resistir Veneno",
+			"name": "Antiveneno",
 			"desc": "Cura [Envenenado]\nResistencia ante Venenos, y Hechizos Ácidos",
 			"img_path": "*images/ui/HUD/statusfx/resist_poison.png",
 			"img_from_spell_id": -1,
@@ -194,7 +194,7 @@
 			"id": -17,
 			"internal_name": "EFF_CONFLICT",
 			"name": "Conflicto",
-			"desc": "Incita a enemigos cercanos para que ataquen todo lo que ven.",
+			"desc": "Incita a enemigos cercanos para que ataquen todo lo que vean.",
 			"img_path": "*images/ui/HUD/statusfx/conflict.png",
 			"img_from_spell_id": -1,
 			"tooltip_width": 240
@@ -202,7 +202,7 @@
 		"EFF_WATERWALKING": {
 			"id": -18,
 			"internal_name": "EFF_WATERWALKING",
-			"name": "Hidrocaminante",
+			"name": "Paso Acuático",
 			"desc": "Flotar sobre lava y cuerpos de agua",
 			"img_path": "*images/ui/HUD/statusfx/waterwalking.png",
 			"img_from_spell_id": -1,
@@ -230,7 +230,7 @@
 			"id": -21,
 			"internal_name": "EFF_SNEAK",
 			"name": "Sigilo",
-			"desc": "Rango de detección reducida",
+			"desc": "Alcance de detección reducida",
 			"img_path": "*images/ui/HUD/statusfx/sneak.png",
 			"tooltip_width": 200,
 			"img_from_spell_id": -1
@@ -274,13 +274,13 @@
 		"EFF_ASSISTANCE": {
 			"id": -26,
 			"internal_name": "EFF_ASSISTANCE",
-			"name": "Assistance",
-			"desc": [
-				"Claimed one or more Assist Items", 
-				"%d Assistance Pts (Self)",
-				"%d Assistance Pts (Party Total)",
-				"%d%% Score Penalty"
-			],
+			"name": "Asistencia",
+            "desc": [
+                "Has reclamado uno o más objetos de asistencia", 
+                "%d Ptos. de Asistencia (Propios)",
+                "%d Ptos. de Asistencia (Total del grupo)",
+                "Penalización de puntuación: %d%%"
+            ],
 			"img_path": "*images/ui/HUD/statusfx/assistance.png",
 			"img_from_spell_id": -1,
 			"tooltip_width": 300
@@ -288,8 +288,8 @@
 		"EFF_STABILITY": {
 			"id": -27,
 			"internal_name": "EFF_STABILITY",
-			"name": "Stability",
-			"desc": "Reduced effects of knockback and slippery terrain",
+			"name": "Estabilidad",
+            "desc": "Efectos reducidos de retroceso y terreno resbaladizo",
 			"img_path": "*images/ui/HUD/statusfx/stability.png",
 			"img_from_spell_id": -1,
 			"tooltip_width": 260
@@ -297,11 +297,11 @@
 		"EFF_VANDALISE": {
 			"id": -28,
 			"internal_name": "EFF_VANDALISE",
-			"name": ["Vandal", "Vandal (Tier I)", "Vandal (Tier II)", "Vandal (Tier III)", "Vandal (Tier IV)"],
-			"desc": ["Effects increase as you destroy more objects\nEffects reset each floor\nGaining a tier provides bonus MP",
-					 "%+d Melee Damage bonus",
-					 "%+d%% Movement Speed",
-					 "%+d%% Cast Speed"],
+			"name": ["Vándalo", "Vándalo (Nivel I)", "Vándalo (Nivel II)", "Vándalo (Nivel III)", "Vándalo (Nivel IV)"],
+            "desc": ["Los efectos aumentan al destruir más objetos\nLos efectos se reinician en cada piso\nSubir de nivel otorga PM adicionales",
+                     "Bonificación de Daño Cuerpo-a-Cuerpo: %+d",
+                     "Velocidad de Movimiento: %+d%%",
+                     "Velocidad de Canalización: %+d%%"],
 			"img_path": "*images/ui/HUD/statusfx/vandal.png",
 			"img_from_spell_id": -1,
 			"tooltip_width": 320
@@ -309,19 +309,18 @@
 		"EFF_OVERCHARGE_COUNT": {
 			"id": -29,
 			"internal_name": "EFF_OVERCHARGE_COUNT",
-			"name": "Overcharge",
-			"desc": "The next memorized spell cast will be kept charged for a number of successive casts\nSuccessive casts will consume HP when out of MP\nCanceling the charged spell dispels the effect",
-			"img_path": "",
+			"name": "Sobrecarga",
+            "desc": "El próximo hechizo memorizado se mantendrá cargado durante varias lanzamientos sucesivos\nLos lanzamientos sucesivos consumirán PV al agotarse los PM\nCancelar el hechizo cargado disipa el efecto",			"img_path": "",
 			"img_from_spell_id": 100,
 			"tooltip_width": 260
 		},
 		"EFF_WEALTH": {
 			"id": -30,
 			"internal_name": "EFF_WEALTH",
-			"name": ["Wealth", "Wealth (Tier I)", "Wealth (Tier II)", "Wealth (Tier III)", "Wealth (Tier IV)"],
-			"desc": [
-				"+%d%% chance to gain +1 MP while regenerating MP", 
-				"Effect increases with quantity of gold carried"],
+			"name": ["Riqueza", "Riqueza (Nivel I)", "Riqueza (Nivel II)", "Riqueza (Nivel III)", "Riqueza (Nivel IV)"],
+            "desc": [
+                "+%d%% de probabilidad de ganar +1 PM mientras se regenera PM", 
+                "El efecto aumenta según la cantidad de oro que lleves"],
 			"img_path": ["*images/ui/HUD/statusfx/wealth.png", "*images/ui/HUD/statusfx/wealth2.png", "*images/ui/HUD/statusfx/wealth3.png", "*images/ui/HUD/statusfx/wealth4.png"],
 			"img_from_spell_id": -1,
 			"tooltip_width": 240
@@ -371,7 +370,7 @@
 			"id": 5,
 			"internal_name": "EFF_INVISIBLE",
 			"name": "Invisible",
-			"desc": "Imposibilita que te detecten enemigos fuera del alcance cuerpo a cuerpo",
+			"desc": "Imposibilita que te detecten enemigos fuera del alcance cuerpo-a-cuerpo",
 			"img_path": "",
 			"img_from_spell_id": 16,
 			"use_entry_for_sustained_spell": 16
@@ -420,7 +419,7 @@
 			"id": 11,
 			"internal_name": "EFF_LEVITATING",
 			"name": "Levitando",
-			"desc": "Flotar sobre abismos, lava y cuerpos de agua",
+			"desc": "Flotación sobre abismos, lava y cuerpos de agua",
 			"img_path": "",
 			"img_from_spell_id": 15,
 			"use_entry_for_sustained_spell": 15
@@ -489,7 +488,7 @@
 		"EFF_SHRINE_RED_BUFF": {
 			"id": 19,
 			"internal_name": "EFF_SHRINE_RED_BUFF",
-			"name": "Buff del Santuario Rojo",
+			"name": "Mejora del Santuario Rojo",
 			"desc": "+ Fuerza\n+ Constitución",
 			"img_path": "*images/ui/HUD/statusfx/orb_red.png",
 			"img_from_spell_id": -1
@@ -497,7 +496,7 @@
 		"EFF_SHRINE_GREEN_BUFF": {
 			"id": 20,
 			"internal_name": "EFF_SHRINE_GREEN_BUFF",
-			"name": "Buff del Santuario Verde",
+			"name": "Mejora del Santuario Verde",
 			"desc": "+ Destreza\n+ Percepción",
 			"img_path": "*images/ui/HUD/statusfx/orb_green.png",
 			"img_from_spell_id": -1
@@ -505,7 +504,7 @@
 		"EFF_SHRINE_BLUE_BUFF": {
 			"id": 21,
 			"internal_name": "EFF_SHRINE_BLUE_BUFF",
-			"name": "Buff del Santuario Azul",
+			"name": "Mejora del Santuario Azul",
 			"desc": "+ Inteligencia\n+1 Resist. Mágica",
 			"img_path": "*images/ui/HUD/statusfx/orb_blue.png",
 			"img_from_spell_id": -1
@@ -595,7 +594,7 @@
 			"id": 32,
 			"internal_name": "EFF_MAGICAMPLIFY",
 			"name": "Enfoque Elemental",
-			"desc": "Incrementa el daño y reduce el rango al canalizar  [Fuego], [Frío], [Relámpago] o [Misil Mágico]",
+			"desc": "Incrementa el daño y reduce el alcance al canalizar  [Fuego], [Frío], [Relámpago] o [Misil Mágico]",
 			"img_path": "",
 			"img_from_spell_id": 44,
 			"tooltip_width": 300,
