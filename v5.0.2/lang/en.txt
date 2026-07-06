@@ -616,7 +616,7 @@ los objetos antes de usarlos.#
 406 ¡Has enfurecido a los dioses de Sokoban!#
 407 ¡No puedes lanzar hechizos mientras bloqueas!#
 408 ¡Imposible mantener el hechizo %s.#
-409 ¡Balbuceas el hechizo y este chisporrotea!#
+409 ¡Balbuceas el hechizo y este se disipa#
 410 ¡No puedes lanzar hechizos mientras nadas!#
 411 ¡Guau! te sientes revitalizado.#
 412 ¡Un mapa se dibuja en tu mente!#
