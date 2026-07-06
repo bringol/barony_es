@@ -424,7 +424,7 @@ los objetos antes de usarlos.#
 259 Ves %d piezas de oro.#
 260 Ves una hoguera.#
 262 Ves una fuente.#
-263 Ves una bomba de agua.#
+263 Ves un lavamanos.#
 264 Ves una escalera hacia abajo.#
 265 Ves una escalera hacia arriba.#
 266 Ves un cofre.#
@@ -860,7 +860,7 @@ los objetos antes de usarlos.#
 "El veneno de la tarántula desvanece en diez segundos."
 "¡Es la verdad!"#
 546 "¿Sabías que..?"
-"Puedes encontrar anillos en los fregaderos."
+"Puedes encontrar anillos en los lavamanos."
 "¡Es la verdad!"#
 547 "¿Sabías que..?"
 "El cielo resplandece a mi alrededor (alrededor)"
@@ -949,7 +949,7 @@ sobrevive hasta el siguiente piso.#
 
 # more furniture
 
-580 La bomba de agua ha quedado inservible.
+580 El lavamanos ha quedado inservible.
 ¡Deberías llamar a un fontanero!#
 581 Oye, hay un anillo atascado en el desagüe.#
 582 ¡Un cieno sale del grifo!#
@@ -4340,7 +4340,7 @@ antes de negociar!#
 4000 Recoger objeto#
 4001 Recoger oro#
 4002 Beber de la fuente#
-4003 Beber del fregadero#
+4003 Beber del lavamanos#
 4004 Cerrar cofre#
 4005 Abrir cofre#
 4006 Reciclar antorcha#
@@ -4740,7 +4740,7 @@ ser cómplice de un acto violento!#
 4351 trampa de flechas#
 4352 trampa mágica#
 4353 oro#
-4354 fregadero#
+4354 lavamanos#
 4355 fuente#
 4356 cristal#
 4357 tumba#
@@ -5739,7 +5739,7 @@ ha sido perdida.#
 5815 Pozo Sin Fondo#
 5816 Sin combustible#
 5817 Fuente#
-5818 Fregadero#
+5818 Lavamanos#
 5819 Alquimia#
 
 5820 Apenas te conocimos.#

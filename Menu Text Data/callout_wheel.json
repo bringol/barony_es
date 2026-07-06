@@ -746,10 +746,10 @@
 			},
 			"sink" : 
 			{
-				"text": "Señala el fregadero.",
+				"text": "Señala el lavamanos.",
 				"word_highlights" : [3],
-				"msg_emote": "%s señala un fregadero.",
-				"msg_emote_you": "Señalas un fregadero.",
+				"msg_emote": "%s señala un lavamanos.",
+				"msg_emote_you": "Señalas un lavamanos.",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
@@ -1162,9 +1162,9 @@
 			},
 			"sink" : 
 			{
-				"text": "¡Necesito ayuda junto a este fregadero!",
+				"text": "¡Necesito ayuda junto a este lavamanos!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"¡Necesito ayuda junto a este fregadero!\"",
+				"msg_says": "%s\"¡Necesito ayuda junto a este lavamanos!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
@@ -1448,9 +1448,9 @@
 			},
 			"sink" : 
 			{
-				"text": "Usaré el fregadero.",
+				"text": "Usaré el lavamanos.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"Usaré el fregadero.\"",
+				"msg_says": "%s\"Usaré el lavamanos.\"",
 				"world_icon": "tag_good-interact",
 				"world_icon_small": "mini_spot"
 			},
@@ -1690,9 +1690,9 @@
 			},
 			"sink" : 
 			{
-				"text": "Este fregadero no es bueno para mi.",
+				"text": "Este lavamanos no es bueno para mi.",
 				"word_highlights" : [1],
-				"msg_says": "%s\"Este fregadero no es bueno para mi.\"",
+				"msg_says": "%s\"Este lavamanos no es bueno para mi.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			},
