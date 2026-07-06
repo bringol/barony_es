@@ -5377,7 +5377,7 @@
 					"conditional_attribute": "EFF_PWR"
 				},
 				{
-					"text": "%+d [%s] Hab.ilidad bonus",
+					"text": "%+d [%s] Habilidad bonus",
 					"icon_path": "#*images/ui/SkillSheet/Icons/Casting01.png",
 					"conditional_attribute": "EFF_SKILL_6"
 				},
