@@ -1385,7 +1385,7 @@
 				"msg_emote": "¡%s agradece %s!",
 				"msg_emote_you": "¡Agradeces a %s!",
 				"msg_emote_to_you": "¡%s te lo agradece!",
-				"world_icon": "thanks",
+				"world_icon": "gracias",
 				"world_icon_small": "mini_spot"
 			}
 		}]
@@ -1412,7 +1412,7 @@
 				"msg_emote": "¡%s agradece a %s!",
 				"msg_emote_you": "Le das las gracias a %s",
 				"msg_emote_to_you": "¡%s te agradece!",
-				"world_icon": "thanks",
+				"world_icon": "gracias",
 				"world_icon_small": "mini_spot"
 			},
 			"location" :

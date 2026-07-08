@@ -862,13 +862,13 @@
         },
         "tutorial10r": {
             "sign": [
-                "To drop gold, hover on",
-				"your gold count, hold$",
-				"and pick how much to drop.",
+                "Para soltar oro, pon el",
+				"cursor en tu pila con$",
+				"mantén y elige cuánto.",
 				"",
-                "If you are carrying lots",
-				"of gold, its weight can",
-				"add up and slow you down."
+                "Si llevas mucho oro, su",
+				"peso puede acumularse y",
+				"ralentizarte."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",

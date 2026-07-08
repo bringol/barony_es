@@ -615,13 +615,14 @@
         },
         "tutorial5m": {
             "sign": [
-                "Memorized spells appear",
-				"in your magic list, and can",
-				"be placed in the hotbar.",
+				"Los hechizos memorizados",
+				"aparecen en tu lista de",
+				"magias, y pueden colocarse",
+				"para su uso rápido en tu hotbar.",
 				"$",
-                "Quickly access the",
-				"list with$and ready",
-                "the spell with$ ."
+				"Accede rápidamente a la",
+				"lista con$ y prepara",
+				"el hechizo con$ ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
