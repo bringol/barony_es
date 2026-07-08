@@ -630,10 +630,10 @@
         },
         "tutorial9l_gamepad": {
             "sign": [
-                "To quickly access the",
-				"tinker menu with the",
-				"tinkering kit equipped,",
-				"hold$and press$ ."
+				"Para acceder rápidamente al",
+				"menú de fabricación con el",
+				"kit de fabricación equipado,",
+				"mantén$y pulsa$ ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1152,10 +1152,10 @@
         "tutorial9w": {
             "sign": [
 				"$",
-				"Use$ to command machines.",
-				"Deactivate, collect",
-				"and bring them along",
-				"for continued use."
+				"Usa$ para comandar máquinas.",
+				"Desactívalas, recógelas",
+				"y llévalas contigo",
+				"para seguir usándolas."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
