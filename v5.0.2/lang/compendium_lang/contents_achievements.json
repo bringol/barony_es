@@ -2,18 +2,18 @@
 	"version": 1,
 	"contents": [
 		{"    CATEGORÍAS": "-"},
-		{"ADVENTURE": "adventure"},
+		{"AVENTURA": "adventure"},
 		{"EXPERIENCIA": "experience"},
 		{"PAYASADAS": "joker"},
-		{"TRABAJO EN EQUIPO": "TRABAJO EN EQUIPO"},
-		{"TÉCNICA": "TÉCNICA"}
+		{"TRABAJO EN EQUIPO": "teamwork"},
+		{"TÉCNICA": "technique"}
 	],
 	"contents_alphabetical": [
 		{"    CATEGORÍAS": "-"},
 		{"AVENTURA": "adventure"},
 		{"EXPERIENCE": "experience"},
 		{"PAYASADAS": "joker"},
-		{"TRABAJO EN EQUIPO": "TRABAJO EN EQUIPO"},
-		{"TÉCNICA": "TÉCNICA"}
+		{"TRABAJO EN EQUIPO": "teamwork"},
+		{"TÉCNICA": "technique"}
 	]
 }
