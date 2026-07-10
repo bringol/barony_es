@@ -48,7 +48,7 @@
 		"compact_scale_modifier_x": 0.5,
 		"compact_scale_modifier_y": 0.0
 	},
-	"alchemy_potion_names_to_filter": ["potion of ", "bottle of "],
+	"alchemy_potion_names_to_filter": ["poción", "botella"],
 	"skills": [
 		{
 			"name": "Sigilo",
@@ -116,7 +116,7 @@
 				{
 					"tag": "BLOCK_AC_INCREASE_OFFHAND",
 					"title": "Aumento de CA al defender\n con mano secundaria:",
-					"value": "%+d AC"
+					"value": "%+d CA"
 				},
 				{
 					"tag": "PASSIVE_AC_INCREASE",
@@ -699,7 +699,7 @@
 		},
 		{
 			"name": "Taumaturgia",
-			"shortname": "Thauma",
+			"shortname": "Tauma",
 			"id": 4,
 			"sfx": 552,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Thaumaturgy01.png",
