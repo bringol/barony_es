@@ -1063,6 +1063,7 @@ thorn;espina
 throwable;arrojadizo
 throwing weapon;armas arrojadizas
 thrown;arrojado
+tier;grado
 tin;lata
 tinkered trap;trampa fabricada
 tinkering;fabricar
