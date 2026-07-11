@@ -64,9 +64,9 @@ automaton;autómata
 axe;hacha
 axe skill;hab hacha
 backpack;mochila
-backstab;apuñalar
-backstab bonus dmg;bonus daño por puñalada
-backstabbing;apuñalamientos
+backstab;ataque furtivo
+backstab bonus dmg;bonus daño por atq furtivo
+backstabbing;ataques furtivos
 bandana;bandana
 bandit leather;coraza de cuero de bandido
 baphomet;baphomet
@@ -702,7 +702,7 @@ ranged armor pierce chance;% penetrar armadura a distancia
 ranged atk bonus;bonus atq a distancia
 ranged atk damage variance;atq a distancia efectividad
 ranged attack;ataque a distancia
-ranged backstab atk increase;apuñalar a distancia aumenta atq
+ranged backstab atk increase;atq. furtivo a distancia aumenta atq
 ranged damage bonus;bonus de daño a distancia
 ranged skill;hab de alcance
 rapier;espada ropera
