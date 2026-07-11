@@ -721,14 +721,12 @@ repair;reparar
 reshape weapon;reformar arma
 resistance;resistencia
 rest;descanso
-rest once per floor;descansar una vez por piso
 restore;restaurar
-restoring hp over time;[PENDIENTE]
 retaliation;represalia
 revenant curse;maldición espectral
-revenant skeleton;[PENDIENTE]
+revenant skeleton;esqueletro espectral
 revert form;revertir forma
-rgn;[PENDIENTE]
+rgn;regen
 ring;anillo
 ring of adornment;anillo decorativo
 ring of conflict;anillo de conflicto
@@ -743,27 +741,23 @@ ring of resolve;anillo de resolución
 ring of slow digestion;anillo de digestión lenta
 ring of teleportation;anillo de teletransporte
 ring of warning;anillo de alerta
-riposte;[PENDIENTE]
+riposte;contraataque
 rock;roca
 rogue;pícaro
-rolly;[PENDIENTE]
 rooted;arraigo
 rose;rosa
 rotten;incomible
-rotten food short form;comida podrida chance
 rough;irregular
 ruby;rubí
-rudimentary intelligence tinkerer;[PENDIENTE]
-ruin;ruinas
 sabotage;sabotaje
 salamander;salamandra
 salvage;reciclar
 sanctify;santificar
-sanctuary;[PENDIENTE]
-sanctum;santuario
+sanctuary;santuario
+sanctum;sagrario
 sapper;zapador
 sapphire;zafiro
-sarkomancy;[PENDIENTE]
+sarkomancy;sarcomancia
 scapegoat;chivo expiatorio
 scarab;escarabajo
 scepter;cetro
@@ -790,31 +784,30 @@ scroll read identified;pergamino leído identificado
 scroll read unidentified;pergamino leído sin identificar
 scroll remove;pergaminos eliminan
 scry trap;vislumbrar trampas
-scutum;[PENDIENTE]
+scutum;scutum
 seize magic;apresar magia
 self effect;autoefecto
 sentinel;centinela
-sentry;ballestero
-sentrybot;[PENDIENTE]
+sentry;centinela
+sentrybot;ballestero
 serviceable;utilizable
 sexton;sacristán
-shadow;[PENDIENTE]
-shadow goatman;[PENDIENTE]
+shadow;sombra
+shadow goatman;fauno sombrío
 shaman;shamán
-sharur;[PENDIENTE]
+sharur;sharur
 shawl;chal
-shelob;[PENDIENTE]
-shelter;[PENDIENTE]
-shield;[PENDIENTE]
-shield bash;[PENDIENTE]
+shelter;refugio
+shield;escudo
+shield bash;escudazo
 shillelagh;garrote
-shop;[PENDIENTE]
-shopkeeper;[PENDIENTE]
+shop;comercio
+shopkeeper;comerciante
 shopkeeper inventory;inventario del comerciante
 short range spell;hechizo de corto alcance
 shortbow;arco corto
 shredded;ilegible
-sigil;[PENDIENTE]
+sigil;gilfo
 silken bow;lazo de seda
 silver axe;hacha de plata
 silver breastpiece;coraza de plata
@@ -824,7 +817,7 @@ silver helm;casco de plata
 silver hood;capucha de plata
 silver key;llave de plata
 silver mace;maza de plata
-silver piercing ammo;[PENDIENTE]
+silver piercing ammo;munición perforante de plata
 silver shield;escudo de plata
 silver sword;espada de plata
 sink;lavamanos
@@ -832,57 +825,36 @@ skeleton;esqueleto
 skeleton key;llave maestra
 skeleton knight;caballero esquelético
 skeleton sentinel;centinela esquelético
-skewer;[PENDIENTE]
-skill;[PENDIENTE]
+skewer;ensartar
+skill;pericia;habilidad
 skill bonus;bonus estad
 skilled;avanzado
-skrabblag;[PENDIENTE]
+skrabblag;eskrabblag
 sleep;sueño
 sleep trap;trampa de sueño
 slime;cieno
-slime spawned;cienos generados
-slime spray acid;rocío de cieno ácido
-slime spray magma;rocío de cieno magma
-slime spray metal;rocío de cieno metal
-slime spray tar;rocío de cieno brea
-slime spray water;rocío de cieno agua
+slime spray;rocío de cieno
 slingshot;honda
-slippery;[PENDIENTE]
+slippery;resbaladizo
 slow;lentitud
 smite;mazas
-sneak;[PENDIENTE]
+sneak;escabullir
 sneakiest class;clase más furtiva
 sneaking;sigilo
-sokoban;[PENDIENTE]
-sometime cursed item;a veces los objetos malditos
 sorcery;hechicería
 sorcery bonus;bonus hechicería
 sorcery skill;hab hechicería
 spawned monster;monstruos invocados
 spd;vel
 speed;velocidad
-spell;magobot
-spell already known;[PENDIENTE]
-spell cast time;[PENDIENTE]
-spell cast time newline;[PENDIENTE]
-spell damage bonus;[PENDIENTE]
-spell distance;[PENDIENTE]
+spellbot;magobot
+spell;hechizo
 spell forgotten;hechizos olvidados
 spell learned;hechizo aprendido
-spell newbie newline;[PENDIENTE]
-spell nogain level;[PENDIENTE]
-spell nogain newline;[PENDIENTE]
 spell power;poder de hechizos
 spell power total;poder total de hechizo
-spell quickly;hechizos rápidamente
-spell tier mastered;[PENDIENTE]
-spell which any adventurer;hechizo que cualquier
 spellbook;grimorio
-spellbook cast bonus;bonus de grimorio
-spellbook cast effect;efectos de grimorio
 spellbook casting;magia de grimorio
-spellbook degraded;grimorios degradados
-spellbook memorized;grimorios los hechizos
 spellbook of absorb magic;grimorio de absorber magia
 spellbook of abundance;grimorio de abundancia
 spellbook of alter arrow;grimorio de alterar flecha
@@ -890,7 +862,7 @@ spellbook of arcane mark;grimorio de marca arcana
 spellbook of arthropod form;grimorio de forma arácnida
 spellbook of attract item;grimorio de atraer objetos
 spellbook of blessed meal;grimorio de bendecir alimento
-spellbook of blood waf;grimorio de ondas sanguíneas
+spellbook of blood waves;grimorio de ondas sanguíneas
 spellbook of blood ward;grimorio de protección sanguínea
 spellbook of bloodletting;grimorio de sangría
 spellbook of charm monster;grimorio de encantar monstruo
@@ -908,7 +880,7 @@ spellbook of deep shade;grimorio de sombra profunda
 spellbook of defy flesh;grimorio de profanar cuerpo
 spellbook of detect enemy;grimorio de detectar enemigo
 spellbook of detect food;grimorio de detectar comida
-spellbook of dig;grimorio de excavación
+spellbook of dig;grimorio de excavar
 spellbook of disarm;grimorio de desarmar
 spellbook of disrupt earth;grimorio de fractura terrenal
 spellbook of divine fortress;grimorio de fortaleza divina
@@ -917,14 +889,14 @@ spellbook of divine zeal;grimorio de fervor divino
 spellbook of dominate;grimorio de dominar
 spellbook of donation;grimorio de donación
 spellbook of drain soul;grimorio de drenar alma
-spellbook of elemental focu;grimorio de foco elemental
+spellbook of elemental focus;grimorio de foco elemental
 spellbook of envenom weapon;grimorio de envenenar arma
 spellbook of exorcise;grimorio de exorcizar
 spellbook of extra healing;grimorio de gran curación
 spellbook of fear;grimorio de miedo
 spellbook of fire wall;grimorio de muro ardiente
 spellbook of fireball;grimorio de bola de fuego
-spellbook of flame cloak;grimorio de capa ígneo
+spellbook of flame cloak;grimorio de capa ígnea
 spellbook of flutter;grimorio de aleteo
 spellbook of forcebolt;grimorio de virote mágico
 spellbook of forge key;grimorio de forjar llave
@@ -1007,35 +979,30 @@ spellbook of void chest;grimorio de arca del vacío
 spellbook of weakness;grimorio de debilidad
 spellbook of windgate;grimorio de muro de viento
 spellbot;magibot
-spellcaster;[PENDIENTE]
+spellcaster;canalizador
 spider;tarántula
-spike trap;[PENDIENTE]
+spike trap;trampa de púas
 spin;giro
 spirit key;llave espiritual
 spirit weapon;arma espiritual
 splinter armor;destrozar armadura
-spore;[PENDIENTE]
-spore effect speed improved;[PENDIENTE]
+spore;espora
 spray acid;rocío ácido
-spray acid green;[PENDIENTE]
-spray flame orange;[PENDIENTE]
-spread ice spine;[PENDIENTE]
 springshot ammo;flechas de empuje
 stability;estabilidad
-staff burnt out;bastones agotados
+staff burnt out;bastón agotado
 stag hood;capucha de ciervo
-stamina;[PENDIENTE]
+stamina;aguante
 stamped scroll;pergamino sellado
-starter weapon;[PENDIENTE]
+starter weapon;arma inicial
 starving;famélico
 stat metastat;stats y meta stats
-static;[PENDIENTE]
-station;[PENDIENTE]
+static;estática;estático
 steal held weapon;roba armas empuñadas
 steal weapon;robar arma
 stealth;sigilo
 stealth skill;hab sigilo
-steel armor;[PENDIENTE]
+steel armor;armadura de acero
 steel axe;hacha de acero
 steel boot;botas de acero
 steel breastpiece;coraza de acero
@@ -1051,115 +1018,76 @@ steel shield;escudo de acero
 steel sword;espada de acero
 steel visor;visera de acero
 stone key;llave pétrea
-stoneblood;[PENDIENTE]
+stoneblood;sangre pétrea
 str;fue
-str con;[PENDIENTE]
-str con damage resist;fue con resist al daño
-str con dex;[PENDIENTE]
-str push;[PENDIENTE]
 str speed bonus;fue bonus velocidad
-strafing;[PENDIENTE]
+strafing;paso lateral
 strangulation;estrangulamiento
 strength;fuerza
-strength constitution;fuerza constitución
-strength dexterity;fuerza destreza
-strength perception;fuerza percepción
-strength str;fuerza fue
-strike;[PENDIENTE]
 strip;desnudar
 sturdiness;robustez
-successful mechanist use;usan la previsión para tener
-successful sapper combine;zapador exitoso combina
 succubu;súcubo
-summoning trap;[PENDIENTE]
 superheated;sobrecalentamiento
 supernatural magic power;poder mágico sobrenatural
-supply;ingenieriles
 sustained;sostenido
-sustained effect;[PENDIENTE]
-sustained spell remain;hechizos sostenidos siguen
 swamp;pantano
 swift ammo;flechas veloces
-swift springshot ammo;[PENDIENTE]
-swimbledon;[PENDIENTE]
-swimming;nadar
+springshot ammo;munición de empuje
 swirly;remolinante
 sword;espada
 sword atk damage variance;atq espada efectividad
 sword skill;hab espada
-sword stealth;[PENDIENTE]
-swordsman;[PENDIENTE]
+swordsman;espadachín
 symbol of justice;símbolo de justicia
 symbol of peace;símbolo de paz
 symbol of providence;símbolo de providencia
 symbol of purity;símbolo de pureza
 symbol of sanctuary;símbolo del santuario
 tablet;tabla
-tape;[PENDIENTE]
-target armor;[PENDIENTE]
-taunt;[PENDIENTE]
+taunt;provocar
 teal hood;sombrero verde azulado
 teamwork;trabajo en equipo
 technique;técnica
 telekinesi;telequinesis
 telepathy;telepatía
-teleport;[PENDIENTE]
+teleport;teletransportar
 teleportation;teletransporte
 teleportation trap;trampa de teletransporte
-template spell cast time;[PENDIENTE]
-template spell distance;[PENDIENTE]
-temple;[PENDIENTE]
-temulturgy;[PENDIENTE]
-tested;puestas a prueba
-thank;gracias
+temple;templo
+temulturgy;temulturgia
 thauma;tauma
 thaumaturgy;taumaturgia
 thaumaturgy bonus;bonus taumaturgia
 thaumaturgy skill;hab taumaturgia
-thaumaturgy skill allow caster;[PENDIENTE]
-thorn;[PENDIENTE]
+thorn;espina
 throwable;arrojadizo
 throwing weapon;armas arrojadizas
-thrown;[PENDIENTE]
-thumpu;[PENDIENTE]
+thrown;arrojado
 tin;lata
-tinkered trap;[PENDIENTE]
-tinkered trap like;trampas fabricadas como
-tinkered trap toggled;trampas mecanizadas activadas
+tinkered trap;trampa fabricada
 tinkering;fabricar
 tinkering kit;kit de fabricación
 tinkering kit equipped;kit de fabricación equipado
-tinkering skill;para la fabricación
-tinkering skill increase;aumentos de hab fabricar
 tomalley;hígado de langosta
-tool;[PENDIENTE]
+tool;herramienta
 top hat;sombrero de copa
 torch;antorcha
-torch lantern;[PENDIENTE]
 torn;deplorable
-torso;[PENDIENTE]
+torso;torso
 total dmg taken;daño total recibido
 total gold picked up;oro total recogido
-total heat ht rate;tasa total de calor klr
-total hp regeneration;regeneración de pv total
 total mp regeneration;regen total de pm
 total regen;regen total
 total spell learned;total de hechizos aprendidos
-total spellbook cast;conjuraciones de grimorios totales
-total spellbook fizzle;disipaciones de grimorios totales
-total stat gain;ganancias totales de estadísticas
 towel;toalla
-trading;comercio
+trading;comerciar
 trading skill;hab comercio
-trait;rasgos
+trait;rasgo
 trap;trampa
-trap guard;[PENDIENTE]
-troll;[PENDIENTE]
 troll blood;sangre de troll
 troll form;forma de troll
 tunic;túnica
 unarmed;desarmado
-unarmed atk damage variance;atq desarmado efectividad
 unarmed bonus atk;bonus atq desarmado
 unarmed skill;hab desarmado
 unbreakable;irrompible
@@ -1167,60 +1095,38 @@ uncursed;corriente
 undead;no muertos
 undead slain;no muertos asesinados
 undead within;no muertos dentro
-underworld;[PENDIENTE]
-undying;[PENDIENTE]
+underworld;inframundo
+undying;inmortal
 unidentified;inescrutable
 unknown effect;efecto desconocido
 unknown scroll;pergamino desconocido
-unlearnable;no aprendible
-unlock bronze wall lock;[PENDIENTE]
-unlock gold wall lock;[PENDIENTE]
-unlock iron wall lock;[PENDIENTE]
+unlearnable;indescifrable
 unstable potion;poción inestable
-unstable potion which;pociones inestables que
-unsuccessful;[PENDIENTE]
 upgradeable;mejorable
 vampire;vampiro
-vampire blood magic;[PENDIENTE]
 vampire doublet;jubón de vampiro
 vampiric curse;maldición vampírica
 vandal;vándalo
 vandalise;vandalizar
 vandalised;vandalizado
-verdana;[PENDIENTE]
-vishpala;[PENDIENTE]
 vortex;vórtice
-waddle;[PENDIENTE]
-wade;[PENDIENTE]
 wanderer;andariego
 wanderer ample food;sus abundantes provisiones
-wanted;[PENDIENTE]
 warm hat;gorro abrigado
 warning;advertencia
 warrior;guerrero
 waterbreathing;respiración acuática
 waterwalking;paso acuático
-waterwalking allow adventurer;[PENDIENTE]
-waterwalking blue purple;[PENDIENTE]
 weakness;debilidad
 wealth;riqueza
 weapon bonus;bonus de arma
-weapon damage;daño que ocasionan
-weapon damage bonus;bonus de daño de arma
-weapon dmg effectiveness;[PENDIENTE]
-weapon skill improve;habilidades con armas aumentan
-weapon skill raise slower;menor exp por cada arma
 webbed;enmarañado
 weight;peso
-weight wgt;peso pso
+wgt;peso
 welcome;bienvenido
-wgt;[PENDIENTE]
 whip;látigo
-wield difficult spellbook;automática cualquier
-wily hunter;[PENDIENTE]
 windgate;muro de viento
-wingnut;[PENDIENTE]
-wise magician though;mago erudito aunque
+wise magician;mago erudito
 wizard;mago
 wizard doublet;jubón de mago
 wizard hat;sombrero de mago
@@ -1228,8 +1134,6 @@ wizard robe;capa de mago
 wolf hood;capucha de lobo
 wonderlight;luz deslumbrante
 wooden shield;escudo de madera
-workbench;[PENDIENTE]
+workbench;mesa de trabajo
 worn;endeble
-xp;[PENDIENTE]
-xyggi;[PENDIENTE]
-
+xp;exp
