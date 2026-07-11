@@ -498,7 +498,7 @@
             "name_unidentified": "grimorio"
         },
         "spellbook_dig": {
-            "name_identified": "grimorio de excavación",
+            "name_identified": "grimorio de excavar",
             "name_unidentified": "grimorio"
         },
         "gem_rock": {
@@ -2038,7 +2038,7 @@
             "name_unidentified": "grimorio"
         },
         "spellbook_flame_cloak": {
-            "name_identified": "grimorio de capa ígneo",
+            "name_identified": "grimorio de capa ígnea",
             "name_unidentified": "grimorio"
         },
         "spellbook_lightning_bolt": {
