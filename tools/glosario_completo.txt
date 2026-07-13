@@ -355,9 +355,9 @@ forge metal;forja metal
 fountain;fuente
 fragile;frágil
 free action;acción libre
-freeze trap;trampa de congelamiento
+freeze trap;trampa de congelación
 fresh;saludable
-frostbitten;congelamiento
+frostbitten;congelación
 frypan;sartén
 gadget;artilugio
 garnet;granate
