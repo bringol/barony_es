@@ -310,7 +310,8 @@
 			"id": -29,
 			"internal_name": "EFF_OVERCHARGE_COUNT",
 			"name": "Sobrecarga",
-            "desc": "El próximo hechizo memorizado se mantendrá cargado durante varias lanzamientos sucesivos\nLos lanzamientos sucesivos consumirán PV al agotarse los PM\nCancelar el hechizo cargado disipa el efecto",			"img_path": "",
+            "desc": "El próximo hechizo memorizado se mantendrá cargado durante varias lanzamientos sucesivos\nLos lanzamientos sucesivos consumirán PV al agotarse los PM\nCancelar el hechizo cargado disipa el efecto",
+			"img_path": "",
 			"img_from_spell_id": 100,
 			"tooltip_width": 260
 		},
