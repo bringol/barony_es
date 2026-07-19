@@ -890,15 +890,15 @@
             "name_unidentified": "alembique"
         },
         "potion_firestorm": {
-            "name_identified": "poción de tormenta de fuego",
+            "name_identified": "poción de incendio",
             "name_unidentified": "poción inestable"
         },
         "potion_icestorm": {
-            "name_identified": "poción de tormenta de hielo",
+            "name_identified": "poción de helaje",
             "name_unidentified": "poción inestable"
         },
         "potion_thunderstorm": {
-            "name_identified": "poción de tormenta eléctrica",
+            "name_identified": "poción de tempestad",
             "name_unidentified": "poción inestable"
         },
         "potion_strength": {
