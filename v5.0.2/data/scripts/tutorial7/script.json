@@ -118,13 +118,13 @@
         },
         "tutorial7d": {
             "sign": [
-                "Order followers",
-				"to [Wait] to keep",
-				"them out of the way.",
+				"Ordena a los seguidores",
+				"a [Esperar] para mantenerlos",
+				"fuera del camino.",
 				"$ $",
-                "When set to [Follow]",
-				"follwers will attempt",
-				"to stay close to you."
+				"Cuando se establece en [Seguir],",
+				"los seguidores intentarán",
+				"mantenerse cerca de ti."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",

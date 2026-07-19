@@ -1,0 +1,1143 @@
+abundance;abundancia
+ac;ca
+atk;atq
+pwr;pdr
+accursed;condenado
+acid;ácido
+additional mp;pm adicional
+adorcism;sacralizar
+advancement;avance
+aged;decadente
+agility;agilidad
+alchemist;alquimista
+alchemy;suministros
+alchemy skill;hab alquimia
+alchemy skill increase;aumentos de hab alquimia
+alembic;alambique
+algernon;algernón
+amber;ámbar
+amethyst;amatista
+amulet of burning resistance;amuleto de resistir quemaduras
+amulet of life saving;amuleto de salvación
+amulet of magic reflection;amuleto de reflejar magia
+amulet of olympic swimming;amuleto de nado olímpico
+amulet of poison resistance;amuleto antiveneno
+amulet of sex change;amuleto de cambiar sexo
+amulet of strangulation;amuleto de estrangulamiento
+anansi;anansi
+anatra;anatra
+anelace;anelace
+animal hat;sombrero animal
+anka;anka
+anonymous;anónimo
+apprentice hood;capucha de aprendiz
+apron;delantal
+aquamarine;aguamarina
+arbalest;arbalesta
+arcana;arcana
+arcane boulder;pedrusco arcano
+arcane citadel;ciudadela arcana
+arcane mark;marca arcana
+arcane marked;marca arcana
+arcanist;arcanista
+armor;armaduras
+armor bonus;bonus de armadura
+armor class;clase de amadura
+armor class ac;clase de armadura ca
+armor class bonus;bonus clase de armadura
+art;arte
+artemisia;artemisa
+arthropod form;forma artrópoda
+artifact breastpiece;coraza de artefacto
+artifact cloak;capa de artifacto
+artifact helm;yelmo de artefacto
+artisan;artesanal
+assassin hood;capucha de asesino
+assassination;asesinato
+atk average;atq promedio
+atk damage range;daño atq a dist
+attack;ataque
+attract;atraer
+attribute;atributos
+augment;empodera
+automaton;autómata
+axe;hacha
+axe skill;hab hacha
+backpack;mochila
+backstab;ataque furtivo
+backstab bonus dmg;bonus daño por atq furtivo
+backstabbing;ataques furtivos
+bandana;bandana
+bandit leather;coraza de cuero de bandido
+baphomet;baphomet
+baphomet domain;dominio de baphomet
+baratheon;baratheon
+barbarian;bárbaro
+bard instrument;instrumetno de bardo
+baron herx;barón herx
+base ac total;ca base total
+base armor class;clase de amadura base
+base hp regen disabled;regen de pv desactivada
+base ht rate;tasa de klr base
+base melee damage;daño base cac
+base ranged damage;daño base distancia
+base spell power;poder base de hechizo
+base spell power bonus;bonus poder mágico
+base unarmed damage;daño base desarmado
+bat;murciélago
+bear hood;capucha de oso
+beartrap;trampa de mandíbula
+beast;bestia
+beastfolk;razas bestiales
+bell;campana
+black cloak;capa negra
+blackiron axe;hacha de hierro negro
+blackiron boot;botas de hierro negro
+blackiron breastpiece;coraza de hierro negro
+blackiron crossbow;ballesta de hierro negro
+blackiron dart;dardo de hierro negro
+blackiron gauntlet;guanteletes de hierro negro
+blackiron helm;casco de hierro negro
+blackiron mace;maza de hierro negro
+blackiron shield;escudo de hierro negro
+blackiron sword;espada de hierro negro
+blackiron trident;tridente de hierro negro
+bladevine;liana cortante
+blank scroll;pergamino en blanco
+bleeding;sangrado
+blessed;celestial
+blessed wizard hat;sombrero de mago bendecido
+blessing;celestial
+blindfold;antifaz
+blindness;ceguera
+blocking;bloqueo
+blocking skill;hab bloqueo
+blood vial;frasco de sangre
+bloodletting;sangría
+blouse;blusa
+blue mystic orb;orbe místico azul
+bola;boleadora
+bone;hueso
+bone axe;hacha de hueso
+bone bracer;brazaletes de hueso
+bone breastpiece;coraza de hueso
+bone helm;casco de hueso
+bone mace;maza de hueso
+bone shield;escudo de hueso
+bone sword;espada de hueso
+booby trap;trampa
+bookstore;librería
+boomerang;búmeran
+boot;botas
+boulder trap;trampa de pedrusco
+bounty hunter hat;sombrero de cazarecompensas
+bow;arco
+bow attack;ataques con arco
+bracer;brazaletes
+bram castle;castillo de bram
+branch bow;arco de rama
+branch staff;bastón de rama
+breathe fire;aliento ígneo
+breathe fire;escupir fuego
+brewer;destilador
+bronze axe;hacha de bronce
+bronze key;llave de bronce
+bronze mace;maza de bronce
+bronze shield;escudo de bronce
+bronze sword;espada de bronce
+bronze tomahawk;tomahawk de bronce
+bugbear;osgo
+bunny hood;capucha de conejo
+burning;quemadura
+burning resistance;resistir quemaduras
+bycocket;feluca
+byrd;byrd
+callout;llamado
+campaign;encrucijada
+canardo;canardo
+casting;canalizar
+casting consume mp;canalizar consumirá pm
+casting memorized spell;magia memorizada
+cauldron;caldero
+ceiling trap;trampa de techo
+cha;car
+chain armor;cota de malla
+challenge;reto
+chan;chan
+character;personaje
+charisma;carisma
+charlotte;charlotte
+charm monster;encantar monstruo
+chr;car
+church;iglesia
+circlet;diadema
+circlet of sorcery;diadema de hechicería
+circlet of thaumaturgy;diadema de taumaturgia
+circlet of wisdom;diadema de sabiduría
+citadel;ciudadela
+citrine;citrina
+class stat growth shapeshifted;incremento estadístico cambiaformas
+claymore;mandoble
+cleanse food;purificar alimento
+cleat;botas de montaña
+cleric;clérigo
+cloak;capa
+cloak burned up;capas agotadas
+cloak of invisibility;capa de invisibilidad
+cloak of magic reflection;capa de reflejo mágico
+cloak of protection;capa de protección
+cloak of the guardian;capa del guardián
+clothing;vestimenta
+cloudy;decadente
+cockatrice;cocatriz
+cockatrice lair;cubil de la cocatriz
+cold;frío
+cold resistance;resistencia al frío
+compel;obligar
+compound bow;arco compuesto
+con str;con fue
+conflict;conflicto
+confusion;confusión
+conjurer;conjurador
+constitution;constitución
+construct;constructo
+consumed;consumido
+consumption;consunción
+container;contenedor
+contravention;transgresión
+controlling goblin;controlando trasgos
+costume;disfraz
+counsel;consejo
+courage;coraje
+cowardice;cobardía
+crab;cangrejo
+cracked;frágil
+crafted;elaborado
+critical spell;conjuro crítico
+critical strike;golpes críticos
+crossbow;ballesta
+crown;corona
+crystal;cristal
+crystal axe;hacha de cristal
+crystal boot;botas de cristal
+crystal breastpiece;coraza de cristal
+crystal caf;cuevas de cristal
+crystal gauntlet;guanteletes de cristal
+crystal golem;gólem de cristal
+crystal helm;yelmo de cristal
+crystal key;llave de cristal
+crystal mace;maza de cristal
+crystal shard;fragmento de cristal
+crystal shield;escudo de cristal
+crystal shuriken;shuriken de cristal
+crystal spear;lanza de cristal
+crystal sword;espada de cristal
+crystal visor;visera de cristal
+curse;infame
+curse flesh;maldecir cuerpo
+cursed;infame
+daedalus;dédalo
+damage;daño
+dash;brío
+deactivate;deactivar
+debuff;perjuicio
+decanting;decantar
+deceased;fallecido
+decent;decente
+decrepit;deficiente
+deface;desfigurar
+defending ac increase shield;aumento ca defensiva
+degeneration;degeneración
+degraded;degradado
+delicatessen;delicatessen
+demon;demonio
+demonic;demoníaco
+dendrite cloak;capa dendrítica
+deployed;desplegado
+deployed gyrobot;girobots desplegados
+deployed trap;trampas desplegadas
+desecrate;profanar
+destroyed;irreparable
+detection;detección
+dethroning herx;destronando a herx
+devil;diablillo
+dex;des
+dexterity;destreza
+dexterity dex;destreza des
+dexterity perception;destreza percepción
+diamond;diamante
+dig;excavar
+digging;excavando
+disable hp regeneration;desactiva la regeneración de pv
+disarm;desarmar
+disrupted;desequilibrio
+divination;adivinación
+dizzy;mareo
+dominate;dominar
+dominate mp cost;costo pm de dominar
+donation;donación
+doodle;garabato
+doublet;jubón
+dracula;drácula
+drum;tambor
+drunk;ebriedad
+drunk goatman;ebriedad fauno
+dryad;dríade
+dummy;títere
+dummybot;títere
+dungeon;mazmorra
+dungeon basic;fundamentos de la mazmorra
+dungeon expedition;expediciones de mazmorra
+dungeon floor;mazmorra actual
+dungeon hide many;mazmorra esconde muchos
+dungeon run;partidas de mazmorra
+dungeon trap;trampas de la mazmorra
+dungeoning;mazmorreo
+duration;duración
+dusted;desempolvado
+dyrnwyn;dyrnwyn
+each potion type;cada tipo de poción
+each shopkeeper trade;cada comerciante comercia
+echola;lucas
+effect duration;duración de efecto
+effect still work;efecto aún funciona
+emerald;esmeralda
+enchanted amulet;amuleto encantado
+enchanted ring;anillo encantado
+enemy;enemigo
+energy burn rate;tasa de consumo de energía
+enhance weapon;potenciar arma
+enslaved ghoul;necrófago esclavizado
+envenom weapon;envenenar arma
+erudyce;erudyce
+evaporated;volátil
+evasion;evasión
+evocation;evocación
+executioner hood;capucha de verdugo
+exorcise;exorcizar
+experience;experiencia
+expert;experto
+eyepatch;parche para ojos
+faded;tenue
+favorite skill;habilidad favorita
+fear;miedo
+feather;pluma
+felt hat;sombrero de fieltro
+fiercely guarded kobold maze;laberito kóbold ferozmente custodiado
+fire faster but deal;dispara más rápido pero inflige
+fire hunting ammo;flecha ardiente de cacería 
+fire sprite;sílfide ígnea
+fire wall;muro ardiente
+fireball;bola de fuego
+fist weapon;arma de puño
+flail;mangual
+flame;llamas
+flame cloak;capa ígnea
+flame elemental;elemental ígneo
+flame resistant;resistente al fuego
+flame shield;escudo ígneo
+flame trap;trampa de fuego
+flammable;inflamable
+flanking;flanqueo
+flanking damage;daño de flanqueo
+flawed;regular
+flawless;deslumbrante
+flexible;flexible
+fluorite;fluorita
+flute;flauta
+flutter;aleteo
+flutter dash spray acid;aleteo brío rocío ácido
+focu;foco
+forcebolt;virote mágico
+forge jewel;forjar gema
+forge key;forjar llave
+forge magic;forjar magia
+forge metal;forja metal
+fountain;fuente
+fragile;frágil
+free action;acción libre
+freeze trap;trampa de congelación
+fresh;saludable
+frostbitten;congelación
+frypan;sartén
+gadget;artilugio
+garnet;granate
+gate;portón
+gauntlet;guanteletes
+gem;gema
+gemstone;piedra preciosa
+geomancy;geomancia
+germinate;germinar
+ghost;espectro
+ghostbolt;rayo espectral
+ghoul;necrófago
+ghoul disturbed;necrófagos perturbados
+gnome;gnomo
+goatman;fauno
+goblin;trasgo
+gold key;llave de oro
+golem;gólem
+grape;uva
+gravestone;lápida
+greasy;grasiento
+greatsword;espadón
+green mystic orb;orbe místico verde
+gyro;girobot
+gyrobot;girobot
+hamlet;hamlet
+harvest trap;cosechar trampa
+hat;sombrero
+haunted castle;castillo embrujado
+healer;curandero
+healing;curación
+health regeneration;regeneración de vida
+heavy;pesado
+hell;infierno
+helm;yelmo
+helmet;yelmo
+hermit;ermitaño
+herx lair;guarida de herx
+highest base chr;car base más alto
+highest base con;con base más alta
+highest base dex;des base más alta
+highest base int;int base más alta
+highest base per;per base más alta
+highest base str;fue base más alta
+highest damage blocked;máximo daño bloqueado
+highest hp total;total máximo de pv
+highest magic resistance;resistencia mágica máxima
+highest mp total;total máximo de pm
+highest skill achieved;habilidad máxima alcanzada
+highest stat;estadística más alta
+highest total ac;ca total más alto
+highlighted;resaltado
+hoarding gold;acumular oro
+hologram;holograma
+holy fire;fuego sagrado
+hood;capucha
+horn;cuerno
+hp;pv
+hp regen;pv regen
+hp regeneration;regeneración de pv
+hp regeneration disabled;regen de pv desactivada
+hp regeneration total;regeneración de pv acumulada
+human;humano
+human saved;humanos salvados
+humanoid;humanoide
+hungover;resaca
+hungry;hambriento
+hunter;cazador
+hunter guild;gremio de cazadores
+hunting ammo;flechas de cacería
+ice block;bloque de hielo
+ice wave;onda de gélida
+icon;ícono
+icon of claim life;ícono de reclamar vida
+icon of silence;ícono de silencio
+icon of suppression;ícono de supresión
+icon of vengeance;ícono de venganza
+icon of void rift;ícono de grieta del vacío
+identify;identificación
+ignite;incendiar
+immortality;inmortalidad
+imp;diablillo
+imp form;forma de diablillo
+impeturia;impeturia
+improved pickaxe combat;mejor combate con pico
+incoherence;incoherencia
+incubu;íncubo
+indominable;indomable
+infected branch bow;arco de rama infectada
+inhabitant;habitante
+innate spell;hechizos innatos
+inner demon;demonio interior
+insectoid;insectoide
+inspiration;inspiración
+instantly;instantáneamente
+instrument;instrumento
+int;int
+intelligence;inteligencia
+interact;interactuar
+intricate;fascinante
+invisibility;invisibilidad
+iron;hierro
+iron axe;hacha de hierro
+iron boot;botas de hierro
+iron bracer;brazaletes de hierro
+iron breastpiece;coraza de hierro
+iron dagger;daga de hierro
+iron helm;yelmo de hierro
+iron key;llave de hierro
+iron knuckle;nudillos de hierro
+iron mace;maza de hierro
+iron pauldron;hombreras de hierro
+iron shield;escudo de hierro
+iron spear;lanza de hierro
+iron sword;espada de hierro
+irrepairable;irreparable
+item;objeto
+jacinth;jacinto
+jester;bufón
+jester hat;gorro de bufón
+jetstone;azabache
+jewel;joya
+jewel upgraded;gemas mejoradas
+jeweler;joyero
+joker;guasón
+jump;salto mágico
+justice;justicia
+kinetic shield;escudo cinético
+knight;caballero
+knockback;empuje
+knuckle;nudillos
+kobold;kóbold
+labyrinth;laberito
+lance;lanza
+lantern;linterna
+laurel;laureles
+lava;lava
+lay trap;montar trampa
+leadership;liderazgo
+learnable;aprendible
+least stat gain;menos ganancias de estadísticas
+leather apron;delantal de cuero
+leather armor;armadura de cuero
+leather boot;botas de cuero
+leather breastpiece;coraza de cuero
+leather gloves;guantes de cuero
+leather helm;yelmo de cuero
+legend;leyenda
+legendary skill reached;habilidad legendaria alcanzada
+lever;palanca
+levitation;levitación
+lifesaving;resurrección
+lift;elevar
+light;luz
+lightning;relámpago
+lightweight;peso ligero
+lilith;lilit
+loafer;mocasines
+location;ubicación
+locking;cerradura
+lockpick;ganzúa
+longbow;arco largo
+lore;saber
+lore skill;hab saber
+luckstone;roca de la fortuna
+lusty goblin maid;lujuriosa sirvienta trasgo
+lute;laúd
+lyre;lira
+mace;maza
+mace skill;hab maza
+machine key;llave de maquinaria
+magic axe;hacha mágica
+magic bow;arco mágico
+magic mace;maza mágica
+magic mapping;mapeo mágico
+magic missile;misil mágico
+magic missile volley;lluvia de rayos mágicos
+magic power pwr;poder mágico pdr
+magic reflection;reflejo mágico
+magic resistance;resistencia mágica
+magic scrap;chatarra mágica
+magic spear;lanza mágica
+magic sword;espada mágica
+magic trap;trampa mágica
+magic well;pozo mágico
+magician bubble;burbuja del mago
+magician guild;gremio de magos
+magician guild archmagister;gran maestre del gremio de magos
+magicstaff;bastón mágico
+magicstaff recharged;bastones mágicos recargados
+mana regeneration;regeneración mágica
+marigold;caléndula
+marked;legible
+mason guild;gremio de masones
+master;maestro
+max atk total;atq máx acumulado
+max hp regen rate;tasa máxima de regen de pv
+max mp regen rate;tasa máxima de regen de pm
+max pwr spell cast;hechizo de pdr máxima lanzado
+maximise;maximizar
+maximum damage;daño máximo
+maximum deployed tinkering ally;despliegue máximo de aliados fabricados
+meal;comida
+mechanism;mecanismos
+mechanist;mecanicista
+meditation;meditación
+melee;armas
+melee atk bonus;bonus atq cac
+melee attack;ataque cuerpo a cuerpo
+melee weapon;arma cuerpo a cuerpo
+memorized;memorizado
+memorized spell appear;hechizos memorizados
+mentality;mentalidad
+merchant;comerciante
+merchant guild;gremio de comerciantes
+merchant shop;puesto comercial
+mesmer;hipnotista
+messy;tumulto
+metal magic scrap;chatarra mágica metalica
+metallurgy;metalurgia
+mimic;mimeto
+mine;minas
+minehead;bocamina
+minetown;pueblo minero
+minimise;minimizar
+minotaur;minotauro
+minotaur maze;laberinto del minotauro
+mirror;espejo
+mirror shield;escudo espejo
+missile;misil
+mist form;forma gaseosa
+mixing two potion;mezclar dos pociones
+monk;monje
+monk robe;manto de monje
+monocle;monóculo
+morsel;bocado
+mouldy;repugnante
+mp;pm
+mp regen;regen pm
+mp regen bonus;bonus regen pm
+mp regenerate slowly;pm se regeneran lentamente
+mp regeneration;regeneración de pm
+mp regeneration total;regeneración de pm acumulada
+mycelium;micelio
+myconid;micónido
+mystic orb;orbe místico
+mysticism;misticismo
+mysticism bonus;bonus misticismo
+mysticism skill;hab misticismo
+nausea resistance;resistencia a náuseas
+neglected skill;habilidad descuidada
+nimbleness;ligereza
+no ally damage;sin daño aliado
+no effect;sin efectos
+no unique effect;sin efectos únicos
+noisemaker;sonajero
+nominal;normal
+nourished;plenitud
+novice;aprendiz
+numb;adormecimiento
+nut;nuez
+obelisk;obelisco
+obsidian;obsidiana
+opening;apertura
+option;opciones
+orpheus;orfeo
+othello;otelo
+overcharge;sobrecarga
+pacified;pacificado
+paladin;paladín
+paralysis;parálisis
+parry;desvío
+peking;[PENDIENTE]
+penalty;penalidad
+penance;penitencia
+penetrate armor;penetrar armadura
+per;per
+perception;percepción
+perception per;percepción per
+phrygian hat;gorro frigio
+pickaxe;pico
+pinpoint;localizar
+pipe;tubería
+pit;foso
+playtime;tiempo de juego
+poison;veneno
+poison resistance;antiveneno
+polearm;arma de asta
+polearm skill;hab arma de asta
+polymorph;polimorfia
+polymorph effect;efecto polimorfia
+poor quality food;comida en mal estado
+portal;portal
+portcullis;reja levadiza
+potion;poción
+potion decanted;pociones decantadas
+potion duplicated;pociones duplicadas
+potion effect damage;efecto dañino de pociones
+potion of acid;poción de ácido
+potion of blindness;poción de ceguera
+potion of confusion;poción de confusión
+potion of cure ailment;poción de curar dolencia
+potion of extra healing;poción de gran curación
+potion of firestorm;poción de incendio
+potion of healing;poción de curación
+potion of icestorm;poción de helaje
+potion of invisibility;poción de invisibilidad
+potion of levitation;poción de levitación
+potion of paralysis;poción de parálisis
+potion of polymorph;poción de polimorfia
+potion of restore magic;poción de restaurar magia
+potion of sickness;poción de enfermedad
+potion of speed;poción de velocidad
+potion of strength;poción de fuerza
+potion of thunderstorm;poción de tempestad
+preparation;preparativos
+preserve;preservar
+projectile;proyectil
+providence;providencia
+punisher;castigador
+purity;pureza
+purple mystic orb;orbe místico púrpura
+push;empuje
+pwr;pdr
+pwr reduced;pdr reducido
+quarter staff;bastón largo
+quilted armor;gambesón
+quiver;carcaj
+quiver of ammo;carcaj de flechas
+quiver of blackiron ammo;carcaj de flechas de hierro negro
+quiver of bone ammo;carcaj de flechas de hueso
+quiver of crystal ammo;carcaj de flechas de cristal
+quiver of fire ammo;carcaj de flechas incendiarias
+quiver of hunting ammo;carcaj de flechas de cacería
+quiver of piercing ammo;carcaj de flechas perforantes
+quiver of silver ammo;carcaj de flechas de plata
+quiver of springshot ammo;carcaj de flechas de empuje
+quiver of swift ammo;carcaj de flechas veloces
+rallied;fervor
+rally;fervor
+ranged;alcance
+ranged armor pierce chance;% penetrar armadura a distancia
+ranged atk bonus;bonus atq a distancia
+ranged atk damage variance;atq a distancia efectividad
+ranged attack;ataque a distancia
+ranged backstab atk increase;atq. furtivo a distancia aumenta atq
+ranged damage bonus;bonus de daño a distancia
+ranged skill;hab de alcance
+rapier;espada ropera
+rat;rata
+rat form;forma de rata
+ration;ración
+recruited;reclutado
+red hood;capucha roja
+red mystic orb;orbe místico rojo
+red riding hood;caperucita roja
+reflect magic;reflejo mágico
+reflecting enemy spell;refleja hechizos enemigos
+reflector;reflector
+regeneration rgn;regeneración reg
+repair;reparar
+reshape weapon;reformar arma
+resistance;resistencia
+rest;descanso
+restore;restaurar
+retaliation;represalia
+revenant curse;maldición espectral
+revenant skeleton;esqueletro espectral
+revert form;revertir forma
+rgn;regen
+ring;anillo
+ring of adornment;anillo decorativo
+ring of conflict;anillo de conflicto
+ring of constitution;anillo de constitución
+ring of invisibility;anillo de invisibilidad
+ring of levitation;anillo de levitación
+ring of magic resistance;anillo de resistencia mágica
+ring of might;anillo de poder
+ring of protection;anillo de protección
+ring of regeneration;anillo de regeneración
+ring of resolve;anillo de resolución
+ring of slow digestion;anillo de digestión lenta
+ring of teleportation;anillo de teletransporte
+ring of warning;anillo de alerta
+riposte;contraataque
+rock;roca
+rogue;pícaro
+rooted;arraigo
+rose;rosa
+rotten;incomible
+rough;irregular
+ruby;rubí
+sabotage;sabotaje
+salamander;salamandra
+salvage;reciclar
+sanctify;santificar
+sanctuary;santuario
+sanctum;sagrario
+sapper;zapador
+sapphire;zafiro
+sarkomancy;sarcomancia
+scapegoat;chivo expiatorio
+scarab;escarabajo
+scepter;cetro
+scion;vástago
+scorpion;escorpión
+scrap;chatarra
+scroll;pergamino
+scroll of charging;pergamino de recarga
+scroll of conjure arrow;pergamino de invocar flechas
+scroll of destroy armor;pergamino de destruir armadura
+scroll of enchant armor;pergamino de encantar armadura
+scroll of enchant weapon;pergamino de encantar arma
+scroll of fire;pergamino de fuego
+scroll of food;pergamino de comida
+scroll of identify;pergamino de identificación
+scroll of light;pergamino de luz
+scroll of magic mapping;pergamino de mapeo mágico
+scroll of recharge;pergamino de recarga
+scroll of remove curse;pergamino de romper maldición
+scroll of repair;pergamino de reparación
+scroll of summon;pergamino de invocación
+scroll of teleportation;pergamino de teletransporte
+scroll read identified;pergamino leído identificado
+scroll read unidentified;pergamino leído sin identificar
+scroll remove;pergaminos eliminan
+scry trap;vislumbrar trampas
+scutum;scutum
+seize magic;apresar magia
+self effect;autoefecto
+sentinel;centinela
+sentry;centinela
+sentrybot;ballestero
+serviceable;utilizable
+sexton;sacristán
+shadow;sombra
+shadow goatman;fauno sombrío
+shaman;shamán
+sharur;sharur
+shawl;chal
+shelter;refugio
+shield;escudo
+shield bash;escudazo
+shillelagh;garrote
+shop;comercio
+shopkeeper;comerciante
+shopkeeper inventory;inventario del comerciante
+short range spell;hechizo de corto alcance
+shortbow;arco corto
+shredded;ilegible
+sigil;gilfo
+silken bow;lazo de seda
+silver axe;hacha de plata
+silver breastpiece;coraza de plata
+silver cloak;capa de plata
+silver glaive;guja de plata
+silver helm;casco de plata
+silver hood;capucha de plata
+silver key;llave de plata
+silver mace;maza de plata
+silver piercing ammo;munición perforante de plata
+silver shield;escudo de plata
+silver sword;espada de plata
+sink;lavamanos
+skeleton;esqueleto
+skeleton key;llave maestra
+skeleton knight;caballero esquelético
+skeleton sentinel;centinela esquelético
+skewer;ensartar
+skill;pericia;habilidad
+skill bonus;bonus estad
+skilled;avanzado
+skrabblag;eskrabblag
+sleep;sueño
+sleep trap;trampa de sueño
+slime;cieno
+slime spray;rocío de cieno
+slingshot;honda
+slippery;resbaladizo
+slow;lentitud
+smite;mazas
+sneak;escabullir
+sneakiest class;clase más furtiva
+sneaking;sigilo
+sorcery;hechicería
+sorcery bonus;bonus hechicería
+sorcery skill;hab hechicería
+spawned monster;monstruos invocados
+spd;vel
+speed;velocidad
+spellbot;magobot
+spell;hechizo
+spell forgotten;hechizos olvidados
+spell learned;hechizo aprendido
+spell power;poder de hechizos
+spell power total;poder total de hechizo
+spellbook;grimorio
+spellbook casting;magia de grimorio
+spellbook of absorb magic;grimorio de absorber magia
+spellbook of abundance;grimorio de abundancia
+spellbook of alter arrow;grimorio de alterar flecha
+spellbook of arcane mark;grimorio de marca arcana
+spellbook of arthropod form;grimorio de forma arácnida
+spellbook of attract item;grimorio de atraer objetos
+spellbook of blessed meal;grimorio de bendecir alimento
+spellbook of blood waves;grimorio de ondas sanguíneas
+spellbook of blood ward;grimorio de protección sanguínea
+spellbook of bloodletting;grimorio de sangría
+spellbook of charm monster;grimorio de encantar monstruo
+spellbook of cleanse food;grimorio de purificar alimento
+spellbook of cold;grimorio de frío
+spellbook of compel;grimorio de obligar
+spellbook of confuse;grimorio de confusión
+spellbook of conjure skeleton;grimorio de invocar esqueleto
+spellbook of counsel;grimorio de consejo
+spellbook of cowardice;grimorio de cobardía
+spellbook of cure ailment;grimorio de curar dolencia
+spellbook of curse flesh;grimorio de maldecir cuerpo
+spellbook of dash;grimorio de brío
+spellbook of deep shade;grimorio de sombra profunda
+spellbook of defy flesh;grimorio de profanar cuerpo
+spellbook of detect enemy;grimorio de detectar enemigo
+spellbook of detect food;grimorio de detectar comida
+spellbook of dig;grimorio de excavar
+spellbook of disarm;grimorio de desarmar
+spellbook of disrupt earth;grimorio de fractura terrenal
+spellbook of divine fortress;grimorio de fortaleza divina
+spellbook of divine guard;grimorio de protección divina
+spellbook of divine zeal;grimorio de fervor divino
+spellbook of dominate;grimorio de dominar
+spellbook of donation;grimorio de donación
+spellbook of drain soul;grimorio de drenar alma
+spellbook of elemental focus;grimorio de foco elemental
+spellbook of envenom weapon;grimorio de envenenar arma
+spellbook of exorcise;grimorio de exorcizar
+spellbook of extra healing;grimorio de gran curación
+spellbook of fear;grimorio de miedo
+spellbook of fire wall;grimorio de muro ardiente
+spellbook of fireball;grimorio de bola de fuego
+spellbook of flame cloak;grimorio de capa ígnea
+spellbook of flutter;grimorio de aleteo
+spellbook of forcebolt;grimorio de virote mágico
+spellbook of forge key;grimorio de forjar llave
+spellbook of grease spray;grimorio de ráfaga de grasa
+spellbook of greater might;grimorio de fuerza mayor
+spellbook of guard body;grimorio de protección corporal
+spellbook of guard spirit;grimorio de protección espiritual
+spellbook of healing;grimorio de curación
+spellbook of holy beam;grimorio de haz sagrado
+spellbook of holy sigil;grimorio de sello sagrado
+spellbook of ice wave;grimorio de onda de gélida
+spellbook of identify;grimorio de identificación
+spellbook of ignite;grimorio de incendiar
+spellbook of imp form;grimorio de forma de diablillo
+spellbook of incoherence;grimorio de incoherencia
+spellbook of inner demon;grimorio de demonio interior
+spellbook of invisibility;grimorio de invisibilidad
+spellbook of kinetic defense;grimorio de defensa cinética
+spellbook of kinetic field;grimorio de campo cinético
+spellbook of lead bolt;grimorio de rayo de plomo
+spellbook of levitation;grimorio de levitación
+spellbook of lift;grimorio de elevar
+spellbook of light;grimorio de luz
+spellbook of lightning;grimorio de relámpago
+spellbook of lightning bolt;grimorio de destello de relámpago
+spellbook of locking;grimorio de cerradura
+spellbook of magic mapping;grimorio de mapeo mágico
+spellbook of magic missile;grimorio de misil mágico
+spellbook of magician bubble;grimorio de burbuja del mago
+spellbook of maximise;grimorio de maximizar
+spellbook of metallurgy;grimorio de metalurgia
+spellbook of meteor;grimorio de meteorito
+spellbook of minimise;grimorio de minimizar
+spellbook of minor heal;grimorio de curación menor
+spellbook of mist form;grimorio de forma gaseosa
+spellbook of nimbleness;grimorio de ligereza
+spellbook of null area;grimorio de anular área
+spellbook of numbing bolt;grimorio de rayo adormecedor
+spellbook of opening;grimorio de apertura
+spellbook of overcharge;grimorio de sobrecarga
+spellbook of pinpoint;grimorio de localizar
+spellbook of poison;grimorio de veneno
+spellbook of polymorph;grimorio de polimorfia
+spellbook of portal;grimorio de portal
+spellbook of power strike;grimorio de impacto poderoso
+spellbook of preserve;grimorio de preservar
+spellbook of psychic spear;grimorio de lanza psíquica
+spellbook of rat form;grimorio de forma de rata
+spellbook of reflect magic;grimorio de reflejar magia
+spellbook of remove curse;grimorio de romper maldición
+spellbook of reshape weapon;grimorio de reformar arma
+spellbook of revert form;grimorio de revertir forma
+spellbook of sabotage;grimorio de sabotaje
+spellbook of salvage;grimorio de reciclaje
+spellbook of scry ally;grimorio de vislumbrar aliados
+spellbook of scry trap;grimorio de vislumbrar trampas
+spellbook of scry treasure;grimorio de vislumbrar tesoros
+spellbook of seek ally;grimorio de localizar aliado
+spellbook of shatter object;grimorio de destruir objetos
+spellbook of sleep;grimorio de sueño
+spellbook of slow;grimorio de lentitud
+spellbook of speed;grimorio de velocidad
+spellbook of spin;grimorio de giro
+spellbook of spirit weapon;grimorio de arma espiritual
+spellbook of splinter armor;grimorio de destrozar armadura
+spellbook of spore;grimorio de esporas
+spellbook of spray acid;grimorio de rocío ácido
+spellbook of spray web;grimorio de enmarañar
+spellbook of steal weapon;grimorio de robar arma
+spellbook of stoneblood;grimorio de sangre pétrea
+spellbook of sturdiness;grimorio de robustez
+spellbook of telekinesi;grimorio de telequinesis
+spellbook of teleport other;grimorio de teletransporte ajeno
+spellbook of teleportation;grimorio de teletransporte
+spellbook of thorn;grimorio de espinas
+spellbook of troll blood;grimorio de sangre de troll
+spellbook of troll form;grimorio de forma de troll
+spellbook of vampiric aura;grimorio de aura vampírica
+spellbook of void chest;grimorio de arca del vacío
+spellbook of weakness;grimorio de debilidad
+spellbook of windgate;grimorio de muro de viento
+spellbot;magibot
+spellcaster;canalizador
+spider;tarántula
+spike trap;trampa de púas
+spin;giro
+spirit key;llave espiritual
+spirit weapon;arma espiritual
+splinter armor;destrozar armadura
+spore;espora
+spray acid;rocío ácido
+springshot ammo;flechas de empuje
+stability;estabilidad
+staff burnt out;bastón agotado
+stag hood;capucha de ciervo
+stamina;aguante
+stamped scroll;pergamino sellado
+starter weapon;arma inicial
+starving;famélico
+stat metastat;stats y meta stats
+static;estática;estático
+steal held weapon;roba armas empuñadas
+steal weapon;robar arma
+stealth;sigilo
+stealth skill;hab sigilo
+steel armor;armadura de acero
+steel axe;hacha de acero
+steel boot;botas de acero
+steel breastpiece;coraza de acero
+steel chakram;chakram de acero
+steel falshion;bracamante de acero
+steel flail;mangual de acero
+steel gauntlet;guanteletes de acero
+steel greataxe;gran hacha de acero
+steel halberd;alabarda de acero
+steel helm;yelmo de acero
+steel mace;maza de acero
+steel shield;escudo de acero
+steel sword;espada de acero
+steel visor;visera de acero
+stone key;llave pétrea
+stoneblood;sangre pétrea
+str;fue
+str speed bonus;fue bonus velocidad
+strafing;paso lateral
+strangulation;estrangulamiento
+strength;fuerza
+strip;desnudar
+sturdiness;robustez
+succubu;súcubo
+superheated;sobrecalentamiento
+supernatural magic power;poder mágico sobrenatural
+sustained;sostenido
+swamp;pantano
+swift ammo;flechas veloces
+springshot ammo;munición de empuje
+swirly;remolinante
+sword;espada
+sword atk damage variance;atq espada efectividad
+sword skill;hab espada
+swordsman;espadachín
+symbol of justice;símbolo de justicia
+symbol of peace;símbolo de paz
+symbol of providence;símbolo de providencia
+symbol of purity;símbolo de pureza
+symbol of sanctuary;símbolo del santuario
+tablet;tabla
+taunt;provocar
+teal hood;sombrero verde azulado
+teamwork;trabajo en equipo
+technique;técnica
+telekinesi;telequinesis
+telepathy;telepatía
+teleport;teletransportar
+teleportation;teletransporte
+teleportation trap;trampa de teletransporte
+temple;templo
+temulturgy;temulturgia
+thauma;tauma
+thaumaturgy;taumaturgia
+thaumaturgy bonus;bonus taumaturgia
+thaumaturgy skill;hab taumaturgia
+thorn;espina
+throwable;arrojadizo
+throwing weapon;armas arrojadizas
+thrown;arrojado
+tier;grado
+tin;lata
+tinkered trap;trampa fabricada
+tinkering;fabricar
+tinkering kit;kit de fabricación
+tinkering kit equipped;kit de fabricación equipado
+tomalley;hígado de langosta
+tool;herramienta
+top hat;sombrero de copa
+torch;antorcha
+torn;deplorable
+torso;torso
+total dmg taken;daño total recibido
+total gold picked up;oro total recogido
+total mp regeneration;regen total de pm
+total regen;regen total
+total spell learned;total de hechizos aprendidos
+towel;toalla
+trading;comerciar
+trading skill;hab comercio
+trait;rasgo
+trap;trampa
+troll blood;sangre de troll
+troll form;forma de troll
+tunic;túnica
+unarmed;desarmado
+unarmed bonus atk;bonus atq desarmado
+unarmed skill;hab desarmado
+unbreakable;irrompible
+uncursed;corriente
+undead;no muertos
+undead slain;no muertos asesinados
+undead within;no muertos dentro
+underworld;inframundo
+undying;dolor diferido
+unidentified;inescrutable
+unknown effect;efecto desconocido
+unknown scroll;pergamino desconocido
+unlearnable;indescifrable
+unstable potion;poción inestable
+upgradeable;mejorable
+vampire;vampiro
+vampire doublet;jubón de vampiro
+vampiric curse;maldición vampírica
+vandal;vándalo
+vandalise;vandalizar
+vandalised;vandalizado
+void storage; arca del vacío
+vortex;vórtice
+wanderer;andariego
+wanderer ample food;sus abundantes provisiones
+warm hat;gorro abrigado
+warning;advertencia
+warrior;guerrero
+waterbreathing;respiración acuática
+waterwalking;paso acuático
+weakness;debilidad
+wealth;riqueza
+weapon bonus;bonus de arma
+webbed;enmarañado
+weight;peso
+wgt;peso
+welcome;bienvenido
+whip;látigo
+windgate;muro de viento
+wise magician;mago erudito
+wizard;mago
+wizard doublet;jubón de mago
+wizard hat;sombrero de mago
+wizard robe;capa de mago
+wolf hood;capucha de lobo
+wonderlight;luz deslumbrante
+wooden shield;escudo de madera
+workbench;mesa de trabajo
+worn;endeble
+xp;exp

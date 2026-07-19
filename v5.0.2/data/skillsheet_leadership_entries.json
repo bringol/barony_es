@@ -1,7 +1,7 @@
 {
     "version": 1,
     "leadership_allies_base": {
-        "vampiro": [
+        "vampire": [
             "vampiro",
             "autómata"
         ],
@@ -9,39 +9,39 @@
             "necrófago",
             "autómata"
         ],
-        "humano": [
+        "human": [
             "humano",
             "autómata"
         ],
-        "súcubo": [
+        "succubus": [
             "súcubo",
             "íncubo",
             "autómata"
         ],
-        "fauno": [
+        "goatman": [
             "fauno",
             "autómata"
         ],
-        "autómata": [
+        "automaton": [
             "humano",
             "autómata"
         ],
-        "íncubo": [
+        "incubus": [
             "súcubo",
             "íncubo",
             "autómata"
         ],
-        "trasgo": [
+        "goblin": [
             "trasgo",
             "autómata"
         ],
-        "insectoide": [
+        "insectoid": [
             "escorpión",
             "escarabajo",
             "insectoide",
             "autómata"
         ],
-        "rata": [
+        "rat": [
             "rata",
             "autómata"
         ],
@@ -49,19 +49,35 @@
             "troll",
             "autómata"
         ],
-        "tarántula": [
+        "spider": [
             "tarántula",
             "escorpión",
             "escarabajo",
             "autómata"
         ],
-        "diablillo": [
+        "imp": [
             "diablillo",
+            "autómata"
+        ],
+        "gremlin": [
+            "gremlin"
+        ],
+        "myconid": [
+            "micónido"
+        ],
+        "dryad": [
+            "dríade"
+        ],
+        "salamander": [
+            "salamandra",
+            "autómata"
+        ],
+        "gnome": [
             "autómata"
         ]
     },
     "leadership_allies_legendary": {
-        "vampiro": [
+        "vampire": [
             "trasgo",
             "insectoide",
             "fauno"
@@ -71,39 +87,39 @@
             "insectoide",
             "fauno"
         ],
-        "humano": [
+        "human": [
             "trasgo",
             "insectoide",
             "fauno"
         ],
-        "súcubo": [
+        "succubus": [
             "trasgo",
             "insectoide",
             "fauno"
         ],
-        "fauno": [
+        "goatman": [
             "trasgo",
             "insectoide"
         ],
-        "autómata": [
+        "automaton": [
             "trasgo",
             "insectoide",
             "fauno"
         ],
-        "íncubo": [
+        "incubus": [
             "trasgo",
             "insectoide",
             "fauno"
         ],
-        "trasgo": [
+        "goblin": [
             "insectoide",
             "fauno"
         ],
-        "insectoide": [
+        "insectoid": [
             "trasgo",
             "fauno"
         ],
-        "rata": [
+        "rat": [
             "trasgo",
             "insectoide",
             "fauno"
@@ -113,38 +129,63 @@
             "insectoide",
             "fauno"
         ],
-        "tarántula": [
+        "spider": [
             "trasgo",
             "insectoide",
             "fauno"
         ],
-        "diablillo": [
+        "imp": [
+            "trasgo",
+            "insectoide",
+            "fauno"
+        ],
+        "gnome": [
+            "trasgo",
+            "insectoide",
+            "fauno"
+        ],
+        "dryad": [
+            "trasgo",
+            "insectoide",
+            "fauno"
+        ],
+        "myconid": [
+            "trasgo",
+            "insectoide",
+            "fauno"
+        ],
+        "salamander": [
+            "trasgo",
+            "insectoide",
+            "fauno"
+        ],
+        "gremlin": [
             "trasgo",
             "insectoide",
             "fauno"
         ]
     },
     "leadership_allies_unique_recruits": {
-        "súcubo": [
+        "succubus": [
             {
-                "humano": "   (Ebrio)"
+                "human": "   (Ebrio)"
             },
             {
-                "humano": "   (Confundido)"
+                "human": "   (Confundido)"
             }
         ],
-        "fauno": [
+        "goatman": [
             {
-                "humano": "   (Lanza bebida\n   en estado de ebriedad)"
+                "human": "   (Lanza bebida\n   en estado de ebriedad)"
             },
 			{
-                "trasgo": "   (Lanza bebida\n   en estado de ebriedad)"
+                "goblin": "   (Lanza bebida\n   en estado de ebriedad)"
             },
 			{
-                "súcubo": "   (Lanza bebida\n   en estado de ebriedad)"
+                "succubus": "   (Lanza bebida\n   en estado de ebriedad)"
             },
 			{
-                "íncubo": "   (Lanza bebida\n   en estado de ebriedad)"
+                "incubus": "   (Lanza bebida\n   en estado de ebriedad)"
             }
         ]
     }

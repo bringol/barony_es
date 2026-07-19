@@ -22,3 +22,9 @@ General Game Text/lang/en - Copy.txt
 /v5.0.2/3polish_version
 Item Names and Tooltips/bk/item_tooltips (copy).json
 Item Names and Tooltips/bk/item_tooltips (another copy).json
+/1-ENG-VERSION
+/mods
+/2-POLISH
+img/espada.png
+tools/item_tooltips_es_draft.json
+tools/pendientes_traduccion.log

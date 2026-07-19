@@ -86,10 +86,10 @@
             "sign": [
 				"$ ",
 				"",
-                "Your HP is low as",
-				"a result of poisoning.",
-                "The Potion of Extra Healing",
-				"will help."
+				"Tus PV está bajos como",
+				"resultado de un envenenamiento.",
+				"La Poción de Gran Curación",
+				"te ayudará."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1720,13 +1720,13 @@
         },
         "tutorial8aj": {
             "sign": [
-                "Bottled Water",
+				"Botella de Agua",
 				"$",
-				"Mix water with other",
-				"potions to duplicate them.",
-				"Can reduce hunger a little.",
-				"Blessed water is deadly",
-				"to certain monsters."
+				"Mezcla agua con otras",
+				"pociones para duplicarlas.",
+				"Puede reducir un poco el hambre.",
+				"El agua bendita es mortal",
+				"contra ciertos monstruos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1875,10 +1875,10 @@
             "sign": [
 				"$ ",
 				"",
-                "Potions of Thunderstorm",
-                "can be reliably brewed",
-				"by mixing Acid and Speed",
-				"potions together."
+				"Las Pociones de Tempestad se",
+				"pueden preparar de manera conf-",
+				"fiable mezclando pociones de",
+				"Ácido con de Velocidad."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1918,8 +1918,8 @@
             "sign": [
 				"$ ",
 				"",
-				"Las Pociones de Tormenta Eléctrica",
-				"se pueden preparar de manera conf-",
+				"Las Pociones de Tempestad se",
+				"pueden preparar de manera conf-",
 				"fiable mezclando pociones de",
 				"Ácido con de Velocidad."
             ],
@@ -2132,7 +2132,7 @@
         "tutorial8ao": {
             "sign": [
 				"Equipa botellas vacías",
-				"para tomar agua de fregaderos",
+				"para tomar agua del lavamanos",
 				"o fuentes usando$ .",
 				"",
 				"Esto llenará tu",
@@ -2178,7 +2178,7 @@
         "tutorial8ao_gamepad": {
             "sign": [
 				"Equipa botellas vacías",
-				"para tomar agua de fregaderos",
+				"para tomar agua del lavamanos",
 				"o fuentes usando$ .",
 				"",
 				"Esto llenará tu",

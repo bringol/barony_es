@@ -1,0 +1,2716 @@
+{
+  "version": 1,
+  "tags": [
+    {
+      "BLOCKED_ATTACKS": {
+        "default": "Ataques Completamente Bloqueados:",
+		"format": "%d Impactos"
+      }
+    },
+    {
+      "BROKEN_BY_BLOCKING": {
+        "default": "Rotura al Bloquear:",
+		"format_crystal shard": "%d Fragmentos",
+		"format_torch and lantern": "%d Veces",
+		"format": "%d Escudos"
+      }
+    },
+    {
+      "BROKEN": {
+        "default": "Roturas Totales:",
+		"magicstaffs": "Bastones Agotados:",
+		"format_mirrors": "%d Años de Mala Suerte"
+      }
+    },
+    {
+      "BLESSED_MAX": {
+        "default": "Bendición Máxima:",
+		"format": "(%p)"
+      }
+    },
+    {
+      "ATTACKS": {
+        "default": "Ataques Acertados:",
+		"format": "%d Impactos"
+      }
+    },
+    {
+      "THROWN": {
+        "default": "VECES LANZADO:",
+		"defensive potions": "Botellas Lanzadas:",
+		"booze": "Botellas Lanzadas:",
+		"offensive potions": "Botellas Lanzadas:",
+		"water": "Botellas Lanzadas:",
+		"cream pie": "Pasteles Lanzados:",
+		"rocks & gems": "Gemas Lanzadas:",
+		
+		"format_defensive potions": "%d Brebajes",
+		"format_booze": "%d Brebajes",
+		"format_offensive potions": "%d Brebajes",
+		"format_water": "%d Botellas",
+		"format_cream pie": "%d Veces",
+		"format_rocks & gems": "%d Veces"
+      }
+    },
+    {
+      "SHOTS_FIRED": {
+        "default": "DISPAROS REALIZADOS:"
+      }
+    },
+    {
+      "AMMO_FIRED": {
+        "default": "MUNICIÓN DISPARADA:"
+      }
+    },
+    {
+      "CONSUMED": {
+        "default": "Consumido:",
+        "scrolls": "Pergamino Leído (Identificado):",
+		"defensive potions": "Botellas Bebidas:",
+		"booze": "Botellas Bebidas:",
+		"offensive potions": "Botellas Bebidas:",
+		"blood vials": "Sangre Consumida:",
+		"water": "Botellas Bebidas:",
+		"food_tin": "Latas Consumidas:",
+		"meat, fish, and bread": "Comidas Consumidas:",
+		"tomalley": "Restos Consumidos:",
+		"cheese and apples": "Bocados Consumidos:",
+		"rations": "Raciones Consumidas:",
+		"cream pie": "Pasteles Consumidos:",
+		
+		"format_tin and tin opener": "%d Veces",
+		"format_defensive potions": "%d Brebajes",
+		"format_booze": "%d Brebajes",
+		"format_offensive potions": "%d Brebajes",
+		"format_water": "%d Botellas",
+		"format_blood vials": "%d Viales",
+		"format": "%d Veces"
+      }
+    },
+    {
+      "TOWEL_USES": {
+        "default": "TOALLAS USADAS:"
+      }
+    },
+    {
+      "PICKAXE_WALLS_DUG": {
+        "default": "Paredes Minadas:"
+      }
+    },
+    {
+      "SINKS_TAPPED": {
+        "default": "Lavamanos Abiertos:",
+		"format": "%d Refrescos"
+      }
+    },
+    {
+      "ALEMBIC_BREWED": {
+        "default": "ALEMBIC_BREWED:"
+      }
+    },
+    {
+      "TINKERKIT_CRAFTS": {
+        "default": "Total de Objetos Fabricados:",
+		"format": "%d Objetos"
+      }
+    },
+    {
+      "TORCH_WALLS": {
+        "default": "Recogido de Paredes:",
+		"format": "%d Antorchas",
+		"format_crystal shard": "%d Fragmentos"
+      }
+    },
+    {
+      "SHIELD_REFLECT": {
+        "default": "Hechizos Reflejados Con Escudo:"
+      }
+    },
+    {
+      "BLESSED_TOTAL": {
+        "default": "Veces Bendecido:",
+		"format": "%d Veces"
+      }
+    },
+    {
+      "DMG_MAX": {
+        "default": "Daño Máximo:",
+		"boomerang": "Daño Máximo:",
+		"tomahawks & daggers": "Daño Máximo:",
+		"chakrams and shurikens": "Daño Máximo:",
+		"rocks & gems": "Daño Máximo Lanzado:",
+		"defensive potions": "Daño Máximo Lanzado:",
+		"booze": "Daño Máximo Lanzado:",
+		"offensive potions": "Daño Máximo Lanzado:",
+		"format": "%d DAÑO"
+      }
+    },
+    {
+      "TRADING_GOLD_EARNED": {
+        "default": "Oro Ganado Vendiendo:",
+		"format": "%dO"
+      }
+    },
+    {
+      "FOUNTAINS_TAPPED": {
+        "default": "Fuentes Abiertas:",
+		"format": "%d Refrescos"
+      }
+    },
+    {
+      "ALEMBIC_DECANTED": {
+        "default": "Pociones Decantadas:",
+		"format": "%d Decantaciones"
+      }
+    },
+    {
+      "TINKERKIT_REPAIRS": {
+        "default": "Total de Objetos Reparados:",
+		"format": "%d Objetos"
+      }
+    },
+    {
+      "MIRROR_TELEPORTS": {
+        "default": "Teletransportaciones de Espejo:",
+		"format": "%d Veces"
+      }
+    },
+    {
+      "BLOCKED_HIGHEST_DMG": {
+        "default": "Máximo Daño Bloqueado:",
+		"format": "%d DAÑO"
+      }
+    },
+    {
+      "TRADING_SOLD": {
+        "default": "Cantidad Vendida a Tiendas:",
+		"format": "%d Objetos"
+      }
+    },
+    {
+      "DMG_0": {
+        "default": "Impactos de 0 Daño:",
+		"format": "%d *Tintineos*"
+      }
+    },
+    {
+      "BOTTLE_FROM_BREWING": {
+        "default": "BOTELLAS VACÍAS RECUPERADAS:"
+      }
+    },
+    {
+      "ALEMBIC_DUPLICATED": {
+        "default": "POCIONES DUPLICADAS:"
+      }
+    },
+    {
+      "TINKERKIT_METAL_SCRAPPED": {
+        "default": "CHATARRA DE METAL RECUPERADA:"
+      }
+    },
+    {
+      "INSPIRATION_XP": {
+        "default": "EXP DE INSPIRACIÓN PARA ALIADOS:"
+      }
+    },
+    {
+      "CLOAK_BURNED": {
+        "default": "CAPAS AGOTADAS:"
+      }
+    },
+    {
+      "BOTTLES_FROM_CONSUME": {
+        "default": "BOTELLAS VACÍAS RECUPERADAS AL BEBER:"
+      }
+    },
+    {
+      "ALEMBIC_BROKEN": {
+        "default": "ALAMBIQUES ROTOS:"
+      }
+    },
+    {
+      "TINKERKIT_MAGIC_SCRAPPED": {
+        "default": "CHATARRA MÁGICA RECUPERADA:"
+      }
+    },
+    {
+      "TINKERKIT_SALVAGED": {
+        "default": "OBJETOS RECUPERADOS:"
+      }
+    },
+    {
+      "APPRAISED": {
+        "default": "Veces Tasado:",
+		"rocks & gems": "Gemas Tasadas:",
+		"format_rocks & gems": "%d Gemas"
+      }
+    },
+    {
+      "TOWEL_BLEEDING": {
+        "default": "Estado de Sangrado Curado:",
+		"format": "%d Veces"
+      }
+    },
+    {
+      "TOWEL_MESSY": {
+        "default": "Estado Sucio Curado:",
+		"format": "%d Veces"
+      }
+    },
+    {
+      "TOWEL_GREASY": {
+        "default": "Estado Grasiento Curado:",
+		"format": "%d Veces"
+      }
+    },
+    {
+      "RUNS_COLLECTED": {
+        "default": "Partidas Recopiladas:",
+		"spells": "Hechizo Aprendido:",
+		"format": "%d Partidas"
+      }
+    },
+    {
+      "ATTACKS_MISSES": {
+        "default": "ATAQUES FALLADOS:"
+      }
+    },
+    {
+      "THROWN_HITS": {
+        "default": "Objetivos Lanzados Impactados:",
+		"defensive potions": "Objetivos Lanzados Impactados:",
+		"booze": "Objetivos Lanzados Impactados:",
+		"offensive potions": "Objetivos Lanzados Impactados:",
+		"water": "Objetivos Lanzados Impactados:",
+		"cream pie": "Objetivos Lanzados Impactados:",
+		"format": "%d Impactos",
+		"format_cream pie": "%d Payasos"
+      }
+    },
+    {
+      "SHOTS_HIT": {
+        "default": "Objetivos Impactados:",
+		"format": "%d Impactos"
+      }
+    },
+    {
+      "AMMO_HIT": {
+        "default": "Objetivos Impactados:",
+		"format": "%d Impactos"
+      }
+    },
+    {
+      "MAGICSTAFF_RECHARGED": {
+        "default": "Bastones Mágicos Recargados:",
+		"format": "%d Veces"
+      }
+    },
+    {
+      "MAGICSTAFF_CASTS": {
+        "default": "Veces Usado:",
+		"format": "%d Descargas"
+      }
+    },
+    {
+      "FEATHER_ENSCRIBED": {
+        "default": "Pergaminos en Blanco Inscritos:",
+		"format": "%d Pergaminos"
+      }
+    },
+    {
+      "FEATHER_CHARGE_USED": {
+        "default": "Carga Total Utilizada:",
+		"format": "%d%"
+      }
+    },
+    {
+      "FEATHER_SPELLBOOKS": {
+        "default": "Grimorios Reparados:",
+		"format": "%d Grimorios"
+      }
+    },
+    {
+      "CONSUMED_UNIDENTIFIED": {
+        "default": "Pergamino Leído (Sin Identificar):",
+		"format": "%d Veces"
+      }
+    },
+    {
+      "SPELL_CASTS": {
+        "default": "Conjuraciones Totales:",
+		"format": "%d Veces"
+      }
+    },
+    {
+      "SPELL_FAILURES": {
+        "default": "Conjuraciones Fallidos:",
+		"format": "%d Fallos"
+      }
+    },
+    {
+      "SPELLBOOK_CASTS": {
+        "default": "Conjuraciones de Grimorios Totales:",
+		"format": "%d Veces"
+      }
+    },
+    {
+      "SPELLBOOK_LEARNT": {
+        "default": "Aprendido de Grimorios:",
+		"format": "%d Hechizos"
+      }
+    },
+    {
+      "KILLED_SOLO": {
+        "default": "Total Asesinado:",
+		"format": "%d %s"
+      }
+    },
+    {
+      "KILLED_PARTY": {
+        "default": "Asesinado (Grupo):"
+      }
+    },
+    {
+      "KILLED_BY": {
+        "default": "Asesinado Por:"
+      }
+    },
+    {
+      "GHOST_SPAWNED": {
+        "default": "Fantasmas Generados Como:"
+      }
+    },
+    {
+      "GHOST_TELEPORTS": {
+        "default": "Teleportaciones Realizadas:"
+      }
+    },
+    {
+      "GHOST_PINGS": {
+        "default": "Llamadas Enviadas:"
+      }
+    },
+    {
+      "GHOST_PUSHES": {
+        "default": "Objetos Empujados:"
+      }
+    },
+    {
+      "MINEHEAD_ENTER": {
+        "default": "Expediciones de Mazmorra:"
+      }
+    },
+    {
+      "MINEHEAD_RETURN": {
+        "default": ""
+      }
+    },
+    {
+      "GATE_OPENED_SPELL": {
+        "default": "Abierto Usando Hechizo:"
+      }
+    },
+    {
+      "GATE_MINOTAUR": {
+        "default": "Rotura Por Minotauros:"
+      }
+    },
+    {
+      "LEVER_PULLED": {
+        "default": "Palancas Movidas:"
+      }
+    },
+    {
+      "LEVER_FOLLOWER_PULLED": {
+        "default": "Palancas Movidas Por Seguidores:"
+      }
+    },
+    {
+      "DOOR_BROKEN": {
+        "default": "Puertas Rotas:"
+      }
+    },
+    {
+      "DOOR_OPENED": {
+        "default": "Puertas Abiertas:"
+      }
+    },
+    {
+      "DOOR_UNLOCKED": {
+        "default": "Puertas Desbloqueadas:"
+      }
+    },
+    {
+      "LEVELS_ENTERED": {
+        "default": "Veces Alcanzado:",
+		"transition floor": "Pisos de Transición Alcanzados:",
+		"format": "%d"
+      }
+    },
+    {
+      "LEVELS_EXITED": {
+        "default": "LEVELS_EXITED"
+      }
+    },
+    {
+      "LEVELS_MAX_LVL": {
+        "default": "Nivel Máximo Al Salir:"
+      }
+    },
+    {
+      "LEVELS_MAX_GOLD": {
+        "default": "Oro Máximo Al Salir:"
+      }
+    },
+    {
+      "SINKS_USED": {
+        "default": "Lavamanos Usados:"
+      }
+    },
+    {
+      "SINKS_RINGS": {
+        "default": "Anillos Encontrados:"
+      }
+    },
+    {
+      "SINKS_SLIMES": {
+        "default": "Cienos Generados:"
+      }
+    },
+    {
+      "FOUNTAIN_FOOCUBI": {
+        "default": "Fúcubos Generados:"
+      }
+    },
+    {
+      "FOUNTAIN_DRUNK": {
+        "default": "Efectos de Beber:"
+      }
+    },
+    {
+      "FOUNTAIN_BLESS": {
+        "default": "Equipo Bendecido (Individual):"
+      }
+    },
+    {
+      "FOUNTAIN_BLESS_ALL": {
+        "default": "Equipo Bendecido (Todo):"
+      }
+    },
+    {
+      "CHESTS_OPENED": {
+        "default": "Tapas Abiertas:"
+      }
+    },
+    {
+      "CHESTS_MIMICS_AWAKENED": {
+        "default": "Mímicos Despertados:"
+      }
+    },
+    {
+      "CHESTS_UNLOCKED": {
+        "default": "Cofres Desbloqueados:"
+      }
+    },
+    {
+      "CHESTS_DESTROYED": {
+        "default": "Cofres Destruidos:"
+      }
+    },
+    {
+      "BARRIER_DESTROYED": {
+        "default": "Barreras Destruidas:"
+      }
+    },
+    {
+      "GRAVE_GHOULS": {
+        "default": "Necrófagos Perturbados:"
+      }
+    },
+    {
+      "GRAVE_EPITAPHS_READ": {
+        "default": "Epitafios Leídos:"
+      }
+    },
+    {
+      "GRAVE_EPITAPHS_PERCENT": {
+        "default": "Epitafios Leídos (%):"
+      }
+    },
+    {
+      "GRAVE_GHOULS_ENSLAVED": {
+        "default": "Necrófagos Esclavizados Perturbados:"
+      }
+    },
+    {
+      "SHOP_BOUGHT": {
+        "default": "Objetos Comprados:"
+      }
+    },
+    {
+      "SHOP_SOLD": {
+        "default": "Objetos Vendidos:"
+      }
+    },
+    {
+      "SHOP_GOLD_EARNED": {
+        "default": "Oro Ganado Vendiendo:",
+		"format": "%dPO"
+      }
+    },
+    {
+      "TRAP_KILLED_BY": {
+        "default": "Muertes Por Trampas:",
+        "boulder trap": "Muertes Por Trampas de Pedruscos:",
+        "arrow trap": "Muertes Por Trampas de Flechas:",
+        "spike trap": "Muertes Por Trampas de Púas:",
+        "magic trap": "Muertes Por Trampas de Hechizos:"
+      }
+    },
+    {
+      "TRAP_DAMAGE": {
+        "default": "Daño Total Recibido Por Trampa:"
+      }
+    },
+    {
+      "TRAP_FOLLOWERS_KILLED": {
+        "default": "Seguidores Perdidos:"
+      }
+    },
+    {
+      "BOULDERS_PUSHED": {
+        "default": "Pedruscos Empujados:"
+      }
+    },
+    {
+      "ARROWS_PILFERED": {
+        "default": "Cantidad de Flechas Robadas:"
+      }
+    },
+    {
+      "SWIM_TIME": {
+        "default": "Tiempo Dedicado a Salpicar:",
+		"format": "%t",
+		"format_time": "%02d:%02d:%02d"
+      }
+    },
+    {
+      "SWIM_KILLED_WHILE": {
+        "default": "Accidentes de Natación:",
+		"format": "%d Muertes"
+      }
+    },
+    {
+      "SWIM_BURN_CURED": {
+        "default": "Quemaduras Curadas Nadando:",
+		"format": "%d Veces"
+      }
+    },
+    {
+      "LAVA_DAMAGE": {
+        "default": "Daño Recibido en Lava:"
+      }
+    },
+    {
+      "LAVA_ITEMS_BURNT": {
+        "default": "Objetos Quemados en Lava:"
+      }
+    },
+    {
+      "SOKOBAN_SOLVES": {
+        "default": "Veces Resuelto:"
+      }
+    },
+    {
+      "SOKOBAN_FASTEST_SOLVE": {
+        "default": "Resolución Más Rápida:"
+      }
+    },
+    {
+      "TRAP_MAGIC_STATUSED": {
+        "default": "Veces Impactado Por Hechizo de Efecto:"
+      }
+    },
+    {
+      "OBELISK_USES": {
+        "default": "Obeliscos Tocados:"
+      }
+    },
+    {
+      "OBELISK_FOLLOWER_USES": {
+        "default": "Obeliscos Tocados (Seguidores):"
+      }
+    },
+    {
+      "TRIALS_ATTEMPTS": {
+        "default": "Desafíos Intentados:"
+      }
+    },
+    {
+      "TRIALS_PASSED": {
+        "default": "Desafíos Pasados:"
+      }
+    },
+    {
+      "TRIALS_DEATHS": {
+        "default": "TRIALS_DEATHS:"
+      }
+    },
+    {
+      "LEVELS_BIOME_CLEAR": {
+        "default": "LEVELS_BIOME_CLEAR:"
+      }
+    },
+    {
+      "DOOR_CLOSED": {
+        "default": "Puertas Cerradas:"
+      }
+    },
+    {
+      "SINKS_HEALTH_RESTORED": {
+        "default": "Salud Neta Restaurada:",
+		"format": "%d PV"
+      }
+    },
+    {
+      "FOUNTAIN_USED": {
+        "default": "Fuentes Usadas:"
+      }
+    },
+    {
+      "CHESTS_MIMICS_AWAKENED1ST": {
+        "default": "Mímicos Perturbados:"
+      }
+    },
+    {
+      "SHOP_SPENT": {
+        "default": "Oro Gastado en Tienda:",
+		"format": "%dO"
+      }
+    },
+    {
+      "SOKOBAN_PERFECT_SOLVES": {
+        "default": "Resoluciones Perfectas:"
+      }
+    },
+    {
+      "PITS_ITEMS_LOST": {
+        "default": "Objetos Perdidos en las Profundidades:"
+      }
+    },
+    {
+      "PITS_LEVITATED": {
+        "default": "Tiempo Levitando Sobre Pozos:",
+		"format": "%t",
+		"format_time": "%02d:%02d:%02d"
+      }
+    },
+    {
+      "PITS_DEATHS": {
+        "default": "Muertes en Pozos:"
+      }
+    },
+    {
+      "PITS_ITEMS_VALUE_LOST": {
+        "default": "Valor del Objeto Perdido en las Profundidades:",
+		"format": "%dO"
+      }
+    },
+    {
+      "KILLED_MULTIPLAYER": {
+        "default": "Total Asesinado:",
+		"format": "%d (Multijugador)"
+      }
+    },
+    {
+      "RECRUITED": {
+        "default": "Reclutado:"
+      }
+    },
+    {
+      "RACE_GAMES_STARTED": {
+        "default": "Raza Predilecta:",
+		"format": "%s (%d Juegos)"
+      }
+    },
+    {
+      "RACE_RECRUITS": {
+        "default": "Más Influyente:",
+		"format": "%s (%d Reclutas)"
+      }
+    },
+    {
+      "RACE_GAMES_WON": {
+        "default": "Más Victorias:",
+		"format": "%s (%d Victorias)"
+      }
+    },
+    {
+      "DISTANCE_TRAVELLED": {
+        "default": "Distancia Total Recorrida:",
+		"format": "%m"
+      }
+    },
+    {
+      "DISTANCE_MAX_RUN": {
+        "default": "Mayor Distancia en 1 Partida:",
+		"format": "%m"
+      }
+    },
+    {
+      "XP_KILLS": {
+        "default": "EXP Ganada por Matar:",
+		"format": "%d EXP"
+      }
+    },
+    {
+      "XP_SKILLS": {
+        "default": "EXP Ganada por Habilidades:",
+		"format": "%d EXP"
+      }
+    },
+    {
+      "XP_MAX_IN_FLOOR": {
+        "default": "EXP Max. Ganada en un Piso:",
+		"format": "%d EXP"
+      }
+    },
+    {
+      "XP_MAX_INSTANCE": {
+        "default": "EXP Máx por una Muerte:",
+		"format": "%d EXP"
+      }
+    },
+    {
+      "CLASS_LVL_MAX": {
+        "default": "Nivel Más Alto:",
+		"format": "NIVEL %d (%s)"
+      }
+    },
+    {
+      "CLASS_LVL_GAINED": {
+        "default": "Más Niveles Ganados:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "CLASS_GAMES_STARTED": {
+        "default": "Más Usado:",
+		"classes list": "Veces Jugado:",
+		"format": "%s (%d Juegos)"
+      }
+    },
+    {
+      "CLASS_GAMES_WON": {
+        "default": "Más Victorias:",
+		"format": "%s (%d Victorias)"
+      }
+    },
+    {
+      "CLASS_GAMES_SOLO": {
+        "default": "CLASS_GAMES_SOLO"
+      }
+    },
+    {
+      "CLASS_GAMES_MULTI": {
+        "default": "CLASS_GAMES_MULTI"
+      }
+    },
+    {
+      "STAT_MAX": {
+        "default": "STAT_MAX",
+		"str": "FUE Máxima de Equipos/Efectos:",
+		"dex": "DES Máxima de Equipos/Efectos:",
+		"con": "CON Máxima de Equipos/Efectos:",
+		"int": "INT Máxima de Equipos/Efectos:",
+		"per": "PER Máxima de Equipos/Efectos:",
+		"chr": "CAR Máximo de Equipos/Efectos:",
+		"format": "+%d %s"
+      }
+    },
+    {
+      "CLASS_STAT_STR_MAX": {
+        "default": "CLASS_STAT_STR_MAX",
+		"str": "FUE Base Más Alta:",
+		"format": "%d FUE (%s)"
+      }
+    },
+    {
+      "STAT_INCREASES": {
+        "default": "STAT_INCREASES",
+		"str": "Puntos de FUE Totales Ganados:",
+		"dex": "Puntos de DES Totales Ganados:",
+		"con": "Puntos de CON Totales Ganados:",
+		"int": "Puntos de INT Totales Ganados:",
+		"per": "Puntos de PER Totales Ganados:",
+		"chr": "Puntos de CAR Totales Ganados:",
+		"format": "%d Pts"
+      }
+    },
+    {
+      "STAT_DOUBLED": {
+        "default": "STAT_DOUBLED",
+		"str": "Tiradas de Competencia +2 FUE:",
+		"con": "Tiradas de Competencia +2 CON:",
+		"dex": "Tiradas de Competencia +2 DES:",
+		"int": "Tiradas de Competencia +2 INT:",
+		"per": "Tiradas de Competencia +2 PER:",
+		"chr": "Tiradas de Competencia +2 CAR:",
+		"format": "%d Bonificaciones"
+      }
+    },
+    {
+      "HP_MAX": {
+        "default": "Total Máximo de PV:",
+		"format": "%d PV"
+      }
+    },
+    {
+      "CLASS_HP_MAX": {
+        "default": "Total Máximo de PV:",
+		"format": "%d PV (%s)"
+      }
+    },
+    {
+      "MP_MAX": {
+        "default": "Total Máximo de PM:",
+		"format": "%d PM"
+      }
+    },
+    {
+      "CLASS_MP_MAX": {
+        "default": "Total Máximo de PM:",
+		"format": "%d PM (%s)"
+      }
+    },
+    {
+      "CLASS_SKILL_UPS": {
+        "default": "CLASS_SKILL_UPS"
+      }
+    },
+    {
+      "CLASS_SKILL_MAX": {
+        "default": "Habilidad Máxima Alcanzada:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "CLASS_SKILL_UPS_RUN_MAX": {
+        "default": "Más Mejoras de Habilidades en 1 Partida:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "CLASS_STAT_DEX_MAX": {
+        "default": "CLASS_STAT_DEX_MAX",
+		"dex": "DES Base Más Alta:",
+		"format": "%d DES (%s)"
+      }
+    },
+    {
+      "CLASS_STAT_CON_MAX": {
+        "default": "CLASS_STAT_CON_MAX",
+		"con": "CON Base Más Alta:",
+		"format": "%d CON (%s)"
+      }
+    },
+    {
+      "CLASS_STAT_INT_MAX": {
+        "default": "CLASS_STAT_INT_MAX",
+		"int": "INT Base Más Alta:",
+		"format": "%d INT (%s)"
+      }
+    },
+    {
+      "CLASS_STAT_PER_MAX": {
+        "default": "CLASS_STAT_PER_MAX",
+		"per": "PER Base Más Alta:",
+		"format": "%d PER (%s)"
+      }
+    },
+    {
+      "CLASS_STAT_CHR_MAX": {
+        "default": "CLASS_STAT_CHR_MAX",
+		"chr": "CAR Base Más Alto:",
+		"format": "%d CHR (%s)"
+      }
+    },
+    {
+      "RES_MAX": {
+        "default": "RES_MAX"
+      }
+    },
+    {
+      "CLASS_RES_MAX": {
+        "default": "Resistencia Mágica Máxima:",
+		"format": "+%d%% RES"
+      }
+    },
+    {
+      "RES_DMG_RESISTED": {
+        "default": "Salud Ahorrada Por Resistencia:",
+		"format": "+%d PV"
+      }
+    },
+    {
+      "RES_DMG_RESISTED_RUN": {
+        "default": "RES_DMG_RESISTED_RUN"
+      }
+    },
+    {
+      "AC_MAX": {
+        "default": "AC_MAX"
+      }
+    },
+    {
+      "CLASS_AC_MAX": {
+        "default": "CA Total Más Alto:",
+		"format": "%d CA (%s)"
+      }
+    },
+    {
+      "AC_MAX_FROM_BLESS": {
+        "default": "Más Bendiciones Usadas a la Vez:",
+		"format": "+%d Bendición"
+      }
+    },
+    {
+      "HP_LOST_RUN": {
+        "default": "Más PV Perdidos en 1 Partida:",
+		"format": "%d PV"
+      }
+    },
+    {
+      "MP_SPENT_RUN": {
+        "default": "Más PM Gastados en 1 Partida:",
+		"format": "%d PM"
+      }
+    },
+    {
+      "MP_SPENT_TOTAL": {
+        "default": "PM Totales Gastados:",
+		"format": "%d PM"
+      }
+    },
+    {
+      "CLASS_LVL_WON_MAX": {
+        "default": "Victoria de Nivel Más Alto:",
+		"format": "NIV %d (%s)"
+      }
+    },
+    {
+      "CLASS_LVL_WON_MIN": {
+        "default": "Victoria de Nivel Más Bajo:",
+		"format": "NIV %d (%s)"
+      }
+    },
+    {
+      "CLASS_GAMES_WON_CLASSIC": {
+        "default": "CLASS_GAMES_WON_CLASSIC",
+		"format": "%s (%d Victorias Clásicas)"
+      }
+    },
+    {
+      "CLASS_GAMES_WON_HELL": {
+        "default": "CLASS_GAMES_WON_HELL",
+		"format": "%s (%d Victorias del Infierno)"
+      }
+    },
+    {
+      "CLASS_LVL_WON_CLASSIC_MAX": {
+        "default": "CLASS_LVL_WON_CLASSIC_MAX"
+      }
+    },
+    {
+      "CLASS_LVL_WON_HELL_MIN": {
+        "default": "CLASS_LVL_WON_HELL_MIN"
+      }
+    },
+    {
+      "RACE_GAMES_WON_CLASSIC": {
+        "default": "RACE_GAMES_WON_CLASSIC",
+		"format": "%s (%d Victorias Clásicas)"
+      }
+    },
+    {
+      "RACE_GAMES_WON_HELL": {
+        "default": "RACE_GAMES_WON_HELL",
+		"format": "%s (%d Victorias del Infierno)"
+      }
+    },
+    {
+      "DISTANCE_MAX_FLOOR": {
+        "default": "Mayor Distancia en 1 Piso:",
+		"format": "%m"
+      }
+    },
+    {
+      "PWR_MAX": {
+        "default": "PWR_MAX"
+      }
+    },
+    {
+      "CLASS_PWR_MAX": {
+        "default": "PDR Máx desde INT:",
+		"format": "+%d%% (%s)"
+      }
+    },
+    {
+      "RGN_HP_SUM": {
+        "default": "RGN_HP_SUM"
+      }
+    },
+    {
+      "RGN_HP_RUN": {
+        "default": "RGN_HP_RUN"
+      }
+    },
+    {
+      "RGN_MP_SUM": {
+        "default": "RGN_MP_SUM"
+      }
+    },
+    {
+      "RGN_MP_RUN": {
+        "default": "RGN_MP_RUN"
+      }
+    },
+    {
+      "RGN_HP_RATE_MAX": {
+        "default": "Tasa Máxima de Regen. de PV:",
+		"format": "%h%% REGEN PV"
+      }
+    },
+    {
+      "RGN_MP_RATE_MAX": {
+        "default": "Tasa Máxima de Regen. de PM:",
+		"format": "%e%% REGEN PM"
+      }
+    },
+    {
+      "CLASS_WGT_MAX": {
+        "default": "PESO Máx Llevada:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "CLASS_WGT_MAX_MOVE_100": {
+        "default": "PESO Máx a Velocidad Máxima:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "MELEE_HITS": {
+        "default": "Impactos Cuerpo a Cuerpo Totales:",
+		"format": "%d Impactos"
+      }
+    },
+    {
+      "MELEE_DMG_TOTAL": {
+        "default": "Daño Total Infligido:",
+		"melee": "Daño Cuerpo a Cuerpo Total:",
+		"format": "%d DAÑO"
+      }
+    },
+    {
+      "CLASS_MELEE_HITS_RUN": {
+        "default": "Más Impactos en 1 Partida:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "MELEE_KILLS": {
+        "default": "Muertes Cuerpo a Cuerpo:",
+		"format": "%d Muertes"
+      }
+    },
+    {
+      "CRIT_HITS": {
+        "default": "Impactos Críticos Totales:",
+		"format": "%d Impactos"
+      }
+    },
+    {
+      "CRITS_DMG_TOTAL": {
+        "default": "Daño Crítico Total:",
+		"format": "%d PV"
+      }
+    },
+    {
+      "CLASS_CRITS_HITS_RUN": {
+        "default": "Más Críticos en 1 Partida:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "CRIT_KILLS": {
+        "default": "Muertes por Críticos:",
+		"format": "%d Muertes"
+      }
+    },
+    {
+      "CLASS_WGT_SLOWEST": {
+        "default": "Max. PESO al Morir:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "CLASS_SKILL_LEGENDS": {
+        "default": "Habilidad Legendaria Alcanzada:",
+		"format": "%d Veces"
+      }
+    },
+    {
+      "SKILL_LEGENDARY_PROCS": {
+        "default": "SKILL_LEGENDARY_PROCS"
+      }
+    },
+    {
+      "DEGRADED": {
+        "default": "DEGRADADO"
+      }
+    },
+    {
+      "REPAIRS": {
+        "default": "REPARACIONES"
+      }
+    },
+    {
+      "RANGED_HITS": {
+        "default": "Impactos a Distancia Totales:",
+		"format": "%d Impactos"
+      }
+    },
+    {
+      "RANGED_DMG_TOTAL": {
+        "missiles": "Daño a Distancia Total:",
+		"default": "Daño Total Infligido:",
+		"format": "%d DAÑO"
+      }
+    },
+    {
+      "CLASS_RANGED_HITS_RUN": {
+        "default": "Más Impactos en 1 Partida:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "RANGED_KILLS": {
+        "default": "Muertes a Distancia:",
+		"format": "%d Muertes"
+      }
+    },
+    {
+      "THROWN_TOTAL_HITS": {
+        "default": "Total de Impactos, Arma Arrojadiza:",
+		"format": "%d Impactos"
+      }
+    },
+    {
+      "THROWN_DMG_TOTAL": {
+        "default": "Daño Total, Arma Arrojadiza:",
+		"gem_rock": "Daño Total Infligido:",
+		"boomerang": "Daño Total Infligido:",
+		"tomahawks & daggers": "Daño Total Infligido:",
+		"chakrams and shurikens": "Daño Total Infligido:",
+		"format": "%d DAÑO"
+      }
+    },
+    {
+      "CLASS_THROWN_HITS_RUN": {
+        "default": "Más Impactos en 1 Partida:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "THROWN_KILLS": {
+        "default": "Muertes por Arma Arrojadiza:",
+		"format": "%d Muertes"
+      }
+    },
+    {
+      "FLANK_HITS": {
+        "default": "Impactos Totales de Flanqueo:",
+		"format": "%d Impactos"
+      }
+    },
+    {
+      "FLANK_DMG": {
+        "default": "Daño Total de Flanqueo:",
+		"format": "%d DAÑO"
+      }
+    },
+    {
+      "CLASS_FLANK_HITS_RUN": {
+        "default": "Más Flanqueos en 1 Partida:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "CLASS_FLANK_DMG_RUN": {
+        "default": "Más Daño de Flanqueo en 1 Partida:",
+		"format": "%d DAÑO"
+      }
+    },
+    {
+      "BACKSTAB_HITS": {
+        "default": "Apuñalamientos Totales:",
+		"format": "%d Impactos"
+      }
+    },
+    {
+      "CLASS_BACKSTAB_KILLS_RUN": {
+        "default": "Muertes por Apuñalamientos en 1 Partida:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "CLASS_BACKSTAB_HITS_RUN": {
+        "default": "Apuñalamientos en 1 Partida:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "BACKSTAB_KILLS": {
+        "default": "Apuñalamientos que Llevan a Muertes:",
+		"format": "%d"
+      }
+    },
+    {
+      "CLASS_BACKSTAB_DMG_RUN": {
+        "default": "CLASS_BACKSTAB_DMG_RUN"
+      }
+    },
+    {
+      "CLASS_BLOCK_DEFENDED": {
+        "default": "Más Impactos Defendidos:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "CLASS_BLOCK_UNDEFENDED": {
+        "default": "Más Impactos Sin Defender:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "CLASS_BLOCK_DEFENDED_RUN": {
+        "default": "Más Impactos Defendidos en 1 Partida:",
+		"format": "%d"
+      }
+    },
+    {
+      "CLASS_BLOCK_UNDEFENDED_RUN": {
+        "default": "Más Impactos Sin Defender en 1 Partida:",
+		"format": "%d"
+      }
+    },
+    {
+      "CLASS_SPELL_CASTS_RUN": {
+        "default": "Más Conjuraciones en 1 Partida:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "CLASS_SPELL_FIZZLES_RUN": {
+        "default": "Más Fallos en 1 Partida:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "CLASS_SNEAK_TIME": {
+        "default": "Clase Más Furtiva:",
+		"format": "%s (%t)",
+		"format_time": "%02d:%02d:%02d"
+      }
+    },
+    {
+      "CLASS_SNEAK_SKILLUP_FLOOR": {
+        "default": "Más Mejoras de Habilidad en 1 Piso:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "WANTED_RUNS": {
+        "default": "Partidas Marcadas Como Buscado:",
+		"format": "%d Partidas"
+      }
+    },
+    {
+      "WANTED_TIMES_RUN": {
+        "default": "Más Buscado en 1 Partida:",
+		"format": "%d Identidades"
+      }
+    },
+    {
+      "WANTED_INFLUENCE": {
+        "default": "Hizo que Aliados Sean Buscados:",
+		"format": "%d Veces"
+      }
+    },
+    {
+      "WANTED_CRIMES_RUN": {
+        "default": "Más Crímenes en 1 Partida:",
+		"format": "%d Delitos"
+      }
+    },
+	{
+		"CUSTOM_TAG": {
+			"default": "CUSTOM_TAG"
+		}
+	},
+	{
+		"SPELLBOOK_CAST_DEGRADES": {
+			"default": "Degradado con el Uso:",
+			"format": "%d Veces"
+		}
+	},
+	{
+      "CLASS_SPELLBOOK_CASTS_RUN": {
+        "default": "Más Conjuraciones en 1 Partida:",
+		"format": "%d (%s)"
+      }
+    },
+    {
+      "CLASS_SPELLBOOK_FIZZLES_RUN": {
+        "default": "Más Fallos en 1 Partida:",
+		"format": "%d (%s)"
+      }
+    },
+	{
+      "CLASS_MOVING_TIME": {
+        "default": "CLASS_MOVING_TIME:",
+		"format": "%d (%s)"
+      }
+    },
+	{
+      "CLASS_IDLING_TIME": {
+        "default": "CLASS_IDLING_TIME:",
+		"format": "%d (%s)"
+      }
+    },
+	{
+      "CLASS_SKILL_UPS_ALL_RUN": {
+        "default": "Más Mejoras de Hab. en 1 Partida:",
+		"format": "%d (%s)"
+      }
+    },
+	{
+      "CLASS_WGT_EQUIPPED_MAX": {
+        "default": "Más PESO Equipado:",
+		"format": "%d (%s)"
+      }
+    },
+	{
+      "CLASS_PWR_MAX_CASTED": {
+        "default": "Hechizo de PDR Máxima Lanzado:",
+		"format": "%d%% (%s)"
+      }
+    },
+	{
+      "PWR_MAX_EQUIP": {
+        "default": "PDR Máximo de Equipos/Efectos:",
+		"format": "+%d%%"
+      }
+    },
+	{
+      "PWR_MAX_SPELLBOOK": {
+        "default": "PDR Máximo de Grimorios:",
+		"format": "+%d%%"
+      }
+    },
+	{
+      "RES_DMG_TAKEN": {
+        "default": "Salud Total Perdida por Hechizos:",
+		"format": "%d PV"
+      }
+    },
+	{
+      "RES_SPELLS_HIT": {
+        "default": "Hechizos de Daño Total Impactados Por:",
+		"format": "%d"
+      }
+    },
+	{
+	"HP_MOST_DMG_LOST_ONE_HIT": {
+        "default": "Más PV Perdidos de 1 Ataque:",
+		"format": "%d PV"
+      }
+	},
+	{
+	"HP_LOST_TOTAL": {
+        "default": "PV Totales Perdidos:",
+		"format": "%d PV"
+      }
+	},
+	{
+	"AC_EFFECTIVENESS_MAX": {
+        "default": "Mayor % de Bloqueo de CA de Bendiciones:",
+		"format": "%d%%"
+      }
+	},
+	{
+	"AC_EQUIPMENT_MAX": {
+        "default": "CA Más Alta de Equipo:",
+		"format": "+%d CA"
+      }
+	},
+	{
+	"LEVELS_MIN_COMPLETION": {
+        "default": "LEVELS_MIN_COMPLETION:"
+      }
+	},
+	{
+	"LEVELS_MAX_COMPLETION": {
+        "default": "LEVELS_MAX_COMPLETION:"
+      }
+	},
+	{
+	"LEVELS_DEATHS": {
+        "default": "LEVELS_DEATHS:"
+      }
+	},
+	{
+	"LEVELS_DEATHS_FASTEST": {
+        "default": "LEVELS_DEATHS_FASTEST:"
+      }
+	},
+	{
+	"LEVELS_DEATHS_SLOWEST": {
+        "default": "LEVELS_DEATHS_SLOWEST:"
+      }
+	},
+	{
+	"LEVELS_MIN_LVL": {
+        "default": "LEVELS_MIN_LVL:"
+      }
+	},
+	{
+	"BIOMES_MIN_COMPLETION": {
+        "default": "BIOMES_MIN_COMPLETION:"
+      }
+	},
+	{
+	"BIOMES_MAX_COMPLETION": {
+        "default": "BIOMES_MAX_COMPLETION:"
+      }
+	},
+	{
+	"LEVELS_TIME_SPENT": {
+        "default": "LEVELS_TIME_SPENT:"
+      }
+	},
+	{
+	"MINEHEAD_ENTER_SOLO": {
+        "default": "MINEHEAD_ENTER_SOLO:"
+      }
+	},
+	{
+	"MINEHEAD_ENTER_ONLINE_MP": {
+        "default": "MINEHEAD_ENTER_ONLINE_MP:"
+      }
+	},
+	{
+	"MINEHEAD_ENTER_LAN_MP": {
+        "default": "MINEHEAD_ENTER_LAN_MP:"
+      }
+	},
+	{
+	"MINEHEAD_TOTAL_PLAYTIME": {
+        "default": "MINEHEAD_TOTAL_PLAYTIME:"
+      }
+	},
+	{
+	"MINEHEAD_ENTER_SPLIT_MP": {
+        "default": "MINEHEAD_ENTER_SPLIT_MP:"
+      }
+	},
+	{
+	"TOTAL_TIME_SPENT": {
+        "default": "TOTAL_TIME_SPENT:"
+      }
+	},
+	{
+	"TRAP_SUMMONED_MONSTERS": {
+        "default": "Monstruos Invocados:"
+      }
+	},
+	{
+	"LORE_READ": {
+		"default": "LORE_READ:",
+        "scroll_mail": "Correos Abiertos:",
+		"readable_book": "Libros Leídos:"
+      }
+	},
+	{
+	"LORE_BURNT": {
+		"default": "LORE_BURNT:",
+        "scroll_mail": "Alimentado a Calderas de Autómata:",
+		"readable_book": "Alimentado a Calderas de Autómata:"
+      }
+	},
+	{
+	"LORE_PERCENT_READ": {
+        "default": "LORE_PERCENT_READ:",
+		"format": "%d%%",
+        "scroll_mail": "Mensajes Encontrados (%):",
+		"readable_book": "Completitud de Lectura (%):"
+      }
+	},
+	{
+	"LORE_PERCENT_READ_2": {
+        "default": "LORE_PERCENT_READ_2:",
+		"format": "%d%%",
+        "scroll_mail": "Mensajes Encontrados (%):",
+		"readable_book": "Completitud de Lectura (%):"
+      }
+	},
+	{
+	"MERCHANT_ORBS": {
+		"default": "Orbes Místicos Dados:",
+		"format": "%d Orbes"
+	  }
+	},
+	{
+	"SPELL_DMG": {
+		"default": "Daño Infligido:",
+		"format": "%d DAÑO"
+	  }
+	},
+	{
+	"SPELL_HEAL": {
+		"default": "Salud Restaurada:",
+		"format": "%d PV"
+	  }
+	},
+	{
+	"TIME_WORN": {
+		"default": "Tiempo Usado:",
+		"format": "%t",
+		"format_time": "%02d:%02d:%02d"
+	  }
+	},
+	{
+	"LOCKPICK_DOOR_UNLOCK": {
+		"default": "LOCKPICK_DOOR_UNLOCK:",
+		"format": "%d"
+	  }
+	},
+	{
+	"LOCKPICK_DOOR_LOCK": {
+		"default": "LOCKPICK_DOOR_LOCK:",
+		"format": "%d"
+	  }
+	},
+	{
+	"LOCKPICK_ARROWTRAPS": {
+		"default": "Trampas de Flecha Desactivadas:",
+		"format": "%d Desactivadas"
+	  }
+	},
+	{
+	"LOCKPICK_TINKERTRAPS": {
+		"default": "Trampas Mecanizadas Activadas:",
+		"format": "%d Activaciones"
+	  }
+	},
+	{
+	"LOCKPICK_CHESTS_UNLOCK": {
+		"default": "LOCKPICK_CHESTS_UNLOCK:",
+		"format": "%d"
+	  }
+	},
+	{
+	"LOCKPICK_MIMICS_LOCKED": {
+		"default": "Mímicos Aturdidos:",
+		"format": "%d Mímicos"
+	  }
+	},
+	{
+	"LOCKPICK_CHESTS_LOCK": {
+		"default": "LOCKPICK_CHESTS_LOCK:",
+		"format": "%d"
+	  }
+	},
+	{
+	"ALEMBIC_DUPLICATION_FAIL": {
+		"default": "ALEMBIC_DUPLICATION_FAIL:",
+		"format": "%d"
+	  }
+	},
+	{
+	"ALEMBIC_EXPLOSIONS": {
+		"default": "ALEMBIC_EXPLOSIONS:",
+		"format": "%d"
+	  }
+	},
+	{
+	"BEARTRAP_DEPLOYED": {
+		"default": "Desplegado:",
+		"format": "%d Veces"
+	  }
+	},
+	{
+	"BEARTRAP_TRAPPED": {
+		"default": "Enemigos Atrapados:",
+		"format": "%d"
+	  }
+	},
+	{
+	"BEARTRAP_DMG": {
+		"default": "Daño Infligido:",
+		"format": "%d DAÑO"
+	  }
+	},
+	{
+	"GADGET_CRAFTED": {
+		"default": "Elaborado:",
+		"format": "%d Veces"
+	  }
+	},
+	{
+	"GADGET_DEPLOYED": {
+		"default": "Desplegado:",
+		"format": "%d Veces"
+	  }
+	},
+	{
+	"NOISEMAKER_LURED": {
+		"default": "Enemigos Atraídos:",
+		"format": "%d"
+	  }
+	},
+	{
+	"NOISEMAKER_MOST_LURED": {
+		"default": "Más Enemigos Atraídos a la Vez:",
+		"format": "%d"
+	  }
+	},
+	{
+	"DUMMY_HITS_TAKEN": {
+		"default": "Impactos Totales Recibidos:",
+		"format": "%d Impactos"
+	  }
+	},
+	{
+	"DUMMY_DMG_TAKEN": {
+		"default": "Daño Total Recibido:",
+		"format": "%d DAÑO"
+	  }
+	},
+	{
+	"SENTRY_DEPLOY_KILLS": {
+		"default": "Enemigos Asesinados Usando:",
+		"format": "%d"
+	  }
+	},
+	{
+	"SENTRY_DEPLOY_DMG": {
+		"default": "Daño Infligido:",
+		"format": "%d DAÑO"
+	  }
+	},
+	{
+	"GYROBOT_BOULDERS": {
+		"default": "Perdidos por Pedruscos:",
+		"format": "%d Girobots"
+	  }
+	},
+	{
+	"GYROBOT_TIME_SPENT": {
+		"default": "Tiempo de Calidad Pasado Juntos:",
+		"duck": "Tiempo de Abrazo:",
+		"format": "%t",
+	    "format_time": "%02d:%02d:%02d"
+	  }
+	},
+	{
+	"BOMB_DMG": {
+		"default": "Daño Infligido:",
+		"format": "%d DAÑO"
+	  }
+	},
+	{
+	"BOMB_DETONATED": {
+		"default": "Enemigos Impactados:",
+		"format": "%d Veces"
+	  }
+	},
+	{
+	"BOMB_DETONATED_ALLY": {
+		"default": "Impactos Propios/Aliados:",
+		"format": "%d Veces"
+	  }
+	},
+	{
+	"DETONATOR_SCRAPPED": {
+		"default": "Detonadores Reciclados:",
+		"format": "%d Piezas"
+	  }
+	},
+	{
+	"DETONATOR_SCRAPPED_METAL": {
+		"default": "Chatarra de Metal Reciclada:",
+		"format": "%d"
+	  }
+	},
+	{
+	"DETONATOR_SCRAPPED_MAGIC": {
+		"default": "Chatarra Mágica Reciclada:",
+		"format": "%d"
+	  }
+	},
+	{
+	"DEATHBOX_OPEN_OWN": {
+		"default": "Cajas Propias Abiertas:",
+		"format": "%d Aperturas"
+	  }
+	},
+	{
+	"DEATHBOX_OPEN_OTHERS": {
+		"default": "Cajas Ajenas Abiertas:",
+		"format": "%d Aperturas"
+	  }
+	},
+	{
+	"DEATHBOX_TO_EXIT": {
+		"default": "Total Llevado a Salidas:",
+		"format": "%d Cajas"
+	  }
+	},
+	{
+	"DEATHBOX_MOST_CARRIED": {
+		"default": "Más Llevado a la Vez:",
+		"format": "%d Cajas"
+	  }
+	},
+	{
+	"PICKAXE_BOULDERS_DUG": {
+		"default": "Rocas Destruidas:",
+		"format": "%d"
+	  }
+	},
+	{
+	"TIN_GREASY": {
+		"default": "Manos Grasientas:",
+		"format": "%d Veces"
+	  }
+	},
+	{
+	"TIN_REGEN_HP": {
+		"default": "TIN_REGEN_HP:",
+		"format": "%d"
+	  }
+	},
+	{
+	"TIN_REGEN_MP": {
+		"default": "TIN_REGEN_MP:",
+		"format": "%d"
+	  }
+	},
+	{
+	"SPELL_TARGETS": {
+		"default": "Objetivos Afectados:",
+		"dark_icons": "Objetivos Hechizados:",
+		"duck": "Enemigos Intimidados:",
+		"format": "%d Impactos",
+		"format_duck": "%d Veces"
+	  }
+	},
+	{
+	"GYROBOT_FLIPS": {
+		"default": "Geniales Volteretas de Aliados:",
+		"format": "%d Volteretas"
+	  }
+	},
+	{
+	"KILL_XP": {
+		"default": "EXP por Matar Ganado:",
+		"format": "%d EXP"
+	  }
+	},
+	{
+	"CONTAINER_BROKEN": {
+		"default": "Contenedores Destrozados:",
+		"format": "%d"
+	  }
+	},
+	{
+	"CONTAINER_ITEMS": {
+		"default": "Objetos Encontrados:",
+		"format": "%d"
+	  }
+	},
+	{
+	"CONTAINER_GOLD": {
+		"default": "Oro Encontrado:",
+		"format": "%dO"
+	  }
+	},
+	{
+	"CONTAINER_MONSTERS": {
+		"default": "Monstruos Encontrados:",
+		"format": "%d"
+	  }
+	},
+	{
+	"DAED_USES": {
+		"default": "Altares Tocados:",
+		"format": "%d"
+	  }
+	},
+	{
+	"DAED_EXIT_REVEALS": {
+		"default": "Salidas Reveladas:",
+		"format": "%d"
+	  }
+	},
+	{
+	"DAED_SPEED_BUFFS": {
+		"default": "Bendiciones de Velocidad Otorgadas:",
+		"format": "%d"
+	  }
+	},
+	{
+	"DAED_KILLED_MINO": {
+		"default": "DAED_KILLED_MINO:",
+		"format": "%d"
+	  }
+	},
+	{
+	"BELL_RUNG_TIMES": {
+		"default": "Campanas Tocadas:",
+		"format": "%d Veces"
+	  }
+	},
+	{
+	"BELL_LOOT_ITEMS": {
+		"default": "BELL_LOOT_ITEMS:",
+		"format": "%d"
+	  }
+	},
+	{
+	"BELL_BROKEN": {
+		"default": "BELL_BROKEN:",
+		"format": "%d"
+	  }
+	},
+	{
+	"BELL_BUFFS_AGILITY": {
+		"default": "BELL_BUFFS_AGILITY:",
+		"format": "%d"
+	  }
+	},
+	{
+	"BELL_BUFFS_STAMINA": {
+		"default": "BELL_BUFFS_STAMINA:",
+		"format": "%d"
+	  }
+	},
+	{
+	"BELL_BUFFS_STRENGTH": {
+		"default": "BELL_BUFFS_STRENGTH:",
+		"format": "%d"
+	  }
+	},
+	{
+	"BELL_BUFFS_MENTALITY": {
+		"default": "BELL_BUFFS_MENTALITY:",
+		"format": "%d"
+	  }
+	},
+	{
+	"BELL_BUFFS_HEALS": {
+		"default": "BELL_BUFFS_HEALS:",
+		"format": "%d"
+	  }
+	},
+	{
+	"BELL_LOOT_GOLD": {
+		"default": "BELL_LOOT_GOLD:",
+		"format": "%d"
+	  }
+	},
+	{
+	"BELL_LOOT_BATS": {
+		"default": "BELL_LOOT_BATS:",
+		"format": "%d"
+	  }
+	},
+	{
+	"BELL_CLAPPER_BROKEN": {
+		"default": "BELL_CLAPPER_BROKEN:"
+	  }
+	},
+	{
+	"SKILL_NOVICES": {
+		"default": "SKILL_NOVICES:"
+	  }
+	},
+	{
+	"FOLLOWER_KILLS": {
+		"default": "Muertes Por Seguidores:",
+		"format": "%d Muertes"
+	  }
+	},
+	{
+	"COMBAT_MASONRY_BOULDERS": {
+		"default": "COMBAT_MASONRY_BOULDERS:",
+		"format": "%d"
+	  }
+	},
+	{
+	"MERLINS": {
+		"default": "Merlín Reclutado:",
+		"format": "%d Veces"
+	  }
+	},
+	{
+	"RITUALS_COMPLETED": {
+		"default": "Rituales Completados:",
+		"format": "%d Esferas Activadas"
+	  }
+	},
+	{
+	"HUMANS_SAVED": {
+		"default": "Humanos Salvados:",
+		"format": "%d Retornados a Hamlet"
+	  }
+	},
+	{
+	"SPELLS_LEARNED": {
+		"default": "Total de Hechizos Aprendidos:",
+		"format": "%d Hechizos"
+	  }
+	},
+	{
+	"ALLIES_FED": {
+		"default": "Necesitados Alimentados:",
+		"format": "%d Comidas Dadas a Aliados"
+	  }
+	},
+	{
+	"COMBAT_MASONRY_GEMS": {
+		"default": "COMBAT_MASONRY_GEMS:",
+		"format": "%d"
+	  }
+	},
+	{
+	"COMBAT_MASONRY_ROCKS": {
+		"default": "COMBAT_MASONRY_ROCKS:",
+		"format": "%d"
+	  }
+	},
+	{
+	"GOLD_LEFT_BEHIND": {
+		"default": "Oro Dejado Sin Recoger:",
+		"format": "%dO"
+	  }
+	},
+	{
+	"MONSTERS_LEFT_BEHIND": {
+		"default": "Enemigos Perdonados:",
+		"format": "%d Dejados Vivos"
+	  }
+	},
+	{
+	"ITEMS_LEFT_BEHIND": {
+		"default": "Objetos Dejados Sin Recoger:",
+		"format": "%d"
+	  }
+	},
+	{
+	"ITEM_VALUE_LEFT_BEHIND": {
+		"default": "Valor del Objeto Sin Recoger:",
+		"format": "%dO"
+	  }
+	},
+	{
+	"OFFHAND_CASTING_MP": {
+		"default": "PM Totales Gastados Canalizados:",
+		"format": "%d PM"
+	  }
+	},
+	{
+	"OFFHAND_CHARGING_TIME": {
+		"default": "Tiempo Dedicado a Canalizar:",
+		"format": "%t",
+	    "format_time": "%02d:%02d:%02d"
+	  }
+	},
+	{
+	"OFFHAND_CHARGING_TIME_RUN": {
+		"default": "Más Tiempo Canalizado en 1 Partida:",
+		"format": "%t",
+	    "format_time": "%02d:%02d:%02d"
+	  }
+	},
+	{
+	"OFFHAND_CHR_MAX": {
+		"default": "Más CAR Canalizado Con:",
+		"format": "%d CHR"
+	  }
+	},
+	{
+	"GOLD_COLLECTED": {
+		"default": "Oro Total Recogido:",
+		"format": "%dO"
+	  }
+	},
+	{
+	"GOLD_COLLECTED_RUN": {
+		"default": "Más Oro Recogido en 1 Partida:",
+		"format": "%dO"
+	  }
+	},
+	{
+	"GOLD_CASTED": {
+		"default": "Oro Consumido por Magia:",
+		"format": "%dO"
+	  }
+	},
+	{
+	"GOLD_CASTED_RUN": {
+		"default": "Más Oro Consumido en 1 Partida:",
+		"format": "%dO"
+	  }
+	},
+	{
+      "BUTTON_PRESSED": {
+        "default": "Botones Presionados:"
+      }
+    },
+    {
+      "BUTTON_FOLLOWER_PRESSED": {
+        "default": "Botones Presionados Por Seguidores:"
+      }
+    },
+	{
+      "BUTTON_SHOT": {
+        "default": "Botones Presionados Por Proyectiles:"
+      }
+    },
+	{
+      "KEYLOCK_UNLOCKED_KEY": {
+        "default": "Llaves Usadas:"
+      }
+    },
+	{
+      "KEYLOCK_PICKED": {
+        "default": "Desbloqueado Con Ganzúa:"
+      }
+    },
+	{
+      "KEYLOCK_SKELETON_KEY": {
+        "default": "Desbloqueado Con Llaves Maestras:"
+      }
+    },
+	{
+      "ASSIST_MASKS": {
+        "default": "Accesorios Reclamados:",
+		"format": "%d Objetos"
+      }
+    },
+	{
+      "ASSIST_CLOAKS": {
+        "default": "Capas Reclamadas:",
+		"format": "%d Objetos"
+      }
+    },
+	{
+      "ASSIST_AMULETS": {
+        "default": "Amuletos Reclamados:",
+		"format": "%d Objetos"
+      }
+    },
+	{
+      "ASSIST_RINGS": {
+        "default": "Anillos Reclamados:",
+		"format": "%d Objetos"
+      }
+    },
+	{
+      "CAULDRON_INTERACTS": {
+        "default": "CAULDRON_INTERACTS"
+      }
+    },
+	{
+      "WORKBENCH_INTERACTS": {
+        "default": "WORKBENCH_INTERACTS"
+      }
+    },
+	{
+      "WORKBENCH_SALVAGE": {
+        "default": "Total de Objetos Reciclados:",
+		"format": "%d Objetos"
+      }
+    },
+	{
+      "WORKBENCH_CRAFTS": {
+        "default": "Total de Objetos Creados:",
+		"format": "%d Objetos"
+      }
+    },
+	{
+      "WORKBENCH_REPAIRED": {
+        "default": "Total de Objetos Reparados:",
+		"format": "%d Objetos"
+      }
+    },
+	{
+      "WORKBENCH_SKILLUPS": {
+        "default": "Aumentos de Hab. Fabricar:",
+		"format": "%d Pts"
+      }
+    },
+	{
+      "COOK_MEALS": {
+        "default": "Raciones Elaboradas:",
+		"format_rations": "%d Porciones"
+      }
+    },
+	{
+      "COOK_FLAVORED_MEALS": {
+        "default": "COOK_FLAVORED_MEALS"
+      }
+    },
+	{
+      "CAULDRON_SKILLUPS": {
+        "default": "Aumentos de Hab. Alquimia:",
+		"format": "%d Pts"
+      }
+    },
+	{
+      "COOK_SLOP_BALLS": {
+        "default": "COOK_SLOP_BALLS:"
+      }
+    },
+	{
+      "COOK_GREASE_BALLS": {
+        "default": "COOK_GREASE_BALLS:"
+      }
+    },
+	{
+      "PARRIES": {
+        "default": "PARRIES:"
+      }
+    },
+	{
+      "PARRIES_DMG": {
+        "default": "PARRIES_DMG:"
+      }
+    },
+	{
+      "ARCHON_SPELLS_FORGOTTEN": {
+        "default": "Hechizos Olvidados:",
+		"format": "%d Hechizos"
+      }
+    },
+	{
+      "MULTI_HITS": {
+        "default": "Múltiples Enemigos Impactados:",
+		"format": "%d Veces"
+      }
+    },
+	{
+      "MAGIC_KILLS": {
+        "default": "MAGIC_KILLS:"
+      }
+    },
+	{
+      "EFFECT_DURATION": {
+        "default": "EFFECT_DURATION:",
+		"holy_symbols": "Tiempo Total Protegido:",
+		"instruments": "Tiempo Total Inspirado:",
+		"bolas": "Tiempo Total Atrapado:",
+		"format": "%t",
+	    "format_time": "%02d:%02d:%02d"
+      }
+    },
+	{
+      "JEWEL_RECRUIT_DECREPIT": {
+        "default": "JEWEL_RECRUIT_DECREPIT:"
+      }
+    },
+	{
+      "JEWEL_RECRUIT_WORN": {
+        "default": "JEWEL_RECRUIT_WORN:"
+      }
+    },
+	{
+      "JEWEL_RECRUIT_SERVICABLE": {
+        "default": "JEWEL_RECRUIT_SERVICABLE:"
+      }
+    },
+	{
+      "JEWEL_RECRUIT_EXCELLENT": {
+        "default": "JEWEL_RECRUIT_EXCELLENT:"
+      }
+    },
+	{
+      "FORGED": {
+        "default": "Gemas Forjadas:",
+		"format_jewels": "%d Veces"
+      }
+    },
+	{
+      "UPGRADED": {
+        "default": "Gemas Mejoradas:",
+		"format_jewels": "%d Veces"
+      }
+    },
+	{
+      "SHILLELAGH_DEBUFFS_MAX": {
+        "default": "SHILLELAGH_DEBUFFS_MAX:"
+      }
+    },
+	{
+      "DUCK_DODGE": {
+        "default": "Peligros Esquivados:",
+		"format": "%d Peligros"
+      }
+    },
+	{
+      "DUCK_CAUGHT": {
+        "default": "Peces Capturados:",
+		"format": "%d Peces"
+      }
+    }
+  ],
+  "custom_tags": {
+	  "CUSTOM_MOST_STAT_GAINS": {
+		"default": "Más Ganancias de Estadísticas:",
+		"format": "%d %s"
+	  },
+	  "CUSTOM_LEAST_STAT_GAINS": {
+		  "default": "Menos Ganancias de Estadísticas:",
+		  "format": "%d %s"
+	  },
+	  "CUSTOM_HIGHEST_STAT": {
+		  "default": "Estadística Más Alta:",
+		  "format": "%d %s"
+	  },
+	  "CUSTOM_STAT_TOTAL_INCREASES" : {
+		  "default": "Ganancias Totales de Estadísticas:",
+		  "format": "%d"
+	  },
+	  "CUSTOM_CLASS_LEAST_GAMES": {
+		  "default": "Menos Usado:",
+		  "format": "%s (%d Juegos)"
+	  },
+	  "CUSTOM_CLASS_LEAST_GAMES_WON": {
+		  "default": "Menos Victorias:",
+		  "format": "%s (%d Victorias)"
+	  },
+	  "CUSTOM_CLASS_LEAST_GAMES_WON_CLASSIC": {
+		  "default": "Menos Victorias:",
+		  "format": "%s (%d Victorias Clásicas)"
+	  },
+	  "CUSTOM_CLASS_LEAST_GAMES_WON_HELL": {
+		  "default": "Menos Victorias:",
+		  "format": "%s (%d Victorias del Infierno)"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_SWORD": {
+		  "default": "Pericias de Espada Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_AXE": {
+		  "default": "Pericias de Hacha Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_POLEARM": {
+		  "default": "Pericias de Asta Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_MACE": {
+		  "default": "Pericias de Maza Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_UNARMED": {
+		  "default": "Pericias de Desarme Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_STEALTH": {
+		  "default": "Pericias de Sigilo Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_BLOCKING": {
+		  "default": "Pericias de Bloqueo Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_RANGED": {
+		  "default": "Pericias de Distancia Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_MAGIC": {
+		  "default": "Pericias de Magia Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_CASTING": {
+		  "default": "Pericias de Canalizar Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_SORCERY": {
+		  "default": "Pericias de Hechicería Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_MYSTICISM": {
+		  "default": "Pericias de Misticismo Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_THAUMATURGY": {
+		  "default": "Pericias de Taumaturgia Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_APPRAISAL": {
+		  "default": "Pericias de Tradición Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_SWIMMING": {
+		  "default": "Pericias de Natación Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_LEADERSHIP": {
+		  "default": "Pericias de Liderazgo Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_TRADING": {
+		  "default": "Pericias de Comercio Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_ALCHEMY": {
+		  "default": "Pericias de Alquimia Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_TINKERING": {
+		  "default": "Pericias de Bricolaje Ganados:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_LEGEND_SKILL_MELEE_100": {
+		  "default": "Habilidad Legendaria Max:",
+		  "format": "%s (%d)"
+	  },
+	  "CUSTOM_LEGEND_TOTAL_PROCS": {
+		  "default": "Impactos Legendarios Totales:",
+		  "format": "%d Impactos"
+	  },
+	  "CUSTOM_LEGEND_MOST_SKILL_PROCS": {
+		  "default": "Habilidad de Más Impactos:",
+		  "format": "%s (%d)"
+	  },
+	  "CUSTOM_CLASS_MOST_LEGEND_MELEES": {
+		  "default": "Clase de Más Impactos:",
+		  "format": "%s (%d)"
+	  },
+	  "CUSTOM_SPELL_ITEM_CASTS": {
+		  "default": "Canalliz. Memorizados Totales:",
+		  "format": "%d"
+	  },
+	  "CUSTOM_SPELL_ITEM_FIZZLES": {
+		  "default": "Disipaciones Totales:",
+		  "format": "%d"
+	  },
+	  "CUSTOM_SPELLBOOK_ITEM_CASTS": {
+		  "default": "Canalliz. de Grimorios Totales:",
+		  "format": "%d"
+	  },
+	  "CUSTOM_SPELLBOOK_ITEM_FIZZLES": {
+		  "default": "Disipaciones de Grimorios Totales:",
+		  "format": "%d"
+	  },
+	  "CUSTOM_SPELLBOOK_CAST_DEGRADES": {
+		  "default": "Grimorios Degradados:",
+		  "format": "%d"
+	  },
+	  "CUSTOM_SNEAK_TOTAL_TIME": {
+		  "default": "Tiempo Total en Sigilo:",
+		  "format": "%t",
+		  "format_time": "%02d:%02d:%02d"
+	  },
+	  "CUSTOM_LVL_GAINED_FOR_CLASS": {
+		  "default": "Niveles Totales Ganados:",
+		  "format": "%d Niveles"
+	  },
+	  "CUSTOM_CLASS_GAMES_STARTED": {
+		  "default": "Partidas Totales Iniciadas:",
+		  "format": "%d Juegos"
+	  },
+	  "CUSTOM_CLASS_GAMES_WON": {
+		  "default": "Victorias Totales:",
+		  "format": "%d Victorias"
+	  },
+	  "CUSTOM_CLASS_GAMES_WON_CLASSIC": {
+		  "default": "Victorias Totales:",
+		  "format": "%d Victorias Clásicas"
+	  },
+	  "CUSTOM_CLASS_GAMES_WON_HELL": {
+		  "default": "Victorias Totales:",
+		  "format": "%d Victorias del Infierno"
+	  },
+	  "CUSTOM_SKILLS_GAINED_FOR_CLASS": {
+		  "default": "Pericias Totales Ganadas:",
+		  "format": "%d Pts"
+	  },
+	  "CUSTOM_CLASS_PLAYTIME": {
+		  "default": "Tiempo de Juego:",
+		  "format": "Rango: #"
+	  },
+	  "CUSTOM_ITEMS_DEGRADED": {
+		  "default": "Equipo Dañado:",
+		  "format": "%d"
+	  },
+	  "CUSTOM_ITEMS_REPAIRED": {
+		  "default": "Equipo Reparado:",
+		  "format": "%d"
+	  },
+	  "CUSTOM_ITEMS_BROKEN": {
+		  "default": "Armas Rotas:",
+		  "format": "%d"
+	  },
+	  "CUSTOM_ITEMS_BROKEN_ARMOR": {
+		  "default": "Armadura Rota:",
+		  "format": "%d"
+	  },
+	  "CUSTOM_MOST_SKILL_GAINS": {
+		"default": "Habilidad Favorita:",
+		"format": "%s (%d Pts)"
+	  },
+	  "CUSTOM_LEAST_SKILL_GAINS": {
+		"default": "Habilidad Descuidada:",
+		"format": "%s (%d Pts)"
+	  },
+	  "CUSTOM_LEGEND_SKILL_SUM": {
+		"default": "Habilidad Legendaria Alcanzada:",
+		"format": "%d Veces"
+	  },
+	  "CUSTOM_HP_MP_RGN": {
+		"default": "Regen. Total:",
+		"format": "%s PV / %s PM"
+	  },
+	  "CUSTOM_HP_MP_RGN_RUN": {
+		"default": "Más Regen. en 1 Partida:",
+		"format": "%s PV / %s PM"
+	  },
+	  "CUSTOM_BIOME_COMPLETIONS": {
+		  "default": "Área:",
+		  "format0": "Biomas Completados: %d",
+		  "format1": "Limpieza Más Rápida: %t",
+		  "format2": "Limpieza Más Lenta: %t",
+		  "format_time": "%02d:%02d:%02d"
+	  },
+	  "CUSTOM_LEVEL_COMPLETIONS": {
+		  "default": "Área:",
+		  "format0": "Completitudes: %d",
+		  "format1": "Salida Más Rápida: %t",
+		  "format2": "Salida Más Lenta: %t",
+		  "format_time": "%02d:%02d:%02d"
+	  },
+	  "CUSTOM_MINEHEAD_COMPLETIONS": {
+		  "default": "Área:",
+		  "format0": "Salida Más Rápida: %t",
+		  "format1": "Salida Más Rápida: %t",
+		  "format2": "Salida Más Lenta: %t",
+		  "format_time": "%02d:%02d:%02d"
+	  },
+	  "CUSTOM_LEVEL_DEATHS": {
+		  "default": "Muertes:",
+		  "minehead": "Falsos Comienzos:",
+		  "format0": "Muertes Totales: %d",
+		  "format1": "Muerte Más Rápida: %t",
+		  "format2": "Muerte Más Lenta: %t",
+		  "format_time": "%02d:%02d:%02d"
+	  },
+	  "CUSTOM_LEVEL_PLAYTIME": {
+		  "default": "Tiempo de Juego:",
+		  "format0": "Veces Visitado: %d",
+		  "format1": "Tiempo Dedicado: %t",
+		  "format2": "Tiempo Dedicado: %t",
+		  "format_time": "%02d:%02d:%02d"
+	  },
+	  "CUSTOM_MINEHEAD_PLAYTIME": {
+		  "default": "Preparativos:",
+		  "format0": "Tiempo Dedicado: %t",
+		  "format_time": "%02d:%02d:%02d"
+	  },
+	  "CUSTOM_BIOME_PLAYTIME": {
+		  "default": "Tiempo de Juego:",
+		  "format0": "Pisos Entrados: %d",
+		  "format1": "Pisos Completados: %d",
+		  "format2": "Tiempo Dedicado: %t",
+		  "format_time": "%02d:%02d:%02d"
+	  },
+	  "CUSTOM_LEVEL_STATS": {
+		  "default": "Personaje:",
+		  "format0": "Nivel Más Alto: NIV %d",
+		  "format1": "Nivel Más Bajo: NIV %d",
+		  "format2": "Más Oro: %dO"
+	  },
+	  "CUSTOM_SOKOBAN": {
+		  "default": "Acertijos de Sokoban:",
+		  "format0": "Resoluciones Totales: %d",
+		  "format2": "Resoluciones Perfectas: %d",
+		  "format1": "Resolución Más Rápida: %t",
+		  "format_time": "%02d:%02d:%02d"
+	  },
+	  "CUSTOM_HALLOFTRIALS_TIME": {
+		  "default": "Tiempo de Juego:",
+		  "format0": "Tiempo Dedicado: %t",
+		  "format_time": "%02d:%02d:%02d"
+	  },
+	  "CUSTOM_MINEHEAD_GAMES": {
+		  "default": "Partidas de Mazmorra:",
+		  "format0": "Juegos Iniciados: %d",
+		  "format1": "Tiempo de Juego: %t",
+		  "format2": "Partidas en Solitario: %d",
+		  "format3": "Partidas Online: %d",
+		  "format4": "Partidas LAN: %d",
+		  "format5": "Partidas P. Dividida: %d",
+		  "format_time": "%02d:%02d:%02d"
+	  },
+	  "CUSTOM_RACE_LEAST_GAMES_WON": {
+		  "default": "Menos Victorias:",
+		  "format": "%s (%d Victorias)"
+	  },
+	  "CUSTOM_RACE_LEAST_GAMES_WON_CLASSIC": {
+		  "default": "Menos Victorias:",
+		  "format": "%s (%d Victorias Clásicas)"
+	  },
+	  "CUSTOM_RACE_LEAST_GAMES_WON_HELL": {
+		  "default": "Menos Victorias:",
+		  "format": "%s (%d Victorias del Infierno)"
+	  },
+	  "CUSTOM_TINKERKIT_SCRAPS": {
+		  "default": "Chatarra Recuperada:",
+		  "format0": "%d Chatarra de Metal",
+		  "format1": "%d Chatarra Mágica"
+	  },
+	  "CUSTOM_LOCKPICK_UNLOCKS": {
+		  "default": "Objetos Desbloqueados:",
+		  "format0": "%d Puertas",
+		  "format1": "%d Cofres"
+	  },
+	  "CUSTOM_LOCKPICK_LOCKS": {
+		  "default": "Objetos Bloqueados:",
+		  "format0": "%d Puertas",
+		  "format1": "%d Cofres"
+	  },
+	  "CUSTOM_ALEMBIC_DUPLICATED": {
+		  "default": "Pociones Duplicadas:",
+		  "format0": "%d Éxitos",
+		  "format1": "%d Fallos"
+	  },
+	  "CUSTOM_ALEMBIC_BREWED": {
+		  "default": "Pociones Elaboradas:",
+		  "format0": "%d Mezclas",
+		  "format1": "%d Explosiones"
+	  },
+	  "CUSTOM_BOTTLE_RECOVERY": {
+		  "default": "Botellas Recuperadas:",
+		  "format0": "%d (Destilando)",
+		  "format1": "%d (Bebiendo)"
+	  },
+	  "CUSTOM_TIN_REGEN": {
+		  "default": "Regen. Ganada:",
+		  "format0": "%d Veces (Regen PV)",
+		  "format1": "%d Veces (Regen PM)"
+	  },
+	  "CUSTOM_BELL_LOOT": {
+		  "default": "Botín Encontrado:",
+		  "format0": "%d Objetos",
+		  "format1": "%d Oro",
+		  "format2": "%d Murciélagos"
+	  },
+	  "CUSTOM_BELL_BUFFS": {
+		  "default": "Bonificaciones Ganadas:",
+		  "format0": "%d Veces (Agilidad)",
+		  "format1": "%d Veces (Resistencia)",
+		  "format2": "%d Veces (Fuerza)",
+		  "format3": "%d Veces (Mentalidad)",
+		  "format4": "%d Veces (Restauración)"
+	  },
+	  "CUSTOM_BELL_BROKEN": {
+		  "default": "Vandalizado:",
+		  "format1": "%d Badajos Rotos",
+		  "format0": "%d Campanas Caídas"
+	  },
+	  "CUSTOM_LEADER_NOVICES": {
+		  "default": "Capitanes Entrenados:",
+		  "format": "%d Novatos %s"
+	  },
+	  "CUSTOM_COMBAT_NOVICES": {
+		  "default": "Soldados Entrenados:",
+		  "format": "%d Novatos %s"
+	  },
+	  "CUSTOM_STEALTH_NOVICES": {
+		  "default": "Asesinos Entrenados:",
+		  "format": "%d Novatos %s"
+	  },
+	  "CUSTOM_RANGED_NOVICES": {
+		  "default": "Tiradores Entrenados:",
+		  "format": "%d Novatos %s"
+	  },
+	  "CUSTOM_MAGIC_NOVICES": {
+		  "default": "Aprendices Entrenados:",
+		  "format": "%d Novatos %s"
+	  },
+	  "CUSTOM_CRAFTSMEN_NOVICES": {
+		  "default": "Artesanos Entrenados:",
+		  "format": "%d Novatos %s"
+	  },
+	  "CUSTOM_SALESMEN_NOVICES": {
+		  "default": "Vendedores Entrenados:",
+		  "format": "%d Novatos %s"
+	  },
+	  "CUSTOM_COMBAT_MASONRY": {
+		  "default": "Mampostería de Combate:",
+		  "format0": "%d Muertes por Pedrusco",
+		  "format1": "%d Muertes por Gema",
+		  "format2": "%d Muertes por Piedra"
+	  },
+	  "CUSTOM_UNDEAD_KILLED": {
+		  "default": "No-Muertos Asesinados:",
+		  "format": "%d Muertes"
+	  },
+	  "CUSTOM_BEASTS_KILLED": {
+		  "default": "Bestias Asesinadas:",
+		  "format": "%d Muertes"
+	  },
+	  "CUSTOM_DEMONS_KILLED": {
+		  "default": "Demonios Desterrados:",
+		  "format": "%d Muertes"
+	  },
+	  "CUSTOM_KEYLOCK_ALLKEYS": {
+		  "default": "Llaves Usadas:",
+		  "format0": "%d Llaves en Total",
+		  "format1": "%d Llaves de Hierro",
+		  "format2": "%d Llaves de Bronce",
+		  "format3": "%d Llaves de Plata",
+		  "format4": "%d Llaves de Oro"
+	  },
+	  "CUSTOM_COOK_MEALS": {
+		  "default": "Creaciones Culinarias:",
+		  "format0": "%d Raciones",
+		  "format1": "%d Raciones Sazonadas",
+		  "format2": "%d Bolas de Grasa",
+		  "format3": "%d Bolas de Desperdicio"
+	  },
+	  "CUSTOM_ATTACKS_PARRIES": {
+		  "default": "Ataques Acertados:",
+		  "format0": "%d Impactos",
+		  "format1": "%d Bloqueos"
+	  },
+	  "CUSTOM_DMG_PARRIES": {
+		  "default": "Daño Total Infligido:",
+		  "format0": "%d DAÑO Golpe",
+		  "format1": "%d DAÑO Bloqueo"
+	  },
+	  "CUSTOM_JEWEL_RECRUITS": {
+		  "default": "Cuotas de Reclutamiento:",
+		  "format0": "%d Gemas Totales",
+		  "format1": "%d Gemas Agrietadas",
+		  "format2": "%d Gemas Rugosas",
+		  "format3": "%d Gemas Defectuosas",
+		  "format4": "%d Gemas Impecables"
+	  }
+	}
+}

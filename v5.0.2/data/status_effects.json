@@ -57,9 +57,9 @@
 			"internal_name": "EFF_HUNGER",
 			"name": ["¡Hastiado!", "Hambriento", "Muy Hambriento", "¡Famélico!"],
 			"desc": [
-			"Sufriendo de sobrecalentamiento:\n- Fuerza\n- Destreza", 
-			"No comer causará efectos negativos", 
-			"Sufriendo por falta de comida:\n- Fuerza\n- Destreza", 
+			"Sufriendo de sobrecalentamiento:\n- Fuerza\n- Destreza",
+			"No comer causará efectos negativos",
+			"Sufriendo por falta de comida:\n- Fuerza\n- Destreza",
 			"Sufriendo por falta de comida, muriendo lentamente:\n- Fuerza\n- Destreza\n- Inteligencia\n- Percepción"],
 			"img_path": ["*images/ui/HUD/HUD_Hunger_01A.png", "*images/ui/HUD/HUD_Hunger_01B.png", "*images/ui/HUD/HUD_Hunger_01C.png", "*images/ui/HUD/HUD_Hunger_01D.png"],
 			"img_from_spell_id": -1,
@@ -276,7 +276,7 @@
 			"internal_name": "EFF_ASSISTANCE",
 			"name": "Asistencia",
             "desc": [
-                "Has reclamado uno o más objetos de asistencia", 
+                "Has reclamado uno o más objetos de asistencia",
                 "%d Ptos. de Asistencia (Propios)",
                 "%d Ptos. de Asistencia (Total del grupo)",
                 "Penalización de puntuación: %d%%"
@@ -310,7 +310,8 @@
 			"id": -29,
 			"internal_name": "EFF_OVERCHARGE_COUNT",
 			"name": "Sobrecarga",
-            "desc": "El próximo hechizo memorizado se mantendrá cargado durante varias lanzamientos sucesivos\nLos lanzamientos sucesivos consumirán PV al agotarse los PM\nCancelar el hechizo cargado disipa el efecto",			"img_path": "",
+            "desc": "El próximo hechizo memorizado se mantendrá cargado durante varias lanzamientos sucesivos\nLos lanzamientos sucesivos consumirán PV al agotarse los PM\nCancelar el hechizo cargado disipa el efecto",
+			"img_path": "",
 			"img_from_spell_id": 100,
 			"tooltip_width": 260
 		},
@@ -319,7 +320,7 @@
 			"internal_name": "EFF_WEALTH",
 			"name": ["Riqueza", "Riqueza (Nivel I)", "Riqueza (Nivel II)", "Riqueza (Nivel III)", "Riqueza (Nivel IV)"],
             "desc": [
-                "+%d%% de probabilidad de ganar +1 PM mientras se regenera PM", 
+                "+%d%% de chance de ganar +1 PM mientras se regenera PM",
                 "El efecto aumenta según la cantidad de oro que lleves"],
 			"img_path": ["*images/ui/HUD/statusfx/wealth.png", "*images/ui/HUD/statusfx/wealth2.png", "*images/ui/HUD/statusfx/wealth3.png", "*images/ui/HUD/statusfx/wealth4.png"],
 			"img_from_spell_id": -1,
@@ -369,7 +370,7 @@
 		"EFF_INVISIBLE": {
 			"id": 5,
 			"internal_name": "EFF_INVISIBLE",
-			"name": "Invisible",
+			"name": "Invisibilidad",
 			"desc": "Imposibilita que te detecten enemigos fuera del alcance cuerpo-a-cuerpo",
 			"img_path": "",
 			"img_from_spell_id": 16,
@@ -544,7 +545,7 @@
 		"EFF_KNOCKBACK": {
 			"id": 26,
 			"internal_name": "EFF_KNOCKBACK",
-			"name": "",
+			"name": "Empuje",
 			"desc": "",
 			"img_path": "",
 			"img_from_spell_id": -1,
@@ -637,7 +638,7 @@
 		"EFF_DASH": {
 			"id": 37,
 			"internal_name": "EFF_DASH",
-			"name": "",
+			"name": "Brío",
 			"desc": "",
 			"img_path": "",
 			"img_from_spell_id": -1,
@@ -681,40 +682,40 @@
 		"EFF_CON_BONUS": {
 			"id": 42,
 			"internal_name": "EFF_CON_BONUS",
-			"name": "Stamina",
-			"desc": "+ Constitution\nEffect increases with lower remaining HP",
+			"name": "Aguante",
+			"desc": "+ Constitución\nEl efecto aumenta con menos PV restante",
 			"img_path": "*images/ui/HUD/statusfx/defensebuff.png",
 			"img_from_spell_id": -1
 		},
 		"EFF_PWR": {
 			"id": 43,
 			"internal_name": "EFF_PWR",
-			"name": "Mentality",
-			"desc": "+ Spell Power\nEffect increases with lower remaining MP",
+			"name": "Mentalidad",
+			"desc": "+ Poder de Hechizos\nEl efecto aumenta con menos PM restante",
 			"img_path": "*images/ui/HUD/statusfx/powerbuff.png",
 			"img_from_spell_id": -1
 		},
 		"EFF_AGILITY": {
 			"id": 44,
 			"internal_name": "EFF_AGILITY",
-			"name": "Agility",
-			"desc": "+ Dexterity\n+30% Chance to evade physical and magical attacks",
+			"name": "Agilidad",
+			"desc": "+ Destreza\n+30% Chance de evadir ataques físicos y mágicos",
 			"img_path": "*images/ui/HUD/statusfx/dexbuff.png",
 			"img_from_spell_id": -1
 		},
 		"EFF_RALLY": {
 			"id": 45,
 			"internal_name": "EFF_RALLY",
-			"name": "Rally",
-			"desc": "+ Rallied",
+			"name": "Fervor",
+			"desc": "+ Fervor",
 			"img_path": "*images/ui/HUD/statusfx/rooted.png",
 			"img_from_spell_id": -1
 		},
 		"EFF_MARIGOLD": {
 			"id": 46,
 			"internal_name": "EFF_MARIGOLD",
-			"name": "Marigold Healing",
-			"desc": "+ Restoring HP over time",
+			"name": "Curación de Caléndula",
+			"desc": "+ Restauración de PV con el tiempo",
 			"img_path": "*images/ui/HUD/statusfx/growth.png",
 			"img_from_spell_id": -1,
 			"tooltip_width": 240
@@ -722,10 +723,10 @@
 		"EFF_ENSEMBLE_FLUTE": {
 			"id": 47,
 			"internal_name": "EFF_ENSEMBLE_FLUTE",
-			"name": ["Flute (Tier I)", "Flute (Tier II)", "Flute (Tier III)", "Flute (Tier IV)"],
+			"name": ["Flauta (Grado I)", "Flauta (Grado II)", "Flauta (Grado III)", "Flauta (Grado IV)"],
 			"desc": [
-				"%+d DEX", 
-				"%+d%% Critical Charge Speed"
+				"%+d DES",
+				"%+d%% Velocidad de Carga Crítica"
 			],
 			"img_path": "*images/ui/HUD/statusfx/ensemble_flute.png",
 			"img_from_spell_id": -1,
@@ -734,10 +735,10 @@
 		"EFF_ENSEMBLE_LYRE": {
 			"id": 48,
 			"internal_name": "EFF_ENSEMBLE_LYRE",
-			"name": ["Lyre (Tier I)", "Lyre (Tier II)", "Lyre (Tier III)", "Lyre (Tier IV)"],
+			"name": ["Lira (Grado I)", "Lira (Grado II)", "Lira (Grado III)", "Lira (Grado IV)"],
 			"desc": [
-				"%+d PER", 
-				"%+d%% Damage Resistance"
+				"%+d PER",
+				"%+d%% Resistencia al Daño"
 			],
 			"img_path": "*images/ui/HUD/statusfx/ensemble_lyre.png",
 			"img_from_spell_id": -1,
@@ -746,10 +747,10 @@
 		"EFF_ENSEMBLE_DRUM": {
 			"id": 49,
 			"internal_name": "EFF_ENSEMBLE_DRUM",
-			"name": ["Drum (Tier I)", "Drum (Tier II)", "Drum (Tier III)", "Drum (Tier IV)"],
+			"name": ["Tambor (Grado I)", "Tambor (Grado II)", "Tambor (Grado III)", "Tambor (Grado IV)"],
 			"desc": [
-				"%+d STR", 
-				"%+d%% chance Armor Pierce on melee attacks"
+				"%+d FUE",
+				"%+d%% chance de Penetrar Armadura en ataques cuerpo a cuerpo"
 			],
 			"img_path": "*images/ui/HUD/statusfx/ensemble_drum.png",
 			"img_from_spell_id": -1,
@@ -758,10 +759,10 @@
 		"EFF_ENSEMBLE_LUTE": {
 			"id": 50,
 			"internal_name": "EFF_ENSEMBLE_LUTE",
-			"name": ["Lute (Tier I)", "Lute (Tier II)", "Lute (Tier III)", "Lute (Tier IV)"],
+			"name": ["Laúd (Grado I)", "Laúd (Grado II)", "Laúd (Grado III)", "Laúd (Grado IV)"],
 			"desc": [
-				"%+d%% PWR", 
-				"%+d%% Evasion"
+				"%+d%% PDR",
+				"%+d%% Evasión"
 			],
 			"img_path": "*images/ui/HUD/statusfx/ensemble_lute.png",
 			"img_from_spell_id": -1,
@@ -770,10 +771,10 @@
 		"EFF_ENSEMBLE_HORN": {
 			"id": 51,
 			"internal_name": "EFF_ENSEMBLE_HORN",
-			"name": ["Horn (Tier I)", "Horn (Tier II)", "Horn (Tier III)", "Horn (Tier IV)"],
+			"name": ["Cuerno (Grado I)", "Cuerno (Grado II)", "Cuerno (Grado III)", "Cuerno (Grado IV)"],
 			"desc": [
-				"%+d CON", 
-				"%+d Retaliation Damage to melee attackers"
+				"%+d CON",
+				"%+d Daño de Represalia a atacantes cuerpo a cuerpo"
 			],
 			"img_path": "*images/ui/HUD/statusfx/ensemble_horn.png",
 			"img_from_spell_id": -1,
@@ -782,16 +783,16 @@
 		"EFF_LIFT": {
 			"id": 52,
 			"internal_name": "EFF_LIFT",
-			"name": "Lifted",
-			"desc": "Prevents movement.\nTaking damage on effect\nend based on CON",
+			"name": "Elevado",
+			"desc": "Impide el movimiento.\nRecibe daño al terminar\nel efecto según CON",
 			"img_path": "",
 			"img_from_spell_id": 185
 		},
 		"EFF_GUARD_SPIRIT": {
 			"id": 53,
 			"internal_name": "EFF_GUARD_SPIRIT",
-			"name": "Guard Spirit",
-			"desc": "+RES\nBuilds charges while active.\nAttacks deplete charges.",
+			"name": "Protección Espiritual",
+			"desc": "+RES\nAcumula cargas mientras está activo.\nLos ataques consumen cargas.",
 			"img_path": "",
 			"img_from_spell_id": 71,
 			"use_entry_for_sustained_spell": 71
@@ -799,8 +800,8 @@
 		"EFF_GUARD_BODY": {
 			"id": 54,
 			"internal_name": "EFF_GUARD_BODY",
-			"name": "Guard Body",
-			"desc": "+AC\nBuilds charges while active\nAttacks deplete charges",
+			"name": "Protección Corporal",
+			"desc": "+CA\nAcumula cargas mientras está activo\nLos ataques consumen cargas",
 			"img_path": "",
 			"img_from_spell_id": 70,
 			"use_entry_for_sustained_spell": 70
@@ -808,8 +809,8 @@
 		"EFF_DIVINE_GUARD": {
 			"id": 55,
 			"internal_name": "EFF_DIVINE_GUARD",
-			"name": "Divine Guard",
-			"desc": "+AC\n+RES\nBuilds charges while active.\nAttacks deplete charges.",
+			"name": "Protección Divina",
+			"desc": "+CA\n+RES\nAcumula cargas mientras está activo.\nLos ataques consumen cargas.",
 			"img_path": "",
 			"img_from_spell_id": 72,
 			"use_entry_for_sustained_spell": 72
@@ -817,23 +818,23 @@
 		"EFF_NIMBLENESS": {
 			"id": 56,
 			"internal_name": "EFF_NIMBLENESS",
-			"name": "Nimbleness",
-			"desc": "+DEX",
+			"name": "Ligereza",
+			"desc": "+DES",
 			"img_path": "",
 			"img_from_spell_id": 73
 		},
 		"EFF_GREATER_MIGHT": {
 			"id": 57,
 			"internal_name": "EFF_GREATER_MIGHT",
-			"name": "Greater Might",
-			"desc": "+STR\n+Push",
+			"name": "Fuerza Mayor",
+			"desc": "+FUE\n+Empuje",
 			"img_path": "",
 			"img_from_spell_id": 74
 		},
 		"EFF_COUNSEL": {
 			"id": 58,
 			"internal_name": "EFF_COUNSEL",
-			"name": "Counsel",
+			"name": "Consejo",
 			"desc": "+INT",
 			"img_path": "",
 			"img_from_spell_id": 75
@@ -841,7 +842,7 @@
 		"EFF_STURDINESS": {
 			"id": 59,
 			"internal_name": "EFF_STURDINESS",
-			"name": "Sturdiness",
+			"name": "Robustez",
 			"desc": "+CON",
 			"img_path": "",
 			"img_from_spell_id": 76
@@ -849,40 +850,40 @@
 		"EFF_BLESS_FOOD": {
 			"id": 60,
 			"internal_name": "EFF_BLESS_FOOD",
-			"name": "Blessed Meals",
-			"desc": "Grants [Nourished]\nwhen non-spoiled food",
+			"name": "Comidas Benditas",
+			"desc": "Otorga [Plenitud]\ncon comida no podrida",
 			"img_path": "",
 			"img_from_spell_id": 77
 		},
 		"EFF_PINPOINT": {
 			"id": 61,
 			"internal_name": "EFF_PINPOINT",
-			"name": "Pinpoint",
-			"desc": "Takes additional damage upon being attacked by the caster.",
+			"name": "Localizar",
+			"desc": "Recibe daño adicional al ser atacado por quien lanzó el hechizo.",
 			"img_path": "",
 			"img_from_spell_id": 78
 		},
 		"EFF_PENANCE": {
 			"id": 62,
 			"internal_name": "EFF_PENANCE",
-			"name": "Penance",
-			"desc": "Friendly to the caster.",
+			"name": "Penitencia",
+			"desc": "Amistoso con quien lanzó el hechizo.",
 			"img_path": "",
 			"img_from_spell_id": 84
 		},
 		"EFF_SACRED_PATH": {
 			"id": 63,
 			"internal_name": "EFF_SACRED_PATH",
-			"name": "Trap Guard",
-			"desc": "Reduced damage from traps.",
+			"name": "Protección contra Trampas",
+			"desc": "Daño reducido de trampas.",
 			"img_path": "",
 			"img_from_spell_id": 86
 		},
 		"EFF_DETECT_ENEMY": {
 			"id": 64,
 			"internal_name": "EFF_DETECT_ENEMY",
-			"name": "Detect Enemy",
-			"desc": "Revealed to hostile caster.",
+			"name": "Detectar Enemigo",
+			"desc": "Revelado al canalizador hostil.",
 			"img_path": "",
 			"img_from_spell_id": 88,
 			"never_display": true
@@ -890,8 +891,8 @@
 		"EFF_BLOOD_WARD": {
 			"id": 65,
 			"internal_name": "EFF_BLOOD_WARD",
-			"name": "Blood Ward",
-			"desc": "Taking reduced damage from poisonous\ncreatures and elemental spells\nImmune to [Poison / Bleed]",
+			"name": "Protección Sanguínea",
+			"desc": "Recibe daño reducido de criaturas venenosas\ny hechizos elementales\nInmune a [Veneno / Sangrado]",
 			"img_path": "",
 			"img_from_spell_id": 92,
 			"use_entry_for_sustained_spell": 92
@@ -899,16 +900,16 @@
 		"EFF_TRUE_BLOOD": {
 			"id": 66,
 			"internal_name": "EFF_TRUE_BLOOD",
-			"name": "True Blood",
-			"desc": "Reduces sting damage.\nImmunity to:n-Slow\n-Paralyze\n-Poison\n-Bleed",
+			"name": "Purasangre",
+			"desc": "Reduce daño de aguijón.\nInmunidad a:\n-Lentitud\n-Parálisis\n-Veneno\n-Sangrado",
 			"img_path": "",
 			"img_from_spell_id": 93
 		},
 		"EFF_DIVINE_ZEAL": {
 			"id": 67,
 			"internal_name": "EFF_DIVINE_ZEAL",
-			"name": "Divine Zeal",
-			"desc": "Physical attacks inflict additional Smite damage to susceptible enemies",
+			"name": "Fervor Divino",
+			"desc": "Los ataques físicos infligen daño de Castigo adicional a enemigos susceptibles",
 			"img_path": "",
 			"img_from_spell_id": 94,
 			"use_entry_for_sustained_spell": 94
@@ -916,40 +917,40 @@
 		"EFF_MAXIMISE": {
 			"id": 68,
 			"internal_name": "EFF_MAXIMISE",
-			"name": "Maximise",
-			"desc": "+STR\n+CON\n-DEX\nIncreases XP yield",
+			"name": "Maximizar",
+			"desc": "+FUE\n+CON\n-DES\nAumenta ganancia de EXP",
 			"img_path": "",
 			"img_from_spell_id": 96
 		},
 		"EFF_MINIMISE": {
 			"id": 69,
 			"internal_name": "EFF_MINIMISE",
-			"name": "Minimise",
-			"desc": "+DEX\n-STR\n-CON\nReduces XP yield",
+			"name": "Minimizar",
+			"desc": "+DES\n-FUE\n-CON\nReduce ganancia de EXP",
 			"img_path": "",
 			"img_from_spell_id": 97
 		},
 		"EFF_WEAKNESS": {
 			"id": 70,
 			"internal_name": "EFF_WEAKNESS",
-			"name": "Weakness",
-			"desc": "Melee ATK reduced",
+			"name": "Debilidad",
+			"desc": "ATQ cuerpo a cuerpo reducido",
 			"img_path": "",
 			"img_from_spell_id": 43
 		},
 		"EFF_INCOHERENCE": {
 			"id": 71,
 			"internal_name": "EFF_INCOHERENCE",
-			"name": "Incoherence",
-			"desc": "PWR Reduced",
+			"name": "Incoherencia",
+			"desc": "PDR Reducido",
 			"img_path": "",
 			"img_from_spell_id": 99
 		},
 		"EFF_OVERCHARGE": {
 			"id": 72,
 			"internal_name": "EFF_OVERCHARGE",
-			"name": "Overcharge",
-			"desc": "Applies +PWR to:\n-Magicstaffs\n-Off-Hand Spellbooks\n-Magic Foci",
+			"name": "Sobrecarga",
+			"desc": "Aplica +PDR a:\n-Bastones Mágicos\n-Grimorios en Mano No Hábil\n-Focos Mágicos",
 			"img_path": "",
 			"img_from_spell_id": 100,
 			"use_entry_for_sustained_spell": 100
@@ -957,8 +958,8 @@
 		"EFF_ENVENOM_WEAPON": {
 			"id": 73,
 			"internal_name": "EFF_ENVENOM_WEAPON",
-			"name": "Envenom Weapon",
-			"desc": "Weapon attacks have a chance\n to inflict additional poisoned damage",
+			"name": "Envenenar Arma",
+			"desc": "Los ataques con armas tienen una chance\n de infligir daño venenoso adicional",
 			"img_path": "",
 			"img_from_spell_id": 101,
 			"use_entry_for_sustained_spell": 101
@@ -966,16 +967,16 @@
 		"EFF_MAGIC_GREASE": {
 			"id": 74,
 			"internal_name": "EFF_MAGIC_GREASE",
-			"name": "Slippery",
-			"desc": "Reduced control of movement",
+			"name": "Resbaladizo",
+			"desc": "Control de movimiento reducido",
 			"img_path": "",
 			"img_from_spell_id": 104
 		},
 		"EFF_COMMAND": {
 			"id": 75,
 			"internal_name": "EFF_COMMAND",
-			"name": "Compel",
-			"desc": "Forced to obey one command",
+			"name": "Obligar",
+			"desc": "Forzado a obedecer una orden",
 			"img_path": "",
 			"img_from_spell_id": 107
 		},
@@ -990,64 +991,64 @@
 		"EFF_CURSE_FLESH": {
 			"id": 77,
 			"internal_name": "EFF_CURSE_FLESH",
-			"name": "Cursed Flesh",
-			"desc": "Spawning a Revenant Skull when killed.",
+			"name": "Carne Maldita",
+			"desc": "Genera un Cráneo Espectral al morir.",
 			"img_path": "",
 			"img_from_spell_id": 121
 		},
 		"EFF_NUMBING_BOLT": {
 			"id": 78,
 			"internal_name": "EFF_NUMBING_BOLT",
-			"name": "Numb",
-			"desc": "Can't feel the next hit taken.",
+			"name": "Adormecimiento",
+			"desc": "No siente el próximo golpe recibido.",
 			"img_path": "",
 			"img_from_spell_id": 119
 		},
 		"EFF_DELAY_PAIN": {
 			"id": 79,
 			"internal_name": "EFF_DELAY_PAIN",
-			"name": "Undying",
-			"desc": "Delaying damage taken",
+			"name": "Dolor Diferido",
+			"desc": "Retrasa el daño recibido",
 			"img_path": "",
 			"img_from_spell_id": 120
 		},
 		"EFF_SEEK_CREATURE": {
 			"id": 80,
 			"internal_name": "EFF_SEEK_CREATURE",
-			"name": "Seek Other",
-			"desc": "Compelled to seek out another creature",
+			"name": "Buscar a Otro",
+			"desc": "Obligado a buscar otra criatura",
 			"img_path": "",
 			"img_from_spell_id": 126
 		},
 		"EFF_TABOO": {
 			"id": 81,
 			"internal_name": "EFF_TABOO",
-			"name": "Scapegoat",
-			"desc": "Makes all creatures hostile to you",
+			"name": "Chivo Expiatorio",
+			"desc": "Hace que todas las criaturas sean hostiles hacia ti",
 			"img_path": "",
 			"img_from_spell_id": 131
 		},
 		"EFF_COURAGE": {
 			"id": 82,
 			"internal_name": "EFF_COURAGE",
-			"name": "Courage",
-			"desc": "+STR\n+CON",
+			"name": "Coraje",
+			"desc": "+FUE\n+CON",
 			"img_path": "",
 			"img_from_spell_id": 124
 		},
 		"EFF_COWARDICE": {
 			"id": 83,
 			"internal_name": "EFF_COWARDICE",
-			"name": "Cowardice",
-			"desc": "-CON\n-STR",
+			"name": "Cobardía",
+			"desc": "-CON\n-FUE",
 			"img_path": "",
 			"img_from_spell_id": 123
 		},
 		"EFF_SPORES": {
 			"id": 84,
 			"internal_name": "EFF_SPORES",
-			"name": "Spores",
-			"desc": "Releasing clouds of spores when hit,\n-Inflicts [Poison / Slow]",
+			"name": "Esporas",
+			"desc": "Libera nubes de esporas al recibir impacto,\n-Inflige [Veneno / Lentitud]",
 			"img_path": "",
 			"img_from_spell_id": 133,
 			"use_entry_for_sustained_spell": 133
@@ -1055,8 +1056,8 @@
 		"EFF_ABUNDANCE": {
 			"id": 85,
 			"internal_name": "EFF_ABUNDANCE",
-			"name": "Abundance",
-			"desc": "Food has a chance to not deplete upon consumption",
+			"name": "Abundancia",
+			"desc": "La comida tiene una chance de no consumirse al comerla",
 			"img_path": "",
 			"img_from_spell_id": 141,
 			"use_entry_for_sustained_spell": 141
@@ -1064,8 +1065,8 @@
 		"EFF_GREATER_ABUNDANCE": {
 			"id": 86,
 			"internal_name": "EFF_GREATER_ABUNDANCE",
-			"name": "Greater Abundance",
-			"desc": "Food and potions have a chance to not deplete upon consumption",
+			"name": "Gran Abundancia",
+			"desc": "La comida y las pociones tienen una chance de no consumirse al usarlas",
 			"img_path": "",
 			"img_from_spell_id": 142,
 			"use_entry_for_sustained_spell": 142
@@ -1073,8 +1074,8 @@
 		"EFF_PRESERVE": {
 			"id": 87,
 			"internal_name": "EFF_PRESERVE",
-			"name": "Preserve",
-			"desc": "Preventing equipment degradation at the cost of MP",
+			"name": "Preservar",
+			"desc": "Evita la degradación de equipo a costa de PM",
 			"img_path": "",
 			"img_from_spell_id": 143,
 			"use_entry_for_sustained_spell": 143
@@ -1082,8 +1083,8 @@
 		"EFF_MIST_FORM": {
 			"id": 88,
 			"internal_name": "EFF_MIST_FORM",
-			"name": "Mist Form",
-			"desc": "Evading attacks at the cost of MP.",
+			"name": "Forma Gaseosa",
+			"desc": "Evade ataques a costa de PM.",
 			"img_path": "",
 			"img_from_spell_id": 147,
 			"use_entry_for_sustained_spell": 147
@@ -1091,8 +1092,8 @@
 		"EFF_FORCE_SHIELD": {
 			"id": 89,
 			"internal_name": "EFF_FORCE_SHIELD",
-			"name": "Kinetic Shield",
-			"desc": "Adds AC to Off-Hand items",
+			"name": "Escudo Cinético",
+			"desc": "Añade CA a objetos en mano no hábil",
 			"img_path": "",
 			"img_from_spell_id": 149,
 			"use_entry_for_sustained_spell": 149
@@ -1100,8 +1101,8 @@
 		"EFF_LIGHTEN_LOAD": {
 			"id": 90,
 			"internal_name": "EFF_LIGHTEN_LOAD",
-			"name": "Lighten Load",
-			"desc": "Reduced the SPD penalty of inventory WGT",
+			"name": "Carga Reducida",
+			"desc": "Reduce la penalización de VEL del PESO del inventario",
 			"img_path": "",
 			"img_from_spell_id": 152,
 			"use_entry_for_sustained_spell": 152
@@ -1109,8 +1110,8 @@
 		"EFF_ATTRACT_ITEMS": {
 			"id": 91,
 			"internal_name": "EFF_ATTRACT_ITEMS",
-			"name": "Attract",
-			"desc": "Levitates and draws in nearby items.",
+			"name": "Atraer",
+			"desc": "Hace levitar y atrae objetos cercanos.",
 			"img_path": "",
 			"img_from_spell_id": 153,
 			"use_entry_for_sustained_spell": 153
@@ -1118,8 +1119,8 @@
 		"EFF_RETURN_ITEM": {
 			"id": 92,
 			"internal_name": "EFF_RETURN_ITEM",
-			"name": "Return",
-			"desc": "Thrown weapons return from the floor at the cost of MP.",
+			"name": "Retorno",
+			"desc": "Las armas arrojadas vuelven del suelo a costa de PM.",
 			"img_path": "",
 			"img_from_spell_id": 154,
 			"use_entry_for_sustained_spell": 154
@@ -1127,8 +1128,8 @@
 		"EFF_DEMESNE_DOOR": {
 			"id": 93,
 			"internal_name": "EFF_DEMESNE_DOOR",
-			"name": "Demesne Door",
-			"desc": "+AC\n+ATK\n+PWR",
+			"name": "Umbral del Dominio",
+			"desc": "+CA\n+ATQ\n+PDR",
 			"img_path": "",
 			"img_from_spell_id": 159,
 			"use_entry_for_sustained_spell": 159
@@ -1137,7 +1138,7 @@
 			"id": 94,
 			"internal_name": "EFF_REFLECTOR_SHIELD",
 			"name": "Reflector",
-			"desc": "Off-Hand items reflect magic projectiles while defending.",
+			"desc": "Los objetos en mano no hábil reflejan proyectiles mágicos al defender.",
 			"img_path": "",
 			"img_from_spell_id": 150,
 			"use_entry_for_sustained_spell": 150
@@ -1145,8 +1146,8 @@
 		"EFF_DIZZY": {
 			"id": 95,
 			"internal_name": "EFF_DIZZY",
-			"name": "Dizzy",
-			"desc": "Spinning uncontrollably",
+			"name": "Mareo",
+			"desc": "Girando sin control",
 			"img_path": "",
 			"img_from_spell_id": 150,
 			"use_entry_for_sustained_spell": 150
@@ -1154,8 +1155,8 @@
 		"EFF_SPIN": {
 			"id": 96,
 			"internal_name": "EFF_SPIN",
-			"name": "Spin",
-			"desc": "Forcing you to turn the opposite direction.",
+			"name": "Giro",
+			"desc": "Te obliga a girar en dirección opuesta.",
 			"img_path": "",
 			"img_from_spell_id": 150,
 			"use_entry_for_sustained_spell": 150
@@ -1163,8 +1164,8 @@
 		"EFF_CRITICAL_SPELL": {
 			"id": 97,
 			"internal_name": "EFF_CRITICAL_SPELL",
-			"name": "Critical Spell",
-			"desc": "Next spell cast remains prepared with reduced MP cost",
+			"name": "Conjuro Crítico",
+			"desc": "El próximo hechizo lanzado permanece preparado con costo de PM reducido",
 			"img_path": "",
 			"img_from_spell_id": 176,
 			"use_entry_for_sustained_spell": 176
@@ -1172,8 +1173,8 @@
 		"EFF_MAGIC_WELL": {
 			"id": 98,
 			"internal_name": "EFF_MAGIC_WELL",
-			"name": "Magic Well",
-			"desc": "Increases PWR for each MP spent during the effect duration.",
+			"name": "Pozo Mágico",
+			"desc": "Aumenta PDR por cada PM gastado durante la duración del efecto.",
 			"img_path": "",
 			"img_from_spell_id": 177,
 			"use_entry_for_sustained_spell": 177
@@ -1181,16 +1182,16 @@
 		"EFF_STATIC": {
 			"id": 99,
 			"internal_name": "EFF_STATIC",
-			"name": "Static",
-			"desc": "Taking increased damage from lightning elemental spells",
+			"name": "Estática",
+			"desc": "Recibe más daño de hechizos elementales de relámpago",
 			"img_path": "*images/ui/HUD/statusfx/static.png",
 			"img_from_spell_id": -1
 		},
 		"EFF_ABSORB_MAGIC": {
 			"id": 100,
 			"internal_name": "EFF_ABSORB_MAGIC",
-			"name": "Absorb Magic",
-			"desc": "Negates incoming magic projectiles\nEach negated spell increases PWR of the next spell cast",
+			"name": "Absorber Magia",
+			"desc": "Anula proyectiles mágicos entrantes\nCada hechizo anulado aumenta el PDR del próximo hechizo lanzado",
 			"img_path": "",
 			"img_from_spell_id": 155,
 			"use_entry_for_sustained_spell": 155
@@ -1198,8 +1199,8 @@
 		"EFF_FLAME_CLOAK": {
 			"id": 101,
 			"internal_name": "EFF_FLAME_CLOAK",
-			"name": "Flame Cloak",
-			"desc": "Nullifies [Burning] Damage\nCatches fire near flame sources\nIgnites enemies on contact",
+			"name": "Capa Ígnea",
+			"desc": "Anula el daño de [Quemadura]\nSe enciende cerca de fuentes de fuego\nIncinera a enemigos al contacto",
 			"img_path": "",
 			"img_from_spell_id": 175,
 			"use_entry_for_sustained_spell": 175
@@ -1207,8 +1208,8 @@
 		"EFF_DUSTED": {
 			"id": 102,
 			"internal_name": "EFF_DUSTED",
-			"name": "Dusted",
-			"desc": "More visible to enemies\n- Perception",
+			"name": "Desempolvado",
+			"desc": "Más visible para enemigos\n- Percepción",
 			"img_path": "",
 			"img_from_spell_id": 198
 		},
@@ -1224,68 +1225,68 @@
 		"EFF_RATION_SPICY": {
 			"id": 104,
 			"internal_name": "EFF_RATION_SPICY",
-			"name": "Ration (Spicy)",
-			"desc": "+4 Strength\n+4 Dexterity",
+			"name": "Ración (Picante)",
+			"desc": "+4 Fuerza\n+4 Destreza",
 			"img_path": "*images/ui/HUD/statusfx/Ration_spicy.png",
 			"img_from_spell_id": -1
 		},
 		"EFF_RATION_SOUR": {
 			"id": 105,
 			"internal_name": "EFF_RATION_SOUR",
-			"name": "Ration (Sour)",
-			"desc": "+4 Intelligence\n+25% Spell Power",
+			"name": "Ración (Ácida)",
+			"desc": "+4 Inteligencia\n+25% Poder de Hechizos",
 			"img_path": "*images/ui/HUD/statusfx/Ration_sour.png",
 			"img_from_spell_id": -1
 		},
 		"EFF_RATION_BITTER": {
 			"id": 106,
 			"internal_name": "EFF_RATION_BITTER",
-			"name": "Ration (Bitter)",
-			"desc": "+4 Constitution\n+4 Perception",
+			"name": "Ración (Amarga)",
+			"desc": "+4 Constitución\n+4 Percepción",
 			"img_path": "*images/ui/HUD/statusfx/Ration_bitter.png",
 			"img_from_spell_id": -1
 		},
 		"EFF_RATION_HEARTY": {
 			"id": 107,
 			"internal_name": "EFF_RATION_HEARTY",
-			"name": "Ration (Hearty)",
-			"desc": "+4 Strength\n+4 Constitution",
+			"name": "Ración (Sustanciosa)",
+			"desc": "+4 Fuerza\n+4 Constitución",
 			"img_path": "*images/ui/HUD/statusfx/Ration_hearty.png",
 			"img_from_spell_id": -1
 		},
 		"EFF_RATION_HERBAL": {
 			"id": 108,
 			"internal_name": "EFF_RATION_HERBAL",
-			"name": "Ration (Herbal)",
-			"desc": "+4 Charisma\n+20% Magic Resistance",
+			"name": "Ración (de Hierbas)",
+			"desc": "+4 Carisma\n+20% Resistencia Mágica",
 			"img_path": "*images/ui/HUD/statusfx/Ration_herbal.png",
 			"img_from_spell_id": -1
 		},
 		"EFF_RATION_SWEET": {
 			"id": 109,
 			"internal_name": "EFF_RATION_SWEET",
-			"name": "Ration (Sweet)",
-			"desc": "+1 [HP Regen]\n+1 [MP Regen]",
+			"name": "Ración (Dulce)",
+			"desc": "+1 [Regen. de PV]\n+1 [Regen. de PM]",
 			"img_path": "*images/ui/HUD/statusfx/Ration_sweet.png",
 			"img_from_spell_id": -1
 		},
 		"EFF_GROWTH": {
 			"id": 110,
 			"internal_name": "EFF_GROWTH",
-			"name": ["Growth (Tier I)", "Growth (Tier II)", "Growth (Tier III)"],
+			"name": ["Crecimiento (Grado I)", "Crecimiento (Grado II)", "Crecimiento (Grado III)"],
 			"desc": [
-				"Growth blooms on gaining LVLs and chance % when eating rotten food",
-				"Growth blooms on gaining LVLs and chance % when drinking water",
-				"Spores effect speed improved",
-				"Spores also triggers on receiving magic damage and ranged attacks",
-				"%+d AC / Poison DMG",
-				"%+d%% Physical Resistance",
-				"%+d%% PWR",
-				"%+d%% MP RGN",
-				"%+d%% Movement Speed",
-				"%+d%% Inflicted Poison speed",
-				"%+d%% Germinate Damage",
-				"%+d%% Fire Damage taken"
+				"El Crecimiento florece al ganar NVLs y con chance % al comer comida podrida",
+				"El Crecimiento florece al ganar NVLs y con chance % al beber agua",
+				"Velocidad del efecto de Esporas mejorada",
+				"Esporas también se activa al recibir daño mágico y ataques a distancia",
+				"%+d CA / DAÑO de Veneno",
+				"%+d%% Resistencia Física",
+				"%+d%% PDR",
+				"%+d%% Regen. de PM",
+				"%+d%% Velocidad de Movimiento",
+				"%+d%% Velocidad de Veneno Infligido",
+				"%+d%% Daño de Germinar",
+				"%+d%% Daño de Fuego recibido"
 			],
 			"img_path": "*images/ui/HUD/statusfx/growth_dryad_green.png",
 			"img_from_spell_id": -1,
@@ -1294,8 +1295,8 @@
 		"EFF_THORNS": {
 			"id": 111,
 			"internal_name": "EFF_THORNS",
-			"name": "Thorns",
-			"desc": "Retaliates against melee attackers",
+			"name": "Espinas",
+			"desc": "Contraataca a atacantes cuerpo a cuerpo",
 			"img_path": "",
 			"img_from_spell_id": 201,
 			"use_entry_for_sustained_spell": 201
@@ -1303,7 +1304,7 @@
 		"EFF_BLADEVINES": {
 			"id": 112,
 			"internal_name": "EFF_BLADEVINES",
-			"name": "Bladevines",
+			"name": "Liana Cortante",
 			"desc": "EFF_BLADEVINES",
 			"img_path": "",
 			"img_from_spell_id": 202,
@@ -1312,7 +1313,7 @@
 		"EFF_BASTION_MUSHROOM": {
 			"id": 113,
 			"internal_name": "EFF_BASTION_MUSHROOM",
-			"name": "Bastion Mycelium",
+			"name": "Micelio del Bastión",
 			"desc": "EFF_BASTION_MUSHROOM",
 			"img_path": "",
 			"img_from_spell_id": 203,
@@ -1321,8 +1322,8 @@
 		"EFF_BASTION_ROOTS": {
 			"id": 114,
 			"internal_name": "EFF_BASTION_ROOTS",
-			"name": "Bastion Roots",
-			"desc": ["Slowed", "Roots inherit Thorns and Bladevines", "PWR increase +10 per growth"],
+			"name": "Raíces del Bastión",
+			"desc": ["Ralentizado", "Las raíces heredan Espinas y Liana Cortante", "Aumento de PDR +10 por Crecimiento"],
 			"img_path": "",
 			"img_from_spell_id": 204,
 			"use_entry_for_sustained_spell": 204
@@ -1330,56 +1331,56 @@
 		"EFF_FOCI_LIGHT_PEACE": {
 			"id": 115,
 			"internal_name": "EFF_FOCI_LIGHT_PEACE",
-			"name": "Peace",
-			"desc": "HP restoring over time",
+			"name": "Paz",
+			"desc": "Restaura PV con el tiempo",
 			"img_path": "",
 			"img_from_spell_id": 210
 		},
 		"EFF_FOCI_LIGHT_JUSTICE": {
 			"id": 116,
 			"internal_name": "EFF_FOCI_LIGHT_JUSTICE",
-			"name": "Justice",
-			"desc": "Physical attacks deal additional Smite damage.",
+			"name": "Justicia",
+			"desc": "Los ataques físicos infligen daño de Castigo adicional.",
 			"img_path": "",
 			"img_from_spell_id": 211
 		},
 		"EFF_FOCI_LIGHT_PROVIDENCE": {
 			"id": 117,
 			"internal_name": "EFF_FOCI_LIGHT_PROVIDENCE",
-			"name": "Providence",
-			"desc": "Slows hunger",
+			"name": "Providencia",
+			"desc": "Ralentiza el hambre",
 			"img_path": "",
 			"img_from_spell_id": 212
 		},
 		"EFF_FOCI_LIGHT_PURITY": {
 			"id": 118,
 			"internal_name": "EFF_FOCI_LIGHT_PURITY",
-			"name": "Purity",
-			"desc": "Protects against harmful status effects.",
+			"name": "Pureza",
+			"desc": "Protege contra efectos de estado dañinos.",
 			"img_path": "",
 			"img_from_spell_id": 213
 		},
 		"EFF_FOCI_LIGHT_SANCTUARY": {
 			"id": 119,
 			"internal_name": "EFF_FOCI_LIGHT_SANCTUARY",
-			"name": "Sanctuary",
-			"desc": "Improves AC",
+			"name": "Santuario",
+			"desc": "Mejora CA",
 			"img_path": "",
 			"img_from_spell_id": 214
 		},
 		"EFF_STASIS": {
 			"id": 120,
 			"internal_name": "EFF_STASIS",
-			"name": "Void Stasis",
-			"desc": "Unable to move or act\nCannot be damaged",
+			"name": "Estasis del Vacío",
+			"desc": "Incapaz de moverse o actuar\nNo puede recibir daño",
 			"img_path": "",
 			"img_from_spell_id": 206
 		},
 		"EFF_HP_MP_REGEN": {
 			"id": 121,
 			"internal_name": "EFF_HP_MP_REGEN",
-			"name": "Nourished",
-			"desc": "Restoring HP/MP every 5s from eating blessed food\nEffect is lost on indigestion",
+			"name": "Plenitud",
+			"desc": "Restaura PV/PM cada 5s al comer comida bendita\nEl efecto se pierde con indigestión",
 			"img_path": "*images/ui/HUD/statusfx/nourished.png",
 			"img_from_spell_id": -1,
 			"tooltip_width": 260
@@ -1387,48 +1388,48 @@
 		"EFF_DISRUPTED": {
 			"id": 122,
 			"internal_name": "EFF_DISRUPTED",
-			"name": "Disrupted",
-			"desc": "Reduced movement and AC",
+			"name": "Desequilibrio",
+			"desc": "Movimiento y CA reducidos",
 			"img_path": "",
 			"img_from_spell_id": 180
 		},
 		"EFF_FROST": {
 			"id": 123,
 			"internal_name": "EFF_FROST",
-			"name": "Frostbitten",
-			"desc": "Reduced movement",
+			"name": "Congelación",
+			"desc": "Movimiento reducido",
 			"img_path": "",
 			"img_from_spell_id": 68
 		},
 		"EFF_MAGICIANS_ARMOR": {
 			"id": 124,
 			"internal_name": "EFF_MAGICIANS_ARMOR",
-			"name": "Magicians' Bubble",
-			"desc": "Intercepts all damage from enemies while charges remain.",
+			"name": "Burbuja del Mago",
+			"desc": "Intercepta todo el daño de enemigos mientras queden cargas.",
 			"img_path": "",
 			"img_from_spell_id": 216
 		},
 		"EFF_PROJECT_SPIRIT": {
 			"id": 125,
 			"internal_name": "EFF_PROJECT_SPIRIT",
-			"name": "Fowl Spirit",
-			"desc": "Inhabiting the the form of a ghostly duck",
+			"name": "Espíritu de Ave",
+			"desc": "Habita la forma de un pato espectral",
 			"img_path": "",
 			"img_from_spell_id": 217
 		},
 		"EFF_DEFY_FLESH": {
 			"id": 126,
 			"internal_name": "EFF_DEFY_FLESH",
-			"name": "Defy Flesh",
-			"desc": "Taking additional magic damage when hit",
+			"name": "Profanar Cuerpo",
+			"desc": "Recibe daño mágico adicional al recibir impactos",
 			"img_path": "",
 			"img_from_spell_id": 103
 		},
 		"EFF_PINPOINT_DAMAGE": {
 			"id": 127,
 			"internal_name": "EFF_PINPOINT_DAMAGE",
-			"name": "Pinpoint",
-			"desc": "Taking extra Smite damage when attacked by the caster.",
+			"name": "Localizar",
+			"desc": "Recibe daño de Castigo extra al ser atacado por quien lanzó el hechizo.",
 			"img_path": "",
 			"img_from_spell_id": 78,
 			"never_display": true
@@ -1436,12 +1437,12 @@
 		"EFF_RADIANT_HEART": {
 			"id": 128,
 			"internal_name": "EFF_RADIANT_HEART",
-			"name": ["Radiant Heart", "Radiant Heart", "Stone Heart", "Stone Heart"],
+			"name": ["Corazón Radiante", "Corazón Radiante", "Corazón Pétreo", "Corazón Pétreo"],
 			"desc": [
-			"Dissipates below 60% Fervor (FR)\nLevitation\n+PWR/-CON from CHR\n+25% Fire Resistance\nFR depleting over time", 
-			"Dissipates below 60% Fervor (FR)\n0 MP Spells\nBreathe Fire increased effects\nLevitation\n+PWR/-CON from CHR\n+25% Fire Resistance\nFR depleting over time", 
-			"Dissipates above 40% Fervor (FR)\n+STR/CON from CHR\n-DEX from CHR", 
-			"Dissipates above 40% Fervor (FR)\nImmune to Damage\n+STR/CON from CHR\n-DEX from CHR"],
+			"Se disipa por debajo del 60% de Fervor (FR)\nLevitación\n+PDR/-CON por CAR\n+25% Resistencia al Fuego\nFR se agota con el tiempo",
+			"Se disipa por debajo del 60% de Fervor (FR)\nHechizos con 0 PM\nEfectos de Respirar Fuego aumentados\nLevitación\n+PDR/-CON por CAR\n+25% Resistencia al Fuego\nFR se agota con el tiempo",
+			"Se disipa por encima del 40% de Fervor (FR)\n+FUE/CON por CAR\n-DES por CAR",
+			"Se disipa por encima del 40% de Fervor (FR)\nInmune al Daño\n+FUE/CON por CAR\n-DES por CAR"],
 			"img_path": ["*images/ui/HUD/statusfx/heart_radiant.png", "*images/ui/HUD/statusfx/heart_radiant_bonus.png", "*images/ui/HUD/statusfx/heart_stone.png", "*images/ui/HUD/statusfx/heart_stone_bonus.png"],
 			"img_from_spell_id": -1,
 			"tooltip_width": 300
@@ -1449,8 +1450,8 @@
 		"EFF_DIVINE_FIRE": {
 			"id": 129,
 			"internal_name": "EFF_DIVINE_FIRE",
-			"name": "Holy Fire",
-			"desc": "Damage taken is increased",
+			"name": "Fuego Sagrado",
+			"desc": "El daño recibido aumenta",
 			"img_path": "",
 			"img_from_spell_id": 219,
 			"tooltip_width": 260
@@ -1458,8 +1459,8 @@
 		"EFF_HEALING_WORD": {
 			"id": 130,
 			"internal_name": "EFF_HEALING_WORD",
-			"name": "Healing Word",
-			"desc": "Praying for healing\nEffect is lost on taking damage",
+			"name": "Palabra de Curación",
+			"desc": "Rezando para curarse\nEl efecto se pierde al recibir daño",
 			"img_path": "",
 			"img_from_spell_id": 220,
 			"tooltip_width": 260
@@ -1467,8 +1468,8 @@
 		"EFF_HOLY_FIRE": {
 			"id": 131,
 			"internal_name": "EFF_HOLY_FIRE",
-			"name": "Holy Fire",
-			"desc": "Burning from a supernatural fire source",
+			"name": "Fuego Sagrado",
+			"desc": "Arde por una fuente de fuego sobrenatural",
 			"img_path": "",
 			"img_from_spell_id": -1,
 			"tooltip_width": 260,
@@ -1477,8 +1478,8 @@
 		"EFF_SIGIL": {
 			"id": 132,
 			"internal_name": "EFF_SIGIL",
-			"name": "Sigil",
-			"desc": "Receiving additional healing\nFoes take additional Smite damage",
+			"name": "Gilfo",
+			"desc": "Recibe curación adicional\nLos enemigos reciben daño de Castigo adicional",
 			"img_path": "",
 			"img_from_spell_id": 222,
 			"tooltip_width": 260
@@ -1486,8 +1487,8 @@
 		"EFF_SANCTUARY": {
 			"id": 133,
 			"internal_name": "EFF_SANCTUARY",
-			"name": "Sanctuary",
-			"desc": "Damage Resistance increased per tier",
+			"name": "Santuario",
+			"desc": "La Resistencia al Daño aumenta por grado",
 			"img_path": "",
 			"img_from_spell_id": 223,
 			"tooltip_width": 260

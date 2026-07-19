@@ -498,7 +498,7 @@
             "name_unidentified": "grimorio"
         },
         "spellbook_dig": {
-            "name_identified": "grimorio de excavación",
+            "name_identified": "grimorio de excavar",
             "name_unidentified": "grimorio"
         },
         "gem_rock": {
@@ -890,15 +890,15 @@
             "name_unidentified": "alembique"
         },
         "potion_firestorm": {
-            "name_identified": "poción de tormenta de fuego",
+            "name_identified": "poción de incendio",
             "name_unidentified": "poción inestable"
         },
         "potion_icestorm": {
-            "name_identified": "poción de tormenta de hielo",
+            "name_identified": "poción de helaje",
             "name_unidentified": "poción inestable"
         },
         "potion_thunderstorm": {
-            "name_identified": "poción de tormenta eléctrica",
+            "name_identified": "poción de tempestad",
             "name_unidentified": "poción inestable"
         },
         "potion_strength": {
@@ -1062,7 +1062,7 @@
             "name_unidentified": "trampa"
         },
         "tool_freeze_bomb": {
-            "name_identified": "trampa de congelamiento",
+            "name_identified": "trampa de congelación",
             "name_unidentified": "trampa"
         },
         "tool_teleport_bomb": {
@@ -2038,7 +2038,7 @@
             "name_unidentified": "grimorio"
         },
         "spellbook_flame_cloak": {
-            "name_identified": "grimorio de capa ígneo",
+            "name_identified": "grimorio de capa ígnea",
             "name_unidentified": "grimorio"
         },
         "spellbook_lightning_bolt": {
