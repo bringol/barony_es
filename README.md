@@ -18,7 +18,7 @@ La traducción ofrece una instalación independiente de Steam para aquellas pers
 
 # Importante
 <p align="center">
-  <img src="https://github.com/bringol/barony_es/blob/main/preview.png?raw=true" width="5%"/>
+  <img src="https://github.com/bringol/barony_es/blob/main/img/preview.png?raw=true" width="5%"/>
 </p>
 
 </div>
