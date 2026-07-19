@@ -240,6 +240,7 @@ daedalus;dédalo
 damage;daño
 dash;brío
 deactivate;deactivar
+debuff;perjuicio
 decanting;decantar
 deceased;fallecido
 decent;decente
@@ -629,6 +630,7 @@ overcharge;sobrecarga
 pacified;pacificado
 paladin;paladín
 paralysis;parálisis
+parry;desvío
 peking;[PENDIENTE]
 penalty;penalidad
 penance;penitencia
