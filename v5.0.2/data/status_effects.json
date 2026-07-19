@@ -1007,7 +1007,7 @@
 		"EFF_DELAY_PAIN": {
 			"id": 79,
 			"internal_name": "EFF_DELAY_PAIN",
-			"name": "Inmortal",
+			"name": "Dolor Diferido",
 			"desc": "Retrasa el daño recibido",
 			"img_path": "",
 			"img_from_spell_id": 120
