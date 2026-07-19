@@ -660,9 +660,9 @@ potion of blindness;poción de ceguera
 potion of confusion;poción de confusión
 potion of cure ailment;poción de curar dolencia
 potion of extra healing;poción de gran curación
-potion of firestorm;poción de tormenta de fuego
+potion of firestorm;poción de incendio
 potion of healing;poción de curación
-potion of icestorm;poción de tormenta de hielo
+potion of icestorm;poción de helaje
 potion of invisibility;poción de invisibilidad
 potion of levitation;poción de levitación
 potion of paralysis;poción de parálisis
@@ -671,7 +671,7 @@ potion of restore magic;poción de restaurar magia
 potion of sickness;poción de enfermedad
 potion of speed;poción de velocidad
 potion of strength;poción de fuerza
-potion of thunderstorm;poción de tormenta eléctrica
+potion of thunderstorm;poción de tempestad
 preparation;preparativos
 preserve;preservar
 projectile;proyectil
@@ -1097,7 +1097,7 @@ undead;no muertos
 undead slain;no muertos asesinados
 undead within;no muertos dentro
 underworld;inframundo
-undying;inmortal
+undying;dolor diferido
 unidentified;inescrutable
 unknown effect;efecto desconocido
 unknown scroll;pergamino desconocido
@@ -1110,6 +1110,7 @@ vampiric curse;maldición vampírica
 vandal;vándalo
 vandalise;vandalizar
 vandalised;vandalizado
+void storage; arca del vacío
 vortex;vórtice
 wanderer;andariego
 wanderer ample food;sus abundantes provisiones
