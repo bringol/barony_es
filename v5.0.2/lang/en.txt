@@ -11,7 +11,7 @@
 1901 guerrero#
 1902 curandero#
 1903 pícaro#
-1904 vagabundo#
+1904 andariego#
 1905 clérigo#
 1906 comerciante#
 1907 mago#
