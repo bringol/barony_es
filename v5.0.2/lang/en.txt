@@ -6519,37 +6519,37 @@ Cada punto de Asistencia reduce
 la clasificación de puntuación final del partido.#
 6340 OBJETOS DE ASISTENCIA#
 6341 Fuiste asistido. (%d puntos)#
-6342 Objetos de asistencia#
+6342 Objetos de Ayuda#
 6343 Permite reclamar elementos del Santuario de asistencia del piso inicial para ajustar la dificultad.#
-6344 Habilitar elementos de asistencia#
-6345 Elementos de asistencia habilitados#
-6346 Los elementos de asistencia están deshabilitados#
-6347 Acepta hasta cuatro regalos para facilitarte
-la aventura que te espera.
+6344 Activar Ayudas#
+6345 Ayudas Activadas#
+6346 Ayudas Desactivadas
+6347 Lleva hasta cuatro regalos para
+facilitar la aventura que te espera.
 
-Los elementos de asistencia están deshabilitados en el juego
-Ajustes. Active la opción para
-utilizar elementos de asistencia.
-
-#
-6348 Acepta hasta cuatro regalos para facilitarte
-la aventura que te espera.
-
-Los elementos de asistencia están deshabilitados en el juego
-Ajustes. Enviar una solicitud a la
-Anfitrión para habilitar la configuración del juego.
+Las ayudas están desactivadas en
+Ajustes de partida. Activa la opción
+para usarlas.
 
 #
-6349 Solicitar artículos de asistencia#
-6350 Ver configuración del juego#
-6351 El santuario está actualmente en uso por otra persona.#
-6352 Ves un santuario de asistencia.#
-6353 santuario de asistencia#
-6354 Usar el santuario de asistencia#
-6355 Tu personaje ha cambiado para el próximo inicio del juego.
+6348 Lleva hasta cuatro regalos para facilitar
+la aventura que te espera.
+
+Las ayudas están desactivadas en Ajustes
+de partida. Solicita al anfitrión que
+active esta opción.
+
+#
+6349 Solicitar ayudas#
+6350 Ver ajustes de partida#
+6351 Alguien más está usando el santuario.#
+6352 Ves un santuario de ayuda.#
+6353 Santuario de ayuda#
+6354 Usar santuario de ayuda#
+6355 Tu personaje cambió para la próxima partida.
 (%s %s)#
-6356 Reclamas %d puntos de asistencia del santuario.#
-6357 %s reclama %d puntos de asistencia del santuario de asistencia.#
+6356 Obtienes %d puntos de ayuda del santuario.#
+6357 %s obtiene %d puntos de ayuda del santuario.#
 6358 dríade#
 6359 micónido#
 6360 salamandra#
