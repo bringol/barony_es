@@ -300,7 +300,7 @@
             "las escaramuzas. Alguien veloz puede",
             "mantenerse fuera del alcance enemigo,",
             "huir de trampas y esquivar proyectiles",
-            "lanzados por sus enemigos.",
+            "de contrincantes.",
             "",
             "¡Cuando necesites moverte con agilidad",
             "la DES es esencial!"
@@ -310,7 +310,7 @@
     "equipment degradation": {
         "blurb": [
             "Casi todos los objetos pueden degradarse",
-            "al usarse: al recibir golpes llevando",
+            "con el uso al recibir golpes llevando",
             "armadura, gastar una carga mágica o",
             "atacar con un arma. Al degradarse pueden",
             "rendir peor que los objetos impecables."
@@ -329,7 +329,7 @@
             "los más hábiles pueden remendar",
             "objetos a cambio de un costo.",
             "Los pergaminos de reparación, aunque",
-            "raros, son más fiables para casi todos."
+            "raros, suelen ser más fiables."
         ],
         "details_line_highlights": []
     },
@@ -347,11 +347,11 @@
             "aprovechando al máximo el daño",
             "de flanqueo adicional.",
             "",
-            "Si luchas solo, no esperes muchas",
-            "ocasiones para flanquear. Pero si vas",
+            "Luchando solo, no surgirán muchas",
+            "ocasiones para flanquear. Pero con",
             "con aliados o seguidores, ¡algún",
             "miembro del grupo puede beneficiarse",
-            "del flanqueo con mucha frecuencia!"
+            "del flanqueo con mayor frecuencia!"
         ],
         "details_line_highlights": []
     },
@@ -386,7 +386,7 @@
         ],
         "details": [
             "La INT mejora mucho la capacidad mágica",
-            "general, potencia REG y PDR, y",
+            "En general, potencia REG, PDR, y",
             "facilita aprender hechizos.",
             "",
             "Sin embargo, elegir objetos que aumenten",
@@ -398,10 +398,10 @@
     },
     "leadership skill": {
         "blurb": [
-            "Un aventurero sin entrenar puede reunir",
-            "cuatro seguidores, pero no podrá darles",
+            "Un aventurero inexperto podría reunir",
+            "cuatro seguidores, pero no podrá dar",
             "muchas órdenes. Los niveles altos de",
-            "HAB. LIDERAZGO dan acceso a muchas",
+            "LIDERAZGO otorgan acceso a múltiples",
             "órdenes útiles."
         ],
         "details": [
