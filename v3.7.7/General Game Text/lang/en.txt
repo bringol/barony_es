@@ -5487,8 +5487,8 @@ la partida "%s"?#
 5592 ¿Realmente quieres cargar
 la partida "%s"?#
 5593 P%d
-Piso%d#
-5594 Piso%d#
+Nvl-%d#
+5594 Nvl-%d#
 5595 Partidas compatibles no halladas.#
 5596 Solitario#
 5597 Host Online %dp (p1)#
