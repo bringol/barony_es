@@ -5064,7 +5064,7 @@ La siguente entrada que pulses se vinculará con esta acción.#
 5268 Activa la capacidad de activar trucos durante el juego.#
 
 5269 PUNTUACIÓN#
-5270 MARCADORES#
+5270 CLASIFICACIONES#
 5271 Aquí yace
 %s
 Descanse en paz#
@@ -5119,7 +5119,7 @@ Puntaje:#
 5304 PER#
 5305 CAR#
 5306 Sin puntaciones.#
-5307 Descargando puntuaciones...#
+5307 Descargando récords...#
 5308 Local
 Solitario#
 5309 Local
@@ -5530,9 +5530,9 @@ Piso%d#
 
 5610 ARCHIVOS DE AVENTURA#
 5611 LOGROS#
-5612 COMPEDIO DE LA MAZMORRA#
-5613 PUNTUACIONES#
-5614 MARCADORES#
+5612 COMPENDIO#
+5613 RÉCORDS#
+5614 CLASIFICACIONES#
 5615 HISTORIA INTRODUCTORIA#
 5616 CRÉDITOS#
 5617 VOLVER AL MENÚ#
@@ -5673,7 +5673,7 @@ te echo de este juego.#
 5760 Pulsa para iniciar#
 5761 VOLVER AL JUEGO#
 5762 ASIGNAR CONTROLES#
-5763 COMPEDIO DE LA MAZMORRA#
+5763 COMPENDIO#
 5764 LOGROS#
 5765 CONFIGURACIONES#
 5766 DESVIVIR#
@@ -6218,7 +6218,7 @@ Chequear que el DLC se instaló correctamente y reinicia el juego para intentar 
 6107 EXP#
 6108 Aún no posees ninguna 
 entrada en esta tabla como 
-para ver puntuaciones.#
+para ver récords.#
 6109 Nota: Este reto acabará pronto
 Terminar antes del tiempo límite
 para lograr clasificar.#
