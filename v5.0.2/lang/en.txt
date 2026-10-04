@@ -5886,10 +5886,10 @@ llamada '%s'#
 5896 Descripción#
 5897 ACTUALIZAR MOD DE WORKSHOP#
 5898 NUEVO MOD DE WORKSHOP#
-5899 Cargar una carpeta dentro del directorio /mods/ para tu mod.
-Los archivos/etiquetas se pueden cambiar en este menú después de la creación.#
-5900 Enviar una actualización cambia la versión del juego etiquetada.
-Elegir una nueva carpeta o cambiar las etiquetas es opcional.#
+5899 Sube una carpeta de /mods/ para tu mod.
+Luego podrás cambiar archivos y etiquetas.#
+5900 Actualizar cambia la versión del juego.
+Cambiar carpeta o etiquetas es opcional.#
 5901 Carpeta a Cargar:#
 5902 Carpeta no elegida#
 5903 Elige...#
@@ -5898,7 +5898,8 @@ debe ser "mods".#
 5905 Error: No se pudo abrir carpeta:#
 5906 Título:#
 5907 Editar...#
-5908 Esto se puede editar después dentro de la página del Workshop de Steam después de la creación.#
+5908 Podrás editarlo luego con más espacio
+desde la página de Steam Workshop.#
 5909 Pon un título para el objeto#
 5910 Confirmar#
 5911 Cancelar#
@@ -6414,7 +6415,7 @@ Magia Requerida: %d (%s)#
 6244 ¡%s está rociado con grasa!#
 6245 ¡Tus manos se vuelven resbaladizas!#
 6246 ¡Tu escudo se desliza entre tus dedos!#
-6247 ORDENAR POR BLOQUEADO PRIMERO#
+6247 ORDENAR POR BLOQUEADO#
 6248 ¡Salta un %s!#
 6249 ¡Fallo!#
 6250 ESTADÍSTICAS (HARDCORE)#
@@ -7078,19 +7079,19 @@ no se puede utilizar para recargar.#
 6865 La guardia sobre tu espíritu se desvanece.#
 6866 Tu guardia divina se desvanece.#
 6867 Tu amuleto brilla con un color rojo tenue.#
-6868 No tienes nada más que aprender comerciando con este comerciante.#
+6868 No tienes nada más que aprender comerciando con este vendedor.#
 6869 ¡El pato se escapa de tu mochila!#
-6870 Pistas de fondo de instrumentos#
-6871 Permita que las pistas de música de instrumentos continúen mientras sus efectos estén activos pero no se reproduzcan activamente.#
-6872 Pistas de primer plano del instrumento#
-6873 Descripción de Pistas en primer plano del instrumento#
+6870 Pistas instrumentales de fondo#
+6871 Permita que las pistas de música instrumental continúen mientras sus efectos estén activos pero no se reproduzcan activamente.#
+6872 Pistas instrumentales de primer plano#
+6873 Descripción de pistas instrumentales en primer plano#
 6874 ¡Proyectas tu espíritu!#
 6875 Tu espíritu se reúne con tu cuerpo.#
 6876 Tu proyección espiritual comienza a desvanecerse...#
 6877 Perfil#
 6878 Cuac#
 6879 Volver#
-6880 Selección de actualización de teclas de la barra de acceso rápido#
+6880 Seleccionar teclas de la barra de acceso rápido#
 6881 Permita que la ranura de la barra de acceso rápido resaltada cambie cuando use las teclas de ranura individuales para activar la barra de acceso rápido.#
 6882 ¡La podredumbre te vigoriza!#
 6883 ¡Te deshaces de tu follaje ardiente!#
