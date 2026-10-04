@@ -6337,8 +6337,8 @@ Semilla para participar.#
 6171 Desbloquea el Logro:
 "%s"
 para jugar esta clase.#
-6172 Magia requerida: %d (%s)#
-
+6172 
+Magia Requerida: %d (%s)#
 6173 Piso de Mazmorra:#
 6174 Habitantes#
 6175 Objetos#
