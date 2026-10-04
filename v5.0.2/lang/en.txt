@@ -6346,8 +6346,8 @@ Magia Requerida: %d (%s)#
 6176 Magia#
 6177 Mundo#
 6178 Códice#
-6179 ENTRADA ANT.: #
-6180 ENTRADA SIG.: #
+6179 ENTRADA ANTERIOR: #
+6180 ENTRADA SIGUIENTE: #
 6181 %d de %d#
 6182 CONTENIDO#
 6183 ¡Nueva entrada!#
@@ -6362,7 +6362,7 @@ Magia Requerida: %d (%s)#
 6192 HABILIDADES:#
 6193 INVENTARIO:#
 6194 PTS. DE HISTORIA DISP.#
-6195 ORDEN ALFABÉTICO#
+6195 ORDENAR POR ALFABETO#
 6196 OCULTAR NO HALLADOS#
 6197 ATQ:#
 6198 PDR:#
@@ -6415,7 +6415,7 @@ Magia Requerida: %d (%s)#
 6244 ¡%s está rociado con grasa!#
 6245 ¡Tus manos se vuelven resbaladizas!#
 6246 ¡Tu escudo se desliza entre tus dedos!#
-6247 ORDENAR POR BLOQUEADO#
+6247 BLOQUEADOS PRIMERO##
 6248 ¡Salta un %s!#
 6249 ¡Fallo!#
 6250 ESTADÍSTICAS (HARDCORE)#
