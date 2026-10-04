@@ -265,7 +265,7 @@
     },
     {
       "RUNS_COLLECTED": {
-        "default": "Partidas Recopiladas:",
+        "default": "Veces Obtenido:",
 		"spells": "Hechizo Aprendido:",
 		"format": "%d Partidas"
       }
