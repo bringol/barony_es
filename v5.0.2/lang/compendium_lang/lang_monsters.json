@@ -1,52 +1,52 @@
 {
     "algernon": {
         "blurb": [
-            "Due to sparse food, dungeon life isn't easy",
-            "for rats. However, sometimes a large food",
-            "source will cause a boom in the population.",
+            "La comida escasea en las mazmorras y",
+            "las ratas sufren. Pero a veces una gran",
+            "fuente de alimento dispara su población.",
             "",
-            "In such times, a very smart rat",
-            "emerges as the king."
+            "En esos momentos, una rata muy astuta",
+            "se alza como rey."
         ],
         "abilities": [],
         "inventory": [
-            "- Emeralds",
-            "- Meat, Cheese"
+            "- Esmeraldas",
+            "- Carne, Queso"
         ]
     },
     "artemisia": {
         "blurb": [
-            "Banished to the Underworld for betraying",
-            "her fellow Eternals, ARTEMISIA uses her",
-            "ghostly abilities to be an even more",
-            "wily hunter.",
-            "Even death could not pry the",
-            "magic bow from her grasp."
+            "Desterrada al Inframundo por traicionar",
+            "a los demás Eternos, ARTEMISA usa sus",
+            "dones espectrales para ser una cazadora",
+            "aún más astuta.",
+            "Ni la muerte pudo arrebatarle",
+            "el arco mágico de las manos."
         ],
         "abilities": [
-            "- Mimic Other",
-            "- Levitation",
-            "- Teleportation",
-            "- Indominable"
+            "- Imitar a Otro",
+            "- Levitación",
+            "- Teletransporte",
+            "- Indomable"
         ],
         "inventory": [
             "- Khryselakatos",
-            "- Quivers of Silver Ammo",
-            "- Spooky Masks"
+            "- Carcajes de Flechas de Plata",
+            "- Máscaras Espeluznantes"
         ]
     },
     "automaton": {
         "blurb": [
-            "A construct devised by the Magicians' Guild,",
-            "magic and technology have given the",
-            "AUTOMATON the gift of life as a servant.",
+            "Ideado por el Gremio de Magos,",
+            "el AUTÓMATA recibió vida mediante",
+            "magia y tecnología para servir.",
             "",
-            "They have only been known to",
-            "become violent when commanded."
+            "Solo se sabe que se vuelven",
+            "violentos cuando se les ordena."
         ],
         "abilities": [
-            "- Salvage",
-            "- Self Destruct"
+            "- Reciclar",
+            "- Autodestrucción"
         ],
         "inventory": [
             ""
@@ -54,166 +54,166 @@
     },
     "baratheon": {
         "blurb": [
-            "Fathered by wrath, this dark spirit",
-            "seeks those with ambitious purpose.",
+            "Nacido de la ira, este espíritu oscuro",
+            "busca a quienes tienen fines ambiciosos.",
             "",
-            "BARATHEON cares not for its own future,",
-            "existing only to keep heroes from their",
-            "great destinies."
+            "A BARATHEON no le importa su futuro;",
+            "solo existe para impedir que los héroes",
+            "alcancen sus grandes destinos."
         ],
         "abilities": [
-            "- Mimic Other",
-            "- Levitation",
-            "- Teleportation",
-            "- Indominable"
+            "- Imitar a Otro",
+            "- Levitación",
+            "- Teletransporte",
+            "- Indomable"
         ],
         "inventory": [
-            "- Phantom Masks",
-            "- Spooky Masks"
+            "- Máscaras Fantasmales",
+            "- Máscaras Espeluznantes"
         ]
     },
     "bat": {
         "blurb": [
-            "Wild blood-sucking bats recently",
-            "infested the Hamlet mines.",
-            "Though small, wild flapping makes BATS",
-            "a hard target for even the most skilled",
-            "adventurers. Expect more than half of",
-            "attacks to miss these dungeon pests!"
+            "Murciélagos salvajes hematófagos",
+            "infestaron hace poco las minas de Hamlet.",
+            "Aunque pequeños, el aleteo errático de los",
+            "MURCIÉLAGOS dificulta acertarles incluso",
+            "con gran destreza. ¡Más de la mitad de",
+            "los ataques contra estas plagas fallarán!"
         ],
         "abilities": [
-            "- Levitation",
-            "- Evasion",
-            "- Bleeding Attacks",
-            "- Indominable"
+            "- Levitación",
+            "- Evasión",
+            "- Ataques Sangrantes",
+            "- Indomable"
         ],
         "inventory": []
     },
     "bram kindly": {
         "blurb": [
-            "The enigmatic master of the Hunters' Guild,",
-            "BRAM KINDLY is said to have disappeared",
-            "while investigating the surge of undead.",
+            "Dicen que BRAM KINDLY, enigmático maestro",
+            "del Gremio de Cazadores, desapareció al",
+            "investigar el auge de los no muertos.",
             "",
-            "It appears he found exactly",
-            "what he was looking for."
+            "Parece que encontró exactamente",
+            "lo que buscaba."
         ],
         "abilities": [
-            "- Drain Soul",
-            "- Vampiric Aura",
-            "- Indominable"
+            "- Drenar Alma",
+            "- Aura Vampírica",
+            "- Indomable"
         ],
         "inventory": [
-            "- Wraith's Gown",
-            "- Magicstaffs of Bleed",
-            "- Vampire Doublet"
+            "- Manto del Espectro",
+            "- Bastones de Sangría",
+            "- Jubón de Vampiro"
         ]
     },
     "bram succubi": {
         "blurb": [
-            "Beings of immense power tend to attract",
-            "followers. Verona, Aleera & Marishka",
-            "pledged themselves to a mighty vampire.",
+            "Los seres de gran poder atraen adeptos.",
+            "Verona, Aleera y Marishka juraron",
+            "lealtad a un poderoso vampiro.",
             "",
-            "He gladly tutored them in vampiric magics",
-            "inside his grim castle."
+            "Él les enseñó con gusto magia vampírica",
+            "dentro de su lúgubre castillo."
         ],
         "abilities": [
-            "- Charm Monster",
-            "- Teleportation"
+            "- Encantar Monstruo",
+            "- Teletransporte"
         ],
         "inventory": [
-            "- Spellbooks of Bloodletting",
-            "- Magicstaffs of Charm Monster",
-            "- Masquerade Masks"
+            "- Grimorios de Sangría",
+            "- Bastones de Encantar Monstruo",
+            "- Máscaras de Carnaval"
         ]
     },
     "bubbles": {
         "blurb": [
-            "Those who have survived BUBBLES claim that",
-            "she isn't a crab at all. Rather, she is",
-            "a demonic spirit taking a crab's shape.",
+            "Quienes sobrevivieron a BURBUJAS afirman",
+            "que no es un cangrejo, sino un espíritu",
+            "demoníaco que adopta esa forma.",
             "",
-            "She carries with her the",
-            "treasure from her victims."
+            "Lleva consigo los tesoros",
+            "de sus víctimas."
         ],
         "abilities": [
-            "- Poisoned Attacks",
-            "- Spray Web"
+            "- Ataques Venenosos",
+            "- Enmarañar"
         ],
         "inventory": [
             "- Dyrnwyn",
-            "- Ring of Invisibility"
+            "- Anillo de Invisibilidad"
         ]
     },
     "bugbear": {
         "blurb": [
-            "These dumb bullies fail to organize",
-            "large-scale war against surface humans.",
-            "Nevertheless, they do build coalitions",
-            "of brutal raiders, and seize settlements.",
-            "BUGBEARS often use ruins for homes, and",
-            "recently set up camp underneath Hamlet."
+            "Estos torpes abusones no logran organizar",
+            "grandes guerras contra los humanos de",
+            "la superficie, pero sí forman hordas",
+            "de crueles saqueadores y toman poblados.",
+            "Los OSGOS viven en ruinas y hace poco",
+            "acamparon bajo Hamlet."
         ],
         "abilities": [
-            "- Strafing",
-            "- Shield Bash"
+            "- Paso Lateral",
+            "- Escudazo"
         ],
         "inventory": [
-            "- Steel Swords/Axes",
-            "- Arbalests",
+            "- Espadas/Hachas de Acero",
+            "- Arbalestas",
             "- Scutums"
         ]
     },
     "cockatrice": {
         "blurb": [
-            "A creature long thought to be extinct, ",
-            "the COCKATRICE is a powerful flying beast.",
+            "Creída extinta desde hace mucho,",
+            "la COCATRIZ es una poderosa bestia alada.",
             "",
-            "Its razor sharp talons make quick work of",
-            "any prey it paralyzes with its breath.",
-            "Its feathers are thought to be magical."
+            "Sus afiladas garras destrozan a las presas",
+            "que paraliza con su aliento.",
+            "Se cree que sus plumas son mágicas."
         ],
         "abilities": [
-            "- Stoneblood",
-            "- Levitation",
-            "- Double Strike"
+            "- Sangre Pétrea",
+            "- Levitación",
+            "- Golpe Doble"
         ],
         "inventory": [
-            "- Enchanted Feathers",
-            "- Spellbook of Stoneblood",
-            "- Gemstones",
-            "- Potions"
+            "- Plumas Encantadas",
+            "- Grimorio de Sangre Pétrea",
+            "- Piedras Preciosas",
+            "- Pociones"
         ]
     },
     "coral grimes": {
         "blurb": [
-            "Ghoul hunter CORAL GRIMES and his posse",
-            "rose to fame, but sextons warn that the",
-            "dead keep their compulsions from life.",
+            "CORAL GRIMES, cazador de necrófagos, y",
+            "su grupo ganaron fama, pero los sacristanes",
+            "dicen que los muertos conservan sus hábitos.",
             "",
-            "Once GRIMES' party was killed, all",
-            "prayed he would not again rise."
+            "Tras la muerte del grupo de GRIMES, todos",
+            "rezaron para que él no se alzara de nuevo."
         ],
         "abilities": [],
         "inventory": [
-            "- Bounty Hunter Hat",
-            "- Ruby",
-            "- Meat"
+            "- Sombrero de Cazarecompensas",
+            "- Rubí",
+            "- Carne"
         ]
     },
     "crab": {
         "blurb": [
-            "Giant dungeon CRABS",
-            "are patient hunters.",
+            "Los CANGREJOS gigantes de las mazmorras",
+            "son cazadores pacientes.",
             "",
-            "Their slow metabolism and poison claws",
-            "make them well suited to waiting for prey",
-            "to ambush, eviscerate, and devour."
+            "Su metabolismo lento y pinzas venenosas",
+            "les permiten esperar a sus presas para",
+            "emboscarlas, destriparlas y devorarlas."
         ],
         "abilities": [
-            "- Poisoned Attacks",
-            "- Spray Web"
+            "- Ataques Venenosos",
+            "- Enmarañar"
         ],
         "inventory": [
             ""
@@ -221,32 +221,32 @@
     },
     "crystalgolem": {
         "blurb": [
-            "The bigger brother of the automaton,",
-            "the CRYSTAL GOLEM has emerged from",
-            "an excess of magic material and will.",
+            "El hermano mayor del autómata,",
+            "el GÓLEM DE CRISTAL, nació de un exceso",
+            "de material mágico y voluntad.",
             "",
-            "When it raises its arms, it's",
-            "best to be somewhere else."
+            "Cuando levanta los brazos,",
+            "es mejor estar en otro sitio."
         ],
         "abilities": [
-            "- Power Strike"
+            "- Impacto Poderoso"
         ],
         "inventory": [
-            "- Crystal equipment",
-            "- Gemstones"
+            "- Equipo de cristal",
+            "- Piedras Preciosas"
         ]
     },
     "demon": {
         "blurb": [
-            "Said to be a manifestation of primal",
-            "violence, DEMONS are found near",
-            "the greatest sources of evil. ",
+            "Se dice que encarnan la violencia",
+            "primordial. Los DEMONIOS habitan cerca",
+            "de las mayores fuentes del mal.",
             "",
-            "They eviscerate enemies with their claws,",
-            "or roast victims with hellfire first."
+            "Destripan a sus enemigos con sus garras",
+            "o los asan antes con fuego infernal."
         ],
         "abilities": [
-            "- Fireball"
+            "- Bola de Fuego"
         ],
         "inventory": [
             ""
@@ -254,15 +254,15 @@
     },
     "deudebreau": {
         "blurb": [
-            "As foul as demons are, those who climb the",
-            "demonic ranks are fouler still.",
+            "Por viles que sean los demonios, quienes",
+            "ascienden en sus filas son aún peores.",
             "",
-            "Founder of a vicious fraternity,",
-            "DEU DE'BREAU is always accompanied by an",
-            "entourage of demonic sycophants."
+            "Fundador de una hermandad perversa,",
+            "DEU DE'BREAU siempre va acompañado",
+            "de un séquito de aduladores demoníacos."
         ],
         "abilities": [
-            "- Fireball"
+            "- Bola de Fuego"
         ],
         "inventory": [
             ""
@@ -270,21 +270,21 @@
     },
     "devil": {
         "blurb": [
-            "The devil BAPHOMET commands the",
-            "surrounding hells to his will, using",
-            "minions, magic, and brimstone.",
+            "El diablo BAPHOMET somete a su voluntad",
+            "los infiernos circundantes con esbirros,",
+            "magia y azufre.",
             "",
-            "He will not permit interlopers",
-            "to quell his ambitions."
+            "No permitirá que ningún intruso",
+            "frustre sus ambiciones."
         ],
         "abilities": [
-            "- Fireball Spray",
-            "- Conjure Hellspawn",
-            "- Conjure Shadows",
-            "- Hail of Boulders",
-            "- Indominable",
-            "- Telepathy",
-            "- Lava Portal"
+            "- Ráfaga de Bolas de Fuego",
+            "- Invocar Engendros Infernales",
+            "- Invocar Sombras",
+            "- Lluvia de Pedruscos",
+            "- Indomable",
+            "- Telepatía",
+            "- Portal de Lava"
         ],
         "inventory": [
             ""
@@ -292,13 +292,13 @@
     },
     "dummybot": {
         "blurb": [
-            "The DUMMYBOT is extraordinarily durable.",
-            "With proper maintenance, your shielded",
-            "companion(s) can serve as a powerful",
-            "guardian while you attend to business!"
+            "El TÍTERE es extraordinariamente duradero.",
+            "¡Con buen mantenimiento, tus compañeros",
+            "con escudo serán poderosos guardianes",
+            "mientras te ocupas de tus asuntos!"
         ],
         "abilities": [
-            "- Taunt"
+            "- Provocar"
         ],
         "inventory": [
             ""
@@ -306,193 +306,193 @@
     },
     "enslaved ghoul": {
         "blurb": [
-            "Those ENSLAVED at death possess a",
-            "supernatural hunger, fueled by hatred",
-            "for their master.",
+            "Quienes mueren ESCLAVIZADOS poseen",
+            "un hambre sobrenatural, alimentada por",
+            "el odio hacia su amo.",
             "",
-            "Consuming the living invigorates them, and",
-            "they move with ferocious speed."
+            "Devorar a los vivos los vigoriza, y",
+            "se mueven con una rapidez feroz."
         ],
         "abilities": [
-            "- Vampiric Aura"
+            "- Aura Vampírica"
         ],
         "inventory": [
-            "- Meat",
-            "- Miscellaneous tools",
-            "- Blessed Water"
+            "- Carne",
+            "- Herramientas variadas",
+            "- Agua Celestial"
         ]
     },
     "funny bones": {
         "blurb": [
-            "An especially cruel mercenary captain",
-            "was in charge of mine security and",
-            "slave discipline in the mines.",
+            "Un capitán mercenario de crueldad extrema",
+            "estaba a cargo de la seguridad de las",
+            "minas y de disciplinar a los esclavos.",
             "",
-            "With fine gear and a stern demeanor,",
-            "he earned himself an ironic nickname."
+            "Su buen equipo y su semblante severo",
+            "le valieron un apodo irónico."
         ],
         "abilities": [],
         "inventory": [
             "- Parashu",
-            "- Cloak of Protection",
-            "- Eyepatch",
-            "- Leather, Wooden, Iron shields/",
-            "    helmets"
+            "- Capa de Protección",
+            "- Parche para Ojos",
+            "- Escudos/Cascos de cuero, madera,",
+            "    hierro"
         ]
     },
     "gharbad": {
         "blurb": [
-            "Rarely a goatman lives long enough for its",
-            "fur to turn silver, and only somewhat less",
-            "rarely, one is born naturally that way.",
+            "Pocos faunos viven hasta que su pelaje",
+            "se vuelve plateado, y solo es un poco",
+            "menos raro que nazcan así.",
             "",
-            "Whether earned or not, these lucky ones",
-            "attract loyal followers."
+            "Sea merecido o no, estos afortunados",
+            "atraen a seguidores leales."
         ],
         "abilities": [],
         "inventory": [
-            "- Iron, Steel, Crystal armor",
-            "- Steel, Crystal Axes/Maces",
-            "- Crystal Shurikens",
-            "- Steel Chakrams",
-            "- Potions of Healing",
-            "- Bottles of Booze"
+            "- Armaduras de hierro, acero, cristal",
+            "- Hachas/Mazas de Acero, Cristal",
+            "- Shurikens de Cristal",
+            "- Chakrams de Acero",
+            "- Pociones de Curación",
+            "- Botellas de Licor"
         ]
     },
     "ghost": {
         "blurb": [
-            "The Hamlet curse enables a bonded group",
-            "of adventurers to be together in spirit",
-            "after death, literally.",
+            "La maldición de Hamlet permite que los",
+            "grupos aventureros unidos sigan juntos",
+            "en espíritu tras morir, literalmente.",
             "",
-            "With persistence, ambient necromancy may",
-            "cause a body to rematerialize."
+            "Con constancia, la nigromancia ambiental",
+            "puede rematerializar un cuerpo."
         ],
         "abilities": [
-            "- Sneak",
-            "- Push",
-            "- Haunt",
-            "- Chill",
-            "- Callout",
-            "- Levitation"
+            "- Escabullir",
+            "- Empuje",
+            "- Embrujar",
+            "- Enfriar",
+            "- Llamado",
+            "- Levitación"
         ],
         "inventory": []
     },
     "ghoul": {
         "blurb": [
-            "With a primal hatred for the living, GHOULS",
-            "attack when their rest is disturbed.",
+            "Con un odio visceral hacia los vivos, los",
+            "NECRÓFAGOS atacan si perturban su reposo.",
             "",
-            "Nobody quite knows what turns a dead",
-            "person into a GHOUL, but some try to",
-            "prevent it with certain burial rites."
+            "Nadie sabe qué convierte a un muerto",
+            "en NECRÓFAGO, pero hay quienes intentan",
+            "evitarlo con ciertos ritos funerarios."
         ],
         "abilities": [],
         "inventory": [
-            "- Meat",
-            "- Miscellaneous tools",
-            "- Blessed Water"
+            "- Carne",
+            "- Herramientas variadas",
+            "- Agua Celestial"
         ]
     },
     "gnome": {
         "blurb": [
-            "GNOMES are known for their mischief, but ",
-            "those who become addicted to digging for",
-            "wealth are beyond hope.",
+            "Los GNOMOS son famosos por sus travesuras,",
+            "pero quienes se obsesionan con excavar",
+            "en busca de riquezas no tienen remedio.",
             "",
-            "One must take care when seeking to",
-            "plunder a gnome's food and riches."
+            "Ten cuidado si intentas saquear",
+            "la comida y las riquezas de un gnomo."
         ],
         "abilities": [],
         "inventory": [
-            "- Pickaxes",
-            "- Magicstaffs of Lightning",
-            "- Fish",
-            "- Pipes",
-            "- Lanterns",
-            "- Gemstones",
-            "- Enchanted Feathers"
+            "- Picos",
+            "- Bastones de Relámpago",
+            "- Pescado",
+            "- Pipas",
+            "- Linternas",
+            "- Piedras Preciosas",
+            "- Plumas Encantadas"
         ]
     },
     "gnome thief": {
         "blurb": [
-            "When gold-addicted gnomes have none",
-            "to mine, they organize to hunt for it.",
+            "Si los gnomos adictos al oro no encuentran",
+            "vetas, se organizan para conseguirlo.",
             "",
-            "Beware of GNOME THIEF ambushing parties",
-            "who use traps and weapons with deadly",
-            "skill."
+            "Cuidado con las emboscadas de los GNOMOS",
+            "LADRONES: manejan trampas y armas",
+            "con una destreza letal."
         ],
         "abilities": [
-            "- Lay Trap"
+            "- Colocar Trampa"
         ],
         "inventory": [
-            "- Steel Swords/Maces",
-            "- Shortbows/Crossbows and Quivers",
-            "- Bycockets (Thief Leader)",
-            "- Hood Of Whispers",
+            "- Espadas/Mazas de Acero",
+            "- Arcos Cortos/Ballestas y Carcajes",
+            "- Felucas (Líder Ladrón)",
+            "- Capucha de Susurros",
             "- Bandanas",
-            "- Bandit Masks",
-            "- Mouthknives",
-            "- Beartraps/Tinkered Traps",
-            "- Enchanted Feathers"
+            "- Máscaras de Bandido",
+            "- Caracuchillos",
+            "- Trampas de Mandíbula/Fabricadas",
+            "- Plumas Encantadas"
         ]
     },
     "goatman": {
         "blurb": [
-            "A tribal people from neighboring",
-            "mountains, GOATMEN are hardy,",
-            "dull-witted folk.",
-            "Their culture revolves around drink,",
-            "though they can be competent in",
-            "many skills when satiated."
+            "Pueblo tribal de las montañas vecinas,",
+            "los FAUNOS son resistentes",
+            "y poco inteligentes.",
+            "Su cultura gira en torno a la bebida,",
+            "aunque dominan muchas habilidades",
+            "cuando están saciados."
         ],
         "abilities": [],
         "inventory": [
-            "- Iron, Steel, Crystal armor",
-            "- Steel, Crystal Axes/Maces",
-            "- Miscellaneous magicstaffs",
-            "- Lanterns, Crystal Shards",
-            "- Mirror Shields",
-            "- Steel Chakrams",
-            "- Potions of Healing",
-            "- Bottles of Booze"
+            "- Armaduras de hierro, acero, cristal",
+            "- Hachas/Mazas de Acero, Cristal",
+            "- Bastones mágicos variados",
+            "- Linternas, Fragmentos de Cristal",
+            "- Escudos Espejo",
+            "- Chakrams de Acero",
+            "- Pociones de Curación",
+            "- Botellas de Licor"
         ]
     },
     "goblin": {
         "blurb": [
-            "Dungeon GOBLINS are similar to humans",
-            "but live in brutal, savage conditions.",
+            "Los TRASGOS de las mazmorras se parecen a",
+            "los humanos, pero viven en la brutalidad.",
             "",
-            "While highly resourceful, their minds have",
-            "atrophied, rendering many of them",
-            "dependent on raids against humans."
+            "Aunque son muy ingeniosos, sus mentes",
+            "se han atrofiado y muchos dependen",
+            "de las incursiones contra los humanos."
         ],
         "abilities": [],
         "inventory": [
-            "- Bronze, Iron Maces/Axes",
-            "- Shortbows and Quivers",
-            "- Magicstaffs of Fire",
-            "- Cloaks of Magic Reflection",
-            "- Grass Sprigs",
-            "- Leather, Bronze armor",
-            "- Cloaks",
-            "- Animal Hats",
-            "- Magus Headdresses"
+            "- Mazas/Hachas de Bronce, Hierro",
+            "- Arcos Cortos y Carcajes",
+            "- Bastones de Fuego",
+            "- Capas de Reflejo Mágico",
+            "- Ramilletes de Hierba Dulce",
+            "- Armaduras de cuero, bronce",
+            "- Capas",
+            "- Sombreros de Animales",
+            "- Escofiones de Maga"
         ]
     },
     "gyrobot": {
         "blurb": [
-            "While the airborne GYROBOT can avoid",
-            "most threats, some dangers are",
-            "too large to out-maneuver.",
-            "Curious GYROBOTS may unintentionally",
-            "trigger traps and cease function."
+            "Aunque el GIROBOT volador puede evitar",
+            "casi todas las amenazas, algunos peligros",
+            "son demasiado grandes para esquivarlos.",
+            "Los curiosos GIROBOTS pueden activar",
+            "trampas sin querer y dejar de funcionar."
         ],
         "abilities": [
-            "- Levitation",
-            "- Detection",
-            "- Light"
+            "- Levitación",
+            "- Detección",
+            "- Luz"
         ],
         "inventory": [
             ""
@@ -500,306 +500,306 @@
     },
     "human": {
         "blurb": [
-            "Hamlet commoners once hailed",
-            "from many nations to trade",
-            "and work together peaceably. ",
+            "La gente de Hamlet llegó de muchas",
+            "naciones para comerciar",
+            "y trabajar en paz.",
             "",
-            "With proper focus, HUMANS can become",
-            "adept in whatever they set their minds to."
+            "Con dedicación, los HUMANOS pueden",
+            "dominar todo lo que se propongan."
         ],
         "abilities": [],
         "inventory": [
-            "- Melee and ranged weaponry",
-            "- Leather, Bronze, Iron, Steel",
-            "armor"
+            "- Armas cuerpo a cuerpo y a distancia",
+            "- Armaduras de Cuero, Bronce, Hierro,",
+            "acero"
         ]
     },
     "imp": {
         "blurb": [
-            "Terrible mischief makers, IMPS wander",
-            "wherever they can inflict suffering.",
+            "Los traviesos y terribles DIABLILLOS vagan",
+            "por donde puedan causar sufrimiento.",
             "",
-            "Their wings and magical ability allow them",
-            "to devastate foes, often well out of reach,",
-            "cackling all the while."
+            "Sus alas y magia les permiten arrasar",
+            "a sus enemigos, a menudo fuera de su",
+            "alcance, mientras sueltan carcajadas."
         ],
         "abilities": [
-            "- Fireball",
-            "- Levitation"
+            "- Bola de Fuego",
+            "- Levitación"
         ],
         "inventory": [
-            "- Miscellaneous Spellbooks"
+            "- Grimorios Variados"
         ]
     },
     "incubus": {
         "blurb": [
-            "A curse of pride personified, the INCUBUS",
-            "obsesses over controlling others.",
+            "La maldición del orgullo hecha carne,",
+            "el ÍNCUBO se obsesiona con controlar a otros.",
             "",
-            "He uses spells and weapons to toy with his",
-            "victims, though some take a direct approach",
-            "in their quest for evil."
+            "Juega con sus víctimas con magia y armas,",
+            "aunque algunos toman un camino directo",
+            "en su búsqueda del mal."
         ],
         "abilities": [
-            "- Teleportation",
-            "- Steal Weapon"
+            "- Teletransporte",
+            "- Robar Arma"
         ],
         "inventory": [
-            "- Magicstaffs of Cold",
-            "- Crossbows",
-            "- Steel, Crystal polearms",
-            "- Bottles of Booze",
-            "- Potions of Confusion",
-            "- Masquerade Mask",
-            "- Mirror Shield"
+            "- Bastones de Frío",
+            "- Ballestas",
+            "- Armas de asta de acero, cristal",
+            "- Botellas de Licor",
+            "- Pociones de Confusión",
+            "- Máscara de Carnaval",
+            "- Escudo Espejo"
         ]
     },
     "insectoid": {
         "blurb": [
-            "Not much is known about the elusive bug",
-            "people who roam in remote places.",
+            "Poco se sabe del esquivo pueblo insecto",
+            "que deambula por lugares remotos.",
             "",
-            "Their skill and mysterious physiology give",
-            "them an edge on the battlefield, striking",
-            "fear into many humans."
+            "Su destreza y misteriosa fisiología",
+            "les dan ventaja en el campo de batalla",
+            "y siembran el miedo entre los humanos."
         ],
         "abilities": [
-            "- Spray Acid"
+            "- Rocío Ácido"
         ],
         "inventory": [
-            "- Iron, Steel, Crystal armor",
-            "- Steel, Crystal Swords/Polearms",
-            "- Shortbows/Longbows/Compound",
-            "    Bows",
-            "- Crossbows",
-            "- Iron Daggers"
+            "- Armaduras de hierro, acero, cristal",
+            "- Espadas/Armas de Asta de Acero, Cristal",
+            "- Arcos Cortos/Largos/",
+            "    Compuestos",
+            "- Ballestas",
+            "- Dagas de Hierro"
         ]
     },
     "kobold": {
         "blurb": [
-            "The KOBOLDS are small, scaly folk, and are",
-            "notorious cultists and bandits in the region.",
+            "Los KÓBOLDS son pequeños y escamosos,",
+            "célebres sectarios y bandidos de la región.",
             "",
-            "They have long been a problem for the",
-            "Magicians' Guild, thanks to their innate",
-            "magic resistance."
+            "Su resistencia mágica innata lleva mucho",
+            "tiempo causando problemas",
+            "al Gremio de Magos."
         ],
         "abilities": [
-            "- Slow"
+            "- Lentitud"
         ],
         "inventory": [
-            "- Iron, Steel melee/ranged",
-            "    weaponry",
-            "- Enchanted Feathers",
-            "- Tin Openers",
-            "- Towels"
+            "- Armas cuerpo a cuerpo/a distancia",
+            "    de Hierro, Acero",
+            "- Plumas Encantadas",
+            "- Abrelatas",
+            "- Toallas"
         ]
     },
     "lich": {
         "blurb": [
-            "BARON HERX's body is blackened in the",
-            "death of his flesh, but wields immense",
-            "magical power and a dark bond with Hell.",
+            "La carne muerta del BARÓN HERX ennegreció",
+            "su cuerpo, pero posee un inmenso poder",
+            "mágico y un oscuro vínculo con el Infierno.",
             "",
-            "Those going toe-to-toe with him must be",
-            "well prepared for his spells."
+            "Enfrentarse a él exige una buena",
+            "preparación contra sus hechizos."
         ],
         "abilities": [
-            "- Lightning Volley",
-            "- Conjure Hellspawn",
-            "- Command Darkness",
-            "- Levitation",
-            "- Indominable",
-            "- Dash"
+            "- Salva de Relámpagos",
+            "- Invocar Engendros Infernales",
+            "- Comandar la Oscuridad",
+            "- Levitación",
+            "- Indomable",
+            "- Brío"
         ],
         "inventory": [
-            "- Purple Mystic Orb",
-            "- Gold"
+            "- Orbe Místico Púrpura",
+            "- Oro"
         ]
     },
     "lichfire": {
         "blurb": [
-            "ORPHEUS uses his passion to fuel his magic",
-            "and likes to dominate his problems",
-            "face-to-face.",
+            "ORFEO alimenta su magia con su pasión",
+            "y prefiere resolver los problemas",
+            "cara a cara.",
             "",
-            "Big, powerful spells and intimidation",
-            "allow him to end things quickly."
+            "Los grandes hechizos y la intimidación",
+            "le permiten acabar las cosas rápido."
         ],
         "abilities": [
-            "- Fireball",
-            "- Telepathy",
-            "- Levitation",
-            "- Indominable",
-            "- Call Firestorm",
-            "- Teleport",
-            "- Blood Field"
+            "- Bola de Fuego",
+            "- Telepatía",
+            "- Levitación",
+            "- Indomable",
+            "- Invocar Tormenta de Fuego",
+            "- Teletransportar",
+            "- Campo Sanguíneo"
         ],
         "inventory": [
-            "- Crystal Sword",
-            "- Golden Mask"
+            "- Espada de Cristal",
+            "- Máscara Dorada"
         ]
     },
     "lichice": {
         "blurb": [
-            "ERUDYCE prefers the right spell,",
-            "placed with severe intent, to turn",
-            "events in her favor.",
+            "ERUDYCE prefiere el hechizo adecuado,",
+            "lanzado con firme intención, para",
+            "inclinar los sucesos a su favor.",
             "",
-            "She lets others face confrontation while",
-            "staying in control from behind the scenes."
+            "Deja que otros afronten el conflicto",
+            "mientras ella controla todo desde atrás."
         ],
         "abilities": [
-            "- Cold",
-            "- Levitation",
-            "- Telepathy",
-            "- Indominable",
-            "- Magic Missile Volley",
-            "- Blood Field",
-            "- Teleport",
-            "- Command Automata"
+            "- Frío",
+            "- Levitación",
+            "- Telepatía",
+            "- Indomable",
+            "- Lluvia de Rayos Mágicos",
+            "- Campo Sanguíneo",
+            "- Teletransportar",
+            "- Comandar Autómatas"
         ],
         "inventory": [
-            "- Magicstaff of Cold",
-            "- Magus Headdress"
+            "- Bastón de Frío",
+            "- Escofión de Maga"
         ]
     },
     "lilith": {
         "blurb": [
-            "A name first given in myth to the primal",
-            "succubus, those who lead and inspire",
-            "succubi are sometimes granted this title.",
+            "En los mitos, este nombre fue de la súcubo",
+            "primigenia. A veces reciben este título",
+            "quienes lideran e inspiran a las súcubos.",
             "",
-            "Beware her influence, as her foes",
-            "are known to switch sides."
+            "Cuidado con su influencia: sus enemigos",
+            "suelen cambiar de bando."
         ],
         "abilities": [
-            "- Charm Monster",
-            "- Teleportation"
+            "- Encantar Monstruo",
+            "- Teletransporte"
         ],
         "inventory": [
-            "- Magicstaffs of Charm Monster",
-            "- Roses"
+            "- Bastones de Encantar Monstruo",
+            "- Rosas"
         ]
     },
     "mimic": {
         "blurb": [
-            "Little is understood of a MIMIC'S true ",
-            "nature, but it's assumed they didn't",
-            "always look like treasure chests.",
+            "Poco se sabe de la naturaleza del MIMETO,",
+            "pero se cree que no siempre",
+            "tuvo aspecto de cofre del tesoro.",
             "",
-            "Further study has been impossible due to",
-            "them eating researchers and their notes."
+            "Ha sido imposible estudiarlo: devora",
+            "a los investigadores y sus notas."
         ],
         "abilities": [
-            "- Devour Equipment",
-            "- Indominable"
+            "- Devorar Equipo",
+            "- Indomable"
         ],
         "inventory": [
-            "- Chest contents",
-            "- Gold"
+            "- Contenido del cofre",
+            "- Oro"
         ]
     },
     "minotaur": {
         "blurb": [
-            "A huge legendary beast of unknown origin,",
-            "the MINOTAUR can break through dungeon",
-            "walls and has been enchanted, permitting it",
-            "to levitate.",
-            "It is ruthless in its pursuit of its master's",
-            "enemies."
+            "Enorme bestia legendaria de origen",
+            "desconocido, el MINOTAURO puede derribar",
+            "los muros de la mazmorra y un hechizo",
+            "le permite levitar.",
+            "Persigue sin piedad a los enemigos",
+            "de su amo."
         ],
         "abilities": [
-            "- Levitation",
-            "- Destroy Obstacle",
-            "- Telepathy",
-            "- Indominable"
+            "- Levitación",
+            "- Destruir Obstáculo",
+            "- Telepatía",
+            "- Indomable"
         ],
         "inventory": [
-            "- High value gemstones"
+            "- Piedras preciosas de gran valor"
         ]
     },
     "mysterious shop": {
         "blurb": [
-            "This MYSTERIOUS MERCHANT knows things",
-            "he couldn't possibly know and carries",
-            "artifacts he couldn't possibly possess.",
+            "Este COMERCIANTE MISTERIOSO sabe cosas",
+            "que no podría saber y lleva artefactos",
+            "que no podría poseer.",
             "",
-            "He will trade only if given mystical orbs,",
-            "if the customer can bear to offer them."
+            "Solo comercia a cambio de orbes místicos,",
+            "si su clientela soporta desprenderse de ellos."
         ],
         "abilities": [
-            "- Magic Missile",
-            "- Indominable",
-            "- Drain Soul",
-            "- Bloodletting",
-            "- Teleportation"
+            "- Misil Mágico",
+            "- Indomable",
+            "- Drenar Alma",
+            "- Sangría",
+            "- Teletransporte"
         ],
         "inventory": [
-            "- Various Shop stock"
+            "- Mercancía variada"
         ]
     },
     "potato king": {
         "blurb": [
-            "In contrast to his kin, THE POTATO KING",
-            "appears merry and carefree, though",
-            "insane.",
-            "Fellow goblins seem drawn to his chaotic",
-            "personality, perhaps desperate for levity",
-            "in the swamps."
+            "A diferencia de los suyos, EL REY PATATA",
+            "parece alegre y despreocupado, aunque",
+            "está loco.",
+            "Su personalidad caótica atrae a otros",
+            "trasgos, quizás desesperados por encontrar",
+            "algo de alegría en los pantanos."
         ],
         "abilities": [],
         "inventory": [
             "- Sharur",
-            "- Jester Hat",
-            "- Cloaks of Magic Reflection",
-            "- Grass Sprigs",
-            "- Leather, Bronze armor",
-            "- Cloaks"
+            "- Gorro de Bufón",
+            "- Capas de Reflejo Mágico",
+            "- Ramilletes de Hierba Dulce",
+            "- Armaduras de cuero, bronce",
+            "- Capas"
         ]
     },
     "rat": {
         "blurb": [
-            "The dungeons have bred these RATS for ",
-            "aggression and size.",
+            "Las mazmorras han criado a estas RATAS",
+            "para ser grandes y agresivas.",
             "",
-            "While one would be wise to stay wary of ",
-            "swarms and sneaky RATS, usually the sight",
-            "of them means the promise of food."
+            "Conviene cuidarse de los enjambres y",
+            "las RATAS furtivas, pero avistarlas",
+            "suele prometer una buena comida."
         ],
         "abilities": [],
         "inventory": [
-            "- Meat, Cheese"
+            "- Carne, Queso"
         ]
     },
     "scarab": {
         "blurb": [
-            "The hardy SCARAB is said to bore into dense,",
-            "magical materials, conveying profound",
-            "magical resistance into their shells.",
+            "Se dice que el robusto ESCARABAJO perfora",
+            "materiales mágicos densos, que otorgan",
+            "gran resistencia mágica a su caparazón.",
             "",
-            "Their slimy meat is unappealing to some",
-            "but it is quite nutritious."
+            "Su carne viscosa desagrada a algunos,",
+            "pero es muy nutritiva."
         ],
         "abilities": [
-		"- Weakness Cursing Attacks"
+		"- Ataques de Maldición de Debilidad"
 		],
         "inventory": [
-            "- Tomalleys",
-            "- Low value gemstones"
+            "- Hígados de Langosta",
+            "- Piedras preciosas de poco valor"
         ]
     },
     "scorpion": {
         "blurb": [
-            "A good shield in skilled hands can block the",
-            "deadly paralyzing sting of the SCORPION.",
+            "Un buen escudo en manos hábiles bloquea",
+            "el aguijón letal y paralizante del ESCORPIÓN.",
             "",
-            "Victims of SCORPIONS usually have a look",
-            "of surprise frozen on their faces when the",
-            "body is found."
+            "Los cadáveres de sus víctimas suelen",
+            "tener una expresión de sorpresa",
+            "congelada en el rostro."
         ],
         "abilities": [
-            "- Paralyzing Attacks"
+            "- Ataques Paralizantes"
         ],
         "inventory": [
             ""
@@ -807,12 +807,12 @@
     },
     "sentrybot": {
         "blurb": [
-            "Often assumed to be a modern invention,",
-            "variants of this SENTRYBOT blueprint have",
-            "been found active among ancient ruins.",
+            "Aunque se cree que el BALLESTERO es un",
+            "invento moderno, se han hallado variantes",
+            "de su diseño activas en ruinas antiguas.",
             "",
-            "Though easily broken, tinkerers rely",
-            "on sentrybots for high damage output."
+            "Pese a su fragilidad, los fabricantes",
+            "confían en el gran daño de los ballesteros."
         ],
         "abilities": [],
         "inventory": [
@@ -821,110 +821,110 @@
     },
     "shadow": {
         "blurb": [
-            "An evil spirit that wanders, appearing not",
-            "to have any sense of itself.",
+            "Un espíritu maligno que vaga sin",
+            "aparente conciencia de sí mismo.",
             "",
-            "The SHADOW steals the identity of anyone it",
-            "encounters, and vainly attempts to replace",
-            "its target by murdering the original."
+            "La SOMBRA roba la identidad de quien se",
+            "cruce con ella e intenta suplantarlo",
+            "en vano, asesinando al original."
         ],
         "abilities": [
-            "- Mimic Other",
-            "- Levitation",
-            "- Teleportation",
-            "- Indominable"
+            "- Imitar a Otro",
+            "- Levitación",
+            "- Teletransporte",
+            "- Indomable"
         ],
         "inventory": [
-            "- Spooky Masks"
+            "- Máscaras Espeluznantes"
         ]
     },
     "shelob": {
         "blurb": [
-            "Those who have survived SHELOB claim that",
-            "she isn't a spider at all. Rather, she is",
-            "a demonic spirit taking a spider's shape.",
+            "Quienes sobrevivieron a SHELOB afirman",
+            "que no es una tarántula, sino un espíritu",
+            "demoníaco que adopta esa forma.",
             "",
-            "She carries with her the",
-            "treasure from her victims."
+            "Lleva consigo los tesoros",
+            "de sus víctimas."
         ],
         "abilities": [
-            "- Poisoned Attacks",
-            "- Spray Web"
+            "- Ataques Venenosos",
+            "- Enmarañar"
         ],
         "inventory": [
             "- Dyrnwyn",
-            "- Ring of Invisibility"
+            "- Anillo de Invisibilidad"
         ]
     },
     "shopkeeper": {
         "blurb": [
-            "Good SHOPKEEPERS somehow make their",
-            "businesses work anywhere.",
-            "They are picky about what they buy,",
-            "and do not tolerate burglars.",
+            "Los buenos COMERCIANTES logran que",
+            "su negocio prospere en cualquier lugar.",
+            "Son exigentes con lo que compran",
+            "y no toleran a los ladrones.",
             "",
-            "Word travels fast in the Merchants' Guild."
+            "La voz corre en el Gremio de Comerciantes."
         ],
         "abilities": [
-            "- Magic Missile",
-            "- Drain Soul",
-            "- Indominable",
-            "- Bloodletting"
+            "- Misil Mágico",
+            "- Drenar Alma",
+            "- Indomable",
+            "- Sangría"
         ],
         "inventory": [
-            "- Various Shop stock"
+            "- Mercancía variada"
         ]
     },
     "skeleton": {
         "blurb": [
-            "The cursed remains of a mercenary army,",
-            "SKELETONS carry a variety of equipment.",
+            "Restos malditos de un ejército mercenario,",
+            "los ESQUELETOS llevan equipo variado.",
             "",
-            "One must take care both when fighting and",
-            "looting them, as the battered gear may",
-            "harm more than it helps."
+            "Ten cuidado al combatirlos y saquearlos:",
+            "su equipo maltrecho puede hacer",
+            "más daño que bien."
         ],
         "abilities": [],
         "inventory": [
-            "- Bronze, Iron Axes/Swords/",
-            "    Polearms",
-            "- Leather, Wooden, Iron shields/",
-            "    helmets"
+            "- Hachas/Espadas/Armas de Asta",
+            "    de Bronce, Hierro",
+            "- Escudos/Cascos de cuero, madera,",
+            "    hierro"
         ]
     },
     "skrabblag": {
         "blurb": [
-            "The exoskeleton of this beast bears",
-            "innumerable splits and scratches from",
-            "battling with weaker prey.",
-            "Naturalists claim that scorpions like",
-            "SKRABBLAG are capable of aging into",
-            "immortality."
+            "El exoesqueleto de esta bestia tiene",
+            "innumerables grietas y arañazos causados",
+            "por sus combates con presas más débiles.",
+            "Los naturalistas afirman que escorpiones",
+            "como ESKRABBLAG pueden envejecer",
+            "hasta alcanzar la inmortalidad."
         ],
         "abilities": [
-            "- Paralyzing Attacks"
+            "- Ataques Paralizantes"
         ],
         "inventory": [
-            "- Rubies"
+            "- Rubíes"
         ]
     },
     "slime": {
         "blurb": [
-            "Found in a variety of colors, SLIMES are",
-            "mindless entities seeking endless",
-            "consumption.",
-            "They often find themselves sliding through",
-            "pipes or waterways in their search for",
-            "organic matter to liquefy."
+            "De muchos colores, los CIENOS son",
+            "entidades sin mente cuyo único fin",
+            "es consumir sin cesar.",
+            "Suelen deslizarse por tuberías o cauces",
+            "en busca de materia orgánica",
+            "que licuar."
         ],
         "abilities": [
-            "- Waterwalking (Blue/Purple)",
-            "- Lavawalking (Orange)",
-            "- Spray Acid (Green)",
-            "- Spray Water (Blue)",
-            "- Spray Flames (Orange)",
-            "- Spray Tar (Purple)",
-            "- Spray Sludge (Silver)"
+            "- Paso Acuático (Azul/Púrpura)",
+            "- Paso sobre Lava (Naranja)",
+            "- Rocío Ácido (Verde)",
+            "- Rocío de Agua (Azul)",
+            "- Rocío de Llamas (Naranja)",
+            "- Rocío de Alquitrán (Púrpura)",
+            "- Rocío de Lodo (Plateado)"
         ],
         "inventory": [
             ""
@@ -932,15 +932,15 @@
     },
     "spellbot": {
         "blurb": [
-            "All automated tinkering mechanisms rely",
-            "on magic scrap for limited behaviors.",
+            "Los mecanismos automáticos usan chatarra",
+            "mágica para realizar acciones limitadas.",
             "",
-            "The SPELLBOT is affixed with a large supply",
-            "allowing it to create magic damage."
+            "El MAGOBOT lleva una gran reserva",
+            "que le permite infligir daño mágico."
         ],
         "abilities": [
-            "- Forcebolt",
-            "- Magic Missile"
+            "- Virote Mágico",
+            "- Misil Mágico"
         ],
         "inventory": [
             ""
@@ -948,16 +948,16 @@
     },
     "spider": {
         "blurb": [
-            "Giant dungeon SPIDERS",
-            "are patient hunters.",
+            "Las TARÁNTULAS gigantes de las mazmorras",
+            "son cazadoras pacientes.",
             "",
-            "Their slow metabolism and poison fangs",
-            "make them well suited to waiting for prey",
-            "to ambush, eviscerate, and devour."
+            "Su metabolismo lento y colmillos venenosos",
+            "les permiten esperar a sus presas para",
+            "emboscarlas, destriparlas y devorarlas."
         ],
         "abilities": [
-            "- Poisoned Attacks",
-            "- Spray Web"
+            "- Ataques Venenosos",
+            "- Enmarañar"
         ],
         "inventory": [
             ""
@@ -965,174 +965,174 @@
     },
     "succubus": {
         "blurb": [
-            "A personified curse of lust, the SUCCUBUS",
-            "is crafty and cruel.",
+            "La maldición de la lujuria hecha carne,",
+            "la SÚCUBO es astuta y cruel.",
             "",
-            "She has everything she needs to",
-            "manipulate others, though some take the",
-            "independent path in their quest for evil."
+            "Tiene todo lo que necesita para manipular",
+            "a otros, aunque algunas buscan el mal",
+            "por su propia cuenta."
         ],
         "abilities": [
-            "- Charm Monster",
-            "- Teleportation"
+            "- Encantar Monstruo",
+            "- Teletransporte"
         ],
         "inventory": [
-            "- Magicstaffs of Charm Monster",
-            "- Masquerade Masks"
+            "- Bastones de Encantar Monstruo",
+            "- Máscaras de Carnaval"
         ]
     },
     "thumpus": {
         "blurb": [
-            "The amiability between trolls and gnomes is",
-            "well-documented, but typically the gnomes",
-            "enjoy toying with the bigger beasts.",
+            "La amistad entre trolls y gnomos es bien",
+            "conocida, pero los gnomos suelen",
+            "divertirse a costa de esas grandes bestias.",
             "",
-            "THUMPUS appears to have",
-            "earned the gnomes' respect."
+            "THUMPUS parece haberse",
+            "ganado el respeto de los gnomos."
         ],
         "abilities": [],
         "inventory": [
-            "- Miscellaneous dungeon floor loot",
-            "- Roses"
+            "- Botín variado de la mazmorra",
+            "- Rosas"
         ]
     },
     "troll": {
         "blurb": [
-            "These nearly blind giants seem to be",
-            "wandering the dungeons by coincidence,",
-            "preferring to live in isolation, even from",
-            "one another.",
-            "Cross one's path and be prepared for a ",
-            "powerful pummeling."
+            "Estos gigantes casi ciegos parecen vagar",
+            "por las mazmorras por casualidad,",
+            "pues prefieren vivir aislados, incluso",
+            "de sus congéneres.",
+            "Si te cruzas con uno, prepárate",
+            "para recibir una gran paliza."
         ],
         "abilities": [],
         "inventory": [
-            "- Miscellaneous dungeon floor loot",
-            "- Roses"
+            "- Botín variado de la mazmorra",
+            "- Rosas"
         ]
     },
     "vampire": {
         "blurb": [
-            "In order to maintain their curse of",
-            "immortality, VAMPIRES must consume the",
-            "blood of the living.",
-            "They have wonderous magical abilities,",
-            "which are said to be gained by forfeiting",
-            "their very souls."
+            "Para mantener su maldición",
+            "de inmortalidad, los VAMPIROS deben",
+            "beber la sangre de los vivos.",
+            "Poseen asombrosas habilidades mágicas",
+            "que, según dicen, obtuvieron",
+            "a cambio de sus propias almas."
         ],
         "abilities": [
-            "- Drain Soul",
-            "- Vampiric Aura"
+            "- Drenar Alma",
+            "- Aura Vampírica"
         ],
         "inventory": [
-            "- Magicstaffs of Bleed",
-            "- Vampire Doublet"
+            "- Bastones de Sangría",
+            "- Jubón de Vampiro"
         ]
     },
     "xyggi": {
         "blurb": [
-            "The cult of sorcerers believes that all",
-            "intellect is born of magic, claiming that",
-            "where you find one, the other will follow.",
+            "El culto de hechiceros cree que todo",
+            "intelecto nace de la magia, y afirma",
+            "que donde haya uno, habrá la otra.",
             "",
-            "The scarab, XYGGI, is rumored to have a",
-            "threatening amount of both."
+            "Se rumorea que el escarabajo XYGGI",
+            "posee una cantidad alarmante de ambos."
         ],
         "abilities": [
-            "- Cold",
-            "- Magic Reflection"
+            "- Frío",
+            "- Reflejo Mágico"
         ],
         "inventory": [
-            "- Enchanted Feathers",
-            "- Tomalleys",
-            "- Low value gemstones"
+            "- Plumas Encantadas",
+            "- Hígados de Langosta",
+            "- Piedras preciosas de poco valor"
         ]
     },
     "gremlin": {
         "blurb": [
-            "GREMLINS are creatures with such taste",
-            "for chaos that they could not coexist",
-            "with the denizens of Hell itself.",
-            "Only goblins suffer their company,",
-            "and even then, at arm's length.",
-            "NOT TO BE TRUSTED."
+            "Los GREMLINS aman tanto el caos",
+            "que ni siquiera pudieron convivir",
+            "con los habitantes del mismísimo Infierno.",
+            "Solo los trasgos soportan su compañía,",
+            "y aun así mantienen las distancias.",
+            "NO SON DE FIAR."
         ],
         "abilities": [
-            "- Deface",
-            "- Vandalize"
+            "- Desfigurar",
+            "- Vandalizar"
         ],
         "inventory": [
-            "- Bone and Blackiron Weapons",
-            "- Shawls and Hoods"
+            "- Armas de Hueso y Hierro Negro",
+            "- Chales y Capuchas"
         ]
     },
     "dryad": {
         "blurb": [
-            "While the origins are unclear, a forest",
-            "of sufficient size and age is often under",
-            "the protection of DRYAD conservators.",
-            "Sightings in any realm are rare, but it",
-            "is best to remain in their good",
-			"graces if one finds you."
+            "Su origen es incierto, pero los bosques",
+            "grandes y antiguos suelen contar con",
+            "la protección de guardianas DRÍADES.",
+            "Son difíciles de ver en cualquier reino,",
+            "pero conviene ganarse su favor",
+			"si alguna te encuentra."
         ],
         "abilities": [
-            "- Roots",
-            "- Thorns"
+            "- Raíces",
+            "- Espinas"
         ],
         "inventory": [
-            "- Nuts",
-            "- Branch Weapons"
+            "- Nueces",
+            "- Armas de Ramas"
         ]
     },
     "myconid": {
         "blurb": [
-            "Wherever you find decay in dryad-",
-            "protected forests, there you will also",
-            "find MYCONIDS. While the two aren't",
-            "hostile to one another, they also do",
-            "not appear to cohabitate. Beware caves",
-            "full of mushrooms that may be guarded."
+            "Donde hay podredumbre en los bosques",
+            "protegidos por dríades también hay",
+            "MICÓNIDOS. Aunque no son hostiles",
+            "entre sí, tampoco parecen convivir.",
+            "Cuidado con las cuevas llenas de hongos:",
+            "pueden estar vigiladas."
         ],
         "abilities": [
-            "- Spores"
+            "- Esporas"
         ],
         "inventory": [
-            "- Mushroom Slices",
-            "- Bone Weapons"
+            "- Rodajas de Hongos",
+            "- Armas de Hueso"
         ]
     },
     "salamander": {
         "blurb": [
-            "Legends say that SALAMANDERS carry the",
-            "fires of loyalty and justice with fierce",
-            "devotion to the Eternals in their hearts.",
-            "When enraged, they appear as blazing",
-            "angels, but rely on sturdy tradition",
-            "during times of lower passion."
+            "Dicen que las SALAMANDRAS llevan en el",
+            "corazón el fuego de la lealtad y la justicia,",
+            "y una firme devoción a los Eternos.",
+            "Furiosas, parecen ángeles en llamas,",
+            "pero en épocas de calma se apoyan",
+            "en una sólida tradición."
         ],
         "abilities": [
-            "- Breathe Fire",
-            "- Radiant Form",
-			"- Stone Form"
+            "- Aliento Ígneo",
+            "- Forma Radiante",
+			"- Forma Pétrea"
         ],
         "inventory": [
-            "- Silver Weapons and Armor",
-			"- Claymores",
-            "- Holy Symbols"
+            "- Armas y Armaduras de Plata",
+			"- Mandobles",
+            "- Símbolos Sagrados"
         ]
     },
     "revenant_skull": {
         "blurb": [
-            "A product of dark mysticism, the",
-            "REVENANT SKULL is summoned by piercing",
-            "void just as a cursed soul crosses over.",
-            "Though useful, it's considered by the",
-            "cult of sorcerers to be an",
-            "incomplete spell."
+            "Fruto del misticismo oscuro, el CRÁNEO",
+            "ESPECTRAL se invoca al perforar el vacío",
+            "justo cuando cruza un alma maldita.",
+            "Aunque es útil, el culto de hechiceros",
+            "lo considera un hechizo",
+            "incompleto."
         ],
         "abilities": [
-            "- Levitate",
-			"- Slow"
+            "- Levitar",
+			"- Lentitud"
         ],
         "inventory": [
             
@@ -1140,16 +1140,16 @@
     },
     "fire sprite": {
         "blurb": [
-            "Whether through naivety or mischief,",
-            "FIRE SPRITES like to bless others with",
-            "a gift of burning flames. Novice",
-            "sorcerers can learn a lot from them, as",
-            "their temprament is the calmest of the",
-            "fire spirits. A slow burn, if you will."
+            "Por ingenuidad o travesura, las SÍLFIDES",
+            "ÍGNEAS bendicen a otros con llamas",
+            "abrasadoras. Los hechiceros aprendices",
+            "pueden aprender mucho de ellas: son",
+            "los espíritus de fuego más calmados.",
+            "Se toman las cosas a fuego lento."
         ],
         "abilities": [
-            "- Levitate",
-            "- Fire Dart"
+            "- Levitar",
+            "- Dardo de Fuego"
         ],
         "inventory": [
             
@@ -1157,18 +1157,18 @@
     },
     "earth_elemental": {
         "blurb": [
-            "The stubborn EARTH SPRITE requires the",
-            "talents of a skilled mystic to conjure.",
-            "After being lured into local earth, it",
-            "crashes down and serves as a",
-            "durable guardian for as long",
-            "as its form holds shape."
+            "Invocar a la obstinada SÍLFIDE PÉTREA",
+            "exige el talento de un místico hábil.",
+            "Tras atraerla a la tierra del lugar,",
+            "se desploma y sirve como",
+            "guardián duradero mientras",
+            "su cuerpo conserve la forma."
         ],
         "abilities": [
-            "- Cave In",
-            "- Levitation",
-			"- Spin (self)",
-			"- Block"
+            "- Derrumbe",
+            "- Levitación",
+			"- Giro (propio)",
+			"- Bloquear"
         ],
         "inventory": [
             
@@ -1176,16 +1176,16 @@
     },
     "duck": {
         "blurb": [
-            "Like many birds, DUCKS are territorial,",
-            "and loyal to their partners for life.",
-            "They will courageously pester deadly",
-            "threats, and are surprisingly deft at",
-            "avoiding harm. Ducks may become",
-            "distracted by fishing opportunities."
+            "Como muchas aves, los PATOS defienden",
+            "su territorio y son fieles de por vida.",
+            "Acosan sin miedo a amenazas letales",
+            "y esquivan el daño con una destreza",
+            "sorprendente. Pueden distraerse",
+            "ante la oportunidad de pescar."
         ],
         "abilities": [
-            "- Distract",
-			"- Levitation",
+            "- Distraer",
+			"- Levitación",
             "- Invulnerable"
         ],
         "inventory": [
