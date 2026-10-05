@@ -120,7 +120,7 @@
 86 "No sabes nada del poder que he encontrado aquí..."#
 87 "Enfréntate a mi si te atreves, mortal. No sobrevivirás".#
 88 "Ven a mi guarida, mortal, y te mostraré el significado del dolor".#
-89 "¡Bienvenido a tu destrucción, mortal!"#
+89 "¡Te espera la destrucción, mortal!"#
 
 
 # monster names
@@ -415,11 +415,11 @@ los objetos antes de usarlos.#
 
 # Left-click (entity spotting) messages
 
-253 Ves un/a %s llamado/a %s.#
-254 Ves un/a %s.#
+253 Ves a %s de nombre %s.#
+254 Ves a %s.#
 255 Ves una antorcha colgada en la pared.#
 256 Ves una puerta.#
-257 Ves un/a %s.#
+257 Ves %s.#
 258 Ves una pieza de oro.#
 259 Ves %d piezas de oro.#
 260 Ves una hoguera.#
@@ -468,8 +468,8 @@ los objetos antes de usarlos.#
 299 Eso solo funciona en modo solitario.#
 300 Número de entidades en el piso: %d#
 301 Mató %d monstruos.#
-302 ¡Invocas un/a %s!#
-303 ¡Aquí no hay espacio para un/a %s!#
+302 ¡Invocas %s!#
+303 ¡Aquí no hay espacio para %s!#
 304 ¡Error! No se pudo invocar '%s'#
 305 Comando desconocido: '%s'#
 
@@ -493,9 +493,9 @@ los objetos antes de usarlos.#
 316 DEPRECATED#
 317 DEPRECATED#
 318 DEPRECATED#
-319 Este/a %s
- ya fue identificado.#
-320 Identificado como "%s".#
+319 %s
+ ya tiene identificación.#
+320 Identificaste "%s".#
 321 Tasando "%s"...#
 322 Hechizos#
 323 Desempuñar#
@@ -523,9 +523,9 @@ los objetos antes de usarlos.#
 344 Guardar#
 345 Vender#
 346 Exorcizar objeto#
-347 Este/a %s
- ya ha sido exorcizado.#
-348 Exorcizado "%s".#
+347 %s
+ ya tiene condición corriente.#
+348 Eliminaste la maldición de "%s".#
 
 
 # shop gui - removed category names
@@ -539,7 +539,7 @@ los objetos antes de usarlos.#
 355 #
 356 #
 357 #
-358 Bienvenido a %s
+358 Te damos la bienvenida a %s
 %s!#
 
 
@@ -585,7 +585,7 @@ los objetos antes de usarlos.#
 375 ¡Maná insuficiente!#
 376 ¡Te alcanza un hechizo!#
 377 ¡Tu hechizo golpea a %s!#
-378 ¡Tu hechizo golpea al %s!#
+378 ¡Tu hechizo golpea a %s!#
 379 ¡Pero es desviado!#
 380 ¡Tu capa está deteriorada!#
 381 ¡Tu capa ha sido destruida!#
@@ -597,15 +597,15 @@ los objetos antes de usarlos.#
 387 ¡Tu hechizo destruye la puerta!#
 388 ¡Tu hechizo destruye la silla!#
 389 ¡Tu hechizo destruye la mesa!#
-390 ¡%s está confuso de repente!#
-391 ¡El %s está confuso de repente!#
-392 ¡De pronto estás confundido!#
-393 ¡%s es ralentizado!#
-394 ¡El %s es ralentizado!#
-395 ¡Has sido ralentizado!#
+390 ¡%s siente confusión de repente!#
+391 ¡%s siente confusión de repente!#
+392 ¡De pronto sientes confusión!#
+393 ¡%s sufre lentitud!#
+394 ¡%s sufre lentitud!#
+395 ¡Sufres lentitud!#
 396 ¡De pronto te duermes como un tronco!#
 397 ¡%s se duerme de repente!#
-398 ¡El %s se duerme de repente!#
+398 ¡%s se duerme de repente!#
 399 ¡Cierras la puerta con llave!#
 400 ¡El hechizo ha cerrado el cofre!#
 401 ¡A saber lo que ha hecho...#
@@ -618,7 +618,7 @@ los objetos antes de usarlos.#
 408 ¡Imposible mantener el hechizo %s.#
 409 ¡Balbuceas el hechizo y este se disipa#
 410 ¡No puedes lanzar hechizos mientras nadas!#
-411 ¡Guau! te sientes revitalizado.#
+411 ¡Sientes que tu cuerpo se purifica!#
 412 ¡Un mapa se dibuja en tu mente!#
 413 DEPRECATED_SPELL_NAME#
 414 DEPRECATED_SPELL_NAME#
@@ -657,7 +657,7 @@ los objetos antes de usarlos.#
 
 # arrows
 
-446 ¡Le has disparado a un/a %s!#
+446 ¡Le has disparado a %s!#
 447 ¡Pero ni se inmuta!#
 448 ¡Le has disparado a %s!#
 449 ¡Pero ni siquiera se inmuta!#
@@ -670,7 +670,7 @@ los objetos antes de usarlos.#
 # traps and furniture
 
 454 ¡Te ha atrapado una trampa para osos!#
-455 ¡Eres golpeado por una roca!#
+455 ¡Una roca te golpea!#
 456 No eres lo bastante fuerte para mover el pedrusco.#
 457 Enciendes una antorcha en la hoguera.#
 458 El fuego ha sido apagado.#
@@ -678,7 +678,7 @@ los objetos antes de usarlos.#
 460 ¡Cierras el cofre con fuerza!#
 461 ¡Alguien ha cerrado el cofre!#
 462 ¡El cofre está cerrado con llave!#
-463 Pones el %s en el cofre.#
+463 Pones %s en el cofre.#
 464 Abres la puerta.#
 465 Cierras la puerta.#
 466 ¡La puerta esta cerrada con llave!#
@@ -783,7 +783,7 @@ los objetos antes de usarlos.#
 
 # item messages
 
-503 Este %s puede abrir objetos.#
+503 %s puede abrir objetos.#
 
 504 Has obtenido %s.#
 
@@ -794,7 +794,7 @@ los objetos antes de usarlos.#
 506 Desciendes por la escalera.#
 507 Tú y tu grupo descienden por la escalera.#
 508 No puedes volver atrás.#
-509 Debes reunir a tu grupo para poder continuar.#
+509 %s se encuentra en la salida.#
 510 Cruzas el portal.#
 511 Tú y tu grupo cruza el portal.#
 
@@ -811,7 +811,7 @@ los objetos antes de usarlos.#
 514 [ %s ] no responde# 
 515 %s no responde.#
 516 ¡%s %s! ¡Tendré tu cabeza!#
-517 ¡%s %s! ¡Eres mío!#
+517 ¡%s %s! ¡En guardia!#
 518 ¡%s %s! ¡En guardia!#
 519 %s %s ¡Prepárate!#
 520 ¡En un momento estaré contigo!#
@@ -934,12 +934,12 @@ La derrota tiene una dignidad que la victoria no conoce."
 
 # random player messages
 
-570 Identificado "%s".#
+570 Identificaste "%s".#
 571 Fallo en indentificar "%s".#
 572 Caes a tu muerte...#
 573 Caíste a la lava burbujeante!#
 574 El agua extingue las llamas!#
-575 Te topas con %s. %d/%d PV - %d/%d PM#
+575 Te topas con %s.#
 576 %s se topa contigo.#
 577 Mueres...#
 578
@@ -958,7 +958,7 @@ sobrevive hasta el siguiente piso.#
 585 Escuchas la tubería hacer ruidos raros.
  ¡El grifo se rompe!#
 586 ¡Te tropiezas con una trampa de púas!#
-588 ¡Te golpea un/a %s voladora!#
+588 ¡Te golpea %s en pleno vuelo!#
 589 Tomas la antorcha de la pared.#
 
 # entity messages
@@ -992,21 +992,21 @@ sobrevive hasta el siguiente piso.#
 614 Dejas de sangrar.#
 615 Tu habilidad de %s ha mejorado.#
 616 Ahora posees conocimientos básicos de %s#
-617 Ahora eres aficionado en %s#
-618 Ahora eres un experto en %s#
-619 Ahora eres un maestro de %s#
+617 Ahora tienes conocimientos avanzados de %s#
+618 Ahora tienes conocimientos expertos de %s#
+619 Ahora tienes el rango de maestro en %s#
 620 Ahora eres una leyenda de %s#
 621 Tu propia energía vital se transforma en energía mágica.#
 622 ¡Subes de nivel!#
 623 ¡Te sientes fuerte!#
-624 ¡Te sientes ligero!#
-625 ¡Te notas duro!#
-626 ¡Te sientes sabio!#
-627 Te sientes observador!#
+624 ¡Sientes ligereza!#
+625 ¡Sientes más resistencia!#
+626 ¡Sientes más sabiduría!#
+627 ¡Sientes que observas mejor!#
 628 ¡Te sientes presentable!#
 629 ¡Te sientes un poco mejor ahora.#
-630 ¡Estás hambriento.#
-631 ¡Estás muy hambriento!
+630 ¡Tienes hambre!#
+631 ¡Tienes mucha hambre!
  Te notas débil.#
 632 ¡Te mueres de hambre!
  Vas a desmayarte.#
@@ -1066,40 +1066,40 @@ sobrevive hasta el siguiente piso.#
 679 ¡Tu arma está deteriorada!#
 680 ¡Tu arma se ha roto con el impacto!#
 681 ¡Tu %s se deteriora!#
-682 ¡Tu %s ha sido destruido!#
+682 ¡Tu %s se destruye!#
 683 ¡Dyrwyn te prende en llamas!#
 684 ¡Te ha picado el escorpión!#
 685 ¡El veneno te está paralizando!#
 686 ¡La tarántula inyecta veneno en su picadura!#
 687 ¡El veneno fluye por tus venas!#
 688 ¡Eh! ¡Ese súcubo ha robado tu %s!#
-689 ¡Le asestas un golpe crítico al %s!#
-690 ¡Golpeas al %s!#
+689 ¡Le asestas un golpe crítico a %s!#
+690 ¡Golpeas a %s!#
 691 ¡Ni se ha inmutado!#
-692 ¡Has matado al %s!#
+692 ¡Has matado a %s!#
 693 Le asestas un golpe crítico a %s"#
 694 ¡Golpeas a %s!#
 695 ¡Ella ni se inmuta!#
 696 ¡Él ni se inmuta!#
-697 ¡Has matado un(a) %s!#
+697 ¡Has matado a %s!#
 698 ¡%s %s!# 
 699 ¡%s %s!#
 700 DEPRECATED#
 701 ¡Estás sangrando!#
-702 ¡El %s está sangrando!#
+702 ¡%s está sangrando!#
 703 ¡%s está sangrando!#
 704 ¡Tu pico finalmente se rompe!#
 705 ¡Tu pico está deteriorado!#
 706 Esta pared es demasiado dura como para atravesarla.#
 707 Sientes un tambaleo, pero se pasa.#
-708 Te sientes desorientado por un momento.#
+708 Sientes desorientación por un momento.#
 
 
 # general game messages
 
 709 Cargando...#
-710 Bienvenido a la mazmorra Piso %d.#
-711 Bienvenido a %s.#
+710 Llegas al piso %d de la mazmorra.#
+711 Llegas a %s.#
 712 Se oye el sonido de los picos golpeando rocas.#
 713 Oyes el leve sonido de calles bulliciosas.#
 714 Oyes el eco de un coro en la distancia.#
@@ -1109,13 +1109,13 @@ sobrevive hasta el siguiente piso.#
 718 Oyes un zumbido místico en la distancia.#
 719 Oyes llantos de angustia en la distancia.#
 720 %s te sigue hasta el siguiente piso.# 
-721 Tu %s amigo te sigue hasta el siguiente piso.#
+721 %s de tu grupo te sigue hasta el siguiente piso.#
 722 %s se despide!#
 723 ¡Tu %s se despide!#
 724 Conexión al cliente %d (%s) recuperada.
  Auto-expulsión cancelada.#
 725 El Cliente %d (%s) no responde al servidor.
- Auto-expulsión en 15 segundos...#
+ Auto-expulsión en %d segundos...#
 726 Conexión al cliente %d (%s) perdida.
  Saliendo del juego.#
 727 ¡No tienes espacio en tu inventario para 
@@ -1123,7 +1123,7 @@ sobrevive hasta el siguiente piso.#
 728 Conexión al servidor recuperada.
  Auto desconexión cancelada.#
 729 El servidor no responde.
- Auto desconexión en 15 segundos...#
+ Auto desconexión en %d segundos...#
 730 Conexión al servidor perdida.
  Desconectando.#
 731
@@ -1132,7 +1132,7 @@ Conexión al servidor perdida.
 Presiona 'Ok' para volver al Menú Principal.#
 732 Ok#
 733 Personaje al Azar#
-734 Bienvenido a Barony, %s.#
+734 Te damos la bienvenida a Barony, %s.#
 735 DEPRECATED#
 736 DEPRECATED#
 737 DEPRECATED#
@@ -1575,12 +1575,12 @@ comerte... para la cena."#
 # more item messages
 
 1087 ¡No puedes! ¡Está maldito!#
-1088 Arrojado %s.#
-1089 No puedes quitarte el %s.
- ¡Está maldito!#
-1090 Equipado %s.#
-1091 Desequipado %s.#
-1092 ¡Este/a %s es inservible!#
+1088 Soltaste %s.#
+1089 No puedes quitarte %s.
+ ¡Su condición es infame!#
+1090 Equipaste %s.#
+1091 Desequipaste %s.#
+1092 ¡%s es inservible!#
 1093 ¡No puedes abrir la lata sin un abrelatas!.#
 1094 Te pones el amuleto.#
 1095 ¡De repente el amuleto empieza a apretar!#
@@ -1593,7 +1593,7 @@ comerte... para la cena."#
 1098 Has abierto el cofre.#
 1099 Has cerrado la puerta.#
 1100 Has abierto la puerta.#
-1101 Este %s puede desbloquear objetos.#
+1101 %s puede desbloquear objetos.#
 1102 Has fallado intentando desbloquear el cofre.#
 1103 Tu ganzúa esta dañada.#
 1104 Tu ganzúa se ha roto.#
@@ -1626,7 +1626,7 @@ comerte... para la cena."#
 1122 Empiezas a comerciar con %s.#
 1123 Has comprado %s por %d PO.#
 1124 No puedes vender %s.
- ¡Está maldito/a!#
+ ¡Su condición es infame!#
 1125 Has vendido %s por %d PO.#
 
 # some window and button text
@@ -1944,42 +1944,42 @@ Sé creativo. Todo objeto tiene uso.#
 
 # obituary messages
 
-1499 %s's %s aliado/a %s#
+1499 Del grupo de %s, %s: %s#
 1500 Muere de forma aleatoria.#
-1501 Acaba asado por una bola de fuego.#
-1502 Acaba congelado por una bola gélida.#
+1501 Muere por el ataque de una torre mágica.#
+1502 Muere por el ataque de una trampa mágica del techo.#
 1503 Se tropieza con trampa de flechas.#
 1504 Se tropieza en una trampa y muere.#
 1505 No consigue esquivar el perdrusco.#
 1506 Decide darse un chapuzón en la lava.#
 1507 Se mete en una trampa de púas y muere.#
-1508 Encuentra su muerte a manos de un/a %s volador.#
-1509 Fue traicionado por su querido %s.#
-1510 Fue traicionado por su querida %s.#
-1511 Es violentamente liquidado por un humano furioso.#
-1512 Es mordisqueado hasta la muerte por una ratilla.#
-1513 Es cruelmente azotado por un trasgo.#
-1514 Es moqueado por un cieno.#
-1515 Invade la zona de confort de un troll y es apalizado.#
+1508 Encuentra la muerte al recibir el impacto de %s en pleno vuelo.#
+1509 Sufre una traición de su camarada %s.#
+1510 Sufre una traición de su camarada %s.#
+1511 Muere violentamente a manos de un humano furioso.#
+1512 Muere por las mordidas de una ratilla.#
+1513 Muere bajo los crueles azotes de un trasgo.#
+1514 Muere entre los mocos de un cieno.#
+1515 Invade la zona de confort de un troll y recibe una paliza.#
 1516 Se convierte en una bonita cena para una tarántula hambrienta.#
 1517 Decide unirse a las filas de no muertos.#
 1518 Descubre que el esqueleto no era un disfraz.#
-1519 Intenta hacerse amigo de un escorpión furioso.#
+1519 Intenta entablar amistad con un escorpión furioso.#
 1520 Olvida que los diablillos alados no son muy amistosos.#
-1521 Es desvaligado por un gnomo codicioso.#
-1522 Es descuartizado por un demonio.#
+1521 Pierde la vida y sus pertenencias a manos de un gnomo codicioso.#
+1522 Acaba en pedazos a manos de un demonio.#
 1523 Vanamente intenta hacer el amor con la súcubo.#
 1524 Pilla al Barón en un mal día.#
-1525 Es pulverizado sin miramientos por el minotauro.#
-1526 Es condenado al infierno. Literalmente.#
+1525 Acaba en polvo por obra del minotauro.#
+1526 Acaba en el infierno. Literalmente.#
 1527 Intenta un atraco y sale mal.#
-1528 Se mata a si mismo durante una invocación.#
-1529 Se mata a si misma durante una invocación.#
+1528 Muere al intentar una invocación.#
+1529 Muere al intentar una invocación.#
 1530 Hace una dieta demasiado severa.#
-1531 Es acabado por el veneno.#
+1531 Muere por el veneno.#
 1532 Se desangra hasta la muerte.#
-1533 Tostado hasta la médula.#
-1534 Es estrangulado hasta la muerte.#
+1533 Arde hasta la médula.#
+1534 Muere por estrangulamiento.#
 1535 Bebe una curiosa poción y muere.#
 
 # some random strings
@@ -2707,7 +2707,7 @@ Sé creativo. Todo objeto tiene uso.#
 2376 Tu avistas un cristal misterioso.#
 2377 Tu avistas una orbe mística sobre el pedestal.#
 2378 Subes una escalera.#
-2379 ¡Tu aliado %s ganó un nivel!#
+2379 ¡%s de tu grupo ganó un nivel!#
 2380 ¡La pared parece fortificada! No tiene ni un rasguño!#
 2381 ¡Una fuerza invisible arrastra tus pies por el suelo!#
 2382 El aire aquí parece estar girando suavemente a tu alrededor.#
@@ -2761,11 +2761,11 @@ Sé creativo. Todo objeto tiene uso.#
 2419 El calzado te empuja por encima del suelo. ¡Estás levitando!#
 
 #New spell effects (2420-2440)
-2420 ¡%s está paralziado/a!#
-2421 ¡El/la %s está paralizado/a!#
+2420 ¡%s sufre parálisis!#
+2421 ¡%s sufre parálisis!#
 2422 ¡Tus extremidades se rehúsan a moverse!#
-2423 ¡%s está severamente herido/a!#
-2424 ¡El/la %s está severamente herido/a!#
+2423 ¡%s tiene heridas graves!#
+2424 ¡%s tiene heridas graves!#
 2425 ¡Te hirieron con severidad!#
 2426 Trío de Misiles#
 2427 ¡Sientes energía emanar de ti mientras
@@ -2773,12 +2773,12 @@ dominas a %s hacia tu servicio!#
 2428 ¡Sientes energía emanar de tu mientras
 dominas a %s hacia tu servicio!#
 2429 No eres capaz de dominar.#
-2430 ¡%s es rociado/a con ácido corrosivo!#
-2431 ¡%s es rociado/a con ácido corrosivo!#
+2430 ¡%s recibe un rocío de ácido corrosivo!#
+2431 ¡%s recibe un rocío de ácido corrosivo!#
 2432 ¡Te rocían con ácido corrosivo!#
 2433 ¡Mágicamente persuades a %s fuera del alcance de %s!#
 2434 ¡Mágicamente persuades a %s fuera del alcance de %s!#
-2435 ¡%s persuadido/a mágicamente fuera de tu alcance!#
+2435 ¡Tu %s escapa de tus manos por arte de magia!#
 2436 ¡%s no es un arma válida para ser robada!#
 2437 ¡%s no está sosteniendo un arma para robar!#
 2438 ¡El hechizo falla en robar el arma inextistente de tu mano!#
@@ -2861,11 +2861,11 @@ drenarse el resto de tu magia!#
 2505 cama#
 2506 cama#
 2507 podio#
-2508 ¡Tu hechizo destruye el %s!#
+2508 ¡Tu hechizo destruye %s!#
 2509 ¡Tu golpeas %s!#
 2510 ¡%s se quiebra en pedazos!#
-2511 ¡Tu eres golpeado por un relámpago!#
-2512 ¡Tu eres golpeado por una piedra voladora!#
+2511 ¡Un relámpago te golpea!#
+2512 ¡Una piedra te golpea en pleno vuelo!#
 2513 ¡Tu penetras la armadura de %s!#
 2514 ¡Tu penetras la armadura de %s!#
 2515 ¡El disparo penetró tu armadura!#
@@ -2879,10 +2879,10 @@ drenarse el resto de tu magia!#
 2521 Oyes una trampa activándose en la distancia.#
 2522 ¡Oyes una trampa activándose cerca!#
 2523 ¡Te impacta una explosión!#
-2524 Usas tu %s en unos engranajes expuestos del %s...#
-2525 Eres incapaz de encontrar una entrada dentro del %s desde este ángulo.#
-2526 ¡Un engranaje bloqueado dentro del %s se suelta!#
-2527 ¡Los engranajes del %s se detienen y comienzan a chisporrotear!#
+2524 Usas tu %s en unos engranajes expuestos de %s...#
+2525 Eres incapaz de encontrar una entrada dentro de %s desde este ángulo.#
+2526 ¡Un engranaje bloqueado dentro de %s se suelta!#
+2527 ¡Los engranajes de %s se detienen y comienzan a chisporrotear!#
 2528 Tu %s no tiene efecto por ahora.#
 
 # 2529- 2542 atk hover text
@@ -2902,12 +2902,12 @@ drenarse el resto de tu magia!#
 2542 Daño    %11d ATQ#
 
 # 2543 - 2549 attacking text, misc
-2543 ¡Tu impacto golpeó a un desprevenido %s!#
-2544 ¡Tu impacto golpeó a un desprevenido %s!#
-2545 ¡Tu impacto flanquea las defensas del %s!#
-2546 ¡Tu impacto flanquea las defensas del %s!#
-2547 ¡Asesinas al %s!#
-2548 ¡Asesinas al %s!#
+2543 ¡Tu golpe toma por sorpresa a %s!#
+2544 ¡Tu golpe toma por sorpresa a %s!#
+2545 ¡Tu impacto flanquea las defensas de %s!#
+2546 ¡Tu impacto flanquea las defensas de %s!#
+2547 ¡Asesinas a %s!#
+2548 ¡Asesinas a %s!#
 2549 DEPRECATED#
 
 # 2550 - 2560 new class names
@@ -2954,7 +2954,7 @@ drenarse el resto de tu magia!#
 2586 DEPRECATED#
 2587 DEPRECATED#
 2588 DEPRECATED#
-2589 Tu %s aliado %s#
+2589 %s de tu grupo: %s#
 2590 DEPRECATED#
 2591 No tienes nada más para aprender sobre este hechizo.#
 
@@ -3104,7 +3104,7 @@ drenarse el resto de tu magia!#
  ...#
 
 2770 type:seq#
-2771 %s Bienvenido seas, %s. Espero que hayas podido descansar.#
+2771 %s Qué gusto verte de nuevo, %s. Espero que hayas podido descansar.#
 2772 %s Los magos que están dentro podrán explicarlo todo.#
 2773 %s ¿Yo? No, tan solo soy un portero.#
 2774 %s Muchos vienen y van, %s. No se requiere membresía.#
@@ -3116,13 +3116,19 @@ drenarse el resto de tu magia!#
  ...#
 
 2780 type:seq#
-2781 %s El Barón quería montar las minas en las Cuevas de Cristal.#
-2782 %s Los Archimagos se negaron a permitirle a Herx minar allí.#
-2783 %s Herx ofreció muchos subsidios al Gremio de Magos.#
-2784 %s Creo que Herx esperaba favores de los Archimagos.#
-2785 %s Eventualmente Herx desistió de obtener ayuda del Gremio.#
-2786 %s Las cosas empeoraron, pero pudieron haber sido mucho peor.
-2787 [%s]
+2781 %s 
+ El Barón quería montar las minas en las Cuevas de Cristal.#
+2782 %s
+ Los Archimagos se negaron a permitirle a Herx minar allí.#
+2783 %s
+ Herx ofreció muchos subsidios al Gremio de Magos.#
+2784 %s
+ Creo que Herx esperaba favores de los Archimagos.#
+2785 %s
+ Eventualmente Herx desistió de obtener ayuda del Gremio.#
+2786 %s
+ Las cosas empeoraron, pero pudieron haber sido mucho peor.#
+2787 %s
  ...#
 
 2790 type:seq#
@@ -3173,7 +3179,7 @@ drenarse el resto de tu magia!#
  intercambiar una de mis preciadas posesiones como recompensa.#
 2836 ¡%s Tu sabes, un miembro del gremio de semejante calibre como yo puede extorsionar
  a esos magos por cada centavo que poseen con sus preciadas orbes!#
-2837 %s Sé que tienes demasiado corazón como para hacer algo así tu mismo.#
+2837 %s Sé que tienes demasiado corazón como para hacer algo así por tu cuenta.#
 2838 %s Depende de ti. Déjalas conmigo y no diré nada sobre
  nuestro pequeño encuentro.#
 2839 [%s]
@@ -3268,7 +3274,6 @@ drenarse el resto de tu magia!#
 2992 DEPRECATED#
 2993 DEPRECATED#
 2994 DEPRECATED#
-2995 Brawler-mode active, only punches and throwing potions are allowed to attack!#
 2995 Modo Brawler activado, solo están permitidos los puños y pociones arrojadizas para atacar#
 2996 Modo Brawler desactivado, todas las armas permitidas.#
 2997 ¡Esta herramientas está deshabilitada en el modo Brawler!#
@@ -3346,29 +3351,29 @@ drenarse el resto de tu magia!#
 3068 DEPRECATED#
 
 # Follower responses.
-3069 %s Me mantendré firme aquí, %s.#
-3070 %s Volveré en un momento..#
-3071 ¡%s Mi %s maldito/a!#
-3072 %s Esto te vendría bien, %s!#
-3073 %s Intentaré encontrar algo mejor.#
-3074 %s No puedo usar eso.#
-3075 ¡%s Acertaste!#
-3076 %s Oof. Ya me llené.#
-3077 %s No puedo ir hasta allí.#
-3078 %s Hay algo en el camino.#
-3079 ¡%s Avanzando hacia el destino!#
-3080 ¡%s Cubre mi retirada, %s!#
-3081 %s Estas cosas pueden ser usados para reparaciones.#
-3082 ¡%s Nada esencial aquí!#
-3083 %s Realmente puedes sentir la brisa desde aquí abajo.#
-3084 %s No puedo traicionar a mis aliados de esa manera.#
-3085 %s Debes mantener los pocos amigos que te quedan aquí abajo.#
-3086 %s Hmm.#
-3087 %s Mm.#
-3088 %s Aquel está un poco mohoso.#
-3089 %s No puedo comer ni un bocado más.#
-3090 %s No tengo hambre ahora.#
-3091 %s ¡Puaj! ¡Comida podrida!#
+3069 Me mantendré firme aquí, %s.#
+3070 Volveré en un momento.#
+3071 ¡%s en condición infame!#
+3072 Esto te vendría bien, %s!#
+3073 Intentaré encontrar algo mejor.#
+3074 No puedo usar eso.#
+3075 ¡Acertaste!#
+3076 Oof. Ya me llené.#
+3077 No puedo ir hasta allí.#
+3078 Hay algo en el camino.#
+3079 ¡Avanzando hacia el destino!#
+3080 ¡Cubre mi retirada, %s!#
+3081 Estas cosas pueden ser usados para reparaciones.#
+3082 ¡Nada esencial aquí!#
+3083 Realmente puedes sentir la brisa desde aquí abajo.#
+3084 No puedo traicionar a mis aliados de esa manera.#
+3085 Debes mantener los pocos amigos que te quedan aquí abajo.#
+3086 Hmm.#
+3087 Mm.#
+3088 Eso tenía un poco de moho.#
+3089 No puedo comer ni un bocado más.#
+3090 No tengo hambre ahora.#
+3091 ¡Puaj! ¡Comida podrida!#
 3092 Solo puedes usar este comando una sola vez por piso.#
 3093 Probar con #
 3094 No hay interacciones disponibles.#
@@ -3387,23 +3392,23 @@ drenarse el resto de tu magia!#
 # Follower responses cont'd.
 3103 DEPRECATED#
 3104 DEPRECATED#
-3105 El(la) %s espera pacientemente.#
+3105 %s espera pacientemente.#
 3106 %s espera pacientemente.#
-3107 arma está#
-3108 yelmo está#
-3109 sobrero está#
-3110 coraza está#
-3111 botas están#
-3112 escudo está#
-3113 guantes están#
-3114 capa está#
-3115 anillo está#
-3116 amuleto está#
-3117 equipamiento está#
-3118 ¡%s maldito!#
-3119 El(la) %s's #
-3120 %s's #
-3121 El(la) %s #
+3107 El arma está#
+3108 El yelmo está#
+3109 El sombrero está#
+3110 La coraza está#
+3111 Las botas están#
+3112 El escudo está#
+3113 Los guantes están#
+3114 La capa está#
+3115 El anillo está#
+3116 El amuleto está#
+3117 El equipamiento está#
+3118 ¡%s en condición infame!#
+3119 %s: #
+3120 %s: #
+3121 %s #
 3122 %s #
 3123 observa %s con indiferencia.#
 3124 rápidamente devora %s.#
@@ -3411,18 +3416,18 @@ drenarse el resto de tu magia!#
 3126 suelta parte de su equipamiento.#
 3127 suelta su equipamiento.#
 3128 ¡%s decide seguirte!#
-3129 El(la) %s gruñe.#
+3129 %s gruñe.#
 3130 %s gruñe.#
-3131 El(la) %s no lo puede alcanzar desde allí.#
+3131 %s no lo puede alcanzar desde allí.#
 3132 %s no lo puede alcanzar desde allí.#
-3133 Hay algo en el camino de la %s.#
+3133 Hay algo en el camino de %s.#
 3134 Hay algo en el camino de %s.#
-3135 %s perdón %s, pero no voy a soltar mis pertenencias.#
+3135 Perdón %s, pero no voy a soltar mis pertenencias.#
 
 # Misc
 3136 DEPRECATED#
-3137 ¡El %s está encantado de servirte!#
-3138 ¡%s está encantado de servirte!#
+3137 ¡%s se pone a tu servicio por el encantamiento!#
+3138 ¡%s se pone a tu servicio por el encantamiento!#
 3139 El amuleto elimina la animosidad de %s#
 3140 El amuleto elimina la animosidad de %s#
 3141 ¡Has resistido los efectos del encantamiento!#
@@ -3468,8 +3473,8 @@ drenarse el resto de tu magia!#
 3183 Tu carne arde del dolor mientras haces contacto con el agua!#
 3184 Tus huesos arden del dolor mientras haces contacto con el agua!#
 3185 La polimorfia se disipa hasta que vuelves a tu forma original.#
-3186 ¡Te transformas en un/a %s!#
-3187 ¡El %s se transforma en %s!#
+3186 ¡Te transformas en %s!#
+3187 ¡%s se transforma en %s!#
 3188 ¡%s se transforma en %s!#
 3189 Pero no sientes diferencia...#
 3190 Tu bebes la poción de polimorfia...#
@@ -3480,7 +3485,7 @@ drenarse el resto de tu magia!#
 3195 El alma de %s retorna hacia ti.#
 3196 Liberar
    alma#
-3197 ¡Tu %s invocado gana un nuevo nivel!#
+3197 ¡Tu invocación de %s gana un nuevo nivel!#
 3198 ¡Pero espera! ¡Tus aliados invocados te brindan energía vital!#
 
 3199 DEPRECATED#
@@ -3490,18 +3495,18 @@ drenarse el resto de tu magia!#
 3202 Que horrible noche para tener una maldición...#
 3203 ¡Puaaj! Esto es repugnante!#
 3204 Desarmado#
-3205 ¡%s está atontado por tu golpe!#
-3206 ¡El %s está atontado por tu golpe!#
-3207 ¡Estás atontado por el golpe de %s!#
-3208 ¡Estás atontado por el golpe de %s!#
-3209 %+3d de habilidad#
+3205 ¡%s sufre aturdimiento por tu golpe!#
+3206 ¡%s sufre aturdimiento por tu golpe!#
+3207 ¡Sufres aturdimiento por el golpe de %s!#
+3208 ¡Sufres aturdimiento por el golpe de %s!#
+3209 DEPRECATED#
 3210 ¡Tu filo corta profundamente %s!#
-3211 ¡Tu filo corta profundamente al %s!#
+3211 ¡Tu filo corta profundamente a %s!#
 3212 ¡El filo de %s te corta profundamente!#
 3213 ¡El filo de %s te corta profundamente!#
 3214 ¡%s se tambalea hacia atrás!#
-3215 ¡¡El %s se tambalea hacia atrás!!#
-3216 ¡Eres empujado hacia atrás!#
+3215 ¡¡%s se tambalea hacia atrás!!#
+3216 ¡Un empujón te hace retroceder!#
 3217 No te puedes quitar el objeto %s.
  ¡Es celestial!#
 3218 No puedes, ¡está celestial!#
@@ -3535,16 +3540,16 @@ drenarse el resto de tu magia!#
 3240 Tu tasación no es lo suficientemente alta para identificar "%s".#
 3241 Sientes que la maldición se disipa al canalizar el hechizo...#
 3242 ¡Los saberes del tomo te dotan de control sobre la maldición!#
-3243 ¡%s Fuera de mi tienda, maldito %s!#
-3244 aprende sobre la política de "prohibido %s" de la tienda.#
+3243 ¡%s Fuera de mi tienda, infame %s!#
+3244 descubre la norma de "no se permiten %s" de la tienda de %s.#
 3245 ¡%d pociones caídas de la fuente!#
 3246 ¡Una poción ha caído de la fuente!#
 3247 Comienzas a sudar en frío...#
 3248 Tus manos comienzan a sentirse inestables...#
 3249 Sientes el comienzo de un dolor de cabeza...#
 3250 Tu resaca se alivia.#
-3251 ¡%s decide ser tu compañero de bebida!#
-3252 ¡El %s decide ser tu compañero de bebida!#
+3251 ¡%s decide beber contigo!#
+3252 ¡%s decide beber contigo!#
 3253 ¡Tu salud disminuye por la maldición!#
 3254 va por un chapuzón en el agua.#
 
@@ -3586,7 +3591,7 @@ drenarse el resto de tu magia!#
  "¡El minotauro se aproxima! Hemos de matar también cualquier otra despreciable criatura en las proximidades"#
 3286 Reparar Objeto#
 3287 %s
- no puede ser reparado.#
+ no admite reparaciones.#
 3288 ¡No posees objetos capaces de ser reparados!#
 3289 DEPRECATED#
 3290 DEPRECATED#
@@ -3653,8 +3658,8 @@ ingrediente base alquímico.#
 ingrediente alquímico secundario %s #
 3350 brebaje arruinado.#
 3351 Recuperas %s.#
-3352 Elaborado %s.#
-3353 %s embotellado.#
+3352 Elaboraste %s.#
+3353 Embotellaste %s.#
 3354 ¡De repente te sientes mucho más fuerte!#
 3355 Tu fuerza vuelve a la normalidad.#
 3356 Tu brebaje se disuelve en agua...#
@@ -3734,11 +3739,11 @@ ingrediente alquímico secundario %s #
 3423 Sientes una ausencia de comida en las cercanías.#
 3424 Tu nariz comienza sentir un cosquilleo y hueles comida!#
 3425 Tu nariz se contrae, pero no hay olores nuevos.#
-3426 ¡%s es rociado con veneno!#
-3427 ¡%s es rociado con veneno!#
+3426 ¡%s recibe un rocío de veneno!#
+3427 ¡%s recibe un rocío de veneno!#
 3428 ¡Sufriste un rocío de veneno!#
-3429 ¡%s está atrapado en un telaraña!#
-3430 ¡%s está atrapado en un telaraña!#
+3429 ¡%s se enreda en una telaraña!#
+3430 ¡%s se enreda en una telaraña!#
 3431 ¡Te encuentras inmóvil en una telaraña!#
 3432 ¡No puedes usar eso en tu forma actual!#
 3433 DEPRECATED#
@@ -3758,24 +3763,24 @@ ingrediente alquímico secundario %s #
 3447 DEPRECATED_SPELL_NAME#
 3448 DEPRECATED_SPELL_NAME#
 3449 DEPRECATED_SPELL_NAME#
-3450 ¡Tu magia atrae un/a %s cercano!#
-3451 ¡Tu magia atrae un/a %s cercano!#
+3450 ¡Tu magia atrae a %s hacia ti!#
+3451 ¡Tu magia atrae a %s hacia ti!#
 3452 ¡Eres incapaz de teletransportar tu aliado en este lugar.#
 3453 ¡No hay espacio para teletransportar tu objetivo!#
-3454 ¡Tu látigo impacta el arma del %s!#
-3455 ¡Tu látigo impacta el arma del %s!#
-3456 ¡Tu látigo impacta el escudo del %s!#
-3457 ¡Tu látigo impacta el escudo del %s!#
+3454 ¡Tu látigo impacta el arma de %s!#
+3455 ¡Tu látigo impacta el arma de %s!#
+3456 ¡Tu látigo impacta el escudo de %s!#
+3457 ¡Tu látigo impacta el escudo de %s!#
 3458 DEPRECATED#
 3459 ¡Tu %s se vuelve cenizas!#
 3460 ¡No puedes estudiar un grimorio mientras está equipado!#
 3461 ¡Una fuerza mágica te traslada!#
 3462 Sientes desorientación por un momento...#
-3463 ¡El %s es rastreado por una marca arcana!#
-3464 ¡%s es rastreado por una marca arcana!#
-3465 ¡Eres rastreado por una marca arcana!#
-3466 La marca arcana del %s se desvaneció.#
-3467 La marca arcana del %s se desvaneció.#
+3463 ¡Una marca arcana rastrea a %s!#
+3464 ¡Una marca arcana rastrea a %s!#
+3465 ¡Una marca arcana te rastrea!#
+3466 La marca arcana de %s se desvaneció.#
+3467 La marca arcana de %s se desvaneció.#
 3468 ¡Un demonio interno aparece para provocarte!#
 3469 ¡%s siente provocación por parte del demonio interno!#
 3470 ¡%s siente provocación por parte de un demonio interno!#
@@ -3786,8 +3791,8 @@ ingrediente alquímico secundario %s #
 3475 Tu piel se resquebraja a medida que se disipa la polimorfia...#
 3476 Tu regeneración de vida vuelve a la normalidad.#
 3477 Tu regeneración de maná vuelve a la normalidad.#
-3478 ¡%s es envenenado!#
-3479 ¡%s es envenenado!#
+3478 ¡%s sufre los efectos de tu veneno!#
+3479 ¡%s sufre los efectos de tu veneno!#
 3480 Tu liderazgo es demasaiado bajo para reclutar más seguidores!#
 3481 Tu liderazgo es demasaiado bajo para reclutar %s.#
 3482 ¡No puedes reclutar más seguidores!#
@@ -3901,7 +3906,7 @@ ingrediente alquímico secundario %s #
 3588 DEPRECATED_ITEM_NAME#
 3589 DEPRECATED_ITEM_NAME#
 
-3600 Tu desarmas al %s.#
+3600 Tu desarmas a %s.#
 3601 ¡%s sale volando!#
 3602 ¡%s sale volando!#
 3603 ¡Tu trampa no tuvo efecto sobre %s!#
@@ -3913,13 +3918,13 @@ ingrediente alquímico secundario %s #
 3609 Comienzas a estirar la cuerda del arco...#
 3610 ¡La trampa comienza a atraer energía mágica!#
 3611 ¡Sales volando!#
-3612 ¡Has sido golpeado por una explosión de %s!#
+3612 ¡Te golpea una explosión de %s!#
 3613 ¡%s sufre un impacto por una explosión de %s!#
 3614 ¡%s sufre un impacto por una explosión de %s!#
 3615 ¡Tu trampa falló en teletransportar %s!#
 3616 ¡Tu trampa falló en teletransportar %s!#
 3617 ¡Tu %s destruye %s!#
-3618 ¡Tu %s impacta el %s!#
+3618 ¡Tu %s impacta %s!#
 3619 DEPRECATED#
 3620 DEPRECATED#
 3621 DEPRECATED#
@@ -3950,7 +3955,7 @@ ingrediente alquímico secundario %s #
 3646 Reparar #
 3647 DEPRECATED#
 3648 ¡No hay suficientes materiales para construir %s!#
-3647 DEPRECATED#
+3649 DEPRECATED#
 3650 Observar...#
 3651 ¡Tu girobot recupera algunos aliados dejados en el camino!#
 3652 ¡Tu Fabricar no es suficientemente alto para contruir %s!#
@@ -3966,18 +3971,18 @@ ingrediente alquímico secundario %s #
 3662 %d Artesanía #
 3663 Auto reciclar...#
 3664 Eres incapaz de reciclar %s.#
-3665 %d reciclado  %s.#
+3665 Reciclaste %d %s.#
 3666 No tienes nada más que aprender sobre reciclaje.#
-3667 No tienes nada más que aprender con construir un/a %s.#
-3668 ¡%s construido!#
+3667 No tienes nada más que aprender al construir %s.#
+3668 ¡Construiste %s!#
 3669 ¡No puedes recilcar objetos equipados!#
 3670 Fabricar#
 3671 ¡Tu girobot detecta pisadas acercándose al sonajero!#
 3672 DEPRECATED#
-3673 Tu %s debe ser más avanzado para usar este comando.#
+3673 Tu %s debe ser de mayor calidad para usar este comando.#
 3674 DEPRECATED#
 3675 DEPRECATED#
-3676 El %s bloquea su rotor.#
+3676 %s bloquea su rotor.#
 3677 %s retorna a su patrulla.#
 3678 Tu %s debe ser de mejor calidad para detectar más tipos de objetos.#
 3679 Tu Fabricar no es so suficientemente alto para decifrar más descubrimientos del girobot.#
@@ -4026,7 +4031,7 @@ en blanco para incribir#
 3721 DEPRECATED#
 3722 DEPRECATED#
 3723 Liberar Celda #
-3724 ¡%s inscripto!#
+3724 ¡Inscribiste %s!#
 3725 Rastreas parte del texto desgastado...#
 3726 Seleccionar un grimorio
 para reparar#
@@ -4042,32 +4047,32 @@ para reparar#
 3735 ¡Los demonios de %s ya fueron exorcizados!#
 3736 ¡Los demonios de %s ya fueron exorcizados!#
 3737 ¡Tu comportamiento mejora!#
-3738 un/a %+2d #
+3738 %+2d #
 3739 ¡Tu flecha incendia %s!#
 3740 ¡Tu flecha incendia %s!#
 3741 ¡Estás en llamas por una flecha incendiaria!#
-3742 ¡Has sido empujado por una flecha!#
-3743 ¡Tu flecha de plata castiga al %s!#
+3742 ¡Una flecha te empuja!#
+3743 ¡Tu flecha de plata castiga a %s!#
 3744 ¡Tu flecha de plata castiga %s!#
 3745 ¡Una flecha de plata te castiga!#
 3746 ¡Tu %s retorna!#
-3747 ¡%s es sedado por la flecha!#
-3748 ¡%s es sedado por la flecha!#
-3749 ¡Has sido sedado por una flecha de cacería!#
+3747 ¡La flecha seda a %s!#
+3748 ¡La flecha seda a %s!#
+3749 ¡Una flecha de cacería te seda!#
 3750 ¡Tu flecha de cacería se inserta sobre %s!#
 3751 ¡Tu flecha de cacería se inserta sobre %s!#
 3752 ¡Una flecha de cacería se inserta sobre tu carne!#
 3753 ¡El derramamiento de sangre te energiza!#
 3754 ¡Dyrnwyn castiga %s!#
 3755 ¡Dyrnwyn castiga %s!#
-3756 ¡Dyrnwyn prende fuego al %s!#
+3756 ¡Dyrnwyn prende fuego a %s!#
 3757 ¡Dyrnwyn prende fuego %s!#
 3758 ¡Parashu impacta críticamente %s!#
 3759 ¡Parashu impacta críticamente %s!#
 3760 ¡Gungnir penetra la armadura de %s!#
 3761 ¡Gungnir penetra la armadura de %s!#
 3762 ¡Un carcaj aparece repentinamente ante ti!#
-3763 un/una #
+3763  #
 3764 DEPRECATED_SPELL_NAME#
 3765 DEPRECATED_SPELL_NAME#
 3766 DEPRECATED#
@@ -4199,20 +4204,19 @@ para reparar#
  *PLAF*#
 3878 ¡%s tiene ceguera!#
 3879 ¡%s tiene ceguera!#
-3880 Tu aliado %s ya descansó por completo.#
-3881 Tu aliado %s se despierta habiendo descansado completamente.#
+3880 %s de tu grupo ya descansó por completo.#
+3881 %s de tu grupo se despierta tras descansar por completo.#
 3882 ¡Escuchas pisadas acercándose al robot!#
 3883 No puedes implantar más máquinas con tu habilidad actual de Fabricar!#
 3884 No puedes implantar más máquinas.#
 3885 DEPRECATED_SPELL_NAME#
 3886 DEPRECATED#
 3887 No tienes la habilidad suficiente para vaciar la trampa.#
-3888 %s dice: ¡Oh! Debo hacerle una visita al joyero con estas gemas!
+3888 ¡Oh! Debo hacerle una visita al joyero con estas gemas!
  Aunque no sé si el verde es mi color.#
-3889 %s dice: Hmm. Dicen que estos artificios provienen de siglos de conocimiento.
+3889 Hmm. Dicen que estos artificios provienen de siglos de conocimiento.
  ¿Creerías que la mayoría de los magos pierden sus cristales?#
-3890 El/La %s dice: ¡Aha! Un magnífico espécimen carmesí... aunque algo húmedo.
- ¿Has estado corrriendo con esto?#
+3890 ¡Ajá! Un magnífico espécimen carmesí... aunque algo húmedo. ¿Has estado corrriendo con esto?#
 3891 %s no hay uso para eso.#
 3892 %s no tiene uso para eso.#
 3893 Hmm. Has tomado la decisión correcta
@@ -4664,7 +4668,7 @@ mis clientes favoritos.#
 4278 *crujido*#
 4279 Saludos, mortal.#
 4280 ¿Me llamaste?#
-4281 Bienvenido al infierno, debilucho.#
+4281 Te doy la bienvenida al infierno, miserable.#
 4282 ¿Hay algo que quieras comprar?#
 4283 Kleeaku.#
 4284 *chirrido*#
@@ -4706,9 +4710,9 @@ ser cómplice de un acto violento!#
 4317 Tu %s no pudo caer en un lugar aceptable.#
 4318 Canalizar por Grimorio#
 4319 No es posible tasar#
-4320 ¡La poción no tuvo efecto en el %s!#
+4320 ¡La poción no tuvo efecto en %s!#
 4321 ¡La poción no hizo efecto en %s!#
-4322 ¡Tu hechizo rebota en el %s!#
+4322 ¡Tu hechizo rebota en %s!#
 4323 ¡Tu hechizo rebota en %s!#
 4324 ¡De repente estás ardiendo!#
 4325 ¡Reflejaste un hechizo!#
@@ -5153,13 +5157,13 @@ diversión y alarde#
 5329 Chat#
 5330 Poner mensaje aquí...#
 5331 *** %s se quedó sin tiempo ***#
-5332 *** %s fue echado ***#
+5332 *** Se expulsó a %s ***#
 5333 *** %s salió del juego ***#
 5334 *** tiempo de sondeo = %4d ms ***#
 5335 El lobby fue cerrado
 por el host.#
 5336 *** %s ha salido del juego ***#
-5337 Has sido echado
+5337 Te han expulsado
 del lobby.#
 5338 Uniendo al lobby...
 
@@ -5251,7 +5255,7 @@ Jugadores#
 5396 ¡Esto echará a %s
 y %s!#
 5397 Esto echará a %s.
-¿Estás seguro?#
+¿Confirmas la acción?#
 5398 Ok#
 5399 Volver#
 5400 Si#
@@ -5295,7 +5299,7 @@ Complejidad:#
 5429  Ocultar info. de clase#
 5430 Ver info. de clase#
 5431 *** Espera %d segundos antes de sugerir otra clase. ***#
-5432 %s: Necesitamos un %s.#
+5432 %s: Necesitamos %s.#
 
 5433 NOMBRE:#
 5434 Coloca un nombre %d#
@@ -6156,9 +6160,9 @@ intro - God Rest Ye Merry Gentlemen de NaturesEye#
 6054 SEMILLA PERSONALIZADA#
 6055 Nombre de semilla...#
 6056 Nada#
-6057 Aqui ya hace
+6057 Aquí yace
 %s
-Muerto por: %s#
+Causa de muerte: %s#
 6058 Modo Peniless activado, no puedes Recoger oro#
 6059 Modo Peniless desactivado, puedes Recoger oro.#
 6060 El archivo de guardado no es elegible para el logro Peniless. Reinicia el juego para resetearlo.#
@@ -6190,7 +6194,7 @@ Filtros#
 6083 ¡Cierras al mimeto!#
 6084 ¡El mimeto evade tu llave maestra!#
 6085 ¡El mimeto se come tu %s!#
-6086 ¡El %s te envenena!#
+6086 ¡%s te envenena!#
 6087 ¡Oye! %s te roba tu %s#
 6088 ¡Pero los anteojos te protejen!#
 6089 ¡Los anteojos te protejen de la explosión!#
@@ -6213,8 +6217,8 @@ Chequear que el DLC se instaló correctamente y reinicia el juego para intentar 
 6101 Has completado tu recompensa por %d oro.#
 6102 Has fallado en completar tu objetivo de recompensa.#
 6103 Modificador de Efectos:#
-6104 ¡Tu disparo alcanza a %s repentinamente!#
-6105 %s fue repentinamente alcanzado/a por un disparo#
+6104 ¡Tu disparo toma por sorpresa a %s!#
+6105 ¡Tu disparo toma por sorpresa a %s!#
 6106 / 100 EXP#
 6107 EXP#
 6108 Aún no posees ninguna 
@@ -6402,26 +6406,26 @@ Magia Requerida: %d (%s)#
 6231 cápsula#
 6232 barril#
 6233 tocón#
-6234 ¡Un %s salta del %s!#
+6234 ¡%s salta de %s!#
 6235 ¡Un torrente te derriba!#
-6236 ¡Estás rociado de grasa!#
-6237 ¡Estás rociado con magma!#
-6238 ¡%s está rociado con magma ardiente!#
-6239 ¡%s está rociado con magma ardiente!#
-6240 ¡%s está rociado con lodo corrosivo!#
-6241 ¡%s está rociado con lodo corrosivo!#
-6242 ¡Estás rociado con lodo corrosivo!#
-6243 ¡%s está rociado con grasa!#
-6244 ¡%s está rociado con grasa!#
+6236 ¡Recibes un rocío de grasa!#
+6237 ¡Recibes un rocío de magma!#
+6238 ¡%s recibe un rocío de magma ardiente!#
+6239 ¡%s recibe un rocío de magma ardiente!#
+6240 ¡%s recibe un rocío de lodo corrosivo!#
+6241 ¡%s recibe un rocío de lodo corrosivo!#
+6242 ¡Recibes un rocío de lodo corrosivo!#
+6243 ¡%s recibe un rocío de grasa!#
+6244 ¡%s recibe un rocío de grasa!#
 6245 ¡Tus manos se vuelven resbaladizas!#
 6246 ¡Tu escudo se desliza entre tus dedos!#
 6247 BLOQUEADOS PRIMERO##
-6248 ¡Salta un %s!#
+6248 ¡Salta %s!#
 6249 ¡Fallo!#
 6250 ESTADÍSTICAS (HARDCORE)#
 6251 Abrir Compendio#
 6252 ¡Un murciélago cercano despierta!#
-6253 ¡Algunos %s saltan del %s!#
+6253 ¡Varias criaturas de tipo %s saltan de %s!#
 6254 Fue drenado ferozmente por un murciélago.#
 6255 es apaleado por un osgo.#
 6256 osgo#
@@ -6431,8 +6435,8 @@ Magia Requerida: %d (%s)#
 6260 Ves un santuario de Dédalo.#
 6261 Santuario de Dédalo#
 6262 Toca el santuario de Dédalo#
-6263 ¡Estás herido al atacar el %s!#
-6264 ¡Estás herido al atacar a %s!#
+6263 ¡Sufres daño al atacar a %s!#
+6264 ¡Sufres daño al atacar a %s!#
 6265 ¡Los aliados de los gnomos se encogen de miedo!#
 6266 No hay suficientes puntos de conocimiento disponibles.
 ¡Desbloquea logros para ganar más!#
@@ -6456,14 +6460,14 @@ Magia Requerida: %d (%s)#
 6284 mente#
 6285 ¡El minotauro está cerca, apúrate!#
 6286 ¡Esquivaste un ataque!#
-6287 ¡Esquivaste un %s!#
+6287 ¡Esquivaste %s!#
 6288 Tu resistencia vuelve a la normalidad.#
 6289 Tu agilidad vuelve a la normalidad.#
 6290 Tu mentalidad vuelve a la normalidad.#
 6291 flecha voladora#
 6292 perno volador#
 6293 roca voladora#
-6294 ¡Esquivaste un %s volador!#
+6294 ¡Esquivaste %s en pleno vuelo!#
 6295 hechizo#
 6296 proyectil#
 6297 ¡La cuerda se incendia!#
@@ -6476,8 +6480,8 @@ Magia Requerida: %d (%s)#
 6304 Encantar Arma#
 6305 Encantar Armadura#
 6306 Selecciona un objeto para encantar:#
-6307 Este %s
-no puede ser encantado.#
+6307 %s
+no admite encantamientos.#
 6308 Tu %s pierde parte de su bendición.#
 6309 ¡Te azota un torrente!#
 6310 Velocidad de giro rápido#
@@ -6519,7 +6523,7 @@ la aventura que te espera.
 Cada punto de Asistencia reduce
 la clasificación de puntuación final del partido.#
 6340 OBJETOS DE ASISTENCIA#
-6341 Fuiste asistido. (%d puntos)#
+6341 Recibiste asistencia. (%d puntos)#
 6342 Objetos de Ayuda#
 6343 Permite reclamar elementos del Santuario de asistencia del piso inicial para ajustar la dificultad.#
 6344 Activar Ayudas#
@@ -6626,11 +6630,11 @@ active esta opción.
 6429 La cerradura %s parece no poder restablecerse mediante la apertura de cerraduras.#
 6430 Esta cerradura %s ya se ha abierto con llave.#
 6431 ¡El efecto de tu canción no se puede extender más!#
-6432 ¡Tu golpe atravesó la armadura del %s!#
+6432 ¡Tu golpe atravesó la armadura de %s!#
 6433 ¡Tu golpe atravesó la armadura de %s!#
-6434 ¡El %s detiene tu golpe!#
+6434 ¡%s detiene tu golpe!#
 6435 ¡%s detiene tu golpe!#
-6436 ¡Paras el golpe del %s!#
+6436 ¡Paras el golpe de %s!#
 6437 ¡Paras el golpe de %s!#
 6438 Dispositivo de entrada#
 6439 El dispositivo de entrada para el chat de voz.#
@@ -6661,13 +6665,13 @@ active esta opción.
 
 6464 ¡Guardia!#
 6465 ¡Tu protección detiene un ataque!#
-6466 ¡El %s guarda tu hechizo!#
+6466 ¡%s guarda tu hechizo!#
 6467 ¡%s guarda tu hechizo!#
-6468 ¡El %s protege tu ataque!#
+6468 ¡%s protege tu ataque!#
 6469 ¡%s protege tu ataque!#
 6470 ¡Tu protección detiene un hechizo!#
-6471 ¡Tu protección detiene un %s volador!#
-6472 ¡Tu protección detiene un %s!#
+6471 ¡Tu protección detiene %s en pleno vuelo!#
+6472 ¡Tu protección detiene %s!#
 6473 ¡Proteges tu cuerpo contra daños físicos!#
 6474 ¡Proteges tu espíritu contra magias dañinas!#
 6475 ¡Te proteges contra ataques mundanos y mágicos!#
@@ -6705,36 +6709,36 @@ active esta opción.
 6507 Tu sangre vuelve a la normalidad...#
 6508 ¡Tus ataques están encantados con luz sagrada!#
 6509 La luz sagrada se desvanece de tus ataques...#
-6510 ¡Tu ataque golpea al %s!#
+6510 ¡Tu ataque golpea a %s!#
 6511 ¡Tu ataque golpea a %s!#
 6512 Alterar Instrumento#
 6513 Seleccione el instrumento para transmutar:#
-6514 Este %s
+6514 %s
 no se puede alterar.#
 6515 Tu %s se transforma en
 %s!#
-6516 ¡El %s crece en fuerza!#
-6517 ¡El %s se marchita!#
-6518 ¡El %s está gravemente debilitado por tu maldición!#
-6519 ¡El %s está confundido por magia!#
+6516 ¡%s crece en fuerza!#
+6517 ¡%s se marchita!#
+6518 ¡%s pierde muchas fuerzas por tu maldición!#
+6519 ¡%s sufre confusión por magia!#
 6520 ¡Tu enfoque en hechizos mejora!#
 6521 ¡Tus armas están imbuidas de veneno!#
-6522 ¡Tu maldición humilla al %s!#
-6523 El %s es aplastado por tu voluntad.#
+6522 ¡Tu maldición humilla a %s!#
+6523 %s sucumbe ante el peso de tu voluntad.#
 6524 ¡Sueltas un torrente de grasa resbaladiza!#
 6525 ¡Liberas una ola de energía mágica pura!#
-6526 ¡%s está debilitado!#
-6527 ¡El %s está debilitado!#
+6526 ¡%s pierde fuerzas!#
+6527 ¡%s pierde fuerzas!#
 6528 ¡Te sientes débil!#
 6529 El veneno mágico se evapora de tus armas.#
 6530 El enfoque de tu hechizo vuelve a la normalidad.#
-6531 ¡El %s te envenena!#
+6531 ¡%s te envenena!#
 6532 ¡%s te envenena!#
-6533 ¡El %s está envenenado!#
-6534 ¡%s está envenenado!#
+6533 ¡%s sufre envenenamiento!#
+6534 ¡%s sufre envenenamiento!#
 6535 El amuleto se siente cálido contra tu cuello.#
-6536 ¡Te sientes grasoso!#
-6537 ¡El %s está obligado a obedecer tus órdenes!#
+6536 ¡Sientes grasa en el cuerpo!#
+6537 ¡%s obedece tus órdenes por obligación!#
 6538 Costo del oro:#
 6539 No hay suficiente oro#
 6540 ¡Oro insuficiente!#
@@ -6750,7 +6754,7 @@ no se puede alterar.#
 6550 Reformar Arma#
 6551 Alterar Flecha#
 6552 No hay suficiente maná#
-6553 Transmutado %s usando
+6553 Transmutaste %s usando
 %s.#
 6554 Transmutado %dG
 usando %s.#
@@ -6764,7 +6768,7 @@ usando %s.#
 6562 Enviaste %s
 al vacío.#
 6563 Esto no pertenece al vacío#
-6564 Este %s
+6564 %s
 no pertenece al vacío.#
 6565 Alguien más ya está accediendo al vacío.#
 6566 El vacío no puede aceptar más artículos.#
@@ -6777,8 +6781,8 @@ no pertenece al vacío.#
 6573 picaduras#
 6574 *traqueteo*#
 6575 *crujir*#
-6576 ¡Maldices la carne del %s!#
-6577 ¡Convocas a un enérgico %s!#
+6576 ¡Maldices la carne de %s!#
+6577 ¡Convocas a %s con gran energía!#
 6578 ¡Aquí no hay lugar para convocar!#
 6579 arma espiritual#
 6580 posesión sacralizada#
@@ -6819,37 +6823,37 @@ no pertenece al vacío.#
 6615 ...#
 6616 Sacralizar#
 6617 Selecciona un arma para invocar:#
-6618 Este %s
-no puede ser sacralizado.#
+6618 %s
+no admite sacralización.#
 6619 vuelve al suelo.#
 6620 ¡desaparece!#
 6621 Tu %s
 vuelve al suelo.#
 6622 ¡Oro insuficiente!#
-6623 ¡El %s está entumecido!#
-6624 ¡%s está entumecido!#
-6625 ¡Te sientes entumecido!#
+6623 ¡%s sufre entumecimiento!#
+6624 ¡%s sufre entumecimiento!#
+6625 ¡Sientes entumecimiento!#
 6626 muere por dolor retardado.#
 6627 ¡Te sientes imparable!#
 6628 ¡El dolor vuelve a tu cuerpo!#
 6629 ¡La gravedad de tus heridas aparece!#
-6630 ¡El %s no pudo alcanzar a ningún aliado!#
+6630 ¡%s no pudo alcanzar a ningún aliado!#
 6631 ¡%s no pudo llegar a ningún aliado!#
-6632 ¡El %s pierde el coraje!#
-6633 ¡El %s deambula en busca de un aliado!#
+6632 ¡%s pierde el coraje!#
+6633 ¡%s deambula en busca de un aliado!#
 6634 ¡%s deambula en busca de un aliado!#
-6635 ¡El %s no pudo alcanzar a ningún enemigo!#
+6635 ¡%s no pudo alcanzar a ningún enemigo!#
 6636 ¡%s no pudo alcanzar a ningún enemigo!#
-6637 ¡Se anima el %s!#
-6638 ¡El %s deambula en busca de un enemigo!#
+6637 ¡Se anima %s!#
+6638 ¡%s deambula en busca de un enemigo!#
 6639 ¡%s deambula en busca de un enemigo!#
-6640 ¡El %s se convierte en chivo expiatorio!#
+6640 ¡%s carga con la culpa de todo!#
 6641 ¡Te conviertes en un chivo expiatorio!#
 6642 Tus vainas de esporas se marchitan...#
-6643 ¡Estás erizado de vainas de esporas hinchadas!#
-6644 ¡El %s suelta su arma!#
+6643 ¡Te brotan vainas de esporas hinchadas!#
+6644 ¡%s suelta su arma!#
 6645 ¡%s suelta su arma!#
-6646 ¡El %s deja caer su equipo!#
+6646 ¡%s deja caer su equipo!#
 6647 ¡%s deja caer su equipo!#
 6648 Tu alimentación vuelve a la normalidad.#
 6649 Tus provisiones vuelven a la normalidad.#
@@ -6857,13 +6861,13 @@ vuelve al suelo.#
 6651 Suplicas que te multipliquen tus provisiones...#
 6652 ¡Mayor Abundancia preserva tu %s!#
 6653 ¡La abundancia preserva tu %s!#
-6654 ¡Tu magia protege al %s del daño!#
+6654 ¡Tu magia protege a %s del daño!#
 6655 ¡Cubres tu equipo con una barrera mágica!#
 6656 La barrera protectora se desvanece de su equipo.#
 6657 ¡Tu magia no pudo preservar tu %s!#
 6658 Esta trampa ya ha sido saboteada.#
 6659 ¡Saboteas la trampa!#
-6660 ¡Fulminas al %s!#
+6660 ¡Fulminas a %s!#
 6661 ¡Fulminas a %s!#
 6662 ¡Un poco de chatarra sale de la trampa!#
 6663 ¡Tu cuerpo se convierte en niebla!#
@@ -6877,13 +6881,13 @@ vuelve al suelo.#
 6671 es reducido a cenizas por una sílfide ígnea.#
 6672 es asesinado por la mano invisible de un arma sacralizada.#
 6673 explota!#
-6674 ¡Conjuras un %s!#
-6675 ¡No pudiste conjurar un %s!#
-6676 ¡Ya estás empuñando un %s!#
-6677 ¡Astillas el %s del %s!#
-6678 ¡Astillas el %s de %s!#
-6679 ¡Rompiste el %s del %s!#
-6680 ¡Rompiste el %s de %s!#
+6674 ¡Conjuras %s!#
+6675 ¡No pudiste conjurar %s!#
+6676 ¡Ya estás empuñando %s!#
+6677 ¡A %s le astillas su %s!#
+6678 ¡A %s le astillas su %s!#
+6679 ¡A %s le rompes su %s!#
+6680 ¡A %s le rompes su %s!#
 6681 ¡Tu equipo se siente más liviano!#
 6682 Sientes de nuevo el peso de tu equipo.#
 6683 Te acercas a objetos con energía invisible...#
@@ -6891,7 +6895,7 @@ vuelve al suelo.#
 6685 ¡Atas tus armas arrojadizas con magia invisible!#
 6686 Tus armas arrojadizas vuelven a la normalidad.#
 6687 ¡Tu %s regresa a ti!#
-6688 ¡Estás desfigurando el %s!#
+6688 ¡Estás desfigurando %s!#
 6689 ¡Has molestado a %s!#
 6690 La puerta de tu heredad estaba cerrada.#
 6691 La puerta de tu heredad se desvanece.#
@@ -6907,9 +6911,9 @@ vuelve al suelo.#
 6701 SELECCIÓN DE OBJETO DE ASISTENCIA#
 6702 SELECCIÓN DE CLASE#
 6703 SELECCIÓN DE RAZA#
-6704 ¡El %s gira!#
+6704 ¡%s gira!#
 6705 ¡%s da vueltas!#
-6706 ¡El %s se marea!#
+6706 ¡%s se marea!#
 6707 ¡%s se marea!#
 6708 Vandalizar#
 6709 Profanar#
@@ -6922,15 +6926,15 @@ vuelve al suelo.#
 6716 Selecciona una botella de agua para bendecir:#
 6717 Selecciona un objeto para santificar:#
 6718 Selecciona comida para purificar:#
-6719 Este %s
-no puede ser vandalizado.#
-6720 Este %s
-no puede ser profanado.#
-6721 Este %s
-no puede ser bendecido.#
-6722 Este %s
-no puede ser santificado.#
-6723 Este %s
+6719 %s
+no admite vandalismo.#
+6720 %s
+no admite profanación.#
+6721 %s
+no admite bendiciones.#
+6722 %s
+no admite santificación.#
+6723 %s
 no se puede limpiar.#
 6724 Vandalizado %dG usando
 %s.#
@@ -6939,9 +6943,9 @@ no se puede limpiar.#
 6727 Ya estás bajo los efectos de %s.#
 6728 Empiezas a extraer energía de un pozo de magia...#
 6729 Potencias tu próximo lanzamiento con preparación ritual...#
-6730 ¡Estás envuelto por un manto de llamas!#
-6731 ¡Estás rodeado de llamas protectoras!#
-6732 ¡Tu capa de llamas enciende el %s!#
+6730 ¡Un manto de llamas te envuelve!#
+6731 ¡Las llamas protectoras te rodean!#
+6732 ¡Tu capa de llamas enciende %s!#
 6733 ¡Tu capa de llamas enciende %s!#
 6734 ¡Una capa de llamas te prende fuego!#
 6735 ¡Te preparas para absorber energía mágica hostil!#
@@ -6952,34 +6956,34 @@ no se puede limpiar.#
 6740 es rematado por un micónido.#
 6741 aprende lo implacable que puede ser una salamandra.#
 6742 ¡%s recibe el impacto de una semilla enraizada!#
-6743 ¡El %s recibe el golpe de una semilla enraizada!#
+6743 ¡%s recibe el golpe de una semilla enraizada!#
 6744 ¡Te golpea una semilla que está enraizando!#
 6745 ¡%s recibe el impacto de una semilla venenosa!#
-6746 ¡El %s recibe el impacto de una semilla venenosa!#
+6746 ¡%s recibe el impacto de una semilla venenosa!#
 6747 ¡Te golpea una semilla venenosa!#
 6748 ¡No hay terreno para completar el hechizo!#
 6749 hongo#
 6750 ¡No hay espacio para completar el hechizo!#
 6751 Dejas de brillar.#
-6752 ¡Estás cubierto de polvo reluciente!#
+6752 ¡El polvo reluciente te cubre!#
 6753 queda cubierto por un hongo.#
 6754 Hongo#
 6755 El aire está lleno de una espesa niebla.#
-6756 ¡Eres atraído por una fuerza telequinética!#
-6757 ¡Estás atrapado en un vórtice!#
-6758 ¡Estás derribado de golpe!#
+6756 ¡Una fuerza telequinética te atrae!#
+6757 ¡Un vórtice te atrapa!#
+6758 ¡Un golpe te derriba!#
 6759 Hojas#
 6760 se convierte en polvo con el viento.#
-6761 ¡%s está cubierto de polvo brillante!#
-6762 ¡El %s está cubierto de polvo brillante!#
-6763 ¡Estás atrapado!#
-6764 ¡El %s está atrapado!#
-6765 ¡%s está atrapado!#
-6766 ¡El %s no se vio afectado por las bolas!#
-6767 ¡%s no se vio afectado por las bolas!#
+6761 ¡El polvo brillante cubre a %s!#
+6762 ¡El polvo brillante cubre a %s!#
+6763 ¡Te enredas!#
+6764 ¡%s se enreda!#
+6765 ¡%s se enreda!#
+6766 ¡%s no sufrió los efectos de las boleadoras!#
+6767 ¡%s no sufrió los efectos de las boleadoras!#
 6768 [Se necesitan 4 raciones]#
-6769 Combinas el %s con un poco de %s...#
-6770 Disuelves el %s y lo recoges con un %s...#
+6769 Combinas %s con un poco de %s...#
+6770 Disuelves %s y recoges el contenido con %s...#
 6771 Creaste %s.#
 6772 [Sin abrelatas]#
 6773 Cocinar#
@@ -7009,8 +7013,8 @@ para volver a jugar este desafío!
 6792 Ermitaño#
 6793 Paladín#
 6794 ¡Te falta follaje para lanzar el hechizo!#
-6795 ¡Estás cubierto de espinas!#
-6796 ¡Estás cubierto de lianas cortantes!#
+6795 ¡Las espinas te cubren!#
+6796 ¡Las lianas cortantes te cubren!#
 6797 Tus espinas se retiran.#
 6798 Tus lianas cortantes se desmoronan.#
 6799 ¡Te estabilizas con micelio firme!#
@@ -7022,34 +7026,34 @@ para volver a jugar este desafío!
 6805 Se requiere mayor habilidad#
 6806 encuentra su lugar de descanso final.#
 6807 esqueleto revenant#
-6808 ¡Comandas un %s desde los difuntos!#
-6809 ¡Astillas la construcción del %s!#
+6808 ¡Tomas el mando de %s de entre los difuntos!#
+6809 ¡Astillas la construcción de %s!#
 6810 ¡Astillas la construcción de %s!#
 6811 ¡Tu armadura astillada te hiere!#
 6812 ¡Tu armadura destrozada te hiere gravemente!#
 6813 ¡Tu maná no pudo devolver tu %s!#
 6814 No puedes crear un pasaje a través de esta pared.#
-6815 ¡El %s cobra vida!#
+6815 ¡%s cobra vida!#
 6816 cómoda#
 6817 cajón#
 6818 candelabro#
 
-6826 ¡Estás bendecido con la paz!#
-6827 ¡Estás bendecido con la justicia!#
-6828 ¡Estás bendecido con la providencia!#
-6829 ¡Estás bendecido con la pureza!#
-6830 ¡Estás bendecido con el santuario!#
+6826 ¡Recibes la bendición de la paz!#
+6827 ¡Recibes la bendición de la justicia!#
+6828 ¡Recibes la bendición de la providencia!#
+6829 ¡Recibes la bendición de la pureza!#
+6830 ¡Recibes la bendición del santuario!#
 6831 Olvidar#
 6832 Sacrificar un hechizo para recargar:#
 6833 Recargar#
 6834 Recargar#
 6835 Confirmar olvido (%d)#
 6836 Olvidas el hechizo %s.#
-6837 Este %s
+6837 %s
 no se puede utilizar para recargar.#
 6838 Tu %s
-¡Ya está completamente cargado!#
-6839 ¡Tu %s está agotado!#
+¡Ya tiene la carga completa!#
+6839 ¡Tu %s se quedó sin carga!#
 6840 ¡El ícono mantiene a tus enemigos en estasis!#
 6841 ¡El ícono inmoviliza a tus enemigos en su lugar!#
 6842 Filtrar hechizos:
@@ -7063,7 +7067,7 @@ no se puede utilizar para recargar.#
 6849 Afecta la zona muerta analógica de la palanca de control utilizada para girar la cámara del jugador.#
 6850 tabla de %s#
 6851 tablas de %s#
-6852 ¡El %s se deteriora y se convierte en cenizas!#
+6852 ¡%s se deteriora y se convierte en cenizas!#
 6853 no sobrevivió al impacto.#
 6854 Velocidad#
 6855 No hay suficientes recursos#
@@ -7073,7 +7077,7 @@ no se puede utilizar para recargar.#
 6859 Tu capa de llamas se reduce a cenizas.#
 6860 ¡Tu capa de llamas está rugiendo en llamas!#
 6861 ¡El pergamino estalla en un manto de llamas!#
-6862 ¡Estás protegido por una burbuja mágica!#
+6862 ¡Una burbuja mágica te protege!#
 6863 Tu burbuja mágica se desvanece.#
 6864 La guardia sobre tu cuerpo se desvanece.#
 6865 La guardia sobre tu espíritu se desvanece.#
@@ -7102,29 +7106,29 @@ no se puede utilizar para recargar.#
 6888 Confirmar#
 6889 Deseleccionar#
 6890 ¡%s crece en fuerza!#
-6891 ¡El %s no puede volverse más fuerte!#
+6891 ¡%s no puede volverse más fuerte!#
 6892 ¡%s no puede volverse más fuerte!#
 6893 ¡%s se marchita!#
-6894 ¡El %s no puede marchitarse más!#
+6894 ¡%s no puede marchitarse más!#
 6895 ¡%s no puede marchitarse más!#
-6896 ¡Te sientes agrandado!#
-6897 ¡Te sientes disminuido!#
+6896 ¡Sientes que aumentas de tamaño!#
+6897 ¡Sientes que disminuyes de tamaño!#
 6898 Tu estatura se siente normal una vez más.#
 6899 No pudiste vislumbrar a ningún otro aliado.#
 6900 ¡%s pierde el coraje!#
 6901 ¡Se anima a %s!#
-6902 ¡%s está obligado a obedecer tus órdenes!#
-6903 ¡%s se convierte en un chivo expiatorio!#
+6902 ¡%s obedece tus órdenes por obligación!#
+6903 ¡%s carga con la culpa de todo!#
 6904 ¡Maldices la carne de %s!#
-6905 ¡La vitalidad del %s está desafiada!#
+6905 ¡La vitalidad de %s está desafiada!#
 6906 ¡La vitalidad de %s está desafiada!#
 6907 ¡Tu vitalidad está desafiada!#
 6908 ¡Tu hechizo no tiene ningún efecto en este momento!#
 6909 ¡El poder con hechizos de %s ha disminuido!#
-6910 ¡El poder con hechizos del %s ha disminuido!#
+6910 ¡El poder con hechizos de %s ha disminuido!#
 6911 ¡Tu poder con hechizos ha disminuido!#
-6912 ¡De repente te sientes bastante alto!#
-6913 ¡De repente te sientes bastante pequeño!#
+6912 ¡De repente sientes que aumentas de altura!#
+6913 ¡De repente sientes que disminuyes de tamaño!#
 6914 ¡De repente detectas un cambio de apariencia!#
 6915 Caldero#
 6916 ¡Tus llamas apagadas aumentan tu fervor!#
@@ -7138,8 +7142,8 @@ no se puede utilizar para recargar.#
 6924 ¡Tu follaje florece con nutrición!#
 6925 ¡Tu follaje crece!#
 6926 Tu oración sobre %s se desvanece.#
-6927 Tu oración en el %s se desvanece.#
-6928 ¡El %s recibe una oración por curación!#
+6927 Tu oración en %s se desvanece.#
+6928 ¡%s recibe una oración por curación!#
 6929 ¡%s recibe una oración por curación!#
 6930 ¡Oras por curación!#
 6931 Tu oración se desvanece.#
@@ -7155,21 +7159,21 @@ no se puede utilizar para recargar.#
 6941 No se le consideró digno de una donación adicional.#
 6942 Su llamado a la divina providencia queda sin respuesta.#
 6943 ¡Descubres un don de la divina providencia!#
-6944 ¡Tu aliado %s descubre un regalo de la divina providencia!#
-6945 ¡El aliado de %s, %s, descubre un regalo de la divina providencia!#
+6944 ¡%s de tu grupo descubre un regalo de la divina providencia!#
+6945 ¡Del grupo de %s, %s descubre un regalo de la divina providencia!#
 6946 No puedes detectar más monstruos cerca.#
 6947 No puedes detectar ningún monstruo cercano.#
 6948 No puedes localizar más monstruos cercanos.#
 6949 No puedes localizar monstruos cercanos.#
-6950 ¡El %s es golpeado con precisión divina!#
-6951 ¡%s es golpeado con precisión divina!#
+6950 ¡%s recibe un golpe de precisión divina!#
+6951 ¡%s recibe un golpe de precisión divina!#
 6952 ¡Cubres el área con un sello divino!#
 6953 ¡Cubres el área con un santuario divino!#
-6954 ¡El %s se une a tu servicio!#
+6954 ¡%s se une a tu servicio!#
 6955 ¡%s se une a tu servicio!#
 6956 (%02d:%02d%) Tasando...#
 6957 (%02d:%02d%) %3.0f%% Tasando...#
-6958 ¡Saboteas la construcción del %s!#
+6958 ¡Saboteas la construcción de %s!#
 6959 ¡Saboteas la construcción de %s!#
 6960 Tu llave maestra está dañada.#
 6961 Tu llave maestra está rota.#
@@ -7177,10 +7181,10 @@ no se puede utilizar para recargar.#
 6963 ¡El escarabajo inflige una maldición de debilidad!#
 6964 ¡El escarabajo inflige una maldición mayor de debilidad!#
 6965 N/A#
-6966 ¡Tu influencia no es lo suficientemente alta como para obligar al %s!#
+6966 ¡Tu influencia no es lo suficientemente alta como para obligar a %s!#
 6967 ¡Tu influencia no es lo suficientemente alta como para obligar a %s!#
-6968 ¡El %s se niega a ser obligado a seguir adelante!#
-6969 ¡%s se niega a ser obligado a seguir!#
+6968 ¡%s se niega a seguir obedeciendo por obligación!#
+6969 ¡%s se niega a seguir obedeciendo por obligación!#
 6970 no pudo dejar caer parte de su equipo.#
 6971 ¡Tu burbuja mágica mejora!#
 6972 Tu burbuja mágica ha llegado al límite de tus poderes.#
@@ -7202,7 +7206,7 @@ no se puede utilizar para recargar.#
 6988 Reclamar#
 6989 El DLC Desertores y Discípulos
 ¡ha sido desbloqueado!#
-6990 ¡Quedas cegado por una bola de desechos voladora!
+6990 ¡Una bola de desechos en pleno vuelo te causa ceguera!
  *¡SPLAT!*#
 6991 ¡Mmm! ¡Comida podrida!#
 6992 ¡Tus objetos no identificados son tasados aún más!#

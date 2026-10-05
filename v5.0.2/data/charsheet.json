@@ -169,7 +169,7 @@
 			"attributes_rgn_hp_base_sum_header": "Regeneración de PV Acumulada:",
 			"attributes_rgn_hp_base": "Regeneración de PV Total:",
 			"attributes_rgn_sources": "Modificador de Regen.:\n (Desde objetos/efectos)",
-			"attributes_rgn_base_value": "Bonus Racial (%s):",
+			"attributes_rgn_base_value": "NVL de Clase / Bonus Racial:",
 			"attributes_rgn_entry_items_bonus": "Bonus de Objetos / Efectos:",
 			"attributes_rgn_plain_display": "Tasa Efectiva:",
 			"attributes_rgn_hp_per_second_format_zero": "0 PV cada %2.1f segundos",
