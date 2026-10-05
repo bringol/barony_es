@@ -32,17 +32,17 @@
 		}
 	},
 	"help_strings": {
-		"hungry": "Hambriento",
-		"very_hungry": "Muy Habmbiernto",
-		"starving": "Famélico",
-		"hungry_blood": "Hambriento",
-		"very_hungry_blood": "Muy Habmbiernto",
-		"starving_blood": "Famélico",
+		"hungry": "Con hambre",
+		"very_hungry": "Con mucha hambre",
+		"starving": "Inanición",
+		"hungry_blood": "Con hambre",
+		"very_hungry_blood": "Con mucha hambre",
+		"starving_blood": "Inanición",
 		"healing": "Necesita Curación",
 		"healing_urgent": "Curación Urgente",
 		"low_steam": "Necesita Combustible",
 		"empty_steam": "Caldera Vacía",
-		"ghost": "Fallecido",
+		"ghost": "Sin vida",
 		"separator": "/"
 	},
 	"world_icons" : {
@@ -574,25 +574,25 @@
 			},
 			"item" : 
 			{
-				"text": "Hay un %s aquí.",
+				"text": "Aquí hay %s.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Hay un %s aquí.\"",
+				"msg_says": "%s\"Aquí hay %s.\"",
 				"world_icon": "tag_spot-item",
 				"world_icon_small": "mini_item"
 			},
 			"item_an" : 
 			{
-				"text": "Hay un %s aquí.",
+				"text": "Aquí hay %s.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Hay un %s aquí.\"",
+				"msg_says": "%s\"Aquí hay %s.\"",
 				"world_icon": "tag_spot-item",
 				"world_icon_small": "mini_item"
 			},
 			"npc" : 
 			{
-				"text": "Hay un %s aquí.",
+				"text": "Aquí hay %s.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Hay un %s aquí.\"",
+				"msg_says": "%s\"Aquí hay %s.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
@@ -606,41 +606,41 @@
 			},
 			"npc_an" : 
 			{
-				"text": "Hay un %s aquí.",
+				"text": "Aquí hay %s.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Hay un/a %s aquí\"",
+				"msg_says": "%s\"Aquí hay %s\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
 			"npc_enemy_named" : 
 			{
-				"text": "¡El enemigo %s está aquí!",
+				"text": "¡Criatura hostil: %s está aquí!",
 				"word_highlights" : [2],
-				"msg_says": "%s\"¡El enemigo %s está aquí!\"",
+				"msg_says": "%s\"¡Criatura hostil: %s está aquí!\"",
 				"world_icon": "tag_bad-NPC",
 				"world_icon_small": "mini_spot"
 			},
 			"npc_enemy" : 
 			{
-				"text": "¡Enemigo %s!",
+				"text": "¡Hostil: %s!",
 				"word_highlights" : [1],
-				"msg_says": "%s\"¡Enemigo %s!\"",
+				"msg_says": "%s\"¡Hostil: %s!\"",
 				"world_icon": "tag_bad-NPC",
 				"world_icon_small": "mini_spot"
 			},
 			"npc_ally" : 
 			{
-				"text": "Nuestro aliado %s está aquí.",
+				"text": "Del equipo: %s está aquí.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Nuestro aliado %s está aquí.\"",
+				"msg_says": "%s\"Del equipo: %s está aquí.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_heal"
 			},
 			"player_look" : 
 			{
-				"text": "Nuestro aliado %s está aquí.",
+				"text": "Del equipo: %s está aquí.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Nuestro aliado %s está aquí.\"",
+				"msg_says": "%s\"Del equipo: %s está aquí.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_heal"
 			},
@@ -727,17 +727,17 @@
 			},
 			"trap" : 
 			{
-				"text": "Hay un/a %s aquí.",
+				"text": "Aquí hay %s.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Hay un/a %s aquí.\"",
+				"msg_says": "%s\"Aquí hay %s.\"",
 				"world_icon": "tag_spot-trap",
 				"world_icon_small": "mini_spot"
 			},
 			"generic_interactable" : 
 			{
-				"text": "Señala el/la %s.",
+				"text": "Señala lo siguiente: %s.",
 				"word_highlights" : [3, 4],
-				"msg_says": "%s\"Hay un %s aquí.\"",
+				"msg_says": "%s\"Aquí hay %s.\"",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
@@ -854,7 +854,7 @@
 			{
 				"text": "Indica %s.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"%s fue ha colocado aquí.\"",
+				"msg_says": "%s\"Aquí colocaron %s.\"",
 				"world_icon": "tag_spot-trap",
 				"world_icon_small": "mini_spot"
 			},
@@ -984,17 +984,17 @@
 			},
 			"condition_food_hungry":
 			{
-				"text": "¡Necesito comida! (Hambriento)",
+				"text": "¡Necesito comida! (Con hambre)",
 				"word_highlights" : [3],
-				"msg_says": "%s\"¡Necesito comida! (Hambriento)",
+				"msg_says": "%s\"¡Necesito comida! (Con hambre)",
 				"world_icon": "tag_help-food",
 				"world_icon_small": "mini_help"
 			},
 			"condition_blood_hungry":
 			{
-				"text": "¡Necesito sangre! (Hambriento)",
+				"text": "¡Necesito sangre! (Con hambre)",
 				"word_highlights" : [],
-				"msg_says": "%s\"¡Necesito sangre! (Hambriento)",
+				"msg_says": "%s\"¡Necesito sangre! (Con hambre)",
 				"world_icon": "tag_help-food",
 				"world_icon_small": "mini_help"
 			},
@@ -1073,25 +1073,25 @@
 			},
 			"item" : 
 			{
-				"text": "Necesito respaldo con esto %s.",
+				"text": "Necesito algo de ayuda con %s.",
 				"word_highlights" : [5],
-				"msg_says": "%s\"Necesito respaldo con esto %s.\"",
+				"msg_says": "%s\"Necesito algo de ayuda con %s.\"",
 				"world_icon": "tag_help-item",
 				"world_icon_small": "mini_help"
 			},
 			"item_an" : 
 			{
-				"text": "Necesito respaldo con esto %s.",
+				"text": "Necesito algo de ayuda con %s.",
 				"word_highlights" : [5],
-				"msg_says": "%s\"Necesito respaldo con esto %s.\"",
+				"msg_says": "%s\"Necesito algo de ayuda con %s.\"",
 				"world_icon": "tag_help-item",
 				"world_icon_small": "mini_help"
 			},
 			"npc" : 
 			{
-				"text": "¡Necesito ayuda con esto %s!",
+				"text": "¡Necesito algo de ayuda con %s!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"¡Necesito ayuda con esto %s!\"",
+				"msg_says": "%s\"¡Necesito algo de ayuda con %s!\"",
 				"world_icon": "tag_help-npc",
 				"world_icon_small": "mini_help"
 			},
@@ -1105,9 +1105,9 @@
 			},
 			"npc_an" : 
 			{
-				"text": "¡Necesito ayuda con esto %s!",
+				"text": "¡Necesito algo de ayuda con %s!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"¡Necesito ayuda con esto %s!\"",
+				"msg_says": "%s\"¡Necesito algo de ayuda con %s!\"",
 				"world_icon": "tag_help-npc",
 				"world_icon_small": "mini_help"
 			},
@@ -1121,17 +1121,17 @@
 			},
 			"npc_enemy" : 
 			{
-				"text": "¡Necesito ayuda con esto %s!",
+				"text": "¡Necesito algo de ayuda con %s!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"¡Necesito ayuda con esto %s!\"",
+				"msg_says": "%s\"¡Necesito algo de ayuda con %s!\"",
 				"world_icon": "tag_help-npc",
 				"world_icon_small": "mini_help"
 			},
 			"npc_ally" : 
 			{
-				"text": "¡Nuesto aliado %s necesita ayuda!",
+				"text": "¡Del equipo: %s necesita ayuda!",
 				"word_highlights" : [2],
-				"msg_says": "%s\"¡Nuesto aliado %s necesita ayuda!\"",
+				"msg_says": "%s\"¡Del equipo: %s necesita ayuda!\"",
 				"world_icon": "tag_help-npc",
 				"world_icon_small": "mini_help"
 			},
@@ -1217,9 +1217,9 @@
 			},
 			"trap" : 
 			{
-				"text": "¡Necesito ayuda junto a esta %s!",
+				"text": "¡Necesito tu ayuda junto a %s!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"¡Necesito ayuda junto a esta %s!\"",
+				"msg_says": "%s\"¡Necesito tu ayuda junto a %s!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
@@ -1340,17 +1340,17 @@
 			},
 			"bomb" : 
 			{
-				"text": "¡Necesito ayuda junto a esta %s!",
+				"text": "¡Necesito tu ayuda junto a %s!",
 				"word_highlights" : [5],
-				"msg_says": "%s\"¡Necesito ayuda junto a esta %s!\"",
+				"msg_says": "%s\"¡Necesito tu ayuda junto a %s!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			},
 			"collider" : 
 			{
-				"text": "¡Necesito ayuda con esto breakable %s.",
+				"text": "¡Necesito algo de ayuda para atravesar %s!",
 				"word_highlights" : [6],
-				"msg_says": "%s\"¡Necesito ayuda con esto breakable %s.\"",
+				"msg_says": "%s\"¡Necesito algo de ayuda para atravesar %s!\"",
 				"world_icon": "tag_help",
 				"world_icon_small": "mini_help"
 			}
@@ -1474,17 +1474,17 @@
 			},
 			"npc_enemy" : 
 			{
-				"text": "¡Ataca al enemigo %s!",
+				"text": "¡Ataca al objetivo %s!",
 				"word_highlights" : [2],
-				"msg_says": "%s\"¡Ataca al enemigo %s!\"",
+				"msg_says": "%s\"¡Ataca al objetivo %s!\"",
 				"world_icon": "tag_good-NPC",
 				"world_icon_small": "mini_move"
 			},
 			"npc_ally" : 
 			{
-				"text": "Nuestro camarada %s es una persona capaz.",
+				"text": "Del equipo: %s tiene talento.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Nuestro camarada %s es una persona capaz.\"",
+				"msg_says": "%s\"Del equipo: %s tiene talento.\"",
 				"world_icon": "tag_good",
 				"world_icon_small": "mini_yes"
 			},
@@ -1570,9 +1570,9 @@
 			},
 			"trap" : 
 			{
-				"text": "Creo que estamos a salvo de la %s.",
+				"text": "Creo que ahora %s no supone peligro.",
 				"word_highlights" : [3],
-				"msg_says": "%s\"Creo que estamos a salvo de la %s.\"",
+				"msg_says": "%s\"Creo que ahora %s no supone peligro.\"",
 				"world_icon": "tag_good-trap",
 				"world_icon_small": "mini_yes"
 			},
@@ -1698,9 +1698,9 @@
 			},
 			"collider" : 
 			{
-				"text": "Atravesemos esta %s.",
+				"text": "Podemos abrirnos paso por %s.",
 				"word_highlights" : [4],
-				"msg_says": "%s\"Atravesemos esta %s.\"",
+				"msg_says": "%s\"Podemos abrirnos paso por %s.\"",
 				"world_icon": "tag_good-NPC",
 				"world_icon_small": "mini_help"
 			}
@@ -1790,7 +1790,7 @@
 			{
 				"text": "%s no está a la altura de las circunstancias.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"Nuestro camarada %s no está a la altura de las circunstancias.\"",
+				"msg_says": "%s\"%s de nuestro grupo no está a la altura de las circunstancias.\"",
 				"world_icon": "tag_bad",
 				"world_icon_small": "mini_no"
 			},
@@ -1876,9 +1876,9 @@
 			},
 			"trap" : 
 			{
-				"text": "Esa %s pudo haber sido letal.",
+				"text": "Cuidado: %s podría causar problemas.",
 				"word_highlights" : [1],
-				"msg_says": "%s\"Esa %s podría ser peligrosa.\"",
+				"msg_says": "%s\"Cuidado: %s podría causar problemas.\"",
 				"world_icon": "tag_bad-trap",
 				"world_icon_small": "mini_danger"
 			},
@@ -1996,17 +1996,17 @@
 			},
 			"bomb" : 
 			{
-				"text": "No toques la %s.",
+				"text": "No toques %s.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"No toques la %s.\"",
+				"msg_says": "%s\"No toques %s.\"",
 				"world_icon": "tag_bad-trap",
 				"world_icon_small": "mini_no"
 			},
 			"collider" : 
 			{
-				"text": "No toques la %s.",
+				"text": "No toques %s.",
 				"word_highlights" : [2],
-				"msg_says": "%s\"No toques la %s.\"",
+				"msg_says": "%s\"No toques %s.\"",
 				"world_icon": "tag_bad-interact",
 				"world_icon_small": "mini_no"
 			}
