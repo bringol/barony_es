@@ -3,7 +3,7 @@
   "tags": [
     {
       "BLOCKED_ATTACKS": {
-        "default": "Ataques Completamente Bloqueados:",
+        "default": "Bloqueos Completos:",
 		"format": "%d Impactos"
       }
     },
@@ -2452,7 +2452,7 @@
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_CLASS_PLAYTIME": {
-		  "default": "Tiempo de Juego:",
+		  "default": "Tiempo:",
 		  "format": "Rango: #"
 	  },
 	  "CUSTOM_ITEMS_DEGRADED": {
@@ -2521,7 +2521,7 @@
 		  "format_time": "%02d:%02d:%02d"
 	  },
 	  "CUSTOM_LEVEL_PLAYTIME": {
-		  "default": "Tiempo de Juego:",
+		  "default": "Tiempo:",
 		  "format0": "Veces Visitado: %d",
 		  "format1": "Tiempo Dedicado: %t",
 		  "format2": "Tiempo Dedicado: %t",
@@ -2533,7 +2533,7 @@
 		  "format_time": "%02d:%02d:%02d"
 	  },
 	  "CUSTOM_BIOME_PLAYTIME": {
-		  "default": "Tiempo de Juego:",
+		  "default": "Tiempo:",
 		  "format0": "Pisos Entrados: %d",
 		  "format1": "Pisos Completados: %d",
 		  "format2": "Tiempo Dedicado: %t",
@@ -2553,14 +2553,14 @@
 		  "format_time": "%02d:%02d:%02d"
 	  },
 	  "CUSTOM_HALLOFTRIALS_TIME": {
-		  "default": "Tiempo de Juego:",
+		  "default": "Tiempo:",
 		  "format0": "Tiempo Dedicado: %t",
 		  "format_time": "%02d:%02d:%02d"
 	  },
 	  "CUSTOM_MINEHEAD_GAMES": {
 		  "default": "Partidas de Mazmorra:",
 		  "format0": "Juegos Iniciados: %d",
-		  "format1": "Tiempo de Juego: %t",
+		  "format1": "Tiempo: %t",
 		  "format2": "Partidas en Solitario: %d",
 		  "format3": "Partidas Online: %d",
 		  "format4": "Partidas LAN: %d",
