@@ -62,39 +62,39 @@
 			"unknown_scroll": "pergamino desconocido"
 		},
 		"equipment_status": {
-			"broken": "[Inservible]",
-			"decrepit": "[Deficiente]",
-			"worn": "[Endeble]",
-			"serviceable": "[Utilizable]",
-			"excellent": "[Excelente]"
+			"broken": "Inservible",
+			"decrepit": "Deficiente",
+			"worn": "Endeble",
+			"serviceable": "Utilizable",
+			"excellent": "Excelente"
 		},
 		"food_status": {
-			"broken": "[Incomible]",
-			"decrepit": "[Repugnante]",
-			"worn": "[Decadente]",
-			"serviceable": "[Comestible]",
-			"excellent": "[Saludable]"
+			"broken": "Incomible",
+			"decrepit": "Repugnante",
+			"worn": "Decadente",
+			"serviceable": "Comestible",
+			"excellent": "Saludable"
 		},
 		"potion_status": {
-			"broken": "[Volátil]",
-			"decrepit": "[Decadente]",
-			"worn": "[Remolinante]",
-			"serviceable": "[Decente]",
-			"excellent": "[Burbujeante]"
+			"broken": "Volátil",
+			"decrepit": "Decadente",
+			"worn": "Remolinante",
+			"serviceable": "Decente",
+			"excellent": "Burbujeante"
 		},
 		"book_status": {
-			"broken": "[Ilegible]",
-			"decrepit": "[Deplorable]",
-			"worn": "[Tenue]",
-			"serviceable": "[Legible]",
-			"excellent": "[Impecable]"
+			"broken": "Ilegible",
+			"decrepit": "Deplorable",
+			"worn": "Tenue",
+			"serviceable": "Legible",
+			"excellent": "Impecable"
 		},
 		"jewelry_status": {
-			"broken": "[Irreparable]",
-			"decrepit": "[Frágil]",
-			"worn": "[Irregular]",
-			"serviceable": "[Regular]",
-			"excellent": "[Deslumbrante]"
+			"broken": "Irreparable",
+			"decrepit": "Frágil",
+			"worn": "Irregular",
+			"serviceable": "Regular",
+			"excellent": "Deslumbrante"
 		},
 		"jewel_levels": {
 			"1": "[Las Minas] y\nprofundidades previas ",
@@ -103,11 +103,11 @@
 			"4": "toda la mazmorra\n"
 		},
 		"tinkering_status": {
-			"broken": "[Inservible]",
-			"decrepit": "[Simple]",
-			"worn": "[Singular]",
-			"serviceable": "[Fascinante]",
-			"excellent": "[Artesanal]"
+			"broken": "Inservible",
+			"decrepit": "Simple",
+			"worn": "Singular",
+			"serviceable": "Fascinante",
+			"excellent": "Artesanal"
 		},
 		"beatitude_status": {
 			"cursed": "[Infame]",
