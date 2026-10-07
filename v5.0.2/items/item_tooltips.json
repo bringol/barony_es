@@ -206,8 +206,8 @@
 			"EFF_FEATHER": "[Peso Ligero]",
 			"EFF_WATERWALKING": "Brinda [Paso Acuático]",
 			"EFF_POISONRESIST": "Brinda [Antiveneno]",
-			"EFF_MAGICRESIST": "+1  [Resistencia Mágica]",
-			"EFF_MAGICRESIST_SHIELD": "+1  [Resistencia Mágica]",
+			"EFF_MAGICRESIST": "+30% [Resistencia Mágica]",
+			"EFF_MAGICRESIST_SHIELD": "+30% [Resistencia Mágica]",
 			"EFF_MAGICREFLECT": "Brinda [Reflejar Magia]",
 			"EFF_SEXCHANGE": "Aplica [Cambiar Sexo]",
 			"EFF_WATERBREATHING": "Brinda [Respiración Acuática]",
@@ -306,7 +306,7 @@
 		"template_ring_curse_sideeffect": [ "^* Efectos adicionales de %s\n" ],
 		"template_shamanmask_curse_sideeffect": [ "^* Efectos adicionales de %s" ],
 		"template_monocle_curse_sideeffect": [ "^* Efectos adicionales de %s\n" ],
-		"template_doublet_curse_sideeffect": [ "^* Efectos adicionales de\n^%s\n" ],
+		"template_doublet_curse_sideeffect": [ "^* Efectos adicionales de %s\n" ],
 		"template_scroll_curse_sideeffect": [ "^* Efectos adicionales de %s" ],
 		"template_hatnewline_curse_sideeffect": [ "^* Efectos adicionales de %s\n" ],
 		"template_food_curse_sideeffect": [ "^* Efectos adicionales de %s\n" ],
@@ -315,7 +315,7 @@
 		"template_armor_beatitude_ac": [ "%+d CA de %s" ],
 		"template_armor_shield_bonus": [ "+%d CA pasivo de Hab. %s ", "+%d CA al defender bonus de Hab. %s" ],
 		"template_tool_shield_bonus": [ "+%d CA al defender bonus de Hab. %s" ],
-		"template_armor_shield_resistance_bonus": [ "* Adicional +1  [Resistencia Mágica] \n al defender" ],
+		"template_armor_shield_resistance_bonus": [ "* Adicional +30% [Resistencia Mágica] \n al defender" ],
 		"template_shield_description": [ "Brinda CA adicional mientras defiendes." ],
 		"template_mirror_shield_description": [ "Un escudo frágil que refleja todo hechizo al defender." ],
 		"template_armor_cloak_backpack_description": [ "Incrementa capacidad de inventario.", "Remover la mochila soltará todos los objetos en esta." ],
@@ -375,7 +375,7 @@
 		"template_weapon_mace_effects": [ "+10% romper armaduras al golpear" ],
 		"template_weapon_axe_effects": [ "* Incrementa ataque en objetos de madera" ],
 		"template_weapon_sword_effects": [ "+10% chance de [Sangrado] al golpear" ],
-		"template_weapon_polearm_effects": [ "+33% daño mínimo de arma" ],
+		"template_weapon_polearm_effects": [ "+10% daño mínimo de arma" ],
 		"template_weapon_legendary_polearm_effects": [ "* Siempre golpea con su daño máximo" ],
 		"template_weapon_skill_modifier": [ "%+d%% efectividad por Hab. %s" ],
 		"template_weapon_skill_modifier_range": [ "* (%d%% - %d%%) de variación de ATQ por", "pericia %s" ],
@@ -467,7 +467,7 @@
 		"template_armor_resist_icon": [ "resistencia:\nDaño de [%s]\n"],
 		"template_equipment_effect_feather": [ "%+d objeto base por peso %s" ],
 		"template_equipment_effect_waterwalking": [ "* Usuario flota en agua y lava por [Paso Acuático]" ],
-		"template_equipment_effect_poisonresist": [ "* Cura efecto de estado [veneno]", "+2 [Resistencia Mágica] contra\nVeneno / hechizos de ácido", "+60% [Resistencia Mágica]\ncontra Veneno / Ácido" ],
+		"template_equipment_effect_poisonresist": [ "* Cura efecto de estado [veneno]", "* 12.5% de probabilidad de degradarse al curar", "+60% [Resistencia Mágica]\ncontra Veneno / Ácido" ],
 		"template_equipment_effect_burningresist": [ "* Cura el efecto [Quemadura]", "* 12.5% chance de degradarse al curar" ],
 		"template_equipment_effect_magicreflect": [ "* Refleja magia al ser golpeado", "* 50% de chance de degradarse al reflejar" ],
 		"template_equipment_effect_waterbreathing": [ "* 100% de velocidad en agua o\n lava" ],
@@ -545,7 +545,7 @@
 		"template_icon_spell_strike": [ "Carga un poderoso \nataque haciendo +400%% de ATQ" ],
 		"template_icon_spell_detect_food": [ "Revela comida en el", "mapa de mazmorra actual" ],
 		"template_icon_spell_weakness": ["Inflige [Debilidad Mágica]", "%-d%% de [Poder de Ataque]"],
-		"template_desc_spell_weakness": [ "Inflige [Debilidad Mágica]", "lanzar el [Proyectil]." ],
+		"template_desc_spell_weakness": [ "Pulsa [Canalizar] al equipar para", "canalizar el [Proyectil]." ],
 		"template_icon_spell_amplify_magic": [ "Empodera [Bola de Fuego] [Frío]", "[Relámpago] [Misil Mágico]" ],
 		"template_icon_spell_shadow_tag": [ "Inflige [Anular] y", "revela ubicación del objetivo" ],
 		"template_icon_spell_telepull": [ "[Teletransporte] un objetivo\nhacia el usuario" ],
@@ -565,11 +565,11 @@
 		"template_desc_spell_removecurse": [ "Pulsa [Canalizar] al equipar", "para elegir un objeto y romper su maldición." ],
 		"template_desc_spell_lightning": [ "Pulsa [Canalizar] al equipar", "para canalizar el [Proyectil]." ],
 		"template_desc_spell_identify": [ "Pulsa [Canalizar] al equipar", "para elegir objeto a Identificar." ],
-		"template_desc_spell_magicmapping": [ "Pulsa [Canalizar] al equipar para ver", "áreas sin exploarar en el mapa." ],
+		"template_desc_spell_magicmapping": [ "Pulsa [Canalizar] al equipar para ver", "áreas sin explorar en el mapa." ],
 		"template_desc_spell_sleep": [ "Pulsa [Canalizar] al equipar", "para canalizar el [Proyectil]." ],
 		"template_desc_spell_confuse": [ "Pulsa [Canalizar] al equipar", "para canalizar el [Proyectil]." ],
 		"template_desc_spell_slow": [ "Pulsa [Canalizar] al equipar", "para canalizar el [Proyectil]." ],
-		"template_desc_spell_opening": [ "Pulsa [Canalizar] al equipar para ", "cast the [Proyectil]." ],
+		"template_desc_spell_opening": [ "Pulsa [Canalizar] al equipar para ", "canalizar el [Proyectil]." ],
 		"template_desc_spell_locking": [ "Pulsa [Canalizar] al equipar", "para canalizar el [Proyectil]." ],
 		"template_desc_spell_levitation": [ "Pulsa [Canalizar] al equipar para", "alternar el efecto [Sostenido]." ],
 		"template_desc_spell_invisibility": [ "Pulsa [Canalizar] al equipar para", "alternar el efecto [Sostenido]." ],
@@ -578,36 +578,36 @@
 		"template_desc_spell_extrahealing": [ "Pulsa [Canalizar] al equipar para", "invocar el [Área] de efecto." ],
 		"template_desc_spell_cureailment": [ "Pulsa [Canalizar] al equipar para", "invocar el [Área] de efecto." ],
 		"template_desc_spell_dig": [ "Pulsa [Canalizar] al equipar", "para canalizar el [Proyectil]." ],
-		"template_desc_spell_summon": [ "Pulsa [Canalizar] al equipar para invocar.", "Las invocaciones existentes son retiradas y", "restaura PM en canalizaciones posteriores." ],
+		"template_desc_spell_summon": [ "Pulsa [Canalizar] al equipar para invocar.", "Al volver a canalizar, se retiran las", "invocaciones existentes y se recuperan PM." ],
 		"template_desc_spell_stoneblood": [ "Hechizo de corto alcance.", "Pulsa [Canalizar] al equipar ", "para canalizar 3x [Proyectiles]." ],
 		"template_desc_spell_bleed": [ "Pulsa [Canalizar] al equipar", "para canalizar el [Proyectil]." ],
 		"template_desc_spell_reflect_magic": [ "Pulsa [Canalizar] al equipar para", "Alternar el efecto [Sostenido]." ],
 		"template_desc_spell_dominate": [ "Costo de PM incrementa por cada PV", "del objetivo dominado.", "Pulsa [Canalizar] al equipar", "para canalizar el [Proyectil]." ],
 		"template_desc_spell_acid_spray": [ "Corroe la armadura al golpear.", "Hechizo de corto alcance.", "Pulsa [Canalizar] al equipar ", "para canalizar 3x [Proyectiles]." ],
-		"template_desc_spell_steal_weapon": [ "La arma robada es añadida al", "inventario del canalizador.", "Pulsa [Canalizar] al equipar", "para canalizar el [Proyectil]." ],
+		"template_desc_spell_steal_weapon": [ "El arma robada se añade al", "inventario de quien canaliza.", "Pulsa [Canalizar] al equipar", "para canalizar el [Proyectil]." ],
 		"template_desc_spell_drain_soul": [ "Cura en base al daño ocasionado.", "Pulsa [Canalizar] al equiparlo para", "usar el [Proyectil]." ],
 		"template_desc_spell_vampiric_aura": [ "Incrementa la tasa de hambruna mientras está activada.", "Pulsa [Canalizar] al equipar para alternar", "el efecto [Sostenido]." ],
-		"template_desc_spell_charm": [ "El Éxito varía con el tipo de monstruo.", "Sólo un montruio puede ser Encantado", "un aliado a la vez.", "Pulsa [Canalizar] al equipar para canalizar", "el [Proyectil]." ],
+		"template_desc_spell_charm": [ "El Éxito varía con el tipo de monstruo.", "Solo se puede Encantar a un monstruo", "para convertirlo en aliado a la vez.", "Pulsa [Canalizar] al equipar para canalizar", "el [Proyectil]." ],
 		"template_desc_spell_revert_form": [ "Pulsa [Canalizar] al equipar para", "volver a la forma normal." ],
-		"template_desc_spell_rat_form": [ "Pulsa [Canalizar] al equipar to", "cambiar a una forma de Rata." ],
+		"template_desc_spell_rat_form": [ "Pulsa [Canalizar] al equipar para", "cambiar a una forma de Rata." ],
 		"template_desc_spell_spider_form": [ "Pulsa [Canalizar] al equipar para", "cambiar a una forma Artrópoda." ],
 		"template_desc_spell_troll_form": [ "Pulsa [Canalizar] al equipar para", "cambiar a una forma de Troll." ],
 		"template_desc_spell_imp_form": [ "Pulsa [Canalizar] al equipar para", "cambiar a una forma de Diablillo." ],
 		"template_desc_spell_spray_web": [ "Cada instancia incrementa efectividad.", "Hechizo corta distancia. Pulsa [Canalizar] al", "equipar para canalizar 3x [Proyectiles]." ],
 		"template_desc_spell_poison": [ "Pulsa [Canalizar] al equipar", "para canalizar el [Proyectil]." ],
-		"template_desc_spell_speed": [ "Pulsa [Canalizar] al equipar to", "invocar el [Área] de efecto." ],
-		"template_desc_spell_fear": [ "Objetivos con Miedo no pueden atacar", "y enfocan su atención en el canalizador.", "Pulsa [Canalizar] al equipar para invocar", "el [Área] de effect." ],
-		"template_desc_spell_strike": [ "Pulsa [Canalizar] al equipar para", "cambiar el ataque." ],
+		"template_desc_spell_speed": [ "Pulsa [Canalizar] al equipar para", "invocar el efecto de [Área]." ],
+		"template_desc_spell_fear": [ "Los objetivos con Miedo no pueden atacar", "y centran su atención en quien canaliza.", "Pulsa [Canalizar] al equipar para invocar", "el efecto de [Área]." ],
+		"template_desc_spell_strike": [ "Pulsa [Canalizar] al equipar para", "cargar el ataque." ],
 		"template_desc_spell_detect_food": [ "Pulsa [Canalizar] al equipar para", "mostrar la ubicación de alimentos en el mapa." ],
 		"template_desc_spell_amplify_magic": [ "Incrementa el daño y reduce el rango", "de hechizos elementales canalizados.", "Pulsa [Canalizar] al equipar para alternar", "el efecto [Sostenido]." ],
 		"template_desc_spell_shadow_tag": [ "Objetivos marcados reenfocan hechizos de", "Teletransporte canalizados alrededor del objetivo.", "Pulsa [Canalizar] al equipar para canalizar", "el [Proyectil]." ],
-		"template_desc_spell_telepull": [ "Los objetivos temporalmente desorientados", "son incapaces de actual hasta ser golpeados.", "Pulsa [Canalizar] al equipar para", "canalizar el [Proyectil]." ],
-		"template_desc_spell_demon_illu": [ "Las estad. del demonios se basan en las del canalizador.", "Pulsa [Canalizar] al equipar para canalizar", "el [Proyectil]." ],
+		"template_desc_spell_telepull": [ "Los objetivos con Desorientación no pueden", "actuar temporalmente hasta recibir un golpe.", "Pulsa [Canalizar] al equipar para", "canalizar el [Proyectil]." ],
+		"template_desc_spell_demon_illu": [ "Las estad. del demonio se basan en las de quien canaliza.", "Pulsa [Canalizar] al equipar para canalizar", "el [Proyectil]." ],
 		"template_desc_spell_trolls_blood": [ "Pulsa [Canalizar] al equipar para", "invocar el [Área] de efecto." ],
 		"template_desc_spell_salvage": [ "Solo afecta objetos en el suelo.", "Pulsa [Canalizar] al equipar para", "invocar el [Área] de efecto." ],
-		"template_desc_spell_flutter": [ "Pulsa [Canalizar] al equipar", "tomar vuelo." ],
+		"template_desc_spell_flutter": [ "Pulsa [Canalizar] al equipar", "para tomar vuelo." ],
 		"template_desc_spell_dash": [ "Canalizar estando inmóvil causa", "un salto hacia atrás.", "Pulsa [Canalizar] al equipar para usar." ],
-		"template_desc_spell_self_polymorph": [ "Pulsa [Canalizar] al equipar para", "cambiar forma y razgos raciales.", "No-humanos siempre polomorfian en", "formas humanas." ],
+		"template_desc_spell_self_polymorph": [ "Pulsa [Canalizar] al equipar para", "cambiar de forma y rasgos raciales.", "Las formas no humanas siempre cambian", "a una forma humana." ],
 		"template_icon_spell_scepter_blast": [ "%+d Daño Mágico\n[Atraviesa] criaturas" ],
 		
 		"template_icon_spell_meteor": [ "%+d Daño Mágico", "Cae desde arriba", "Inflige [Quemadura]" ],
@@ -752,9 +752,9 @@
 		"template_icon_spell_strip": [],
 		"template_desc_spell_strip": ["Pulsa [Canalizar] al equiparlo para", "invocar el efecto [Objetivo Táctil]."],
 		"template_icon_spell_abundance": ["%+d%%: [Comida] no", "se gasta al comerla"],
-		"template_desc_spell_abundance": ["Gasta PM al activarse. Pulsa", "[Canalizar] al equipar para alternar el efecto", "[Sostenido]."],
+		"template_desc_spell_abundance": ["Gasta PM si el efecto tiene éxito. Pulsa", "[Canalizar] al equipar para alternar el efecto", "[Sostenido]."],
 		"template_icon_spell_greater_abundance": ["%+d%%: [Comida/Pociones]", "no se gastan al consumirlas"],
-		"template_desc_spell_greater_abundance": ["Gasta PM al activarse. Pulsa", "[Canalizar] al equipar para alternar el efecto", "[Sostenido]."],
+		"template_desc_spell_greater_abundance": ["Gasta PM si el efecto tiene éxito. Pulsa", "[Canalizar] al equipar para alternar el efecto", "[Sostenido]."],
 		"template_icon_spell_preserve": ["Evita [Degradación]", "del equipo"],
 		"template_desc_spell_preserve": ["Gasta PM al preservar. Pulsa", "[Canalizar] al equipar para alternar el efecto", "[Sostenido]."],
 		"template_icon_spell_restore": ["[Repara] un objeto con", "oro"],
@@ -764,7 +764,7 @@
 		"template_icon_spell_harvest_trap": ["Convierte [Trampas] en", "[Chatarra Metálica/Mágica]"],
 		"template_desc_spell_harvest_trap": ["Pulsa [Canalizar] al equiparlo para", "invocar el efecto [Objetivo Táctil]."],
 		"template_icon_spell_mist_form": ["Brinda %+d%% de [Evasión]"],
-		"template_desc_spell_mist_form": ["Gasta PM al activarse.", "Pulsa [Canalizar] al equiparlo para", "alternar el efecto [Sostenido]."],
+		"template_desc_spell_mist_form": ["Gasta PM si el efecto tiene éxito.", "Pulsa [Canalizar] al equiparlo para", "alternar el efecto [Sostenido]."],
 		"template_icon_spell_hologram": ["Invoca un [Holograma]", "para atraer atacantes"],
 		"template_desc_spell_hologram": ["Pulsa [Canalizar] al equiparlo para", "invocar el efecto [Objetivo Terrestre]."],
 		"template_icon_spell_force_shield": ["Brinda %+d CA a", "Objetos de [Mano No Hábil]"],
@@ -1527,14 +1527,19 @@
 					"conditional_attribute": "spell_magicmapping"
 				},
 				{
-					"text": "Hechizo, consume salud\ncuando se acaba el [PM]",
+					"text": "Reflejar daño mágico\nconsume [PM]",
 					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
 					"conditional_attribute": "spell_reflect_magic"
 				},
 				{
-					"text": "Incrementa Fuerza/Destreza",
+					"text": "Hechizo, consume salud\ncuando se acaba el [PM]",
 					"icon_path": "#*images/system/Hunger_blood.png",
 					"conditional_attribute": "spell_dominate"
+				},
+				{
+					"text": "Incrementa Fuerza/Destreza",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_vampiric_aura"
 				},
 				{
 					"text": "-100% [PV Regen]",
@@ -1544,17 +1549,17 @@
 				{
 					"text": "Canalizador recupera [PV/PM]",
 					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
-					"conditional_attribute": "spell_vampiric_aura"
+					"conditional_attribute": "spell_drain_soul"
 				},
 				{
 					"text": "Inflige [Pacificar]\nsi no se pudo [Encantar]",
 					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
-					"conditional_attribute": "spell_drain_soul"
+					"conditional_attribute": "spell_charm"
 				},
 				{
 					"text": "Forma de rata brinda\n+DES +INT +PER",
 					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
-					"conditional_attribute": "spell_charm"
+					"conditional_attribute": "spell_rat_form"
 				},
 				{
 					"text": "Brinda hechizos [Velocidad] \n[Detectar Comida]",
@@ -1564,7 +1569,7 @@
 				{
 					"text": "Forma Artrópoda brinda\n+FUE +CON +PER",
 					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
-					"conditional_attribute": "spell_rat_form"
+					"conditional_attribute": "spell_spider_form"
 				},
 				{
 					"text": "Brinda hechizos [Veneno] \n[Enmarañar]",
@@ -1574,7 +1579,7 @@
 				{
 					"text": "Forma de Troll brinda\n+FUE +CON -DES",
 					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
-					"conditional_attribute": "spell_spider_form"
+					"conditional_attribute": "spell_troll_form"
 				},
 				{
 					"text": "Brinda hechizos [Sangre de Troll]\n[Impacto Poderoso]",
@@ -1584,7 +1589,7 @@
 				{
 					"text": "Forma de Diablillo brinda\n+INT +PER y [Levitar]",
 					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
-					"conditional_attribute": "spell_troll_form"
+					"conditional_attribute": "spell_imp_form"
 				},
 				{
 					"text": "Brinda hechizos [Relámpago] [Confundir]\n[Enfoque Elemental]",
@@ -1594,35 +1599,30 @@
 				{
 					"text": "[Enredado] inflige [Lentitud] y\n[Empuje] por golpes CaC",
 					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
-					"conditional_attribute": "spell_imp_form"
+					"conditional_attribute": "spell_spray_web"
 				},
 				{
 					"text": "Rompe pedruscos, paredes\ny puertas al impactar",
 					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
-					"conditional_attribute": "spell_spray_web"
+					"conditional_attribute": "spell_strike"
 				},
 				{
 					"text": "Daño hecho al demonio es\n[Devuelto] al atacante",
 					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
-					"conditional_attribute": "spell_strike"
-				},
-				{
-					"text": "El hechizo consume salud\nigual al 10% de [PV Máx]",
-					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
 					"conditional_attribute": "spell_demon_illu"
 				},
 				{
-					"text": "Rompe puertas al impactar",
+					"text": "El hechizo consume salud\nigual al 10% de [PV Máx]",
 					"icon_path": "#*images/system/Hunger_blood.png",
 					"conditional_attribute": "spell_demon_illu"
 				},
 				{
-					"text": "[Anular] remueve todo tipo de\ndebilidades y resistencias",
+					"text": "Rompe puertas al impactar",
 					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
 					"conditional_attribute": "spell_dash"
 				},
 				{
-					"text": "Inflige [Desorientado]\nbasado en la distancia recorrida",
+					"text": "Rompe puertas y destruye\nobjetos rompibles al impactar",
 					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
 					"conditional_attribute": "spell_dash"
 				},
@@ -1697,7 +1697,7 @@
 					"conditional_attribute": "spell_prof_counsel"
 				},
 				{
-					"text": "Food eaten grants\n[Nourished] restoring\n[HP/MP] for a duration",
+					"text": "La comida otorga\n[Nutrición], restaurando\n[PV/PM] por un tiempo",
 					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
 					"conditional_attribute": "spell_bless_food"
 				},
@@ -4722,7 +4722,7 @@
 					"equipment_stat_bonus": "template_armor_stat_bonus"
 				},
 				{
-					"EFF_BLEED_ENERGIZE": [ "+5s [Regen. PM] al infligir [Sangrado]" ]
+					"EFF_BLEED_ENERGIZE": [ "+10s [Regen. PM] al infligir [Sangrado]" ]
 				},
 				{
 					"equipment_fragile_durability": "template_armor_fragile_durability"
@@ -6112,7 +6112,7 @@
 					"when_equipped": "template_when_equipped_text"
 				},
 				{
-					"whip_base_effects": [ "%+d%% chance Armor Pierce from PER stat"]
+					"whip_base_effects": [ "%+d%% chance de perforar armadura por estadística PER"]
 				},
 				{
 					"weapon_atk_from_player_stat": "template_player_atk_stat_whip"
@@ -7358,7 +7358,7 @@
 					"conditional_attribute": "EFF_PWR_THAUMATURGY"
 				},
 				{
-					"text": "%+d%% Fabricar [Velocidad de1 Despliegue]",
+					"text": "%+d%% Fabricar [Velocidad del Despliegue]",
 					"icon_path": "#*images/ui/SkillSheet/Icons/Tinkering01.png",
 					"conditional_attribute": "EFF_TECH_GOGGLES1"
 				},

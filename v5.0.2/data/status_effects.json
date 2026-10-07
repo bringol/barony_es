@@ -57,10 +57,10 @@
 			"internal_name": "EFF_HUNGER",
 			"name": ["¡Hastiado!", "Hambriento", "Muy Hambriento", "¡Famélico!"],
 			"desc": [
-			"Sufriendo de sobrecalentamiento:\n- Fuerza\n- Destreza",
+			"Sufriendo de indigestión:\n- Fuerza\n- Destreza",
 			"No comer causará efectos negativos",
 			"Sufriendo por falta de comida:\n- Fuerza\n- Destreza",
-			"Sufriendo por falta de comida, muriendo lentamente:\n- Fuerza\n- Destreza\n- Inteligencia\n- Percepción"],
+			"Recibe % de PV máx. como daño con el tiempo:\n- Fuerza\n- Destreza\n- Inteligencia\n- Percepción"],
 			"img_path": ["*images/ui/HUD/HUD_Hunger_01A.png", "*images/ui/HUD/HUD_Hunger_01B.png", "*images/ui/HUD/HUD_Hunger_01C.png", "*images/ui/HUD/HUD_Hunger_01D.png"],
 			"img_from_spell_id": -1,
 			"tooltip_width": 250
@@ -69,7 +69,7 @@
 			"id": -3,
 			"internal_name": "EFF_HUNGER",
 			"name": ["¡Hastiado!", "Hambriento", "Muy Hambriento", "¡Famélico!"],
-			"desc": ["Sufriendo de sobrecalentamiento:\n- Fuerza\n- Destreza", "No comer causará efectos negativos", "Sufriendo por falta de comida:\n- Fuerza\n- Destreza", "Sufriendo por falta de comida, muriendo lentamente:\n- Fuerza\n- Destreza\n- Inteligencia\n- Percepción"],
+			"desc": ["Sufriendo de indigestión:\n- Fuerza\n- Destreza", "No comer causará efectos negativos", "Sufriendo por falta de comida:\n- Fuerza\n- Destreza", "Recibe % de PV máx. como daño con el tiempo:\n- Fuerza\n- Destreza\n- Inteligencia\n- Percepción"],
 			"img_path": ["*images/ui/HUD/HUD_Hunger_Blood_00A.png", "*images/ui/HUD/HUD_Hunger_Blood_00B.png", "*images/ui/HUD/HUD_Hunger_Blood_00C.png", "*images/ui/HUD/HUD_Hunger_Blood_00D.png"],
 			"img_from_spell_id": -1
 		},
@@ -120,7 +120,7 @@
 			"id": -9,
 			"internal_name": "EFF_LESSERWARNING",
 			"name": "Advertencia Menor",
-			"desc": "Revela la ubicación de criaturas cercanas en el mapa",
+			"desc": "Revela en el mapa la ubicación de monstruos en movimiento",
 			"img_path": "*images/ui/HUD/statusfx/lesserwarning.png",
 			"img_from_spell_id": -1,
 			"tooltip_width": 240
@@ -130,8 +130,8 @@
 			"internal_name": "EFF_HPOFF",
 			"name": "Degeneración",
 			"desc": [
-			"Regen. de PV desactivada",
-			"Regen. de PV inactiva por desactivar Hambre en la sesión\nRestaura PV consumiendo comida y usando pociones/hechizos"],
+			"Regeneración base de PV desactivada",
+			"Regeneración base de PV desactivada porque el hambre está desactivada en los ajustes\nRecupera PV consumiendo comida y usando pociones/hechizos"],
 			"img_path": "*images/ui/HUD/statusfx/regen_hpoff.png",
 			"img_from_spell_id": -1,
 			"tooltip_width": 260
@@ -213,7 +213,7 @@
 			"internal_name": "EFF_LIFESAVING",
 			"name": "Resurrección",
 			"desc": "Revivir al morir",
-			"img_path": "*images/ui/Inventory/tooltips/tooltip_icons/lifesaving.png",
+			"img_path": "*images/ui/HUD/statusfx/lifesaving.png",
 			"img_from_spell_id": -1,
 			"tooltip_width": 160
 		},
@@ -297,8 +297,8 @@
 		"EFF_VANDALISE": {
 			"id": -28,
 			"internal_name": "EFF_VANDALISE",
-			"name": ["Vándalo", "Vándalo (Nivel I)", "Vándalo (Nivel II)", "Vándalo (Nivel III)", "Vándalo (Nivel IV)"],
-            "desc": ["Los efectos aumentan al destruir más objetos\nLos efectos se reinician en cada piso\nSubir de nivel otorga PM adicionales",
+			"name": ["Vándalo", "Vándalo (Grado I)", "Vándalo (Grado II)", "Vándalo (Grado III)", "Vándalo (Grado IV)"],
+            "desc": ["Los efectos aumentan al destruir más objetos\nLos efectos se reinician en cada piso\nAlcanzar un nuevo grado otorga PM adicionales",
                      "Bonificación de Daño Cuerpo-a-Cuerpo: %+d",
                      "Velocidad de Movimiento: %+d%%",
                      "Velocidad de Canalización: %+d%%"],
@@ -480,7 +480,7 @@
 			"id": 18,
 			"internal_name": "EFF_VAMPIRICAURA",
 			"name": ["Maldición Vampírica", "Aura Vampírica"],
-			"desc": ["+ Fuerza y Destreza\nTasa de hambre incrementada\nMayor chance de causar [Sangrado] estando desarmado\nChance de robar vida en ataques furtivos desarmados", "+ Fuerza y Destreza\nTasa de hambre incrementada\nMayor chance de causar [Sangrado] estando desarmado\nChance de robar vida en todos los ataques furtivos desarmados\nRegeneración natural de PV desactivada"],
+			"desc": ["+ Fuerza y Destreza\nTasa de hambre incrementada\nMayor probabilidad de causar [Sangrado] al atacar sin armas\nProbabilidad de robar vida con ataques furtivos letales sin armas", "+ Fuerza y Destreza\nTasa de hambre incrementada\nMayor probabilidad de causar [Sangrado] al atacar sin armas\nProbabilidad de robar vida con cualquier ataque sin armas\nRegeneración natural de PV desactivada"],
 			"img_path": "*images/ui/HUD/statusfx/bloodlust.png",
 			"img_from_spell_id": 30,
 			"use_entry_for_sustained_spell": 30,
@@ -516,7 +516,7 @@
 			"name": "Regeneración de Vida",
 			"desc": "+2 [Regen. de PV]",
 			"img_path": "*images/ui/HUD/statusfx/regen_hp.png",
-			"img_from_spell_id": 48
+			"img_from_spell_id": -1
 		},
 		"EFF_MP_REGEN": {
 			"id": 23,
@@ -539,8 +539,8 @@
 			"internal_name": "EFF_POLYMORPH",
 			"name": "Polimorfia",
 			"desc": "Disfraz de monstruo",
-			"img_path": "*images/ui/HUD/statusfx/polymorph.png",
-			"img_from_spell_id": -1
+			"img_path": "",
+			"img_from_spell_id": 52
 		},
 		"EFF_KNOCKBACK": {
 			"id": 26,
@@ -571,7 +571,7 @@
 			"id": 29,
 			"internal_name": "EFF_SHAPESHIFT",
 			"name": ["Forma de Rata", "Forma Artrópoda", "Forma de Troll", "Forma de Diablillo"],
-			"desc": ["+ DES/INT/PER\nMayor chance de ganar DES/INT al subir de nivel\nAcceso a los hechizos [Detectar Comida] y [Velocidad]", "+ PER/STR/CON\nMayor chance de ganar PER/CON al subir de nivel\nAcceso a los hechizos [Enmarañar] y [Veneno]", "+ STR/CON\n- DES\nMayor chance de ganar STR/CON al subir de nivel\nAcceso a los hechizos [Impacto Poderoso], [Miedo] y [Sangre de Troll]", "Provee levitación\n+ INT/PER\nMayor chance de ganar INT/DES al subir de nivel\nAcceso a los hechizos [Relámpago], [Confusión] y [Enfoque Elemental]"],
+			"desc": ["+ DES/INT/PER\nMayor velocidad al nadar\nMayor probabilidad de ganar DES/INT al subir de nivel\n(Solo clase Shamán) Acceso a [Detectar Comida] y [Velocidad]", "+ PER/FUE/CON\nMayor probabilidad de ganar PER/CON al subir de nivel\n(Solo clase Shamán) Acceso a [Enmarañar] y [Veneno]", "+ FUE/CON\n- DES\nMayor probabilidad de ganar FUE/CON al subir de nivel\n(Solo clase Shamán) Acceso a [Impacto Poderoso], [Miedo] y [Sangre de Troll]", "Brinda levitación\n+ INT/PER\nMayor probabilidad de ganar CAR/INT al subir de nivel\n(Solo clase Shamán) Acceso a [Relámpago], [Confusión] y [Enfoque Elemental]"],
 			"img_path": "",
 			"img_from_spell_id": [33,34,35,36]
 		},
@@ -614,7 +614,7 @@
 			"id": 34,
 			"internal_name": "EFF_SHADOW_TAGGED",
 			"name": "Marca Arcana",
-			"desc": "Daño racial y resistencias/debilidades anuladas en uno mismo",
+			"desc": "Anula tus resistencias y debilidades raciales al daño",
 			"img_path": "",
 			"img_from_spell_id": 45,
 			"tooltip_width": 210
