@@ -274,8 +274,8 @@
 			"default": "btn_player_help-cure.png",
 			"0": "btn_playerGold_help-cure.png",
 			"1": "btn_playerGreen_help-cure.png",
-			"2": "btn_playerPink_help-cure.png",
-			"3": "btn_playerRed_help-cure.png",
+			"2": "btn_playerRed_help-cure.png",
+			"3": "btn_playerPink_help-cure.png",
 			"4": "btn_playerWhite_help-cure.png"
 		},
 		"tag_help-food": {
@@ -290,8 +290,8 @@
 			"default": "btn_player_help-food.png",
 			"0": "btn_playerGold_help-food.png",
 			"1": "btn_playerGreen_help-food.png",
-			"2": "btn_playerPink_help-food.png",
-			"3": "btn_playerRed_help-food.png",
+			"2": "btn_playerRed_help-food.png",
+			"3": "btn_playerPink_help-food.png",
 			"4": "btn_playerWhite_help-food.png"
 		},
 		"tag_help-hp": {
@@ -306,8 +306,8 @@
 			"default": "btn_player_help-hp.png",
 			"0": "btn_playerGold_help-hp.png",
 			"1": "btn_playerGreen_help-hp.png",
-			"2": "btn_playerPink_help-hp.png",
-			"3": "btn_playerRed_help-hp.png",
+			"2": "btn_playerRed_help-hp.png",
+			"3": "btn_playerPink_help-hp.png",
 			"4": "btn_playerWhite_help-hp.png"
 		},
 		"tag_help-item": {

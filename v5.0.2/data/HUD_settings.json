@@ -550,7 +550,7 @@
 			"human": 0,
 			"rat": 0,
 			"goblin": 0,
-			"slime": 0,
+			"slime": -2,
 			"troll": 0,
 			"bugbear": 0,
 			"spider": 0,
@@ -588,7 +588,7 @@
 			"chest": 0,
 			"door": 0,
 			"iron_door": 0,
-			"breakable_wall": 0,
+			"breakable_wall": -5,
 			"object": 0,
 			"jar": -3,
 			"basket": 1,
@@ -864,7 +864,7 @@
 		0
 	],
 	"ping_status": {
-		"enabled": false,
+		"enabled": true,
 		"show_numeric_on_hud": false,
 		"limit_green": 100,
 		"limit_yellow": 150,

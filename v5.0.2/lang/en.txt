@@ -317,7 +317,7 @@ inventario)#
 
 216 Dicen que los anillos de conflicto
 crean un aura de discordia
-alrededor de una persona.
+alrededor de una persona.#
 
 217 ¿Aceite para lámparas? ¿Cuerda? ¿Bombas?
 ¿Lo queréis? Es vuestro, amigo mío.
@@ -1842,7 +1842,8 @@ Sé creativo. Todo objeto tiene uso.#
 1378 El servidor ya está lleno.#
 1379 La versión del juego no coincide.#
 1380 El servidor no está usando un juego guardado.#
-1381 El servidor está usando un juego guardado.#
+1381 El servidor continúa una partida guardada.
+No se encontró una partida guardada compatible.#
 1382 El archivo guardado de su cliente no coincide con el del servidor.#
 1383 La semilla del cliente no coincide con la semilla del servidor.#
 1384 Mala respuesta del servidor.#
@@ -3352,19 +3353,19 @@ drenarse el resto de tu magia!#
 
 # Follower responses.
 3069 Me mantendré firme aquí, %s.#
-3070 Volveré en un momento.#
+3070 Esperaré aquí.#
 3071 ¡%s en condición infame!#
 3072 Esto te vendría bien, %s!#
 3073 Intentaré encontrar algo mejor.#
 3074 No puedo usar eso.#
-3075 ¡Acertaste!#
+3075 ¡Eso me vino bien!#
 3076 Oof. Ya me llené.#
 3077 No puedo ir hasta allí.#
 3078 Hay algo en el camino.#
 3079 ¡Avanzando hacia el destino!#
 3080 ¡Cubre mi retirada, %s!#
-3081 Estas cosas pueden ser usados para reparaciones.#
-3082 ¡Nada esencial aquí!#
+3081 Quizás esto necesite reparaciones.#
+3082 ¡Nada es irremplazable aquí!#
 3083 Realmente puedes sentir la brisa desde aquí abajo.#
 3084 No puedo traicionar a mis aliados de esa manera.#
 3085 Debes mantener los pocos amigos que te quedan aquí abajo.#
@@ -6003,7 +6004,7 @@ DIFICULTAD#
 5980 Comandar NPC#
 5981 Mostrar Comandos de NPC#
 5982 Ciclar NPCs#
-5983 Abrir Mapa
+5983 Abrir Mapa#
 5984 Abrir Registro#
 5985 Alternar Minimapa#
 5986 Hotbar Izquierda#
@@ -6528,7 +6529,7 @@ la clasificación de puntuación final del partido.#
 6343 Permite reclamar elementos del Santuario de asistencia del piso inicial para ajustar la dificultad.#
 6344 Activar Ayudas#
 6345 Ayudas Activadas#
-6346 Ayudas Desactivadas
+6346 Ayudas Desactivadas#
 6347 Lleva hasta cuatro regalos para
 facilitar la aventura que te espera.
 

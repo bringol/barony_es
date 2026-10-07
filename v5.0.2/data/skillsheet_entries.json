@@ -59,8 +59,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Stealth02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Stealth02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_DEX_00.png",
-			"description": "Provee visibilidad reducida a enemigos, daño extra con ataques furtivos, y visión adicional. Usa el botón de bloqueo para activar el sigilo",
-			"legend_text": "Sigilo brinda invisibilidad. Ataques por espalda causan doble daño.",
+			"description": "Reduce la visibilidad ante enemigos, añade daño a los ataques furtivos cuerpo a cuerpo y mejora la visión mientras usas sigilo. Usa Defender sin sostener un escudo para activar el sigilo.",
+			"legend_text": "El sigilo brinda invisibilidad. Duplica el bonus de daño por ataque furtivo por la espalda.",
 			"effects_position": {
 				"effect_start_offset_x": 80,
 				"effect_background_offset_x": 8,
@@ -438,8 +438,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Lore02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Lore02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_PER_00.png",
-			"description": "Aumenta la velocidad de tasación y permite tasar objetos de mayor valor en oro",
-			"legend_text": "Tasar todos los objetos al instante.",
+			"description": "Aumenta la velocidad de tasación y permite tasar objetos de mayor valor en oro. Una PER mayor mejora la tasación.",
+			"legend_text": "+25% de velocidad de tasación para todos los objetos. Revela el valor en oro de los objetos sin identificar.",
 			"effects_position": {
 				"effect_start_offset_x": 88,
 				"effect_background_offset_x": 8,
@@ -487,8 +487,8 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Tinkering02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Tinkering02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_PER_00.png",
-			"description": "Mejora habilidad con kits de fabricación, aumentando cantidad de objetos fabricables y máquinas desplegables. Aumenta las chances de abrir cerraduras con objetos dentro.",
-			"legend_text": "Capaz de reparar la mayoría de armas y armaduras usando el kit de fabricación. Encuentras oro u objetos extra al abrir cofres",
+			"description": "Mejora el uso del kit de fabricación y aumenta la cantidad de objetos fabricables y máquinas desplegables. Aumenta la probabilidad de forzar cerraduras de objetos del entorno.",
+			"legend_text": "Permite reparar la mayoría de armas y armaduras con un kit de fabricación y encontrar objetos u oro extra al forzar las cerraduras de cofres.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
