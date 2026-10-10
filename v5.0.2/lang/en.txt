@@ -3076,43 +3076,70 @@ drenarse el resto de tu magia!#
  ...#
 
 2740 type:seq#
-2741 %s Traté de entrar a las Cuevas de Cristal, pero una barrera me detuvo.#
-2742 %s Quizás el Gremio de Magos irgió esa barrera.#
-2743 %s Soy de una ciudad distante, y un miembro del Gremio del Cazador.#
-2744 %s El Gremio del Cazador de Hamlet no está en este distrito.#
-2745 %s Supongo que tanto los Magos como los Cazadores no se llevan muy bien entre sí.#
-2746 %s Los Cazadores matan gente mala. A veces son Magos.#
-2747 ¡%s Sin rencores, simplemente no seas uno de los malos!#
+2741 %s 
+ Traté de entrar a las Cuevas de Cristal, pero una barrera me detuvo.#
+2742 %s 
+ Quizás el Gremio de Magos irgió esa barrera.#
+2743 %s 
+ Soy de una ciudad distante, y un miembro del Gremio del Cazador.#
+2744 %s 
+ El Gremio del Cazador de Hamlet no está en este distrito.#
+2745 %s 
+ Supongo que tanto los Magos como los Cazadores no se llevan muy bien entre sí.#
+2746 %s 
+ Los Cazadores matan gente mala. A veces son Magos.#
+2747 %s 
+ ¡Sin rencores, simplemente no seas uno de los malos!#
 2748 [%s]
  ...#
 
 2750 type:rand#
-2751 %s ¿Sería raro si siento la tentación de volver a las minas?#
-2752 %s El cielo allá afuera es tan grande. Tengo miedo.#
-2753 %s Las minas, la mazmorra de Herx, está todo al otro lado de esta puerta.#
-2754 %s Quizás debería quedarme atrás por un tiempito.#
+2751 %s 
+ ¿Sería raro si siento la tentación de volver a las minas?#
+2752 %s
+ El cielo allá afuera es tan grande. Tengo miedo.#
+2753 %s
+ Las minas, la mazmorra de Herx, está todo al otro lado de esta puerta.#
+2754 %s
+ Quizás debería quedarme atrás por un tiempito.#
 
 2760 type:seq#
-2761 %s El Gremio de Magos debe estar tramando algo.#
-2762 %s Los Gremios siempre tienen secretos entre manos.#
-2763 %s Eschuché que Merlín y el Gremio de Magos tuvieron un desacuerdo mutuo.#
-2764 %s Apuesto a que Herx tramó algo con los Archimagos Orpheus y Erudyce.#
-2765 %s No me hagas empezar con el Gremio del Cazador...#
-2766 %s Escuché que el Gremio de Masones trabaja para la Iglesia.#
-2767 %s La Iglesia tiene sus secretos, pero también ayudan a los pobres.#
-2768 %s ¿La Iglesia es un gremio? Pregunto por un amigo.#
+2761 %s 
+ El Gremio de Magos debe estar tramando algo.#
+2762 %s
+ Los Gremios siempre tienen secretos entre manos.#
+2763 %s
+ Eschuché que Merlín y el Gremio de Magos tuvieron un desacuerdo mutuo.#
+2764 %s
+ Apuesto a que Herx tramó algo con los Archimagos Orpheus y Erudyce.#
+2765 %s
+ No me hagas empezar con el Gremio del Cazador...#
+2766 %s
+ Escuché que el Gremio de Masones trabaja para la Iglesia.#
+2767 %s
+ La Iglesia tiene sus secretos, pero también ayudan a los pobres.#
+2768 %s
+ ¿La Iglesia es un gremio? Pregunto por un amigo.#
 2769 [%s]
  ...#
 
 2770 type:seq#
-2771 %s Qué gusto verte de nuevo, %s. Espero que hayas podido descansar.#
-2772 %s Los magos que están dentro podrán explicarlo todo.#
-2773 %s ¿Yo? No, tan solo soy un portero.#
-2774 %s Muchos vienen y van, %s. No se requiere membresía.#
-2775 %s Merlín solía venir aquí muy seguido, pero después se detuvo.#
-2776 %s Ahora que lo pienso, Herx solía venir aquí regularmente.#
-2777 %s Herx siempre salía furioso después de cada visita.#
-2778 %s Desearía haberle visto la cara a Herx cuando apareciste...#
+2771 %s
+ Qué gusto verte de nuevo, %s. Espero que hayas podido descansar.#
+2772 %s
+ Los magos que están dentro podrán explicarlo todo.#
+2773 %s
+ ¿Yo? No, tan solo soy un portero.#
+2774 %s
+ Muchos vienen y van, %s. No se requiere membresía.#
+2775 %s
+ Merlín solía venir aquí muy seguido, pero después se detuvo.#
+2776 %s
+ Ahora que lo pienso, Herx solía venir aquí regularmente.#
+2777 %s
+ Herx siempre salía furioso después de cada visita.#
+2778 %s
+ Desearía haberle visto la cara a Herx cuando apareciste...#
 2779 [%s]
  ...#
 
@@ -3133,55 +3160,85 @@ drenarse el resto de tu magia!#
  ...#
 
 2790 type:seq#
-2791 %s Merlín nos dijo sobre la peligrosa magia que Herx encontró.#
-2792 %s Nosotros nunca volvimos a escuchar sobre Merlín después de que se fuera para detener a Herx.#
-2793 %s Escuché rumores sobre una carta de Merlín, pero nunca la vi.#
-2794 %s Tu sabes, Merlín nunca fue un miembro oficial del Gremio de Magos.#
-2795 %s Algunas personas simplemente necesitan su independencia. Puedo respetar eso.#
+2791 %s
+ Merlín nos dijo sobre la peligrosa magia que Herx encontró.#
+2792 %s
+ Nosotros nunca volvimos a escuchar sobre Merlín después de que se fuera para detener a Herx.#
+2793 %s
+ Escuché rumores sobre una carta de Merlín, pero nunca la vi.#
+2794 %s
+ Tu sabes, Merlín nunca fue un miembro oficial del Gremio de Magos.#
+2795 %s
+ Algunas personas simplemente necesitan su independencia. Puedo respetar eso.#
 2796 [%s]
  ...#
 
 2800 type:seq#
-2801 %s Después del encierro de Herx, los Archimagos fueron a las Cavernas de Cristal.#
-2802 %s Supongo que querían ver qué tenía de interesante.#
-2803 %s Si no fuera por los Archimagos, Herx hubiera creado un ejército aquí.#
-2804 %s Nosotros nunca hubiéramos encontado la forma de encerrar a Herx lejos de aquí. #
-2805 %s Creo que Erudyce y Orpheus sabían que encerrar a Herx no sería suficiente.#
+2801 %s
+ Después del encierro de Herx, los Archimagos fueron a las Cavernas de Cristal.#
+2802 %s
+ Supongo que querían ver qué tenía de interesante.#
+2803 %s
+ Si no fuera por los Archimagos, Herx hubiera creado un ejército aquí.#
+2804 %s
+ Nosotros nunca hubiéramos encontado la forma de encerrar a Herx lejos de aquí. #
+2805 %s
+ Creo que Erudyce y Orpheus sabían que encerrar a Herx no sería suficiente.#
 2806 [%s]
  ...#
 
 2810 type:seq#
-2811 %s Monstruos poderosos comenzaron a salir de las Cavernas de Cristal.#
-2812 %s El Gremio tuvo que sellar las Cavernas para evitar que Hamlet fuera destruida.#
-2813 %s Espero que los Archimagos estén bien ahí dentro.#
-2814 %s Realmente espero que no haya relación entre monstruos y las investigaciones que estaban realizando.#
-2815 %s Orpheus es tan cometido. Nada lo puede detener.#
-2816 %s A Erudyce le gusta influenciar las cosas desde detrás de escenas.#
+2811 %s
+ Monstruos poderosos comenzaron a salir de las Cavernas de Cristal.#
+2812 %s
+ El Gremio tuvo que sellar las Cavernas para evitar que Hamlet fuera destruida.#
+2813 %s
+ Espero que los Archimagos estén bien ahí dentro.#
+2814 %s
+ Realmente espero que no haya relación entre monstruos y las investigaciones que estaban realizando.#
+2815 %s
+ Orpheus es tan cometido. Nada lo puede detener.#
+2816 %s
+ A Erudyce le gusta influenciar las cosas desde detrás de escenas.#
 2817 [%s]
  ...#
 
 2820 type:seq#
-2821 %s Presentí un poder emanar de la orbe cuando la colocaste en el pedestal.#
-2822 %s Me pregunto por qué Herx no uso ese poder para escapar de la mazmorra.#
-2823 %s Fui capaz de atrapar parte del poder que liberó la orbe de Herx.#
-2824 %s Este portal penetra el sello de las Cavernas usando el poder de la orbe.#
-2825 %s Los Archimagos Orpheus y Erudyce ayudarán a volver las cosas a la normalidad.#
-2826 %s Deben haber aprendido algo sobre el poder que encontró Herx.#
+2821 %s
+ Presentí un poder emanar de la orbe cuando la colocaste en el pedestal.#
+2822 %s
+ Me pregunto por qué Herx no uso ese poder para escapar de la mazmorra.#
+2823 %s
+ Fui capaz de atrapar parte del poder que liberó la orbe de Herx.#
+2824 %s
+ Este portal penetra el sello de las Cavernas usando el poder de la orbe.#
+2825 %s
+ Los Archimagos Orpheus y Erudyce ayudarán a volver las cosas a la normalidad.#
+2826 %s
+ Deben haber aprendido algo sobre el poder que encontró Herx.#
 2827 [%s]
  ...#
 
 2830 type:seq#
-2831 %s No te preocupes %s, sé quién eres.#
-2832 %s Quería conocerte antes de que te fueras del pueblo.#
-2833 %s ¿Yo? Soy un estimado miembro del Gremio de Comerciantes.#
-2834 %s Solo estoy interesado en los artefactos más raros sobre la tierra.
+2831 %s
+ No te preocupes %s, sé quién eres.#
+2832 %s
+ Quería conocerte antes de que te fueras del pueblo.#
+2833 %s
+ ¿Yo? Soy un estimado miembro del Gremio de Comerciantes.#
+2834 %s
+ Solo estoy interesado en los artefactos más raros sobre la tierra.
  Particularmente, las orbes que del Gremio de Magos robadas por Herx.#
-2835 %s Si de casualidad recuperases alguna de ellas, estaría dispuesto a
+2835 %s
+ Si de casualidad recuperases alguna de ellas, estaría dispuesto a
  intercambiar una de mis preciadas posesiones como recompensa.#
-2836 ¡%s Tu sabes, un miembro del gremio de semejante calibre como yo puede extorsionar
+2836 %s
+ ¡Tu sabes, un miembro del gremio de semejante calibre como yo puede extorsionar
  a esos magos por cada centavo que poseen con sus preciadas orbes!#
-2837 %s Sé que tienes demasiado corazón como para hacer algo así por tu cuenta.#
-2838 %s Depende de ti. Déjalas conmigo y no diré nada sobre
+2837 %s
+ Sé que tienes demasiado corazón como para hacer algo así por tu cuenta.#
+2838 %s
+ Depende de ti. Déjalas conmigo y no diré nada sobre
  nuestro pequeño encuentro.#
 2839 [%s]
  ...#
@@ -3590,7 +3647,7 @@ drenarse el resto de tu magia!#
 
 3285 ¡La Brigada ZAP ha llegado!
  "¡El minotauro se aproxima! Hemos de matar también cualquier otra despreciable criatura en las proximidades"#
-3286 Reparar Objeto#
+3286 #
 3287 %s
  no admite reparaciones.#
 3288 ¡No posees objetos capaces de ser reparados!#
@@ -3986,8 +4043,10 @@ ingrediente alquímico secundario %s #
 3676 %s bloquea su rotor.#
 3677 %s retorna a su patrulla.#
 3678 Tu %s debe ser de mejor calidad para detectar más tipos de objetos.#
-3679 Tu Fabricar no es so suficientemente alto para decifrar más descubrimientos del girobot.#
-3680 Tu Fabricar no es so suficientemente alto para decifrar más descubrimientos del girobot.#
+3679 Tu Fabricar no es so suficientemente alto para decifrar
+ más descubrimientos del girobot.#
+3680 Tu Fabricar no es so suficientemente alto para
+ decifrar más descubrimientos del girobot.#
 3681 ¡No puedes reparar objetos equipados!#
 3682 Tu reparas %s.#
 3683 Has actualizado %s.#
@@ -4073,7 +4132,7 @@ para reparar#
 3760 ¡Gungnir penetra la armadura de %s!#
 3761 ¡Gungnir penetra la armadura de %s!#
 3762 ¡Un carcaj aparece repentinamente ante ti!#
-3763  #
+3763 un(a) #
 3764 DEPRECATED_SPELL_NAME#
 3765 DEPRECATED_SPELL_NAME#
 3766 DEPRECATED#
@@ -4226,7 +4285,7 @@ al lidear conmigo.#
 cliente más nuevo.#
 3895 Confío en que apreciarás
 mis bellas mercancías.#
-3896 No me interesan esas cosas.#
+3896 #
 3897 ¡Encuentras un compartimento oculto dentro del cofre!#
 3898 fallas al esquivar la bola en llamas que se aproxima.#
 3899 fallas al esquivar la bola arcana que se aproxima.#

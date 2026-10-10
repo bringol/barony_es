@@ -218,7 +218,7 @@
 			"attributes_rgn_ht_small_format": "%.f%%",
 			"attributes_rgn_mp_desc": "Los PM se regeneran lentamente, hasta 1 PM por segundo.\nEl modificador de regeneración de objetos/efectos se limita a +3 [Regen. PM]",
 			"attributes_rgn_ht_desc": "Caldera nominal aumenta producción de KLR\nSOBRECALENTAMIENTO de caldera aumenta la producción de KLR 2x más rápido, y 4x si KLR por debajo del 50% de capacidad\nCaldera CRÍTICAMENTE BAJA pierde KLR rápidamente, pueden ocurrir averías al llegar a 0 KLR",
-			"attributes_rgn_en_desc": "Energía reducida lentamente en el tiempo, Digestión Lenta incrementa la longevidad de EN\nCanalizar hechizos consume EN\nOcurre hambre cuando se vacía EN\n Restaura EN consumiendo comida, líquidos dulces y pociones de restaurar magia"
+			"attributes_rgn_en_desc": "La energía disminuye lentamente; Digestión Lenta hace que la EN dure más\nCanalizar hechizos consume EN\nLa inanición ocurre cuando se agota la EN\nRecupera EN consumiendo comida, líquidos dulces y usando efectos que restauren PM"
 		},
 		"attributes_wgt":
 		{
