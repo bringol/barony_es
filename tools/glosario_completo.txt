@@ -138,7 +138,6 @@ bram castle;castillo de bram
 branch bow;arco de rama
 branch staff;bastón de rama
 breathe fire;aliento ígneo
-breathe fire;escupir fuego
 brewer;destilador
 bronze axe;hacha de bronce
 bronze key;llave de bronce
