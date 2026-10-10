@@ -1389,7 +1389,7 @@ comerte... para la cena."#
 
 # tinned food
 
-918 hecho puré#
+918 puré#
 919 caramelizado#
 920 salteado#
 921 sofrito#
@@ -1397,30 +1397,30 @@ comerte... para la cena."#
 923 rebozado#
 924 frito#
 925 picado#
-926 a la brasa#
+926 asado#
 927 seco#
 928 casero#
 929 hervido#
 930 horneado#
 931 ahumado#
 932 adobado#
-933 french fried#
-934  geco#
-935  anguila#
-936  lechón#
-937  ternera#
-938  tocino#
-939  pavo#
-940  pollo#
-941  salmón#
-942  trucha#
-943  cabra#
-944  cordero#
-945  serpiente#
-946  calamar#
-947  cangrejo#
-948  codorniz#
-949  caballo#
+933 a la francesa#
+934  de lagartija#
+935  de anguila#
+936  de lechón#
+937  de ternera#
+938  de tocino#
+939  de pavo#
+940  de pollo#
+941  de salmón#
+942  de trucha#
+943  de cabra#
+944  de cordero#
+945  de serpiente#
+946  de calamar#
+947  de cangrejo#
+948  de codorniz#
+949  de caballo#
 950  con cebolla#
 951  en su salsa#
 952  con judías#
@@ -6364,10 +6364,10 @@ de raza en este desafío.#
 6143 Mono#
 6144 Estéreo#
 6145 Quad#
-6146 Surround Sound#
-6147 5.1 Surround Sound#
-6148 7.1 Surround Sound#
-6149 7.1.4 Surround Sound#
+6146 Sonido Envolvente#
+6147 Sonido Envolvente 5.1#
+6148 Sonido Envolvente 7.1#
+6149 Sonido Envolvente 7.1.4#
 6150 La configuración deseada de sonido.#
 6151 Puntajes no encontrados en el filtro.
 Intente con otros filtros para ver más

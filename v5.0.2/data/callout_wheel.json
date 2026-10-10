@@ -568,7 +568,7 @@
 				"text": "Gesticula hacia esta ubicación",
 				"word_highlights" : [],
 				"msg_emote": "%s hace gestos hacia un punto allí.",
-				"msg_emote_you": "Túgesticulas hacia un lugar allá.",
+				"msg_emote_you": "Señalas un punto allí.",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},
