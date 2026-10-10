@@ -317,10 +317,10 @@
 		"template_tool_shield_bonus": [ "+%d CA al defender bonus de Hab. %s" ],
 		"template_armor_shield_resistance_bonus": [ "* Adicional +30% [Resistencia Mágica] \n al defender" ],
 		"template_shield_description": [ "Brinda CA adicional mientras defiendes." ],
-		"template_mirror_shield_description": [ "Un escudo frágil que refleja todo hechizo al defender." ],
+		"template_mirror_shield_description": [ "Escudo frágil que refleja todos los proyectiles de hechizos al defender." ],
 		"template_armor_cloak_backpack_description": [ "Incrementa capacidad de inventario.", "Remover la mochila soltará todos los objetos en esta." ],
 		"template_torch_description": [ "Se consume mientras la uses. Brinda CA adicional y luz mientras defiendes." ],
-		"template_shard_description": [ "Fuente lumínica tenue que se arde eternamente. Brinda CA adicional y luz mientras defiendes." ],
+		"template_shard_description": [ "Fuente de luz frágil que arde eternamente. Brinda CA adicional y luz mientras defiendes." ],
 		"template_shield_brittle": [ "+100% de chance de degradarse al ser golpeado mientras defiendes" ],
 		"template_weapon_description": [ "Mantén [Ataque] para dar un golpe crítico." ],
 		"template_whip_description": [ "Arma CaC larga. Mantén [Ataque] para un golpe crítico." ],
@@ -362,10 +362,10 @@
 		"template_tool_bomb_lockpickable": [ "* Activa la acción de este usando [Ataque] con una ganzúa al desplegarse" ],
 		"template_bomb_atk_stat_per": [ "%+d ATQ por %d%% PER" ],
 		"template_tool_teleport_bomb_description": [ "Equipa y usa [Ataque] para desplegar.", "Configura como receptor para otra trampa de Teletransp. usando una ganzúa." ],
-		"template_tool_decoy_range": [ "%+d radio de efecto", "* Enfriamiento de 5 seg", "Atrae al mismo objetivo" ],
+		"template_tool_decoy_range": [ "%+d casillas de radio", "* Espera de 5 segundos entre atracciones", "sucesivas del mismo objetivo" ],
 		"template_tool_pickaxe_description": [ "Rompe paredes y pedruscos al golpear." ],
-		"template_tool_lockpick_description": [ "Abre cofres, puertas y activa mecanismos.", "Pulsa [Ataque] al equiparlo para usar." ],
-		"template_tool_skeletonkey_description": [ "Abre puertas y cofres cerrados.", "Pulsa [Atacar] al equiparlo para usar." ],
+		"template_tool_lockpick_description": [ "Abre cofres y puertas y permite manipular mecanismos.", "Pulsa [Ataque] al equiparlo para usar." ],
+		"template_tool_skeletonkey_description": [ "Abre y cierra con llave diversos cofres, puertas y cerraduras de pared.", "Pulsa [Ataque] al equiparlo para usar." ],
 		"template_tool_tinopener_description": [ "Permite ingerir comida enlatada desde el inventario." ],
 		"template_food_tin_description": [ "Recupera una gran cantidad de hambre.", "Require un abrelatas." ],
 		"template_weapon_base_atk": [ "%+d ATQ base de objeto" ],
@@ -413,7 +413,7 @@
 		"template_quiver_piercing_attributes": [ "* [Penetrar Armadura] traspasa 50% de CA" ],
 		"template_quiver_swift_attributes": [ "+50% Reduce tiempo de recarga entre ataques de distancia por [Recarga Rápida]" ],
 		"template_quiver_fire_attributes": [ "* Provee luz en suelos y paredes" ],
-		"template_quiver_knockback_attributes": [ "* Inmoviliza objetivos por efectos de estado al recibir [Empuje]" ],
+		"template_quiver_knockback_attributes": [ "* Los objetivos inmovilizados por estados reciben mayor [Empuje]" ],
 		"template_quiver_hunting_attributes": [ "+50% ATQ en bestias pequeñas o grandes por [Cacería]" ],
 		"template_attributes_text_armor_conditional_tags": [
 			"STR",
@@ -465,7 +465,7 @@
 		],
 		"template_armor_stat_bonus": [ "%+d objeto base %s", "%+d %s por %s" ],
 		"template_armor_resist_icon": [ "resistencia:\nDaño de [%s]\n"],
-		"template_equipment_effect_feather": [ "%+d objeto base por peso %s" ],
+		"template_equipment_effect_feather": [ "%+d al peso base del objeto por %s" ],
 		"template_equipment_effect_waterwalking": [ "* Usuario flota en agua y lava por [Paso Acuático]" ],
 		"template_equipment_effect_poisonresist": [ "* Cura efecto de estado [veneno]", "* 12.5% de probabilidad de degradarse al curar", "+60% [Resistencia Mágica]\ncontra Veneno / Ácido" ],
 		"template_equipment_effect_burningresist": [ "* Cura el efecto [Quemadura]", "* 12.5% chance de degradarse al curar" ],
@@ -500,7 +500,7 @@
 		"template_spellbook_icon_damage_bonus": [ "Efectos de Grimorio:", "%+d%% Daño Mágico" ],
 		"template_spellbook_icon_duration_bonus": [ "Efectos de Grimorio:", "%+d%% Duración de efecto" ],
 		"template_spellbook_icon_pwr_bonus": [ "Efecto de Grimorio:", "%+d%% Poder de Efecto" ],
-		"template_spellbook_icon_heal_bonus": [ "Efectos de Grimorio:", "%+d%% Regen. de PV" ],
+		"template_spellbook_icon_heal_bonus": [ "Efecto al canalizar con Grimorio:", "%+d%% Restauración de PV" ],
 		"template_spellbook_icon_cureailment_bonus": [ "Efectos de Grimorio:", "%+ds [Regen PV] al canalizar" ],
 		"template_icon_spell_forcebolt": [ "%+d Daño Mágico" ],
 		"template_icon_spell_magicmissile": [ "%+d Daño Mágico" ],
@@ -515,7 +515,7 @@
 		"template_icon_spell_confuse": [ "Inflige [Confundir]" ],
 		"template_icon_spell_slow": [ "Inflige [Lentitud]" ],
 		"template_icon_spell_opening": [ "[Abre] puertas, rejas", "y cofres cerrados" ],
-		"template_icon_spell_locking": [ "[Cierra] puertas", "y cofres" ],
+		"template_icon_spell_locking": [ "[Cierra con llave] puertas", "y cofres" ],
 		"template_icon_spell_levitation": [ "Brinda [Levitar]", "al sostener hechizo" ],
 		"template_icon_spell_invisibility": [ "Brinda [Invisibilidad]", "Al sostener hechizo" ],
 		"template_icon_spell_teleportation": [ "[Teletransporte] a un ", "lugar aleatorio" ],
@@ -542,7 +542,7 @@
 		"template_icon_spell_poison": [ "%+d Daño Mágico\nInflige [Veneno]" ],
 		"template_icon_spell_speed": [ "Le brinda [Velocidad] al usuario", "y aliados cercanos" ],
 		"template_icon_spell_fear": [ "Inflige [Miedo] a enemigos", "cercanos" ],
-		"template_icon_spell_strike": [ "Carga un poderoso \nataque haciendo +400%% de ATQ" ],
+		"template_icon_spell_strike": [ "Carga un poderoso ataque sin armas\nque inflige +400%% de ATQ" ],
 		"template_icon_spell_detect_food": [ "Revela comida en el", "mapa de mazmorra actual" ],
 		"template_icon_spell_weakness": ["Inflige [Debilidad Mágica]", "%-d%% de [Poder de Ataque]"],
 		"template_desc_spell_weakness": [ "Pulsa [Canalizar] al equipar para", "canalizar el [Proyectil]." ],
@@ -661,7 +661,7 @@
 		"template_icon_spell_blood_ward": ["Brinda [Inmunidad] a", "[Sangrado] y [Veneno]", "mientras está Sostenido", "", ""],
 		"template_desc_spell_blood_ward": ["Pulsa [Canalizar] al equiparlo para", "alternar el efecto [Sostenido]."],
 		"template_icon_spell_true_blood": [],"template_desc_spell_true_blood": [],
-		"template_icon_spell_divine_zeal": ["%+d%% Daño CaC", "para [Castigar] enemigos débiles"],
+		"template_icon_spell_divine_zeal": ["%+d%% Daño CaC", "contra enemigos vulnerables a [Castigo]"],
 		"template_desc_spell_divine_zeal": ["Pulsa [Canalizar] al equiparlo para", "alternar el efecto [Sostenido]."],
 		"template_icon_spell_alter_instrument": ["[Transmuta] un instrumento", "musical en otro"],
 		"template_desc_spell_alter_instrument": ["Costo de oro baja con poder.", "Pulsa [Canalizar] al equiparlo para", "elegir un objeto que transmutar."],
@@ -889,13 +889,13 @@
 		"template_spell_distance": [ "%+.1f casillas de distancia base", "%+.1f casillas de distancia por PER/efectos" ],
 		"template_spell_generic_bonus_pwr": [ "Bonus mágico de %s:", "%+.f%% canaliz. %s por PDR" ],
 		"template_spell_damage_bonus_pwr_dual": [ "Bonus mágico de %s:\n%+d %s base\n%+.f%% %s por PDR\n%+d %s base\n%+.f%% %s por PDR" ],
-		"template_spell_cast_success": [ "^Penalidad baja de hab. %s:", "^* %d%% Tasa de éxito" ],
+		"template_spell_cast_success": [ "^Penalización por baja habilidad de %s:", "^* %d%% de probabilidad de fallo al canalizar" ],
 		"template_spell_cast_success1": [ "^Penalidad por baja pericia %s:"],
 		"template_spell_cast_success2": [ "^* %d%% de probabilidad de fallo" ],
 		"template_spell_extramana_chance": [ "^* %d%% chance de consumir", "^PM adicional " ],
 		"template_spell_no_gain_levels": [ "Grado de Hechizo dominado:", "* Avance de nivel de pericia", "reducido" ],
 		"template_attr_spell_shadow_tag": [ "Atributos:", "* Todo tipo de daño (Alcance, Hachas, etc) en objetivos Anulados siempre reciben 100% de daño", "-50% PM de costo por hechizos de teletransporte", "", "* Usar [Teletransporte] mueve al usuario hacia objetivo marcado", "* Usar [Teletransporte Ajeno] mueve objetivo marcado enfrente del usuario" ],
-		"template_attr_spell_summon": [ "Atributos:", "* NVLs de aliados invocados se mantienen, mejora equipamiento cada 5 NVLs (Máx en NVL 30)", "* Costo de PM sube junto al rango", "* Experto (60) Hab. magia + INT generan un nuevo aliado", "", "Comando de seguidor:", "* [Liberar Alma] destruye invocaciones y recupera PM en base al PV" ],
+		"template_attr_spell_summon": [ "Atributos:", "* Los NVLs de aliados invocados se conservan entre canalizaciones; su equipo mejora cada 5 NVLs (Máx. en NVL 30)", "* El costo de PM aumenta con el rango de la invocación", "* Misticismo Experto (60) + INT permiten una invocación adicional", "", "Órdenes de seguidores:", "* [Liberar Alma] destruye las invocaciones y recupera PM según sus PV actuales" ],
 		"template_attr_spell_self_polymorph": [ "Atributos:", "* Efecto [Polimorfia] desaparece al tocar o beber agua" ],
 		"template_attr_spell_acid_spray": [ "Atributos:", "+25% chance base de degradar armadura al golpear", "" ],
 		"template_attr_spell_charm": [ "Modif de Encantar:", "+30%% chances en monstruos [Confundidos] o [Ebrios]", "%+d%% chances por INT", "%+d%% chances por CAR + Hab. Liderazgo" ],
@@ -1006,7 +1006,7 @@
 					"thrown_atk_from_player_stat": "template_player_atk_stat_dex"
 				},
 				{
-					"fully_charged": [ "+3 ATQ al cargar lanzamiento" ]
+					"fully_charged": [ "+3 ATQ al cargar completamente el lanzamiento" ]
 				},
 				{
 					"thrown_skill_modifier": "template_gem_skill_modifier"
@@ -1133,7 +1133,7 @@
 					"thrown_atk_from_player_stat": "template_player_atk_stat_dex"
 				},
 				{
-					"fully_charged": [ "+3 ATQ al cargar lanzamiento" ]
+					"fully_charged": [ "+3 ATQ al cargar completamente el lanzamiento" ]
 				},
 				{
 					"thrown_skill_modifier": "template_gem_skill_modifier"
@@ -1188,7 +1188,7 @@
 					"thrown_atk_from_player_stat": "template_player_atk_stat_dex"
 				},
 				{
-					"fully_charged": [ "+3 ATQ al cargar lanzamiento" ]
+					"fully_charged": [ "+3 ATQ al cargar completamente el lanzamiento" ]
 				},
 				{
 					"thrown_skill_modifier": "template_gem_skill_modifier"
@@ -2577,7 +2577,7 @@
 					"attributes_text": "template_attributes_text"
 				},
 				{
-					"dummybot_info": [ "* Efectivo para atraer enemigos", "* puede usarse para entrenar\nHabilidades básicas de combate" ]
+					"dummybot_info": [ "* Efectivo para atraer enemigos", "* Permite entrenar habilidades de combate\nhasta el nivel Básico" ]
 				}
 			],
 			"size": {
@@ -3666,7 +3666,7 @@
 					"thrown_atk_from_player_stat": "template_player_atk_stat_dex"
 				},
 				{
-					"fully_charged": [ "+3 ATQ / +25% Penetrar Armadura\n con ataque cargado." ]
+					"fully_charged": [ "+3 ATQ / +25% Penetrar Armadura\n con lanzamiento completamente cargado" ]
 				},
 				{
 					"thrown_skill_modifier": "template_thrown_skill_modifier"
@@ -3719,7 +3719,7 @@
 					"thrown_atk_from_player_stat": "template_player_atk_stat_dex"
 				},
 				{
-					"fully_charged": [ "+3 ATQ / +25% Penetrar Armadura\n con ataque cargado." ]
+					"fully_charged": [ "+3 ATQ / +25% Penetrar Armadura\n con lanzamiento completamente cargado" ]
 				},
 				{
 					"thrown_skill_modifier": "template_thrown_skill_modifier"
@@ -4370,8 +4370,8 @@
 				{
 					"instrument_casting": [
 						"Efectos del Instrumento:",
-						"%+d costo PM por ciclo de juego",
-						"* Inicia en Grado I al primer ciclo de juego",
+						"%+d costo de PM por ciclo de interpretación",
+						"* Inicia en Grado I al primer ciclo de interpretación",
 						"* CAR aumenta bono de Atributo/Grado y reduce",
 						"ciclos necesarios para bonos máximos",
 						"* Próximo bono de Atributo: %s",
@@ -4381,9 +4381,9 @@
 				{
 					"instrument_duration": [
 						"",
-						"Tiempo por Ciclo:",
+						"Tiempo por Ciclo de Interpretación:",
 						"* Duración/bono aumenta por ciclo",
-						"%+.1fs por ciclo de juego según CAR",
+						"%+.1fs por ciclo de interpretación según CAR",
 						"",
 						"Duración de Efectos:",
 						"%+.1fs de duración por ciclo según Saber",
@@ -6077,8 +6077,8 @@
 				},
 				{
 					"whip_attributes": [ "+50% de alcance de ataque",
-					"+20% [Sangrado] al flanquear",
-					"+100% [Sangrado] al desarmar",
+					"+20% de probabilidad de [Sangrado] al flanquear",
+					"+100% de probabilidad de [Sangrado] al desarmar",
 					"* Irrompible" ]
 				},
 				{
@@ -6700,7 +6700,7 @@
 					"default": [ "" ]
 				},
 				{
-					"potion_on_blessed": [ "* %+ds [Regen. PM/PV] from %s" ]
+					"potion_on_blessed": [ "* %+ds [Regen. PV/PM] por %s" ]
 				},
 				{
 					"potion_on_cursed": "template_potion_curse_sideeffect"
@@ -7565,7 +7565,7 @@
 					"EFF_UNBREAKABLE": [ "* Irrompible" ]
 				},
 				{
-					"EFF_CHEF2": [ "* Chances de soltar carne al matar", "criaturas de sangre roja" ]
+					"EFF_CHEF2": [ "* La probabilidad de soltar carne se aplica solo a", "criaturas de sangre roja" ]
 				},
 				{
 					"EFF_THORNS": [ "* Hace daño a atacantes CaC", "al recibir daño de [Represalias]" ]
@@ -7574,7 +7574,7 @@
 					"EFF_INSPIRATION": [ "* Aliados de menor nivel reciben más", "EXP de [Inspiración]" ]
 				},
 				{
-					"EFF_CELEBRATION": [ "* Regenera más PV al subir nivel", "basado en PV Máx de [Celebración]" ]
+					"EFF_CELEBRATION": [ "* [Celebración] aumenta los PV recuperados al subir de nivel", "según los PV máximos" ]
 				},
 				{
 					"EFF_BOUNTY": [ "* Matar objetivo con [Recompensa] brindará", "oro extra estando equipado" ]
@@ -7583,7 +7583,7 @@
 					"EFF_FOLLOWER_DMGRESIST": [ "* El daño de trampa no es afectado", "por [Resistencia al Daño]" ]
 				},
 				{
-					"EFF_HOOD_WHISPERS": [ "* [Apuñalar] a distancia aumenta ATQ", "con habilidad %s" ]
+					"EFF_HOOD_WHISPERS": [ "* El ATQ de [Ataque Furtivo] a distancia aumenta", "con habilidad %s" ]
 				},
 				{
 					"EFF_MARIGOLD1": [ "* Sin efecto con comida que causa malestar" ]

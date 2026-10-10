@@ -839,7 +839,7 @@ slime spray;rocío de cieno
 slingshot;honda
 slippery;resbaladizo
 slow;lentitud
-smite;mazas
+smite;castigo
 sneak;escabullir
 sneakiest class;clase más furtiva
 sneaking;sigilo

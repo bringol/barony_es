@@ -3,7 +3,7 @@
 	"descriptions": {
 		"barbarian": {
 			"id": 0,
-			"stats": ["good", "decent", "bad", "bad", "decent", "decent"],
+			"stats": ["good", "decent", "decent", "bad", "decent", "decent"],
 			"survival_complexity": [3,2],
 			"line_spacing": [0,
 				0,
@@ -319,7 +319,7 @@
 		},
 		"sexton": {
 			"id": 10,
-			"stats": ["good", "good", "average", "good", "average", "average"],
+			"stats": ["average", "good", "bad", "good", "bad", "average"],
 			"survival_complexity": [3,4],
 			"line_spacing": [0,
 				0,
@@ -350,7 +350,7 @@
 			]
 		},
 		"ninja": {
-			"stats": ["good", "good", "decent", "average", "average", "bad"],
+			"stats": ["good", "good", "average", "poor", "decent", "bad"],
 			"survival_complexity": [2,2],
 			"line_spacing": [0,
 				0,
@@ -852,7 +852,7 @@
 		},
 		"shapeshift_imp": {
 			"id": 103,
-			"stats": ["bad", "decent", "bad", "good", "bad", "bad"],
+			"stats": ["bad", "bad", "bad", "decent", "bad", "good"],
 			"survival_complexity": [1,1],
 			"line_spacing": [],
 			"desc": []
