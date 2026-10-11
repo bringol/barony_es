@@ -519,8 +519,8 @@
 				"- Desarmado",
 				"",
 				"Amistades Con",
-				"- Insectoides, Osgos, Escor-",
-				"    piones y Autómatas"
+				"- Insectoides, Escarabajos,",
+				"    Escorpiones y Autómatas"
 			],
 			"right_align": [
 				"",
@@ -609,8 +609,8 @@
 				"",
 				"",
 				"Amistades Con",
-				"- Arácnidos, Osgos, Escor-",
-				"  piones y Autómatas"
+				"- Arácnidos, Escarabajos,",
+				"    Escorpiones y Autómatas"
 			],
 			"right_align": [
 				"",
@@ -648,8 +648,8 @@
 				"",
 				"",
 				"Amistades Con",
-				"- Osgos, Escarabajos, Escor-",
-				"  piones y Autómatas"
+				"- Cangrejos, Escarabajos,",
+				"    Escorpiones y Autómatas"
 			],
 			"right_align": [
 				"",
@@ -921,7 +921,7 @@
 				"    magias, reg. hasta 50%",
 				"- Ganar EXP aumenta FR",
 				"- Se vuelve Radiante al",
-				"    Escupir Fuego a 75% FR",
+				"    usar Aliento Ígneo a 75% FR",
 				"- Forma Pétrea a 25% FR",
 				"- CAR mejora Formas y FR",
 				"- +35% más hambruna",

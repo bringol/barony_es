@@ -151,7 +151,7 @@
 				"Observa el encaramiento",
 				"de los enemigos y calcula",
 				"tu ataque para garantizar",
-				"garantizar un golpe por la espalda.",
+				"un golpe por la espalda.",
 				"",
 				"¡No necesitas moverte sigilosamente",
 				" cuando la espalda de tu enemigo",
@@ -572,7 +572,7 @@
             "sign": [
 				"El flanqueo, el sigilo,",
 				"los ataques por la espalda y",
-				"la gestión de la luz ayudará",
+				"la gestión de la luz ayudarán",
 				"a sobrevivir en la mazmorra."
             ],
             "attributes": {
