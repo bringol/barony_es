@@ -570,7 +570,7 @@
             "name_unidentified": "gema"
         },
         "gem_glass": {
-            "name_identified": "vidrio inserdible",
+            "name_identified": "vidrio sin valor",
             "name_unidentified": "gema"
         },
         "tool_pickaxe": {
@@ -683,15 +683,15 @@
         },
         "artifact_boots": {
             "name_identified": "Botas del Oráculo",
-            "name_unidentified": "botas de artifacto"
+            "name_unidentified": "botas de artefacto"
         },
         "artifact_cloak": {
             "name_identified": "Manto del Espectro",
-            "name_unidentified": "capa de artifacto"
+            "name_unidentified": "capa de artefacto"
         },
         "artifact_gloves": {
             "name_identified": "Brazalete del Genio",
-            "name_unidentified": "brazaletes de artifacto"
+            "name_unidentified": "brazaletes de artefacto"
         },
         "crystal_breastpiece": {
             "name_identified": "coraza de cristal",
@@ -886,8 +886,8 @@
             "name_unidentified": "mochila"
         },
         "tool_alembic": {
-            "name_identified": "alembique",
-            "name_unidentified": "alembique"
+            "name_identified": "alambique",
+            "name_unidentified": "alambique"
         },
         "potion_firestorm": {
             "name_identified": "poción de incendio",
@@ -938,7 +938,7 @@
             "name_unidentified": "grimorio"
         },
         "spellbook_spider_form": {
-            "name_identified": "grimorio de forma arácnida",
+            "name_identified": "grimorio de forma artrópoda",
             "name_unidentified": "grimorio"
         },
         "spellbook_troll_form": {
@@ -1622,7 +1622,7 @@
 			"name_unidentified": "foco"
 		},
 		"tool_foci_arcs": {
-			"name_identified": "foco voltáico",
+			"name_identified": "foco voltaico",
 			"name_unidentified": "foco"
 		},
 		"tool_foci_sand": {
@@ -1806,7 +1806,7 @@
             "name_unidentified": "grimorio"
         },
         "spellbook_ice_wave": {
-            "name_identified": "grimorio de onda de gélida",
+            "name_identified": "grimorio de onda gélida",
             "name_unidentified": "grimorio"
         },
         "spellbook_guard_body": {
@@ -2199,7 +2199,7 @@
             "name": "Forma de Rata"
         },
         "spell_spider_form": {
-            "name": "Forma Arácnida"
+            "name": "Forma Artrópoda"
         },
         "spell_troll_form": {
             "name": "Forma de Troll"
@@ -2289,7 +2289,7 @@
 			"name": "Foco Pungente"
 		},
 		"spell_foci_arcs": {
-			"name": "Foco Voláico"
+			"name": "Foco Voltaico"
 		},
 		"spell_foci_sandblast": {
 			"name": "Foco Desértico"
@@ -2301,7 +2301,7 @@
 			"name": "Llamas"
 		},
 		"spell_ice_wave": {
-			"name": "Onda de Gélida"
+			"name": "Onda Gélida"
 		},
 		"spell_earth_elemental": {
 			"name": "Invocar Sílfide Pétrea"
@@ -2364,7 +2364,7 @@
 			"name": "Camino Sagrado"
 		},
 		"spell_manifest_destiny": {
-			"name": "Manifiestar Destino"
+			"name": "Manifestar Destino"
 		},
 		"spell_detect_enemy": {
 			"name": "Detectar Enemigo"
@@ -2436,7 +2436,7 @@
 			"name": "Forjar Llave"
 		},
 		"spell_forge_jewel": {
-			"name": "Forjar Joya"
+			"name": "Forjar Gema"
 		},
 		"spell_enhance_weapon": {
 			"name": "Potenciar Arma"
@@ -2574,7 +2574,7 @@
 			"name": "Apresar Magia"
 		},
 		"spell_deface": {
-			"name": "Profanar"
+			"name": "Desfigurar"
 		},
 		"spell_sunder_monument": {
 			"name": "Hendir Monumento"
@@ -2628,7 +2628,7 @@
 			"name": "Sacralizar Instrumento"
 		},
 		"spell_flame_cloak": {
-			"name": "Capa Ígneo"
+			"name": "Capa Ígnea"
 		},
 		"spell_critical_spell": {
 			"name": "Conjuro Crítico"
@@ -2718,7 +2718,7 @@
 			"name": "Proyectar Espíritu"
 		},
 		"spell_breathe_fire": {
-			"name": "Respirar Fuego"
+			"name": "Aliento Ígneo"
 		},
 		"spell_heal_minor": {
 			"name": "Curación Menor"

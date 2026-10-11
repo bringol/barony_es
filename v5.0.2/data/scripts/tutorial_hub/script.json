@@ -113,7 +113,7 @@
         },
         "tutorial_hubf": {
             "sign": [
-                "Bienvenido",
+                "Te damos la bienvenida",
 				"al",
 				"Ala Maestra"
             ],
@@ -259,7 +259,7 @@
                 "cualquier Desafío como desees.",
                 "",
                 "Algunos héroes dominan",
-                "todas los Desafíos."
+                "todos los Desafíos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -275,11 +275,11 @@
         },
         "tutorial_hubn": {
             "sign": [
-                "Bienvenido al",
+                "Te damos la bienvenida al",
                 "Salón de Desafíos",
                 "",
-                "En este lugar serás",
-                "impartido y evaluado"
+                "Aquí aprenderás y pondrás",
+                "a prueba tus conocimientos."
             ],
             "attributes": {
                 "font": "fonts/kongtext.ttf#16#2",
@@ -679,13 +679,13 @@
         "tutorial_hubac": {
             "sign": [
                 "En las mazmorras, los aventureros",
-                "ganan puntos de experiencia (PX)",
+                "ganan puntos de experiencia (EXP)",
                 "por sus acciones.",
                 "",
-                "Después de ganar 100 PX, los héroes",
+                "Después de ganar 100 EXP, los héroes",
                 "suben de nivel, obteniendo mayores",
                 "estadísticas, Puntos de Vida (PV),",
-                "y puntos de magia (PV)."
+                "y puntos de magia (PM)."
             ],
             "attributes": {
                 "font": "fonts/pixel_maz_multiline.ttf#16#2",

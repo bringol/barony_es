@@ -110,12 +110,12 @@
 			"effects": [
 				{
 					"tag": "BLOCK_AC_INCREASE",
-					"title": "Aumento CA Defensiva:",
+					"title": "Aumento de CA al defender:\n(Escudos)",
 					"value": "%+d CA"
 				},
 				{
 					"tag": "BLOCK_AC_INCREASE_OFFHAND",
-					"title": "Aumento de CA al defender\n con mano secundaria:",
+					"title": "Aumento de CA al defender:\n(Sin escudos)",
 					"value": "%+d CA"
 				},
 				{
@@ -136,7 +136,7 @@
 			]
 		},
 		{
-			"name": "Distancia",
+			"name": "Alcance",
 			"id": 8,
 			"sfx": 600,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Ranged01.png",
@@ -154,7 +154,7 @@
 			"effects": [
 				{
 					"tag": "WEAPON_DMG_EFFECTIVENESS",
-					"title": "ATQ a Distancia\n efectividad:",
+					"title": "Variación del daño ATQ\n de Alcance:",
 					"value": "%d%% - %d%%",
 					"custom_value_width_offset": 32
 				},
@@ -194,7 +194,7 @@
 			"effects": [
 				{
 					"tag": "WEAPON_DMG_EFFECTIVENESS",
-					"title": "ATQ Desarmado\n efectividad:",
+					"title": "Variación del daño ATQ\n Desarmado:",
 					"value": "%d%% - %d%%",
 					"custom_value_width_offset": 32
 				},
@@ -210,7 +210,7 @@
 				},
 				{
 					"tag": "GLOVE_DEGRADE0_CHANCE",
-					"title": "Degradación del arma de puño:\n (Al hacer 0 daño)",
+					"title": "Chance de degradar\n el arma de puño:\n (Al hacer 0 daño)",
 					"value": "%.2f%%"
 				},
 				{
@@ -239,7 +239,7 @@
 			"effects": [
 				{
 					"tag": "WEAPON_DMG_EFFECTIVENESS",
-					"title": "ATQ Espada\n efectividad:",
+					"title": "Variación del daño ATQ\n de Espada:",
 					"value": "%d%% - %d%%",
 					"custom_value_width_offset": 32
 				},
@@ -274,7 +274,7 @@
 			"effects": [
 				{
 					"tag": "WEAPON_DMG_EFFECTIVENESS",
-					"title": "ATQ Arma de Asta\n efectividad:",
+					"title": "Variación del daño ATQ\n de Arma de Asta:",
 					"value": "%d%% - %d%%",
 					"custom_value_width_offset": 32
 				},
@@ -309,7 +309,7 @@
 			"effects": [
 				{
 					"tag": "WEAPON_DMG_EFFECTIVENESS",
-					"title": "ATQ con Hacha\n efectividad:",
+					"title": "Variación del daño ATQ\n de Hacha:",
 					"value": "%d%% - %d%%",
 					"custom_value_width_offset": 32
 				},
@@ -344,7 +344,7 @@
 			"effects": [
 				{
 					"tag": "WEAPON_DMG_EFFECTIVENESS",
-					"title": "ATQ maza\n efectividad:",
+					"title": "Variación del daño ATQ\n de Maza:",
 					"value": "%d%% - %d%%",
 					"custom_value_width_offset": 32
 				},
@@ -401,7 +401,7 @@
 			]
 		},
 		{
-			"name": "Comercio",
+			"name": "Comerciar",
 			"id": 2,
 			"sfx": 552,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Trading01.png",
@@ -430,7 +430,7 @@
 			]
 		},
 		{
-			"name": "Tasar",
+			"name": "Saber",
 			"id": 3,
 			"sfx": 568,
 			"icon_base_path": "#*images/ui/SkillSheet/Icons/Lore01.png",
@@ -453,7 +453,7 @@
 				},
 				{
 					"tag": "APPRAISE_MAX_GOLD_VALUE",
-					"title": "Máximo valor en oro\n capaz de ser tasado:\n (Usando habilidad + PER)",
+					"title": "Máximo valor en oro\n que puedes tasar lentamente:",
 					"value": "%d Oro"
 				},
 				{
@@ -473,7 +473,7 @@
 				},
 				{
 					"tag": "APPRAISE_WORTHLESS_GLASS",
-					"title": "Capaz de tasar\n Vidrio Inserdible:\n (Usando habilidad + PER)",
+					"title": "Puedes tasar\n vidrio sin valor:",
 					"value": "%s"
 				}
 			]
@@ -543,7 +543,7 @@
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Alchemy02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_PER_00.png",
 			"description": "Mejora de habilidad para elaborar pociones con alambiques y aumenta el daño de las pociones ofensivas arrojadizas. \nBebe o elabora pociones para aprender ingredientes útiles Alquímicos.",
-			"legend_text": "Alambiques nunca se degradan.\n Pociones elaboradas tiene +2 bendición.",
+			"legend_text": "Alambiques nunca se degradan.\n Las pociones elaboradas tienen +2 bendición.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -675,7 +675,7 @@
 				{
 					"tag": "MAGIC_MEMORIZED_LEVEL_SPELLS",
 					"title": "Hechizos aprendidos ideales para\n subir el nivel actual de\n Misticismo:",
-					"title_short": "Hechizos aprendidos\n ideales para subir\n el nivel actual de\n Misticismo:",
+					"title_short": "Hechizos aprendidos\n ideales para subir\n el nivel actual\n de habilidad\n de Misticismo:",
 					"value": "%s",
 					"auto_resize_value": true
 				},
@@ -728,7 +728,7 @@
 				{
 					"tag": "MAGIC_MEMORIZED_LEVEL_SPELLS",
 					"title": "Hechizos aprendidos ideales para\n subir el nivel actual de\n Taumaturgia:",
-					"title_short": "Hechizos aprendidos\n ideales para subir\n el nivel actual de\n Taumaturgia:",
+					"title_short": "Hechizos aprendidos\n ideales para subir\n el nivel actual\n de habilidad\n de Taumaturgia:",
 					"value": "%s",
 					"auto_resize_value": true
 				},

@@ -31,7 +31,7 @@
             "sign": [
 				"$ ",
 				"",
-				"Tus PV está bajos como",
+				"Tus PV están bajos como",
 				"resultado de un envenenamiento.",
 				"La Poción de Gran Curación",
 				"te ayudará."
@@ -86,7 +86,7 @@
             "sign": [
 				"$ ",
 				"",
-				"Tus PV está bajos como",
+				"Tus PV están bajos como",
 				"resultado de un envenenamiento.",
 				"La Poción de Gran Curación",
 				"te ayudará."
@@ -191,9 +191,9 @@
 				"selecciona dos pociones diferentes",
 				"con$ .",
 				"",
-				"Luego selecciona el resultado",
-				"de la casilla inferior",
-				"con$ para elaborarla."
+				"Luego elige Elaborar con$",
+				"o recoge el resultado",
+				"de la casilla inferior."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -347,9 +347,9 @@
 				"has aprendido, y",
 				"tu suministro de pociones",
 				"para tener éxito. Asegúrate de",
-				"estar preparado.",
+				"tener todo lo necesario.",
 				"",
-				"Ahora serás puesto a prueba.",
+				"Es hora de ponerte a prueba.",
 				"Purga el área de",
 				"los no-muertos."
             ],
@@ -759,10 +759,10 @@
 				"Las pociones pueden ser",
 				"lanzadas o bebidas.",
 				"",
-				"Si una poción está",
-				"identificada, su Hotbar",
-				"y el comportamiento base$",
-				"ajustarán a su efecto."
+				"Si identificas una poción,",
+				"la acción de su barra rápida",
+				"y la acción predeterminada de$",
+				"se ajustan a su efecto."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -802,10 +802,10 @@
 				"Las pociones pueden ser",
 				"lanzadas o bebidas.",
 				"",
-				"Si una poción está",
-				"identificada, su Hotbar",
-				"y el comportamiento base$",
-				"ajustarán a su efecto."
+				"Si identificas una poción,",
+				"la acción de su barra rápida",
+				"y la acción predeterminada de$",
+				"se ajustan a su efecto."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -842,7 +842,7 @@
         },
         "tutorial8r": {
             "sign": [
-				"Estás Envenenado.",
+				"Sufres envenenamiento.",
 				"",
 				"$ ",
 				"",
@@ -889,7 +889,7 @@
         },
 		"tutorial8r_gamepad": {
             "sign": [
-				"Estás Envenenado.",
+				"Sufres envenenamiento.",
 				"",
 				"$ ",
 				"",
@@ -996,7 +996,7 @@
         "tutorial8t_gamepad": {
             "sign": [
 				"Para empuñar pociones beneficiosas",
-				"o sin identificar, pulsa$ en la,",
+				"o sin identificar, pulsa$ en la",
 				"poción ubicada en tu inventario y ",
 				"selecciona [Empuñar] desde el menú",
 				"desplegable."
@@ -1606,7 +1606,7 @@
 				"pociones puede",
 				"ocasionalmente dar",
 				"como resultado una",
-				"botella vacía, que",
+				"botella vacía,",
 				"que cualquier alquimista",
 				"puede reutilizar."
             ],
@@ -1876,9 +1876,9 @@
 				"$ ",
 				"",
 				"Las Pociones de Tempestad se",
-				"pueden preparar de manera conf-",
+				"pueden preparar de manera con-",
 				"fiable mezclando pociones de",
-				"Ácido con de Velocidad."
+				"Ácido con pociones de Velocidad."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1919,9 +1919,9 @@
 				"$ ",
 				"",
 				"Las Pociones de Tempestad se",
-				"pueden preparar de manera conf-",
+				"pueden preparar de manera con-",
 				"fiable mezclando pociones de",
-				"Ácido con de Velocidad."
+				"Ácido con pociones de Velocidad."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -2264,8 +2264,8 @@
 				"con el mismo efecto",
 				"en un solo tipo de",
 				"botella, permitiendo",
-				"que se organicen en",
-				"una sola."
+				"que se agrupen",
+				"juntas."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -2307,8 +2307,8 @@
 				"con el mismo efecto",
 				"en un solo tipo de",
 				"botella, permitiendo",
-				"que se organicen en",
-				"una sola."
+				"que se agrupen",
+				"juntas."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",

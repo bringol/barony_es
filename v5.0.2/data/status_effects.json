@@ -28,7 +28,7 @@
 			"spell_id": 7,
 			"internal_name": "SUSTAIN_LIGHT",
 			"name": "Luz",
-			"desc": "Crea una fuente luz mágica",
+			"desc": "Crea una fuente de luz mágica",
 			"img_path": "",
 			"img_from_spell_id": 7
 		},
@@ -60,7 +60,7 @@
 			"Sufriendo de indigestión:\n- Fuerza\n- Destreza",
 			"No comer causará efectos negativos",
 			"Sufriendo por falta de comida:\n- Fuerza\n- Destreza",
-			"Recibe % de PV máx. como daño con el tiempo:\n- Fuerza\n- Destreza\n- Inteligencia\n- Percepción"],
+			"Sufres por falta de comida:\n- Regeneración de PV desactivada\n- Recibes % de PV máx. como daño con el tiempo\n- Fuerza\n- Destreza\n- Inteligencia\n- Percepción"],
 			"img_path": ["*images/ui/HUD/HUD_Hunger_01A.png", "*images/ui/HUD/HUD_Hunger_01B.png", "*images/ui/HUD/HUD_Hunger_01C.png", "*images/ui/HUD/HUD_Hunger_01D.png"],
 			"img_from_spell_id": -1,
 			"tooltip_width": 250
@@ -69,7 +69,7 @@
 			"id": -3,
 			"internal_name": "EFF_HUNGER",
 			"name": ["¡Hastiado!", "Hambriento", "Muy Hambriento", "¡Famélico!"],
-			"desc": ["Sufriendo de indigestión:\n- Fuerza\n- Destreza", "No comer causará efectos negativos", "Sufriendo por falta de comida:\n- Fuerza\n- Destreza", "Recibe % de PV máx. como daño con el tiempo:\n- Fuerza\n- Destreza\n- Inteligencia\n- Percepción"],
+			"desc": ["Sufriendo de indigestión:\n- Fuerza\n- Destreza", "No comer causará efectos negativos", "Sufriendo por falta de comida:\n- Fuerza\n- Destreza", "Sufres por falta de comida y recibes daño con el tiempo:\n- Fuerza\n- Destreza\n- Inteligencia\n- Percepción"],
 			"img_path": ["*images/ui/HUD/HUD_Hunger_Blood_00A.png", "*images/ui/HUD/HUD_Hunger_Blood_00B.png", "*images/ui/HUD/HUD_Hunger_Blood_00C.png", "*images/ui/HUD/HUD_Hunger_Blood_00D.png"],
 			"img_from_spell_id": -1
 		},
@@ -310,7 +310,7 @@
 			"id": -29,
 			"internal_name": "EFF_OVERCHARGE_COUNT",
 			"name": "Sobrecarga",
-            "desc": "El próximo hechizo memorizado se mantendrá cargado durante varias lanzamientos sucesivos\nLos lanzamientos sucesivos consumirán PV al agotarse los PM\nCancelar el hechizo cargado disipa el efecto",
+            "desc": "El próximo hechizo memorizado se mantendrá cargado durante varios lanzamientos sucesivos\nLos lanzamientos sucesivos consumirán PV al agotarse los PM\nCancelar el hechizo cargado disipa el efecto",
 			"img_path": "",
 			"img_from_spell_id": 100,
 			"tooltip_width": 260
@@ -330,7 +330,7 @@
 			"id": 0,
 			"internal_name": "EFF_ASLEEP",
 			"name": "Sueño",
-			"desc": "Incapaz ver o moverte",
+			"desc": "Incapaz de ver o moverte",
 			"img_path": "",
 			"img_from_spell_id": 10
 		},
@@ -1208,7 +1208,7 @@
 		"EFF_DUSTED": {
 			"id": 102,
 			"internal_name": "EFF_DUSTED",
-			"name": "Desempolvado",
+			"name": "Empolvado",
 			"desc": "Más visible para enemigos\n- Percepción",
 			"img_path": "",
 			"img_from_spell_id": 198
@@ -1440,7 +1440,7 @@
 			"name": ["Corazón Radiante", "Corazón Radiante", "Corazón Pétreo", "Corazón Pétreo"],
 			"desc": [
 			"Se disipa por debajo del 60% de Fervor (FR)\nLevitación\n+PDR/-CON por CAR\n+25% Resistencia al Fuego\nFR se agota con el tiempo",
-			"Se disipa por debajo del 60% de Fervor (FR)\nHechizos con 0 PM\nEfectos de Respirar Fuego aumentados\nLevitación\n+PDR/-CON por CAR\n+25% Resistencia al Fuego\nFR se agota con el tiempo",
+			"Se disipa por debajo del 60% de Fervor (FR)\nHechizos con 0 PM\nEfectos de Aliento Ígneo aumentados\nLevitación\n+PDR/-CON por CAR\n+25% Resistencia al Fuego\nFR se agota con el tiempo",
 			"Se disipa por encima del 40% de Fervor (FR)\n+FUE/CON por CAR\n-DES por CAR",
 			"Se disipa por encima del 40% de Fervor (FR)\nInmune al Daño\n+FUE/CON por CAR\n-DES por CAR"],
 			"img_path": ["*images/ui/HUD/statusfx/heart_radiant.png", "*images/ui/HUD/statusfx/heart_radiant_bonus.png", "*images/ui/HUD/statusfx/heart_stone.png", "*images/ui/HUD/statusfx/heart_stone_bonus.png"],
@@ -1478,7 +1478,7 @@
 		"EFF_SIGIL": {
 			"id": 132,
 			"internal_name": "EFF_SIGIL",
-			"name": "Gilfo",
+			"name": "Glifo",
 			"desc": "Recibe curación adicional\nLos enemigos reciben daño de Castigo adicional",
 			"img_path": "",
 			"img_from_spell_id": 222,

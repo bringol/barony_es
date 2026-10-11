@@ -365,9 +365,9 @@
 				"La mayoría de los objetos",
 				"no están identificados.",
 				"$",
-				"Si tu habilidad de Tasar",
+				"Si tu habilidad de Saber",
 				"es baja, puedes fallar",
-				"al intentar identificarlos."
+				"al intentar tasarlos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -680,7 +680,7 @@
         "tutorial4l": {
             "sign": [
 				"La comida en mal estado",
-				"tiene la posiblidad de",
+				"tiene la posibilidad de",
 				"causarte perjuicios.",
 				"$",
 				"Tu desesperación deberá",

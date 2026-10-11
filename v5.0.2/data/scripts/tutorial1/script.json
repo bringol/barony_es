@@ -132,7 +132,7 @@
 				"",
                 "Para salir del desafío, selecciona",
 				"",
-				"[ Vovler al Salón de Desafíos ]"
+				"[ Volver al Salón de Desafíos ]"
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -196,7 +196,7 @@
                 "Equipa escudos para ganar CA,",
 				"reduciendo daño recibido.",
 				"",
-                "Sostiene$para Bloquear,",
+                "Mantén$para Bloquear,",
 				"aumentando aún más tu CA."
             ],
             "attributes": {
@@ -253,7 +253,7 @@
 				"puerta cercana a la cama.",
 				"$",
                 "Apunta a la palanca",
-				"pulsa $ para alternar."
+				"y pulsa $ para alternar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -365,7 +365,7 @@
 				"Pulsa$ para usar objetos.",
 				"Agarra y mueve objetos con$ .",
                 "Pulsa$ otra vez o$",
-				"para ir al menú."
+				"para salir del menú."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1007,7 +1007,7 @@
 				"",
 				"Continúa por la",
 				"puerta a tu izquierda",
-				"cuando estés listo."
+				"cuando quieras continuar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",

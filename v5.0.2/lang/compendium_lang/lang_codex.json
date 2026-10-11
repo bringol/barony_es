@@ -349,7 +349,7 @@
             "",
             "Luchando solo, no surgirán muchas",
             "ocasiones para flanquear. Pero con",
-            "con aliados o seguidores, ¡algún",
+            "aliados o seguidores, ¡algún",
             "miembro del grupo puede beneficiarse",
             "del flanqueo con mayor frecuencia!"
         ],
@@ -385,12 +385,12 @@
             "hechizos más difíciles."
         ],
         "details": [
-            "La INT mejora mucho la capacidad mágica",
-            "En general, potencia REG, PDR, y",
+            "La INT mejora mucho la capacidad mágica.",
+            "En general, potencia RGN, PDR, y",
             "facilita aprender hechizos.",
             "",
             "Sin embargo, elegir objetos que aumenten",
-            "directamente REG o PDR puede dar mejores",
+            "directamente RGN o PDR puede dar mejores",
             "resultados que la INT pura para",
             "canalizadores especializados."
         ],
@@ -927,7 +927,7 @@
         "blurb": [
             "Casi todos los habitantes se regeneran",
             "con el tiempo y recuperan PV y PM. La",
-            "REGENERACIÓN (REG) mejora la rapidez",
+            "REGENERACIÓN (RGN) mejora la rapidez",
             "a la que se restauran."
         ],
         "details": [
@@ -939,7 +939,7 @@
             "Explora, gestiona objetos y aléjate",
             "de las amenazas cuando tus reservas",
             "se agoten, para aprovechar al máximo",
-            "la REG.",
+            "la RGN.",
             "",
             "Ten en cuenta que la regen. de PV se",
             "desactiva al apagar el ajuste Hambre."
@@ -1023,7 +1023,7 @@
             "Los atributos miden la capacidad de un",
             "personaje y rigen habilidades. Incluyen",
             "FUE, CON, DES, INT, PER y CAR.",
-            "Los metaatributos PDR, CA, REG y ATQ",
+            "Los metaatributos PDR, CA, RGN y ATQ",
             "no suben directamente con el nivel."
         ],
         "details": [
@@ -1185,14 +1185,14 @@
     },
     "trading skill": {
         "blurb": [
-            "La HAB. COMERCIO ayuda a sacar el máximo",
+            "La HAB. COMERCIAR ayuda a sacar el máximo",
             "provecho del oro al comprar o",
             "vender. Solo alguien hábil puede",
             "convencer a un comerciante de vender",
             "su reserva privada de consumibles."
         ],
         "details": [
-            "La hab. comercio solo aumentará al",
+            "La hab. comerciar solo aumentará al",
             "comprar objetos, y el costo en oro de",
             "cada objeto marca la probabilidad de",
             "que aumente la habilidad (hasta 100).",
@@ -1410,7 +1410,7 @@
             "",
 			"El misticismo permite un dominio fiable",
 			"de objetos y mentes al aventurero",
-			"aventurero más estratégico."
+			"más estratégico."
         ],
         "details_line_highlights": []
     },

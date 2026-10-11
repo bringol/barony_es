@@ -794,8 +794,8 @@
 			{
 				"text": "Señala la entrada secreta.",
 				"word_highlights" : [3, 4, 5],
-				"msg_emote": "%s señala la salida secreta.",
-				"msg_emote_you": "Señalas la salida secreta",
+				"msg_emote": "%s señala la entrada a un área secreta.",
+				"msg_emote_you": "Señalas la entrada a un área secreta.",
 				"world_icon": "tag_spot",
 				"world_icon_small": "mini_spot"
 			},

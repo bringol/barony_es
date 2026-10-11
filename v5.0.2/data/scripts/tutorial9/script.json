@@ -361,8 +361,8 @@
             "sign": [
 				"La cantidad de máquinas",
 				"que puedes desplegar a la vez",
-				"dependerá de tu habilidad de",
-				"para la fabricación.",
+				"dependerá de tu habilidad",
+				"de Fabricar.",
 				"",
 				"Elige sabiamente, y",
 				"mantén un registro de",
@@ -996,7 +996,6 @@
 					[],
 					[2]
 				],
-                "word_highlights2": [],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -1174,7 +1173,6 @@
 					[],
 					[1,2]
 				],
-                "word_highlights2": [],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -1223,7 +1221,6 @@
 					[],
 					[1,2]
 				],
-                "word_highlights2": [],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -1360,7 +1357,6 @@
 					[],
 					[1,2]
 				],
-                "word_highlights2": [],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -1393,14 +1389,13 @@
                 "word_highlights": [],
                 "word_highlights2": [
 					[],
-					[1,2],
+					[0,1],
 					[],
 					[],
 					[],
 					[0,1,2]
 					
 				],
-                "word_highlights2": [],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -1450,7 +1445,7 @@
 				"$",
 				"Ordena al girobot a",
 				"[Retornar y Aterrizar] si",
-				"si asisntencia deja de ser",
+				"su asistencia deja de ser",
 				"requerida."
             ],
             "attributes": {
@@ -1793,7 +1788,7 @@
             "sign": [
 				"Activa la palanca",
 				"al final de la",
-				"plataforma y los monstruos.",
+				"plataforma y los monstruos",
 				"comenzarán a atacar.",
 				"Usa el conocimiento técnico",
 				"para sobrevivir al asedio",

@@ -16,7 +16,7 @@
 1906 comerciante#
 1907 mago#
 1908 arcanista#
-1909 bufón#
+1909 guasón#
 
 
 # class descriptions
@@ -319,8 +319,9 @@ inventario)#
 crean un aura de discordia
 alrededor de una persona.#
 
-217 ¿Aceite para lámparas? ¿Cuerda? ¿Bombas?
-¿Lo queréis? Es vuestro, amigo mío.
+217 ¿Aceite para lámparas? ¿Cuerda?
+¿Bombas? ¿Lo queréis?
+Es vuestro, amigo mío.
 ¡Siempre que tengáis suficientes rúpias!#
 
 218 Dicen que algunos objetos
@@ -354,7 +355,8 @@ estaba solo en una isla diminuta.#
 225 Vuestras habilidades mejorarán
 con el uso que hagáis de ellas.#
 
-226 Los trasgos son grandes saqueadores.
+226 Los trasgos son
+grandes saqueadores.
 ¡No dejéis objetos poderosos
 donde puedan encontrarlos!#
 
@@ -366,7 +368,7 @@ de las artes místicas.#
 ensuciaros las manos. Usad una
 toalla para mantenerlas limpias.#
 
-229 No podéis vendar una herida
+229 Puedes vendar heridas
 con toallas.#
 
 230 ¿Estáis hambriento? La carne de rata
@@ -375,11 +377,13 @@ es un alimento básico por estos lares.#
 231 La picadura de un escorpión
 puede paralizaros. Andaos con ojo.#
 
-232 Dicen que las súcubos se divierten
-tratando de despojar a los hombres de su ropa.#
+232 Dicen que las súcubos disfrutan
+tratando de robar la ropa
+de la gente.#
 
-233 Cuanto más pasada esté la comida, más
-probable es que enfermes al comerla.#
+233 Cuanto más pasada esté la comida,
+más probable es que enfermes
+al comerla.#
 
 234 En ocasiones los espejos
 hacen cosas raras.#
@@ -392,13 +396,13 @@ los objetos antes de usarlos.#
 
 236 Fabricar#
 237 Sigilo#
-238 Comercio#
-239 Tasar#
-240 Nadar#
+238 Comerciar#
+239 Saber#
+240 Taumaturgia#
 241 Liderazgo#
-242 Canalizar#
-243 Magia#
-244 Distancia#
+242 Misticismo#
+243 Hechicería#
+244 Alcance#
 245 Espada#
 246 Maza#
 247 Hacha#
@@ -458,7 +462,7 @@ los objetos antes de usarlos.#
 289 noclip OFF#
 290 modo dios siempre está desactivado en partidas multijugador.#
 291 modo dios ON#
-292 god mode OFF#
+292 Modo dios DESACTIVADO#
 293 modo buddha siempre está desactivado en partidas multijugador.#
 294 modo buddha ON#
 295 modo buddha OFF#
@@ -712,68 +716,50 @@ los objetos antes de usarlos.#
 
 # headstone messages
 
-485 En la lápida se puede leer:
- "Aquí yace Juan Pesante
+485 En la lápida se puede leer: "Aquí yace Juan Pesante
   Disculpad que no me levante"#
 
-486 En la lápida se puede leer:
- "Aquí yace mi esposa
-  Aquí ella reposa
-  Ahora estoy con otra,
-  mucho más maravillosa."#
+486 En la lápida se puede leer: "Aquí yace mi esposa
+ Aquí ella reposa
+ Ahora estoy con otra, mucho más maravillosa."#
 
-487 En la lápida se puede leer:
- "Aquí yace el cuerpo de Gaspar  
+487 En la lápida se puede leer: "Aquí yace el cuerpo de Gaspar  
   Quien aceleró en lugar de frenar"#
 
-488 En la lápida se puede leer:
- "Aquí yace Alberto
-  Consiguió su paquete
-  pero ahora está muerto"#
+488 En la lápida se puede leer: "Aquí yace Alberto
+ Consiguió su paquete pero ahora está muerto"#
 
-489 En la lápida se puede leer:
- "Descanse En Paz"#
+489 En la lápida se puede leer: "Descanse En Paz"#
 
-490 En la lápida se puede leer:
- "Q.E.P.D."#
+490 En la lápida se puede leer: "Q.E.P.D."#
 
-491 En la lápida se puede leer:
- "Sum quod eris"#
+491 En la lápida se puede leer: "Sum quod eris"#
 
-492 En la lápida se puede leer:
- "Por la borda saltó Don Omar
+492 En la lápida se puede leer: "Por la borda saltó Don Omar
   Y luego recordó que no sabia nadar"#
 
-493 En la lápida se puede leer:
- "Aquí yace Mary Poppins
+493 En la lápida se puede leer: "Aquí yace Mary Poppins
   No tapó un agujero en su paraguas"#
 
-494 En la lápida se puede leer:
- "Aquí yace Horacio P. Fetch
+494 En la lápida se puede leer: "Aquí yace Horacio P. Fetch
   Al final los trasgos le dieron caza"#
 
-495 En la lápida se puede leer:
- "Aquí yace Julián
+495 En la lápida se puede leer: "Aquí yace Julián
   Machacado por su troll mascota"#
 
-496 En la lápida se puede leer:
- "Aquí descansa Ingrid
+496 En la lápida se puede leer: "Aquí descansa Ingrid
   Un esqueleto le dió un susto de muerte"#
 
-497 En la lápida se puede leer:
- "Aquí yace Don Robin
+497 En la lápida se puede leer: "Aquí yace Don Robin
   Quien valientemente huyó"#
 
-498 En la lápida se puede leer:
- "Aquí descansa Tom
+498 En la lápida se puede leer: "Aquí descansa Tom
   Perdió una partida de Ruleta Rusa"#
 
-499 En la lápida se puede leer:
- "Aquí yace Don Agustín
+499 En la lápida se puede leer: "Aquí yace Don Agustín
   El liche supuso su fin"#
 
-500 En la lápida se puede leer:
- "Aquí se encuentra el Proto Pegaso
+500 En la lápida se puede leer: "Aquí se encuentra el Proto Pegaso
   Acabo con una patata en el tubo de escape"#
 
 501 Esta lápida no tiene epitafio.#
@@ -986,7 +972,7 @@ sobrevive hasta el siguiente piso.#
 610 Pero aún no te sientes muy bien.#
 611 Ahora tienes hambre.#
 612 ¡Ahora tienes mucha hambre!
- ¡Te sientes débil.#
+ ¡Te sientes débil!#
 613 ¡Te mueres de hambre!
  Sientes que vas a desmayarte.#
 614 Dejas de sangrar.#
@@ -1299,7 +1285,8 @@ comerte... para la cena."#
 
 843 Una nota apresurada:
 
- "Fue sin querer queriendo"#
+ "Fue sin querer
+ queriendo"#
 
 846 La carta lee así:
 
@@ -1445,7 +1432,7 @@ comerte... para la cena."#
 967 ¡De pronto te sientes más masculino!#
 968 ¡De pronto te notas más femenina!#
 969 ¡El amuleto se desintegra!#
-970 ¡No puedes leer el libro tienes ceguera!#
+970 ¡No puedes leer el libro si tienes ceguera!#
 971 ¡El grimorio de repente se deshace en polvo!#
 972 ¡Olvidas uno de tus hechizos!#
 973 Notas como te has despistado por un momento.#
@@ -1633,6 +1620,7 @@ comerte... para la cena."#
 
 1126
 El servidor remoto fue cerrado.
+
 Pulsa 'Ok' para volver al Menú Principal.#
 
 1127
@@ -1640,7 +1628,8 @@ Te han echado de la partida.
 
 Pulsa 'Ok' para volver al Menú Principal.#
 1128
-¿Deseas salir del juego?#
+¿Deseas salir
+del juego?#
 1129
                ¿Realmente
          quieres salir del juego?
@@ -1656,7 +1645,7 @@ Pulsa 'Ok' para volver al Menú Principal.#
 
    El progreso ha sido guardado
    al comienzo del piso actual.#
-1132 Requesting lobby list...#
+1132 Solicitando lista de salas...#
 1133 Has muerto. Fin del juego.
 
 #
@@ -2769,10 +2758,8 @@ No se encontró una partida guardada compatible.#
 2424 ¡%s tiene heridas graves!#
 2425 ¡Te hirieron con severidad!#
 2426 Trío de Misiles#
-2427 ¡Sientes energía emanar de ti mientras
-dominas a %s hacia tu servicio!#
-2428 ¡Sientes energía emanar de tu mientras
-dominas a %s hacia tu servicio!#
+2427 ¡Sientes energía emanar de ti mientras dominas a %s hacia tu servicio!#
+2428 ¡Sientes energía emanar de ti mientras dominas a %s hacia tu servicio!#
 2429 No eres capaz de dominar.#
 2430 ¡%s recibe un rocío de ácido corrosivo!#
 2431 ¡%s recibe un rocío de ácido corrosivo!#
@@ -3051,27 +3038,40 @@ drenarse el resto de tu magia!#
 
 # NPC Chatter. Groups of 10 lines for each NPC type
 2700 type:seq#
-2701 %s Veo que disfrutas mucho del festejo, %s. ¡No logro mantenerme a tu nivel!#
-2702 %s ¿Realmente has conseguido suficiente descanso, %s?#
-2703 v%s Primero derrotas al Barón, y aún logras festejar con más fervor que un fiestero como yo!#
-2704 %s Te tomarás las cosas con calma a partir de ahora, ¿Cierto, %s?#
+2701 %s
+ Veo que disfrutas mucho del festejo, %s. ¡No logro mantenerme a tu nivel!#
+2702 %s
+ ¿Realmente has conseguido suficiente descanso, %s?#
+2703 %s
+ ¡Primero derrotas al Barón y aún logras festejar con más fervor que un fiestero como yo!#
+2704 %s
+ Te tomarás las cosas con calma a partir de ahora, ¿Cierto, %s?#
 2705 [%s]
  ...#
 
 2710 type:rand#
-2711 %s Todo el mundo volvió a sus tiendas, como si nada hubiera sucedido.#
-2712 %s Los comerciantes de Hamlet son más duros después de sobrevivir la mazmorra del Barón.#
+2711 %s
+ Todo el mundo volvió a sus tiendas, como si nada hubiera sucedido.#
+2712 %s
+ Los comerciantes de Hamlet son más duros después de sobrevivir la mazmorra del Barón.#
 
 2720 type:rand#
-2721 %s ¿Cómo podré agradecerte %s? *hip*#
-2722 %s Te amo, colega. Lo digo enserio, %s, Te amo. *hip*#
+2721 %s
+ ¿Cómo podré agradecerte %s? *hip*#
+2722 %s
+ Te amo, colega. Lo digo en serio, %s, Te amo. *hip*#
 
 2730 type:seq#
-2731 %s Es un secreto para todos.#
-2732 %s Esto solía ser un salón de la mansión del Barón.#
-2733 %s Estamos remodelando el interior para nuestro siguiente regente.#
-2734 %s Queremos olvidar todo lo que nos recuerde a Herx.#
-2735 %s Es un secreto para todos.#
+2731 %s
+ Es un secreto para todos.#
+2732 %s
+ Esto solía ser un salón de la mansión del Barón.#
+2733 %s
+ Estamos remodelando el interior para nuestro siguiente regente.#
+2734 %s
+ Queremos olvidar todo lo que nos recuerde a Herx.#
+2735 %s
+ Es un secreto para todos.#
 2736 [%s]
  ...#
 
@@ -3079,7 +3079,7 @@ drenarse el resto de tu magia!#
 2741 %s 
  Traté de entrar a las Cuevas de Cristal, pero una barrera me detuvo.#
 2742 %s 
- Quizás el Gremio de Magos irgió esa barrera.#
+ Quizás el Gremio de Magos erigió esa barrera.#
 2743 %s 
  Soy de una ciudad distante, y un miembro del Gremio del Cazador.#
 2744 %s 
@@ -3101,7 +3101,7 @@ drenarse el resto de tu magia!#
 2753 %s
  Las minas, la mazmorra de Herx, está todo al otro lado de esta puerta.#
 2754 %s
- Quizás debería quedarme atrás por un tiempito.#
+ Quizás vuelva por un rato.#
 
 2760 type:seq#
 2761 %s 
@@ -3109,7 +3109,7 @@ drenarse el resto de tu magia!#
 2762 %s
  Los Gremios siempre tienen secretos entre manos.#
 2763 %s
- Eschuché que Merlín y el Gremio de Magos tuvieron un desacuerdo mutuo.#
+ Escuché que Merlín y el Gremio de Magos tuvieron un desacuerdo mutuo.#
 2764 %s
  Apuesto a que Herx tramó algo con los Archimagos Orpheus y Erudyce.#
 2765 %s
@@ -3181,7 +3181,7 @@ drenarse el resto de tu magia!#
 2803 %s
  Si no fuera por los Archimagos, Herx hubiera creado un ejército aquí.#
 2804 %s
- Nosotros nunca hubiéramos encontado la forma de encerrar a Herx lejos de aquí. #
+ Nosotros nunca hubiéramos encontrado la forma de encerrar a Herx lejos de aquí. #
 2805 %s
  Creo que Erudyce y Orpheus sabían que encerrar a Herx no sería suficiente.#
 2806 [%s]
@@ -3197,7 +3197,7 @@ drenarse el resto de tu magia!#
 2814 %s
  Realmente espero que no haya relación entre monstruos y las investigaciones que estaban realizando.#
 2815 %s
- Orpheus es tan cometido. Nada lo puede detener.#
+ Orpheus tiene mucha determinación. Nada lo puede detener.#
 2816 %s
  A Erudyce le gusta influenciar las cosas desde detrás de escenas.#
 2817 [%s]
@@ -3205,13 +3205,13 @@ drenarse el resto de tu magia!#
 
 2820 type:seq#
 2821 %s
- Presentí un poder emanar de la orbe cuando la colocaste en el pedestal.#
+ Presentí un poder emanar del orbe cuando lo colocaste en el pedestal.#
 2822 %s
- Me pregunto por qué Herx no uso ese poder para escapar de la mazmorra.#
+ Me pregunto por qué Herx no usó ese poder para escapar de la mazmorra.#
 2823 %s
- Fui capaz de atrapar parte del poder que liberó la orbe de Herx.#
+ Fui capaz de atrapar parte del poder que liberó el orbe de Herx.#
 2824 %s
- Este portal penetra el sello de las Cavernas usando el poder de la orbe.#
+ Este portal penetra el sello de las Cavernas usando el poder del orbe.#
 2825 %s
  Los Archimagos Orpheus y Erudyce ayudarán a volver las cosas a la normalidad.#
 2826 %s
@@ -3227,19 +3227,23 @@ drenarse el resto de tu magia!#
 2833 %s
  ¿Yo? Soy un estimado miembro del Gremio de Comerciantes.#
 2834 %s
- Solo estoy interesado en los artefactos más raros sobre la tierra.
- Particularmente, las orbes que del Gremio de Magos robadas por Herx.#
+ Solo me interesan los artefactos más raros
+ de estas tierras.
+ En particular, los orbes del Gremio de Magos que Herx robó.#
 2835 %s
  Si de casualidad recuperases alguna de ellas, estaría dispuesto a
  intercambiar una de mis preciadas posesiones como recompensa.#
 2836 %s
- ¡Tu sabes, un miembro del gremio de semejante calibre como yo puede extorsionar
- a esos magos por cada centavo que poseen con sus preciadas orbes!#
+ Un miembro de alto rango del gremio
+ como yo puede extorsionar a esos magos
+ hasta sacarles el último centavo
+ con sus preciados orbes.#
 2837 %s
  Sé que tienes demasiado corazón como para hacer algo así por tu cuenta.#
 2838 %s
- Depende de ti. Déjalas conmigo y no diré nada sobre
- nuestro pequeño encuentro.#
+ Depende de ti.
+ Déjalas conmigo y no diré nada
+ sobre nuestro pequeño encuentro.#
 2839 [%s]
  ...#
 
@@ -3336,7 +3340,7 @@ drenarse el resto de tu magia!#
 2996 Modo Brawler desactivado, todas las armas permitidas.#
 2997 ¡Esta herramientas está deshabilitada en el modo Brawler!#
 2998 Partida guardada del jugador no es elegible para el logro "Brawler Achievement". Reiniciar juego para corregir.#
-2999 Spells are disabled in Brawler-mode!#
+2999 ¡Los hechizos están desactivados en el modo Brawler!#
 3000 DEPRECATED#
 3001 DEPRECATED#
 3002 DEPRECATED#
@@ -3595,7 +3599,8 @@ drenarse el resto de tu magia!#
 3238 DEPRECATED#
 
 3239 ¡Número inválido de habilidad!#
-3240 Tu tasación no es lo suficientemente alta para identificar "%s".#
+3240 Tu tasación no es lo suficientemente alta para identificar
+ "%s".#
 3241 Sientes que la maldición se disipa al canalizar el hechizo...#
 3242 ¡Los saberes del tomo te dotan de control sobre la maldición!#
 3243 ¡%s Fuera de mi tienda, infame %s!#
@@ -4033,7 +4038,7 @@ ingrediente alquímico secundario %s #
 3666 No tienes nada más que aprender sobre reciclaje.#
 3667 No tienes nada más que aprender al construir %s.#
 3668 ¡Construiste %s!#
-3669 ¡No puedes recilcar objetos equipados!#
+3669 ¡No puedes reciclar objetos equipados!#
 3670 Fabricar#
 3671 ¡Tu girobot detecta pisadas acercándose al sonajero!#
 3672 DEPRECATED#
@@ -4043,10 +4048,10 @@ ingrediente alquímico secundario %s #
 3676 %s bloquea su rotor.#
 3677 %s retorna a su patrulla.#
 3678 Tu %s debe ser de mejor calidad para detectar más tipos de objetos.#
-3679 Tu Fabricar no es so suficientemente alto para decifrar
- más descubrimientos del girobot.#
-3680 Tu Fabricar no es so suficientemente alto para
- decifrar más descubrimientos del girobot.#
+3679 Tu habilidad de Fabricar no alcanza para descifrar
+más descubrimientos del girobot.#
+3680 Tu habilidad de Fabricar no alcanza para descifrar
+ningún descubrimiento del girobot.#
 3681 ¡No puedes reparar objetos equipados!#
 3682 Tu reparas %s.#
 3683 Has actualizado %s.#
@@ -4086,15 +4091,13 @@ ingrediente alquímico secundario %s #
 3717 DEPRECATED#
 3718 Inscribir #
 3719 Reparar #
-3720 Seleccionar un pergamino
-en blanco para incribir#
+3720 Seleccionar un pergamino en blanco para inscribir#
 3721 DEPRECATED#
 3722 DEPRECATED#
 3723 Liberar Celda #
 3724 ¡Inscribiste %s!#
 3725 Rastreas parte del texto desgastado...#
-3726 Seleccionar un grimorio
-para reparar#
+3726 Seleccionar un grimorio para reparar#
 3727 ¡Tu %s se consumió!#
 3728 ¡Tu %s se consume antes de que puedas 
  completar la inscripción!#
@@ -4272,10 +4275,8 @@ para reparar#
 3885 DEPRECATED_SPELL_NAME#
 3886 DEPRECATED#
 3887 No tienes la habilidad suficiente para vaciar la trampa.#
-3888 ¡Oh! Debo hacerle una visita al joyero con estas gemas!
- Aunque no sé si el verde es mi color.#
-3889 Hmm. Dicen que estos artificios provienen de siglos de conocimiento.
- ¿Creerías que la mayoría de los magos pierden sus cristales?#
+3888 ¡Oh! Debo hacerle una visita al joyero con estas gemas! Aunque no sé si el verde es mi color.#
+3889 Hmm. Dicen que estos artificios provienen de siglos de conocimiento. ¿Creerías que la mayoría de los magos pierden sus cristales?#
 3890 ¡Ajá! Un magnífico espécimen carmesí... aunque algo húmedo. ¿Has estado corrriendo con esto?#
 3891 %s no hay uso para eso.#
 3892 %s no tiene uso para eso.#
@@ -4486,7 +4487,8 @@ antes de negociar!#
 4076 Defender#
 4077 Sigilo#
 4078 Canalizar#
-4079 Grimorio#
+4079 Lanzar desde
+grimorio#
 4080 Ganzuar#
 4081 Fabricar#
 4082 Arrojar#
@@ -4538,15 +4540,14 @@ antes de negociar!#
 4122 Margen de Tienda:#
 4123 Penalidad por Reventa:#
 4124 Comprar Objetos#
-4125 ¡Mis cofres están muy
-llenos como para desprenderme
-de más oro!#
+4125 ¡Mis cofres están muy llenos como
+para desprenderme de más oro!#
 4126 Dame el orbe directamente.
 no hacen falta lasformalidades
 del oro, ¡rápido!#
-4127 %s's#
+4127 de %s#
 4128 Bienes Raros#
-4129 ???'s#
+4129 de ???#
 
 # new tinkering
 4130 Costo de Fabricación:#
@@ -5256,7 +5257,7 @@ Código de sala inválido.#
 5354 Comerciante#
 5355 Mago#
 5356 Arcanista#
-5357 Bufón#
+5357 Guasón#
 5358 Sacristán#
 5359 Ninja#
 5360 Monje#
@@ -5284,12 +5285,9 @@ Código de sala inválido.#
 Aleatorios#
 5380 Activar Amuleto de
 Salvación#
-5381 Mantener Objetos al
-Morir#
-5382 Desactivar Trampas
-Aleatorias#
-5383 Desactivar Fuego
-Amigo#
+5381 Mantener Objetos al Morir#
+5382 Desactivar Trampas Aleatorias#
+5383 Desactivar Fuego Amigo#
 5384 Activar Modo
 Clásico#
 5385 Activar Modo
@@ -5305,8 +5303,7 @@ Hardcore#
 5390 LOGROS ACTIVADOS#
 
 5391 AJUSTES DE LOBBY#
-5392 Reglas del
-Juego#
+5392 Reglas del Juego#
 5393 Sólo Invitación#
 5394 Sólo Amigos#
 5395 Lobby Abierto#
@@ -5320,8 +5317,7 @@ y %s!#
 5399 Volver#
 5400 Si#
 5401 No#
-5402 Echar
-Jugador#
+5402 Echar Jugador#
 5403 ¿Realmente quieres
 echar a %s?#
 
@@ -5368,7 +5364,7 @@ Complejidad:#
 5437 *** Pulsa [L] para sugerirle una clase a tu grupo ***#
 5438 *** Pulsa [L1] para sugerirle una clase a tu grupo ***#
 5439 *** Pulsa [L1] para sugerirle una clase a tu grupo ***#
-5440 Listo#
+5440 Todo a punto#
 5441 BLOQUEADO#
 5442 Nuevos jugadores
 no pueden unirse#
@@ -5382,7 +5378,7 @@ no pueden unirse#
 5450 Esperando que 
 se unan jugadores#
 5451 *** %s se ha unido al juego ***#
-5452 Listo#
+5452 ¡Todo a punto!#
 5453 Aún No#
 5454 ¿Realmente quieres abandonar
 este lobby?#
@@ -5484,10 +5480,10 @@ Dirección IP#
 5534 Crossplay#
 
 5535 TUTORIALES#
-5536 Retos que te prepararán para enfrentar la mazmorra#
+5536 Supera 10 desafíos que enseñan y ponen a prueba tus habilidades
+de aventura, preparándote para enfrentar la mazmorra.#
 5537 Desafíos#
-5538  Mejor 
-Tiempo#
+5538  Mejor Tiempo#
 5539 Centro#
 5540     El Salón de Desafíos#
 5541  Desafío 1: Conceptos Básicos y Combate Cuerpo a Cuerpo#
@@ -5664,8 +5660,7 @@ te hicieron llorar?#
 Esperaré.#
 5707 Buena suerte#
 5708 Claro#
-5709 De todos modos
- no podrías matar al liche.#
+5709 De todos modos no podrías matar al liche.#
 5710 Tienes razón#
 5711 ¿Ah, si?#
 5712 ¡No sabes jugar!
@@ -5692,8 +5687,7 @@ que dijiste una mala palabra.#
 tener un minotauro en la vida real.#
 5728 Qué lástima#
 5729 Buen dato#
-5730 ¿Te vas a ir a dejar
-una mala reseña, verdad?#
+5730 ¿Te vas a ir a dejar una mala reseña, verdad?#
 5731 ...si#
 5732 ¡Jamás!#
 5733 Yo también me iría.
@@ -5722,8 +5716,7 @@ y necesitan tu ayuda!#
 5751 No te rendirías.
 Solo estás fingiendo.#
 5752 Claro#
-5753 Me 
-descubriste.#
+5753 Me descubriste.#
 5754 Di algo más y
 te echo de este juego.#
 5755 Algo más#
@@ -5848,10 +5841,11 @@ Menú Principal#
 5844 Porfavor reconecta tu control.#
 5845 RECONECTAR CONTROL#
 
-5846 Activar Crossplay permite jugar y crear 
+5846 Activar Crossplay permite jugar y crear
 lobbies que usen Epic Games, Inc.
 
-Al hacer clic en Aceptar, estarás de acuerdo en compartir información pública sobre tu perfil de Steam con Epic Games, Inc.
+Al hacer clic en Aceptar, estarás de acuerdo en compartir
+información pública sobre tu perfil de Steam con Epic Games, Inc.
 con el fin de permitir el crossplay.#
 
 5847 ¿Le gustaría vincular su dispositivo a una conexion en línea?
@@ -5977,7 +5971,8 @@ Workshop para editarlos.#
 5917 Administrar en
 Workshop#
 5918 Puedes ver y editar la mayoría de los atributos de tu mod.
-directamente en la página del Workshop, como descripciones más largas con soporte HTML, configurar la visibilidad al público
+directamente en la página del Workshop, como descripciones más largas
+con soporte HTML, configurar la visibilidad al público
 o agregar capturas de pantalla al carrusel.
 
 Si necesitas una imagen de vista previa o archivos modificados,
@@ -6007,7 +6002,8 @@ la versión se modificará.#
 5935 Note: No existe imagen preview.png#
 5936 Primer subida.#
 5937 Objeto subido.#
-5938 Subiendo, esto puede tardar.#
+5938 Subiendo, esto
+puede tardar.#
 5939 Tiempo agotado al subir,
 reintento 1/3...#
 5940 Tiempo agotado al subir,
@@ -6031,8 +6027,7 @@ espere#
 5952 Reintentar
 Subida#
 5953 Código de Error: #
-5954 PERSONALIZAR
-DIFICULTAD#
+5954 PERSONALIZAR DIFICULTAD#
 5955 No se encontraron objetos del Workshop.#
 
 5956 Equipar#
@@ -6270,10 +6265,13 @@ Filtros#
 6099 Error: No se pudo cargar la partida: "%s".
 Código de Error: %d
 
-No se pudo verificar el DLC requerido para cargar esta partida guardada.
+No se pudo verificar el DLC requerido
+para cargar esta partida guardada.
 
-Chequear que el DLC se instaló correctamente y reinicia el juego para intentar de nuevo.#
-6100 No se pudo verificar que el DLC fue instalado para cargar la partida guardada correspondiente.#
+Chequear que el DLC se instaló correctamente
+y reinicia el juego para intentar de nuevo.#
+6100 No se pudo verificar que el DLC fue instalado
+para cargar la partida guardada correspondiente.#
 6101 Has completado tu recompensa por %d oro.#
 6102 Has fallado en completar tu objetivo de recompensa.#
 6103 Modificador de Efectos:#
@@ -6332,7 +6330,7 @@ para reintentar este desafío.
 
 
 #
-6128 Leaderboards Updated!#
+6128 ¡Clasificaciones actualizadas!#
 6129 No se puede unir al lobby.
 El desafío elegido no coincide
 con el desafío del anfitrión.#
@@ -6809,7 +6807,7 @@ no se puede alterar.#
 6545 Metalurgia#
 6546 Geomancia#
 6547 Forjar Llave#
-6548 Forjar Joya#
+6548 Forjar Gema#
 6549 Potenciar Arma#
 6550 Reformar Arma#
 6551 Alterar Flecha#

@@ -187,7 +187,7 @@
 				"Los comerciantes no",
 				"pagarán mucho por una",
 				"gema no tasada, ¡podría",
-				"ser un vidrio inserdible!",
+				"ser un vidrio sin valor!",
 				"",
 				"Usa un Pergamino de Identificar",
 				"cuando tu habilidad de tasación",
@@ -272,8 +272,8 @@
 				"gran entrenamiento en defensa",
 				"personal, y tratarán de",
 				"aniquilar a todos los",
-				"asaltantes con extremo",
-				"prejuicio."
+				"asaltantes sin",
+				"contemplaciones."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -863,8 +863,8 @@
         "tutorial10r": {
             "sign": [
                 "Para soltar oro, pon el",
-				"cursor en tu pila con$",
-				"mantén y elige cuánto.",
+				"cursor sobre tu oro, mantén$",
+				"y elige cuánto soltar.",
 				"",
                 "Si llevas mucho oro, su",
 				"peso puede acumularse y",
