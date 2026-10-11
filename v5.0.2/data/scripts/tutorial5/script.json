@@ -27,6 +27,100 @@
 		}
 	},
     "script_entries": {
+        "tutorial5aa": {
+            "sign": [
+                "$ $ $",
+				"Hechicería, Taumaturgia",
+				"y Misticismo son las",
+                "tres escuelas que",
+				"rigen la habilidad mágica.",
+				"",
+				"Cada una tiene su",
+				"selección de hechizos",
+				"y objetos mágicos."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0,1],
+					[1],
+					[],
+					[2],
+					[],
+					[],
+					[2],
+					[1,2]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial5/sign_sorcery.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial5/sign_thaumaturgy.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial5/sign_mysticism.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+        },
+        "tutorial5ab": {
+            "sign": [
+                "$",
+				"Los hechizos indican",
+				"si al lanzarlos puedes",
+                "mejorar tu habilidad.",
+				"",
+				"Lanza hechizos prácticos",
+				"que desafíen tus",
+				"habilidades para avanzar."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+
+				],
+                "word_highlights2": [
+					[],
+					[2],
+					[],
+					[],
+					[],
+					[1,2],
+					[],
+					[2]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial5/sign_spell_training.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+        },
         "tutorial5a": {
             "sign": [
 				"Puertas, muebles y cofres",
@@ -293,8 +387,8 @@
         },
         "tutorial5f": {
             "sign": [
-				"Una habilidad baja de Canalizar",
-				"puede ocasionar que tus hechizos",
+				"Las habilidades mágicas bajas",
+				"pueden hacer que tus hechizos",
 				"fallen con frecuencia.",
 				"",
 				"$",
@@ -563,8 +657,8 @@
         "tutorial5l": {
             "sign": [
 				"Algunos hechizos requieren",
-				"más INT y Magia para",
-				"ser memorizados.",
+				"más INT o habilidad mágica",
+				"para memorizarlos.",
 				"",
 				"$ $",
 				"",
@@ -1027,7 +1121,7 @@
         "tutorial5t": {
             "sign": [
 				"Los sombreros de mago pueden ",
-				"aumentar tu INT, lo a su vez ",
+				"aumentar tu INT, lo que a su vez ",
 				"mejorará tu habilidad mágica.",
 				"$",
 				"Un sombrero de mago bendecido",
@@ -1065,7 +1159,7 @@
 				"",
 				"$ ",
 				"",
-				"Permite atravezar líquidos",
+				"Permite atravesar líquidos",
 				"y pozos con total libertad."
             ],
             "attributes": {
