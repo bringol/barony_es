@@ -10,7 +10,7 @@ advancement;avance
 aged;decadente
 agility;agilidad
 alchemist;alquimista
-alchemy;suministros
+alchemy;alquimia
 alchemy skill;hab alquimia
 alchemy skill increase;aumentos de hab alquimia
 alembic;alambique
@@ -42,20 +42,20 @@ arcane marked;marca arcana
 arcanist;arcanista
 armor;armaduras
 armor bonus;bonus de armadura
-armor class;clase de amadura
+armor class;clase de armadura
 armor class ac;clase de armadura ca
 armor class bonus;bonus clase de armadura
 art;arte
 artemisia;artemisa
 arthropod form;forma artrópoda
 artifact breastpiece;coraza de artefacto
-artifact cloak;capa de artifacto
+artifact cloak;capa de artefacto
 artifact helm;yelmo de artefacto
 artisan;artesanal
 assassin hood;capucha de asesino
 assassination;asesinato
 atk average;atq promedio
-atk damage range;daño atq a dist
+atk damage range;intervalo de daño atq
 attack;ataque
 attract;atraer
 attribute;atributos
@@ -76,7 +76,7 @@ barbarian;bárbaro
 bard instrument;instrumetno de bardo
 baron herx;barón herx
 base ac total;ca base total
-base armor class;clase de amadura base
+base armor class;clase de armadura base
 base hp regen disabled;regen de pv desactivada
 base ht rate;tasa de klr base
 base melee damage;daño base cac
@@ -293,7 +293,7 @@ dungeon run;partidas de mazmorra
 dungeon trap;trampas de la mazmorra
 dungeoning;mazmorreo
 duration;duración
-dusted;desempolvado
+dusted;empolvado
 dyrnwyn;dyrnwyn
 each potion type;cada tipo de poción
 each shopkeeper trade;cada comerciante comercia
@@ -429,7 +429,7 @@ hunter;cazador
 hunter guild;gremio de cazadores
 hunting ammo;flechas de cacería
 ice block;bloque de hielo
-ice wave;onda de gélida
+ice wave;onda gélida
 icon;ícono
 icon of claim life;ícono de reclamar vida
 icon of silence;ícono de silencio
@@ -701,7 +701,7 @@ rally;fervor
 ranged;alcance
 ranged armor pierce chance;% penetrar armadura a distancia
 ranged atk bonus;bonus atq a distancia
-ranged atk damage variance;atq a distancia efectividad
+ranged atk damage variance;variación de daño atq de alcance
 ranged attack;ataque a distancia
 ranged backstab atk increase;atq. furtivo a distancia aumenta atq
 ranged damage bonus;bonus de daño a distancia
@@ -717,7 +717,7 @@ red riding hood;caperucita roja
 reflect magic;reflejo mágico
 reflecting enemy spell;refleja hechizos enemigos
 reflector;reflector
-regeneration rgn;regeneración reg
+regeneration rgn;regeneración rgn
 repair;reparar
 reshape weapon;reformar arma
 resistance;resistencia
@@ -808,7 +808,7 @@ shopkeeper inventory;inventario del comerciante
 short range spell;hechizo de corto alcance
 shortbow;arco corto
 shredded;ilegible
-sigil;gilfo
+sigil;glifo
 silken bow;lazo de seda
 silver axe;hacha de plata
 silver breastpiece;coraza de plata
@@ -848,7 +848,7 @@ sorcery skill;hab hechicería
 spawned monster;monstruos invocados
 spd;vel
 speed;velocidad
-spellbot;magobot
+spellbot;magibot
 spell;hechizo
 spell forgotten;hechizos olvidados
 spell learned;hechizo aprendido
@@ -860,7 +860,7 @@ spellbook of absorb magic;grimorio de absorber magia
 spellbook of abundance;grimorio de abundancia
 spellbook of alter arrow;grimorio de alterar flecha
 spellbook of arcane mark;grimorio de marca arcana
-spellbook of arthropod form;grimorio de forma arácnida
+spellbook of arthropod form;grimorio de forma artrópoda
 spellbook of attract item;grimorio de atraer objetos
 spellbook of blessed meal;grimorio de bendecir alimento
 spellbook of blood waves;grimorio de ondas sanguíneas
@@ -908,7 +908,7 @@ spellbook of guard spirit;grimorio de protección espiritual
 spellbook of healing;grimorio de curación
 spellbook of holy beam;grimorio de haz sagrado
 spellbook of holy sigil;grimorio de sello sagrado
-spellbook of ice wave;grimorio de onda de gélida
+spellbook of ice wave;grimorio de onda gélida
 spellbook of identify;grimorio de identificación
 spellbook of ignite;grimorio de incendiar
 spellbook of imp form;grimorio de forma de diablillo
@@ -979,7 +979,6 @@ spellbook of vampiric aura;grimorio de aura vampírica
 spellbook of void chest;grimorio de arca del vacío
 spellbook of weakness;grimorio de debilidad
 spellbook of windgate;grimorio de muro de viento
-spellbot;magibot
 spellcaster;canalizador
 spider;tarántula
 spike trap;trampa de púas
@@ -1036,7 +1035,7 @@ swift ammo;flechas veloces
 springshot ammo;munición de empuje
 swirly;remolinante
 sword;espada
-sword atk damage variance;atq espada efectividad
+sword atk damage variance;variación de daño atq de espada
 sword skill;hab espada
 swordsman;espadachín
 symbol of justice;símbolo de justicia
@@ -1083,7 +1082,7 @@ total regen;regen total
 total spell learned;total de hechizos aprendidos
 towel;toalla
 trading;comerciar
-trading skill;hab comercio
+trading skill;hab comerciar
 trait;rasgo
 trap;trampa
 troll blood;sangre de troll
