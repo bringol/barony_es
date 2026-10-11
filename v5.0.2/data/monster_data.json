@@ -776,7 +776,7 @@
 		"spellbot": {
 			"default": {
 				"icon": "basic/Icon_SpellBot_00.png", 
-				"localized_short_name": "Magobot",
+				"localized_short_name": "Magibot",
 				"models": [885] 
 			}
 		},
@@ -951,11 +951,7 @@
 			},
 			"white": {
 				"icon": "basic/Icon_GoatmanM_00.png",
-				"models": [2307, 2308]
-			},
-			"white": {
-				"icon": "basic/Icon_GoatmanM_00.png",
-				"models": [2307, 2308]
+				"models": [2237, 2238, 2307, 2308]
 			}
 		},
 		"monster_unused_6": {
