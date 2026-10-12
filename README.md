@@ -1,14 +1,14 @@
 
 
- # Barony en Español
+<h1 align="center">Barony en Español</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bringol/barony_es/refs/heads/main/%C3%91arony.png" width="50%"/>
+  <img src="https://github.com/bringol/barony_es/blob/main/img/iod-logo.png" width="50%"/>
 </p>
 
-**Traducción no-oficial** al español del videojuego Barony y sus expansiones - de la compañía Turning Wheel LLC, actualmente disponible para PC en [Steam](https://store.steampowered.com/app/371970/Barony/), [GOG](https://www.gog.com/game/barony_cursed_edition), [EGS](https://www.epicgames.com/store/en-US/p/barony) y [Nintedo Switch](https://www.nintendo.com/us/store/products/barony-switch/).
+**Traducción no oficial** al español del videojuego Barony y sus expansiones - de la compañía Turning Wheel LLC, actualmente disponible para PC en [Steam](https://store.steampowered.com/app/371970/Barony/), [GOG](https://www.gog.com/game/barony_cursed_edition), [EGS](https://www.epicgames.com/store/en-US/p/barony) y [Nintendo Switch](https://www.nintendo.com/us/store/products/barony-switch/).
 
-La traducción ofrece una instalación independiente de Steam para aquellas personas que no tienen acceso a Steam-Workshop.
+La traducción ofrece una instalación manual e independiente de Steam para aquellas personas que no tienen acceso a Steam-Workshop.
 
 <br>
 <br>
@@ -24,7 +24,7 @@ La traducción ofrece una instalación independiente de Steam para aquellas pers
 </div>
 <br>
 
-Barony aún no se encuentra completamente traducido, pero debería ser suficiente para jugar la nueva actualización Instruments of Destruction Part 1 (v5.0). En caso de encontrar errores/bugs/crashes, por favor, reportarlo en la sección ["Reporte de Errores" del Steam Workshop](https://steamcommunity.com/workshop/filedetails/discussion/2707610137/806849643178746906/), en el canal "Bugs Traducción" del [Discord no oficial Barony en Español](https://discord.gg/3qWzv7gTKK), o desde este mismo repositorio. Actualmente hace falta testearlo en busca de problemas mientras continuo traduciendo el resto.
+En caso de encontrar errores/bugs/crashes, por favor, reportarlo en la sección ["Reporte de Errores" del Steam Workshop](https://steamcommunity.com/workshop/filedetails/discussion/2707610137/806849643178746906/), en el canal "Bugs Traducción" del [Discord no oficial Barony en Español](https://discord.gg/3qWzv7gTKK), o desde este mismo repositorio.
 
 <br>
 <br>
@@ -36,11 +36,11 @@ Barony aún no se encuentra completamente traducido, pero debería ser suficient
 
 ##  Instalación Manual
 <p align="center">
-    <a><img src="https://i.postimg.cc/BbHBxtnB/paso-1-instalacion.png" alt="paso-1" border="0"></a>
+    <a><img src="https://github.com/bringol/barony_es/blob/main/img/paso%201%20instalacion.png" alt="paso-1" border="0"></a>
 </p>
 
 <p align="center">
-        <a><img src="https://i.postimg.cc/RFn7Bqfp/Paso-2-instalacion.png" alt="paso-2" border="0"></a>
+        <a><img src="https://github.com/bringol/barony_es/blob/main/img/Paso%202%20instalacion.png" alt="paso-2" border="0"></a>
 </p>
 
 
