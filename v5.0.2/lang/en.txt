@@ -462,7 +462,7 @@ los objetos antes de usarlos.#
 289 noclip OFF#
 290 modo dios siempre está desactivado en partidas multijugador.#
 291 modo dios ON#
-292 Modo dios DESACTIVADO#
+292 Modo Dios DESACTIVADO#
 293 modo buddha siempre está desactivado en partidas multijugador.#
 294 modo buddha ON#
 295 modo buddha OFF#
@@ -716,50 +716,50 @@ los objetos antes de usarlos.#
 
 # headstone messages
 
-485 En la lápida se puede leer: "Aquí yace Juan Pesante
+485 "Aquí yace Juan Pesante
   Disculpad que no me levante"#
 
-486 En la lápida se puede leer: "Aquí yace mi esposa
+486 "Aquí yace mi esposa
  Aquí ella reposa
  Ahora estoy con otra, mucho más maravillosa."#
 
-487 En la lápida se puede leer: "Aquí yace el cuerpo de Gaspar  
+487 "Aquí yace el cuerpo de Gaspar  
   Quien aceleró en lugar de frenar"#
 
-488 En la lápida se puede leer: "Aquí yace Alberto
+488 "Aquí yace Alberto
  Consiguió su paquete pero ahora está muerto"#
 
-489 En la lápida se puede leer: "Descanse En Paz"#
+489 "Descanse En Paz"#
 
-490 En la lápida se puede leer: "Q.E.P.D."#
+490 "Q.E.P.D."#
 
-491 En la lápida se puede leer: "Sum quod eris"#
+491 "Sum quod eris"#
 
-492 En la lápida se puede leer: "Por la borda saltó Don Omar
+492 "Por la borda saltó Don Omar
   Y luego recordó que no sabia nadar"#
 
-493 En la lápida se puede leer: "Aquí yace Mary Poppins
+493 "Aquí yace Mary Poppins
   No tapó un agujero en su paraguas"#
 
-494 En la lápida se puede leer: "Aquí yace Horacio P. Fetch
+494 "Aquí yace Horacio P. Fetch
   Al final los trasgos le dieron caza"#
 
-495 En la lápida se puede leer: "Aquí yace Julián
+495 "Aquí yace Julián
   Machacado por su troll mascota"#
 
-496 En la lápida se puede leer: "Aquí descansa Ingrid
+496 "Aquí descansa Ingrid
   Un esqueleto le dió un susto de muerte"#
 
-497 En la lápida se puede leer: "Aquí yace Don Robin
+497 "Aquí yace Don Robin
   Quien valientemente huyó"#
 
-498 En la lápida se puede leer: "Aquí descansa Tom
+498 "Aquí descansa Tom
   Perdió una partida de Ruleta Rusa"#
 
-499 En la lápida se puede leer: "Aquí yace Don Agustín
+499 "Aquí yace Don Agustín
   El liche supuso su fin"#
 
-500 En la lápida se puede leer: "Aquí se encuentra el Proto Pegaso
+500 "Aquí se encuentra el Proto Pegaso
   Acabo con una patata en el tubo de escape"#
 
 501 Esta lápida no tiene epitafio.#
@@ -4488,7 +4488,7 @@ antes de negociar!#
 4077 Sigilo#
 4078 Canalizar#
 4079 Lanzar desde
-grimorio#
+Grimorio#
 4080 Ganzuar#
 4081 Fabricar#
 4082 Arrojar#
