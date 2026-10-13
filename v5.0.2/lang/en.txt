@@ -5518,7 +5518,7 @@ Intentalo más tarde.#
 5566 Creando lobby de Steam...#
 5567 Error al crear lobby de Steam.#
 5568 No es posible crear lobby:
-Modo En-Línea no disponible.#
+Modo Online no disponible.#
 5569 ¿Quisieras ser host via 
 Epic Online para crossplay? #
 5570 Error al abrir socket UDP 
@@ -5581,7 +5581,7 @@ Piso%d#
 5601 Pantalla Dividida %dp#
 5602 CONTINUAR AVENTURA#
 5603 Juegos Locales#
-5604 Juegos En-Línea#
+5604 Juegos Online#
 5605 Borrar Partida#
 5606 Selecionar una partida para borrar.#
 5607 Ok#
@@ -5593,7 +5593,7 @@ Piso%d#
 5612 COMPENDIO#
 5613 RÉCORDS#
 5614 CLASIFICACIONES#
-5615 HISTORIA INTRODUCTORIA#
+5615 HISTORIA INICIAL#
 5616 CRÉDITOS#
 5617 VOLVER AL MENÚ#
 
@@ -5601,7 +5601,7 @@ Piso%d#
 5619 Video#
 5620 Audio#
 5621 Controles#
-5622 En-Línea#
+5622 Online#
 5623 Juego#
 5624 CONFIGURAR#
 5625 Valores 
@@ -5755,8 +5755,8 @@ te echo de este juego.#
 5784 LOGROS DESACTIVADOS#
 5785 LOGROS ACTIVADOS#
 
-5786 Jugadores Activos: ... #
-5787 Jugadores Activos: %d #
+5786 Jugadores Online: ... #
+5787 Jugadores Online: %d #
 
 5788 La conexión de red al juego se ha perdido.#
 5789 La conexión de red al juego se ha perdido.
