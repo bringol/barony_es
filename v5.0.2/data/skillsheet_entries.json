@@ -125,12 +125,12 @@
 				},
 				{
 					"tag": "BLOCK_DEGRADE_NORMAL_CHANCE",
-					"title": "Chance de degradar escudo:\n (Al recibir daño)",
+					"title": "Prob. de degradar escudo:\n (Al recibir daño)",
 					"value": "%.2f%%"
 				},
 				{
 					"tag": "BLOCK_DEGRADE_DEFENDING_CHANCE",
-					"title": "Chance de degradar escudo:\n (Al Defender):",
+					"title": "Prob. de degradar escudo:\n (Al Defender):",
 					"value": "%.2f%%"
 				}
 			]
@@ -160,12 +160,12 @@
 				},
 				{
 					"tag": "RANGED_DEGRADE_CHANCE",
-					"title": "Arma a Distancia\n chance de degradarse:",
+					"title": "Arma a Distancia\n prob. de degradarse:",
 					"value": "%.2f%%"
 				},
 				{
 					"tag": "RANGED_PIERCE_CHANCE",
-					"title": "Ataque a Distancia\n chance de penetrar:\n (usando PER)",
+					"title": "Ataque a Distancia\n prob. de penetrar:\n (usando PER)",
 					"value": "%+d%%"
 				},
 				{
@@ -205,12 +205,12 @@
 				},
 				{
 					"tag": "GLOVE_DEGRADE_CHANCE",
-					"title": "Degradación del arma de puño\n chance:\n (Ataques normales)",
+					"title": "Degradación del arma de puño\n prob.:\n (Ataques normales)",
 					"value": "%.2f%%"
 				},
 				{
 					"tag": "GLOVE_DEGRADE0_CHANCE",
-					"title": "Chance de degradar\n el arma de puño:\n (Al hacer 0 daño)",
+					"title": "Prob. de degradar\n el arma de puño:\n (Al hacer 0 daño)",
 					"value": "%.2f%%"
 				},
 				{
@@ -245,12 +245,12 @@
 				},
 				{
 					"tag": "SWORD_DEGRADE_CHANCE",
-					"title": "Degradación del arma\n chance:\n (Ataques normales)",
+					"title": "Degradación del arma\n prob.:\n (Ataques normales)",
 					"value": "%.2f%%"
 				},
 				{
 					"tag": "SWORD_DEGRADE0_CHANCE",
-					"title": "Degradación del arma\n chance:\n (Al hacer 0 daño)",
+					"title": "Degradación del arma\n prob.:\n (Al hacer 0 daño)",
 					"value": "%.2f%%"
 				}
 			]
@@ -280,12 +280,12 @@
 				},
 				{
 					"tag": "POLEARM_DEGRADE_CHANCE",
-					"title": "Degradación del arma\n chance:\n (Ataques normales)",
+					"title": "Degradación del arma\n prob.:\n (Ataques normales)",
 					"value": "%.2f%%"
 				},
 				{
 					"tag": "POLEARM_DEGRADE0_CHANCE",
-					"title": "Degradación del arma\n chance:\n (Al hacer 0 daño)",
+					"title": "Degradación del arma\n prob.:\n (Al hacer 0 daño)",
 					"value": "%.2f%%"
 				}
 			]
@@ -315,12 +315,12 @@
 				},
 				{
 					"tag": "AXE_DEGRADE_CHANCE",
-					"title": "Degradación del arma\n chance:\n (Ataques normales)",
+					"title": "Degradación del arma\n prob.:\n (Ataques normales)",
 					"value": "%.2f%%"
 				},
 				{
 					"tag": "AXE_DEGRADE0_CHANCE",
-					"title": "Degradación del arma\n chance:\n (Al hacer 0 daño)",
+					"title": "Degradación del arma\n prob.:\n (Al hacer 0 daño)",
 					"value": "%.2f%%"
 				}
 			]
@@ -335,7 +335,7 @@
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Maces02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
 			"description": "Incrementa el daño y mejora la durabilidad de las mazas.",
-			"legend_text": "+5 ATQ y 25% chance de causar 1.5 segundos de Parálisis en golpes completamente cargados.",
+			"legend_text": "+5 ATQ y 25% de prob. de causar 1.5 segundos de Parálisis en golpes completamente cargados.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
 				"effect_background_offset_x": 8,
@@ -350,12 +350,12 @@
 				},
 				{
 					"tag": "MACE_DEGRADE_CHANCE",
-					"title": "Degradación del arma\n chance:\n (Ataques normales)",
+					"title": "Degradación del arma\n prob.:\n (Ataques normales)",
 					"value": "%.2f%%"
 				},
 				{
 					"tag": "MACE_DEGRADE0_CHANCE",
-					"title": "Degradación del arma\n chance:\n (Al hacer 0 daño)",
+					"title": "Degradación del arma\n prob.:\n (Al hacer 0 daño)",
 					"value": "%.2f%%"
 				}
 			]
@@ -389,7 +389,7 @@
 				},
 				{
 					"tag": "LEADER_CHARM_MONSTER",
-					"title": "Chance base del hechizo\n Encantar Monstruo:\n (Usando habilidad + CAR)",
+					"title": "Prob. base del hechizo\n Encantar Monstruo:\n (Usando habilidad + CAR)",
 					"value": "+%d%%"
 				},
 				{
@@ -497,7 +497,7 @@
 			"effects": [
 				{
 					"tag": "TINKERING_LOCKPICK_CHESTS_DOORS",
-					"title": "Chance de forzar cerraduras\n de cofres y puertas:",
+					"title": "Prob. de forzar cerraduras\n de cofres y puertas:",
 					"value": "%d%%"
 				},
 				{
@@ -512,7 +512,7 @@
 				},
 				{
 					"tag": "TINKERING_DISARM_ARROWS",
-					"title": "Chance de Desarmar\n trampas de flechas:",
+					"title": "Prob. de Desarmar\n trampas de flechas:",
 					"value": "%d%%"
 				},
 				{
@@ -562,7 +562,7 @@
 				},
 				{
 					"tag": "ALCHEMY_DUPLICATION_CHANCE",
-					"title": "Duplicación de poción\n chance usando agua:",
+					"title": "Duplicación de poción\n prob. usando agua:",
 					"value": "%d%%"
 				},
 				{
@@ -795,7 +795,7 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Casting02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Casting02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
-			"description": "Mejora la fiabilidad de Canalizar y de lanzar hechizos desde grimorios, reduciendo las chances de fallo o de gastar demasiada magia. Incrementa la regeneración pasiva de PM.",
+			"description": "Mejora la fiabilidad de Canalizar y de lanzar hechizos desde grimorios, reduciendo las probabilidades de fallo o de gastar demasiada magia. Incrementa la regeneración pasiva de PM.",
 			"legend_text": "Autoaprende Virote Mágico con coste nulo de magia.",
 			"effects_position": {
 				"effect_start_offset_x": 72,

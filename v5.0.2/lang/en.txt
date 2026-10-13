@@ -2507,7 +2507,7 @@ No se encontró una partida guardada compatible.#
 2158 fue golpeado hasta la muerte por un fauno.#
 2159 fue neutralizado por un autómata.#
 2160 no consigió frustrar los planes de Erudyce.#
-2161 no pudo resistir el poder de Orpheus.#
+2161 no pudo resistir el poder de Orfeo.#
 2162 fue neutralizado por un ballestero.#
 2163 fue neutralizado por un magibot.#
 2164 fue neutralizado por un girobot.#
@@ -2970,7 +2970,7 @@ drenarse el resto de tu magia!#
 2613 DEPRECATED#
 2614 DEPRECATED#
 
-# Orpheus y Erudyce conversan.
+# Orfeo y Erudyce conversan.
 2615 "Hermano, presiento que alguien llegó. ¿Debereíasmos introducirnos?"#
 2616 "No, estamos demasiado ocupados para formalismos."#
 
@@ -3111,7 +3111,7 @@ drenarse el resto de tu magia!#
 2763 %s
  Escuché que Merlín y el Gremio de Magos tuvieron un desacuerdo mutuo.#
 2764 %s
- Apuesto a que Herx tramó algo con los Archimagos Orpheus y Erudyce.#
+ Apuesto a que Herx tramó algo con los Archimagos Orfeo y Erudyce.#
 2765 %s
  No me hagas empezar con el Gremio del Cazador...#
 2766 %s
@@ -3183,7 +3183,7 @@ drenarse el resto de tu magia!#
 2804 %s
  Nosotros nunca hubiéramos encontrado la forma de encerrar a Herx lejos de aquí. #
 2805 %s
- Creo que Erudyce y Orpheus sabían que encerrar a Herx no sería suficiente.#
+ Creo que Erudyce y Orfeo sabían que encerrar a Herx no sería suficiente.#
 2806 [%s]
  ...#
 
@@ -3197,7 +3197,7 @@ drenarse el resto de tu magia!#
 2814 %s
  Realmente espero que no haya relación entre monstruos y las investigaciones que estaban realizando.#
 2815 %s
- Orpheus tiene mucha determinación. Nada lo puede detener.#
+ Orfeo tiene mucha determinación. Nada lo puede detener.#
 2816 %s
  A Erudyce le gusta influenciar las cosas desde detrás de escenas.#
 2817 [%s]
@@ -3213,7 +3213,7 @@ drenarse el resto de tu magia!#
 2824 %s
  Este portal penetra el sello de las Cavernas usando el poder del orbe.#
 2825 %s
- Los Archimagos Orpheus y Erudyce ayudarán a volver las cosas a la normalidad.#
+ Los Archimagos Orfeo y Erudyce ayudarán a volver las cosas a la normalidad.#
 2826 %s
  Deben haber aprendido algo sobre el poder que encontró Herx.#
 2827 [%s]
@@ -3265,7 +3265,7 @@ drenarse el resto de tu magia!#
 2907 DEPRECATED#
 2908 Tu pensamientos no residen más en la soledad al envolverte los ojos.#
 2909 ¡El santuario te provee de puntería y velocidad!#
-2910 ¡Es santuario te provee de conocimiento arcano y resistencia!#
+2910 ¡El santuario te proporciona conocimiento arcano y resistencia!#
 2911 DEPRECATED#
 
 # 2912-2916 Autosort text:
@@ -4583,7 +4583,7 @@ del oro, ¡rápido!#
 4160 [Necesitas idenfiticarla]#
 4161 Poción desconocida#
 4162 [Nueva combinación]#
-4163 Chance de Duplicar:#
+4163 Probabilidad de Duplicar:#
 4164 [Resultado aleatorio]#
 4165 [Desequipar para usar]#
 4166 [Copiar poción izquierda]#
@@ -4959,8 +4959,8 @@ La siguente entrada que pulses se vinculará con esta acción.#
 5106 Automát. reinicia el juego después de morir.#
 
 5107 Opciones de Inventario#
-5108 Añadir objetos al Hotbar#
-5109 Automát. completa el hotbar al recoger objetos.#
+5108 Añadir objetos a la Barra Rápida#
+5109 Completa automáticamente la barra rápida al recoger objetos.#
 5110 Ordenar Inventario#
 5111 Personaliza la manera en la cual el inventario se ordena.#
 5112 Usar al Soltar#
@@ -5057,7 +5057,7 @@ La siguente entrada que pulses se vinculará con esta acción.#
 5199 Sonidos de Minimapa#
 5200 Puedes escuchar sondeos en el minimapa#
 5201 Sonidos del Jugador Monstruo#
-5202 Activar chance de emitir murmullos monstruosos al jugar como un personaje no humano.#
+5202 Permite emitir murmullos monstruosos ocasionales al jugar como un personaje no humano.#
 5203 Audio Fuera-de-Foco#
 5204 Permite que las fuentes de audio se reproduzcan incluso cuando la ventana del juego está fuera de foco.#
 
@@ -5077,7 +5077,7 @@ La siguente entrada que pulses se vinculará con esta acción.#
 5218 Sensibilidad del cursor#
 5219 Controla la velocidad con la que el movimiento del cursor afecta la cámara.#
 5220 Teclas Numéricas en Inventario#
-5221 Permite al jugador vincular objetos del inventario al hotbar con las teclas numéricas.#
+5221 Permite al jugador vincular objetos del inventario a la barra rápida con las teclas numéricas.#
 5222 Cursor Invertido#
 5223 Invierte el movimiento vertical del cursor al controlar la cámara.#
 5224 Cursor Suavizado#
@@ -5087,7 +5087,7 @@ La siguente entrada que pulses se vinculará con esta acción.#
 5228 Ajustes del Control#
 5229 Moderno#
 5230 Clasico#
-5231 Disposición del Hotbar#
+5231 Disposición de la Barra Rápida#
 5232 Moderno: Disposición de ranuras 3x3 usando botones sostenidos. Clásico: Disposición plana de 10 ranuras con controles más simples.#
 5233 Ajustar Sensibilidad X#
 5234 Afecta la sensibilidad horizontal analógico usado para girar.#
@@ -6061,10 +6061,10 @@ Subida#
 5983 Abrir Mapa#
 5984 Abrir Registro#
 5985 Alternar Minimapa#
-5986 Hotbar Izquierda#
-5987 Hotbar Derecha#
-5988 Hotbar Arriba / Elegir#
-5989 Hotbar Abajo / Cancelar#
+5986 Barra Rápida Izquierda#
+5987 Barra Rápida Derecha#
+5988 Barra Rápida Arriba / Elegir#
+5989 Barra Rápida Abajo / Cancelar#
 5990 Interactuar con Tooltip Sig.#
 5991 Interactuar con Tooltip Ant.#
 5992 Expandir Tooltip#
@@ -6079,16 +6079,16 @@ Subida#
 6001 Mirar Arriba#
 6002 Mirar Abajo#
 6003 Captura de Pantalla#
-6004 Ranura de Hotbar 1#
-6005 Ranura de Hotbar 2#
-6006 Ranura de Hotbar 3#
-6007 Ranura de Hotbar 4#
-6008 Ranura de Hotbar 5#
-6009 Ranura de Hotbar 6#
-6010 Ranura de Hotbar 7#
-6011 Ranura de Hotbar 8#
-6012 Ranura de Hotbar 9#
-6013 Ranura de Hotbar 10#
+6004 Ranura de Barra Rápida 1#
+6005 Ranura de Barra Rápida 2#
+6006 Ranura de Barra Rápida 3#
+6007 Ranura de Barra Rápida 4#
+6008 Ranura de Barra Rápida 5#
+6009 Ranura de Barra Rápida 6#
+6010 Ranura de Barra Rápida 7#
+6011 Ranura de Barra Rápida 8#
+6012 Ranura de Barra Rápida 9#
+6013 Ranura de Barra Rápida 10#
 
 6014 Estándar#
 6015 Experto#
@@ -6096,7 +6096,7 @@ Subida#
 6017 Mínimo#
 #6018 was missed earlier, so it is used.
 
-6019 Completar Hotbar#
+6019 Completar Barra Rápida#
 6020 Precargar de Archivos Musicales#
 6021 La precarga mejora el rendimiento de la reproducción, pero aumenta el uso de memoria del sistema. (Aplicado en el próximo inicio del juego)#
 6022 Temas Festivos#
@@ -6225,10 +6225,10 @@ Causa de muerte: %s#
 Intentar más tarde.#
 6062 Top 100#
 6063 Cercanías#
-6064 GNDOS#
+6064 Victorias#
 6065 Derrotas#
-6066 Mejor Ptje#
-6067 Mejor Tiemp.#
+6066 Mejor Puntaje#
+6067 Mejor Tiempo#
 6068 Solitario#
 6069 Co-op#
 6070 Humanos#
@@ -6831,9 +6831,9 @@ no pertenece al vacío.#
 6565 Alguien más ya está accediendo al vacío.#
 6566 El vacío no puede aceptar más artículos.#
 6567 ¡El mimeto anula tu %s!#
-6568 cráneo de revenant#
+6568 cráneo espectral#
 6569 minimimic#
-6570 cráneos de revenant#
+6570 cráneos espectrales#
 6571 minimimics#
 6572 golpes#
 6573 picaduras#
@@ -6844,7 +6844,7 @@ no pertenece al vacío.#
 6578 ¡Aquí no hay lugar para convocar!#
 6579 arma espiritual#
 6580 posesión sacralizada#
-6581 sílfide ígnea#
+6581 elemental ígneo#
 6582 holograma#
 6583 polilla#
 6584 sílfide pétrea#
@@ -6853,7 +6853,7 @@ no pertenece al vacío.#
 6587 monster_unused_7#
 6588 monster_unused_8#
 6589 posesiones sacralizadas#
-6590 sílfides ígneas#
+6590 elementales ígneos#
 6591 hologramas#
 6592 polillas#
 6593 sílfides pétreas#
@@ -6934,9 +6934,9 @@ vuelve al suelo.#
 6666 ¡Tu forma de niebla te protege!#
 6667 ¡Creas un holograma a tu imagen!#
 6668 se desvanece en la nada.#
-6669 se asusta por un cráneo de revenant.#
+6669 se asusta por un cráneo espectral.#
 6670 es saqueado por un minimimic.#
-6671 es reducido a cenizas por una sílfide ígnea.#
+6671 es reducido a cenizas por un elemental ígneo.#
 6672 es asesinado por la mano invisible de un arma sacralizada.#
 6673 explota!#
 6674 ¡Conjuras %s!#
@@ -6965,7 +6965,7 @@ vuelve al suelo.#
 6697 ¡Forjaste %d %s!#
 6698 queda suspendido.#
 6699 ¡Tus objetos de mano secundaria se imbuyen con fuerza defensiva!#
-6700 ¡Tus objetos de mano secundaria se imbuyen con reflejo mágico!#
+6700 ¡Tus objetos de mano secundaria reciben Reflejar Magia!#
 6701 SELECCIÓN DE OBJETO DE ASISTENCIA#
 6702 SELECCIÓN DE CLASE#
 6703 SELECCIÓN DE RAZA#
@@ -7083,7 +7083,7 @@ para volver a jugar este desafío!
 6804 Se requiere una habilidad %s superior#
 6805 Se requiere mayor habilidad#
 6806 encuentra su lugar de descanso final.#
-6807 esqueleto revenant#
+6807 esqueleto espectral#
 6808 ¡Tomas el mando de %s de entre los difuntos!#
 6809 ¡Astillas la construcción de %s!#
 6810 ¡Astillas la construcción de %s!#
@@ -7153,8 +7153,8 @@ no se puede utilizar para recargar.#
 6877 Perfil#
 6878 Cuac#
 6879 Volver#
-6880 Seleccionar teclas de la barra de acceso rápido#
-6881 Permita que la ranura de la barra de acceso rápido resaltada cambie cuando use las teclas de ranura individuales para activar la barra de acceso rápido.#
+6880 Seleccionar teclas de la barra rápida#
+6881 Permite cambiar la ranura resaltada de la barra rápida al usar sus teclas individuales.#
 6882 ¡La podredumbre te vigoriza!#
 6883 ¡Te deshaces de tu follaje ardiente!#
 6884 ¡Brotas un arbusto!#
@@ -7251,11 +7251,11 @@ no se puede utilizar para recargar.#
 6975 El caldero lo está utilizando actualmente otra persona.#
 6976 Ves un caldero.#
 6977 usar caldero#
-6978 Banco de trabajo#
-6979 usar banco de trabajo#
-6980 Ves un banco de trabajo.#
-6981 banco de trabajo#
-6982 Actualmente otra persona está utilizando el banco de trabajo.#
+6978 Mesa de trabajo#
+6979 usar mesa de trabajo#
+6980 Ves una mesa de trabajo.#
+6981 mesa de trabajo#
+6982 Actualmente otra persona está utilizando la mesa de trabajo.#
 6983 Buzón#
 6984 Usar buzón#
 6985 Ves un buzón.#
@@ -7270,7 +7270,7 @@ no se puede utilizar para recargar.#
 6992 ¡Tus objetos no identificados son tasados aún más!#
 6993 Modificador alternativo de uso de objeto#
 6994 Hechizos de lanzamiento rápido en barra#
-6995 Cuando está habilitado, la activación de hechizos desde la barra de acceso rápido intentará lanzarlos inmediatamente.#
+6995 Cuando está habilitado, la activación de hechizos desde la barra rápida intentará lanzarlos inmediatamente.#
 6996 Límite de eventos del mouse#
 6997 Limita la cantidad de eventos de movimiento del mouse procesados ​​por cuadro para evitar grandes cambios de cámara.#
 6998 Ilimitado#

@@ -94,7 +94,7 @@
 			"attributes_atk_melee_desc": "Los golpes críticos causan el 200%% del daño\nMayor habilidad de %s incrementa ATQ promedio\nAtacar desde atrás ocasiona daño adicional basado en la habilidad de Sigilo",
 			"attributes_atk_pickaxe_desc": "Los golpes críticos causan el 200%% del daño\nAtacar desde atrás ocasiona daño adicional basado en la habilidad de Sigilo",
 			"attributes_atk_unarmed_desc": "Los golpes críticos causan el 200%% del daño\nMayor habilidad de %s incrementa ATQ promedio\nEquipar anillos y armas de puño modifican el ATQ\nAtacar desde atrás ocasiona daño adicional basado en la habilidad de Sigilo",
-			"attributes_atk_ranged_desc": "Atacar a distancia tiene chance de ignorar 50%% de la CA del objetivo basado en la PER\nMayor habilidad de %s incrementa ATQ promedio\nEquipar flechas modifica el ATQ y aplica efectos adicionales al impactar",
+			"attributes_atk_ranged_desc": "Atacar a distancia tiene probabilidad de ignorar 50%% de la CA del objetivo basado en la PER\nMayor habilidad de %s incrementa ATQ promedio\nEquipar flechas modifica el ATQ y aplica efectos adicionales al impactar",
 			"attributes_atk_thrown_desc": "Ataques ignoran 50-75%% del CA del objetivo\nMayor habilidad de %s incrementa el daño\nLanzamientos totalmente cargados causan daño máximo e incrementan Penetración de Armadura al impactar",
 			"attributes_atk_gem_desc": "Mayor habilidad de %s incrementa el daño\nLanzamientos totalmente cargados causan daño máximo",
 			"attributes_atk_potion_desc": "Los efectos de la poción también se aplican al objetivo al impactar\nUna mayor habilidad de %s aumenta el daño del impacto y del efecto de la poción",
@@ -161,7 +161,7 @@
 			"attributes_res_bonus_format": "%+d%% RES",
 			"attributes_res_sources_format": "%+d fuentes(s)",
 			"attributes_res_nobonus_format": "%d%% RES",
-			"attributes_res_desc": "Reduce daño mágico recibido por % de resistencia (% Negativo aumenta daño recibido)\nVarias fuentes de Resistencia Mágica de objetos/efectos se acumulan descrecientemente"
+			"attributes_res_desc": "Reduce el daño mágico recibido según el % de resistencia (un % negativo lo aumenta)\nLas fuentes de Resistencia Mágica se acumulan; cada fuente adicional aporta menos"
 		},
 		"attributes_rgn_hp": {
 			"icon_rgn_hp_path": "#*images/ui/CharSheet/HUD_CharSheet_REGEN_00.png",
@@ -302,7 +302,7 @@
 			"description": "Este campus mecánico parece estar aislado del mundo exterior."
 		},
 		"Sanctum": { 
-			"display_name": "Santuario",
+			"display_name": "Cámara Sagrada",
 			"description": "Las leyes de la realidad parecen estar destruyéndose en el centro de esta enorme máquina ."
 		}
 	}

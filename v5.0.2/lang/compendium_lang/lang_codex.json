@@ -44,7 +44,7 @@
             "",
             "Guarda botellas vacías y usa lavamanos",
             "para tener abundante agua que usar en",
-            "duplicaciones, brindando más chances",
+            "duplicaciones, brindando más probabilidades",
             "de resolver problemas con pociones."
         ],
         "details_line_highlights": []
@@ -913,7 +913,7 @@
             "de los hechizos, conviene buscar",
             "fuentes de resistencia mágica.",
             "",
-            "El reflejo mágico anula por completo",
+            "Reflejar Magia anula por completo",
             "los proyectiles mágicos a cierto costo.",
             "La resistencia, en cambio, es pasiva",
             "y fiable.",

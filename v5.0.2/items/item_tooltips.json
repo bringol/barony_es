@@ -321,7 +321,7 @@
 		"template_armor_cloak_backpack_description": [ "Incrementa capacidad de inventario.", "Remover la mochila soltará todos los objetos en esta." ],
 		"template_torch_description": [ "Se consume mientras la uses. Brinda CA adicional y luz mientras defiendes." ],
 		"template_shard_description": [ "Fuente de luz frágil que arde eternamente. Brinda CA adicional y luz mientras defiendes." ],
-		"template_shield_brittle": [ "+100% de chance de degradarse al ser golpeado mientras defiendes" ],
+		"template_shield_brittle": [ "+100% de prob. de degradarse al ser golpeado mientras defiendes" ],
 		"template_weapon_description": [ "Mantén [Ataque] para dar un golpe crítico." ],
 		"template_whip_description": [ "Arma CaC larga. Mantén [Ataque] para un golpe crítico." ],
 		"template_knuckles_description": [ "Brinda ATQ al tener mano hábil vacía." ],
@@ -355,8 +355,8 @@
 		"template_tool_mirror_description": [ "\"La cara es el espejo de la mente,", "Ojos que no ven, corazón que no siente.\"", "-Anónimo" ],
 		"template_tool_towel_description": [ "Úsalo para limpiar y vendar tus heridas." ],
 		"template_tool_beartrap_description": [ "Equipa y mantén [Ataque] para colocar." ],
-		"template_beartrap_degrade_on_use": [ "%+d%% chance de romperse por", "calidad %s al desplegarse" ],
-		"template_beartrap_degrade_on_use_cursed": [ "%+d%% chances de romperse %s al desplegarse" ],
+		"template_beartrap_degrade_on_use": [ "%+d%% de prob. de romperse por", "calidad %s al desplegarse" ],
+		"template_beartrap_degrade_on_use_cursed": [ "%+d%% de prob. de romperse %s al desplegarse" ],
 		"template_tool_detonated_charge_description": [ "Lo que quedó de una trampa usada.", "Mejor reciclar como chatarra." ],
 		"template_tool_bomb_description": [ "Equipa y usa [Ataque] para desplegar.", "Se adhiere a superficies y objetos." ],
 		"template_tool_bomb_lockpickable": [ "* Tras colocarla, alterna el modo de activación usando [Ataque] con una ganzúa" ],
@@ -374,11 +374,11 @@
 		"template_armor_on_degraded_ac": [ "%+d CA por calidad %s" ],
 		"template_weapon_mace_effects": [ "+10% romper armaduras al golpear" ],
 		"template_weapon_axe_effects": [ "* Incrementa ataque en objetos de madera" ],
-		"template_weapon_sword_effects": [ "+10% chance de [Sangrado] al golpear" ],
+		"template_weapon_sword_effects": [ "+10% de prob. de [Sangrado] al golpear" ],
 		"template_weapon_polearm_effects": [ "+10% daño mínimo de arma" ],
 		"template_weapon_legendary_polearm_effects": [ "* Siempre golpea con su daño máximo" ],
 		"template_weapon_skill_modifier": [ "%+d%% efectividad por Hab. %s" ],
-		"template_weapon_skill_modifier_range": [ "* (%d%% - %d%%) de variación de ATQ por", "pericia %s" ],
+		"template_weapon_skill_modifier_range": [ "* (%d%% - %d%%) de variación de ATQ por", "habilidad %s" ],
 		"template_when_equipped_text": [ "\nAl equipar:" ],
 		"template_when_equipped_text_no_leading_newline": [ "Al equipar:" ],
 		"template_player_atk_stat_str": [ "%+d%% ATQ por FUE" ],
@@ -386,7 +386,7 @@
 		"template_player_atk_stat_whip": [ "%+d%% ATQ por 50%% FUE + DES" ],
 		"template_knuckles_base_ac": [ "%+d base objeto CA / ATQ" ],
 		"template_knuckles_beatitude_ac": [ "%+d CA / ATQ por %s" ],
-		"template_ranged_armor_pierce": [ "%+d%% chance de penetrar armadura por PER" ],
+		"template_ranged_armor_pierce": [ "%+d%% de prob. de penetrar armadura por PER" ],
 		"template_ranged_quiver_augment": [ "* Aplica efectos de carcajes en", " ranura %s" ],
 		"template_ranged_rate_of_fire": [ "%+d%% tasa de disparo base" ],
 		"template_player_unarmed_atk_stat_str": [ "%+d%% ATQ por FUE" ],
@@ -400,7 +400,7 @@
 		"template_shield_legendary_durability": [ "* Irrompible por Hab. %s" ],
 		"template_fragile_equipment_description": [ "Frágil." ],
 		"template_fragile_weapon_description": [ "Frágil." ],
-		"template_weapon_bonus_exp": [ "%+d%% Chance de incrementar Hab. %s" ],
+		"template_weapon_bonus_exp": [ "%+d%% de prob. de incrementar Hab. %s" ],
 		"template_equipment_fragile_durability": [ "%+d%% durabilidad por Frágil" ],
 		"template_armor_fragile_durability": [ "%+d%% durabilidad por Frágil" ],
 		"template_attributes_text": [ "Atributos:" ],
@@ -467,9 +467,9 @@
 		"template_armor_resist_icon": [ "resistencia:\nDaño de [%s]\n"],
 		"template_equipment_effect_feather": [ "%+d al peso base del objeto por %s" ],
 		"template_equipment_effect_waterwalking": [ "* Usuario flota en agua y lava por [Paso Acuático]" ],
-		"template_equipment_effect_poisonresist": [ "* Cura efecto de estado [veneno]", "* 12.5% de probabilidad de degradarse al curar", "+60% [Resistencia Mágica]\ncontra Veneno / Ácido" ],
-		"template_equipment_effect_burningresist": [ "* Cura el efecto [Quemadura]", "* 12.5% chance de degradarse al curar" ],
-		"template_equipment_effect_magicreflect": [ "* Refleja magia al ser golpeado", "* 50% de chance de degradarse al reflejar" ],
+		"template_equipment_effect_poisonresist": [ "* Cura efecto de estado [veneno]", "* 12.5% de prob. de degradarse al curar", "+60% [Resistencia Mágica]\ncontra Veneno / Ácido" ],
+		"template_equipment_effect_burningresist": [ "* Cura el efecto [Quemadura]", "* 12.5% de prob. de degradarse al curar" ],
+		"template_equipment_effect_magicreflect": [ "* Refleja magia al ser golpeado", "* 50% de prob. de degradarse al reflejar" ],
 		"template_equipment_effect_waterbreathing": [ "* 100% de velocidad en agua o\n lava" ],
 		"template_equipment_effect_warning": [ "* Revela ubicación de enemigos\nen el mapa por [Advertencia]", "%+d casillas de radio por %s" ],
 		"template_equipment_effect_footstep_warning": [ "* Revela ubicación de enemigos moviéndose en el mapa por [Advertencia Menor]", "+20 casillas de radio" ],
@@ -478,19 +478,19 @@
 		"template_equipment_effect_slowdigestion": [ "* Incrementa saciación alimencia y retrasa la inanición" ],
 		"template_equipment_effect_freeaction": [ "", "Al equiparlo:", "* Cura efectos [Sueño] [Parálisis] [Lentitud]", " por [Acción Libre]" ],
 		"template_equipment_effect_telepathy": [ "", "Al equiparlo:", "* Revela monstruos a través de paredes por [Telepatía]" ],
-		"template_tool_pickaxe_degrade": [ "* 50% chance de degradar al [Excavar]" ],
+		"template_tool_pickaxe_degrade": [ "* 50% de prob. de degradar al [Excavar]" ],
 		"template_lockpick_text_tinkering": [ "* Efectos basado en Hab. Fabricar", "" ],
 		"template_lockpick_text_chestsdoors": [ "Destraba Puertas y Cofres:" ],
-		"template_lockpick_chestsdoors_unlock_chance": [ "%+d%% chance base para destrabar" ],
-		"template_lockpick_skeletonkey_chestsdoors_unlock_chance": [ "+100% chances base para destrabar" ],
-		"template_lockpick_chests_scrap_chance": [ "%+d%% chance de obtener chatarra al destrabar cofres" ],
-		"template_lockpick_skeletonkey_chests_scrap_chance": [ "+0% chance de obtener chatarra al destrabar cofres" ],
+		"template_lockpick_chestsdoors_unlock_chance": [ "%+d%% de prob. base para destrabar" ],
+		"template_lockpick_skeletonkey_chestsdoors_unlock_chance": [ "+100% de prob. base para destrabar" ],
+		"template_lockpick_chests_scrap_chance": [ "%+d%% de prob. de obtener chatarra al destrabar cofres" ],
+		"template_lockpick_skeletonkey_chests_scrap_chance": [ "+0% de prob. de obtener chatarra al destrabar cofres" ],
 		"template_lockpick_text_mechanisms": [ "", "Mecanismos:", "* Alterna activación de trampas fabricadas en el mundo" ],
 		"template_lockpick_skeletonkey_text_mechanisms": [ "", "Mecanismos:" ],
-		"template_lockpick_arrow_disarm": [ "%+d%% chances de desarmar trampas de flechas" ],
-		"template_lockpick_automaton_disarm": [ "%+d%% chance de desarmar autómatas por chatarra" ],
-		"template_lockpick_durability_chance": [ "* 20% chance de degradar al usarse" ],
-		"template_food_puke_chance": [ "%+d%% chance de [Indigestión] por calidad %s" ],
+		"template_lockpick_arrow_disarm": [ "%+d%% de prob. de desarmar trampas de flechas" ],
+		"template_lockpick_automaton_disarm": [ "%+d%% de prob. de desarmar autómatas por chatarra" ],
+		"template_lockpick_durability_chance": [ "* 20% de prob. de degradar al usarse" ],
+		"template_food_puke_chance": [ "%+d%% de prob. de [Indigestión] por calidad %s" ],
 		"template_food_on_eating": [ "Al consumir:" ],
 		"template_spellbook_cast_bonus": [ "", "Bonus de Grimorio:", "%+d%% %s de estad. %s", "%+d%% %s de %s" ],
 		"template_spellbook_cast_success": [ "%+d%% éxito al canalizar sin memorizar" ],
@@ -620,13 +620,13 @@
 		"template_desc_spell_guard_spirit": [ "Consume cargas al recibir", "ataques mágicos.", "Pulsa [Canalizar] al equiparlo para", "alternar el efecto [Sostenido]." ],
 		"template_icon_spell_divine_guard": ["Aumenta [CA / RES]", "por cada punto de [Carga]"],
 		"template_desc_spell_divine_guard": [ "Consume cargas al recibir", "cualquier ataque.", "Pulsa [Canalizar] al equiparlo para", "alternar el efecto [Sostenido]." ],
-		"template_icon_spell_prof_nimbleness": ["Brinda +DES / +Pericia", "en [Fabricar], [Alcance],", "[Espadas], [Sigilo]", "", ""],
+		"template_icon_spell_prof_nimbleness": ["Brinda +DES / +Habilidad", "en [Fabricar], [Alcance],", "[Espadas], [Sigilo]", "", ""],
 		"template_desc_spell_prof_nimbleness": [ "Pulsa [Canalizar] al equiparlo para", "aplicar el efecto por Grado." ],
-		"template_icon_spell_prof_counsel": ["Brinda +INT / +Pericia +PDR", "en [Hechicería], [Misticismo]"],
+		"template_icon_spell_prof_counsel": ["Brinda +INT / +Habilidad +PDR", "en [Hechicería], [Misticismo]"],
 		"template_desc_spell_prof_counsel": [ "Pulsa [Canalizar] al equiparlo para", "aplicar el efecto por Grado." ],
-		"template_icon_spell_prof_greater_might": ["Brinda [Empuje]", "+FUE / +Pericia en [Mazas],", "[Hachas], [Armas de Asta]", "", ""],
+		"template_icon_spell_prof_greater_might": ["Brinda [Empuje]", "+FUE / +Habilidad en [Mazas],", "[Hachas], [Armas de Asta]", "", ""],
 		"template_desc_spell_prof_greater_might": [ "Pulsa [Canalizar] al equiparlo para", "aplicar el efecto por Grado." ],
-		"template_icon_spell_prof_sturdiness": ["Brinda [+PV Máx.]", "+CON / +Pericia en [Bloqueo]"],
+		"template_icon_spell_prof_sturdiness": ["Brinda [+PV Máx.]", "+CON / +Habilidad en [Bloqueo]"],
 		"template_desc_spell_prof_sturdiness": [ "Pulsa [Canalizar] al equiparlo para", "aplicar el efecto por Grado." ],
 		"template_icon_spell_bless_food": ["Brinda [Comidas Benditas] a", "canalizador y aliados cercanos", ""],
 		"template_desc_spell_bless_food": ["Duración aumenta por cada", "alimento consumido.", "Pulsa [Canalizar] al equiparlo para", "invocar el efecto de [Área]."],
@@ -769,7 +769,7 @@
 		"template_desc_spell_hologram": ["Pulsa [Canalizar] al equiparlo para", "invocar el efecto [Objetivo Terrestre]."],
 		"template_icon_spell_force_shield": ["Brinda %+d CA a", "Objetos de [Mano No Hábil]"],
 		"template_desc_spell_force_shield": ["Pulsa [Canalizar] al equiparlo para", "mejorar tu defensa temporalmente."],
-		"template_icon_spell_reflector": ["Brinda [Reflejo Mágico]", "al defender con", "Objetos de [Mano No Hábil]"],
+		"template_icon_spell_reflector": ["Brinda [Reflejar Magia]", "al defender con", "Objetos de [Mano No Hábil]"],
 		"template_desc_spell_reflector": ["Pulsa [Canalizar] al equiparlo para obtener", "reflejo temporal."],
 		"template_icon_spell_splinter_gear": ["[Degrada] armadura del objetivo", "%+d Daño Mágico al degradar"],
 		"template_desc_spell_splinter_gear": ["Pulsa [Canalizar] al equiparlo para lanzar el", "[Proyectil]."],
@@ -889,25 +889,25 @@
 		"template_spell_distance": [ "%+.1f casillas de distancia base", "%+.1f casillas de distancia por PER/efectos" ],
 		"template_spell_generic_bonus_pwr": [ "Bonus mágico de %s:", "%+.f%% canaliz. %s por PDR" ],
 		"template_spell_damage_bonus_pwr_dual": [ "Bonus mágico de %s:\n%+d %s base\n%+.f%% %s por PDR\n%+d %s base\n%+.f%% %s por PDR" ],
-		"template_spell_cast_success": [ "^Penalización por baja habilidad de %s:", "^* %d%% de probabilidad de fallo al canalizar" ],
-		"template_spell_cast_success1": [ "^Penalidad por baja pericia %s:"],
-		"template_spell_cast_success2": [ "^* %d%% de probabilidad de fallo" ],
-		"template_spell_extramana_chance": [ "^* %d%% chance de consumir", "^PM adicional " ],
-		"template_spell_no_gain_levels": [ "Grado de Hechizo dominado:", "* Avance de nivel de pericia", "reducido" ],
+		"template_spell_cast_success": [ "^Penalización por baja habilidad de %s:", "^* %d%% de prob. de fallo al canalizar" ],
+		"template_spell_cast_success1": [ "^Penalidad por baja habilidad %s:"],
+		"template_spell_cast_success2": [ "^* %d%% de prob. de fallo" ],
+		"template_spell_extramana_chance": [ "^* %d%% de prob. de consumir", "^PM adicional " ],
+		"template_spell_no_gain_levels": [ "Grado de Hechizo dominado:", "* Avance de nivel de habilidad", "reducido" ],
 		"template_attr_spell_shadow_tag": [ "Atributos:", "* Todo tipo de daño (Alcance, Hachas, etc) en objetivos Anulados siempre reciben 100% de daño", "-50% de costo de PM de hechizos de teletransporte mientras está activo", "", "* Usar [Teletransporte] mueve al usuario hacia objetivo marcado", "* Usar [Teletransporte Ajeno] mueve objetivo marcado enfrente del usuario" ],
 		"template_attr_spell_summon": [ "Atributos:", "* Los NVLs de aliados invocados se conservan entre canalizaciones; su equipo mejora cada 5 NVLs (Máx. en NVL 30)", "* El costo de PM aumenta con el rango de la invocación", "* Misticismo Experto (60) + INT permiten una invocación adicional", "", "Órdenes de seguidores:", "* [Liberar Alma] destruye las invocaciones y recupera PM según sus PV actuales" ],
 		"template_attr_spell_self_polymorph": [ "Atributos:", "* Efecto [Polimorfia] desaparece al tocar o beber agua" ],
-		"template_attr_spell_acid_spray": [ "Atributos:", "+25% chance base de degradar armadura al golpear", "" ],
-		"template_attr_spell_charm": [ "Modif de Encantar:", "+30%% chances en monstruos [Confundidos] o [Ebrios]", "%+d%% chances por INT", "%+d%% chances por CAR + Hab. Liderazgo" ],
+		"template_attr_spell_acid_spray": [ "Atributos:", "+25% de prob. base de degradar armadura al golpear", "" ],
+		"template_attr_spell_charm": [ "Modif de Encantar:", "+30%% de prob. en monstruos [Confundidos] o [Ebrios]", "%+d%% de prob. por INT", "%+d%% de prob. por CAR + Hab. Liderazgo" ],
 		"template_attr_spell_dominate": [ "Atributos:", "* Dominar monstruos permite exceder límite de aliados de Hab. Liderazgo", "", "Costo PM de dominar:", "* Monstruos debilitados reducen costo de PM (Ej. Monstruos con 20 de PV cuestan 41 PM)", "" ],
 		"template_attr_spell_revert_form": [ "Atributos:", "* Solo remueve un efecto a la vez" ],
 		"template_attr_spell_blood_waves": [ "Atributos:", "* +3 al daño de hechizo por +1 INT", "" ],
-		"template_attr_spell_magicians_armor": [ "Atributos:", "* +1 carga máxima por cada +20 entre\nINT + pericia de Hechicería" ],
+		"template_attr_spell_magicians_armor": [ "Atributos:", "* +1 carga máxima por cada +20 entre\nINT + habilidad de Hechicería" ],
 		"template_attr_spell_breathe_fire": [ "Atributos:", "* +1 Costo de PM por 50 PM Máx.", "* +100% Costo de PM bajo 40% PM", "" ],
-		"template_attr_magicstaff_charm": [ "", "Modif de Encantar:", "+30%% chances en monstruos [Confundidos] o [Ebrios]", "%+d%% chance por CAR + Hab. Liderazgo" ],
-		"template_magicstaff_degrade_chance": [ "Atributos:", "* %d%% chance de degradarse al usarlo" ],
-		"template_magicstaff_charm_worn_degrade": [ "Atributos:", "* %d%% chance de degradarse al usarlo por estado %s" ],
-		"template_spellbook_degrade_chance": [ "* 100% chance de degradarse al leer", "* 12% chance de degradarse al lanzar desde el grimorio" ]
+		"template_attr_magicstaff_charm": [ "", "Modif de Encantar:", "+30%% de prob. en monstruos [Confundidos] o [Ebrios]", "%+d%% de prob. por CAR + Hab. Liderazgo" ],
+		"template_magicstaff_degrade_chance": [ "Atributos:", "* %d%% de prob. de degradarse al usarlo" ],
+		"template_magicstaff_charm_worn_degrade": [ "Atributos:", "* %d%% de prob. de degradarse al usarlo por estado %s" ],
+		"template_spellbook_degrade_chance": [ "* 100% de prob. de degradarse al leer", "* 12% de prob. de degradarse al lanzar desde el grimorio" ]
 	},
 	"tooltips": {
 		"tooltip_artifact_orb_blue": {
@@ -982,7 +982,7 @@
 					"piercing": [ "+50% Penetrar Armadura" ]
 				},
 				{
-					"degrade": [ "+50% chance de romperse al golpear" ]
+					"degrade": [ "+50% de prob. de romperse al golpear" ]
 				},
 				{
 					"EFF_FEATHER": "template_equipment_effect_feather"
@@ -1109,7 +1109,7 @@
 					"piercing": [ "+50% Penetrar Armadura" ]
 				},
 				{
-					"degrade": [ "+50% chance de romperse al golpear" ]
+					"degrade": [ "+50% de prob. de romperse al golpear" ]
 				},
 				{
 					"EFF_FEATHER": "template_equipment_effect_feather"
@@ -1164,7 +1164,7 @@
 					"piercing": [ "+50% Penetrar Armadura" ]
 				},
 				{
-					"degrade": [ "+50% chance de romperse al golpear" ]
+					"degrade": [ "+50% de prob. de romperse al golpear" ]
 				},
 				{
 					"EFF_FEATHER": "template_equipment_effect_feather"
@@ -2909,7 +2909,7 @@
 		"tooltip_tool_skeletonkey": {
 			"icons": [
 				{
-					"text": "+100% chance de [Abrir]",
+					"text": "+100% de prob. de [Abrir]",
 					"icon_path": "#*images/ui/SkillSheet/Icons/Tinkering01.png",
 					"conditional_attribute": ""
 				}
@@ -4166,7 +4166,7 @@
 					"* Costo de PM gratis cada %s de %s ciclos por CAR",
 					"* Próximo bono de costo de PM: %s",
 					"",
-					"Bono de Pericia %s:",
+					"Bono de Habilidad %s:",
 					"%+d%% de velocidad de carga",
 					"%+d%% menos penalización de movimiento" ]
 				}
@@ -4238,7 +4238,7 @@
 					"* Costo de PM gratis cada %s de %s ciclos por CAR",
 					"* Próximo bono de costo de PM: %s",
 					"",
-					"Bono de Pericia %s:",
+					"Bono de Habilidad %s:",
 					"%+d%% de velocidad de carga",
 					"%+d%% menos penalización de movimiento" ]
 				}
@@ -4320,7 +4320,7 @@
 					"* Costo de PM gratis cada %s de %s ciclos por CAR",
 					"* Próximo bono de costo de PM: %s",
 					"",
-					"Bono de Pericia %s:",
+					"Bono de Habilidad %s:",
 					"%+d%% de velocidad de canalización",
 					"%+d%% menos penalización de movimiento" ]
 				}
@@ -5463,7 +5463,7 @@
 					"icon_path": "#*images/ui/SkillSheet/Icons/Maces01.png"
 				},
 				{
-					"text": "Golpes básicos:\n%+d%% ATQ por pericia de [Maza]\nInflige [Empuje] a corta distancia",
+					"text": "Golpes básicos:\n%+d%% ATQ por habilidad de [Maza]\nInflige [Empuje] a corta distancia",
 					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/genericeffect.png",
 					"conditional_attribute": "EFF_FLAIL"
 				}
@@ -5530,7 +5530,7 @@
 					"icon_path": "#*images/ui/SkillSheet/Icons/Maces01.png"
 				},
 				{
-					"text": "Al golpear enemigos debilitados:\nATQ del arma aplica [%d-%d%%] de Daño\nMágico por pericia de [Misticismo]",
+					"text": "Al golpear enemigos debilitados:\nATQ del arma aplica [%d-%d%%] de Daño\nMágico por habilidad de [Misticismo]",
 					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/genericeffect.png",
 					"conditional_attribute": "EFF_SHILLELAGH"
 				}
@@ -5555,7 +5555,7 @@
 					"ATQ del portador con un solo perjuicio,",
 					"luego +25% por cada perjuicio adicional",
 					"* ATQ del portador se calcula antes de golpes",
-					"críticos y variación de daño por pericia"
+					"críticos y variación de daño por habilidad"
 					]
 				},
 				{
@@ -5757,7 +5757,7 @@
 						"",
 						"Contraataques:",
 						"* Ignora CA del escudo al [Contraatacar]",
-						"%+d CA al [Contraatacar] según ATQ y pericia de Espada"
+						"%+d CA al [Contraatacar] según ATQ y habilidad de Espada"
 					]
 				},
 				{
@@ -5825,7 +5825,7 @@
 						"",
 						"Paradas:",
 						"* Ignora CA del escudo al [Desviar]",
-						"%+d CA al [Desviar] según ATQ del arma", "y pericia de Espada"
+						"%+d CA al [Desviar] según ATQ del arma", "y habilidad de Espada"
 					]
 				},
 				{
@@ -5879,7 +5879,7 @@
 					"icon_path": "#*images/ui/SkillSheet/Icons/Swords01_Gold.png"
 				},
 				{
-					"text": "Añade chance al golpear: (%.f%%)\n+Infigir [Quemadura]\n+%.f%% [Castigo]",
+					"text": "Añade probabilidad al golpear: (%.f%%)\n+Infigir [Quemadura]\n+%.f%% [Castigo]",
 					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/legendary.png",
 					"conditional_attribute": "EFF_ARTIFACT_SWORD"
 				}
@@ -6077,12 +6077,12 @@
 				},
 				{
 					"whip_attributes": [ "+50% de alcance de ataque",
-					"+20% de probabilidad de [Sangrado] al flanquear",
-					"+100% de probabilidad de [Sangrado] al desarmar",
+					"+20% de prob. de [Sangrado] al flanquear",
+					"+100% de prob. de [Sangrado] al desarmar",
 					"* Irrompible" ]
 				},
 				{
-					"whip_disarm": [ "", "Chance de desarmar:", "+33% chance en enemigos [Ebrios] o [Confundidos]", "+100% de chances en enemigos [Inmóviles] o [Desorientados]" ]
+					"whip_disarm": [ "", "Probabilidad de desarmar:", "+33% de prob. en enemigos [Ebrios] o [Confundidos]", "+100% de prob. en enemigos [Inmóviles] o [Desorientados]" ]
 				},
 				{
 					"weapon_bonus_exp": "template_weapon_bonus_exp"
@@ -6112,7 +6112,7 @@
 					"when_equipped": "template_when_equipped_text"
 				},
 				{
-					"whip_base_effects": [ "%+d%% chance de perforar armadura por estadística PER"]
+					"whip_base_effects": [ "%+d%% de prob. de perforar armadura por estadística PER"]
 				},
 				{
 					"weapon_atk_from_player_stat": "template_player_atk_stat_whip"
@@ -7170,7 +7170,7 @@
 		"tooltip_armor_mask_pipe": {
 			"icons": [
 				{
-					"text": "%+d%% chances de: [-1 PV] [+1 PM]\nmientras al [Regenerar]",
+					"text": "%+d%% de prob. de: [-1 PV] [+1 PM]\nmientras al [Regenerar]",
 					"icon_path": "images/ui/HUD/statusfx/stimulant.png",
 					"conditional_attribute": "EFF_PIPE"
 				}
@@ -7318,12 +7318,12 @@
 					"conditional_attribute": "EFF_SKILL_6"
 				},
 				{
-					"text": "%+d a pericia [%s]",
+					"text": "%+d a habilidad [%s]",
 					"icon_path": "#*images/ui/SkillSheet/Icons/Sorcery01.png",
 					"conditional_attribute": "EFF_SKILL_7"
 				},
 				{
-					"text": "%+d a pericia [%s]",
+					"text": "%+d a habilidad [%s]",
 					"icon_path": "#*images/ui/SkillSheet/Icons/Thaumaturgy01.png",
 					"conditional_attribute": "EFF_SKILL_4"
 				},
@@ -7473,7 +7473,7 @@
 					"conditional_attribute": "EFF_CHEF"
 				},
 				{
-					"text": "%+.f%% chance de recibir\ncarne al matar enemigos\n",
+					"text": "%+.f%% de prob. de recibir\ncarne al matar enemigos\n",
 					"icon_path": "items/images/Meat.png",
 					"conditional_attribute": "EFF_CHEF2"
 				},
@@ -7503,7 +7503,7 @@
 					"conditional_attribute": "EFF_CELEBRATION"
 				},
 				{
-					"text": "%+d%% chance: [+1 PM]\nal [Regenerar]\n",
+					"text": "%+d%% de prob.: [+1 PM]\nal [Regenerar]\n",
 					"icon_path": "images/ui/HUD/statusfx/regen_mp.png",
 					"conditional_attribute": "EFF_HOOD_APPRENTICE"
 				},
@@ -7523,7 +7523,7 @@
 					"conditional_attribute": "EFF_HOOD_WHISPERS"
 				},
 				{
-					"text": "Brinda chances de [Pacificar]\ny evadir atacantes CaC\n",
+					"text": "Brinda prob. de [Pacificar]\ny evadir atacantes CaC\n",
 					"icon_path": "items/images/spells/charm.png",
 					"conditional_attribute": "EFF_SILKEN_BOW"
 				},
@@ -7598,7 +7598,7 @@
 					"blank_text_if_armor_has_stats": ""
 				},
 				{
-					"EFF_SILKEN_BOW": [ "Prob. de Pacificar:", "+%d%% probabilidad base", "+%d%% prob. adicional por", "pericia %s + atributo %s" ]
+					"EFF_SILKEN_BOW": [ "Prob. de Pacificar:", "+%d%% de prob. base", "+%d%% de prob. adicional por", "habilidad %s + atributo %s" ]
 				},
 				{
 					"armor_ac_text": "template_armor_ac_text"

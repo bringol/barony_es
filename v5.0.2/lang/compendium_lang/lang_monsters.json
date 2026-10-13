@@ -473,7 +473,7 @@
             "- Mazas/Hachas de Bronce, Hierro",
             "- Arcos Cortos y Carcajes",
             "- Bastones de Fuego",
-            "- Capas de Reflejo Mágico",
+            "- Capas de Reflejar Magia",
             "- Ramilletes de Hierba Dulce",
             "- Armaduras de cuero, bronce",
             "- Capas",
@@ -752,7 +752,7 @@
         "inventory": [
             "- Sharur",
             "- Gorro de Bufón",
-            "- Capas de Reflejo Mágico",
+            "- Capas de Reflejar Magia",
             "- Ramilletes de Hierba Dulce",
             "- Armaduras de cuero, bronce",
             "- Capas"
@@ -1040,7 +1040,7 @@
         ],
         "abilities": [
             "- Frío",
-            "- Reflejo Mágico"
+            "- Reflejar Magia"
         ],
         "inventory": [
             "- Plumas Encantadas",

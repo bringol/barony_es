@@ -320,7 +320,7 @@
 			"internal_name": "EFF_WEALTH",
 			"name": ["Riqueza", "Riqueza (Nivel I)", "Riqueza (Nivel II)", "Riqueza (Nivel III)", "Riqueza (Nivel IV)"],
             "desc": [
-                "+%d%% de chance de ganar +1 PM mientras se regenera PM",
+                "+%d%% de prob. de ganar +1 PM mientras se regenera PM",
                 "El efecto aumenta según la cantidad de oro que lleves"],
 			"img_path": ["*images/ui/HUD/statusfx/wealth.png", "*images/ui/HUD/statusfx/wealth2.png", "*images/ui/HUD/statusfx/wealth3.png", "*images/ui/HUD/statusfx/wealth4.png"],
 			"img_from_spell_id": -1,
@@ -469,7 +469,7 @@
 		"EFF_MAGICREFLECT": {
 			"id": 17,
 			"internal_name": "EFF_MAGICREFLECT",
-			"name": "Reflejo Mágico",
+			"name": "Reflejar Magia",
 			"desc": "Refleja hechizos enemigos",
 			"img_path": "",
 			"img_from_spell_id": 26,
@@ -699,7 +699,7 @@
 			"id": 44,
 			"internal_name": "EFF_AGILITY",
 			"name": "Agilidad",
-			"desc": "+ Destreza\n+30% Chance de evadir ataques físicos y mágicos",
+			"desc": "+ Destreza\n+30% de prob. de evadir ataques físicos y mágicos",
 			"img_path": "*images/ui/HUD/statusfx/dexbuff.png",
 			"img_from_spell_id": -1
 		},
@@ -750,7 +750,7 @@
 			"name": ["Tambor (Grado I)", "Tambor (Grado II)", "Tambor (Grado III)", "Tambor (Grado IV)"],
 			"desc": [
 				"%+d FUE",
-				"%+d%% chance de Penetrar Armadura en ataques cuerpo a cuerpo"
+				"%+d%% de prob. de Penetrar Armadura en ataques cuerpo a cuerpo"
 			],
 			"img_path": "*images/ui/HUD/statusfx/ensemble_drum.png",
 			"img_from_spell_id": -1,
@@ -959,7 +959,7 @@
 			"id": 73,
 			"internal_name": "EFF_ENVENOM_WEAPON",
 			"name": "Envenenar Arma",
-			"desc": "Los ataques con armas tienen una chance\n de infligir daño venenoso adicional",
+			"desc": "Los ataques con armas tienen una probabilidad\n de infligir daño venenoso adicional",
 			"img_path": "",
 			"img_from_spell_id": 101,
 			"use_entry_for_sustained_spell": 101
@@ -1057,7 +1057,7 @@
 			"id": 85,
 			"internal_name": "EFF_ABUNDANCE",
 			"name": "Abundancia",
-			"desc": "La comida tiene una chance de no consumirse al comerla",
+			"desc": "La comida tiene una probabilidad de no consumirse al comerla",
 			"img_path": "",
 			"img_from_spell_id": 141,
 			"use_entry_for_sustained_spell": 141
@@ -1066,7 +1066,7 @@
 			"id": 86,
 			"internal_name": "EFF_GREATER_ABUNDANCE",
 			"name": "Gran Abundancia",
-			"desc": "La comida y las pociones tienen una chance de no consumirse al usarlas",
+			"desc": "La comida y las pociones tienen una probabilidad de no consumirse al usarlas",
 			"img_path": "",
 			"img_from_spell_id": 142,
 			"use_entry_for_sustained_spell": 142
@@ -1275,8 +1275,8 @@
 			"internal_name": "EFF_GROWTH",
 			"name": ["Crecimiento (Grado I)", "Crecimiento (Grado II)", "Crecimiento (Grado III)"],
 			"desc": [
-				"El Crecimiento florece al ganar NVLs y con chance % al comer comida podrida",
-				"El Crecimiento florece al ganar NVLs y con chance % al beber agua",
+				"El Crecimiento florece al ganar NVLs y con una probabilidad de % al comer comida podrida",
+				"El Crecimiento florece al ganar NVLs y con una probabilidad de % al beber agua",
 				"Velocidad del efecto de Esporas mejorada",
 				"Esporas también se activa al recibir daño mágico y ataques a distancia",
 				"%+d CA / DAÑO de Veneno",

@@ -110,7 +110,7 @@
             "name_unidentified": "capa"
         },
         "cloak_magicreflection": {
-            "name_identified": "capa de reflejo mágico",
+            "name_identified": "capa de reflejar magia",
             "name_unidentified": "capa"
         },
         "cloak_invisibility": {
@@ -2175,7 +2175,7 @@
             "name": "Dominar"
         },
         "spell_reflect_magic": {
-            "name": "Reflexión Mágica"
+            "name": "Reflejar Magia"
         },
         "spell_acid_spray": {
             "name": "Rocío Ácido"

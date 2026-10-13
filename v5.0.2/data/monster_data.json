@@ -660,7 +660,7 @@
 			"specialNPCs": {
 				"artemisia": {
 					"icon": "", 
-					"localized_name": "Artemisia",
+					"localized_name": "Artemisa",
 					"models": [1087]
 				},
 				"baratheon": {

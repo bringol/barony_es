@@ -1,7 +1,15 @@
+# Convenciones de uso contextual (no son términos para sustituir literalmente):
+# tin: lata si es el alimento/recipiente; estaño si es el metal o mineral.
+# static: Estática es el nombre del efecto eléctrico. Como adjetivo, usar
+# estático/estática/estáticos/estáticas según el sustantivo; para un personaje
+# de género desconocido, reformular sin imponer género. No traducir IDs.
+# campaign: conservar La Encrucijada como título del libro; en otros contextos
+# elegir campaña o expedición según el sentido.
+# spell: hechizo en la interfaz; chance: probabilidad (prob. si falta espacio).
+# hotbar: barra rápida. Mantener estas denominaciones en las instrucciones.
 abundance;abundancia
 ac;ca
 atk;atq
-pwr;pdr
 accursed;condenado
 acid;ácido
 additional mp;pm adicional
@@ -73,7 +81,7 @@ baphomet;baphomet
 baphomet domain;dominio de baphomet
 baratheon;baratheon
 barbarian;bárbaro
-bard instrument;instrumetno de bardo
+bard instrument;instrumento de bardo
 baron herx;barón herx
 base ac total;ca base total
 base armor class;clase de armadura base
@@ -130,7 +138,7 @@ bookstore;librería
 boomerang;búmeran
 boot;botas
 boulder trap;trampa de pedrusco
-bounty hunter hat;sombrero de cazarecompensas
+bounty hunter hat;sombrero de cazarrecompensas
 bow;arco
 bow attack;ataques con arco
 bracer;brazaletes
@@ -183,7 +191,7 @@ cleric;clérigo
 cloak;capa
 cloak burned up;capas agotadas
 cloak of invisibility;capa de invisibilidad
-cloak of magic reflection;capa de reflejo mágico
+cloak of magic reflection;capa de reflejar magia
 cloak of protection;capa de protección
 cloak of the guardian;capa del guardián
 clothing;vestimenta
@@ -220,7 +228,7 @@ crystal;cristal
 crystal axe;hacha de cristal
 crystal boot;botas de cristal
 crystal breastpiece;coraza de cristal
-crystal caf;cuevas de cristal
+crystal caves;cuevas de cristal
 crystal gauntlet;guanteletes de cristal
 crystal golem;gólem de cristal
 crystal helm;yelmo de cristal
@@ -238,7 +246,7 @@ cursed;infame
 daedalus;dédalo
 damage;daño
 dash;brío
-deactivate;deactivar
+deactivate;desactivar
 debuff;perjuicio
 decanting;decantar
 deceased;fallecido
@@ -322,7 +330,7 @@ favorite skill;habilidad favorita
 fear;miedo
 feather;pluma
 felt hat;sombrero de fieltro
-fiercely guarded kobold maze;laberito kóbold ferozmente custodiado
+fiercely guarded kobold maze;laberinto kóbold ferozmente custodiado
 fire faster but deal;dispara más rápido pero inflige
 fire hunting ammo;flecha ardiente de cacería 
 fire sprite;sílfide ígnea
@@ -490,7 +498,7 @@ knight;caballero
 knockback;empuje
 knuckle;nudillos
 kobold;kóbold
-labyrinth;laberito
+labyrinth;laberinto
 lance;lanza
 lantern;linterna
 laurel;laureles
@@ -536,7 +544,7 @@ magic mapping;mapeo mágico
 magic missile;misil mágico
 magic missile volley;lluvia de rayos mágicos
 magic power pwr;poder mágico pdr
-magic reflection;reflejo mágico
+magic reflection;reflejar magia
 magic resistance;resistencia mágica
 magic scrap;chatarra mágica
 magic spear;lanza mágica
@@ -630,7 +638,7 @@ pacified;pacificado
 paladin;paladín
 paralysis;parálisis
 parry;desvío
-peking;[PENDIENTE]
+peking;pekín
 penalty;penalidad
 penance;penitencia
 penetrate armor;penetrar armadura
@@ -714,7 +722,7 @@ recruited;reclutado
 red hood;capucha roja
 red mystic orb;orbe místico rojo
 red riding hood;caperucita roja
-reflect magic;reflejo mágico
+reflect magic;reflejar magia
 reflecting enemy spell;refleja hechizos enemigos
 reflector;reflector
 regeneration rgn;regeneración rgn
@@ -725,7 +733,7 @@ rest;descanso
 restore;restaurar
 retaliation;represalia
 revenant curse;maldición espectral
-revenant skeleton;esqueletro espectral
+revenant skeleton;esqueleto espectral
 revert form;revertir forma
 rgn;regen
 ring;anillo
@@ -755,7 +763,7 @@ salamander;salamandra
 salvage;reciclar
 sanctify;santificar
 sanctuary;santuario
-sanctum;sagrario
+sanctum;cámara sagrada
 sapper;zapador
 sapphire;zafiro
 sarkomancy;sarcomancia
@@ -827,7 +835,7 @@ skeleton key;llave maestra
 skeleton knight;caballero esquelético
 skeleton sentinel;centinela esquelético
 skewer;ensartar
-skill;pericia;habilidad
+skill;habilidad
 skill bonus;bonus estad
 skilled;avanzado
 skrabblag;eskrabblag
@@ -997,7 +1005,7 @@ stamped scroll;pergamino sellado
 starter weapon;arma inicial
 starving;famélico
 stat metastat;stats y meta stats
-static;estática;estático
+static;estática
 steal held weapon;roba armas empuñadas
 steal weapon;robar arma
 stealth;sigilo
@@ -1032,7 +1040,6 @@ supernatural magic power;poder mágico sobrenatural
 sustained;sostenido
 swamp;pantano
 swift ammo;flechas veloces
-springshot ammo;munición de empuje
 swirly;remolinante
 sword;espada
 sword atk damage variance;variación de daño atq de espada
