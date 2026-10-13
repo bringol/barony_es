@@ -186,14 +186,14 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[3]
-				],
+                    [],
+                    [],
+                    [],
+                    [2]
+                ],
                 "word_highlights2": [
-					[1]
-				]
+                    [0, 1]
+                ]
             },
             "variables": [
 				{
@@ -226,13 +226,13 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[5],
-					[2,3]
-				],
+                    [],
+                    [],
+                    [0, 1, 2]
+                ],
                 "word_highlights2": [
-					[1]
-				]
+                    [2]
+                ]
             },
             "variables": [
 				{
@@ -389,17 +389,17 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[1,2]
-				],
+                    [],
+                    [0, 1, 2]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[],
-					[3,4],
-					[1]
-				]
+                    [],
+                    [],
+                    [],
+                    [],
+                    [2, 3],
+                    [2]
+                ]
             },
             "variables": [
 				{
@@ -435,14 +435,14 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[3],
-					[],
-					[3]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [3],
+                    [],
+                    [0, 1]
+                ],
                 "word_highlights2": [
 					[],
 					[1,2,3]				
@@ -481,13 +481,13 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[0,2],
-					[1,2],
-					[],
-					[],
-					[],
-					[3]
-				],
+                    [2, 3, 4],
+                    [0, 1],
+                    [],
+                    [],
+                    [],
+                    [2]
+                ],
                 "word_highlights2": []
             },
             "variables": [
@@ -517,14 +517,14 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[1],
-					[2],
-					[1],
-					[],
-					[0],
-					[2,3],
-					[0]
-				],
+                    [4],
+                    [2],
+                    [0],
+                    [],
+                    [0],
+                    [1, 2, 3, 4],
+                    [1, 2]
+                ],
                 "word_highlights2": [
 					[],
 					[2]
@@ -606,7 +606,7 @@
             "sign": [
 				"Este objeto es un",
 				"Amuleto Maldito de",
-				"Reflejo Mágico.",
+				"Reflejar Magia.",
 				"",
 				"Este efecto aún funciona",
 				"incluso si está maldito.",
@@ -701,21 +701,21 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[2],
-					[],
-					[1]
-				],
+                    [],
+                    [],
+                    [0, 1],
+                    [],
+                    [1]
+                ],
                 "word_highlights2": [
-					[0,1],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[0,1,2]
-				]
+                    [1, 2, 3, 4],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [2],
+                    [0, 1, 2, 3]
+                ]
             },
             "variables": [
 				{
@@ -769,16 +769,18 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[3]
-				],
+                    [],
+                    [],
+                    [0],
+                    [1]
+                ],
                 "word_highlights2": [
-					[],
-					[0],
-					[1,2,3],
-					[],
-					[1,2]
-				]
+                    [],
+                    [1],
+                    [2],
+                    [],
+                    [1, 2]
+                ]
             },
             "variables": [
 				{

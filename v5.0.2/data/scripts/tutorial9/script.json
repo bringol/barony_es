@@ -64,14 +64,12 @@
         },
         "tutorial9b": {
             "sign": [
-				"$",
-				"El girobot es el",
-				"asistente móvil",
-				"del fabricante.",
-				"Una vez desplegado,",
-				"haz uso de sus",
-				"comandos para realizar",
-				"una variedad de tareas."
+                "$",
+                "El girobot es el asistente",
+                "móvil del fabricante.",
+                "Una vez desplegado, usa",
+                "sus comandos para",
+                "realizar diversas tareas."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -82,13 +80,13 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[1],
-					[],
-					[],
-					[],
-					[1,2,3]
-				],
+                    [],
+                    [1],
+                    [],
+                    [],
+                    [],
+                    [1, 2]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -176,16 +174,16 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[0,1,2,3]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1, 2]
+                ],
                 "word_highlights2": [
 					[],
 					[3],
@@ -225,25 +223,25 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[0,1,2],
-					[],
-					[],
-					[],
-					[0,1,2,3],
-					[0,1]
-				],
+                    [],
+                    [0, 1, 2, 3],
+                    [],
+                    [],
+                    [],
+                    [0, 1, 2],
+                    [1]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[1,2]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -390,16 +388,15 @@
 		},
         "tutorial9is": {
             "sign": [
-				"Puedes reciclar objetos",
-				"en tu inventario con",
-				"el menú de fabricación.",
-				"",
-				"Pulsa$ en tu kit",
-				"y selecciona [Fabricar].",
-				"Usa la pestaña [Reciclar]",
-				"para comenzar a seleccionar",
-				"objetos dispuestos a ser",
-				"convertidos en chatarra."
+                "Puedes reciclar objetos",
+                "del inventario con",
+                "el menú de fabricación.",
+                "",
+                "Presiona$ en tu kit",
+                "y selecciona [Fabricar].",
+                "En la pestaña [Reciclar],",
+                "elige los objetos que",
+                "convertirás en chatarra."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -418,10 +415,10 @@
 					[2,3]
 				],
                 "word_highlights2": [
-					[],
-					[],
-					[1,2]				
-				],
+                    [],
+                    [],
+                    [1, 2, 3]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -441,16 +438,15 @@
         },
 		"tutorial9is_gamepad": {
             "sign": [
-				"Puedes reciclar objetos",
-				"en tu inventario con",
-				"el menú de fabricación.",
-				"",
-				"Pulsa$ en tu kit",
-				"y selecciona [Fabricar].",
-				"Usa la pestaña [Reciclar]",
-				"para comenzar a seleccionar",
-				"objetos dispuestos a ser",
-				"convertidos en chatarra."
+                "Puedes reciclar objetos",
+                "del inventario con",
+                "el menú de fabricación.",
+                "",
+                "Presiona$ en tu kit",
+                "y selecciona [Fabricar].",
+                "En la pestaña [Reciclar],",
+                "elige los objetos que",
+                "convertirás en chatarra."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -469,10 +465,10 @@
 					[2,3]
 				],
                 "word_highlights2": [
-					[],
-					[],
-					[1,2]				
-				],
+                    [],
+                    [],
+                    [1, 2, 3]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -731,15 +727,15 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[],
-					[0],
-					[],
-					[1,2,3],
-					[],
-					[],
-					[3]
-				]
+                    [],
+                    [],
+                    [3],
+                    [],
+                    [0, 1, 2],
+                    [],
+                    [],
+                    [2]
+                ]
             },
             "variables": []
         },
@@ -768,20 +764,20 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[2],
-					[],
-					[0,1,2]
-				],
+                    [3],
+                    [],
+                    [0, 1, 2]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[],
-					[0,1,2,3],
-					[],
-					[],
-					[1,2]
-				]
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1, 2, 3],
+                    [],
+                    [4],
+                    [0]
+                ]
             },
             "variables": []
         },
@@ -843,10 +839,9 @@
         },
         "tutorial9q": {
             "sign": [
-				"Puedes recuperar algo",
-				"de chatarra forzando la",
-				"cerradura de un cofre",
-				"cerrado."
+                "Puedes obtener chatarra",
+                "al forzar la cerradura",
+                "de un cofre cerrado."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -857,9 +852,8 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[0]
-				],
+                    [2]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -874,10 +868,9 @@
         },
         "tutorial9q_gamepad": {
             "sign": [
-				"Puedes recuperar algo",
-				"de chatarra forzando la",
-				"cerradura de un cofre",
-				"cerrado."
+                "Puedes obtener chatarra",
+                "al forzar la cerradura",
+                "de un cofre cerrado."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -888,9 +881,8 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[0]
-				],
+                    [2]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -924,14 +916,14 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[],
-					[0,1],
-					[],
-					[1,2],
-					[],
-					[0,1]
-				],
+                    [],
+                    [],
+                    [0, 1],
+                    [],
+                    [3],
+                    [0, 1, 3],
+                    [0]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -1038,13 +1030,14 @@
 					[3]
 				],
                 "word_highlights2": [
-					[],
-					[0],
-					[],
-					[],
-					[],
-					[0,1,2,3]
-				]
+                    [],
+                    [1],
+                    [],
+                    [],
+                    [],
+                    [2],
+                    [0]
+                ]
             },
             "variables": [
 				{
@@ -1251,7 +1244,7 @@
 				"dispositivo simple pero útil,",
 				"elaborado por fabricantes.",
 				"Úsalo para atraer monstruos",
-				"hacia donde tu desees."
+				"hacia donde tú desees."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1262,13 +1255,13 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[1],
-					[],
-					[],
-					[],
-					[1,2,3,4]
-				]
+                    [],
+                    [1],
+                    [],
+                    [],
+                    [],
+                    [0, 1, 2, 3]
+                ]
             },
             "variables": [
 				{
@@ -1346,17 +1339,11 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[3]
-				],
+                    [2]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[1,2]
-				],
+
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -1512,13 +1499,12 @@
         },
         "tutorial9ae": {
             "sign": [
-				"Los centinelas están diseñados",
-				"para escanear aleatoriamente",
-				"en busca de enemigos.",
-				"$",
-				"Ordénales a [Mirar...]",
-				"y pulsa$ para asignar",
-				"la dirección del objetivo."
+                "Los centinelas buscan",
+                "enemigos al azar.",
+                "$",
+                "Ordénales [Mirar...]",
+                "y presiona$ para fijar",
+                "la dirección de su mira."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1528,13 +1514,13 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[0],
-					[0,1,3],
-					[1,2,3]
-				],
+                    [],
+                    [],
+                    [],
+                    [0, 1],
+                    [1, 3],
+                    [0, 1, 2, 3, 4]
+                ],
                 "word_highlights2": [],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
@@ -1561,13 +1547,12 @@
         },
         "tutorial9ae_gamepad": {
             "sign": [
-				"Los centinelas están diseñados",
-				"para escanear aleatoriamente",
-				"en busca de enemigos.",
-				"$",
-				"Ordénales a [Mirar...]",
-				"y pulsa$ para asignar",
-				"la dirección del objetivo."
+                "Los centinelas buscan",
+                "enemigos al azar.",
+                "$",
+                "Ordénales [Mirar...]",
+                "y presiona$ para fijar",
+                "la dirección de su mira."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1577,13 +1562,13 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[0],
-					[0,1,3],
-					[1,2,3]
-				],
+                    [],
+                    [],
+                    [],
+                    [0, 1],
+                    [1, 3],
+                    [0, 1, 2, 3, 4]
+                ],
                 "word_highlights2": [],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
@@ -1626,22 +1611,21 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[1,2],
-					[],
-					[1,2],
-					[2]
-				],
+                    [],
+                    [],
+                    [2],
+                    [],
+                    [1, 3]
+                ],
                 "word_highlights2": [
-					[],
-					[3,4],
-					[],
-					[],
-					[],
-					[],
-					[3]
-				],
+                    [],
+                    [3],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [2]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -1705,14 +1689,15 @@
         },
         "tutorial9ah": {
             "sign": [
-				"Los girobots desplegados",
-				"reconocen sus máquinas aliadas,",
-				"y las llevarán al siguiente nivel",
-				"si se quedan atrás.",
-				"",
-				"Aunque los enemigos ignoran",
-				"a los girobots, pueden ser",
-				"asesinados por algunas trampas."
+                "Los girobots desplegados",
+                "reconocen a las máquinas",
+                "aliadas y las llevan",
+                "al siguiente nivel si",
+                "se quedan atrás.",
+                "",
+                "Los enemigos ignoran",
+                "a los girobots, pero hay",
+                "trampas que los destruyen."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1739,11 +1724,11 @@
 					[0,1,2,3]
 				],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[3,4]
-				]
+                    [],
+                    [],
+                    [],
+                    [1, 2]
+                ]
             },
             "variables": []
         },
@@ -1808,11 +1793,11 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[1,2,3]
-				],
+                    [],
+                    [],
+                    [],
+                    [0, 1, 2]
+                ],
                 "word_highlights2": [
 					[0,1,2],
 					[],

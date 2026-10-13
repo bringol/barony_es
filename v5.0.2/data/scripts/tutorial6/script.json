@@ -29,12 +29,13 @@
     "script_entries": {
         "tutorial6a": {
             "sign": [
-				"Mientras estás invisible,",
-				"los enemigos aún pueden",
-				"detectarte si estás muy cerca,",
-				"especialmente si atacas.",
-				"",
-				"$ "
+                "La invisibilidad",
+                "no evita que el enemigo",
+                "te detecte si estás",
+                "muy cerca, sobre todo",
+                "si atacas.",
+                "",
+                "$ "
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -50,12 +51,12 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[0,1],
-					[],
-					[2]
-				],
+                    [],
+                    [],
+                    [0, 1],
+                    [],
+                    [1]
+                ],
                 "word_highlights2": [
 					[1]
 				]
@@ -71,14 +72,13 @@
         },
         "tutorial6b": {
             "sign": [
-				"Destruye los esqueletos",
-				"situados en el patio",
-				"a tu derecha.",
-				"",
-				"Solo en ese entonces",
-				"encontrarás abierta",
-				"la puerta situada a",
-				"tu izquierda."
+                "Destruye los esqueletos",
+                "del patio que está",
+                "a tu derecha.",
+                "",
+                "Entonces se abrirá",
+                "la puerta situada",
+                "a tu izquierda."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -89,14 +89,14 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[],
-					[2],
-					[],
-					[],
-					[0],
-					[]
-				]
+                    [],
+                    [],
+                    [2],
+                    [],
+                    [],
+                    [],
+                    [2]
+                ]
             },
             "variables": []
         },
@@ -119,14 +119,14 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[],
-					[0,1,2],
-					[],
-					[3,4],
-					[],
-					[0,1]
-				],
+                    [],
+                    [],
+                    [0, 1],
+                    [],
+                    [2],
+                    [0, 1],
+                    [0, 1]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -166,15 +166,15 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[2],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[0,1,2]
-				],
+                    [2],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [1, 2, 3, 4, 5],
+                    [0, 1]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -258,13 +258,14 @@
         },
         "tutorial6f": {
             "sign": [
-				"Cuando un enemigo está ocupado",
-				"con otro adversario, tu",
-				"puedes aumentar el daño",
-				"con ataques por flanqueo.",
-				"",
-				"¡No te acerques demasiado o",
-				"volverán su atención hacia ti!"
+                "Si un enemigo combate",
+                "con otro adversario,",
+                "puedes causar más daño",
+                "con ataques de flanqueo.",
+                "",
+                "¡No te acerques mucho",
+                "o dirigirá su atención",
+                "hacia ti!"
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -280,21 +281,21 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[2,3],
-					[],
-					[0,1,2]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1, 2, 3],
+                    [2, 3],
+                    [0, 1]
+                ],
                 "word_highlights2": [
-					[4],
-					[],
-					[1,2],
-					[1,2]
-				],
+                    [3],
+                    [],
+                    [2, 3],
+                    [1, 2, 3]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -323,11 +324,11 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[1,2]
-				]
+                    [],
+                    [],
+                    [3],
+                    [0, 1]
+                ]
             },
             "variables": []
         },
@@ -354,13 +355,13 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[1,2,3,4]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1, 2]
+                ],
                 "word_highlights2": [
 					[],
 					[],
@@ -389,12 +390,11 @@
         },
         "tutorial6i": {
             "sign": [
-				"$",
-				"",
-				"Sin un objeto en tu",
-				"mano secundaria,",
-				"mantén pulsado$para",
-				"moverte sigilosamente."
+                "$",
+                "",
+                "Sin objetos en la",
+                "mano secundaria,",
+                "mantén$ para usar sigilo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -404,18 +404,17 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[0,2]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 3]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[1,2],
-					[]
-				]
+                    [],
+                    [],
+                    [0, 1]
+                ]
             },
             "variables": [
 				{
@@ -450,24 +449,25 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[0],
-					[2],
-					[],
-					[],
-					[0,1,2],
-					[3,4],
-					[2]
-				]
+                    [],
+                    [1],
+                    [0, 1, 2],
+                    [],
+                    [2, 3],
+                    [0, 1, 2],
+                    [2, 3],
+                    [2]
+                ]
             },
             "variables": []
         },
         "tutorial6k": {
             "sign": [
-				"Los enemigos que",
-				"no están al tanto de ti",
-				"reciben daño adicional al",
-				"ser atacados por la espalda."
+                "Los enemigos que",
+                "no te hayan detectado",
+                "reciben daño adicional",
+                "si los atacas",
+                "por la espalda."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -478,12 +478,12 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[],
-					[1,2],
-					[],
-					[0,1]
-				]
+                    [],
+                    [],
+                    [1, 2],
+                    [],
+                    [0, 1, 2]
+                ]
             },
             "variables": []
         },
@@ -503,24 +503,16 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[0],
-					[2,3],
-					[],
-					[],
-					[],
-					[],
-					[3]
-				],
+                    [0, 1],
+                    [1, 2]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[0,1],
-					[],
-					[],
-					[],
-					[1,2,3]
-				],
+                    [],
+                    [],
+                    [0, 1, 2],
+                    [],
+                    [0, 1, 2, 3]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -625,18 +617,17 @@
 					[0,1]
 				],
                 "word_highlights2": [
-					[],
-					[],
-					[0,1,2,3],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[1,2]
-					
-				]
+                    [],
+                    [],
+                    [0, 1, 2],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [3],
+                    [0]
+                ]
             },
             "variables": []
         },		

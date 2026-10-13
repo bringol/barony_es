@@ -231,10 +231,10 @@
 				"Puedes equipar de forma",
 				"automática cualquier",
 				"grimorio avanzado usándolo",
-				"desde tu hotbar.",
+				"desde tu barra rápida.",
 				"",
 				"Para equipar un grimorio",
-				"desde tu hotbar sin intentar",
+				"desde la barra sin intentar",
 				"memorizarlo, deberás",
 				"mantener pulsado$ antes de usarlo."
             ],
@@ -246,26 +246,26 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[0,1,2],
-					[],
-					[1],
-					[],
-					[],
-					[],
-					[],
-					[0]
-				],
+                    [1],
+                    [],
+                    [0, 1],
+                    [2, 3],
+                    [],
+                    [1],
+                    [],
+                    [],
+                    [0, 1]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[3],
-					[2]
-				]
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [3, 4],
+                    [0]
+                ]
             },
             "variables": [
 				{
@@ -278,13 +278,15 @@
         },
         "tutorial5d_gamepad": {
             "sign": [
-				"Puedes equipar grimorios avanzados,",
-				"o previamente memorizados,",
-				"usándolos desde tu hotbar.",
-				"",
-				"Algunos hechizos son más",
-				"poderosos si se lanzan desde",
-				"un grimorio equipado."
+                "Puedes empuñar",
+                "grimorios difíciles",
+                "o ya memorizados",
+                "al usarlos desde",
+                "tu barra rápida.",
+                "",
+                "Algunos hechizos son",
+                "más potentes al lanzarlos",
+                "desde un grimorio empuñado."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -294,12 +296,12 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[2],
-					[],
-					[],
-					[2],
-					[1,2]
-				],
+                    [1],
+                    [],
+                    [],
+                    [1],
+                    [1, 2]
+                ],
                 "word_highlights2": [
 					[],
 					[0,1]
@@ -387,14 +389,13 @@
         },
         "tutorial5f": {
             "sign": [
-				"Las habilidades mágicas bajas",
-				"pueden hacer que tus hechizos",
-				"fallen con frecuencia.",
-				"",
-				"$",
-				"",
-				"¡Simplemente inténtalo de nuevo!",
-				"La práctica hace al maestro."
+                "Una baja habilidad mágica",
+                "puede hacer fallar hechizos.",
+                "",
+                "$",
+                "",
+                "¡Vuelve a intentarlo!",
+                "La práctica hace al maestro."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -410,17 +411,17 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[0]
-				],
+                    [],
+                    [2]
+                ],
                 "word_highlights2": [
-					[1,2],
-					[2],
-					[],
-					[],
-					[],
-					[1,2]
-				],
+                    [2, 3],
+                    [3],
+                    [],
+                    [],
+                    [],
+                    [0, 1, 2]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -458,25 +459,24 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[0,2],
-					[],
-					[2],
-					[],
-					[0,1]
-				]
+                    [],
+                    [0, 2],
+                    [0],
+                    [],
+                    [],
+                    [0, 1]
+                ]
             },
             "variables": []
         },
         "tutorial5h": {
             "sign": [
-				"Los grimorios, los hechizos",
-				"memorizados, los pergaminos",
-				"y los bastones mágicos",
-				"otorgan diversas formas",
-				"para que lanzadores de",
-				"hechizos logren sobrevivir",
-				"y conquistar la mazmorra."
+                "Grimorios, hechizos",
+                "memorizados, pergaminos",
+                "y bastones mágicos dan",
+                "a quienes usan magia",
+                "formas de sobrevivir",
+                "y conquistar la mazmorra."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -487,11 +487,11 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[2]
-				]
+                    [],
+                    [],
+                    [],
+                    [1, 2, 3]
+                ]
             },
             "variables": []
         },
@@ -514,19 +514,23 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[0,1],
-					[0,1,3],
-					[1]					
-				],
+                    [],
+                    [0],
+                    [],
+                    [],
+                    [],
+                    [0, 1, 2],
+                    [0, 1, 3],
+                    [1]
+                ],
                 "word_highlights2": [
-					[0],
-					[1,2]
-				]
+                    [1],
+                    [0, 1],
+                    [],
+                    [],
+                    [],
+                    [2]
+                ]
             },
             "variables": [
 				{
@@ -560,19 +564,23 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[0,1],
-					[0,1,3],
-					[1]					
-				],
+                    [],
+                    [0],
+                    [],
+                    [],
+                    [],
+                    [0, 1, 2],
+                    [0, 1, 3],
+                    [1]
+                ],
                 "word_highlights2": [
-					[0],
-					[1,2]
-				]
+                    [1],
+                    [0, 1],
+                    [],
+                    [],
+                    [],
+                    [2]
+                ]
             },
             "variables": [
 				{
@@ -604,20 +612,20 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[0,3]
-					
-				],
+                    [],
+                    [],
+                    [1],
+                    [],
+                    [],
+                    [2, 3, 4, 5]
+                ],
                 "word_highlights2": [
-					[],
-					[0,2],
-					[],
-					[2,3]
-				]
+                    [],
+                    [1, 2],
+                    [0],
+                    [2],
+                    [0]
+                ]
             },
             "variables": [			
 				{
@@ -656,14 +664,15 @@
         },
         "tutorial5l": {
             "sign": [
-				"Algunos hechizos requieren",
-				"más INT o habilidad mágica",
-				"para memorizarlos.",
-				"",
-				"$ $",
-				"",
-				"Todavía puedes lanzar esos",
-				"hechizos equipando el libro."
+                "Algunos hechizos requieren",
+                "más INT o habilidad mágica",
+                "para memorizarlos.",
+                "",
+                "$ $",
+                "",
+                "Aun así, puedes lanzar",
+                "esos hechizos si",
+                "equipas el grimorio."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -673,24 +682,25 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[2]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0]
+                ],
                 "word_highlights2": [
-					[2],
-					[1],
-					[2],
-					[],
-					[],
-					[],
-					[3]
-				]
+                    [2],
+                    [1],
+                    [1],
+                    [],
+                    [],
+                    [],
+                    [3]
+                ]
             },
             "variables": [
 				{
@@ -709,14 +719,13 @@
         },
         "tutorial5m": {
             "sign": [
-				"Los hechizos memorizados",
-				"aparecen en tu lista de",
-				"magias, y pueden colocarse",
-				"para su uso rápido en tu hotbar.",
-				"$",
-				"Accede rápidamente a la",
-				"lista con$ y prepara",
-				"el hechizo con$ ."
+                "Los hechizos memorizados",
+                "figuran en tu lista y pueden",
+                "ir en la barra rápida.",
+                "$",
+                "Abre rápidamente la",
+                "lista con$ y prepara",
+                "el hechizo con$ ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -726,20 +735,22 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[1],
-					[1,3],
-					[1,2]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0],
+                    [1, 3],
+                    [2]
+                ],
                 "word_highlights2": [
-					[0,1],
-					[2,3],
-					[],
-					[3]
-				],
+                    [1, 2],
+                    [3],
+                    [3, 4],
+                    [],
+                    [],
+                    [0]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -769,14 +780,14 @@
         },
         "tutorial5m_gamepad": {
             "sign": [
-				"Los hechizos memorizados",
-				"aparecen en tu lista de",
-				"magias, y pueden colocarse",
-				"para su uso rápido en tu hotbar.",
-				"$",
-				"Accede rápidamente a la",
-				"lista con$ y prepara",
-				"el hechizo con$ ."
+                "Los hechizos memorizados",
+                "figuran en tu lista de",
+                "hechizos y pueden ir",
+                "en la barra rápida.",
+                "$",
+                "Abre rápidamente la",
+                "lista con$ y prepara",
+                "el hechizo con$ ."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -786,21 +797,21 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[2],
-					[1,3],
-					[1,2]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0],
+                    [1, 3],
+                    [2]
+                ],
                 "word_highlights2": [
-					[0,1],
-					[2,3],
-					[],
-					[3]
-				],
+                    [1, 2],
+                    [3, 4],
+                    [0],
+                    [2, 3]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -952,7 +963,7 @@
             "sign": [
 				"$",
 				"Los pergaminos pueden contener",
-				"magias especiales que solo",
+				"hechizos especiales que solo",
 				"podrán ser utilizadas",
 				"una sola vez."
             ],
@@ -965,12 +976,12 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[0],
-					[],
-					[3],
-					[1]
-				]
+                    [],
+                    [1],
+                    [],
+                    [2],
+                    [0, 1, 2]
+                ]
             },
             "variables": [
 				{
@@ -1071,11 +1082,12 @@
         },		
         "tutorial5r": {
             "sign": [
-				"Necesitarás pensar rápidamente",
-				"para aprovechar al máximo",
-				"tu magia.",
-				"",
-				"Prepárate para el desafío."
+                "Necesitarás pensar",
+                "con rapidez para",
+                "aprovechar al máximo",
+                "tu magia.",
+                "",
+                "Asegúrate de prepararte."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1086,9 +1098,9 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[0,1]
-				]
+                    [1],
+                    [0, 1]
+                ]
             },
             "variables": []
         },
@@ -1136,13 +1148,13 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[1],
-					[1,2],
-					[],
-					[1],
-					[4,5]
-				]
+                    [],
+                    [2],
+                    [2, 3],
+                    [],
+                    [4],
+                    [1, 2, 4]
+                ]
             },
             "variables": [
 				{
@@ -1155,12 +1167,13 @@
         },
         "tutorial5u": {
             "sign": [
-				"Levitar",
-				"",
-				"$ ",
-				"",
-				"Permite atravesar líquidos",
-				"y pozos con total libertad."
+                "Levitar",
+                "",
+                "$ ",
+                "",
+                "Permite atravesar",
+                "líquidos y pozos",
+                "con total libertad."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1171,14 +1184,14 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[1,2],
-					[1,2]
-				]
+                    [],
+                    [],
+                    [],
+                    [],
+                    [1],
+                    [0, 1, 2],
+                    [0, 1, 2]
+                ]
             },
             "variables": [
 				{
@@ -1241,20 +1254,24 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[0],
-					[0,1]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0],
+                    [1]
+                ],
                 "word_highlights2": [
-					[0,1],
-					[0],
-					[2,3]				
-				],
+                    [1, 2],
+                    [0],
+                    [1, 2],
+                    [],
+                    [],
+                    [],
+                    [1, 2]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,

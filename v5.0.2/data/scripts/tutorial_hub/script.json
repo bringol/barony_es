@@ -63,8 +63,7 @@
         "tutorial_hubc": {
             "sign": [
                 "Armas",
-                "a",
-				"Distancia"
+                "a Distancia"
             ],
             "attributes": {
                 "font": "fonts/kongtext.ttf#16#2",
@@ -204,13 +203,13 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-				[],
-				[],
-				[],
-				[],
-				[],
-				[0,1,2,3,4,5]
-				]
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ]
             },
             "variables": []
         },
@@ -354,13 +353,13 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[0,1,2,3]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ],
                 "word_highlights2": []
             },
             "variables": []
@@ -387,12 +386,12 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[0,1,2,3]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ],
                 "word_highlights2": []
             },
             "variables": []
@@ -437,11 +436,11 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[0,1,2,3]
-				],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ],
                 "word_highlights2": []
             },
             "variables": []
@@ -468,12 +467,12 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[0,1,2,3,4]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ],
                 "word_highlights2": []
             },
             "variables": []
@@ -841,24 +840,24 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[1],
-					[],
-					[],
-					[0,1,2]
-				],
+                    [],
+                    [2],
+                    [],
+                    [],
+                    [0, 1]
+                ],
                 "word_highlights2": [
-				[],
-				[],
-				[],
-				[],
-				[],
-				[],
-				[],
-				[],
-				[],
-				[1,2]
-				]
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [1, 2, 3]
+                ]
             },
             "variables": []
         },				
@@ -866,11 +865,12 @@
             "sign": [
                 "Siempre puedes regresar",
                 "al Salón de Desafíos",
-                "para continuar las lecciones.",
+                "para seguir las lecciones.",
                 "",
-                "Pulsa$ y",
+                "Presiona$ y",
                 "[ Volver al Menú Principal ]",
-                "si deseas aventurarte."
+                "si deseas salir",
+                "de aventura."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -888,15 +888,15 @@
 				[1,2,3,4]
 				],
                 "word_highlights2": [
-					[3],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[0]
-				]
+                    [2],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [1]
+                ]
             },
             "variables": [
 				{

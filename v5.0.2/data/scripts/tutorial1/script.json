@@ -221,8 +221,11 @@
 				],
 				"word_highlights2": [
 					[],
-					[1,4],
-					[0,1]
+					[1, 4],
+					[0, 1],
+					[],
+					[],
+					[4]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
@@ -326,14 +329,18 @@
 				"inline_img_adjust_x": 0,
 				"word_highlights": [
 					[0],
-					[2]
+					[2],
+					[],
+					[],
+					[],
+					[0]
 				],
 				"word_highlights2": [
 					[],
 					[],
 					[],
 					[],
-					[4,5]
+					[3, 4]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
@@ -575,11 +582,11 @@
         },
         "tutorial1h": {
             "sign": [
-                "Arrastra objetos al hotbar",
+                "Arrastra objetos a la barra rápida",
 				"con$ , o pasa el cursor y",
 				"usa $-$ para asignar.",
 				"",
-				"Usa el hotbar con$-$,",
+				"Usa la barra rápida con$-$,",
 				"o resalta con$ $ y",
 				"luego pulsa$ ."
             ],
@@ -591,13 +598,13 @@
                 "top_padding": 0,
 				"inline_img_adjust_x": 0,
 				"word_highlights": [
-				[4],
-				[0,3],
-				[3],
-				[],
-				[0,1,2,3],
-				[1,2],
-				[2]
+					[4, 5],
+					[0],
+					[0, 3],
+					[],
+					[0, 2, 3, 4],
+					[1, 2],
+					[1]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
@@ -656,13 +663,13 @@
             "sign": [
                 "Desde el inventario,",
 				"agarra objetos con$ y muévelos",
-				"hacia el hotbar con$.",
+				"hacia la barra rápida con$.",
 				"Pulsa$ de nuevo para",
 				"colocar objetos en un espacio.",
 				"",
 				"Con el inventario cerrado,",
 				"mantén$$ o$ para acceder",
-				"$ y$ del hotbar." 
+				"$ y$ de la barra rápida."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -672,15 +679,15 @@
                 "top_padding": 0,
 				"inline_img_adjust_x": 0,
 				"word_highlights": [
-				[],
-				[0,1,2],
-				[],
-				[0],
-				[],
-				[],
-				[],
-				[0,3],
-				[2,3]
+					[],
+					[0, 1, 2],
+					[2, 3, 4],
+					[0],
+					[],
+					[],
+					[0],
+					[0, 3],
+					[3, 4]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
@@ -733,7 +740,7 @@
 				"escudo y una antorcha",
 				"al mismo tiempo.",
 				"",
-				"Usa tu hotbar para",
+				"Usa tu barra rápida para",
 				"cambiar rápidamente."
             ],
             "attributes": {
@@ -748,7 +755,7 @@
 					[],
 					[],
 					[],
-					[0,1,2]
+					[0, 1, 2, 3]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
@@ -768,7 +775,7 @@
 				"escudo y una antorcha",
 				"al mismo tiempo.",
 				"",
-				"Usa tu hotbar para",
+				"Usa tu barra rápida para",
 				"cambiar rápidamente."
             ],
             "attributes": {
@@ -783,7 +790,7 @@
 					[],
 					[],
 					[],
-					[0,1,2]
+					[0, 1, 2, 3]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
@@ -1284,18 +1291,18 @@
                 "top_padding": 0,
 				"inline_img_adjust_x": 0,
 				"word_highlights": [
+					[0],
 					[],
 					[],
-					[],
-					[0,2]
-],
+					[0, 2]
+				],
 				"word_highlights2": [
 					[0],
-					[1,3],
+					[1, 2, 3, 4, 5],
 					[],
+					[2],
 					[],
-					[],
-					[1,2]
+					[1, 2, 3]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
@@ -1411,11 +1418,11 @@
 				"inline_img_adjust_x": 0,
 				"word_highlights": [],
 				"word_highlights2": [
-					[2],
-					[0,1,2],
-					[0,1,2],
-					[0,2],
-					[2]
+					[0],
+					[0, 1, 2],
+					[0, 1, 2],
+					[],
+					[0, 1]
 				]
             },
             "variables": []
@@ -1446,14 +1453,14 @@
 				"inline_img_adjust_x": 0,
 				"word_highlights": [],
 				"word_highlights2": [
-					[0,1],
+					[0, 1],
 					[],
-					[1,2],
+					[1, 2],
 					[],
-					[0,1],
-					[1,2,3,4],
+					[0],
+					[0, 1, 2],
 					[],
-					[0,1]
+					[0, 1]
 				]
             },
             "variables": []

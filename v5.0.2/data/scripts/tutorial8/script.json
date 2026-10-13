@@ -156,15 +156,15 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[0,1,2],
-					[],
-					[1],
-					[],
-					[],
-					[2,3],
-					[2,3]
-				],
+                    [],
+                    [0, 1],
+                    [],
+                    [0],
+                    [],
+                    [],
+                    [2, 3],
+                    [0, 2]
+                ],
                 "word_highlights2": [
 					[1,2]
 				]
@@ -372,7 +372,7 @@
         "tutorial8g": {
             "sign": [
 				"Los alquimistas hábiles",
-				"tienen mejores chances",
+				"tienen mejores probabilidades",
 				"de duplicar con agua.",
 				"",
 				"El fracaso resultará en",
@@ -392,22 +392,22 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[0,1,2,3]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [1, 2, 3, 4]
+                ],
                 "word_highlights2": [
-					[0]
-				]
+                    [2]
+                ]
             },
             "variables": []
         },		
         "tutorial8h": {
             "sign": [
-				"Para ver las chances de duplicación,",
+				"Para ver la prob. de duplicar,",
 				"pasa el cursor sobre la casilla",
 				"inferior del Alambique una vez",
 				"que tu poción y el agua estén",
@@ -421,15 +421,15 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[1],
-					[],
-					[],
-					[0,1,2]
-				],
+                    [],
+                    [0, 1, 2],
+                    [],
+                    [],
+                    [0, 1, 2, 3]
+                ],
                 "word_highlights2": [
-					[1]
-				]
+                    [1, 2, 3]
+                ]
             },
             "variables": []
         },
@@ -522,15 +522,15 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[2,3]
-				],
+                    [3, 4]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[],
-					[3]
-				]
+                    [],
+                    [],
+                    [],
+                    [],
+                    [2]
+                ]
             },
             "variables": []
         },
@@ -566,15 +566,14 @@
         },
         "tutorial8m": {
             "sign": [
-				"Poción de Parálisis",
-				"",
-				"$ ",
-				"",
-				"Inflige Parálisis,",
-				"deteniendo el movimiento y",
-				"los ataques. Puedes beber",
-				"pociones mientras estás bajo",
-				"los efectos de parálisis."
+                "Poción de Parálisis",
+                "",
+                "$ ",
+                "",
+                "Inflige Parálisis:",
+                "impide moverse y atacar.",
+                "Aun así, puedes beber",
+                "pociones bajo su efecto."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -756,13 +755,14 @@
         },		
         "tutorial8q": {
             "sign": [
-				"Las pociones pueden ser",
-				"lanzadas o bebidas.",
-				"",
-				"Si identificas una poción,",
-				"la acción de su barra rápida",
-				"y la acción predeterminada de$",
-				"se ajustan a su efecto."
+                "Las pociones se pueden",
+                "lanzar o beber.",
+                "",
+                "Si identificas una",
+                "poción, la acción de",
+                "$ y de la barra rápida",
+                "se ajusta por defecto",
+                "al efecto de la poción."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -772,23 +772,24 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[0,2]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [3, 4],
+                    [2, 3]
+                ],
                 "word_highlights2": [
-					[],
-					[0,2],
-					[],
-					[],
-					[0],
-					[],
-					[],
-					[2]
-				]
+                    [],
+                    [0, 2],
+                    [],
+                    [1],
+                    [],
+                    [],
+                    [],
+                    [1]
+                ]
             },
             "variables": [
 				{
@@ -799,13 +800,14 @@
         },
 		"tutorial8q_gamepad": {
             "sign": [
-				"Las pociones pueden ser",
-				"lanzadas o bebidas.",
-				"",
-				"Si identificas una poción,",
-				"la acción de su barra rápida",
-				"y la acción predeterminada de$",
-				"se ajustan a su efecto."
+                "Las pociones se pueden",
+                "lanzar o beber.",
+                "",
+                "Si identificas una",
+                "poción, la acción de",
+                "$ y de la barra rápida",
+                "se ajusta por defecto",
+                "al efecto de la poción."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -815,23 +817,24 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[0,2]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [3, 4],
+                    [2, 3]
+                ],
                 "word_highlights2": [
-					[],
-					[0,2],
-					[],
-					[],
-					[0],
-					[],
-					[],
-					[2]
-				]
+                    [],
+                    [0, 2],
+                    [],
+                    [1],
+                    [],
+                    [],
+                    [],
+                    [1]
+                ]
             },
             "variables": [
 				{
@@ -871,8 +874,8 @@
 					[1]
 				],
                 "word_highlights2": [
-					[2]
-				]
+                    [1]
+                ]
             },
             "variables": [
 				{
@@ -918,8 +921,8 @@
 					[1]
 				],
                 "word_highlights2": [
-					[2]
-				]
+                    [1]
+                ]
             },
             "variables": [
 				{
@@ -960,10 +963,11 @@
         },
         "tutorial8t": {
             "sign": [
-				"Para empuñar pociones beneficiosas",
-				"o sin identificar, desde tu hotbar,",
-				"mantén$ mientras pulsas la tecla",
-				"asignada del hotbar."
+                "Para empuñar pociones",
+                "benéficas o sin identificar",
+                "desde la barra rápida,",
+                "mantén$ mientras pulsas",
+                "la tecla que tengan asignada."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -973,16 +977,16 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[1],
-					[],
-					[],
-					[0,1,2]
-				],
+                    [1],
+                    [],
+                    [],
+                    [0, 2]
+                ],
                 "word_highlights2": [
-				[],
-				[],
-				[0,1,2]
-				]
+                    [],
+                    [],
+                    [2, 3]
+                ]
             },
             "variables": [
 				{
@@ -995,11 +999,12 @@
         },
         "tutorial8t_gamepad": {
             "sign": [
-				"Para empuñar pociones beneficiosas",
-				"o sin identificar, pulsa$ en la",
-				"poción ubicada en tu inventario y ",
-				"selecciona [Empuñar] desde el menú",
-				"desplegable."
+                "Para empuñar pociones",
+                "benéficas o sin identificar,",
+                "presiona$ sobre la poción",
+                "dentro de tu inventario",
+                "y selecciona [Empuñar]",
+                "en el menú desplegable."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1009,12 +1014,12 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[1],
-					[],
-					[0],
-					[],
-					[1]
-				],
+                    [1],
+                    [],
+                    [0],
+                    [],
+                    [2]
+                ],
                 "word_highlights2": []
             },
             "variables": [
@@ -1285,16 +1290,16 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[2,3]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1, 2]
+                ],
                 "word_highlights2": [
 					[],
 					[],
@@ -1333,13 +1338,13 @@
 					[1]
 				],
                 "word_highlights2": [
-					[3],
-					[],
-					[],
-					[],
-					[],
-					[1,2]
-				],
+                    [3],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -1601,14 +1606,12 @@
         },		
         "tutorial8ag": {
             "sign": [
-				"$",
-				"Beber o mezclar",
-				"pociones puede",
-				"ocasionalmente dar",
-				"como resultado una",
-				"botella vacía,",
-				"que cualquier alquimista",
-				"puede reutilizar."
+                "$",
+                "Beber o mezclar pociones",
+                "puede dejar, en ocasiones,",
+                "una botella vacía",
+                "que los alquimistas",
+                "pueden reutilizar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1619,12 +1622,11 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[],
-					[1,2]
-				]
+                    [],
+                    [],
+                    [],
+                    [1, 2]
+                ]
             },
             "variables": [
 				{
@@ -1693,11 +1695,12 @@
         },
         "tutorial8ai": {
             "sign": [
-				"Las botellas de Alcohol",
-				"y Jugo de Frutas no",
-				"suelen curar tanto como",
-				"las Pociones de Curación,",
-				"pero son más comunes."
+                "Las botellas de Alcohol",
+                "y Jugo de Frutas no",
+                "suelen curar tanto como",
+                "las Pociones de Curación,",
+                "pero se encuentran",
+                "con más frecuencia."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1708,13 +1711,13 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[2],
-					[1,2],
-					[],
-					[],
-					[],
-					[0,1]
-				]
+                    [3],
+                    [1, 2, 3],
+                    [],
+                    [],
+                    [],
+                    [0, 1, 2]
+                ]
             },
             "variables": []
         },
@@ -1841,12 +1844,11 @@
         },
         "tutorial8al": {
             "sign": [
-				"$ ",
-				"Prepara una",
-				"Poción de Levitación",
-				"mezclando pociones de", 
-				"Curar Dolencia con",
-				"Invisibilidad."
+                "$ ",
+                "Prepara una",
+                "Poción de Levitación",
+                "mezclando Curar Dolencia",
+                "con Invisibilidad."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1889,12 +1891,13 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[],
-					[0,1,2],
-					[],
-					[2,4]
-				],
+                    [],
+                    [],
+                    [1, 2, 3],
+                    [],
+                    [],
+                    [0, 4]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -1932,12 +1935,13 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[],
-					[0,1,2],
-					[],
-					[2,4]
-				],
+                    [],
+                    [],
+                    [1, 2, 3],
+                    [],
+                    [],
+                    [0, 4]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -2081,13 +2085,14 @@
         },			
         "tutorial8an": {
             "sign": [
-				"PRECAUCIÓN:",
-				"Los monstruos son conocidos",
-				"por infestar las tuberías.",
-				"",
-				"Asegúrate de prepararte para",
-				"defenderte antes de intentar",
-				"beber o usar fuentes de agua."
+                "PRECAUCIÓN:",
+                "Hay monstruos que",
+                "infestan las tuberías.",
+                "",
+                "Prepárate para",
+                "defenderte antes",
+                "de beber o extraer agua",
+                "de una fuente."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -2103,20 +2108,19 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[0],
-					[],
-					[1]
-				],
+                    [0],
+                    [],
+                    [0]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[],
-					[3],
-					[],
-					[2],
-					[1]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0],
+                    [],
+                    [1, 3, 4]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,

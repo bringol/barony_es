@@ -46,14 +46,14 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[1,2],
-					[],
-					[0,1,2,3],
-					[],
-					[2],
-					[1],
-					[0,1]
-				],
+                    [1, 2, 3],
+                    [4],
+                    [0, 1],
+                    [],
+                    [2],
+                    [3, 4],
+                    [0, 1]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -87,13 +87,14 @@
         },
         "tutorial7c": {
             "sign": [
-				"Los Pergaminos de Invocación",
-				"pueden proporcionar aliados",
-				"en momentos críticos.",
-				"",
-				"Deberías guardar este",
-				"pergamino para la prueba",
-				"al final de este Desafío."
+                "Los Pergaminos de Invocación",
+                "te dan aliados en",
+                "momentos críticos.",
+                "",
+                "Guarda este",
+                "pergamino para",
+                "la prueba al final",
+                "de este desafío."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -104,15 +105,15 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[0,1,2],
-					[1,2],
-					[],
-					[2],
-					[3],
-					[2,3],
-					[1,2],
-					[0,1]
-				]
+                    [1, 2, 3],
+                    [2],
+                    [],
+                    [],
+                    [0, 1],
+                    [0],
+                    [0, 1, 2, 3],
+                    [0, 1, 2]
+                ]
             },
             "variables": []
         },
@@ -134,21 +135,21 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[0],
-					[0,1],
-					[],
-					[],
-					[3]
-				],
+                    [0],
+                    [1],
+                    [],
+                    [],
+                    [4]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[1,2,3,4],
-					[],
-					[],
-					[],
-					[1,2]
-				]
+                    [],
+                    [],
+                    [0, 1, 2],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ]
             },
             "variables": [
 				{
@@ -183,21 +184,21 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[0],
-					[0,1],
-					[],
-					[],
-					[3]
-				],
+                    [0],
+                    [1],
+                    [],
+                    [],
+                    [4]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[1,2,3,4],
-					[],
-					[],
-					[],
-					[1,2]
-				]
+                    [],
+                    [],
+                    [0, 1, 2],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ]
             },
             "variables": [
 				{
@@ -475,10 +476,10 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[2],
-					[],
-					[1]
-				],
+                    [3],
+                    [],
+                    [0]
+                ],
                 "word_highlights2": [
 					[],
 					[2,3]
@@ -493,14 +494,13 @@
         },
         "tutorial7j": {
             "sign": [
-				"Necesitarás la ayuda de",
-				"un aliado para abrir",
-				"esta puerta.",
-				"$",
-				"Ordena a tu aliado",
-				"a [Interactuar] con el",
-				"interruptor que no puedes",
-				"alcanzar."
+                "Necesitarás la ayuda",
+                "de un aliado para",
+                "abrir esta puerta.",
+                "$",
+                "Ordénale [Interactuar]",
+                "con el interruptor",
+                "fuera de tu alcance."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -510,22 +510,20 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[0,2],
-					[1]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ],
                 "word_highlights2": [
-					[],
-					[0,1,3],
-					[1],
-					[],
-					[],
-					[],
-					[0]
-				],
+                    [2],
+                    [0, 1, 2],
+                    [0, 1, 2],
+                    [],
+                    [],
+                    [2]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -547,14 +545,13 @@
         },
         "tutorial7j_gamepad": {
             "sign": [
-				"Necesitarás la ayuda de",
-				"un aliado para abrir",
-				"esta puerta.",
-				"$",
-				"Ordena a tu aliado",
-				"a [Interactuar] con el",
-				"interruptor que no puedes",
-				"alcanzar."
+                "Necesitarás la ayuda",
+                "de un aliado para",
+                "abrir esta puerta.",
+                "$",
+                "Ordénale [Interactuar]",
+                "con el interruptor",
+                "fuera de tu alcance."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -564,22 +561,20 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[0,2],
-					[1]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ],
                 "word_highlights2": [
-					[],
-					[0,1,3],
-					[1],
-					[],
-					[],
-					[],
-					[0]
-				],
+                    [2],
+                    [0, 1, 2],
+                    [0, 1, 2],
+                    [],
+                    [],
+                    [2]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -617,21 +612,20 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[0,1,2]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 2]
+                ],
                 "word_highlights2": [
-					[],
-					[1,2,3],
-					[],
-					[],
-					[],
-					[1],
-					[]
-				],
+                    [],
+                    [0, 1, 2, 3],
+                    [],
+                    [],
+                    [],
+                    [1]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -651,13 +645,14 @@
         },
         "tutorial7kb": {
             "sign": [
-				"La cantidad de seguidores",
-				"que puedes tener en total,",
-				"y los comandos que tendrás",
-				"disponibles son dependientes",
-				"de tu Habilidad de Liderazgo",
-				"",
-				"$ "
+                "La cantidad de seguidores",
+                "que puedes tener a la vez",
+                "y los comandos",
+                "que tienes disponibles",
+                "dependen de tu",
+                "habilidad de Liderazgo.",
+                "",
+                "$ "
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -668,13 +663,13 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[1,2,3],
-					[],
-					[2,3,4],
-					[],
-					[0],
-					[0,1]
-				]
+                    [1, 2, 3],
+                    [],
+                    [2],
+                    [],
+                    [0],
+                    [0, 1, 2]
+                ]
             },
             "variables": [
 				{
@@ -818,12 +813,13 @@
         },
         "tutorial7op": {
             "sign": [
-				"La Interacción Asistida de Puntería",
-				"te ayuda a interactuar con objetos",
-				"cercanos sin la necesidad de apuntar.",
-				"",
-				"Usa$para seleccionar las",
-				"múltiples acciones cercanas."
+                "La Interacción Asistida",
+                "de Puntería permite",
+                "interactuar con objetos",
+                "cercanos sin apuntar.",
+                "",
+                "Usa$ para elegir entre",
+                "las acciones cercanas."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -833,23 +829,22 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[0,1,2]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 2]
+                ],
                 "word_highlights2": [
-					[0,1,2],
-					[],
-					[0,1],
-					[],
-					[],
-					[],
-					[],
-					[1,2]
-				],
+                    [1, 2],
+                    [0, 1],
+                    [2],
+                    [0],
+                    [],
+                    [],
+                    [1, 2]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -1085,21 +1080,21 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[0],
-					[0],
-					[],
-					[],
-					[],
-					[],
-					[0,1,2]
-				],
+                    [0],
+                    [0],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 3]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[1,2],
-					[],
-					[3]
-				],
+                    [],
+                    [],
+                    [4, 5],
+                    [],
+                    [2]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -1138,22 +1133,22 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[4],
-					[2],
-					[],
-					[],
-					[0,1,2]
-				],
+                    [2],
+                    [3],
+                    [],
+                    [],
+                    [0, 1, 3]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[2,3],
-					[],
-					[],
-					[],
-					[0,1,2,3],
-					[2,3]
-				],
+                    [],
+                    [],
+                    [1, 2, 3],
+                    [],
+                    [],
+                    [],
+                    [1, 2, 3],
+                    [1, 2, 3]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -1190,23 +1185,22 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[4],
-					[2],
-					[],
-					[],
-					[0,1,2],
-					[1]
-				],
+                    [2],
+                    [3],
+                    [],
+                    [],
+                    [0, 1, 3]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[2,3],
-					[],
-					[],
-					[3],
-					[0,3],
-					[0,1,2,3]
-				],
+                    [],
+                    [],
+                    [1, 2, 3],
+                    [],
+                    [],
+                    [],
+                    [1, 2, 3],
+                    [1, 2, 3]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -1226,9 +1220,10 @@
         },		
         "tutorial7up": {
             "sign": [
-				"Esta reja solo se abrirá",
-				"cuando todos los enemigos",
-				"hayan sido derrotados."
+                "Esta reja solo",
+                "se abrirá cuando",
+                "derrotes a todos",
+                "los enemigos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1239,11 +1234,11 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[3],
-					[],
-					[0]
-				]
+                    [],
+                    [],
+                    [0, 1, 2],
+                    [0, 1]
+                ]
             },
             "variables": []
         }		
