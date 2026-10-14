@@ -1,805 +1,805 @@
 {
     "alembic": {
         "blurb": [
-            "The ALEMBIC allows an alchemist to extract",
-            "and combine two fluids together, usually",
-            "resulting in a different effect.",
+            "El ALAMBIQUE permite al alquimista extraer",
+            "y combinar dos líquidos, lo que suele",
+            "producir un efecto diferente.",
             "",
-            "Skilled brewers use it to make",
-            "more powerful concoctions."
+            "Los destiladores hábiles lo usan para",
+            "crear brebajes más potentes."
         ]
     },
     "arbalest": {
         "blurb": [
-            "The arbalest is a specialized crossbow.",
-            "While it behaves similarly to its smaller",
-            "counterpart, it is slow to rearm, has a",
-            "short range, and massive recoil.",
+            "La arbalesta es una ballesta especializada.",
+            "Funciona como su versión más pequeña,",
+            "pero tarda en recargarse, tiene poco",
+            "alcance y un retroceso enorme.",
             "",
-            "A fine tradeoff for its great strength."
+            "Un precio justo por su gran potencia."
         ]
     },
     "axes": {
         "blurb": [
-            "What they lack in elegance, AXES make",
-            "up for by delivering blows that take the",
-            "enemy's breath away.",
-            "Ideal against lightly armored foes,",
-            "the heavy blade always bites, even",
-            "against heavily armored targets."
+            "Las HACHAS compensan su falta de elegancia",
+            "con golpes que dejan al enemigo",
+            "sin aliento.",
+            "Ideales contra enemigos poco protegidos,",
+            "su hoja pesada siempre hiere, incluso",
+            "si el objetivo lleva mucha armadura."
         ]
     },
     "backpacks": {
         "blurb": [
-            "Elder adventurers usually recommend",
-            "against hoarding items, as death catches",
-            "up quickly to those who move slowly.",
+            "Los aventureros veteranos desaconsejan",
+            "acumular objetos, pues la muerte alcanza",
+            "pronto a quienes se mueven despacio.",
             "",
-            "Some professions insist that they simply",
-            "need BACKPACKS for extra storage."
+            "Algunas profesiones insisten en que",
+            "necesitan MOCHILAS para llevar más cosas."
         ]
     },
     "beartrap": {
         "blurb": [
-            "A cruel and somewhat crude device,",
-            "the beartrap snaps shut on the legs of",
-            "enemies, dealing a vicious bite.",
-            "Most are also snared by the trap,",
-            "opening them to attack until",
-            "the jaws release."
+            "Un mecanismo cruel y algo tosco, la trampa",
+            "de mandíbula se cierra sobre las piernas",
+            "del enemigo con una feroz mordida.",
+            "Además, suele inmovilizar a la víctima,",
+            "dejándola expuesta a ataques hasta",
+            "que las mandíbulas la sueltan."
         ]
     },
     "blood vials": {
         "blurb": [
-            "With the proper technique, BLOOD can be",
-            "stolen from victims before being soiled",
-            "by the filthy dungeon floors.",
+            "Con la técnica adecuada, se puede extraer",
+            "SANGRE de las víctimas antes de que",
+            "el sucio piso de la mazmorra la contamine.",
             "",
-            "Only the accursed and damned",
-            "would have any use for it."
+            "Solo los condenados y malditos",
+            "le encontrarían alguna utilidad."
         ]
     },
     "boomerang": {
         "blurb": [
-            "Tales tell of a tribe that crafts",
-            "a weapon that always returns to its",
-            " owner when thrown.",
-            "Once battered and old, it is offered",
-            "to the firstborn. Those who restore",
-            "a BOOMERANG are said to be worthy."
+            "Se habla de una tribu que fabrica",
+            "un arma que siempre vuelve a las manos",
+            "de su dueño tras ser arrojada.",
+            "Cuando se desgasta, se entrega al",
+            "primogénito. Se dice que quien restaura",
+            "un BÚMERAN demuestra su valía."
         ]
     },
     "booze": {
         "blurb": [
-            "Potent booze can lift the spirits a",
-            "little and offer strength of confidence.",
-            "However sloppy aim, dull wit, and",
-            "a weak stomach may follow.",
-            "One must decide if booze",
-            "is a vice or a treat."
+            "El alcohol fuerte levanta el ánimo",
+            "y da fuerza y confianza. Sin embargo,",
+            "puede empeorar la puntería, nublar",
+            "el juicio y revolver el estómago.",
+            "Cada quien decide si el alcohol",
+            "es un vicio o un gusto."
         ]
     },
     "bows": {
         "blurb": [
-            "Beloved by skirmishers and knaves alike,",
-            "bows of all varieties can fire arrows",
-            "to slay and pester enemies from afar.",
+            "Favoritos de hostigadores y maleantes,",
+            "los arcos de todo tipo disparan flechas",
+            "para matar y acosar enemigos a distancia.",
             "",
-            "Expert hunters and rogues",
-            "keep special ammunition on hand."
+            "Cazadores expertos y pícaros llevan",
+            "siempre munición especial a mano."
         ]
     },
     "chakrams and shurikens": {
         "blurb": [
-            "The fine material allows a sharper edge",
-            "to these weapons, and their spin allows",
-            "them to ricochet off walls.",
-            "Crafty adventurers can take out",
-            "enemies from around corners!",
-            "A thrower's dream."
+            "Su material de calidad da más filo",
+            "a estas armas, y su giro les permite",
+            "rebotar en las paredes.",
+            "¡Con ingenio, se puede acabar con",
+            "enemigos detrás de las esquinas!",
+            "El sueño de quien lanza armas."
         ]
     },
     "cheese and apples": {
         "blurb": [
-            "Basic MORSELS of simple food, a",
-            "hungry adventurer must eat several",
-            "to satiate themselves.",
-            "One might only brave spoiled food if",
-            "already desperately hungry, or perhaps",
-            "lacking a refined palate."
+            "Simples BOCADOS de comida básica.",
+            "Un aventurero hambriento debe comer",
+            "varios para saciarse.",
+            "Solo el hambre desesperada o un paladar",
+            "poco exigente podrían llevar a alguien",
+            "a arriesgarse con comida en mal estado."
         ]
     },
     "cloaks & clothing": {
         "blurb": [
-            "Mundane CLOTHING isn't as practical",
-            "as armor when faced with violence.",
+            "La VESTIMENTA común es menos práctica",
+            "que la armadura frente a la violencia.",
             "",
-            "But enchanted garments can convince",
-            "adventurers to adopt more lightweight",
-            "attire for its other benefits."
+            "Pero los beneficios de las prendas",
+            "encantadas pueden convencer a cualquiera",
+            "de optar por un atuendo más ligero."
         ]
     },
     "cream pie": {
         "blurb": [
-            "A dungeon delicacy, sometimes rigged",
-            "to splatter into a hungry adventurer's",
-            "face, blinding them for a time.",
+            "Un manjar de mazmorra, a veces preparado",
+            "para estallar en la cara de quien tenga",
+            "hambre y causar ceguera temporal.",
             "",
-            "If one is not peckish, a PIE could be thrown",
-            "into an enemy's face to befuddle them."
+            "Si no hay hambre, se puede arrojar un PASTEL",
+            "a la cara del enemigo para desconcertarlo."
         ]
     },
     "crossbow": {
         "blurb": [
-            "The crossbow is mechanically assisted,",
-            "allowing quick reloading and firing at",
-            "the pull of a trigger.",
-            "While it's lacking in range",
-            "compared to other bows, it can still",
-            "fire special ammunition."
+            "El mecanismo de la ballesta permite",
+            "recargar rápido y disparar",
+            "con solo apretar un gatillo.",
+            "Aunque tiene menos alcance",
+            "que otros arcos, también puede",
+            "disparar munición especial."
         ]
     },
     "crowns & headdresses": {
         "blurb": [
-            "Rare adornments, reserved for the",
-            "politically or magically attuned.",
+            "Adornos raros, reservados para quienes",
+            "se dedican a la política o la magia.",
             "",
-            "While seemingly symbolic in nature,",
-            "powerful symbols can make",
-            "a powerful impact."
+            "Aunque parecen meramente simbólicos,",
+            "los símbolos poderosos pueden",
+            "tener un gran impacto."
         ]
     },
     "crystal ammo": {
         "blurb": [
-            "When you're looking for the finest,",
-            "sharpest, and most lethal serrated",
-            "barbs to harm any enemy, you can't",
-            "do better than CRYSTAL AMMO.",
+            "Si buscas las puntas dentadas",
+            "más finas, afiladas y letales",
+            "para herir a cualquier enemigo, nada",
+            "supera a las FLECHAS DE CRISTAL.",
             "",
-            "An uncomplicated, superior missile."
+            "Un proyectil superior y sin complicaciones."
         ]
     },
     "crystal armor": {
         "blurb": [
-            "CRYSTAL so rare would normally never be",
-            "used as protective armor, especially",
-            "given its fragility.",
+            "Un CRISTAL tan raro no suele usarse",
+            "para fabricar armaduras, sobre todo",
+            "por su fragilidad.",
             "",
-            "Only an incredible bounty of magical",
-            "crystal would justify using it this way."
+            "Solo una abundancia increíble de cristal",
+            "mágico justificaría darle este uso."
         ]
     },
     "crystal shard": {
         "blurb": [
-            "While CRYSTAL SHARDS are dimmer than",
-            "torches, their light is only visible to the",
-            "wielder, and they never burn out.",
+            "Los FRAGMENTOS DE CRISTAL alumbran menos",
+            "que las antorchas, pero su luz solo es",
+            "visible para quien los lleva y no se apagan.",
             "",
-            "However they are fragile, and using them",
-            "to block will cause them to shatter quickly."
+            "Sin embargo, son frágiles y se rompen",
+            "rápido si se usan para bloquear."
         ]
     },
     "death box": {
         "blurb": [
-            "A locker containing all the worldly",
-            "possessions of a dead adventurer.",
+            "Una caja que guarda todas las posesiones",
+            "de un aventurero fallecido.",
             "",
-            "Carrying it slows the carrier by 25%.",
-            "Once broken open, all the contents",
-            "immediately spill out."
+            "Llevarla reduce la velocidad un 25%.",
+            "Al romperla para abrirla, todo su",
+            "contenido se derrama de inmediato."
         ]
     },
     "defensive potions": {
         "blurb": [
-            "DEFENSIVE POTIONS provide a generally",
-            "beneficial effect to those who drink them.",
+            "Las POCIONES DEFENSIVAS suelen tener",
+            "un efecto beneficioso para quien las bebe.",
             "",
-            "When allies are in need, chuck a",
-            "helpful bottle at their face!"
+            "¡Si tus aliados necesitan ayuda,",
+            "lánzales una botella útil a la cara!"
         ]
     },
     "djinnis brace": {
         "blurb": [
-            "A traveler once found a lamp of wishes,",
-            "occupied by a furious Djinni.",
+            "Un viajero encontró una lámpara de deseos",
+            "habitada por un Genio furioso.",
             "",
-            "The traveler tried to free the Djinni",
-            "but its shackles were invulnerable.",
-            "Only a wish could grant its freedom."
+            "El viajero intentó liberar al Genio,",
+            "pero sus grilletes eran invulnerables.",
+            "Solo un deseo podía darle la libertad."
         ]
     },
     "dragons mail": {
         "blurb": [
-            "Legend tells of a rivalry between a",
-            "dragon and the traveler of myth. As they",
-            "competed for fame, they became friends.",
+            "La leyenda cuenta la rivalidad entre un",
+            "dragón y el viajero mítico. Al competir",
+            "por la fama, se hicieron amigos.",
             "",
-            "When the dragon later died, it",
-            "offered its scales to the traveler."
+            "Cuando el dragón murió tiempo después,",
+            "ofreció sus escamas al viajero."
         ]
     },
     "dummybot": {
         "blurb": [
-            "Originally devised as a portable and",
-            "durable training companion, DUMMYBOTS",
-            "have been magically attuned to irritate",
-            "and keep the attention of foes.",
-            "While distracted, adventurers can",
-            "can flank with less risk."
+            "Los TÍTERES se crearon para entrenar,",
+            "como compañeros portátiles y resistentes.",
+            "Luego, se les infundió magia para irritar",
+            "y mantener la atención del enemigo.",
+            "Con el enemigo distraído, se puede",
+            "flanquear con menos riesgo."
         ]
     },
     "dyrnwyn": {
         "blurb": [
-            "Legend tells of a sword that served",
-            "high-born citizens with noble quests,",
-            "offering fire and divine retribution.",
+            "La leyenda habla de una espada que servía",
+            "a personas de alta cuna en nobles gestas,",
+            "brindándoles fuego y castigo divino.",
             "",
-            "Age and mixed purposes may have dulled",
-            "its blade, but it can be restored."
+            "Quizá el tiempo y fines dispares mermaron",
+            "su filo, pero aún puede restaurarse."
         ]
     },
     "empty bottle": {
         "blurb": [
-            "These brittle vessels are best",
-            "used to collect the contents of",
-            "fountains and water pumps.",
+            "Estos frágiles recipientes son ideales",
+            "para recoger el contenido de fuentes",
+            "y bombas de agua.",
             "",
-            "A budding brewer needs all the potable",
-            "liquid they can get to experiment with."
+            "Un destilador novel necesita todo líquido",
+            "potable que consiga para experimentar."
         ]
     },
     "face accessories": {
         "blurb": [
-            "Adventurers may complement their role",
-            "with the right piece of eyewear, or by",
-            "holding something in their mouth.",
+            "Los aventureros complementan su oficio",
+            "con el accesorio ocular adecuado o con",
+            "algún objeto en la boca.",
             "",
-            "These items confer a variety of benefits,",
-            "but for some, style is more important."
+            "Estos objetos otorgan diversos beneficios,",
+            "pero, para algunos, prima el estilo."
         ]
     },
     "fire and hunting ammo": {
         "blurb": [
-            "Some ammo leaves a lasting impression.",
+            "Algunas flechas dejan una huella duradera.",
             "",
-            "FIRE AMMO lights up the room and sets",
-            "enemies ablaze, but the debilitating",
-            "HUNTING AMMO can devastate beasts",
-            "while slowing and poisoning them."
+            "Las FLECHAS INCENDIARIAS iluminan y prenden",
+            "fuego al enemigo. Las debilitantes",
+            "FLECHAS DE CACERÍA devastan a las bestias,",
+            "además de frenarlas y envenenarlas."
         ]
     },
     "fist weapons": {
         "blurb": [
-            "Perfect for those who fear the untimely",
-            "breakage of a weapon, fist weapons are",
-            "gauntlets that add a bit more",
-            "bite to each punch.",
-            "The well-trained can stun an",
-            "enemy with a surprise strike."
+            "Ideales para quienes temen que su arma",
+            "se rompa en mal momento, las armas de",
+            "puño son guanteletes que dan algo más",
+            "de potencia a cada puñetazo.",
+            "Con buen entrenamiento, un golpe sorpresa",
+            "puede aturdir a un enemigo."
         ]
     },
     "gungnir": {
         "blurb": [
-            "Legends say this spear was forged",
-            "for the gods so they may always",
-            "land perfect strikes.",
+            "Las leyendas dicen que esta lanza se forjó",
+            "para que los dioses siempre pudieran",
+            "asestar golpes perfectos.",
             "",
-            "The untrained are deadly with GUNGNIR.",
-            "This weapon is usually well-guarded."
+            "Con GUNGNIR, hasta un aprendiz es letal.",
+            "Esta arma suele estar bien custodiada."
         ]
     },
     "gyrobot": {
         "blurb": [
-            "Conceived first by tinkerers as a",
-            "simple companion toy, the GYROBOT'S",
-            "function has grown to include",
-            "many useful tasks.",
-            "A skilled tinkerer can command",
-            "their pet to assist in many ways."
+            "Los fabricantes idearon el GIROBOT",
+            "como un simple juguete de compañía,",
+            "pero sus funciones se ampliaron",
+            "para incluir muchas tareas útiles.",
+            "Un fabricante hábil puede ordenarle",
+            "a su mascota que lo ayude de varias formas."
         ]
     },
     "hats & hoods": {
         "blurb": [
-            "Many professions and groups use iconic",
-            "headwear that are practical and stylish.",
+            "Muchos oficios y grupos usan prendas",
+            "icónicas, prácticas y elegantes en la cabeza.",
             "",
-            "Perform and signal your role to others",
-            "by donning the perfect HAT or HOOD."
+            "Desempeña y muestra tu oficio con",
+            "el SOMBRERO o la CAPUCHA perfectos."
         ]
     },
     "iron armor": {
         "blurb": [
-            "While heavier than leather, it is twice",
-            "as effective in protecting the wearer.",
-            "One must be strong to move quickly in IRON.",
+            "Aunque pesa más que el cuero, protege",
+            "el doble a quien la lleva.",
+            "Moverse ágilmente con HIERRO exige fuerza.",
             "",
-            "Hamlet was originally known",
-            "for its rich iron mines."
+            "Hamlet destacó en sus inicios",
+            "por sus ricas minas de hierro."
         ]
     },
     "khryselakatos": {
         "blurb": [
-            "Favored by a legendary hunter,",
-            "KHRYSELAKATOS offers enchanted arrows",
-            "from its unbreaking string.",
+            "El arma favorita de un cazador legendario,",
+            "KHRYSELAKATOS dispara flechas encantadas",
+            "con su cuerda irrompible.",
             "",
-            "Myths tell of its owner who was",
-            "stripped of godhood and banished."
+            "Los mitos cuentan que su dueño perdió",
+            "su divinidad y fue desterrado."
         ]
     },
     "leather armor": {
         "blurb": [
-            "Lightweight, inexpensive, and common, most",
-            "adventurers would much rather wear",
-            "LEATHER than no armor at all.",
+            "Ligero, barato y común, el CUERO",
+            "es la opción preferida de casi todos",
+            "antes que no llevar armadura.",
             "",
-            "A full outfit of leather can prevent",
-            "substantial damage from weaker foes."
+            "Un equipo completo de cuero evita",
+            "mucho daño de enemigos más débiles."
         ]
     },
     "lockpick": {
         "blurb": [
-            "Those skilled in tinkering can use these",
-            "simple tools to unlock chests and doors,",
-            "disarm arrow traps, or adjust the",
-            "springs of tinkered traps.",
+            "Quienes saben fabricar pueden usar estas",
+            "herramientas para abrir cofres y puertas,",
+            "desarmar trampas de flechas o ajustar",
+            "los resortes de las trampas fabricadas.",
             "",
-            "Handy for dealing with dangerous devices."
+            "Útiles frente a mecanismos peligrosos."
         ]
     },
     "maces": {
         "blurb": [
-            "With a head designed to shatter and",
-            "crush rigid targets, MACES are reliable",
-            "weapons that destroy armor and can knock",
-            "the most armored enemies senseless.",
-            "In the right hands, enemies may not",
-            "get the chance to fight back."
+            "Con cabezas hechas para aplastar objetivos",
+            "rígidos, las MAZAS son armas fiables",
+            "que destrozan armaduras y aturden",
+            "hasta a los enemigos más acorazados.",
+            "En buenas manos, pueden impedir que",
+            "el enemigo llegue a contraatacar."
         ]
     },
     "mail & lore books": {
         "blurb": [
-            "While magic users may be disappointed",
-            "when they seek power within these mundane",
-            "pages, curious adventurers enjoy reading",
-            "the inked words for clues.",
+            "Quienes usan magia quizás se decepcionen",
+            "al buscar poder en estas páginas comunes,",
+            "pero los aventureros curiosos disfrutan",
+            "leyendo sus palabras en busca de pistas.",
             "",
-            "Paper also burns well when fed to a boiler."
+            "El papel también arde bien en una caldera."
         ]
     },
     "masks & visors": {
         "blurb": [
-            "Some adventurers use MASKS to conceal",
-            "or communicate their identity",
+            "Algunos aventureros usan MÁSCARAS",
+            "para ocultar o revelar su identidad.",
             "",
-            "For others, practical facewear provides",
-            "benefits that help fulfill their role."
+            "Para otros, los accesorios faciales ofrecen",
+            "beneficios útiles para su oficio."
         ]
     },
     "meat, fish, and bread": {
         "blurb": [
-            "Hearty portions, treasured by hungry",
-            "dungeon dwellers. If desperate for",
-            "food, one may be able to eat up",
-            "to two servings in and be satisfied,",
-            "being careful not to over-eat."
+            "Porciones abundantes, preciadas por los",
+            "habitantes hambrientos de la mazmorra.",
+            "Si el hambre apremia, dos porciones",
+            "pueden bastar para saciarse,",
+            "con cuidado de no comer de más."
         ]
     },
     "mining pick": {
         "blurb": [
-            "These handy tools easily chop through",
-            "the earth, making shortcuts and providing",
-            "access to hidden treasures.",
+            "Estas útiles herramientas abren paso",
+            "por la tierra con facilidad, creando",
+            "atajos y acceso a tesoros ocultos.",
             "",
-            "MINING PICKS break quickly but can make",
-            "all the difference when lost or trapped."
+            "Los PICOS se rompen rápido, pero ayudan",
+            "a hallar el camino o escapar de un encierro."
         ]
     },
     "mirrors": {
         "blurb": [
-            "While there's no proof that mirrors can",
-            "steal souls, they do appear to reflect both",
-            "mundane and magical realities.",
+            "No hay pruebas de que los espejos roben",
+            "almas, pero parecen reflejar tanto",
+            "las realidades comunes como las mágicas.",
             "",
-            "Some who gaze upon them learn more",
-            "about themselves than they'd expect."
+            "Algunos descubren más de sí mismos",
+            "al mirarlos de lo que esperaban."
         ]
     },
     "mystic orb": {
         "blurb": [
-            "An enigmatic sphere that teems",
-            "with magical power.",
-            "A proper pedestal would allow",
-            "its great power to be tapped, though",
-            "somebody is likely to pay dearly",
-            "for such a priceless artifact."
+            "Una esfera enigmática que rebosa",
+            "poder mágico.",
+            "Un pedestal adecuado permitiría",
+            "aprovechar su gran poder, aunque",
+            "es probable que alguien pague mucho",
+            "por un artefacto tan valioso."
         ]
     },
     "noisemaker": {
         "blurb": [
-            "The spring-powered mechanism uses a",
-            "crude but clever design to generate",
-            "fascinating noise that draws the",
-            "attention of nearby enemies.",
-            "Great for distracting foes and",
-            "luring them into an ambush."
+            "El mecanismo de resortes tiene un diseño",
+            "tosco pero ingenioso, que genera",
+            "un ruido fascinante para atraer",
+            "la atención de enemigos cercanos.",
+            "Ideal para distraer al enemigo y",
+            "atraerlo hacia una emboscada."
         ]
     },
     "offensive potions": {
         "blurb": [
-            "Many potions are useful for harming",
-            "foes, often with devastating effects,",
-            "also dealing damage when thrown.",
+            "Muchas pociones dañan al enemigo,",
+            "a menudo con efectos devastadores,",
+            "y también causan daño al arrojarlas.",
             "",
-            "Adventurers can drink OFFENSIVE POTIONS,",
-            "but it is usually done in ignorance."
+            "Se pueden beber POCIONES OFENSIVAS,",
+            "pero suele hacerse por desconocimiento."
         ]
     },
     "oracles treads": {
         "blurb": [
-            "A traveler of ancient myth is said",
-            "to have entered a realm of darkness",
-            "which concealed all evil.",
-            "Witnesses wrote of the traveler feeling",
-            "vibrations in the ground to seek danger,",
-            "quickly conquering the realm."
+            "Se dice que un viajero de mitos antiguos",
+            "entró en un reino de oscuridad",
+            "que ocultaba toda maldad.",
+            "Testigos escribieron que el viajero sentía",
+            "vibraciones en el suelo para hallar peligros,",
+            "conquistando pronto aquel reino."
         ]
     },
     "parashu": {
         "blurb": [
-            "Many may call their weapon PARASHU,",
-            "but one such eternal axe can be",
-            "restored to legendary lethality.",
+            "Muchos llaman PARASHU a su arma,",
+            "pero una de estas hachas eternas puede",
+            "recuperar su letalidad legendaria.",
             "",
-            "It was once a weapon of gods and",
-            "is now found in lowly places."
+            "Fue un arma de dioses y ahora",
+            "se encuentra en lugares humildes."
         ]
     },
     "polearms": {
         "blurb": [
-            "Polearms offer leverage and balance,",
-            "proving especially effective against",
-            "large and heavy beasts.",
+            "Las armas de asta ofrecen palanca",
+            "y equilibrio, y son especialmente",
+            "eficaces contra bestias grandes y pesadas.",
             "",
-            "In skilled hands, attacks with these",
-            "weapons can keep foes back."
+            "En manos hábiles, sus ataques pueden",
+            "mantener al enemigo a raya."
         ]
     },
     "rocks & gems": {
         "blurb": [
-            "All stones can be handy when you need",
-            "something to throw at a trap or enemy.",
+            "Toda piedra sirve cuando hace falta",
+            "arrojar algo a una trampa o un enemigo.",
             "",
-            "But precious gems are beloved by",
-            "shopkeepers and automatons alike,",
-            "or anyone tempted by greed."
+            "Pero las gemas preciosas atraen tanto",
+            "a comerciantes como a autómatas,",
+            "o a cualquiera tentado por la codicia."
         ]
     },
     "sentrybot and magic sentry": {
         "blurb": [
-            "Using arcane crystal to bestow",
-            "rudimentary intelligence, tinkerers",
-            "have outfitted tripods with",
-            "missile-slinging heads.",
-            "A sentry that is left alone to fire at",
-            "enemies can deal devastating damage."
+            "Con cristal arcano que otorga",
+            "una inteligencia rudimentaria,",
+            "los fabricantes han equipado trípodes",
+            "con cabezas que disparan proyectiles.",
+            "Un centinela que dispara sin interrupción",
+            "puede causar daños devastadores."
         ]
     },
     "sharur": {
         "blurb": [
-            "Legend tells of a wise one who traveled",
-            "from kingdom to kingdom offering advice.",
+            "La leyenda habla de un sabio que viajaba",
+            "de reino en reino ofreciendo consejos.",
             "",
-            "For a time, the kingdom would be",
-            "guaranteed to prosper, but the",
-            "advisor would always be exiled."
+            "Por un tiempo, el reino tenía",
+            "la prosperidad asegurada, pero el",
+            "consejero siempre acababa en el exilio."
         ]
     },
     "shields": {
         "blurb": [
-            "Shields provide passive armor to",
-            "adventurers wielding them, but actively",
-            "blocking provides much more defense.",
+            "Los escudos aportan protección pasiva",
+            "a quien los empuña, pero bloquear",
+            "activamente ofrece mucha más defensa.",
             "",
-            "Some shields provide additional",
-            "benefits while blocking."
+            "Algunos escudos otorgan beneficios",
+            "adicionales al bloquear."
         ]
     },
     "silver and piercing ammo": {
         "blurb": [
-            "Some ammo is the right choice",
-            "depending on the foe.",
+            "La elección de munición más adecuada",
+            "depende del enemigo.",
             "",
-            "PIERCING AMMO can penetrate the",
-            "strongest armor. Undead and demonic",
-            "enemies are more afraid of SILVER AMMO."
+            "Las FLECHAS PERFORANTES penetran hasta",
+            "la armadura más fuerte. No muertos y",
+            "demonios temen más a las FLECHAS DE PLATA."
         ]
     },
     "skeleton key": {
         "blurb": [
-            "A locksmith managed to devise this",
-            "style of key which allows its user to",
-            "operate mundane doors and chests.",
+            "Un cerrajero logró crear este tipo",
+            "de llave para que cualquiera pudiera",
+            "abrir puertas y cofres comunes.",
             "",
-            "While it can't do everything a",
-            "lockpick can, it requires no training."
+            "No puede hacer todo lo que hace",
+            "una ganzúa, pero no requiere práctica."
         ]
     },
     "slingshot": {
         "blurb": [
-            "The most basic of missile weapons,",
-            "slingshots may not seem like much.",
+            "Las hondas son las armas de proyectiles",
+            "más básicas y no parecen gran cosa.",
             "",
-            "But when one needs to fight at a distance,",
-            "one could do worse than flinging bullets",
-            "and running away."
+            "Pero, si hay que luchar a distancia,",
+            "lanzar balas y salir corriendo",
+            "no es una mala opción."
         ]
     },
     "sphinxs casque": {
         "blurb": [
-            "Legend tells of a traveler who met",
-            "a Sphinx with an impossible riddle.",
+            "La leyenda cuenta que un viajero encontró",
+            "una Esfinge con un acertijo imposible.",
             "",
-            "The traveler thought for a moment, and",
-            "responded with a question that the",
-            "Sphinx could not answer."
+            "El viajero pensó un momento",
+            "y respondió con una pregunta que",
+            "la Esfinge no pudo contestar."
         ]
     },
     "steel armor": {
         "blurb": [
-            "Stronger than iron, and only a little",
-            "heavier, one requires luck or wealth to",
-            "obtain and wear superior STEEL armor.",
+            "Más resistente que el hierro y apenas",
+            "más pesada, la superior armadura de ACERO",
+            "requiere suerte o riqueza para obtenerla.",
             "",
-            "The craft of STEEL is known to few smiths."
+            "Pocos herreros dominan el arte del ACERO."
         ]
     },
     "swift and springshot ammo": {
         "blurb": [
-            "Turning the enemy into a pincushion",
-            "before they can get close is a",
-            "priority for many archers.",
-            "Lightweight SWIFT AMMO is faster to load,",
-            "while SPRINGSHOT AMMO is armed by",
-            "mechanists for powerful knockback."
+            "Convertir al enemigo en un alfiletero",
+            "antes de que pueda acercarse es",
+            "prioritario para muchos arqueros.",
+            "Las ligeras FLECHAS VELOCES se cargan antes.",
+            "Los mecanicistas arman las FLECHAS DE",
+            "EMPUJE para repeler con gran fuerza."
         ]
     },
     "swords": {
         "blurb": [
-            "Deadly against soft targets, SWORDS are",
-            "ideal for one grisly task: cutting flesh.",
-            "Rigid, or tough hides may repel a slash,",
-            "but a masterful cut still draws blood."
+            "Las ESPADAS destacan en una tarea atroz:",
+            "cortar carne de objetivos vulnerables.",
+            "Las pieles duras pueden resistir un tajo,",
+            "pero un corte maestro siempre saca sangre."
         ]
     },
     "teleportation trap": {
         "blurb": [
-            "Like other tinkered traps, a lockpick",
-            "can make this ignore or detonate",
-            "on friendly targets.",
-            "But it's also configurable as a",
-            "TELEPORTATION destination, allowing",
-            "for controlled instant travel."
+            "Como en otras trampas fabricadas, una",
+            "ganzúa permite configurarla para ignorar",
+            "a aliados o activarse cuando pasan.",
+            "También se puede usar como destino",
+            "de TELETRANSPORTE, lo que permite",
+            "controlar los viajes instantáneos."
         ]
     },
     "tin and tin opener": {
         "blurb": [
-            "Tins hide away cooked, chopped vegetables",
-            "and meats of various kinds, offering an",
-            "invigorating and very filling meal.",
+            "Las latas guardan verduras picadas",
+            "y carnes de diversos tipos, ya cocidas,",
+            "para una comida nutritiva y muy saciante.",
             "",
-            "However, a tin opener is required, and",
-            "the grease inside can be a nuisance."
+            "Pero hace falta un abrelatas, y la grasa",
+            "de su interior puede ser molesta."
         ]
     },
     "tinkered traps": {
         "blurb": [
-            "TINKERED TRAPS can be deployed",
-            "on floors, walls, doors, and chests.",
-            "When disturbed, they detonate,",
-            "delivering their payload effect.",
-            "Many tinkerers rearm the spent",
-            "detonator to save a little scrap."
+            "Las TRAMPAS FABRICADAS se colocan",
+            "en pisos, paredes, puertas y cofres.",
+            "Al activarse, detonan y liberan",
+            "el efecto de su carga.",
+            "Muchos fabricantes rearman el detonador",
+            "usado para ahorrar algo de chatarra."
         ]
     },
     "tinkering kit": {
         "blurb": [
-            "The TINKERING KIT can break down",
-            "most gear into reusable parts.",
+            "El KIT DE FABRICACIÓN permite desarmar",
+            "casi todo equipo en piezas reutilizables.",
             "",
-            "A skilled tinkerer can recombine them",
-            "into useful machines, each more efficient",
-            "when made by more skilled hands."
+            "Un fabricante hábil puede combinarlas",
+            "para crear máquinas útiles, más eficaces",
+            "si las crean manos más expertas."
         ]
     },
     "tomahawks & daggers": {
         "blurb": [
-            "Weapons built especially for throwing,",
-            "these fly further and strike harder when",
-            "a bit more effort is put into each throw.",
+            "Estas armas, hechas para ser arrojadas,",
+            "llegan más lejos y golpean más fuerte",
+            "si se lanzan con algo más de esfuerzo.",
             "",
-            "Heavier than missile projectiles,",
-            "they also excel at penetrating armor."
+            "Pesan más que otros proyectiles,",
+            "por lo que penetran muy bien la armadura."
         ]
     },
     "tomalley": {
         "blurb": [
-            "TOMALLEY, not to be confused with",
-            "a stuffed cornmeal snack, is a sludge",
-            "that serves as an invertebrate's liver.",
-            "Dungeon bugs often possess a small",
-            "amount of meat covered with",
-            "this edible substance."
+            "El HÍGADO DE LANGOSTA no es un tamal,",
+            "sino una pasta que cumple la función",
+            "del hígado de un invertebrado.",
+            "Los bichos de la mazmorra suelen tener",
+            "un poco de carne cubierta de",
+            "esta sustancia comestible."
         ]
     },
     "torch and lantern": {
         "blurb": [
-            "When wielded, these provide light.",
-            "Raise a TORCH or LANTERN to see a",
-            "little further, or block attacks!",
+            "Al empuñarlas, dan luz.",
+            "¡Alza una ANTORCHA o LINTERNA para ver",
+            "más lejos o bloquear ataques!",
             "",
-            "TORCHES & LANTERS slowly",
-            "degrade as they burn."
+            "Las ANTORCHAS Y LINTERNAS se desgastan",
+            "poco a poco mientras arden."
         ]
     },
     "towel": {
         "blurb": [
-            "While not seeming like much on its own,",
-            "in the right situation, a TOWEL can",
-            "be a lifesaver.",
-            "Towels make fine bandages",
-            "and clean up messes that might",
-            "ruin your next fight."
+            "Aunque por sí sola no parezca gran cosa,",
+            "una TOALLA puede salvarte la vida",
+            "en el momento adecuado.",
+            "Las toallas sirven de vendaje",
+            "y limpian sustancias que podrían",
+            "arruinar tu próximo combate."
         ]
     },
     "water": {
         "blurb": [
-            "Fresh, clean WATER is a luxury",
-            "in the dungeons. It can satisfy an empty",
-            "stomach for a little while, and the brewer's",
-            "supply depends upon it.",
-            "It's also handy for washing",
-            "away certain magic effects."
+            "El AGUA limpia y fresca es un lujo",
+            "en las mazmorras. Puede calmar el hambre",
+            "por un rato, y de ella dependen",
+            "las reservas del destilador.",
+            "También sirve para eliminar",
+            "ciertos efectos mágicos."
         ]
     },
     "whip": {
         "blurb": [
-            "The specialty weapon of the Punisher,",
-            "skilled users can grasp weapons from",
-            "unwary hands with the whip.",
+            "El arma predilecta del Castigador.",
+            "Con destreza, el látigo arrebata armas",
+            "de manos desprevenidas.",
             "",
-            "While it is slower to strike, it can",
-            "lash beyond the reach of other weapons."
+            "Aunque golpea más lento, su alcance",
+            "supera al de otras armas."
         ]
     },
     "wraiths gown": {
         "blurb": [
-            "Seeking to master death, the traveler",
-            "of myth entered the Underworld.",
-            "There resided a spirit who longed for life.",
+            "En busca de dominar la muerte, el viajero",
+            "mítico se adentró en el Inframundo.",
+            "Allí moraba un espíritu que ansiaba vivir.",
             "",
-            "The traveler carried the spirit out,",
-            "but only its clothes crossed over."
+            "El viajero llevó al espíritu al exterior,",
+            "pero solo sus ropas lograron cruzar."
         ]
     },
     "quilted armor": {
         "blurb": [
-            "While often used for padding underneath",
-            "metal armors, tightly stitched layers",
-            "of fine cloth make for good protection",
-            "on their own.",
-            "Stacks of fabric can reduce the",
-            "penetration of arrows and spearheads."
+            "Aunque suelen usarse bajo armaduras",
+            "de metal como acolchado, las capas de",
+            "tela fina bien cosidas ofrecen buena",
+            "protección por sí solas.",
+            "Las capas de tela reducen la penetración",
+            "de flechas y puntas de lanza."
         ]
     },
     "chain armor": {
         "blurb": [
-            "Fashioned by the finest smiths, chain armor",
-            "is a rare commodity.",
-            "While its flexibility makes it less protective",
-            "than other metal armors, it is particularly",
-            "adept at deflecting the cutting edges of ",
-            "swords and axes."
+            "La cota de malla, hecha por los mejores",
+            "herreros, es un bien escaso.",
+            "Su flexibilidad hace que proteja menos",
+            "que otras armaduras de metal, pero es",
+            "especialmente eficaz para desviar los filos",
+            "de espadas y hachas."
         ]
     },
     "frypan": {
         "blurb": [
-            "Frontier cooks swear by this iron",
-            "cookware's indestructibility, so long",
-            "as the metal is treated properly!",
-            "A campfire is all that's needed for",
-            "this portable kitchen to function.",
-            "While unwieldy, it can be used as a shield!"
+            "¡Los cocineros de frontera aseguran que",
+            "este utensilio de hierro es indestructible",
+            "si se trata bien el metal!",
+            "Una fogata basta para hacer funcionar",
+            "esta cocina portátil.",
+            "¡Aunque es poco manejable, sirve de escudo!"
         ]
     },
     "rations": {
         "blurb": [
-            "Connoisseurs of the humble ration are",
-            "content not knowing what goes into",
-            "their ready-packed meals.",
+            "Los amantes de las humildes raciones",
+            "prefieren no saber qué contienen",
+            "sus comidas envasadas.",
 			"",
-            "A skilled cook can make them tastier,",
-            "even for the pickiest of palates."
+            "Un buen cocinero puede hacerlas sabrosas",
+            "hasta para los paladares más exigentes."
         ]
     },
     "sludge balls": {
         "blurb": [
-            "Despite being a byproduct of food,",
-            "SLUDGE BALLS have no nutritional value.",
+            "Las BOLAS DE DESECHOS vienen de la comida,",
+            "pero no tienen valor nutritivo.",
 			"",
-            "Resourceful adventurers use them",
-            "as thrown ammunition to humiliate and",
-            "debilitate their foes simultaneously."
+            "Los aventureros ingeniosos las usan",
+            "como munición arrojadiza para humillar",
+            "y debilitar al enemigo al mismo tiempo."
         ]
     },
     "keys": {
         "blurb": [
-            "While KEYS are typically found somewhere",
-            "near their matching lock, some rare",
-            "keys are hidden much more carefully.",
+            "Las LLAVES suelen hallarse cerca",
+            "de su cerradura, pero algunas llaves",
+            "raras están mucho mejor escondidas.",
             "",
-            "Those made from more precious metals",
-            "give access to more precious treasures."
+            "Las hechas de metales más preciosos",
+            "dan acceso a tesoros de mayor valor."
         ]
     },
     "flails": {
         "blurb": [
-            "Long-chain varieties of FLAIL are",
-            "rare, but the extra range provided is a",
-            "substantial advantage for a mace.",
-            "While whirling it overhead to build",
-            "momentum for a critical strike,",
-            "enemies face rapid light attacks."
+            "Los MANGUALES de cadena larga son",
+            "raros, pero su mayor alcance supone",
+            "una gran ventaja para una maza.",
+            "Al girarlos sobre la cabeza para ganar",
+            "impulso y asestar un golpe crítico,",
+            "los enemigos reciben golpes leves y rápidos."
         ]
     },
     "greatswords": {
         "blurb": [
-            "Larger blades like the claymore",
-            "are made of fine, sturdy steel,",
-            "whose weight can parry other attacks.",
-            "Their broad and heavy cutting blades",
-            "can be used to cleave through multiple",
-            "nearby foes with a critical strike."
+            "Las hojas grandes, como el mandoble,",
+            "son de acero fino y resistente,",
+            "y su peso permite desviar ataques.",
+            "Sus hojas anchas y pesadas pueden",
+            "herir a varios enemigos cercanos",
+            "con un golpe crítico."
         ]
     },
     "rapier": {
         "blurb": [
-            "In the hands of a dextrous fencer, the",
-            "nimble RAPIER can riposte when parrying,",
-            "allowing a talented swordsman to defeat",
-            "foes with a patient and consistent defense.",
-            "Their fine craftsmanship makes them an",
-            "exceptionally rare favorite of Bards."
+            "En manos de un esgrimista diestro, la ágil",
+            "ESPADA ROPERA contraataca al desviar,",
+            "permitiendo a un espadachín hábil vencer",
+            "con una defensa paciente y constante.",
+            "Su fina hechura la hace muy rara",
+            "y una de las favoritas de los Bardos."
         ]
     },
 	"duck": {
         "blurb": [
-            "Like many birds, DUCKS are territorial",
-			"and loyal to their partners for life. They'll",
-			"courageously pester deadly threats, and",
-			"are surprisingly deft at avoiding harm.",
-			"They may become distracted by fishing",
-			"opportunities."
+            "Como otras aves, los PATOS son territoriales",
+			"y fieles a su pareja de por vida.",
+			"Acosan con valor a amenazas mortales",
+			"y son muy hábiles para esquivar el daño.",
+			"A veces se distraen ante la oportunidad",
+			"de pescar."
         ]
     },
 	"bolas": {
 		"blurb": [
-			"Simple BOLAS are a favorite tool for",
-            "guerilla skirmishers, using weights at",
-            "the end of cord to make a projectile",
-            "with one job: Entangling its target.",
-            "While they deal little damage, victims",
-            "are very vulnerable while wrapped."
+			"Las sencillas BOLEADORAS son favoritas de",
+            "los guerrilleros: pesas en los extremos",
+            "de una cuerda forman un proyectil",
+            "con un solo fin: Enredar a su objetivo.",
+            "Aunque causan poco daño, sus víctimas",
+            "son muy vulnerables si quedan enredadas."
 		]
 	},
 	"shillelagh": {
         "blurb": [
-            "A knobby length of wood is cured",
-            "according to folk tradition, making",
-            "SHILLELAGHS nearly unbreakable.",
-            "Hermits hollow and fill the clubbed",
-            "end with dense magically-reactive metal,",
-            "empowering strikes against hindered foes."
+            "Se cura un trozo de madera nudosa",
+            "según la tradición popular para crear",
+            "GARROTES casi irrompibles.",
+            "Los Ermitaños ahuecan la punta y la llenan",
+            "de metal denso que reacciona a la magia,",
+            "potenciando golpes a enemigos debilitados."
         ]
     }
 }

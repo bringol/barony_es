@@ -63,8 +63,7 @@
         "tutorial_hubc": {
             "sign": [
                 "Armas",
-                "a",
-				"Distancia"
+                "a Distancia"
             ],
             "attributes": {
                 "font": "fonts/kongtext.ttf#16#2",
@@ -113,7 +112,7 @@
         },
         "tutorial_hubf": {
             "sign": [
-                "Bienvenido",
+                "Te damos la bienvenida",
 				"al",
 				"Ala Maestra"
             ],
@@ -204,13 +203,13 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-				[],
-				[],
-				[],
-				[],
-				[],
-				[0,1,2,3,4,5]
-				]
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ]
             },
             "variables": []
         },
@@ -259,7 +258,7 @@
                 "cualquier Desafío como desees.",
                 "",
                 "Algunos héroes dominan",
-                "todas los Desafíos."
+                "todos los Desafíos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -275,11 +274,11 @@
         },
         "tutorial_hubn": {
             "sign": [
-                "Bienvenido al",
+                "Te damos la bienvenida al",
                 "Salón de Desafíos",
                 "",
-                "En este lugar serás",
-                "impartido y evaluado"
+                "Aquí aprenderás y pondrás",
+                "a prueba tus conocimientos."
             ],
             "attributes": {
                 "font": "fonts/kongtext.ttf#16#2",
@@ -354,13 +353,13 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[0,1,2,3]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ],
                 "word_highlights2": []
             },
             "variables": []
@@ -387,12 +386,12 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[0,1,2,3]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ],
                 "word_highlights2": []
             },
             "variables": []
@@ -437,11 +436,11 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[0,1,2,3]
-				],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ],
                 "word_highlights2": []
             },
             "variables": []
@@ -468,12 +467,12 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[0,1,2,3,4]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ],
                 "word_highlights2": []
             },
             "variables": []
@@ -679,13 +678,13 @@
         "tutorial_hubac": {
             "sign": [
                 "En las mazmorras, los aventureros",
-                "ganan puntos de experiencia (PX)",
+                "ganan puntos de experiencia (EXP)",
                 "por sus acciones.",
                 "",
-                "Después de ganar 100 PX, los héroes",
+                "Después de ganar 100 EXP, los héroes",
                 "suben de nivel, obteniendo mayores",
                 "estadísticas, Puntos de Vida (PV),",
-                "y puntos de magia (PV)."
+                "y puntos de magia (PM)."
             ],
             "attributes": {
                 "font": "fonts/pixel_maz_multiline.ttf#16#2",
@@ -825,7 +824,7 @@
                 "Al buscar aventuras, los graduados",
                 "pueden presumir un título de clase y",
                 "hacerse un nombre por sí mismos en",
-                "los Archivos de Aventuras."
+                "el Archivo de Aventuras."
             ],
             "attributes": {
                 "font": "fonts/pixel_maz_multiline.ttf#16#2",
@@ -841,24 +840,24 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[1],
-					[],
-					[],
-					[0,1,2]
-				],
+                    [],
+                    [2],
+                    [],
+                    [],
+                    [0, 1]
+                ],
                 "word_highlights2": [
-				[],
-				[],
-				[],
-				[],
-				[],
-				[],
-				[],
-				[],
-				[],
-				[1,2]
-				]
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [1, 2, 3]
+                ]
             },
             "variables": []
         },				
@@ -866,11 +865,12 @@
             "sign": [
                 "Siempre puedes regresar",
                 "al Salón de Desafíos",
-                "para continuar las lecciones.",
+                "para seguir las lecciones.",
                 "",
-                "Pulsa$ y",
+                "Presiona$ y",
                 "[ Volver al Menú Principal ]",
-                "si deseas aventurarte."
+                "si deseas salir",
+                "de aventura."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -888,15 +888,15 @@
 				[1,2,3,4]
 				],
                 "word_highlights2": [
-					[3],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[0]
-				]
+                    [2],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [1]
+                ]
             },
             "variables": [
 				{

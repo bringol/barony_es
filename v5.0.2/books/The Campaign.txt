@@ -7,39 +7,39 @@ Personajes:
 
 Capitán Peterson: Líder de la compañía.
 
-Sir Roderick: Patrocinador de La Encrucijada.
+Don Roderick: Patrocinador de La Encrucijada.
 
-Teniente Sedgwick: Planificador de la encrucijada.
+Teniente Sedgwick: Planificador de la compañía.
 
 Harry: Experto en armas. Muy gordo.
 
-Inky: Un Asqueroso e indecente ladrón sigiloso.
+Inky: Un asqueroso e indecente ladrón sigiloso.
 
 
 
 Acto I, Escena I:
 
-[Los cinco héroes se sientan alrededor de una mesa de madera formando un semicírculo que enfrenta a la audiencia. Inky se sienta en el extremo izquierdo; Sir Roderick a su izquierda; Peterson en el centro; Sedwick a su derecha; y Harry en el extremo derecho.]
+[Los cinco héroes se sientan alrededor de una mesa de madera formando un semicírculo que enfrenta a la audiencia. Inky se sienta en el extremo izquierdo; Don Roderick a su izquierda; Peterson en el centro; Sedgwick a su izquierda; y Harry en el extremo derecho.]
 
-Peterson: Buenas noches, caballeros. Asumo que saben por qué estamos reunídos aquí esta noche.
+Peterson: Buenas noches, caballeros. Asumo que saben por qué estamos reunidos aquí esta noche.
 
-Harry: El folleto sobre la comida prometida.
+Harry: El folleto prometía comida.
 
-Peterson: Eso vendrá después. Por el momento debemos enfocarnos en la tarea. La madre de Sir Roderick, nuestra querida Lady Lyndon, fue capturada hace una semana por un atemorizante dragón. Como se trata de la recientemente creada Compañía de Personas Desaparecidas y en Peligro de Extinción, depende de nosotros rescatarla.
+Peterson: Eso vendrá después. Por el momento debemos enfocarnos en la tarea. La madre de Don Roderick, nuestra querida Lady Lyndon, fue capturada hace una semana por un atemorizante dragón. Como miembros de la recién formada Compañía de Rescate de Personas Desaparecidas y en Peligro, nos corresponde rescatarla.
 
 Harry: ¿Qué hay para nosotros?
 
-Peterson: Sir Roderick es un noble. Estará financiando la operación entera, y nos pagará a todos una vez que el trabajo haya sido finalizado satisfactoriamente.
+Peterson: Don Roderick es un noble. Estará financiando la operación entera, y nos pagará a todos una vez que el trabajo haya sido finalizado satisfactoriamente.
 
-Harry: Cada vez que estuve involucrado en un trabajo, fui pagado por adelantado.
+Harry: Cada vez que estuve involucrado en un trabajo, me pagaron y me dieron de comer por adelantado.
 
 Roderick: No te daré un centavo hasta que el trabajo esté terminado
 
-[Harry erupta ruidosamente.]
+[Harry eructa ruidosamente.]
 
 Roderick: ¡Gordo asqueroso! ¿Qué se supone que significa eso?
 
-Harry: Le aseguro a su majestad emití un simple eructo.
+Harry: Le aseguro a su señoría que solo emití un eructo sin significado alguno.
 
 Peterson: ¡Silencio ustedes dos! Escucharemos el informe del Teniente Sedgwick sobre los suministros de la compañía ¿Cuál es el informe, Teniente?
 
@@ -55,11 +55,21 @@ Roderick: Aunque tuviésemos soga, dudo que seas capaz de trepar.
 
 Peterson: ¡Silencio, todos! ¿Sedgwick, realmente no quedó ninguna soga?
 
-[Inky comienza a ponerse inquieto cerca de Sir Roderick]
+[Inky comienza a ponerse inquieto cerca de Don Roderick]
 
-Sedgwick: No puedo explicarlo, pero si, ya no hay más soga. Quizás es culpa de las ratas.
+Sedgwick: No puedo explicarlo, pero sí, ya no hay más soga. Quizás es culpa de las ratas.
 
-Peterson: ¿Entonces cómo esperas que nos adentremos a la guarida de la bestia sin sogas?
+Peterson: ¿Entonces cómo esperas que subamos a la guarida de la bestia sin sogas?
+
+Roderick: ¡¿Capitán, no les dio órdenes a los miembros de su equipo antes de esta reunión?!
+
+Sedgwick: Oh, Peterson nos da buenas sugerencias de vez en cuando, pero...
+
+Peterson: ¡¿Sugerencias?! ¡Soy su líder y mis órdenes deben respetarse! No voy a permitir...
+
+Roderick: ¡Cualquier tonto puede reclutar un equipo, pero un verdadero líder se gana el respeto, capitán! ¿Me equivoqué al juzgarlo?
+
+Harry: Podría ordenarme comer, capitán. Ya lo hizo antes y le obedecí. Sí, señor.
 
 [Inky deja de estar inquieto]
 
@@ -69,43 +79,45 @@ Harry: Bueno, no me sorprende. Después de todo no tenías planeado pagarnos.
 
 Roderick: ¡Bufón egoísta! Has insultado mi dignidad.
 
-[Peterson entierra las manos en su cara de la frustración]
+[Peterson oculta la cara entre las manos, frustrado]
 
 Peterson: No tenemos un plan, mucho menos un equipo para llevarlo a cabo.
 
 Harry: No veo por qué molestarnos en hacerlo, a esta altura Lady Lyndon es demasiado anciana para pedir un rescate.
 
-[Sir Roderick se para y desenfunda su espada]
+[Don Roderick se para y desenfunda su espada]
 
 Roderick: ¡Maldito bruto! Este fue el colmo ¡Tendré tu cabeza!
 
-Sedgwick: Sir Roderick, por favor...
+Sedgwick: Don Roderick, por favor...
 
 [Harry se para lentamente de su asiento]
 
 Harry: Ignóralo Sedgwick, tan solo demorará un momento.
 
-[Harry y Roderick se van. Una batalla comienza destrás del escenario. Mientras tanto, el diálogo continúa.]
+Peterson: ¡Te lo ordeno, Harry, vuelve aquí y detén esta violencia!
+
+[Harry y Roderick se van. Una batalla comienza detrás del escenario. Mientras tanto, el diálogo continúa.]
 
 Inky: ¿Exactamente qué tan anciana es Lady Lyndon?
 
-Peterson: ¿Por qué habría de importar?
+Peterson: ¿Qué importa? No podría convencerte de equipar una espada nueva aunque fuera el doble de buena que la tuya, mucho menos organizar un rescate con ustedes.
 
-Inky: Tu sabes, esperaba que ella siga siendo algo atractiva. 
+Inky: Tú sabes, esperaba que ella siga siendo algo atractiva. 
 
-[Repentinamente, se oye un grito detrás del escenario y el sonido de combate cesa. Harry vuelve con la cabeza de Sir Roderick en su mano izquierda]
+[Repentinamente, se oye un grito detrás del escenario y el sonido de combate cesa. Harry vuelve con la cabeza de Don Roderick en su mano izquierda]
 
 Peterson: No lo pued--¡Le cortaste la cabeza!
 
-Harry: Soy un experto en armas, no se qué esperabas que pase.
+Harry: Él me golpeó primero, capitán. Solo le di un golpecito de advertencia con el hacha. Hay que poner límites, señor.
 
 Peterson: Bueno, si te importara el dinero, sabrías que ahora definitivamente ¡no nos pagarán por el rescate!
 
-Sedgwick: Todo estará bien, Capitán. Aunque no nos paguen, todavía podemos agregar la misión a nuestro curriculum vitae.
+Sedgwick: Todo estará bien, Capitán. Aunque no nos paguen, todavía puede agregar la misión a su currículum vitae.
 
-Inky: ¿Nuestra qué?
+Inky: ¿Su currícu... qué?
 
-Peterson: Nada, olvídalo. La está cancelada.
+Peterson: ¡No, no, no! ¡Olvídenlo! De todos modos acabarían matándose. La misión está cancelada.
 
 Inky: ¿Cancelada?
 
@@ -113,24 +125,24 @@ Sedgwick: ¡Cancelada!
 
 Harry: Cancelada.
 
-Peterson: Correcto, está cancelada. A partir de ahora la compañía ya no existe, porque ¡son todos inserdibles!
+Peterson: Correcto, está cancelada. A partir de ahora la compañía ya no existe, porque ¡son todos inservibles!
 
 [Peterson sale violentamente del escenario]
 
-Sedgwick: ¡Captain, espere! ¡Vuelva por favor!
+Sedgwick: ¡Capitán, espere! ¡Vuelva por favor!
 
-[Sedgwick sigue a Peterson detrás del escenario. Harry suspira lentamente. Hay una pausa. Inky comienza a contar el dinero del monedero que le robó a Sir Roderick]
+[Sedgwick sigue a Peterson detrás del escenario. Harry suspira lentamente. Hay una pausa. Inky comienza a contar el dinero del monedero que le robó a Don Roderick]
 
-Harry: Bueno, creo que iré a comer algo ¿Quieres venir?
+Harry: No tiene mucha paciencia para liderar, ¿verdad? Bueno, creo que iré a comer algo. ¿Quieres venir?
 
-Inky: Si, te acompañaré. Solo aguarda un momento.
+Inky: Sí, te acompañaré. Solo aguarda un momento.
 
 Harry: De acuerdo.
 
-[Harry se levanta de su asiento y lentamente se va del escenario. Mientras Harry se va, Inkt se para y guarda el monedoro para sí mismo. Finalmente decide seguir a Harry detrás del escenario]
+[Harry se levanta de su asiento y lentamente se va del escenario. Mientras Harry se va, Inky se levanta y lanza el monedero al aire para volver a atraparlo. Finalmente decide seguir a Harry detrás del escenario]
 
 
 
 Fin
 
-[*Nota del traductor: Pie es un referente al sistema imperial de medición, un Pie o Foot corresponde a 304.4 milímetros, o 12 pulgadas.]
+[*Nota del traductor: Pie es un referente al sistema imperial de medición, un Pie o Foot corresponde a 304,8 milímetros, o 12 pulgadas.]

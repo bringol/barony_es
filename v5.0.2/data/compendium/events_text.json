@@ -3,7 +3,7 @@
   "tags": [
     {
       "BLOCKED_ATTACKS": {
-        "default": "Ataques Completamente Bloqueados:",
+        "default": "Bloqueos Completos:",
 		"format": "%d Impactos"
       }
     },
@@ -265,7 +265,7 @@
     },
     {
       "RUNS_COLLECTED": {
-        "default": "Partidas Recopiladas:",
+        "default": "Veces Obtenido:",
 		"spells": "Hechizo Aprendido:",
 		"format": "%d Partidas"
       }
@@ -2311,79 +2311,79 @@
 		  "format": "%s (%d Victorias del Infierno)"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_SWORD": {
-		  "default": "Pericias de Espada Ganados:",
+		  "default": "Puntos ganados en Espadas:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_AXE": {
-		  "default": "Pericias de Hacha Ganados:",
+		  "default": "Puntos ganados en Hachas:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_POLEARM": {
-		  "default": "Pericias de Asta Ganados:",
+		  "default": "Puntos ganados en Armas de Asta:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_MACE": {
-		  "default": "Pericias de Maza Ganados:",
+		  "default": "Puntos ganados en Mazas:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_UNARMED": {
-		  "default": "Pericias de Desarme Ganados:",
+		  "default": "Puntos ganados en Desarmado:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_STEALTH": {
-		  "default": "Pericias de Sigilo Ganados:",
+		  "default": "Puntos ganados en Sigilo:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_BLOCKING": {
-		  "default": "Pericias de Bloqueo Ganados:",
+		  "default": "Puntos ganados en Bloqueo:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_RANGED": {
-		  "default": "Pericias de Distancia Ganados:",
+		  "default": "Puntos ganados en Alcance:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_MAGIC": {
-		  "default": "Pericias de Magia Ganados:",
+		  "default": "Puntos ganados en Magia:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_CASTING": {
-		  "default": "Pericias de Canalizar Ganados:",
+		  "default": "Puntos ganados en Canalizar:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_SORCERY": {
-		  "default": "Pericias de Hechicería Ganados:",
+		  "default": "Puntos ganados en Hechicería:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_MYSTICISM": {
-		  "default": "Pericias de Misticismo Ganados:",
+		  "default": "Puntos ganados en Misticismo:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_THAUMATURGY": {
-		  "default": "Pericias de Taumaturgia Ganados:",
+		  "default": "Puntos ganados en Taumaturgia:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_APPRAISAL": {
-		  "default": "Pericias de Tradición Ganados:",
+		  "default": "Puntos ganados en Saber:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_SWIMMING": {
-		  "default": "Pericias de Natación Ganados:",
+		  "default": "Puntos ganados en Natación:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_LEADERSHIP": {
-		  "default": "Pericias de Liderazgo Ganados:",
+		  "default": "Puntos ganados en Liderazgo:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_TRADING": {
-		  "default": "Pericias de Comercio Ganados:",
+		  "default": "Puntos ganados en Comercio:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_ALCHEMY": {
-		  "default": "Pericias de Alquimia Ganados:",
+		  "default": "Puntos ganados en Alquimia:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_SKILL_TOTAL_LVLS_TINKERING": {
-		  "default": "Pericias de Bricolaje Ganados:",
+		  "default": "Puntos ganados en Fabricar:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_LEGEND_SKILL_MELEE_100": {
@@ -2448,7 +2448,7 @@
 		  "format": "%d Victorias del Infierno"
 	  },
 	  "CUSTOM_SKILLS_GAINED_FOR_CLASS": {
-		  "default": "Pericias Totales Ganadas:",
+		  "default": "Total de puntos de habilidad ganados:",
 		  "format": "%d Pts"
 	  },
 	  "CUSTOM_CLASS_PLAYTIME": {

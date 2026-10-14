@@ -47,12 +47,17 @@ En caso de encontrar errores/bugs/crashes, por favor, reportarlo en la sección 
 
 ## Instalación desde Steam
 - [Barony Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2707610137)
+- [Barony Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2707610137)
 
 <br>
 <br>
 <br>
 
 ### Agradecimientos
+* Turning Wheel LLC por Barony por su [lanzamiento Open-Source](https://github.com/TurningWheel/Barony) y su dehardcoding de textos para facilitar el proceso de traducción.
+* _LordDestroHD_, _Adrii_,  y su equipo por los adelantos en la traducción Pre v3.3.7.
+* _Hy!Shin_ y _FrankySniper_ por sus esfuerzos de traducción Post v3.3.7 
+* Al grupo de discord [Barony en Español](https://discord.gg/SqZTwQV) por su comunidad hispanohablante.
 * Turning Wheel LLC por Barony por su [lanzamiento Open-Source](https://github.com/TurningWheel/Barony) y su dehardcoding de textos para facilitar el proceso de traducción.
 * _LordDestroHD_, _Adrii_,  y su equipo por los adelantos en la traducción Pre v3.3.7.
 * _Hy!Shin_ y _FrankySniper_ por sus esfuerzos de traducción Post v3.3.7 

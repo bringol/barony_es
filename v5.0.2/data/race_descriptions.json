@@ -53,7 +53,7 @@
 				"- Vel. nado reducido en 50%",
 				"",
 				"Resistencias",
-				"- Magias",
+				"- Magia",
 				"- Hachas",
 				"- Alcance",
 				"- Espadas",
@@ -106,7 +106,7 @@
 				2,
 				0
 			],
-			"traits_active_if_polymorphed_out_of": [4, 5, 8],
+			"traits_active_if_polymorphed_out_of": [8, 9, 10],
 			"traits_active_if_polymorphed_into": [4, 5, 6, 7, 8, 9, 10],
 			"left_align": [
 				"",
@@ -114,7 +114,7 @@
 				"- Sangría, Levitar",
 				"Rasgos",
 				"- Usa PV cuando agota PM al",
-				"    lanzar y sostener magias",
+				"    lanzar y sostener hechizos",
 				"- Sustenta hambre sólo con",
 				"    Frascos de Sangre (FdS)",
 				"- Matar podría generar FdS",
@@ -122,7 +122,7 @@
 				"    Asesinatos generan FdS",
 				"",
 				"Resistencias",
-				"- Magias",
+				"- Magia",
 				"- Hachas",
 				"- Alcance",
 				"- Espadas",
@@ -205,7 +205,7 @@
 				"    Ebrios o Confundidos",
 				"",
 				"Resistencias",
-				"- Magias",
+				"- Magia",
 				"- Arm. de Asta",
 				"",
 				"Amistades Con",
@@ -271,7 +271,7 @@
 				"- Puede alistar otros Ebrios",
 				"- Come Latas sin Abrelatas",
 				"- Inmune: efectos de Grasa",
-				"- Chance de hallar pociones",
+				"- Prob. de hallar pociones",
 				"    al usar las fuentes",
 				"Resistencias",
 				"- Espadas",
@@ -297,7 +297,7 @@
 				"- Arm. de Asta",
 				"- Alcance",
 				"- Hachas",
-				"- Magias"
+				"- Magia"
 			]
 		},
 		"automaton": {
@@ -344,7 +344,7 @@
 				"- Reciclar",
 				"Rasgos",
 				"- Requiere Calor (KLR) para",
-				"    sobrevivir y usar magias",
+				"    sobrevivir y usar hechizos",
 				"- Regen. KLR con su caldera",
 				"    mediante gemas y papeles",
 				"- Se desequipa obj. malditos",
@@ -373,7 +373,7 @@
 				"",
 				"Debilidades",
 				"- Hachas",
-				"- Magias",
+				"- Magia",
 				"- Mazas"
 			]
 		},
@@ -409,7 +409,7 @@
 				"- +PM por Estrangulamiento",
 				"",
 				"Resistencias",
-				"- Magias",
+				"- Magia",
 				"- Arm. de Asta",
 				"",
 				"",
@@ -508,7 +508,7 @@
 				"- Aleteo, Brío, Rocío Ácido",
 				"Rasgos",
 				"- Requiere Energía (EN) para",
-				"    sobrevivir y lanzar magias",
+				"    sobrevivir y lanzar hechizos",
 				"- Recupera EN consumiendo",
 				"    comida y líquidos dulces",
 				"- Inmune: Veneno",
@@ -519,8 +519,8 @@
 				"- Desarmado",
 				"",
 				"Amistades Con",
-				"- Insectoides, Osgos, Escor-",
-				"    piones y Autómatas"
+				"- Insectoides, Escarabajos,",
+				"    Escorpiones y Autómatas"
 			],
 			"right_align": [
 				"",
@@ -555,7 +555,7 @@
 			"left_align": [
 				"",
 				"Rasgos",
-				"- Mayor chance de subir",
+				"- Mayor prob. de subir",
 				"   DES/INT al ganar nivel",
 				"- Inmune: Comida podrida",
 				"",
@@ -596,7 +596,7 @@
 			"left_align": [
 				"",
 				"Rasgos",
-				"- Mayor chance de subir",
+				"- Mayor prob. de subir",
 				"   PER/CON al ganar nivel",
 				"- Inmune: Comida podrida",
 				"",
@@ -609,8 +609,8 @@
 				"",
 				"",
 				"Amistades Con",
-				"- Arácnidos, Osgos, Escor-",
-				"  piones y Autómatas"
+				"- Arácnidos, Escarabajos,",
+				"    Escorpiones y Autómatas"
 			],
 			"right_align": [
 				"",
@@ -635,7 +635,7 @@
 			"left_align": [
 				"",
 				"Rasgos",
-				"- Mayor chance de subir",
+				"- Mayor prob. de subir",
 				"   PER/CON al ganar nivel",
 				"- Inmune: Comida podrida",
 				"",
@@ -648,8 +648,8 @@
 				"",
 				"",
 				"Amistades Con",
-				"- Osgos, Escarabajos, Escor-",
-				"  piones y Autómatas"
+				"- Cangrejos, Escarabajos,",
+				"    Escorpiones y Autómatas"
 			],
 			"right_align": [
 				"",
@@ -674,7 +674,7 @@
 			"left_align": [
 				"",
 				"Rasgos",
-				"- Mayor chance de subir",
+				"- Mayor prob. de subir",
 				"   FUE/CON al ganar nivel",
 				"- Inmune: Comida podrida",
 				"",
@@ -711,7 +711,7 @@
 			"left_align": [
 				"",
 				"Rasgos",
-				"- Mayor chance de subir",
+				"- Mayor prob. de subir",
 				"    INT/DES al ganar nivel",
 				"- Levitar",
 				"- Inmune: Comida podrida",
@@ -733,7 +733,7 @@
 				"",
 				"Debilidades",
 				"- Espadas",
-				"- Magias"
+				"- Magia"
 			]
 		},
 		"dryad": {
@@ -774,9 +774,9 @@
 				"- Brota follaje al subir de ni-",
 				"    vel sin equipo de cabeza,",
 				"    provee +PDR y +Regen. PM",
-				"- +%Crecim. por beber agua",
-				"    ;chance de mejoras breves",
-				"    por % y +5% evasión",
+				"- Agua: +% prob. de crecer;",
+				"    forma pequeña: +% prob.",
+				"    y +5% evasión",
 				"- 20% menos crec. de CAR",
 				"- Aceptado por Comerciantes",
 				"",
@@ -805,7 +805,7 @@
 				"Debilidades",
 				"- Espadas",
 				"- Hachas",
-				"- Magias",
+				"- Magia",
 				"- Fuego",
 				"",
 				""
@@ -846,16 +846,16 @@
 				"- Brota micelio al subir de ni-",
 				"    vel sin equipo de cabeza",
 				"    y provee defensa física",
-				"- +PM y % de +Crecim. por",
-				"    comida podrida; chance",
-				"    de mejoras breves por %",
+				"- Comida podrida: +PM y",
+				"    +% prob. de crecer; forma",
+				"    pequeña: +% prob.",
 				"- Inmune a Indigestión",
 				"- 20% menos crec. de DES",
 				"- Aceptado por Comerciantes",
 				"",
 				"Resistencias",
 				"- Mazas",
-				"- Magias",
+				"- Magia",
 				"",
 				"Amistades Con",
 				"- Micónidos y Humanos (Neut.)"
@@ -914,14 +914,14 @@
 			"traits_active_if_polymorphed_into": [4, 5, 6, 7, 8, 9, 10, 11, 12],
 			"left_align": [
 				"",
-				"Conjuros Innatos",
+				"Hechizos Innatos",
 				"- Aliento Ígneo",
 				"Rasgos",
 				"- Usa Fervor (FR) para",
-				"    magias, reg. hasta 50%",
+				"    hechizos, reg. hasta 50%",
 				"- Ganar EXP aumenta FR",
 				"- Se vuelve Radiante al",
-				"    Escupir Fuego a 75% FR",
+				"    usar Aliento Ígneo a 75% FR",
 				"- Forma Pétrea a 25% FR",
 				"- CAR mejora Formas y FR",
 				"- +35% más hambruna",
@@ -1003,7 +1003,7 @@
 				"",
 				"Resistencias",
 				"- Mazas",
-				"- Magias",
+				"- Magia",
 				"- Alcance",
 				"- Desarmado",
 				"- Arm. de Asta",
@@ -1095,7 +1095,7 @@
 				"",
 				"",
 				"Debilidades",
-				"- Magias",
+				"- Magia",
 				"- Alcance",
 				"",
 				"",

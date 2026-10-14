@@ -29,13 +29,15 @@
     "script_entries": {
         "tutorial10a": {
             "sign": [
-				"El enemigo en la siguiente",
-				"habitación es capaz de",
-				"envenenarte con sus ataques.",
-				"",
-				"Algunos aventureros llevan",
-				"antídotos a mano. Otros simplemente",
-				"lo soportan o evitan ser golpeados."
+                "El enemigo de la próxima",
+                "habitación puede",
+                "envenenarte con",
+                "sus ataques.",
+                "",
+                "Hay quienes llevan",
+                "antídotos a mano. Otros",
+                "soportan el veneno",
+                "o evitan los golpes."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -84,7 +86,7 @@
 				"Llevar los objetos que",
 				"encuentres de vuelta al",
 				"mercado puede aumentar",
-				"tus chances de éxito."
+				"tus probabilidades de éxito."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -95,10 +97,11 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[],
-					[1,2,3,4]
-				]
+                    [],
+                    [],
+                    [1, 2, 3],
+                    [0]
+                ]
             },
             "variables": [
 				{
@@ -111,14 +114,15 @@
         },
         "tutorial10c": {
             "sign": [
-				"Los comerciantes te tratarán",
-				"de manera diferente si estás",
-				"bajo los efectos de polimorfia.",
-				"",
-				"La mayoría de los monstruos se",
-				"comportan de manera muy",
-				"diferente si les arrojas una",
-				"poción de polimorfia."
+                "Los comerciantes te",
+                "tratarán de otra manera",
+                "si estás bajo los efectos",
+                "de polimorfia.",
+                "",
+                "La mayoría de monstruos",
+                "cambia mucho su conducta",
+                "si les arrojas una poción",
+                "de polimorfia."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -134,19 +138,20 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[1]
-				],
+                    [],
+                    [1, 2, 3]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[1],
-					[],
-					[1],
-					[],
-					[0,1,2,3]
-				],
+                    [],
+                    [],
+                    [],
+                    [1],
+                    [],
+                    [3],
+                    [],
+                    [2, 3, 4],
+                    [1]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -161,14 +166,14 @@
         },
         "tutorial10d": {
             "sign": [
-				"Sin importar la clase,",
-				"quienes se aventuren" ,
-				"deberán usar el ingenio",
-				"al lidiar con los objetos",
-				"",
-				"Comprar con astucia puede",
-				"ser la diferencia entre",
-				"la preparación y la muerte."
+                "Toda clase necesita",
+                "ingenio para aprovechar",
+                "los objetos.",
+                "",
+                "Comprar con astucia",
+                "puede decidir entre",
+                "tener lo necesario",
+                "o acabar muriendo."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -187,7 +192,7 @@
 				"Los comerciantes no",
 				"pagarán mucho por una",
 				"gema no tasada, ¡podría",
-				"ser un vidrio inserdible!",
+				"ser un vidrio sin valor!",
 				"",
 				"Usa un Pergamino de Identificar",
 				"cuando tu habilidad de tasación",
@@ -268,12 +273,11 @@
         },
         "tutorial10g": {
             "sign": [
-				"Los comerciantes tienen un",
-				"gran entrenamiento en defensa",
-				"personal, y tratarán de",
-				"aniquilar a todos los",
-				"asaltantes con extremo",
-				"prejuicio."
+                "Los comerciantes dominan",
+                "la defensa personal",
+                "e intentarán aniquilar",
+                "a todos sus atacantes",
+                "sin contemplaciones."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -289,12 +293,12 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[],
-					[],
-					[1,2]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ],
                 "word_highlights2": []
             },
             "variables": []
@@ -334,17 +338,17 @@
 					[2,3,4,5]
 				],
                 "word_highlights2": [
-					[],
-					[2,3],
-					[],
-					[],
-					[2,3,4],
-					[],
-					[],
-					[],
-					[],
-					[0,1]
-				],
+                    [],
+                    [2, 3],
+                    [],
+                    [],
+                    [1, 2, 3],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -392,17 +396,17 @@
 					[2,3,4,5]
 				],
                 "word_highlights2": [
-					[],
-					[2,3],
-					[],
-					[],
-					[2,3,4],
-					[],
-					[],
-					[],
-					[],
-					[0,1]
-				],
+                    [],
+                    [2, 3],
+                    [],
+                    [],
+                    [1, 2, 3],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0, 1]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
 					"background_border": 8,
@@ -526,13 +530,13 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[1],
-					[],
-					[1],
-					[1]
-				],
+                    [],
+                    [],
+                    [1],
+                    [],
+                    [1],
+                    [0]
+                ],
                 "word_highlights2": []
             },
             "variables": [
@@ -563,13 +567,13 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[1],
-					[],
-					[1],
-					[1]				
-				],
+                    [],
+                    [],
+                    [1],
+                    [],
+                    [1],
+                    [0]
+                ],
                 "word_highlights2": []
             },
             "variables": [
@@ -585,15 +589,13 @@
         },
         "tutorial10k": {
             "sign": [
-				"Las tiendas siempre tienen",
-				"un aspecto distintivo,",
-				"sin importar dónde se",
-				"encuentren.",
-				"$",
-				"Busca letreros fuera de",
-				"las tiendas para tener una",
-				"vista previa de lo que",
-				"compran y venden."
+                "Las tiendas se distinguen",
+                "por su aspecto, estén",
+                "donde estén.",
+                "$",
+                "Sus letreros te indican",
+                "qué objetos compran",
+                "y venden."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -616,14 +618,13 @@
         },
         "tutorial10l": {
             "sign": [
-				"Esta gema puede ser arrojada",
-				"como cualquier roca, pero su",
-				"verdadero valor radica en lo que",
-				"un comerciante pague por ella.",
-				"$",
-				"Maximiza el valor del comercio",
-				"con una habilidad de Comercio",
-				"alta."
+                "Puedes lanzar esta gema",
+                "como una roca, pero vale",
+                "más por el oro que pague",
+                "un comerciante por ella.",
+                "$",
+                "Un alto nivel de Comercio",
+                "mejora el valor de venta."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -634,11 +635,11 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[],
-					[0,1],
-					[0,1]
-				]
+                    [],
+                    [4],
+                    [0, 3, 4, 5],
+                    [0, 1]
+                ]
             },
             "variables": [
 				{
@@ -785,13 +786,12 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[0,1,2,3,4],
-					[0,1,2,3,4,5]
-					
-				]
+                    [],
+                    [],
+                    [],
+                    [0, 1, 2, 3],
+                    [0, 1, 2, 3]
+                ]
             },
             "variables": [
 				{
@@ -863,8 +863,8 @@
         "tutorial10r": {
             "sign": [
                 "Para soltar oro, pon el",
-				"cursor en tu pila con$",
-				"mantén y elige cuánto.",
+				"cursor sobre tu oro, mantén$",
+				"y elige cuánto soltar.",
 				"",
                 "Si llevas mucho oro, su",
 				"peso puede acumularse y",
@@ -884,19 +884,19 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[3],
-					[3],
-					[1,2,3,4,5]
-				],
+                    [3, 4],
+                    [0, 4],
+                    [1, 2, 3]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[3,4],
-					[3,4,5]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [0],
+                    [0]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -916,14 +916,13 @@
         },
         "tutorial10r_gamepad": {
             "sign": [
-				"Para soltar oro, pasa el",
-				"cursor sobre tu cantidad de",
-				"oro, pulsa$ y elige cuánto",
-				"soltar.",
-				"",
-				"Si llevas mucho oro, su peso",
-				"puede acumularse y causar",
-				"que te muevas más lento."
+                "Para soltar oro, señala",
+                "tu cantidad, presiona$",
+                "y elige cuánto soltar.",
+                "",
+                "Si llevas mucho oro,",
+                "su peso acumulado puede",
+                "ralentizar tus pasos."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -939,19 +938,19 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[3],
-					[3],
-					[1,2,3,4,5]
-				],
+                    [3],
+                    [2],
+                    [1, 2, 3]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[3,4],
-					[3,4,5]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [1, 2],
+                    [0, 1, 2]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,
@@ -1010,15 +1009,15 @@
         },
         "tutorial10t": {
             "sign": [
-				"Los Comerciantes",
-				"de este comercio son",
-				"tu única opción para",
-				"equiparte adecuadamente",
-				"para la prueba de este",
-				"desafío.",
-				"",
-				"Compra y vende para",
-				"prepararte como prefieras."
+                "Los comerciantes",
+                "de este mercado son",
+                "tu única opción para",
+                "equiparte bien para",
+                "la prueba del desafío.",
+                "",
+                "Compra y vende",
+                "para prepararte",
+                "como prefieras."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1029,28 +1028,29 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[0,1,2],
-					[],
-					[],
-					[0,1,2],
-					[],
-					[0,1,2]
-				]
+                    [],
+                    [],
+                    [],
+                    [0, 1],
+                    [],
+                    [],
+                    [0, 1, 2],
+                    [],
+                    [0, 1]
+                ]
             },
             "variables": []
         },
         "tutorial10u": {
             "sign": [
-				"A través de este portal se",
-				"encuentra una serie de peleas",
-				"cada vez más desafiantes.",
-				"Compra lo que sea que te",
-				"ayude para conseguir el éxito.",
-				"",
-				"Tu ingenio será puesto a prueba."
+                "Tras este portal te",
+                "esperan combates cada",
+                "vez más difíciles.",
+                "Compra lo que necesites",
+                "para triunfar.",
+                "",
+                "Tu ingenio será",
+                "puesto a prueba."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1066,13 +1066,14 @@
         },
         "tutorial10v": {
             "sign": [
-				"Los objetos que encuentres en las",
-				"tiendas que están en mesas o en cofres",
-				"son tuyos para que los tomes.",
-				"",
-				"Los únicos objetos que le importan",
-				"a los comerciantes son aquellos que",
-				"se encuentran en sus inventarios."
+                "Los objetos que halles",
+                "en mesas o cofres",
+                "dentro de las tiendas",
+                "son tuyos si los quieres.",
+                "",
+                "A los comerciantes solo",
+                "les importan los objetos",
+                "de su inventario."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1083,14 +1084,11 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[1,2,3],
-					[],
-					[],
-					[]
-				]
+                    [],
+                    [],
+                    [],
+                    [0, 1, 2, 3, 4]
+                ]
             },
             "variables": []
         },
@@ -1136,16 +1134,15 @@
         },
         "tutorial10x": {
             "sign": [
-				"El próximo enemigo empuña un",
-				"bastón mágico, que puede",
-				"ralentizarte y dañarte",
-				"en gran medida,",
-				"pasando por alto la CA.",
-				"",
-				"Los objetos pueden reducir los",
-				"efectos mágicos. Haz uso de",
-				"tácticas de emboscada para evitar",
-				"los proyectiles mágicos."
+                "El próximo rival usa un",
+                "bastón mágico: ralentiza",
+                "y causa mucho daño",
+                "sin importar tu CA.",
+                "",
+                "Hay objetos que reducen",
+                "los efectos mágicos.",
+                "Embosca al enemigo para",
+                "evitar sus proyectiles."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -1161,21 +1158,21 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[],
-					[],
-					[0,1,2,3],
-					[0,1,2]
-				],
+                    [],
+                    [2],
+                    [1, 2, 3],
+                    [0, 1, 2, 3]
+                ],
                 "word_highlights2": [
-					[],
-					[],
-					[],
-					[],
-					[],
-					[0,1,2,3],
-					[],
-					[0,1]
-				],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [1, 2, 3],
+                    [0, 1, 2],
+                    [0]
+                ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
 					"background_border": 8,

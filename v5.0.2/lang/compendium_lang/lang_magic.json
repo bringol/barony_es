@@ -1,231 +1,231 @@
 {
     "blessings": {
         "blurb": [
-            "In war, or in adventuring parties, those",
-            "who offer BLESSINGS are in high demand.",
-            "They benefit both the thaumaturgist, plus",
-            "nearby followers and allies.",
+            "En guerras y grupos de aventureros,",
+            "se busca a quienes ofrecen BENDICIONES.",
+            "Benefician tanto al taumaturgo como",
+            "a sus seguidores y aliados cercanos.",
             "",
-            "Some blessings have lasting effects."
+            "Algunas bendiciones tienen efectos duraderos."
         ]
     },
     "contravention": {
         "blurb": [
-            "While most magic could be described as",
-            "breaking the rules of reality, the study",
-            "of CONTRAVENTION allows sorcerers to",
-            "change how rules effect one's self.",
-            "This requires ongoing magic energy to",
-            "sustain, but can be disabled at will."
+            "La magia suele romper las reglas de",
+            "la realidad. La TRANSGRESIÓN permite",
+            "a los hechiceros cambiar cómo les",
+            "afectan esas reglas. Requiere energía",
+            "mágica constante para sostenerse,",
+            "pero puede interrumpirse a voluntad."
         ]
     },
     "daimonia": {
         "blurb": [
-            "DAIMONIA is the craft of using magic to",
-            "tap into the will of spirits, compelling their",
-            "influence with transformative results.",
-            "Though shunned by civilized society,",
-            "some mystics claim that their own spirit",
-            "is incomplete without this communion."
+            "La DAIMONIA usa la magia para someter",
+            "la voluntad de los espíritus y lograr",
+            "transformaciones mediante su influjo.",
+            "Aunque la sociedad civilizada la rechaza,",
+            "ciertos místicos creen que su espíritu",
+            "está incompleto sin esta comunión."
         ]
     },
     "divinations": {
         "blurb": [
-            "DIVINATIONS grant access to hidden",
-            "knowledge, revealing information that",
-            "there may be no other way to know.",
+            "Las ADIVINACIONES dan acceso a saberes",
+            "ocultos y revelan información que",
+            "quizás no pueda obtenerse de otro modo.",
             "",
-            "Practicing thaumaturgists claim",
-            "that knowledge is power."
+            "Los taumaturgos que las practican",
+            "afirman que el conocimiento es poder."
         ]
     },
     "enchanted amulets": {
         "blurb": [
-            "AMULETS provide reactive benefits",
-            "to their wearer, often intervening",
-            "against harm a number of times",
-            "until their magic is spent.",
-            "Some amulets have the opposite objective.",
-            "It is wise to appraise before wearing."
+            "Los AMULETOS reaccionan para ayudar",
+            "a quien los lleva, a menudo evitando",
+            "daños varias veces hasta agotar",
+            "su magia.",
+            "Algunos persiguen el efecto contrario.",
+            "Conviene tasarlos antes de usarlos."
         ]
     },
     "enchanted feather": {
         "blurb": [
-            "The ENCHANTED FEATHER can be depleted to",
-            "restore spellbooks or inscribe magic words",
-            "onto a blank scroll.",
-            "Only those who know the magic",
-            "words can inscribe with purpose.",
-            "Depleted feathers may be recharged."
+            "La PLUMA ENCANTADA gasta su poder al",
+            "restaurar grimorios o inscribir palabras",
+            "mágicas en un pergamino en blanco.",
+            "Solo quien conoce las palabras",
+            "mágicas puede darles el efecto deseado.",
+            "Las plumas agotadas pueden recargarse."
         ]
     },
     "enchanted rings": {
         "blurb": [
-            "Adventurers covet magical RINGS for",
-            "the passive magical benefits they",
-            "provide, with effects that range",
-            "from mild, to situational, to",
-            "extremely powerful.",
-            "Magical rings may change the world."
+            "Los aventureros codician los ANILLOS",
+            "mágicos por sus beneficios pasivos,",
+            "con efectos que van desde leves",
+            "hasta sumamente poderosos, pasando",
+            "por los que dependen de la situación.",
+            "Los anillos mágicos pueden cambiar el mundo."
         ]
     },
     "evocation": {
         "blurb": [
-            "Sorcerers practice EVOCATION to conjure",
-            "energies and material using their minds.",
-            "Largely this is used to launch harmful",
-            "projectiles at enemies by adventurers,",
-            "many of which leave a lasting effect",
-            "that may continue to harm the target."
+            "La EVOCACIÓN permite a los hechiceros",
+            "conjurar energía y materia con la mente.",
+            "Los aventureros suelen usarla para",
+            "lanzar proyectiles dañinos al enemigo.",
+            "Muchos dejan efectos duraderos",
+            "que siguen causando daño al objetivo."
         ]
     },
     "impeturia": {
         "blurb": [
-            "Mystics who practice IMPETURIA do so by",
-            "calling to the spirit of the object they",
-            "wish to manipulate, and compel it to alter",
-            "its state. Sorcerers attempting to do the",
-            "same thing with kinesis have so far been",
-            "unsuccessful."
+            "Los místicos que practican IMPETURIA",
+            "invocan al espíritu del objeto que",
+            "desean manipular y lo obligan a cambiar",
+            "su estado. Los hechiceros han intentado",
+            "hacer lo mismo mediante la cinesis,",
+            "pero hasta ahora no han tenido éxito."
         ]
     },
     "kinesis": {
         "blurb": [
-            "Sorcerers practice KINESIS to move",
-            "things with their minds. While trying to",
-            "improve control and accuracy, they have",
-            "stumbled upon other innovations, but",
-            "precise manipulation remains difficult."
+            "Los hechiceros usan la CINESIS para",
+            "mover cosas con la mente. Al buscar",
+            "más control y precisión, han hallado",
+            "otras innovaciones, pero aún les cuesta",
+            "manipular objetos con exactitud."
         ]
     },
     "magicstaffs": {
         "blurb": [
-            "These weapons allow any adventurer, no",
-            "matter how mundane, to fire magical spells.",
+            "Con estas armas, cualquiera puede",
+            "lanzar hechizos, aun sin dotes mágicas.",
             "",
-            "The color of the staff indicates",
-            "what kinds of spells it might contain.",
-            "The item always breaks when depleted."
+            "El color del bastón indica",
+            "qué tipos de hechizos puede contener.",
+            "El objeto siempre se rompe al agotarse."
         ]
     },
     "meditations": {
         "blurb": [
-            "A simple MEDITATION is most magicians'",
-            "first introduction to thaumaturgy.",
+            "Una simple MEDITACIÓN suele introducir",
+            "a los magos en la taumaturgia.",
             "",
-            "These spells require concentration to",
-            "sustain, and will only effect the caster,",
-            "but they can be dismissed at will."
+            "Estos hechizos requieren concentración",
+            "para sostenerse y solo afectan a quien",
+            "los lanza. Se pueden anular a voluntad."
         ]
     },
     "miraculous feats": {
         "blurb": [
-            "Those in ancient times who performed",
-            "MIRACULOUS FEATS are the first known",
-            "thaumaturgists. Casting immediately",
-            "performs a single wonderous action.",
-            "It is taught that aligning one's self with",
-            "great purpose will yield these powers."
+            "Los primeros taumaturgos conocidos",
+            "realizaban HAZAÑAS MILAGROSAS en la",
+            "antigüedad. Cada hechizo realiza de",
+            "inmediato un único acto prodigioso.",
+            "Se enseña que consagrarse a un gran",
+            "propósito concede estos poderes."
         ]
     },
     "psianimus": {
         "blurb": [
-            "The most commonly practiced of the",
-            "mystic's arts, PSIANIMUS is the craft",
-            "of using magic to alter the mind of a",
-            "living (or unliving) target.",
-            "The effects are usually temporary,",
-            "otherwise its reputation might differ."
+            "La más practicada de las artes místicas,",
+            "el PSIÁNIMUS, usa la magia para",
+            "alterar la mente de un objetivo",
+            "vivo (o no muerto).",
+            "Sus efectos suelen ser temporales;",
+            "de lo contrario, tendría otra reputación."
         ]
     },
     "sarkomancy": {
         "blurb": [
-            "Considered a forbidden and dark art by",
-            "the church, SARKOMANCY is the craft of",
-            "using magic to manipulate the body,",
-            "usually against unwilling targets.",
-            "Uses of this magic to benefit one's",
-            "own body are said to only be rumors."
+            "La iglesia considera la SARCOMANCIA",
+            "un arte oscuro y prohibido. Emplea la",
+            "magia para manipular el cuerpo, casi",
+            "siempre contra la voluntad del objetivo.",
+            "Se dice que usarla para beneficiar",
+            "el propio cuerpo es solo un rumor."
         ]
     },
     "scrolls": {
         "blurb": [
-            "A scroll can be invoked by any adventurer",
-            "to spend its stored spell, however it is",
-            "immediately consumed upon use.",
-            "Some spells can only be found on scrolls.",
-            "Blank scrolls may later be inscribed,",
-            "with the right tools and knowledge."
+            "Cualquiera puede invocar el hechizo de",
+            "un pergamino, pero este se consume",
+            "en cuanto se usa. Algunos hechizos",
+            "solo pueden encontrarse en pergaminos.",
+            "Los pergaminos en blanco pueden grabarse",
+            "con las herramientas y saberes adecuados."
         ]
     },
     "temulturgy": {
         "blurb": [
-            "Sometimes magic is needed that does",
-            "not simply hurl one force at another.",
-            "The study of TEMULTURGY is specialized",
-            "toward disrupting an object's structure.",
-            "So far sorcerers haven't figured out",
-            "how to practice this on living targets."
+            "A veces hace falta magia que no se limite",
+            "a lanzar una fuerza contra otra.",
+            "La TEMULTURGIA se especializa en",
+            "alterar la estructura de los objetos.",
+            "Los hechiceros aún no han descubierto",
+            "cómo aplicarla a objetivos vivos."
         ]
     },
     "scepter": {
         "blurb": [
-            "With its incredible destructive potential",
-            "the ARCHON SCEPTER is fed by the wielder's",
-            "surrendered memories.",
-            "Those found wielding one usually claim",
-            "they own it by birthright. Others cannot",
-            "recall where they obtained it."
+            "Con un potencial destructivo increíble,",
+            "el CETRO DE ARCONTE se alimenta de los",
+            "recuerdos que sacrifica quien lo empuña.",
+            "Quienes lo llevan suelen afirmar que",
+            "les pertenece por derecho de nacimiento.",
+            "Otros no recuerdan dónde lo obtuvieron."
         ]
     },
     "source_foci": {
         "blurb": [
-            "Sorcerers often carry raw elemental",
-            "manifestations as SOURCE FOCI, improving",
-            "their connection to magical energies.",
-            "Each one emits a glow, and readily",
-            "provides a channel for rapid evocation",
-            "when needed for dealing with threats."
+            "Los hechiceros portan manifestaciones",
+            "elementales puras como FOCOS DE FUENTE",
+            "para conectar mejor con energías mágicas.",
+            "Cada uno emite un resplandor y permite",
+            "canalizar una evocación rápida cuando",
+            "es necesario hacer frente a amenazas."
         ]
     },
     "holy_symbols": {
         "blurb": [
-            "Casting out darkness wherever they go,",
-            "devout thaumaturgists wield HOLY SYMBOLS.",
-            "Dedicating a prayer with one of these in",
-            "hand provides its blessing to any willing",
-            "soul when the magical chant concludes.",
-            "Taking more time improves the effect."
+            "Los taumaturgos devotos portan SÍMBOLOS",
+            "SAGRADOS y disipan la oscuridad a su paso.",
+            "Rezar con uno en la mano otorga su",
+            "bendición a toda alma dispuesta a ello",
+            "cuando termina el cántico mágico.",
+            "Dedicarle más tiempo mejora el efecto."
         ]
     },
     "dark_icons": {
         "blurb": [
-            "DARK ICONS are used by mystics to",
-            "channel their magical arts to lay",
-            "curses against their enemies.",
-            "Each one provides its own malus that",
-            "the caster invokes with whispers,",
-            "hindering enemies from some distance."
+            "Los místicos usan ÍCONOS OSCUROS para",
+            "canalizar sus artes mágicas y lanzar",
+            "maldiciones contra sus enemigos.",
+            "Cada uno inflige un perjuicio distinto",
+            "que se invoca con susurros y dificulta",
+            "las acciones enemigas a cierta distancia."
         ]
     },
     "instruments": {
         "blurb": [
-            "While mundane on their own, MUSICAL",
-            "INSTRUMENTS channel magic from the",
-            "musician's spirit, uplifting friends",
-            "who are present to hear it.",
-            "When played with dedication and care,",
-            "songs hang in the air for a while."
+            "Aunque carecen de magia, los INSTRUMENTOS",
+            "MUSICALES la canalizan del espíritu",
+            "del músico y animan a los amigos",
+            "que estén presentes para escucharlos.",
+            "Cuando se tocan con dedicación y esmero,",
+            "las canciones perduran un rato en el aire."
         ]
     },
     "jewels": {
         "blurb": [
-            "JEWELS are valuable and alluring to",
-            "most intelligent creatures, serving",
-            "as fine payment for loyal followers.",
-			"Many jewelers embed their gemstones",
-			"in gold, enhancing their beauty",
-			"in addition to their value."
+            "Las JOYAS son valiosas y atractivas",
+            "para la mayoría de seres inteligentes;",
+            "son buen pago para seguidores leales.",
+			"Muchos joyeros engarzan sus gemas",
+			"en oro para realzar tanto su belleza",
+			"como su valor."
         ]
     }	
 }
