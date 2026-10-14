@@ -3,7 +3,7 @@
 	"descriptions": {
 		"barbarian": {
 			"id": 0,
-			"stats": ["good", "decent", "decent", "bad", "decent", "decent"],
+			"stats": ["good", "decent", "decent", "bad", "average", "bad"],
 			"survival_complexity": [3,2],
 			"line_spacing": [0,
 				0,
