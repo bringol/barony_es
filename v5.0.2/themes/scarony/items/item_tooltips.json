@@ -3,10 +3,10 @@
 	"adjectives": {
 		"food_status": {
 			"broken": "Mezcla cortante de",
-			"decrepit": "Restos vencidos de",
+			"decrepit": "Ración vencida de",
 			"worn": "Ración reseca de",
 			"serviceable": "Ración algo reseca de",
-			"excellent": "Saludable"
+			"excellent": "Ración fresca de"
 		}
 	}
 }

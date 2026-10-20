@@ -3,398 +3,398 @@
 # lines beginning with pound character are a comment
 # blank lines are ignored
 
-98 snowman#
-103 elf#
-110 Santa's helper#
-119 snowmen#
-124 elfs#
-131 Santa's helpers#
+98 muñeco de nieve#
+103 duende#
+110 ayudante de Papá Noel#
+119 muñecos de nieve#
+124 duendes#
+131 ayudantes de Papá Noel#
 158 Blitzen#
-159 Cupid#
-160 Comet#
+159 Cupido#
+160 Cometa#
 161 Dasher#
 162 Dancer#
-163 Donner#
+163 Trueno#
 164 Kringle#
-165 Father Xmas#
-166 Claus#
+165 Santa#
+166 Noel#
 167 Sanctus#
-168 Papa Noel#
-169 Drummer#
+168 Papá Noel#
+169 Tamborilero#
 170 Niklaus#
 171 Nicholas#
 172 Nicolas#
 173 Prancer#
-174 Rudolph#
+174 Rodolfo#
 175 Jack#
 176 Santa#
-177 St.Nick#
+177 San Nicolás#
 178 Nicolo#
 179 Nikola#
 180 Frosty#
 181 Scrooge#
 182 Ebenezer#
 183 Yul#
-194 Season's Greetings!#
-195 Ho ho ho!
-Merry Christmas!#
-196 Happy Holidays!#
-197 Have you been naughty
-this year?#
-198 Better than a stocking
-full of coal!#
-199 Remember to send
-a "Thank You" note!#
-200 It is better to give
-than receive.#
-201 That item made me
- think of you.#
-202 A fine gift exchange!#
-203 Ho ho ho! No no no.#
-204 You don't want to be
-on my naughty list!#
-205 You need a stocking
-full of gold!#
-206 A generous gift!#
-207 You shouldn't have!#
-208 You're too kind!#
-209 I know a good boy
-who wants this.#
-210 I know a good girl
-who wants this.#
-211 Kids are always
-asking for those.#
-212 'Tis not the season for that.#
-213 I'd rather some figgy pudding.#
-214 That's not on my list, sorry.#
-216 At Christmas, all
-roads lead home.#
+194 ¡Saludos navideños!#
+195 ¡Jo, jo, jo!
+¡Feliz Navidad!#
+196 ¡Felices fiestas!#
+197 ¿Te has portado mal
+este año?#
+198 ¡Mejor que un calcetín
+lleno de carbón!#
+199 ¡Recuerda enviar
+una nota de agradecimiento!#
+200 Es mejor dar
+que recibir.#
+201 Ese objeto me hizo
+ pensar en ti.#
+202 ¡Un gran intercambio de regalos!#
+203 ¡Jo, jo, jo! No, no, no.#
+204 ¡No querrás estar en
+mi lista de mala conducta!#
+205 ¡Necesitas un calcetín
+lleno de oro!#
+206 ¡Un regalo generoso!#
+207 ¡No hacía falta!#
+208 ¡Qué amabilidad!#
+209 Conozco a un niño bueno
+que quiere esto.#
+210 Conozco a una niña buena
+que quiere esto.#
+211 Los niños siempre
+piden regalos así.#
+212 No es época para eso.#
+213 Preferiría pudín de higos.#
+214 No está en mi lista, lo siento.#
+216 En Navidad, todos
+los caminos llevan a casa.#
 
-217 Christmas will always be
-as long as we stand heart
-to heart and hand-in-hand.#
+217 Siempre habrá Navidad
+si unimos nuestros corazones
+y nos tomamos de la mano.#
 
-218 A joy shared is a joy
-made double.#
+218 La alegría compartida
+vale por dos.#
 
-219 Remembrance, like a
-candle, burns brightest
-at Christmastime.#
+219 El recuerdo, como una
+vela, brilla con más fuerza
+en Navidad.#
 
-220 Christmas is doing a
-little extra for someone.#
+220 Navidad es hacer
+un poco más por alguien.#
 
-221 Christmas is the season
-for kindling the fire of
-hospitality.#
+221 La Navidad es tiempo
+de avivar el fuego de
+la hospitalidad.#
 
-222 May your days be
-merry and bright!#
+222 ¡Que tus días sean
+felices y luminosos!#
 
-223 'Tis the season
-of giving!#
+223 ¡Es tiempo
+de regalar!#
 
-224 Christmas waves a magic
-wand over this world,
-and behold, everything is
-softer and more beautiful.#
+224 La Navidad agita su varita
+mágica sobre el mundo,
+y todo se vuelve
+más amable y hermoso.#
 
-225 It's not how much we
-give, but how much love
-we put into giving.#
+225 No importa cuánto damos,
+sino cuánto amor
+ponemos al dar.#
 
-226 It's the most
-wonderful time
-of the year!#
+226 ¡Es la época
+más maravillosa
+del año!#
 
-227 Christmas isn't just a
-day, it's a frame of mind.#
+227 La Navidad no es solo un día,
+es un estado de ánimo.#
 
-228 Christmas is a season
-not only of rejoicing,
-but of reflection.#
+228 La Navidad es tiempo
+no solo de alegría,
+sino de reflexión.#
 
-229 The world has grown
-weary through the years,
-but at Christmas
-it is young.#
+229 Los años han dejado
+al mundo exhausto,
+pero en Navidad
+rejuvenece.#
 
-230 He who has not Christmas
-in his heart will never
-find it under a tree.#
+230 Quien no lleva la Navidad
+en el corazón nunca
+la hallará bajo un árbol.#
 
-231 The joy of brightening
-other lives becomes for
-us the magic of the
-holidays.#
+231 La alegría de iluminar
+otras vidas se convierte
+para nosotros en la magia
+de las fiestas.#
 
-232 I should write a philosophy
-of toys, showing that
-nothing else in life need
-to be taken seriously.#
+232 Debería escribir una filosofía
+de los juguetes, mostrando
+que nada más en la vida
+necesita tomarse en serio.#
 
-233 Perhaps the best Yuletide
-decoration is being
-wreathed in smiles.#
+233 Quizá el mejor adorno
+navideño sea una
+corona de sonrisas.#
 
-234 Baby it's cold outside.#
+234 Cariño, hace frío afuera.#
 
-235 'Tis the season to be jolly!#
-255 You see a decorated torch.#
-262 You see a decorated fountain.#
-266 You see a gift box.#
-267 You see an decorated portcullis.#
-270 You see a giant snowball.#
-271 You see a Christmas tree.#
-373 Gift Box Inventory#
-374 Took %s from the gift box.#
-400 The spell locks the gift box!#
-404 The spell unlocks the gift box!#
-405 Your spell destroys the giant snowball!#
-455 You are struck by a giant snowball!#
-456 You lack the might to move the giant snowball.#
-459 The gift box swings open!#
-460 You seal the gift box shut!#
-461 Somebody closed the gift box!#
-462 The gift box is locked!#
-463 You put the %s into the gift box.#
+235 ¡Es tiempo de celebrar!#
+255 Ves una antorcha decorada.#
+262 Ves una fuente decorada.#
+266 Ves una caja de regalo.#
+267 Ves una reja levadiza decorada.#
+270 Ves una bola de nieve gigante.#
+271 Ves un árbol de Navidad.#
+373 Inventario de la Caja de Regalo#
+374 Sacaste %s de la caja de regalo.#
+400 ¡El hechizo bloquea la caja de regalo!#
+404 ¡El hechizo desbloquea la caja de regalo!#
+405 ¡Tu hechizo destruye la bola de nieve gigante!#
+455 ¡Una bola de nieve gigante te golpea!#
+456 Te falta fuerza para mover la bola de nieve gigante.#
+459 ¡La caja de regalo se abre de golpe!#
+460 ¡Cierras y sellas la caja de regalo!#
+461 ¡Alguien cerró la caja de regalo!#
+462 ¡La caja de regalo está bloqueada!#
+463 Guardas %s en la caja de regalo.#
 
 # headstone messages
 
-485 There's a card in the tree:
-  "I believe... I believe...
-  it's silly, but I believe."#
+485 Hay una tarjeta en el árbol:
+  "Creo... creo...
+  es una tontería, pero creo."#
 
-486 There's a card in the tree:
-  "A good conscience is a
-  continual Christmas."#
+486 Hay una tarjeta en el árbol:
+  "Una conciencia tranquila
+  es una Navidad perpetua."#
 
-487 There's a card in the tree:
-  "Gifts of time and love are
-  surely the the basic ingredients
-  of a truly merry Christmas"#
+487 Hay una tarjeta en el árbol:
+  "Regalar tiempo y amor
+  es la base de una Navidad
+  verdaderamente feliz."#
 
-488 There's a card in the tree:
-  "A Christmas miracle is when
-  your family doesn't get into
-  a single argument all day."#
+488 Hay una tarjeta en el árbol:
+  "Un milagro navideño es que
+  tu familia pase todo el día
+  sin una sola discusión."#
 
-489 There's a card in the tree:
-  "What if Christmas didn't
-  come from a store. What if
-  it means a little bit more?"#
+489 Hay una tarjeta en el árbol:
+  "¿Y si la Navidad no viniera
+  de una tienda? ¿Y si
+  significara algo más?"#
 
-490 There's a card in the tree:
-  "At Christmas, you
-  tell the truth"#
+490 Hay una tarjeta en el árbol:
+  "En Navidad,
+  dices la verdad."#
 
-491 There's a card in the tree:
-  "No man is a failure
-  who has friends."#
+491 Hay una tarjeta en el árbol:
+  "Nadie que tenga amigos
+  es un fracaso."#
 
-492 There's a card in the tree:
-  "No one should be alone
-  on Christmas."#
+492 Hay una tarjeta en el árbol:
+  "Nadie debería pasar
+  la Navidad en soledad."#
 
-493 There's a card in the tree:
-  "Christmas is compulsory, like
-  a thunderstorm, and we all
-  go through it together."#
+493 Hay una tarjeta en el árbol:
+  "La Navidad es obligatoria,
+  como una tormenta, y todos
+  la atravesamos juntos."#
 
-494 There's a card in the tree:
-  "There has to be at least one
-  day of the year to remind us
-  that we're here for something
-  else besides ourselves."#
+494 Hay una tarjeta en el árbol:
+  "Debe haber al menos un
+  día al año que nos recuerde
+  que estamos aquí por algo
+  más que por nosotros mismos."#
 
-495 There's a card in the tree:
-  "Reflect upon your present
-  blessings -- of which every man
-  has many -- not on your past
-  misfortunes, of which all
-  men have some."#
+495 Hay una tarjeta en el árbol:
+  "Piensa en las bendiciones
+  del presente, que son muchas,
+  y no en las desgracias
+  del pasado, que todos tenemos."#
 
-496 There's a card in the tree:
-  "Thumpity thump thump,
-  thumpity thump thump,
-  look at Frosty go!"#
+496 Hay una tarjeta en el árbol:
+  "Pum, patapum, pum,
+  pum, patapum, pum,
+  ¡mira cómo va Frosty!"#
 
-497 There's a card in the tree:
-  "Mistletoe. It's often
-  infested with nargles."#
+497 Hay una tarjeta en el árbol:
+  "Muérdago. Suele estar
+  infestado de nargles."#
 
-498 There's a card in the tree:
-  "The main reason Santa is so
-  jolly is because he knows where
-  all the bad girls live."#
+498 Hay una tarjeta en el árbol:
+  "Papá Noel está tan alegre
+  porque sabe dónde viven
+  todas las chicas malas."#
 
-499 There's a card in the tree:
-  "It's lovely weather
-  for a sleigh ride
-  together with you."#
+499 Hay una tarjeta en el árbol:
+  "Qué lindo clima
+  para un paseo en trineo
+  contigo."#
 
-500 There's a card in the tree:
-  "Sweet silver bells,
-  all seem to say,
-  ding-dong, m'kay."#
+500 Hay una tarjeta en el árbol:
+  "Dulces campanas de plata,
+  todas parecen decir:
+  din-don, ¿ok?"#
 
-501 There's a card in the tree:
-  "He loves me, I love you.
-  Therefore, vicariously,
-  he loves you."#
+501 Hay una tarjeta en el árbol:
+  "Él me ama, yo te amo.
+  Por lo tanto, por extensión,
+  él te ama."#
 
-502 A snowman emerges from the tree!#
-540 "Did you know?"
-"Santa's helpers pay nothing for unidentified gems."
-"It's true!"#
-563 "Did you know?"
-"Elfs and trolls are best friends."
-"It's true!"#
-564 "Did you know?"
-"Santa really IS a magical genius!"
-"It's true!"#
-568 "Did you know?"
-"Broken gift boxes don't yield many items."
-"It's true!"#
-663 You destroy the giant snowball!#
-667 You hit the gift box!#
-671 The gift box is smashed into pieces!#
-675 gift box#
-716 You hear the faint crunch of giant snowballs.#
-1003 last year's %+2d #
-1004 a leftover %+2d #
-1005 a re-gifted %+2d #
-1029 %d last year's %+2d #
-1030 %d leftover %+2d #
-1031 %d re-gifted %+2d #
-1055 last year's #
-1056 a leftover #
-1057 a re-gifted #
-1081 %d last year's #
-1082 %d leftover #
-1083 %d re-gifted #
-1097 You unlock the gift box.#
-1098 You lock the gift box.#
-1102 You failed to unlock the gift box.#
-1105 This gift box is already unlocked.#
-1505 fails to dodge the incoming giant snowball.#
-1521 gets scratched off the naughty list by an elf.#
-1527 gets added to Santa's naughty list.#
-1969 Grab All From Gift Box#
+502 ¡Un muñeco de nieve emerge del árbol!#
+540 "¿Sabías que...?"
+"Los ayudantes de Papá Noel no pagan por gemas sin identificar."
+"¡Es verdad!"#
+563 "¿Sabías que...?"
+"Los duendes y los troles son mejores amigos."
+"¡Es verdad!"#
+564 "¿Sabías que...?"
+"¡Papá Noel SÍ que es un genio de la magia!"
+"¡Es verdad!"#
+568 "¿Sabías que...?"
+"Las cajas de regalo rotas sueltan pocos objetos."
+"¡Es verdad!"#
+663 ¡Destruyes la bola de nieve gigante!#
+667 ¡Golpeas la caja de regalo!#
+671 ¡La caja de regalo queda hecha pedazos!#
+675 caja de regalo#
+716 Oyes el tenue crujido de bolas de nieve gigantes.#
+1003 surtido expirado %+2d de #
+1004 ración sobrante %+2d de #
+1005 obsequio reciclado %+2d de #
+1029 %d surtidos expirados %+2d de #
+1030 %d raciones sobrantes %+2d de #
+1031 %d obsequios reciclados %+2d de #
+1055 surtido expirado de #
+1056 ración sobrante de #
+1057 obsequio reciclado de #
+1081 %d surtidos expirados de #
+1082 %d raciones sobrantes de #
+1083 %d obsequios reciclados de #
+1097 Desbloqueas la caja de regalo.#
+1098 Bloqueas la caja de regalo.#
+1102 No lograste desbloquear la caja de regalo.#
+1105 Esta caja de regalo ya está desbloqueada.#
+1505 no logra esquivar la bola de nieve gigante.#
+1521 un duende borra su nombre de la lista de mala conducta.#
+1527 acaba en la lista de mala conducta de Papá Noel.#
+1969 Tomar Todo de la Caja de Regalo#
 
-2366 The pedestal seems to require some sort of holiday element.#
-2367 The element defies your grasp and is unable to be retrieved!#
-2368 You place the holiday element in the receptacle...#
-2370 The holiday element starts floating!#
-2377 You see a holiday element sitting atop a pedestal.#
-2520 Your spell destroys the gift box!#
+2366 El pedestal parece requerir algún elemento navideño.#
+2367 ¡El elemento se resiste a tu agarre y no puedes recuperarlo!#
+2368 Colocas el elemento navideño en el receptáculo...#
+2370 ¡El elemento navideño empieza a flotar!#
+2377 Ves un elemento navideño sobre un pedestal.#
+2520 ¡Tu hechizo destruye la caja de regalo!#
 
-2712 The %s
- Santa's Helpers are tougher after surviving the Baron's dungeon.#
-2821 The %s
- I sensed power from the ornament when you put it on that pedestal.#
-2823 The %s
- I was able to trap some of the power that Herx's ornament released.#
-2824 The %s
- This portal pierces the seal to the Caves using the power of the ornament.#
+2712 %s
+ Los ayudantes de Papá Noel son más fuertes
+ tras sobrevivir a la mazmorra del Barón.#
+2821 %s
+ Sentí el poder del adorno cuando lo pusiste en ese pedestal.#
+2823 %s
+ Logré atrapar parte del poder que liberó el adorno de Herx.#
+2824 %s
+ Este portal atraviesa el sello de las Cuevas con el poder del adorno.#
 2834 %s
- I'm only interested in the rarest of
- artifacts in the land.              
- In particular, the holiday elements that were stolen by Herx.#
+ Solo me interesan los artefactos más
+ raros de estas tierras.
+ En particular, los elementos navideños que robó Herx.#
 2836 %s
- You see, a high ranking guild member
- such as myself can extort those mages 
- for every penny they own with their 
- precious holiday elements!#
-3088 That one was from last year!#
-3099 gift box#
-3243 You're on my naughty list, %s %s!#
-3244 discovers all %s are on %s's naughty list.#
-3317 Locks doors and gift boxes#
-3897 You spot a hidden compartment inside the gift box!#
-3974 The giant snowball cannot be moved that way.#
-4004 Close gift box#
-4005 Open gift box#
-4010 Inspect Christmas tree#
-4021 Push snowball#
-4022 Take holiday element#
-4088 You found %d gold pieces in the gift box!#
-4098 There is no room left in the gift box for a
+ Verás, por mi alto rango en el gremio
+ puedo extorsionar a esos magos
+ hasta sacarles su última moneda
+ gracias a sus preciados elementos navideños.#
+3088 ¡Eso era del año pasado!#
+3099 caja de regalo#
+3243 ¡Estás en mi lista de mala conducta, %s %s!#
+3244 descubre que todos los %s están en la lista de mala conducta de %s.#
+3317 Bloquea puertas y cajas de regalo#
+3897 ¡Descubres un compartimento oculto en la caja de regalo!#
+3974 La bola de nieve gigante no se puede mover así.#
+4004 Cerrar caja de regalo#
+4005 Abrir caja de regalo#
+4010 Inspeccionar árbol de Navidad#
+4021 Empujar bola de nieve#
+4022 Tomar elemento navideño#
+4088 ¡Hallaste %d monedas de oro en la caja de regalo!#
+4098 ¡No queda espacio en la caja de regalo para
  %s!#
-4099 Took %d items from the gift box.#
-4126 Hand the element to me directly.
-There is no need to involve
-formalities of gold, now!#
-4197 You put %d %s into the gift box.#
+4099 Sacaste %d objetos de la caja de regalo.#
+4126 Entrégame el elemento directamente.
+¡Ahora no hace falta
+andar con pagos en oro!#
+4197 Guardas %d %s en la caja de regalo.#
 
 # NPC insults
 
-4217 naughty#
-4218 not-nice#
-4219 disobedient#
-4220 greedy#
-4221 unkind#
-4222 meanie#
-4223 rude#
-4224 messy#
-4225 irresponsible#
-4226 back-talking#
-4227 wasteful#
-4228 selfish#
-4229 lying#
-4230 thieving#
-4231 unrepentant#
-4232 troublemaking#
-4233 taddle-tale#
+4217 rebelde#
+4218 desagradable#
+4219 desobediente#
+4220 insaciable#
+4221 descortés#
+4222 cruel#
+4223 sin modales#
+4224 sin orden#
+4225 irresponsable#
+4226 insolente#
+4227 sin medida#
+4228 egoísta#
+4229 falaz#
+4230 de manos largas#
+4231 impenitente#
+4232 buscapleitos#
+4233 correveidile#
 
-4234 Naughty#
-4235 Not-nice#
-4236 Disobedient#
-4237 Greedy#
-4238 Unkind#
-4239 Meanie#
-4240 Rude#
-4241 Messy#
-4242 Irresponsible#
-4243 Back-talking#
-4244 Wasteful#
-4245 Selfish#
-4246 Lying#
-4247 Thieving#
-4248 Unrepentant#
-4249 Troublemaking#
-4250 Taddle-tale#
+4234 Rebelde#
+4235 Desagradable#
+4236 Desobediente#
+4237 Insaciable#
+4238 Descortés#
+4239 Cruel#
+4240 Sin modales#
+4241 Sin orden#
+4242 Irresponsable#
+4243 Insolente#
+4244 Sin medida#
+4245 Egoísta#
+4246 Falaz#
+4247 De manos largas#
+4248 Impenitente#
+4249 Buscapleitos#
+4250 Correveidile#
 
 # shop try to buy hidden item
-4252 Sorry, those are for
- Extra-Nice kids.#
-4253 Oh no, that's for
- another child.#
-4254 Maybe if you're
- nicer next year!#
+4252 Lo siento, eso es para
+ quienes tienen conducta ejemplar.#
+4253 Ah, no, eso es
+ para alguien más.#
+4254 ¡Quizá si te portas
+ mejor el año que viene!#
 
 # shop buy added consumables
-4255 You're on my
- Extra-Nice list!#
-4256 That one is addressed
- to you!#
-4257 Made special for you
- in my workshop.#
-4258 From my sack's
- secret pouches!#
-4259 I keep a few of those in
-my sleigh, just in case.#
-4304 You are no longer an enemy of Santa's Helpers.#
-4305 You are now deemed an enemy of Santa's Helpers
-for inciting violence!#
-4306 You are now deemed an enemy of Santa's Helpers
-for accessory to violence!#
-4349 snowball trap#
-4357 christmas tree#
-4358 giant snowball#
-5120 Control size of in-world popups for items, christmas trees and NPC dialogue.#
-5122 Control size of in-world popups for items, christmas trees and NPC dialogue in splitscreen.#
-5715 The elfs are laughing at you!
-Are you really gonna take that?#
-5805 Giant Snowball#
-5959 Gift Box#
+4255 ¡Estás en mi lista
+ de conducta ejemplar!#
+4256 ¡Este regalo lleva
+ tu nombre!#
+4257 Lo hice para ti
+ en mi taller.#
+4258 ¡De los bolsillos
+ secretos de mi saco!#
+4259 Guardo algunos en mi
+trineo, por si acaso.#
+4304 Los ayudantes de Papá Noel ya no te consideran una amenaza.#
+4305 ¡Los ayudantes de Papá Noel ahora te consideran una amenaza
+por incitar a la violencia!#
+4306 ¡Los ayudantes de Papá Noel ahora te consideran una amenaza
+por complicidad en actos violentos!#
+4349 trampa de bola de nieve#
+4357 árbol de Navidad#
+4358 bola de nieve gigante#
+5120 Ajusta el tamaño de los textos emergentes de objetos, árboles de Navidad y diálogos de PNJ.#
+5122 Ajusta el tamaño de los textos emergentes de objetos, árboles de Navidad y diálogos de PNJ en pantalla dividida.#
+5715 ¡Los duendes se ríen de ti!
+¿De verdad vas a permitirlo?#
+5805 Bola de Nieve Gigante#
+5959 Caja de Regalo#

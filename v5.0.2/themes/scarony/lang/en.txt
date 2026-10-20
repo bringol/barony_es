@@ -282,19 +282,19 @@ los estómagos delicados.#
 966 El azúcar derretida hace que tus dedos resbalen.#
 
 1002 mezcla cortante %+2d de #
-1003 restos vencidos %+2d de #
+1003 ración vencida %+2d de #
 1004 ración reseca %+2d de #
 1005 ración algo reseca %+2d de #
 1028 %d mezclas cortantes %+2d de #
-1029 %d porciones de restos vencidos %+2d de #
+1029 %d ración vencida %+2d de #
 1030 %d raciones resecas %+2d de #
 1031 %d raciones algo resecas %+2d de #
 1054 mezcla cortante de #
-1055 restos vencidos de #
+1055 ración vencida de #
 1056 ración reseca de #
 1057 ración algo reseca de #
 1080 %d mezclas cortantes de #
-1081 %d porciones de restos vencidos de #
+1081 %d ración vencida de #
 1082 %d raciones resecas de #
 1083 %d raciones algo resecas de #
 1093 No puedes abrir la bolsa sin tijeras.#
