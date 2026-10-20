@@ -1,0 +1,371 @@
+# English language file
+# all entries must contain a string number, followed by a space, followed by a string, ended by a pound character
+# lines beginning with pound character are a comment
+# blank lines are ignored
+
+95 creature#
+116 creatures#
+158 Ash#
+159 Bateman#
+160 Chucky#
+161 Damien#
+162 Eggers#
+163 Freddy#
+164 Ghostface#
+165 Hannibal#
+166 Ichabod#
+167 Jigsaw#
+168 Krueger#
+169 Leatherface#
+170 Myers#
+171 Norman#
+172 Orlok#
+173 Pennywise#
+174 Qliphoth#
+176 Slender#
+177 Torrence#
+178 Umibozu#
+179 Voorhees#
+180 Wilkes#
+181 Xing Tian#
+182 Ygor#
+183 Zito#
+190 Confections#
+194 Trick or treat!#
+195 BOO!#
+196 You're here!#
+217 Most people are so
+ungrateful to be alive.
+But not you. 
+Not anymore.#
+221 The creature ignores thee if
+thou keepest thy distance!#
+224 Do you like scary movies?#
+227 I'm the ghost with the most,
+babe. Go ahead. Make my
+millennium!#
+228 Sacks of candy may have
+melted sugar pooled up inside.
+Use a towel to clean thyself.#
+230 The rats are generous! They
+offer full size candy bars.#
+233 I'd avoid stale candy if I
+were you. It can be too much
+for weak tummies.#
+255 You see a trapped flaming spirit.#
+260 You see a spirit pit.#
+270 You see a gigantic, award-winning pumpkin.#
+274 You see a table built for torture.#
+405 Your spell destroys the gigantic pumpkin!#
+455 You are struck by a huge pumpkin!#
+456 You lack the might to move the pumpkin.#
+457 You coax a lost spirit from the pit.#
+458 The spirit flames have diminished.#
+467 The cauldron is stagnant.#
+473 The cauldron blesses your equipment.#
+474 There's no more use for the cauldron.#
+477 The torture table is sticky with blood.#
+485 Here's Johnny!!#
+
+486 There'll be food and drink
+  and ghosts ... perhaps even a
+  few murders. You're all invited.#
+
+487 Here lies the body of Blake
+  Hit the gas instead of the brake"#
+
+488 Here lies Vlad. He
+  never drank ... wine.#
+
+489 A boy's best friend
+  is his mother.#
+
+490 R.I.P.#
+
+491 We all go a little
+  mad sometimes.#
+
+492 To die -- to be really dead
+  that must be glorious.#
+
+493 You're doing to
+  die up there."#
+
+494 Your mother's in here. Would
+  you like to leave a message?
+  I'll see that she gets it.#
+
+495 Sin never dies.#
+
+496 Here lies Ingrid
+  Spooked by a scary skeleton#
+
+497 When there's no more room
+  in hell, the dead will roam
+  the earth.#
+
+498 All work and no play
+  makes Jack a dull boy.#
+
+499 Come and play with us.
+  Forever ...  and ever ...
+  and ever.#
+
+500 Be afraid. Be
+  very afraid.#
+
+501 Sometimes dead is better.#
+
+538 "Did you know?"
+"I ate his liver with some fava beans and a nice chianti."
+"It's true!"#
+539 "Did you know?"
+"I'm your number one fan."
+"It's true!"#
+540 "Did you know?"
+"What is innocent blood if not for shedding?"
+"It's true!"#
+541 "Did you know?"
+"I see dead people."
+"It's true!"#
+542 "Did you know?"
+"I know what you did last summer."
+"It's true!"#
+543 "Did you know?"
+"You can't kill the boogeyman."
+"It's true!"#
+544 "Did you know?"
+"I guess everyone's entitled to one good scare."
+"It's true!"#
+545 "Did you know?"
+"Evil is real."
+"It's true!"#
+546 "Did you know?"
+"You should never say 'I'll be right back'."
+"It's true!"#
+547 "Did you know?"
+"We'll tear your soul apart."
+"It's true!"#
+548 "Did you know?"
+"Angels to some, demons to others."
+"It's true!"#
+549 "Did you know?"
+"Save your breath for screaming."
+"It's true!"#
+550 "Did you know?"
+"Whatever you do, don't fall asleep."
+"It's true!"#
+551 "Did you know?"
+"I'm into murders and executions, mostly."
+"It's true!"#
+552 "Did you know?"
+"My family's always been in meat."
+"It's true!"#
+553 "Did you know?"
+"You're a regular barynard exhibit."
+"It's true!"#
+554 "Did you know?"
+"Psychos do not explode when sunlight hits them."
+"It's true!"#
+555 "Did you know?"
+"I'm sure it's a lot scarier at night."
+"It's true!"#
+556 "Did you know?"
+"You've got red on you."
+"It's true!"#
+557 "Did you know?"
+"Do not read the latin."
+"It's true!"#
+558 "Did you know?"
+"So we just gonna ignore the bear then?"
+"It's true!"#
+559 "Did you know?"
+"Have you checked the children lately?"
+"It's true!"#
+560 "Did you know?"
+"Hell is only a word. The reality is much worse."
+"It's true!"#
+561 "Did you know?"
+"I got this feeling ... a weird feeling."
+"It's true!"#
+562 "Did you know?"
+"Seven days."
+"It's true!"#
+563 "Did you know?"
+"They just don't believe like they used to."
+"It's true!"#
+564 "Did you know?"
+"It's not the house that's haunted."
+"It's true!"#
+565 "Did you know?"
+"We all float down here."
+"It's true!"#
+566 "Did you know?"
+"I never wanted to be your mother."
+"It's true!"#
+567 "Did you know?"
+"Do I look like some kind of monster?"
+"It's true!"#
+568 "Did you know?"
+"This thing needs trauma to spread."
+"It's true!"#
+569 "Did you know?"
+"They mostly come out at night. Mostly."
+"It's true!"#
+589 You take the spirit flame from the wall.#
+663 You destroy the pumpkin!#
+716 You hear the faint crash of huge rolling pumpkins.#
+764 You scarf down the sack of
+ %s.#
+801 This is an old scrawled note:
+ "Mee wurst creature evurr
+  nobuddy pay brijj tole#
+802   me nott sceary enuf
+  mee gett drunc an kil sellf
+  creature droun"#
+886 You can open candy sacks while carrying scissors.#
+908 Blecch! This candy's gone bad!#
+916 You feel sick from eating too much candy.#
+917 URP! Too much candy!#
+
+
+# tinned food
+
+918 sticky#
+919 chewy#
+920 crunchy#
+921 gummy#
+922 spicy#
+923 sour#
+924 gooey#
+925 stale#
+926 frosted#
+927 glazed#
+928 candy-coated#
+929 cartoon themed#
+930 super hero#
+931 monster themed#
+932 cakey#
+933 melty#
+934  chocolate bars#
+935  dark chocolate bars#
+936  white chocolate bars#
+937  hard candy#
+938  suckers#
+939  taffy#
+940  lemon balls#
+941  fruit squares#
+942  caramel cookies#
+943  fruit twists#
+944  chocolate chews#
+945  malt balls#
+946  yogurt raisins#
+947  nut squares#
+948  sugar dust#
+949  vanilla cookies#
+950  and licorice bits#
+951  and sugar straws#
+952  and honey chews#
+953  and coconut bars#
+954  and oatmeal cookies#
+955  and candy buttons#
+956  with hot cinnamon#
+957  build-and-eat kit#
+958  and expired vitamins#
+959  and orange gummies#
+960  and circus peanuts#
+961  with loose crackers#
+962  and animal cookies#
+963  and pudding cups#
+964  and toffee bits#
+965  and peppermints#
+966 The melted sugar makes your fingers slippery.#
+
+1002 a razor-bladed %+2d #
+1003 a expired %+2d #
+1004 an stale %+2d #
+1005 a slightly stale %+2d #
+1028 %d razor-bladed %+2d #
+1029 %d expired %+2d #
+1030 %d stale %+2d #
+1031 %d slightly stale %+2d #
+1054 a tainted #
+1055 an expired #
+1056 a stale #
+1057 a slightly stale #
+1080 %d tainted #
+1081 %d expired #
+1082 %d stale #
+1083 %d slightly stale #
+1093 You can't open the sack without scissors.#
+1505 is flattened into pumpkin pie dough.#
+1515 invades the creature's comfort zone and gets smacked.#
+1910 Trick or Treat!#
+1911 Happy Happy Halloween, Silver Shamrock#
+1912 PSL Season!#
+1913 Handbook for the Recently Diseased#
+1914 The Ghost With the Most#
+1915 I'll Be Right Back!#
+1916 It's Coming From Inside the House!#
+1917 Just In Time for Pie#
+1918 Wolf-Man's Got Nards!#
+1919 BOGUS!#
+1920 Mummy Came in My House!#
+1921 That's Why All the Weirdos Are Out!#
+1922 Dead Man's Toe!#
+1923 Candyman! Candyman! Candyman!#
+1924 Bloody Mary! Bloody Mary!#
+1925 Come Play With Us, Danny#
+1926 They're Only Noodles, Michael#
+1927 What's This? What's This?#
+1928 9, 10, Never Sleep Again#
+1929 It's Only a Dream!#
+1930 It's Just a Puzzle Box!#
+1931 It Was My First Funeral#
+1932 The Rules of the Game Are Very Clear#
+1933 We're Friends 'Til the End!#
+1934 A Mask Tells Us More Than a Face#
+1935 Have You Come to Sing Pumpkin Carols?#
+1936 Something Wicked This Way Comes#
+1937 Creature in the dungeon!#
+1938 Everyone's Entitled to One Good Scare#
+1939 Sticky Fingers, Tired Feet...#
+1946 NOTE: Only removes randomly generated traps, such as pumpkins and arrow traps along 
+the edges and hallways of levels. Traps will only be found inside rooms that have 
+been designed to contain them.#
+2367 The symbol defies your grasp and is unable to be retrieved!#
+2368 You place the symbol in the receptacle...#
+2370 The symbol starts floating!#
+2377 You see a mystical symbol sitting atop a pedestal.#
+2494 Bones of dead prisoners litter the cage floor.#
+2495 The cage is weak, but its inhabitants were weaker.#
+2497 You see a bed with straps.#
+2499 You see a grim prison cage.#
+2506 cell#
+2821 The %s
+ I sensed power from the ghost when you put it on that pedestal.#
+2823 The %s
+ I was able to trap some of the power that Herx's ghost released.#
+2824 The %s
+ This portal pierces the seal to the Caves using the power of the ghost.#
+2834 %s
+ I'm only interested in the rarest of
+ artifacts in the land.              
+ In particular, the Halloween Symbols that were stolen by Herx.#
+2836 %s
+ You see, a high ranking guild member
+ such as myself can extort those mages 
+ for every penny they own with their 
+ precious symbols!#
+3974 The massive pumpkin cannot be moved that way.#
+4006 Salvage spirit flame#
+4007 Take spirit flame#
+4021 Push pumpkin#
+4022 Take symbol#
+4024 Coax spirit#
+4126 Hand the symbol to me directly.
+There is no need to involve
+formalities of gold, now!#
+4349 pumpkin trap#
+4358 pumpkin#
+5805 Giant Pumpkin#

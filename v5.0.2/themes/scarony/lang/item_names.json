@@ -1,0 +1,166 @@
+{
+    "version": 1,
+    "items": {
+        "bronze_sword": {
+            "name_identified": "butcher knife",
+            "name_unidentified": "butcher knife"
+        },
+        "bronze_mace": {
+            "name_identified": "bat",
+            "name_unidentified": "bat"
+        },
+        "bronze_axe": {
+            "name_identified": "cleaver",
+            "name_unidentified": "cleaver"
+        },
+        "iron_spear": {
+            "name_identified": "pitchfork",
+            "name_unidentified": "pitchfork"
+        },
+        "iron_sword": {
+            "name_identified": "iron cutlass",
+            "name_unidentified": "iron cutlass"
+        },
+        "iron_mace": {
+            "name_identified": "iron hammer",
+            "name_unidentified": "iron hammer"
+        },
+        "iron_axe": {
+            "name_identified": "iron hook",
+            "name_unidentified": "iron hook"
+        },
+        "steel_halberd": {
+            "name_identified": "steel scythe",
+            "name_unidentified": "steel scythe"
+        },
+        "steel_axe": {
+            "name_identified": "batwing axe",
+            "name_unidentified": "batwing axe"
+        },
+        "cloak": {
+            "name_identified": "back costume",
+            "name_unidentified": "back costume"
+        },
+        "cloak_magicreflection": {
+            "name_identified": "back costume of magic reflection",
+            "name_unidentified": "back costume"
+        },
+        "cloak_invisibility": {
+            "name_identified": "back costume of invisibility",
+            "name_unidentified": "back costume"
+        },
+        "cloak_protection": {
+            "name_identified": "back costume of protection",
+            "name_unidentified": "back costume"
+        },
+        "hat_phrygian": {
+            "name_identified": "pharaoh headdress",
+            "name_unidentified": "pharaoh headdress"
+        },
+        "hat_hood": {
+            "name_identified": "head costume",
+            "name_unidentified": "head costume"
+        },
+		"mask_steel_visor": {
+			"name_identified": "scary mask",
+			"name_unidentified": "scary mask"
+		},
+        "hat_wizard": {
+            "name_identified": "witch hat",
+            "name_unidentified": "witch hat"
+        },
+        "hat_jester": {
+            "name_identified": "clown wig",
+            "name_unidentified": "clown wig"
+        },
+        "leather_helm": {
+            "name_identified": "comedy headband",
+            "name_unidentified": "comedy headband"
+        },
+        "iron_helm": {
+            "name_identified": "warlock helmet",
+            "name_unidentified": "warlock helmet"
+        },
+        "steel_helm": {
+            "name_identified": "costume helmet",
+            "name_unidentified": "costume helmet"
+        },
+        "scroll_food": {
+            "name_identified": "scroll of candy",
+            "name_unidentified": "scroll"
+        },
+        "tool_tinopener": {
+            "name_identified": "scissors",
+            "name_unidentified": "scissors"
+        },
+        "tool_torch": {
+            "name_identified": "spirit flame",
+            "name_unidentified": "spirit flame"
+        },
+        "tool_lantern": {
+            "name_identified": "jack-o-lantern",
+            "name_unidentified": "jack-o-lantern"
+        },
+        "tool_glasses": {
+            "name_identified": "disguise glasses",
+            "name_unidentified": "disguise glasses"
+        },
+        "food_bread": {
+            "name_identified": "lollipop",
+            "name_unidentified": "lollipop"
+        },
+        "food_cheese": {
+            "name_identified": "chocolate chew",
+            "name_unidentified": "chocolate chew"
+        },
+        "food_apple": {
+            "name_identified": "caramel apple",
+            "name_unidentified": "caramel apple"
+        },
+        "food_meat": {
+            "name_identified": "king-size candy bar",
+            "name_unidentified": "king-size candy bar"
+        },
+        "food_fish": {
+            "name_identified": "candy skull",
+            "name_unidentified": "candy skull"
+        },
+        "food_tin": {
+            "name_identified": "fun-size sack",
+            "name_unidentified": "fun-size sack"
+        },
+        "artifact_orb_blue": {
+            "name_identified": "blue bat symbol",
+            "name_unidentified": "blue bat symbol"
+        },
+        "artifact_orb_red": {
+            "name_identified": "orange punkin symbol",
+            "name_unidentified": "orange punkin symbol"
+        },
+        "artifact_orb_purple": {
+            "name_identified": "violet ghost symbol",
+            "name_unidentified": "violet ghost symbol"
+        },
+        "artifact_orb_green": {
+            "name_identified": "green skull symbol",
+            "name_unidentified": "green skull symbol"
+        },
+        "hat_fez": {
+            "name_identified": "kitty ears",
+            "name_unidentified": "kitty ears"
+        },
+        "cloak_backpack": {
+            "name_identified": "pillow case",
+            "name_unidentified": "pillow case"
+        },
+        "spellbook_detect_food": {
+            "name_identified": "spellbook of detect candy",
+            "name_unidentified": "spellbook"
+        }
+    },
+	"spell_names": {
+        "spell_detect_food": {
+            "name": "Detect Candy"
+        }
+    }
+}

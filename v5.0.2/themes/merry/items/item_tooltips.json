@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"adjectives": {
+		"food_status": {
+			"broken": "Incomible",
+			"decrepit": "Surtido expirado de",
+			"worn": "Sobras de",
+			"serviceable": "Obsequio reciclado de",
+			"excellent": "Saludable"
+		}
+	}
+}

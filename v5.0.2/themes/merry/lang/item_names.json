@@ -1,0 +1,81 @@
+{
+    "version": 1,
+    "items": {
+        "leather_helm": {
+            "name_identified": "elf headgear",
+            "name_unidentified": "elf headgear"
+        },
+        "steel_helm": {
+            "name_identified": "festive headgear",
+            "name_unidentified": "festive headgear"
+        },
+        "food_bread": {
+            "name_identified": "fruitcake",
+            "name_unidentified": "fruitcake"
+        },
+        "food_cheese": {
+            "name_identified": "candy cane",
+            "name_unidentified": "candy cane"
+        },
+        "food_apple": {
+            "name_identified": "pie slice",
+            "name_unidentified": "pie slice"
+        },
+        "food_meat": {
+            "name_identified": "turkey",
+            "name_unidentified": "turkey"
+        },
+        "food_fish": {
+            "name_identified": "cookies",
+            "name_unidentified": "cookies"
+        },
+        "artifact_breastpiece": {
+            "name_identified": "Santa's Mail",
+            "name_unidentified": "artifact breastpiece"
+        },
+        "artifact_helm": {
+            "name_identified": "Santa's Veil",
+            "name_unidentified": "artifact helm"
+        },
+        "artifact_boots": {
+            "name_identified": "Santa's Treads",
+            "name_unidentified": "artifact boots"
+        },
+        "artifact_cloak": {
+            "name_identified": "Santa's Gown",
+            "name_unidentified": "artifact cloak"
+        },
+        "artifact_gloves": {
+            "name_identified": "Santa's Brace",
+            "name_unidentified": "artifact gloves"
+        },
+        "food_tomalley": {
+            "name_identified": "cranberry sauce",
+            "name_unidentified": "cranberry sauce"
+        },
+        "artifact_orb_blue": {
+            "name_identified": "blue gift",
+            "name_unidentified": "blue gift"
+        },
+        "artifact_orb_red": {
+            "name_identified": "red stocking",
+            "name_unidentified": "red stocking"
+        },
+        "artifact_orb_purple": {
+            "name_identified": "purple ornament",
+            "name_unidentified": "purple ornament"
+        },
+        "artifact_orb_green": {
+            "name_identified": "green tiny tree",
+            "name_unidentified": "green tiny tree"
+        },
+        "hat_fez": {
+            "name_identified": "elf hat",
+            "name_unidentified": "elf hat"
+        },
+        "cloak_backpack": {
+            "name_identified": "gift sack",
+            "name_unidentified": "gift sack"
+        }
+    }
+}

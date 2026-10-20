@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"adjectives": {
+		"food_status": {
+			"broken": "Mezcla cortante de",
+			"decrepit": "Restos vencidos de",
+			"worn": "Ración reseca de",
+			"serviceable": "Ración algo reseca de",
+			"excellent": "Saludable"
+		}
+	}
+}
