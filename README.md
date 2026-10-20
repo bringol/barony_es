@@ -40,7 +40,7 @@ En caso de encontrar errores/bugs/crashes, por favor, reportarlo en la sección 
 </p>
 
 <p align="center">
-        <a><img src="https://github.com/bringol/barony_es/blob/main/img/Paso%202%20instalacion.png" alt="paso-2" border="0"></a>
+        <a><img src="https://github.com/bringol/barony_es/blob/main/img/Paso%202%20instalacion%20v2.png" alt="paso-2" border="0"></a>
 </p>
 
 
