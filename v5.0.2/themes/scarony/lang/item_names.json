@@ -1,0 +1,166 @@
+{
+    "version": 1,
+    "items": {
+        "bronze_sword": {
+            "name_identified": "cuchillo de carnicero",
+            "name_unidentified": "cuchillo de carnicero"
+        },
+        "bronze_mace": {
+            "name_identified": "bate",
+            "name_unidentified": "bate"
+        },
+        "bronze_axe": {
+            "name_identified": "hachuela de carnicero",
+            "name_unidentified": "hachuela"
+        },
+        "iron_spear": {
+            "name_identified": "horca",
+            "name_unidentified": "horca"
+        },
+        "iron_sword": {
+            "name_identified": "sable de hierro",
+            "name_unidentified": "sable de hierro"
+        },
+        "iron_mace": {
+            "name_identified": "martillo de hierro",
+            "name_unidentified": "martillo de hierro"
+        },
+        "iron_axe": {
+            "name_identified": "garfio de hierro",
+            "name_unidentified": "garfio de hierro"
+        },
+        "steel_halberd": {
+            "name_identified": "guadaña de acero",
+            "name_unidentified": "guadaña de acero"
+        },
+        "steel_axe": {
+            "name_identified": "hacha de alas de murciélago",
+            "name_unidentified": "hacha de alas de murciélago"
+        },
+        "cloak": {
+            "name_identified": "disfraz de espalda",
+            "name_unidentified": "disfraz de espalda"
+        },
+        "cloak_magicreflection": {
+            "name_identified": "disfraz de espalda de reflejar magia",
+            "name_unidentified": "disfraz de espalda"
+        },
+        "cloak_invisibility": {
+            "name_identified": "disfraz de espalda de invisibilidad",
+            "name_unidentified": "disfraz de espalda"
+        },
+        "cloak_protection": {
+            "name_identified": "disfraz de espalda de protección",
+            "name_unidentified": "disfraz de espalda"
+        },
+        "hat_phrygian": {
+            "name_identified": "tocado de faraón",
+            "name_unidentified": "tocado de faraón"
+        },
+        "hat_hood": {
+            "name_identified": "disfraz de cabeza",
+            "name_unidentified": "disfraz de cabeza"
+        },
+		"mask_steel_visor": {
+			"name_identified": "máscara aterradora",
+			"name_unidentified": "máscara aterradora"
+		},
+        "hat_wizard": {
+            "name_identified": "sombrero de bruja",
+            "name_unidentified": "sombrero de bruja"
+        },
+        "hat_jester": {
+            "name_identified": "peluca de payaso",
+            "name_unidentified": "peluca de payaso"
+        },
+        "leather_helm": {
+            "name_identified": "diadema cómica",
+            "name_unidentified": "diadema cómica"
+        },
+        "iron_helm": {
+            "name_identified": "yelmo de brujo",
+            "name_unidentified": "yelmo de brujo"
+        },
+        "steel_helm": {
+            "name_identified": "yelmo de disfraz",
+            "name_unidentified": "yelmo de disfraz"
+        },
+        "scroll_food": {
+            "name_identified": "pergamino de dulces",
+            "name_unidentified": "pergamino"
+        },
+        "tool_tinopener": {
+            "name_identified": "tijeras",
+            "name_unidentified": "tijeras"
+        },
+        "tool_torch": {
+            "name_identified": "llama espiritual",
+            "name_unidentified": "llama espiritual"
+        },
+        "tool_lantern": {
+            "name_identified": "farol de calabaza",
+            "name_unidentified": "farol de calabaza"
+        },
+        "tool_glasses": {
+            "name_identified": "gafas de disfraz",
+            "name_unidentified": "gafas de disfraz"
+        },
+        "food_bread": {
+            "name_identified": "paleta de caramelo",
+            "name_unidentified": "paleta de caramelo"
+        },
+        "food_cheese": {
+            "name_identified": "caramelo masticable de chocolate",
+            "name_unidentified": "caramelo masticable de chocolate"
+        },
+        "food_apple": {
+            "name_identified": "manzana acaramelada",
+            "name_unidentified": "manzana acaramelada"
+        },
+        "food_meat": {
+            "name_identified": "barra gigante de chocolate",
+            "name_unidentified": "barra gigante de chocolate"
+        },
+        "food_fish": {
+            "name_identified": "calavera de azúcar",
+            "name_unidentified": "calavera de azúcar"
+        },
+        "food_tin": {
+            "name_identified": "bolsita de dulces",
+            "name_unidentified": "bolsita de dulces"
+        },
+        "artifact_orb_blue": {
+            "name_identified": "símbolo azul de murciélago",
+            "name_unidentified": "símbolo azul de murciélago"
+        },
+        "artifact_orb_red": {
+            "name_identified": "símbolo naranja de calabaza",
+            "name_unidentified": "símbolo naranja de calabaza"
+        },
+        "artifact_orb_purple": {
+            "name_identified": "símbolo violeta de fantasma",
+            "name_unidentified": "símbolo violeta de fantasma"
+        },
+        "artifact_orb_green": {
+            "name_identified": "símbolo verde de calavera",
+            "name_unidentified": "símbolo verde de calavera"
+        },
+        "hat_fez": {
+            "name_identified": "orejas de gatito",
+            "name_unidentified": "orejas de gatito"
+        },
+        "cloak_backpack": {
+            "name_identified": "funda de almohada",
+            "name_unidentified": "funda de almohada"
+        },
+        "spellbook_detect_food": {
+            "name_identified": "grimorio de detectar dulces",
+            "name_unidentified": "grimorio"
+        }
+    },
+	"spell_names": {
+        "spell_detect_food": {
+            "name": "Detectar Dulces"
+        }
+    }
+}

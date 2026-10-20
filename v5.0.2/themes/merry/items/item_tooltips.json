@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"adjectives": {
+		"food_status": {
+			"broken": "Ración podrida",
+			"decrepit": "Surtido expirado de",
+			"worn": "Ración sobrante de",
+			"serviceable": "Obsequio reciclado de",
+			"excellent": "Ración fresca de"
+		}
+	}
+}

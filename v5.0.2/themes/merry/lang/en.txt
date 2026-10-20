@@ -1,0 +1,400 @@
+# English language file
+# all entries must contain a string number, followed by a space, followed by a string, ended by a pound character
+# lines beginning with pound character are a comment
+# blank lines are ignored
+
+98 muñeco de nieve#
+103 duende#
+110 ayudante de Papá Noel#
+119 muñecos de nieve#
+124 duendes#
+131 ayudantes de Papá Noel#
+158 Blitzen#
+159 Cupido#
+160 Cometa#
+161 Dasher#
+162 Dancer#
+163 Trueno#
+164 Kringle#
+165 Santa#
+166 Noel#
+167 Sanctus#
+168 Papá Noel#
+169 Tamborilero#
+170 Niklaus#
+171 Nicholas#
+172 Nicolas#
+173 Prancer#
+174 Rodolfo#
+175 Jack#
+176 Santa#
+177 San Nicolás#
+178 Nicolo#
+179 Nikola#
+180 Frosty#
+181 Scrooge#
+182 Ebenezer#
+183 Yul#
+194 ¡Saludos navideños!#
+195 ¡Jo, jo, jo!
+¡Feliz Navidad!#
+196 ¡Felices fiestas!#
+197 ¿Te has portado mal
+este año?#
+198 ¡Mejor que un calcetín
+lleno de carbón!#
+199 ¡Recuerda enviar
+una nota de agradecimiento!#
+200 Es mejor dar
+que recibir.#
+201 Ese objeto me hizo
+ pensar en ti.#
+202 ¡Un gran intercambio de regalos!#
+203 ¡Jo, jo, jo! No, no, no.#
+204 ¡No querrás estar en
+mi lista de mala conducta!#
+205 ¡Necesitas un calcetín
+lleno de oro!#
+206 ¡Un regalo generoso!#
+207 ¡No hacía falta!#
+208 ¡Qué amabilidad!#
+209 Conozco a un niño bueno
+que quiere esto.#
+210 Conozco a una niña buena
+que quiere esto.#
+211 Los niños siempre
+piden regalos así.#
+212 No es época para eso.#
+213 Preferiría pudín de higos.#
+214 No está en mi lista, lo siento.#
+216 En Navidad, todos
+los caminos llevan a casa.#
+
+217 Siempre habrá Navidad
+si unimos nuestros corazones
+y nos tomamos de la mano.#
+
+218 La alegría compartida
+vale por dos.#
+
+219 El recuerdo, como una
+vela, brilla con más fuerza
+en Navidad.#
+
+220 Navidad es hacer
+un poco más por alguien.#
+
+221 La Navidad es tiempo
+de avivar el fuego de
+la hospitalidad.#
+
+222 ¡Que tus días sean
+felices y luminosos!#
+
+223 ¡Es tiempo
+de regalar!#
+
+224 La Navidad agita su varita
+mágica sobre el mundo,
+y todo se vuelve
+más amable y hermoso.#
+
+225 No importa cuánto damos,
+sino cuánto amor
+ponemos al dar.#
+
+226 ¡Es la época
+más maravillosa
+del año!#
+
+227 La Navidad no es solo un día,
+es un estado de ánimo.#
+
+228 La Navidad es tiempo
+no solo de alegría,
+sino de reflexión.#
+
+229 Los años han dejado
+al mundo exhausto,
+pero en Navidad
+rejuvenece.#
+
+230 Quien no lleva la Navidad
+en el corazón nunca
+la hallará bajo un árbol.#
+
+231 La alegría de iluminar
+otras vidas se convierte
+para nosotros en la magia
+de las fiestas.#
+
+232 Debería escribir una filosofía
+de los juguetes, mostrando
+que nada más en la vida
+necesita tomarse en serio.#
+
+233 Quizá el mejor adorno
+navideño sea una
+corona de sonrisas.#
+
+234 Cariño, hace frío afuera.#
+
+235 ¡Es tiempo de celebrar!#
+255 Ves una antorcha decorada.#
+262 Ves una fuente decorada.#
+266 Ves una caja de regalo.#
+267 Ves una reja levadiza decorada.#
+270 Ves una bola de nieve gigante.#
+271 Ves un árbol de Navidad.#
+373 Inventario de la Caja de Regalo#
+374 Sacaste %s de la caja de regalo.#
+400 ¡El hechizo bloquea la caja de regalo!#
+404 ¡El hechizo desbloquea la caja de regalo!#
+405 ¡Tu hechizo destruye la bola de nieve gigante!#
+455 ¡Una bola de nieve gigante te golpea!#
+456 Te falta fuerza para mover la bola de nieve gigante.#
+459 ¡La caja de regalo se abre de golpe!#
+460 ¡Cierras y sellas la caja de regalo!#
+461 ¡Alguien cerró la caja de regalo!#
+462 ¡La caja de regalo está bloqueada!#
+463 Guardas %s en la caja de regalo.#
+
+# headstone messages
+
+485 Hay una tarjeta en el árbol:
+  "Creo... creo...
+  es una tontería, pero creo."#
+
+486 Hay una tarjeta en el árbol:
+  "Una conciencia tranquila
+  es una Navidad perpetua."#
+
+487 Hay una tarjeta en el árbol:
+  "Regalar tiempo y amor
+  es la base de una Navidad
+  verdaderamente feliz."#
+
+488 Hay una tarjeta en el árbol:
+  "Un milagro navideño es que
+  tu familia pase todo el día
+  sin una sola discusión."#
+
+489 Hay una tarjeta en el árbol:
+  "¿Y si la Navidad no viniera
+  de una tienda? ¿Y si
+  significara algo más?"#
+
+490 Hay una tarjeta en el árbol:
+  "En Navidad,
+  dices la verdad."#
+
+491 Hay una tarjeta en el árbol:
+  "Nadie que tenga amigos
+  es un fracaso."#
+
+492 Hay una tarjeta en el árbol:
+  "Nadie debería pasar
+  la Navidad en soledad."#
+
+493 Hay una tarjeta en el árbol:
+  "La Navidad es obligatoria,
+  como una tormenta, y todos
+  la atravesamos juntos."#
+
+494 Hay una tarjeta en el árbol:
+  "Debe haber al menos un
+  día al año que nos recuerde
+  que estamos aquí por algo
+  más que por nosotros mismos."#
+
+495 Hay una tarjeta en el árbol:
+  "Piensa en las bendiciones
+  del presente, que son muchas,
+  y no en las desgracias
+  del pasado, que todos tenemos."#
+
+496 Hay una tarjeta en el árbol:
+  "Pum, patapum, pum,
+  pum, patapum, pum,
+  ¡mira cómo va Frosty!"#
+
+497 Hay una tarjeta en el árbol:
+  "Muérdago. Suele estar
+  infestado de nargles."#
+
+498 Hay una tarjeta en el árbol:
+  "Papá Noel está tan alegre
+  porque sabe dónde viven
+  todas las chicas malas."#
+
+499 Hay una tarjeta en el árbol:
+  "Qué lindo clima
+  para un paseo en trineo
+  contigo."#
+
+500 Hay una tarjeta en el árbol:
+  "Dulces campanas de plata,
+  todas parecen decir:
+  din-don, ¿ok?"#
+
+501 Hay una tarjeta en el árbol:
+  "Él me ama, yo te amo.
+  Por lo tanto, por extensión,
+  él te ama."#
+
+502 ¡Un muñeco de nieve emerge del árbol!#
+540 "¿Sabías que...?"
+"Los ayudantes de Papá Noel no pagan por gemas sin identificar."
+"¡Es verdad!"#
+563 "¿Sabías que...?"
+"Los duendes y los troles son mejores amigos."
+"¡Es verdad!"#
+564 "¿Sabías que...?"
+"¡Papá Noel SÍ que es un genio de la magia!"
+"¡Es verdad!"#
+568 "¿Sabías que...?"
+"Las cajas de regalo rotas sueltan pocos objetos."
+"¡Es verdad!"#
+663 ¡Destruyes la bola de nieve gigante!#
+667 ¡Golpeas la caja de regalo!#
+671 ¡La caja de regalo queda hecha pedazos!#
+675 caja de regalo#
+716 Oyes el tenue crujido de bolas de nieve gigantes.#
+1003 surtido expirado %+2d de #
+1004 ración sobrante %+2d de #
+1005 obsequio reciclado %+2d de #
+1029 %d surtidos expirados %+2d de #
+1030 %d raciones sobrantes %+2d de #
+1031 %d obsequios reciclados %+2d de #
+1055 surtido expirado de #
+1056 ración sobrante de #
+1057 obsequio reciclado de #
+1081 %d surtidos expirados de #
+1082 %d raciones sobrantes de #
+1083 %d obsequios reciclados de #
+1097 Desbloqueas la caja de regalo.#
+1098 Bloqueas la caja de regalo.#
+1102 No lograste desbloquear la caja de regalo.#
+1105 Esta caja de regalo ya está desbloqueada.#
+1505 no logra esquivar la bola de nieve gigante.#
+1521 un duende borra su nombre de la lista de mala conducta.#
+1527 acaba en la lista de mala conducta de Papá Noel.#
+1969 Tomar Todo de la Caja de Regalo#
+
+2366 El pedestal parece requerir algún elemento navideño.#
+2367 ¡El elemento se resiste a tu agarre y no puedes recuperarlo!#
+2368 Colocas el elemento navideño en el receptáculo...#
+2370 ¡El elemento navideño empieza a flotar!#
+2377 Ves un elemento navideño sobre un pedestal.#
+2520 ¡Tu hechizo destruye la caja de regalo!#
+
+2712 %s
+ Los ayudantes de Papá Noel son más fuertes
+ tras sobrevivir a la mazmorra del Barón.#
+2821 %s
+ Sentí el poder del adorno cuando lo pusiste en ese pedestal.#
+2823 %s
+ Logré atrapar parte del poder que liberó el adorno de Herx.#
+2824 %s
+ Este portal atraviesa el sello de las Cuevas con el poder del adorno.#
+2834 %s
+ Solo me interesan los artefactos más
+ raros de estas tierras.
+ En particular, los elementos navideños que robó Herx.#
+2836 %s
+ Verás, por mi alto rango en el gremio
+ puedo extorsionar a esos magos
+ hasta sacarles su última moneda
+ gracias a sus preciados elementos navideños.#
+3088 ¡Eso era del año pasado!#
+3099 caja de regalo#
+3243 ¡Estás en mi lista de mala conducta, %s %s!#
+3244 descubre que todos los %s están en la lista de mala conducta de %s.#
+3317 Bloquea puertas y cajas de regalo#
+3897 ¡Descubres un compartimento oculto en la caja de regalo!#
+3974 La bola de nieve gigante no se puede mover así.#
+4004 Cerrar caja de regalo#
+4005 Abrir caja de regalo#
+4010 Inspeccionar árbol de Navidad#
+4021 Empujar bola de nieve#
+4022 Tomar elemento navideño#
+4088 ¡Hallaste %d monedas de oro en la caja de regalo!#
+4098 ¡No queda espacio en la caja de regalo para
+ %s!#
+4099 Sacaste %d objetos de la caja de regalo.#
+4126 Entrégame el elemento directamente.
+¡Ahora no hace falta
+andar con pagos en oro!#
+4197 Guardas %d %s en la caja de regalo.#
+
+# NPC insults
+
+4217 rebelde#
+4218 desagradable#
+4219 desobediente#
+4220 insaciable#
+4221 descortés#
+4222 cruel#
+4223 sin modales#
+4224 sin orden#
+4225 irresponsable#
+4226 insolente#
+4227 sin medida#
+4228 egoísta#
+4229 falaz#
+4230 de manos largas#
+4231 impenitente#
+4232 buscapleitos#
+4233 correveidile#
+
+4234 Rebelde#
+4235 Desagradable#
+4236 Desobediente#
+4237 Insaciable#
+4238 Descortés#
+4239 Cruel#
+4240 Sin modales#
+4241 Sin orden#
+4242 Irresponsable#
+4243 Insolente#
+4244 Sin medida#
+4245 Egoísta#
+4246 Falaz#
+4247 De manos largas#
+4248 Impenitente#
+4249 Buscapleitos#
+4250 Correveidile#
+
+# shop try to buy hidden item
+4252 Lo siento, eso es para
+ quienes tienen conducta ejemplar.#
+4253 Ah, no, eso es
+ para alguien más.#
+4254 ¡Quizá si te portas
+ mejor el año que viene!#
+
+# shop buy added consumables
+4255 ¡Estás en mi lista
+ de conducta ejemplar!#
+4256 ¡Este regalo lleva
+ tu nombre!#
+4257 Lo hice para ti
+ en mi taller.#
+4258 ¡De los bolsillos
+ secretos de mi saco!#
+4259 Guardo algunos en mi
+trineo, por si acaso.#
+4304 Los ayudantes de Papá Noel ya no te consideran una amenaza.#
+4305 ¡Los ayudantes de Papá Noel ahora te consideran una amenaza
+por incitar a la violencia!#
+4306 ¡Los ayudantes de Papá Noel ahora te consideran una amenaza
+por complicidad en actos violentos!#
+4349 trampa de bola de nieve#
+4357 árbol de Navidad#
+4358 bola de nieve gigante#
+5120 Ajusta el tamaño de los textos emergentes de objetos, árboles de Navidad y diálogos de PNJ.#
+5122 Ajusta el tamaño de los textos emergentes de objetos, árboles de Navidad y diálogos de PNJ en pantalla dividida.#
+5715 ¡Los duendes se ríen de ti!
+¿De verdad vas a permitirlo?#
+5805 Bola de Nieve Gigante#
+5959 Caja de Regalo#

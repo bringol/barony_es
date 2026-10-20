@@ -1,0 +1,81 @@
+{
+    "version": 1,
+    "items": {
+        "leather_helm": {
+            "name_identified": "gorro de duende",
+            "name_unidentified": "gorro de duende"
+        },
+        "steel_helm": {
+            "name_identified": "gorro festivo",
+            "name_unidentified": "gorro festivo"
+        },
+        "food_bread": {
+            "name_identified": "pastel de frutas",
+            "name_unidentified": "pastel de frutas"
+        },
+        "food_cheese": {
+            "name_identified": "bastón de caramelo",
+            "name_unidentified": "bastón de caramelo"
+        },
+        "food_apple": {
+            "name_identified": "porción de tarta",
+            "name_unidentified": "porción de tarta"
+        },
+        "food_meat": {
+            "name_identified": "pavo",
+            "name_unidentified": "pavo"
+        },
+        "food_fish": {
+            "name_identified": "galletas",
+            "name_unidentified": "galletas"
+        },
+        "artifact_breastpiece": {
+            "name_identified": "Malla de Papá Noel",
+            "name_unidentified": "coraza de artefacto"
+        },
+        "artifact_helm": {
+            "name_identified": "Velo de Papá Noel",
+            "name_unidentified": "yelmo de artefacto"
+        },
+        "artifact_boots": {
+            "name_identified": "Botas de Papá Noel",
+            "name_unidentified": "botas de artefacto"
+        },
+        "artifact_cloak": {
+            "name_identified": "Manto de Papá Noel",
+            "name_unidentified": "capa de artefacto"
+        },
+        "artifact_gloves": {
+            "name_identified": "Brazalete de Papá Noel",
+            "name_unidentified": "brazaletes de artefacto"
+        },
+        "food_tomalley": {
+            "name_identified": "salsa de arándanos",
+            "name_unidentified": "salsa de arándanos"
+        },
+        "artifact_orb_blue": {
+            "name_identified": "regalo azul",
+            "name_unidentified": "regalo azul"
+        },
+        "artifact_orb_red": {
+            "name_identified": "calcetín rojo",
+            "name_unidentified": "calcetín rojo"
+        },
+        "artifact_orb_purple": {
+            "name_identified": "adorno morado",
+            "name_unidentified": "adorno morado"
+        },
+        "artifact_orb_green": {
+            "name_identified": "arbolito verde",
+            "name_unidentified": "arbolito verde"
+        },
+        "hat_fez": {
+            "name_identified": "sombrero de duende",
+            "name_unidentified": "sombrero de duende"
+        },
+        "cloak_backpack": {
+            "name_identified": "saco de regalos",
+            "name_unidentified": "saco de regalos"
+        }
+    }
+}

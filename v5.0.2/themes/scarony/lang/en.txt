@@ -1,0 +1,371 @@
+# English language file
+# all entries must contain a string number, followed by a space, followed by a string, ended by a pound character
+# lines beginning with pound character are a comment
+# blank lines are ignored
+
+95 criatura#
+116 criaturas#
+158 Ash#
+159 Bateman#
+160 Chucky#
+161 Damien#
+162 Eggers#
+163 Freddy#
+164 Ghostface#
+165 Hannibal#
+166 Ichabod#
+167 Jigsaw#
+168 Krueger#
+169 Leatherface#
+170 Myers#
+171 Norman#
+172 Orlok#
+173 Pennywise#
+174 Qliphoth#
+176 Slender#
+177 Torrence#
+178 Umibozu#
+179 Voorhees#
+180 Wilkes#
+181 Xing Tian#
+182 Ygor#
+183 Zito#
+190 Dulces#
+194 ¡Dulce o travesura!#
+195 ¡BU!#
+196 ¡Ya llegaste!#
+217 La mayoría no agradece
+el simple hecho de vivir.
+Pero tú sí.
+Ahora sí.#
+221 ¡La criatura te ignora
+si mantienes la distancia!#
+224 ¿Te gustan las películas de terror?#
+227 Soy el fantasma más genial,
+cariño. Adelante. ¡Alégrame
+el milenio!#
+228 Las bolsas de dulces pueden
+acumular azúcar derretida.
+Usa una toalla para limpiarte.#
+230 ¡Las ratas son generosas! Dan
+barras de chocolate enteras.#
+233 Yo evitaría los dulces viejos.
+Pueden ser demasiado para
+los estómagos delicados.#
+255 Ves un espíritu ardiente atrapado.#
+260 Ves un foso de espíritus.#
+270 Ves una calabaza gigante premiada.#
+274 Ves una mesa de tortura.#
+405 ¡Tu hechizo destruye la calabaza gigante!#
+455 ¡Una enorme calabaza te golpea!#
+456 Te falta fuerza para mover la calabaza.#
+457 Convences a un espíritu perdido de salir del foso.#
+458 Las llamas espirituales han disminuido.#
+467 El caldero está estancado.#
+473 El caldero bendice tu equipo.#
+474 El caldero ya no sirve.#
+477 La sangre deja pegajosa la mesa de tortura.#
+485 ¡¡Aquí está Johnny!!#
+
+486 Habrá comida, bebida
+  y fantasmas... quizá también
+  algún asesinato. ¡Vengan!#
+
+487 Aquí yace el cuerpo de Blake
+  Aceleró en vez de frenar.#
+
+488 Aquí yace Vlad.
+  Nunca bebía... vino.#
+
+489 La mejor amiga de un niño
+  es su madre.#
+
+490 D. E. P.#
+
+491 A veces a cualquiera
+  se le va la cabeza.#
+
+492 Morir... morir de verdad...
+  debe de ser glorioso.#
+
+493 Vas a morir
+  allá arriba.#
+
+494 Tu madre está aquí. ¿Quieres
+  dejarle un mensaje?
+  Me aseguraré de que lo reciba.#
+
+495 El pecado nunca muere.#
+
+496 Aquí yace Ingrid
+  Un esqueleto le dio un susto mortal.#
+
+497 Cuando no quede sitio
+  en el infierno, los muertos
+  caminarán por la tierra.#
+
+498 Tanto trabajo y nada de juego
+  hacen de Jack un chico aburrido.#
+
+499 Ven a jugar con nosotros.
+  Por siempre... y siempre...
+  y siempre.#
+
+500 Ten miedo.
+  Mucho miedo.#
+
+501 A veces es mejor morir.#
+
+538 "¿Sabías que...?"
+"Comí su hígado con habas y un buen chianti."
+"¡Es verdad!"#
+539 "¿Sabías que...?"
+"Soy tu fan número uno."
+"¡Es verdad!"#
+540 "¿Sabías que...?"
+"¿Para qué sirve la sangre inocente si no es para derramarla?"
+"¡Es verdad!"#
+541 "¿Sabías que...?"
+"Veo gente muerta."
+"¡Es verdad!"#
+542 "¿Sabías que...?"
+"Sé lo que hiciste el verano pasado."
+"¡Es verdad!"#
+543 "¿Sabías que...?"
+"No puedes matar al coco."
+"¡Es verdad!"#
+544 "¿Sabías que...?"
+"Todos tienen derecho a un buen susto."
+"¡Es verdad!"#
+545 "¿Sabías que...?"
+"El mal es real."
+"¡Es verdad!"#
+546 "¿Sabías que...?"
+"Nunca debes decir 'ahora vuelvo'."
+"¡Es verdad!"#
+547 "¿Sabías que...?"
+"Te haremos el alma pedazos."
+"¡Es verdad!"#
+548 "¿Sabías que...?"
+"Ángeles para unos, demonios para otros."
+"¡Es verdad!"#
+549 "¿Sabías que...?"
+"Guarda el aliento para gritar."
+"¡Es verdad!"#
+550 "¿Sabías que...?"
+"Hagas lo que hagas, no te duermas."
+"¡Es verdad!"#
+551 "¿Sabías que...?"
+"Lo mío son los asesinatos y las ejecuciones, sobre todo."
+"¡Es verdad!"#
+552 "¿Sabías que...?"
+"Mi familia siempre se ha dedicado a la carne."
+"¡Es verdad!"#
+553 "¿Sabías que...?"
+"Eres todo un espectáculo de corral."
+"¡Es verdad!"#
+554 "¿Sabías que...?"
+"Los psicópatas no explotan al recibir la luz del sol."
+"¡Es verdad!"#
+555 "¿Sabías que...?"
+"Seguro que da mucho más miedo de noche."
+"¡Es verdad!"#
+556 "¿Sabías que...?"
+"Tienes algo rojo encima."
+"¡Es verdad!"#
+557 "¿Sabías que...?"
+"No leas el latín."
+"¡Es verdad!"#
+558 "¿Sabías que...?"
+"¿Entonces vamos a ignorar al oso?"
+"¡Es verdad!"#
+559 "¿Sabías que...?"
+"¿Has ido a ver cómo están los niños?"
+"¡Es verdad!"#
+560 "¿Sabías que...?"
+"El infierno es solo una palabra. La realidad es mucho peor."
+"¡Es verdad!"#
+561 "¿Sabías que...?"
+"Tengo una sensación... una sensación extraña."
+"¡Es verdad!"#
+562 "¿Sabías que...?"
+"Siete días."
+"¡Es verdad!"#
+563 "¿Sabías que...?"
+"Ya no creen como antes."
+"¡Es verdad!"#
+564 "¿Sabías que...?"
+"La casa no es la que está embrujada."
+"¡Es verdad!"#
+565 "¿Sabías que...?"
+"Todos flotamos aquí abajo."
+"¡Es verdad!"#
+566 "¿Sabías que...?"
+"Nunca quise ser tu madre."
+"¡Es verdad!"#
+567 "¿Sabías que...?"
+"¿Acaso parezco un monstruo?"
+"¡Es verdad!"#
+568 "¿Sabías que...?"
+"Esta cosa necesita traumas para propagarse."
+"¡Es verdad!"#
+569 "¿Sabías que...?"
+"Salen sobre todo de noche. Sobre todo."
+"¡Es verdad!"#
+589 Tomas la llama espiritual de la pared.#
+663 ¡Destruyes la calabaza!#
+716 Oyes a lo lejos el estruendo de enormes calabazas rodando.#
+764 Devoras la bolsa de
+ %s.#
+801 Es una vieja nota garabateada:
+ "yo peor criatura de todas
+  nadie paga peaje de puente#
+802   yo no dar sufisiente miedo
+  yo emborrachar i matarme
+  criatura aogarse"#
+886 Puedes abrir bolsas de dulces si llevas tijeras.#
+908 ¡Puaj! ¡Este dulce se echó a perder!#
+916 Te sientes mal por comer tantos dulces.#
+917 ¡BUUURP! ¡Demasiados dulces!#
+
+
+# tinned food
+
+918 mezcla pegajosa de#
+919 mezcla masticable de#
+920 mezcla crujiente de#
+921 mezcla gelatinosa de#
+922 mezcla picante de#
+923 mezcla ácida de#
+924 mezcla viscosa de#
+925 mezcla reseca de#
+926 mezcla escarchada de#
+927 mezcla glaseada de#
+928 mezcla acaramelada de#
+929 surtido caricaturesco de#
+930 surtido superheroico de#
+931 surtido monstruoso de#
+932 mezcla esponjosa de#
+933 mezcla derretida de#
+934  barras de chocolate#
+935  barras de chocolate amargo#
+936  barras de chocolate blanco#
+937  caramelos duros#
+938  paletas de caramelo#
+939  caramelos masticables#
+940  bolitas de limón#
+941  cuadraditos de fruta#
+942  galletas de caramelo#
+943  tiras retorcidas de fruta#
+944  caramelos masticables de chocolate#
+945  bolitas de malta#
+946  pasas con yogur#
+947  cuadraditos de nueces#
+948  azúcar en polvo#
+949  galletas de vainilla#
+950  y trocitos de regaliz#
+951  y pajitas de azúcar#
+952  y caramelos masticables de miel#
+953  y barras de coco#
+954  y galletas de avena#
+955  y botones de caramelo#
+956  con canela picante#
+957  para armar y comer#
+958  y vitaminas vencidas#
+959  y gomitas de naranja#
+960  y malvaviscos con forma de maní#
+961  con galletas saladas sueltas#
+962  y galletas con forma de animales#
+963  y vasitos de pudín#
+964  y trocitos de caramelo de mantequilla#
+965  y caramelos de menta#
+966 El azúcar derretida hace que tus dedos resbalen.#
+
+1002 mezcla cortante %+2d de #
+1003 ración vencida %+2d de #
+1004 ración reseca %+2d de #
+1005 ración algo reseca %+2d de #
+1028 %d mezclas cortantes %+2d de #
+1029 %d ración vencida %+2d de #
+1030 %d raciones resecas %+2d de #
+1031 %d raciones algo resecas %+2d de #
+1054 mezcla cortante de #
+1055 ración vencida de #
+1056 ración reseca de #
+1057 ración algo reseca de #
+1080 %d mezclas cortantes de #
+1081 %d ración vencida de #
+1082 %d raciones resecas de #
+1083 %d raciones algo resecas de #
+1093 No puedes abrir la bolsa sin tijeras.#
+1505 acaba como masa de pastel de calabaza.#
+1515 invade el espacio personal de la criatura y recibe un golpe.#
+1910 ¡Dulce o Travesura!#
+1911 Feliz, Feliz Halloween, Silver Shamrock#
+1912 ¡Temporada de latte de calabaza!#
+1913 Manual para Recién Fallecidos#
+1914 El Fantasma Más Genial#
+1915 ¡Ahora vuelvo!#
+1916 ¡Viene de Dentro de la Casa!#
+1917 Justo a Tiempo para el Pastel#
+1918 ¡El Hombre Lobo Tiene Huevos!#
+1919 ¡QUÉ FARSA!#
+1920 ¡Una Momia Entró en Mi Casa!#
+1921 ¡Por Eso Anda Tanta Gente Rara Afuera!#
+1922 ¡Un Dedo del Pie de un Muerto!#
+1923 ¡Candyman! ¡Candyman! ¡Candyman!#
+1924 ¡Bloody Mary! ¡Bloody Mary!#
+1925 Ven a jugar con nosotras, Danny#
+1926 Solo Son Fideos, Michael#
+1927 ¿Qué es? ¿Qué es?#
+1928 9, 10, Nunca Más Dormirás#
+1929 ¡Solo Es un Sueño!#
+1930 ¡Solo es una caja de acertijos!#
+1931 Fue Mi Primer Funeral#
+1932 Las Reglas del Juego Son Muy Claras#
+1933 ¡Amigos hasta el final!#
+1934 Una Máscara Revela Más que un Rostro#
+1935 ¿Vienes a Cantar Villancicos de Calabaza?#
+1936 Algo Maligno Se Acerca#
+1937 ¡Una criatura en la mazmorra!#
+1938 Todos tienen derecho a un buen susto#
+1939 Dedos Pegajosos, Pies Cansados...#
+1946 NOTA: Solo elimina trampas aleatorias, como calabazas y trampas de flechas,
+en los bordes y pasillos de los pisos. Solo habrá trampas dentro de las salas
+diseñadas para contenerlas.#
+2367 ¡El símbolo se resiste a tu agarre y no puedes recuperarlo!#
+2368 Colocas el símbolo en el receptáculo...#
+2370 ¡El símbolo empieza a flotar!#
+2377 Ves un símbolo místico sobre un pedestal.#
+2494 Huesos de prisioneros muertos cubren el suelo de la jaula.#
+2495 La jaula es endeble, pero sus ocupantes lo eran aún más.#
+2497 Ves una cama con correas.#
+2499 Ves una lúgubre jaula de prisión.#
+2506 celda#
+2821 %s
+ Sentí el poder del fantasma cuando lo pusiste en ese pedestal.#
+2823 %s
+ Logré atrapar parte del poder que liberó el fantasma de Herx.#
+2824 %s
+ Este portal atraviesa el sello de las Cuevas con el poder del fantasma.#
+2834 %s
+ Solo me interesan los artefactos más
+ raros de estas tierras.
+ En particular, los símbolos de Halloween que robó Herx.#
+2836 %s
+ Verás, por mi alto rango en el gremio
+ puedo extorsionar a esos magos
+ hasta sacarles su última moneda
+ gracias a sus preciados símbolos.#
+3974 La enorme calabaza no se puede mover así.#
+4006 Reciclar llama espiritual#
+4007 Tomar llama espiritual#
+4021 Empujar calabaza#
+4022 Tomar símbolo#
+4024 Persuadir espíritu#
+4126 Entrégame el símbolo directamente.
+¡Ahora no hace falta
+andar con pagos en oro!#
+4349 trampa de calabaza#
+4358 calabaza#
+5805 Calabaza Gigante#
