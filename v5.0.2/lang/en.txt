@@ -6098,7 +6098,7 @@ Subida#
 
 6019 Completar Barra Rápida#
 6020 Precargar de Archivos Musicales#
-6021 La precarga mejora el rendimiento de la reproducción, pero aumenta el uso de memoria del sistema. (Aplicado en el próximo inicio del juego)#
+6021 La precarga mejora la reproducción, pero usa más memoria. (Se aplica al próximo inicio)#
 6022 Temas Festivos#
 6023 Contenido Festivo#
 6024 Alternar el contenido temático festivo según se desee.#
@@ -6700,11 +6700,11 @@ active esta opción.
 6441 Ganancia de entrada#
 6442 Ajuste el volumen después del efecto de normalización.#
 6443 Monitoreo de entrada#
-6444 Escuche sus comentarios según la configuración de entrada/salida. Los niveles de entrada monitoreados se muestran a la derecha.#
+6444 Escucha tu entrada según los ajustes de entrada/salida. Los niveles se muestran a la derecha.#
 6445 Volumen de voz#
 6446 Ajusta el volumen del chat de voz entrante del jugador.#
 6447 Empuje para hablar#
-6448 Mantenga presionado el enlace Chat de voz para hablar. Cuando está deshabilitado, el enlace activa y desactiva el envío de voz.#
+6448 Mantén pulsado Chat de voz para hablar. Si está desactivado, el control alterna el envío de voz.#
 6449 Entrada de voz habilitada.#
 6450 Entrada de voz deshabilitada.#
 6451 Chat de voz#
@@ -6717,7 +6717,7 @@ active esta opción.
 6458 Mayor distancia de voz#
 6459 El chat de voz recibido se puede escuchar desde más lejos. Desactívelo para aumentar el efecto de proximidad.#
 6460 Normalización del volumen de entrada#
-6461 Aumente el volumen de las señales de entrada más silenciosas; los valores altos aumentan el ruido de fondo. 0% desactiva el efecto.#
+6461 Aumenta las entradas débiles; valores altos añaden ruido de fondo. 0% desactiva el efecto.#
 6462 Entrada sin procesar#
 6463 Modificado#
 
@@ -7144,7 +7144,7 @@ no se puede utilizar para recargar.#
 6868 No tienes nada más que aprender comerciando con este vendedor.#
 6869 ¡El pato se escapa de tu mochila!#
 6870 Pistas instrumentales de fondo#
-6871 Permita que las pistas de música instrumental continúen mientras sus efectos estén activos pero no se reproduzcan activamente.#
+6871 Permite que la música de instrumentos siga sonando mientras sus efectos estén activos, aunque no se usen.#
 6872 Pistas instrumentales de primer plano#
 6873 Descripción de pistas instrumentales en primer plano#
 6874 ¡Proyectas tu espíritu!#
