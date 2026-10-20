@@ -47,23 +47,22 @@ En caso de encontrar errores/bugs/crashes, por favor, reportarlo en la sección 
 
 ## Instalación desde Steam
 - [Barony Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2707610137)
-- [Barony Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2707610137)
 
 <br>
 <br>
 <br>
 
 ### Agradecimientos
-* Turning Wheel LLC por Barony por su [lanzamiento Open-Source](https://github.com/TurningWheel/Barony) y su dehardcoding de textos para facilitar el proceso de traducción.
-* _LordDestroHD_, _Adrii_,  y su equipo por los adelantos en la traducción Pre v3.3.7.
-* _Hy!Shin_ y _FrankySniper_ por sus esfuerzos de traducción Post v3.3.7 
-* Al grupo de discord [Barony en Español](https://discord.gg/SqZTwQV) por su comunidad hispanohablante.
-* Turning Wheel LLC por Barony por su [lanzamiento Open-Source](https://github.com/TurningWheel/Barony) y su dehardcoding de textos para facilitar el proceso de traducción.
-* _LordDestroHD_, _Adrii_,  y su equipo por los adelantos en la traducción Pre v3.3.7.
-* _Hy!Shin_ y _FrankySniper_ por sus esfuerzos de traducción Post v3.3.7 
-* Al grupo de discord [Barony en Español](https://discord.gg/SqZTwQV) por su comunidad hispanohablante.
-* _suquinho de chorume_ por la [traducción PT-BR](https://steamcommunity.com/sharedfiles/filedetails/?id=2613956785)
-* _reffpixels_ por su fuente [Pixelart_Serif_Font_v02](https://reffpixels.itch.io/seriffont)
+* _Turning Wheel LLC_, desarrolladores de Barony, por [publicar su código](https://github.com/TurningWheel/Barony) y facilitar la localización del juego mediante la externalización de sus textos.
+* Al grupo de discord [_Barony en Español_](https://discord.gg/SqZTwQV) por ofrecer un espacio de encuentro para los jugadores hispanohablantes.
+* _LordDestroHD_, _Adrii_, _Hy!Shin_ y _FrankySniper_ por sus traducciones parciales de versiones anteriores de Barony, cuyos contenidos fueron consultados y adaptados selectivamente para este proyecto.
+* _reffpixels_ por su tipografía [Pixelart_Serif_Font_v02](https://reffpixels.itch.io/seriffont)
+* _Jayvee Enaguas (HarvettFox96)_ por su tipografía [Pixel Operator Mono8-Bold](https://www.dafont.com/pixel-operator.font)
+* _memesbruh03_ por su tipografía [Superstar](https://fontmeme.com/fonts/superstar-memesbruh03-font)
+* [_suquinho de chorume_](https://steamcommunity.com/sharedfiles/filedetails/?id=2613956785), [_Barony PL_](https://steamcommunity.com/sharedfiles/filedetails/?id=3078243671),  [Tradução Brasileira[PT/BR]](https://steamcommunity.com/sharedfiles/filedetails/?id=3344827761) y [_Barony Italian Translation_](https://github.com/SirZompiGit/Barony_Italian_traslation/tree/main) por servir como referencia para la estructura del proyecto y la resolución de cuestiones lingüísticas
+
+
+
 
 
  
