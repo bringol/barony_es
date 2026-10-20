@@ -2,165 +2,165 @@
     "version": 1,
     "items": {
         "bronze_sword": {
-            "name_identified": "butcher knife",
-            "name_unidentified": "butcher knife"
+            "name_identified": "cuchillo de carnicero",
+            "name_unidentified": "cuchillo de carnicero"
         },
         "bronze_mace": {
-            "name_identified": "bat",
-            "name_unidentified": "bat"
+            "name_identified": "bate",
+            "name_unidentified": "bate"
         },
         "bronze_axe": {
-            "name_identified": "cleaver",
-            "name_unidentified": "cleaver"
+            "name_identified": "hachuela de carnicero",
+            "name_unidentified": "hachuela"
         },
         "iron_spear": {
-            "name_identified": "pitchfork",
-            "name_unidentified": "pitchfork"
+            "name_identified": "horca",
+            "name_unidentified": "horca"
         },
         "iron_sword": {
-            "name_identified": "iron cutlass",
-            "name_unidentified": "iron cutlass"
+            "name_identified": "sable de hierro",
+            "name_unidentified": "sable de hierro"
         },
         "iron_mace": {
-            "name_identified": "iron hammer",
-            "name_unidentified": "iron hammer"
+            "name_identified": "martillo de hierro",
+            "name_unidentified": "martillo de hierro"
         },
         "iron_axe": {
-            "name_identified": "iron hook",
-            "name_unidentified": "iron hook"
+            "name_identified": "garfio de hierro",
+            "name_unidentified": "garfio de hierro"
         },
         "steel_halberd": {
-            "name_identified": "steel scythe",
-            "name_unidentified": "steel scythe"
+            "name_identified": "guadaña de acero",
+            "name_unidentified": "guadaña de acero"
         },
         "steel_axe": {
-            "name_identified": "batwing axe",
-            "name_unidentified": "batwing axe"
+            "name_identified": "hacha de alas de murciélago",
+            "name_unidentified": "hacha de alas de murciélago"
         },
         "cloak": {
-            "name_identified": "back costume",
-            "name_unidentified": "back costume"
+            "name_identified": "disfraz de espalda",
+            "name_unidentified": "disfraz de espalda"
         },
         "cloak_magicreflection": {
-            "name_identified": "back costume of magic reflection",
-            "name_unidentified": "back costume"
+            "name_identified": "disfraz de espalda de reflejar magia",
+            "name_unidentified": "disfraz de espalda"
         },
         "cloak_invisibility": {
-            "name_identified": "back costume of invisibility",
-            "name_unidentified": "back costume"
+            "name_identified": "disfraz de espalda de invisibilidad",
+            "name_unidentified": "disfraz de espalda"
         },
         "cloak_protection": {
-            "name_identified": "back costume of protection",
-            "name_unidentified": "back costume"
+            "name_identified": "disfraz de espalda de protección",
+            "name_unidentified": "disfraz de espalda"
         },
         "hat_phrygian": {
-            "name_identified": "pharaoh headdress",
-            "name_unidentified": "pharaoh headdress"
+            "name_identified": "tocado de faraón",
+            "name_unidentified": "tocado de faraón"
         },
         "hat_hood": {
-            "name_identified": "head costume",
-            "name_unidentified": "head costume"
+            "name_identified": "disfraz de cabeza",
+            "name_unidentified": "disfraz de cabeza"
         },
 		"mask_steel_visor": {
-			"name_identified": "scary mask",
-			"name_unidentified": "scary mask"
+			"name_identified": "máscara aterradora",
+			"name_unidentified": "máscara aterradora"
 		},
         "hat_wizard": {
-            "name_identified": "witch hat",
-            "name_unidentified": "witch hat"
+            "name_identified": "sombrero de bruja",
+            "name_unidentified": "sombrero de bruja"
         },
         "hat_jester": {
-            "name_identified": "clown wig",
-            "name_unidentified": "clown wig"
+            "name_identified": "peluca de payaso",
+            "name_unidentified": "peluca de payaso"
         },
         "leather_helm": {
-            "name_identified": "comedy headband",
-            "name_unidentified": "comedy headband"
+            "name_identified": "diadema cómica",
+            "name_unidentified": "diadema cómica"
         },
         "iron_helm": {
-            "name_identified": "warlock helmet",
-            "name_unidentified": "warlock helmet"
+            "name_identified": "yelmo de brujo",
+            "name_unidentified": "yelmo de brujo"
         },
         "steel_helm": {
-            "name_identified": "costume helmet",
-            "name_unidentified": "costume helmet"
+            "name_identified": "yelmo de disfraz",
+            "name_unidentified": "yelmo de disfraz"
         },
         "scroll_food": {
-            "name_identified": "scroll of candy",
-            "name_unidentified": "scroll"
+            "name_identified": "pergamino de dulces",
+            "name_unidentified": "pergamino"
         },
         "tool_tinopener": {
-            "name_identified": "scissors",
-            "name_unidentified": "scissors"
+            "name_identified": "tijeras",
+            "name_unidentified": "tijeras"
         },
         "tool_torch": {
-            "name_identified": "spirit flame",
-            "name_unidentified": "spirit flame"
+            "name_identified": "llama espiritual",
+            "name_unidentified": "llama espiritual"
         },
         "tool_lantern": {
-            "name_identified": "jack-o-lantern",
-            "name_unidentified": "jack-o-lantern"
+            "name_identified": "farol de calabaza",
+            "name_unidentified": "farol de calabaza"
         },
         "tool_glasses": {
-            "name_identified": "disguise glasses",
-            "name_unidentified": "disguise glasses"
+            "name_identified": "gafas de disfraz",
+            "name_unidentified": "gafas de disfraz"
         },
         "food_bread": {
-            "name_identified": "lollipop",
-            "name_unidentified": "lollipop"
+            "name_identified": "paleta de caramelo",
+            "name_unidentified": "paleta de caramelo"
         },
         "food_cheese": {
-            "name_identified": "chocolate chew",
-            "name_unidentified": "chocolate chew"
+            "name_identified": "caramelo masticable de chocolate",
+            "name_unidentified": "caramelo masticable de chocolate"
         },
         "food_apple": {
-            "name_identified": "caramel apple",
-            "name_unidentified": "caramel apple"
+            "name_identified": "manzana acaramelada",
+            "name_unidentified": "manzana acaramelada"
         },
         "food_meat": {
-            "name_identified": "king-size candy bar",
-            "name_unidentified": "king-size candy bar"
+            "name_identified": "barra gigante de chocolate",
+            "name_unidentified": "barra gigante de chocolate"
         },
         "food_fish": {
-            "name_identified": "candy skull",
-            "name_unidentified": "candy skull"
+            "name_identified": "calavera de azúcar",
+            "name_unidentified": "calavera de azúcar"
         },
         "food_tin": {
-            "name_identified": "fun-size sack",
-            "name_unidentified": "fun-size sack"
+            "name_identified": "bolsita de dulces",
+            "name_unidentified": "bolsita de dulces"
         },
         "artifact_orb_blue": {
-            "name_identified": "blue bat symbol",
-            "name_unidentified": "blue bat symbol"
+            "name_identified": "símbolo azul de murciélago",
+            "name_unidentified": "símbolo azul de murciélago"
         },
         "artifact_orb_red": {
-            "name_identified": "orange punkin symbol",
-            "name_unidentified": "orange punkin symbol"
+            "name_identified": "símbolo naranja de calabaza",
+            "name_unidentified": "símbolo naranja de calabaza"
         },
         "artifact_orb_purple": {
-            "name_identified": "violet ghost symbol",
-            "name_unidentified": "violet ghost symbol"
+            "name_identified": "símbolo violeta de fantasma",
+            "name_unidentified": "símbolo violeta de fantasma"
         },
         "artifact_orb_green": {
-            "name_identified": "green skull symbol",
-            "name_unidentified": "green skull symbol"
+            "name_identified": "símbolo verde de calavera",
+            "name_unidentified": "símbolo verde de calavera"
         },
         "hat_fez": {
-            "name_identified": "kitty ears",
-            "name_unidentified": "kitty ears"
+            "name_identified": "orejas de gatito",
+            "name_unidentified": "orejas de gatito"
         },
         "cloak_backpack": {
-            "name_identified": "pillow case",
-            "name_unidentified": "pillow case"
+            "name_identified": "funda de almohada",
+            "name_unidentified": "funda de almohada"
         },
         "spellbook_detect_food": {
-            "name_identified": "spellbook of detect candy",
-            "name_unidentified": "spellbook"
+            "name_identified": "grimorio de detectar dulces",
+            "name_unidentified": "grimorio"
         }
     },
 	"spell_names": {
         "spell_detect_food": {
-            "name": "Detect Candy"
+            "name": "Detectar Dulces"
         }
     }
 }
