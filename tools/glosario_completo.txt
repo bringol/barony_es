@@ -7,8 +7,12 @@
 # elegir campaña o expedición según el sentido.
 # spell: hechizo en la interfaz; chance: probabilidad (prob. si falta espacio).
 # hotbar: barra rápida. Mantener estas denominaciones en las instrucciones.
+# bat: murciélago si es la criatura; bate si es el arma de Halloween
+# (bronze_mace en themes/scarony).
 abundance;abundancia
 ac;ca
+artifact boots;botas de artefacto
+artifact gloves;brazaletes de artefacto
 atk;atq
 accursed;condenado
 acid;ácido
@@ -71,6 +75,10 @@ augment;empodera
 automaton;autómata
 axe;hacha
 axe skill;hab hacha
+back costume;disfraz de espalda
+back costume of invisibility;disfraz de espalda de invisibilidad
+back costume of magic reflection;disfraz de espalda de reflejar magia
+back costume of protection;disfraz de espalda de protección
 backpack;mochila
 backstab;ataque furtivo
 backstab bonus dmg;bonus daño por atq furtivo
@@ -93,6 +101,7 @@ base spell power;poder base de hechizo
 base spell power bonus;bonus poder mágico
 base unarmed damage;daño base desarmado
 bat;murciélago
+batwing axe;hacha de alas de murciélago
 bear hood;capucha de oso
 beartrap;trampa de mandíbula
 beast;bestia
@@ -123,6 +132,8 @@ blocking skill;hab bloqueo
 blood vial;frasco de sangre
 bloodletting;sangría
 blouse;blusa
+blue bat symbol;símbolo azul de murciélago
+blue gift;regalo azul
 blue mystic orb;orbe místico azul
 bola;boleadora
 bone;hueso
@@ -157,11 +168,15 @@ bugbear;osgo
 bunny hood;capucha de conejo
 burning;quemadura
 burning resistance;resistir quemaduras
+butcher knife;cuchillo de carnicero
 bycocket;feluca
 byrd;byrd
 callout;llamado
 campaign;encrucijada
 canardo;canardo
+candy cane;bastón de caramelo
+candy skull;calavera de azúcar
+caramel apple;manzana acaramelada
 casting;canalizar
 casting consume mp;canalizar consumirá pm
 casting memorized spell;magia memorizada
@@ -175,6 +190,7 @@ character;personaje
 charisma;carisma
 charlotte;charlotte
 charm monster;encantar monstruo
+chocolate chew;caramelo masticable de chocolate
 chr;car
 church;iglesia
 circlet;diadema
@@ -187,6 +203,7 @@ class stat growth shapeshifted;incremento estadístico cambiaformas
 claymore;mandoble
 cleanse food;purificar alimento
 cleat;botas de montaña
+cleaver;hachuela
 cleric;clérigo
 cloak;capa
 cloak burned up;capas agotadas
@@ -196,10 +213,12 @@ cloak of protection;capa de protección
 cloak of the guardian;capa del guardián
 clothing;vestimenta
 cloudy;decadente
+clown wig;peluca de payaso
 cockatrice;cocatriz
 cockatrice lair;cubil de la cocatriz
 cold;frío
 cold resistance;resistencia al frío
+comedy headband;diadema cómica
 compel;obligar
 compound bow;arco compuesto
 con str;con fue
@@ -213,13 +232,16 @@ consumption;consunción
 container;contenedor
 contravention;transgresión
 controlling goblin;controlando trasgos
+cookies;galletas
 costume;disfraz
+costume helmet;yelmo de disfraz
 counsel;consejo
 courage;coraje
 cowardice;cobardía
 crab;cangrejo
 cracked;frágil
 crafted;elaborado
+cranberry sauce;salsa de arándanos rojos
 critical spell;conjuro crítico
 critical strike;golpes críticos
 crossbow;ballesta
@@ -265,6 +287,7 @@ deployed gyrobot;girobots desplegados
 deployed trap;trampas desplegadas
 desecrate;profanar
 destroyed;irreparable
+detect candy;detectar dulces
 detection;detección
 dethroning herx;destronando a herx
 devil;diablillo
@@ -277,6 +300,7 @@ dig;excavar
 digging;excavando
 disable hp regeneration;desactiva la regeneración de pv
 disarm;desarmar
+disguise glasses;gafas de disfraz
 disrupted;desequilibrio
 divination;adivinación
 dizzy;mareo
@@ -308,6 +332,8 @@ each shopkeeper trade;cada comerciante comercia
 echola;lucas
 effect duration;duración de efecto
 effect still work;efecto aún funciona
+elf hat;sombrero de duende
+elf headgear;gorro de duende
 emerald;esmeralda
 enchanted amulet;amuleto encantado
 enchanted ring;anillo encantado
@@ -330,6 +356,7 @@ favorite skill;habilidad favorita
 fear;miedo
 feather;pluma
 felt hat;sombrero de fieltro
+festive headgear;gorro festivo
 fiercely guarded kobold maze;laberinto kóbold ferozmente custodiado
 fire faster but deal;dispara más rápido pero inflige
 fire hunting ammo;flecha ardiente de cacería 
@@ -366,7 +393,9 @@ free action;acción libre
 freeze trap;trampa de congelación
 fresh;saludable
 frostbitten;congelación
+fruitcake;pastel de frutas
 frypan;sartén
+fun-size sack;bolsita de dulces
 gadget;artilugio
 garnet;granate
 gate;portón
@@ -379,6 +408,7 @@ ghost;espectro
 ghostbolt;rayo espectral
 ghoul;necrófago
 ghoul disturbed;necrófagos perturbados
+gift sack;saco de regalos
 gnome;gnomo
 goatman;fauno
 goblin;trasgo
@@ -389,12 +419,15 @@ gravestone;lápida
 greasy;grasiento
 greatsword;espadón
 green mystic orb;orbe místico verde
+green skull symbol;símbolo verde de calavera
+green tiny tree;arbolito verde
 gyro;girobot
 gyrobot;girobot
 hamlet;hamlet
 harvest trap;cosechar trampa
 hat;sombrero
 haunted castle;castillo embrujado
+head costume;disfraz de cabeza
 healer;curandero
 healing;curación
 health regeneration;regeneración de vida
@@ -472,8 +505,11 @@ iron axe;hacha de hierro
 iron boot;botas de hierro
 iron bracer;brazaletes de hierro
 iron breastpiece;coraza de hierro
+iron cutlass;sable de hierro
 iron dagger;daga de hierro
+iron hammer;martillo de hierro
 iron helm;yelmo de hierro
+iron hook;garfio de hierro
 iron key;llave de hierro
 iron knuckle;nudillos de hierro
 iron mace;maza de hierro
@@ -484,6 +520,7 @@ iron sword;espada de hierro
 irrepairable;irreparable
 item;objeto
 jacinth;jacinto
+jack-o-lantern;farol de calabaza
 jester;bufón
 jester hat;gorro de bufón
 jetstone;azabache
@@ -494,6 +531,8 @@ joker;guasón
 jump;salto mágico
 justice;justicia
 kinetic shield;escudo cinético
+king-size candy bar;barra gigante de chocolate
+kitty ears;orejas de gatito
 knight;caballero
 knockback;empuje
 knuckle;nudillos
@@ -527,6 +566,7 @@ loafer;mocasines
 location;ubicación
 locking;cerradura
 lockpick;ganzúa
+lollipop;paleta de caramelo
 longbow;arco largo
 lore;saber
 lore skill;hab saber
@@ -631,6 +671,7 @@ obelisk;obelisco
 obsidian;obsidiana
 opening;apertura
 option;opciones
+orange punkin symbol;símbolo naranja de calabaza
 orpheus;orfeo
 othello;otelo
 overcharge;sobrecarga
@@ -645,11 +686,15 @@ penetrate armor;penetrar armadura
 per;per
 perception;percepción
 perception per;percepción per
+pharaoh headdress;tocado de faraón
 phrygian hat;gorro frigio
 pickaxe;pico
+pie slice;porción de tarta
+pillow case;funda de almohada
 pinpoint;localizar
 pipe;tubería
 pit;foso
+pitchfork;horca
 playtime;tiempo de juego
 poison;veneno
 poison resistance;antiveneno
@@ -688,6 +733,7 @@ providence;providencia
 punisher;castigador
 purity;pureza
 purple mystic orb;orbe místico púrpura
+purple ornament;adorno morado
 push;empuje
 pwr;pdr
 pwr reduced;pdr reducido
@@ -722,6 +768,7 @@ recruited;reclutado
 red hood;capucha roja
 red mystic orb;orbe místico rojo
 red riding hood;caperucita roja
+red stocking;calcetín roja
 reflect magic;reflejar magia
 reflecting enemy spell;refleja hechizos enemigos
 reflector;reflector
@@ -764,16 +811,24 @@ salvage;reciclar
 sanctify;santificar
 sanctuary;santuario
 sanctum;cámara sagrada
+santa's brace;brazalete de papá noel
+santa's gown;manto de papá noel
+santa's mail;malla de papá noel
+santa's treads;botas de papá noel
+santa's veil;velo de papá noel
 sapper;zapador
 sapphire;zafiro
 sarkomancy;sarcomancia
 scapegoat;chivo expiatorio
 scarab;escarabajo
+scary mask;máscara aterradora
 scepter;cetro
 scion;vástago
+scissors;tijeras
 scorpion;escorpión
 scrap;chatarra
 scroll;pergamino
+scroll of candy;pergamino de dulces
 scroll of charging;pergamino de recarga
 scroll of conjure arrow;pergamino de invocar flechas
 scroll of destroy armor;pergamino de destruir armadura
@@ -856,6 +911,7 @@ sorcery skill;hab hechicería
 spawned monster;monstruos invocados
 spd;vel
 speed;velocidad
+spellbook of detect candy;grimorio de detectar dulces
 spellbot;magibot
 spell;hechizo
 spell forgotten;hechizos olvidados
@@ -991,6 +1047,7 @@ spellcaster;canalizador
 spider;tarántula
 spike trap;trampa de púas
 spin;giro
+spirit flame;llama espiritual
 spirit key;llave espiritual
 spirit weapon;arma espiritual
 splinter armor;destrozar armadura
@@ -1022,6 +1079,7 @@ steel greataxe;gran hacha de acero
 steel halberd;alabarda de acero
 steel helm;yelmo de acero
 steel mace;maza de acero
+steel scythe;guadaña de acero
 steel shield;escudo de acero
 steel sword;espada de acero
 steel visor;visera de acero
@@ -1095,6 +1153,7 @@ trap;trampa
 troll blood;sangre de troll
 troll form;forma de troll
 tunic;túnica
+turkey;pavo
 unarmed;desarmado
 unarmed bonus atk;bonus atq desarmado
 unarmed skill;hab desarmado
@@ -1117,10 +1176,12 @@ vampiric curse;maldición vampírica
 vandal;vándalo
 vandalise;vandalizar
 vandalised;vandalizado
+violet ghost symbol;símbolo violeta de fantasma
 void storage; arca del vacío
 vortex;vórtice
 wanderer;andariego
 wanderer ample food;sus abundantes provisiones
+warlock helmet;yelmo de brujo
 warm hat;gorro abrigado
 warning;advertencia
 warrior;guerrero
@@ -1136,6 +1197,7 @@ welcome;bienvenido
 whip;látigo
 windgate;muro de viento
 wise magician;mago erudito
+witch hat;sombrero de bruja
 wizard;mago
 wizard doublet;jubón de mago
 wizard hat;sombrero de mago
