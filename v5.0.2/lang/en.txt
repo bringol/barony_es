@@ -153,7 +153,7 @@
 111 Nada#
 112 Humanos#
 113 Ratas#
-114 Trasgos# 
+114 Trasgos#
 115 Cienos#
 116 Trolls#
 117 Murciélagos#
@@ -162,7 +162,7 @@
 120 Esqueletos#
 121 Escorpiones#
 122 Diablillos#
-123 Cangrejos# 
+123 Cangrejos#
 124 Gnomos#
 125 Demonios#
 126 Súcubos#
@@ -428,7 +428,7 @@ los objetos antes de usarlos.#
 259 Ves %d piezas de oro.#
 260 Ves una hoguera.#
 262 Ves una fuente.#
-263 Ves un lavamanos.#
+263 Ves un grifo.#
 264 Ves una escalera hacia abajo.#
 265 Ves una escalera hacia arriba.#
 266 Ves un cofre.#
@@ -466,8 +466,8 @@ los objetos antes de usarlos.#
 293 modo buddha siempre está desactivado en partidas multijugador.#
 294 modo buddha ON#
 295 modo buddha OFF#
-296 modo amistoso ON# 
-297 modo amistoso OFF# 
+296 modo amistoso ON#
+297 modo amistoso OFF#
 298 Salida en: %d, %d#
 299 Eso solo funciona en modo solitario.#
 300 Número de entidades en el piso: %d#
@@ -794,7 +794,7 @@ los objetos antes de usarlos.#
 # monster chat
 
 513 [ %s ] dice:#
-514 [ %s ] no responde# 
+514 [ %s ] no responde#
 515 %s no responde.#
 516 ¡%s %s! ¡Tendré tu cabeza!#
 517 ¡%s %s! ¡En guardia!#
@@ -846,7 +846,7 @@ los objetos antes de usarlos.#
 "El veneno de la tarántula desvanece en diez segundos."
 "¡Es la verdad!"#
 546 "¿Sabías que..?"
-"Puedes encontrar anillos en los lavamanos."
+"Puedes encontrar anillos en los grifo."
 "¡Es la verdad!"#
 547 "¿Sabías que..?"
 "El cielo resplandece a mi alrededor (alrededor)"
@@ -935,7 +935,7 @@ sobrevive hasta el siguiente piso.#
 
 # more furniture
 
-580 El lavamanos ha quedado inservible.
+580 El grifo ha quedado inservible.
 ¡Deberías llamar a un fontanero!#
 581 Oye, hay un anillo atascado en el desagüe.#
 582 ¡Un cieno sale del grifo!#
@@ -1068,7 +1068,7 @@ sobrevive hasta el siguiente piso.#
 695 ¡Ella ni se inmuta!#
 696 ¡Él ni se inmuta!#
 697 ¡Has matado a %s!#
-698 ¡%s %s!# 
+698 ¡%s %s!#
 699 ¡%s %s!#
 700 DEPRECATED#
 701 ¡Estás sangrando!#
@@ -1090,11 +1090,11 @@ sobrevive hasta el siguiente piso.#
 713 Oyes el leve sonido de calles bulliciosas.#
 714 Oyes el eco de un coro en la distancia.#
 715 Oyes el viento aullante en la distancia.#
-716 Oyes el débil choque de rocas rodando.# 
+716 Oyes el débil choque de rocas rodando.#
 717 Oyes el distante rugido de un minotauro hambriento.#
 718 Oyes un zumbido místico en la distancia.#
 719 Oyes llantos de angustia en la distancia.#
-720 %s te sigue hasta el siguiente piso.# 
+720 %s te sigue hasta el siguiente piso.#
 721 %s de tu grupo te sigue hasta el siguiente piso.#
 722 %s se despide!#
 723 ¡Tu %s se despide!#
@@ -1149,7 +1149,7 @@ Gracias!#
 
 750 No puedes beber eso ¡Te estás ahogando!#
 751 ¡Todavía estás vomitando la anterior comida!#
-752 Esto sabe a agua.# 
+752 Esto sabe a agua.#
 753 Esto sabe a agua fría.
 En realidad es bastante refrescante.#
 755 Sientes un mal augurio.#
@@ -1173,7 +1173,7 @@ En realidad es bastante refrescante.#
 772 Esto sabe a medicina.#
 773 Te encuentras mejor.#
 774 Notas la energía arcana fluyendo por tu cuerpo.#
-775 ¡No es posible leer pergaminos si no puedes ver!# 
+775 ¡No es posible leer pergaminos si no puedes ver!#
 
 
 # mail
@@ -1198,7 +1198,7 @@ comerte... para la cena."#
 790 La carta lee así:
 
  "Cobra, cobra, llanto espanto;
-  Fuego ven, con humo y llanto."#  
+  Fuego ven, con humo y llanto."#
 
 793 Esto es solo un anuncio:
 
@@ -1452,57 +1452,57 @@ comerte... para la cena."#
 
 # item quality strings
 
-982 %+2d|Inservible #
-983 %+2d|Deficiente #
-984 %+2d|Endeble #
-985 %+2d|Utilizable #
-986 %+2d|Excelente #
-987 %+2d|Irreparable #
-988 %+2d|Frágil #
-989 %+2d|Irregular #
-990 %+2d|Regular #
-991 %+2d|Deslumbrante #
-992 %s|%+2d|Volátil #
-993 %s|%+2d|Decadente #
-994 %s|%+2d|Remolinante #
-995 %s|%+2d|Decente #
-996 %s|%+2d|Burbujeante #
-997 %+2d|Ilegible #
-998 %+2d|Deplorable #
-999 %+2d|Tenue #
-1000 %+2d|Legible #
-1001 %+2d|Impecable #
-1002 %+2d|Incomible #
-1003 %+2d|Repugnante #
-1004 %+2d|Decadente #
-1005 %+2d|Comestible #
-1006 %+2d|Saludable #
-1007 Una copia de: "%s" #
-1008 %d|%+2d|Inservible #
-1009 %d|%+2dDeficiente #
-1010 %d|%+2d|Endeble #
-1011 %d|%+2d|Utilizable #
-1012 %d|%+2d|Excelente #
-1013 %d|%+2d|Irreparable #
-1014 %d|%+2d|Frágil #
-1015 %d|%+2d|Irregular # 
-1016 %d|%+2d|Regular #
-1017 %d|%+2d|Deficiente #
-1018 %d|%s|%+2d|Volátil #
-1019 %d|%s|%+2d|Decadente #
-1020 %d|%s|%+2d|Remolinante #
-1021 %d|%s|%+2d|Decente #
-1022 %d|%s|%+2d|Burbujeante #
-1023 %d|%+2d|Ilegible #
-1024 %d|%+2d|Deplorable #
-1025 %d|%+2d|Tenue #
-1026 %d|%+2d|Legible #
-1027 %d|%+2d|Impecable #
-1028 %d|%+2d|Incomible #
-1029 %d|%+2d|Repugnante #
-1030 %d|%+2d|Decadente #
-1031 %d|%+2d|Comestible #
-1032 %d|%+2d|Saludable #
+982 (Inservible, %+2d) #
+983 (Deficiente, %+2d) #
+984 (Endeble, %+2d) #
+985 (Utilizable, %+2d) #
+986 (Excelente, %+2d) #
+987 (Irreparable, %+2d) #
+988 (Frágil, %+2d) #
+989 (Irregular, %+2d) #
+990 (Regular, %+2d) #
+991 (Deslumbrante, %+2d) #
+992 (%s, Volátil, %+2d) #
+993 (%s, Decadente, %+2d) #
+994 (%s, Remolinante, %+2d) #
+995 (%s, Decente, %+2d) #
+996 (%s, Burbujeante, %+2d) #
+997 (Ilegible, %+2d) #
+998 (Deplorable, %+2d) #
+999 (Tenue, %+2d) #
+1000 (Legible, %+2d) #
+1001 (Impecable, %+2d) #
+1002 (Incomible, %+2d) #
+1003 (Repugnante, %+2d) #
+1004 (Decadente, %+2d) #
+1005 (Comestible, %+2d) #
+1006 (Saludable, %+2d) #
+1007 Copia de: "%s" #
+1008 %d (Inservible, %+2d) #
+1009 %d (Deficiente, %+2d) #
+1010 %d (Endeble, %+2d) #
+1011 %d (Utilizable, %+2d) #
+1012 %d (Excelente, %+2d) #
+1013 %d (Irreparable, %+2d) #
+1014 %d (Frágil, %+2d) #
+1015 %d (Irregular, %+2d) #
+1016 %d (Regular, %+2d) #
+1017 %d (Deficiente, %+2d) #
+1018 %d (%s, Volátil, %+2d) #
+1019 %d (%s, Decadente, %+2d) #
+1020 %d (%s, Remolinante, %+2d) #
+1021 %d (%s, Decente, %+2d) #
+1022 %d (%s, Burbujeante, %+2d) #
+1023 %d (Ilegible, %+2d) #
+1024 %d (Deplorable, %+2d) #
+1025 %d (Tenue, %+2d) #
+1026 %d (Legible, %+2d) #
+1027 %d (Impecable, %+2d) #
+1028 %d (Incomible, %+2d) #
+1029 %d (Repugnante, %+2d) #
+1030 %d (Decadente, %+2d) #
+1031 %d (Comestible, %+2d) #
+1032 %d (Saludable, %+2d) #
 1033 %d copias de "%s" #
 1034 Inservible #
 1035 Deficiente #
@@ -1514,47 +1514,47 @@ comerte... para la cena."#
 1041 Irregular #
 1042 Regular #
 1043 Deslumbrante #
-1044 Volátil-%s #
-1045 Decadente-%s #
-1046 Remolinante-%s # 
-1047 Decente%s #
-1048 Burbujeante-%s #
-1049 Ilegible #
-1050 Deplorable # 
-1051 Tenue #
-1052 Legible #
-1053 Impecable #
+1044 (%s, Volátil) #
+1045 (%s, Decadente) #
+1046 (%s, Remolinante) #
+1047 (%s, Decente) #
+1048 (%s, Burbujeante) #
+1049 (Ilegible) #
+1050 (Deplorable) #
+1051 (Tenue) #
+1052 (Legible) #
+1053 (Impecable) #
 1054 Incomible #
 1055 Repugnante #
 1056 Decadente #
-1057 Comestible # 
-1058 Saludable # 
+1057 Comestible #
+1058 Saludable #
 1059 %s con etiquetas de %s #
-1060 %d|Inservible #
-1061 %d|Deficiente #
-1062 %d|Endeble #
-1063 %d|Utilizable #
-1064 %d|Excelente #
-1065 %d|Irreparable #
-1066 %d|Frágil #
-1067 %d|Irregular #
-1068 %d|Regular #
-1069 %d|Deslumbrante #
-1070 %d|%s|Volátil #
-1071 %d|%s|Decadente #
-1072 %d|%s|Remolinante #
-1073 %d|%s|Decente #
-1074 %d|%s|Burbujeante #
-1075 %d|Ilegible #
-1076 %d|Deplorable #
-1077 %d|Tenue #
-1078 %d|Legible #
-1079 %d|Impecable #
-1080 %d|Incomible #
-1081 %d|Repugnante #
-1082 %d|Decadente #
-1083 %d|Comestible #
-1084 %d|Saludable #
+1060 %d (Inservible) #
+1061 %d (Deficiente) #
+1062 %d (Endeble) #
+1063 %d (Utilizable) #
+1064 %d (Excelente) #
+1065 %d (Irreparable) #
+1066 %d (Frágil) #
+1067 %d (Irregular) #
+1068 %d (Regular) #
+1069 %d (Deslumbrante) #
+1070 %d (%s, Volátil) #
+1071 %d (%s, Decadente) #
+1072 %d (%s, Remolinante) #
+1073 %d (%s, Decente) #
+1074 %d (%s, Burbujeante) #
+1075 %d (Ilegible) #
+1076 %d (Deplorable) #
+1077 %d (Tenue) #
+1078 %d (Legible) #
+1079 %d (Impecable) #
+1080 %d (Incomible) #
+1081 %d (Repugnante) #
+1082 %d (Decadente) #
+1083 %d (Comestible) #
+1084 %d (Saludable) #
 1085 %s con etiqueta de %s #
 1086 %d copias de "%s" #
 
@@ -3528,12 +3528,12 @@ drenarse el resto de tu magia!#
 3177 DEPRECATED#
 3178 DEPRECATED#
 
-3179 Esqueletos no necesitan comida!#
+3179 ¡Esqueletos no necesitan comida!#
 3180 ¡Pero espera! ¡Puedes convertir maná en una nueva vida!#
 3181 No posees suficiente maná para revivirte...#
 3182 ¡Tu sufres para combatir la corriente como un esqueleto!#
-3183 Tu carne arde del dolor mientras haces contacto con el agua!#
-3184 Tus huesos arden del dolor mientras haces contacto con el agua!#
+3183 ¡Tu carne arde del dolor mientras haces contacto con el agua!#
+3184 ¡Tus huesos arden del dolor mientras haces contacto con el agua!#
 3185 La polimorfia se disipa hasta que vuelves a tu forma original.#
 3186 ¡Te transformas en %s!#
 3187 ¡%s se transforma en %s!#
@@ -4135,7 +4135,7 @@ ningún descubrimiento del girobot.#
 3760 ¡Gungnir penetra la armadura de %s!#
 3761 ¡Gungnir penetra la armadura de %s!#
 3762 ¡Un carcaj aparece repentinamente ante ti!#
-3763 un(a) #
+3763 #
 3764 DEPRECATED_SPELL_NAME#
 3765 DEPRECATED_SPELL_NAME#
 3766 DEPRECATED#
@@ -4405,7 +4405,7 @@ antes de negociar!#
 4000 Recoger objeto#
 4001 Recoger oro#
 4002 Beber de la fuente#
-4003 Beber del lavamanos#
+4003 Beber del grifo#
 4004 Cerrar cofre#
 4005 Abrir cofre#
 4006 Reciclar antorcha#
@@ -4483,10 +4483,10 @@ antes de negociar!#
 4073 Ves un cartel.#
 4074 Lista de Habilidades#
 # Action Prompts
-4075 Atq#
+4075 Atacar#
 4076 Defender#
 4077 Sigilo#
-4078 Canalizar#
+4078 Lanzar#
 4079 Lanzar desde
 Grimorio#
 4080 Ganzuar#
@@ -4502,7 +4502,7 @@ Grimorio#
 4090 Te ha descuatrizado un crustáceo.#
 
 # Nav Prompts
-4091 Recoger Todo#
+4091 Vaciar#
 4092 Mover cursor#
 4093 Ver Hechizos#
 4094 Ver Objetos#
@@ -4805,7 +4805,7 @@ ser cómplice de un acto violento!#
 4351 trampa de flechas#
 4352 trampa mágica#
 4353 oro#
-4354 lavamanos#
+4354 grifo#
 4355 fuente#
 4356 cristal#
 4357 tumba#
@@ -5286,12 +5286,11 @@ Aleatorios#
 5380 Activar Amuleto de
 Salvación#
 5381 Mantener Objetos al Morir#
-5382 Desactivar Trampas Aleatorias#
+5382 Desactivar Trampas
+Aleatorias#
 5383 Desactivar Fuego Amigo#
-5384 Activar Modo
-Clásico#
-5385 Activar Modo
-Hardcore#
+5384 Activar Modo Clásico#
+5385 Activar Modo Hardcore#
 5386 Activar Trucos#
 
 
@@ -5303,7 +5302,7 @@ Hardcore#
 5390 LOGROS ACTIVADOS#
 
 5391 AJUSTES DE LOBBY#
-5392 Reglas del Juego#
+5392 Reglas de Juego#
 5393 Sólo Invitación#
 5394 Sólo Amigos#
 5395 Lobby Abierto#
@@ -5687,7 +5686,8 @@ que dijiste una mala palabra.#
 tener un minotauro en la vida real.#
 5728 Qué lástima#
 5729 Buen dato#
-5730 ¿Te vas a ir a dejar una mala reseña, verdad?#
+5730 ¿Te vas a ir a dejar una mala reseña
+, verdad?#
 5731 ...si#
 5732 ¡Jamás!#
 5733 Yo también me iría.
@@ -5796,7 +5796,7 @@ ha sido perdida.#
 5815 Pozo Sin Fondo#
 5816 Sin combustible#
 5817 Fuente#
-5818 Lavamanos#
+5818 Grifo#
 5819 Alquimia#
 
 5820 Apenas te conocimos.#
@@ -6027,14 +6027,14 @@ espere#
 5952 Reintentar
 Subida#
 5953 Código de Error: #
-5954 PERSONALIZAR DIFICULTAD#
+5954 AJUSTAR DIFICULTAD#
 5955 No se encontraron objetos del Workshop.#
 
 5956 Equipar#
 5957 Dejar#
 5958 HECHIZOS#
 5959 Cofre#
-5960 Recoger todo#
+5960 Tomar todo#
 5961 Nivel de Habilidad:#
 5962 Estadística Asociada:#
 5963 Atacar#
@@ -6045,7 +6045,7 @@ Subida#
 5968 HOJA DE PERSONAJE#
 5969 ORO#
 
-5970 Atq#
+5970 Atacar#
 5971 Usar#
 5972 Canalizar#
 5973 Defender#
@@ -6562,7 +6562,7 @@ no admite encantamientos.#
 6326 SELECCIÓN DE CLASE#
 6327 CAMBIANDO A:#
 6328 Asistencia:#
-6329 Penalización de puntuación:#
+6329 Penalización:#
 6330 Logros:#
 6331 ACTIVADO#
 6332 DESACTIVADO#
@@ -6578,8 +6578,8 @@ al inicio del próximo juego.#
 6339 Acepta hasta cuatro regalos para facilitarte
 la aventura que te espera.
 
-Cada punto de Asistencia reduce
-la clasificación de puntuación final del partido.#
+Cada punto de Asistencia reduce la
+clasificación de puntuación final.#
 6340 OBJETOS DE ASISTENCIA#
 6341 Recibiste asistencia. (%d puntos)#
 6342 Objetos de Ayuda#
@@ -6595,8 +6595,8 @@ Ajustes de partida. Activa la opción
 para usarlas.
 
 #
-6348 Lleva hasta cuatro regalos para facilitar
-la aventura que te espera.
+6348 Lleva hasta cuatro regalos para
+facilitar tu aventura.
 
 Las ayudas están desactivadas en Ajustes
 de partida. Solicita al anfitrión que
