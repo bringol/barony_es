@@ -53,7 +53,7 @@
 				[],
 				[],
 				[],
-				[0,1,2,3]
+				[1]
 				]
             },
             "variables": []
@@ -123,12 +123,12 @@
 					[],
 					[],
 					[],
-					[1,2]
+					[0,1,2]
 				],
 				"word_highlights2": [
 					[],
 					[],
-					[1]
+					[1,2]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
@@ -169,7 +169,7 @@
 				"word_highlights": [
 					[],
 					[],
-					[2]
+					[0]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
@@ -223,7 +223,7 @@
 				"word_highlights": [
 					[],
 					[],
-					[2]
+					[1]
 				]
             },
             "variables": []
@@ -247,10 +247,10 @@
 				"word_highlights": [
 					[],
 					[],
-					[2],
+					[1],
 					[],
 					[0],
-					[1]
+					[1,2]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
@@ -288,7 +288,7 @@
 				"inline_img_adjust_x": 0,
 				"word_highlights": [
 					[],
-					[0]
+					[0,1]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
@@ -326,7 +326,7 @@
 				"word_highlights": [
 					[],
 					[2,3],
-					[1],
+					[2],
 					[],
 					[2]
 				]
@@ -361,10 +361,10 @@
 				"inline_img_adjust_x": 0,
 				"word_highlights": [
 					[1],
-					[1],
+					[1,2],
 					[],
 					[],
-					[1,2,3]
+					[1,2,3,4,5]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
@@ -408,11 +408,11 @@
 				"inline_img_adjust_x": 0,
 				"word_highlights": [
 					[],
-					[0],
+					[1],
 					[],
 					[],
 					[],
-					[0],
+					[0,2],
 					[2]
 				]
             },
@@ -458,7 +458,7 @@
 					[],
 					[],
 					[],
-					[2,3,4]
+					[4,5]
 				]
             },
             "variables": [{
@@ -613,7 +613,7 @@
 					[],
 					[],
 					[],
-					[2]
+					[5]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
@@ -664,7 +664,7 @@
 					[],
 					[],
 					[2],
-					[2]
+					[1,2]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",

@@ -46,7 +46,7 @@
                 "word_highlights": [],
                 "word_highlights2": [
 					[],
-					[0,1,2],
+					[1,2,3],
 					[],
 					[0]
 				]
@@ -91,10 +91,10 @@
                 "word_highlights": [
 					[],
 					[],
-					[0],
+					[1],
 					[],
 					[],
-					[2]
+					[4]
 				],
                 "word_highlights2": [
 					[0]
@@ -142,10 +142,10 @@
                 "word_highlights": [
 					[],
 					[],
-					[0],
+					[1],
 					[],
 					[],
-					[2]
+					[4]
 				],
                 "word_highlights2": [
 					[0]
@@ -264,11 +264,11 @@
                 "word_highlights": [],
                 "word_highlights2": [
 					[],
-					[1,2,3],
+					[0,1,2],
 					[],
 					[],
 					[],
-					[0,1],
+					[1,2],
 					[1]
 				]
             },
@@ -355,7 +355,7 @@
 					[],
 					[],
 					[],
-					[0]
+					[1]
 				]
             },
             "variables": []
@@ -441,7 +441,7 @@
                     [],
                     [3],
                     [],
-                    [0, 1]
+                    [1]
                 ],
                 "word_highlights2": [
 					[],
@@ -481,7 +481,7 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-                    [2, 3, 4],
+                    [1, 2, 3, 4],
                     [0, 1],
                     [],
                     [],
@@ -518,7 +518,7 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
                     [4],
-                    [2],
+                    [],
                     [0],
                     [],
                     [0],
@@ -635,7 +635,7 @@
 					[],
 					[0,1],
 					[],
-					[2,3]
+					[1,2,3]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
@@ -671,7 +671,7 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[0],
+					[1],
 					[0,1]
 				]
             },
@@ -703,12 +703,12 @@
                 "word_highlights": [
                     [],
                     [],
-                    [0, 1],
+                    [1],
                     [],
                     [1]
                 ],
                 "word_highlights2": [
-                    [1, 2, 3, 4],
+                    [3, 4],
                     [],
                     [],
                     [],
@@ -831,7 +831,7 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
-					[0,1],
+					[1,2],
 					[],
 					[1]
 				],

@@ -139,7 +139,7 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
                     [],
-                    [1, 2, 3]
+                    [0, 1, 2, 3]
                 ],
                 "word_highlights2": [
                     [],
@@ -150,7 +150,7 @@
                     [3],
                     [],
                     [2, 3, 4],
-                    [1]
+                    [0,1]
                 ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
@@ -212,10 +212,10 @@
                 "top_padding": 0,
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
+					[2],
+					[0,1],
 					[],
-					[0,1,2],
-					[],
-					[2,3]
+					[2,3,4]
 				],
                 "word_highlights2": [
 					[],
@@ -262,11 +262,11 @@
 					[],
 					[],
 					[],
-					[0,1,2]
+					[0,1,2,3]
 				],
                 "word_highlights2": [
 					[],
-					[1,2]
+					[1,2,3]
 				]
             },
             "variables": []
@@ -439,10 +439,11 @@
                 "word_highlights": [
 					[],
 					[0,1,2,3],
+					[0],
 					[],
-					[],
+					[0,1,2,3],
 					[0,1,2],
-					[0,1]
+					[1]
 				],
                 "word_highlights2": [],
 				"video": {
@@ -486,10 +487,11 @@
                 "word_highlights": [
 					[],
 					[0,1,2,3],
+					[0],
 					[],
-					[],
+					[0,1,2,3],
 					[0,1,2],
-					[0,1]
+					[1]
 				],
                 "word_highlights2": [],
 				"video": {
@@ -674,12 +676,12 @@
 				],
                 "word_highlights2": [
 					[],
-					[0,1],
+					[0,1,2],
 					[],
 					[],
 					[],
 					[],
-					[0,1,2,3]
+					[1,2,3]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
@@ -717,12 +719,12 @@
 				],
                 "word_highlights2": [
 					[],
-					[0,1],
+					[0,1,2],
 					[],
 					[],
 					[],
 					[],
-					[0,1,2,3]
+					[1,2,3]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
@@ -753,11 +755,11 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[0],
+					[1],
 					[],
 					[],
 					[],
-					[1,2,3]
+					[0,1,2,3]
 				]
             },
             "variables": [
@@ -823,10 +825,10 @@
                 "word_highlights2": [
 					[],
 					[],
-					[0,1],
+					[1,2],
 					[],
 					[],
-					[2,3]
+					[0,1,2]
 				]
             },
             "variables": [
@@ -854,7 +856,7 @@
                 "word_highlights": [
 					[],
 					[],
-					[0,1]				
+					[0,1,2]
 				],
                 "word_highlights2": []
             },
@@ -995,7 +997,7 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [
 					[],
-					[1,2,3],
+					[1,2,3,4],
 					[],
 					[],
 					[],
@@ -1112,13 +1114,14 @@
                 "inline_img_adjust_x": 0,
                 "word_highlights": [],
                 "word_highlights2": [
-					[1,2],
+					[2,3],
 					[],
 					[],
 					[],
 					[],
 					[],
-					[0,1,2]
+					[],
+					[0,1,2,3,4]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
@@ -1160,7 +1163,7 @@
                 "word_highlights": [
                     [],
                     [2],
-                    [1, 2, 3],
+                    [0, 1, 2, 3],
                     [0, 1, 2, 3]
                 ],
                 "word_highlights2": [
@@ -1171,7 +1174,7 @@
                     [],
                     [1, 2, 3],
                     [0, 1, 2],
-                    [0]
+                    [0,1,2]
                 ],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
