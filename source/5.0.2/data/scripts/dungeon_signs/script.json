@@ -1,0 +1,780 @@
+{
+    "version": 1,
+	"default_attributes": {
+		"font_color": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"font_outline_color": {
+			"r": 29,
+			"g": 16,
+			"b": 11,
+			"a": 255
+		},
+		"font_highlight_color": {
+			"r": 255,
+			"g": 0,
+			"b": 255,
+			"a": 255
+		}
+	},
+    "script_entries": {
+		"humanoid_skull": {
+			"message": [
+				"You see a humanoid skull."
+			]
+		},
+		"pit_spikes": {
+			"message": [
+				"You see deadly spikes at the bottom of the pit."
+			]
+		},
+		"bastille_exit": {
+			"sign": [
+				"Leave, or remain here",
+				"as another lost soul."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"gatehouse_exit": {
+			"sign": [
+				"NOTICE:",
+				"Operations within these",
+				"gates are no longer",
+				"productive and have",
+				"been discontinued.",
+				"Return to the Citadel",
+				"at once to resume duty.",
+				"-E"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"gatehouse_autos": {
+			"sign": [
+				"WARNING:",
+				"Local automata are tasked",
+				"to prevent unauthorized",
+				"meddling with the gate.",
+				"Trespassers will be slain.",
+				"Yes this means",
+				"everyone, Sherman.",
+				"-E"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"gatehouse_hint": {
+			"sign": [
+				"NOTICE:",
+				"Until a key to the gate",
+				"can be forged, Citadel",
+				"security is henceforth",
+				"withdrawn in perpetuity.",
+				"Structures are knowingly",
+				"ceded to opposing forces.",
+				"DO NOT WASTE RESOURCES.",
+				"-E"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"gatehouse_hint2": {
+			"sign": [
+				"Retreats beyond Gate 1",
+				"are to be initiated by",
+				"both officers on duty."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"gatehouse_hint3": {
+			"sign": [
+				"Dearest Orpheus,",
+				"It's not going to break.",
+				"Not even for you.",
+				"Return home."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},				
+		"bastille_hint": {
+			"sign": [
+				"One cannot know what lies",
+				"at the end of their path",
+				"if they fail to commit.",
+				"Yet not all paths",
+				"end in success.",
+				"",
+				"Go forth with purpose",
+				"or end up with none."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},			
+		"bastille_gold": {
+			"sign": [
+				"Prove they devotion.",
+				"Seek fine treasures",
+				"and yield them here."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},			
+		"bastille_silver_a": {
+			"sign": [
+				"Pass ye this test",
+				"and be worthy to",
+				"face another."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}
+		},
+		"bastille_silver_b": {
+			"sign": [
+				"Open the way to more",
+				"valuable treasures."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}
+		},
+		"bastille_finale": {
+			"sign": [
+				"Activate ye the devices",
+				"north, west, and east,",
+				"and face ye the spirits",
+				"who lament their own",
+				"failures."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}
+		},				
+		"dont_pull": {
+			"sign": [
+				"Do not pull."
+			],
+			"attributes": {
+				"font": "fonts/scream.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"curses": {
+			"sign": [
+				"Curses upon",
+				"all who enter."
+			],
+			"attributes": {
+				"font": "fonts/scream.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"security": {
+			"sign": [
+				"WARNING:",
+				"Security Active.",
+				"-M"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"literacy_a": {
+			"sign": [
+				"Be ye well read",
+				"and enter."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"literacy_b": {
+			"sign": [
+				"Only the literate",
+				"are welcome."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"underworld_exit": {
+			"sign": [
+				"Flee ye mortal, back",
+				"to thy mortal realm.",
+				"Immortal souls cannot",
+				"escape here."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"underworld_latin_a": {
+			"sign": [
+				"Accipere dignemini, non",
+				"quod fuerit obtulit",
+				"ad dominum, aut",
+				"faciem eius ira."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"underworld_latin_b": {
+			"sign": [
+				"Perserverantia solverit,",
+				"sed avaritia est",
+				"fur in obtentum."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"underworld_latin_c": {
+			"sign": [
+				"Quondam vos obtinere",
+				"nomnia, nisi morte parata."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"hell_latin_a": {
+			"sign": [
+				"Oportet te esse probatum",
+				"et tunc vos may transire."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"hell_latin_b": {
+			"sign": [
+				"Avaritiam tuo sumptu."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"fraternity_hint": {
+			"sign": [
+				"My quest to humiliate the",
+				"demonic fraternities has",
+				"failed. Use my key to",
+				"continue my good work.",
+				"They must be humbled.",
+				" ",
+				"-B"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"frat_pzr": {
+			"sign": [
+				"$ $ $ ",
+				" ",
+				"Phrenes",
+				"Zymon",
+				"Rheontes"
+			],
+			"attributes": {
+				"font": "fonts/scream.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			},
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/dungeon_signs/sign_phi.png",
+					"sizex": 32,
+					"sizey": 32
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/dungeon_signs/sign_zeta.png",
+					"sizex": 32,
+					"sizey": 32
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/dungeon_signs/sign_rho.png",
+					"sizex": 32,
+					"sizey": 32
+				}				
+			]
+		},
+		"frat_pzr_grog": {
+			"sign": [
+				"Balrog's Grog Storage",
+				"No pledges allowed.",
+				" ",
+				"OFFICERS ONLY"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"frat_pzr_basileus": {
+			"sign": [
+				"Basileus Brew",
+				" ",
+				"DO NOT TOUCH"
+			],
+			"attributes": {
+				"font": "fonts/scream.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},		
+		"frat_sky": {
+			"sign": [
+				"$ $ $ ",
+				" ",
+				"Sthenos",
+				"Kratesis",
+				"Ypistos"
+			],
+			"attributes": {
+				"font": "fonts/scream.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			},
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/dungeon_signs/sign_sigma.png",
+					"sizex": 32,
+					"sizey": 32
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/dungeon_signs/sign_kappa.png",
+					"sizex": 32,
+					"sizey": 32
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/dungeon_signs/sign_upsilon.png",
+					"sizex": 32,
+					"sizey": 32
+				}				
+			]			
+		},
+		"frat_sky_trophy": {
+			"sign": [
+				"Trophy Viewing Room",
+				" ",
+				"Seek an officer for",
+				"chaperoned viewing."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"frat_txo": {
+			"sign": [
+				"$ $ $ ",
+				" ",
+				"Thorubos",
+				"Xenos",
+				"Omilos"
+			],
+			"attributes": {
+				"font": "fonts/scream.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			},
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/dungeon_signs/sign_theta.png",
+					"sizex": 32,
+					"sizey": 32
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/dungeon_signs/sign_chi.png",
+					"sizex": 32,
+					"sizey": 32
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/dungeon_signs/sign_omicron.png",
+					"sizex": 32,
+					"sizey": 32
+				}				
+			]			
+		},
+		"frat_txo_damien": {
+			"sign": [
+				"DAMIEN THE MASCOT'S ROOM",
+				" ",
+				"If u leave the door open",
+				"he mite get out and then",
+				"theres trubbel!!",
+				"Otherwise feel free to",
+				"play wit him hes chil"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"frat_presidents": {
+			"sign": [
+				"Fraternity Presidents:",
+				" ",
+				"Submit your house's key",
+				"only if you wish to vie for",
+				"institutional dominance.",
+				" ",
+				"-J"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"frat_exit": {
+			"sign": [
+				"Portal back to",
+				"Latin Quarter"
+			],
+			"attributes": {
+				"font": "fonts/scream.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"automat_exit": {
+			"sign": [
+				"UNTIL FURTHER NOTICE:",
+				" ",
+				"Automata are forbidden",
+				"from leaving factory",
+				"premises without",
+				"adminstrator orders.",
+				"Violators are subject to",
+				"immediate refurbishing.",
+				" ",
+				"-O"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"automat_qa": {
+			"sign": [
+				"PRODUCT QA STAGING",
+				" ",
+				"AUTHORIZED ACCESS",
+				"ONLY"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"automat_floor": {
+			"sign": [
+				"ASSEMBLY FLOOR",
+				"INACCESSIBLE WHILE",
+				"PRODUCTION FLOOR",
+				"IS IN SERVICE"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},		
+		"automat_failsafe": {
+			"sign": [
+				"EMERGENCY SHUTDOWN",
+				"FAILSAFE",
+				" ",
+				"DO NOT USE"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"automat_override": {
+			"sign": [
+				"DUAL OVERRIDE REQUIRED",
+				" ",
+				"PRODUCTION WILL CEASE",
+				"IMMEDIATELY"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},				
+		"mines_fountain": {
+			"sign": [
+				"Yon font afar,",
+				"Waters unspent,",
+				"Seek ye its blessings,",
+				"By projectiles, sent."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},
+		"mines_chest": {
+			"sign": [
+				"A chest afar,",
+				"Its secrets unknown,",
+				"Learn ye its contents,",
+				"With an object, thrown."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}	
+		},		
+		"mines_secret": {
+			"sign": [
+				"No Trespassing"
+			],
+			"attributes": {
+				"font": "fonts/scream.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": []
+			}
+		}
+	}
+}

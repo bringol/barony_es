@@ -1,0 +1,30 @@
+
+	Character Attributes
+
+	By Guildmaster Slovinick
+
+	
+
+	As health and character tests of new applicants have become a priority in the wake of the Summerset Disaster that ruined everyone's holiday celebration last season, I have taken it upon myself to create a new code of judgment, organized along six separate axes, to judge the qualities of any particular persona.
+
+	Let it be known that for each of these scales, the baseline by which all ranks are judged shall be 0, which represents the utmost average of everyone in the guild; and that a positive number shall indicate a rank higher than average amongst its peers, while a negative number shall denote the opposite matter.
+
+	Now to the attributes themselves:
+
+	Strength (STR): A scale to represent a person's might. Persons of higher strength hit harder and may carry more equipment without being fatigued.
+
+	Dexterity (DEX): A scale to represent a person's speed and nimbleness. Persons of higher dexterity may both move quicker and be surer in their strikes, while also being more capable with ranged weaponry.
+
+	Constitution (CON): A scale to represent a person's fortitude. Persons of higher constitution endure pains and hardships better than those with the lesser, and may also be quicker to recover from ailments. (Editor's note: modern research may disclaim the latter measure, as we've found the venom of giant spiders to resolve within 10 seconds in nearly all cases.)
+
+	Intelligence (INT): A scale to represent a person's wits. Persons of higher intelligence can deduce and execute our mystic and magical methods better than those with a lesser intelligence. A strong mind is also more connected to magical energies, allowing for stronger magic power and regeneration.
+
+	Perception (PER): A scale to represent the power of a person's senses. Persons of higher perception may pierce the night's shadows better than those with lesser perception, and their sharp senses provide greater acuity with very precise tasks in marksmanship and tinkering.
+
+	Charisma (CHR): A scale to represent a person's charm. Persons of higher charisma may have better luck in the coercion of others, particularly in trade and in the battlefield. Allies answer to the call of a charismatic leader more rapidly.
+
+	May the Magician's Guild use this guide until future guildmasters deem it unnecessary.
+
+	~ Guildmaster Slovinick
+
+	6/16/158

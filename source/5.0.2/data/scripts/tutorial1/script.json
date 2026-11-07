@@ -1,0 +1,1462 @@
+{
+    "version": 1,
+	"default_attributes": {
+		"font_color": {
+			"r": 239,
+			"g": 237,
+			"b": 235,
+			"a": 255
+		},
+		"font_outline_color": {
+			"r": 50,
+			"g": 29,
+			"b": 25,
+			"a": 255
+		},
+		"font_highlight_color": {
+			"r": 18,
+			"g": 196,
+			"b": 131,
+			"a": 255
+		},
+		"font_highlight2_color": {
+			"r": 64,
+			"g": 192,
+			"b": 255,
+			"a": 255
+		}
+	},
+    "script_entries": {
+        "tutorial1z": {
+            "sign": [
+                "Use$$$$ keys",
+				"to walk around.",
+				"",
+				"Move$ to look and turn.",
+				"",
+                "Press$ to interact with",
+				"objects in the world."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[0,1],
+					[1],
+					[],
+					[0,2,4],
+					[],
+					[0, 2]
+				]
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Move Forward"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Move Left"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Move Backward"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Move Right"
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/Glyphs/Mouse/Mouse_Base_00.png",
+					"sizex": 22,
+					"sizey": 40
+				},
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				}				
+			]
+        },
+        "tutorial1z_gamepad": {
+            "sign": [
+                "Tilt$ to walk around.",
+				"",
+				"Tilt$ to look and turn.",
+				"",
+                "Press$ to interact with",
+				"objects in the world."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[0,2],
+					[],
+					[0,2,4],
+					[],
+					[0,2]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#images/ui/Glyphs/Stick_PS_L_00.png",
+					"sizex": 34,
+					"sizey": 34
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/Glyphs/Stick_PS_R_00.png",
+					"sizex": 34,
+					"sizey": 34
+				},
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				}
+			]
+        },
+        "tutorial1a": {
+            "sign": [
+                "Press$ to access ",
+				"the Pause Menu.",
+				"",
+                "To exit any trial, select",
+				"",
+				"[ Return to Trial Hub ]"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[0],
+					[],
+					[],
+					[],
+					[],
+					[1,2,3,4]
+				]
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Pause Game"
+				}
+			]
+        },
+        "tutorial1b": {
+            "sign": [
+                "Equip the sword to",
+				"increase your ATK and",
+				"slay enemies faster.",
+				"",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[0],
+					[2]
+				]
+            },
+            "variables": [{
+					"type": "image",
+					"value": "*#data/scripts/tutorial1/sign_sword.png",
+					"sizex": 74,
+					"sizey": 74
+				}]
+        },
+        "tutorial1c": {
+            "sign": [
+				"$",
+                "Equip shields to gain AC,",
+				"reducing damage taken.",
+				"",
+                "Hold$to Block,",
+				"further increasing AC."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[0,2]
+				],
+				"word_highlights2": [
+					[],
+					[1,4],
+					[0,1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial1/shieldequip.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}				
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial1/sign_shield.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Defend"
+				}
+			]
+        },
+        "tutorial1d": {
+            "sign": [
+                "This lever operates the",
+				"gate near the bed.",
+				"$",
+                "Point at levers and",
+				"press$ to toggle."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+				},			
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[0,2],
+					[0,1,2]
+				],
+				"word_highlights2": [
+					[1],
+					[0]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial1/lever.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}			
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial1/sign_levergate.png",
+					"sizex": 189,
+					"sizey": 87
+				},
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				}
+			]
+        },
+        "tutorial1e": {
+            "sign": [
+                "Collect torches from",
+				"the wall with$ .",
+				"$",
+				"Equipped torches light",
+				"the way, but will burn out",
+				"over time."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},							
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[0],
+					[2]
+				],
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[4,5]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial1/torchget.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}			
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial1/sign_torch.png",
+					"sizex": 74,
+					"sizey": 74
+				}
+			]
+        },
+        "tutorial1e2": {
+            "sign": [
+                "Access your character",
+				"by pressing$ .",
+				"Press$ to use items.",
+				"Grab and move items with$ .",
+                "Press$ again or$",
+				"to exit the menu."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[1],
+					[0,2,3],
+					[0,2,3,4],
+					[0,2],
+					[1,2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial1/torch_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}	
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Character Status"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuRightClick"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuLeftClick"
+				},				
+				{
+					"type": "input_glyph",
+					"value": "Character Status"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuCancel"
+				}				
+			]
+        },
+		"tutorial1e2_gamepad": {
+            "sign": [
+                "Access your character",
+				"by pressing$ .",
+				"",
+				"Use$$$$to",
+				"navigate the inventory.",
+				"",
+				"Press$ to use items.",
+				"Use$ to grab and place.",
+                "Press$ or$ to close."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[0],
+					[1],
+					[],
+					[0],
+					[],
+					[],
+					[0,2],
+					[0,2,4],
+					[0,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial1/torch_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}	
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Character Status"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuLeft"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuUp"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuDown"
+				},				
+				{
+					"type": "input_glyph",
+					"value": "MenuRight"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuConfirm"
+				},		
+				{
+					"type": "input_glyph",
+					"value": "MenuAlt1"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Character Status"
+				},				
+				{
+					"type": "input_glyph",
+					"value": "MenuCancel"
+				}				
+			]
+        },
+        "tutorial1f": {
+            "sign": [
+                "Some gloves can increase",
+				"your Unarmed damage.",
+				"",
+				"To use Unarmed attacks,",
+				"unequip your weapon."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[0,1,2]
+				],
+				"word_highlights2": [
+					[1],
+					[1,2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial1g": {
+            "sign": [
+                "Enemies attack",
+				"at a regular pace.",
+				"",
+                "Block until struck,",
+				"then quickly attack,",
+				"and block again to",
+				"avoid taking damage."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[1],
+					[3],
+					[],
+					[0],
+					[1,2],
+					[1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial1/block-attack.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}	
+            },
+            "variables": []
+        },
+        "tutorial1h": {
+            "sign": [
+                "Drag items to the hotbar",
+				"with$ , or hover and",
+				"use $-$ to assign.",
+				"",
+				"Use the hotbar with$-$,",
+				"or highlight with$ $ and",
+                "and then press$ ."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+				[4],
+				[0,3],
+				[3],
+				[],
+				[0,1,2,3],
+				[1,2],
+				[2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial1/hotbarassign_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/Glyphs/KeyboardGlyphs/Rendered/Numbers/Unpressed_Text_1_00.png",
+					"sizex": 26,
+					"sizey": 26
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/Glyphs/KeyboardGlyphs/Rendered/Numbers/Unpressed_Text_0_00.png",
+					"sizex": 26,
+					"sizey": 26
+				},		
+				{
+					"type": "image",
+					"value": "*#images/ui/Glyphs/KeyboardGlyphs/Rendered/Numbers/Unpressed_Text_1_00.png",
+					"sizex": 26,
+					"sizey": 26
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/Glyphs/KeyboardGlyphs/Rendered/Numbers/Unpressed_Text_0_00.png",
+					"sizex": 26,
+					"sizey": 26
+				},						
+				{
+					"type": "input_glyph",
+					"value": "Hotbar Left"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Hotbar Right"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Hotbar Up / Select"
+				}
+			]
+        },
+		"tutorial1h_gamepad": {
+            "sign": [
+                "From the inventory,",
+				"grab items with$ and move",
+				"to the hotbar with$.",
+				"Press$ again to",
+				"place items in a slot.",
+				"",
+                "With the inventory closed,",
+				"hold$$ or$ to access",
+				"$ and$ hotbar slots." 
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+				[],
+				[0,1,2],
+				[],
+				[0],
+				[],
+				[],
+				[],
+				[0,3],
+				[2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial1/hotbarassign_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuAlt1"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuPageRight"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuAlt1"
+				},				
+				{
+					"type": "input_glyph",
+					"value": "Hotbar Left"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Hotbar Up / Select"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Hotbar Right"
+				},
+				{
+					"type": "input_glyph",
+					"value": "HotbarFacebarModifierLeft"
+				},	
+				{
+					"type": "input_glyph",
+					"value": "HotbarFacebarModifierRight"
+				}						
+			]
+        },
+       "tutorial1ha": {
+            "sign": [
+                "You can't wield a",
+				"shield and a torch",
+				"at the same time!",
+				"",
+				"Use your hotbar to",
+                "switch quickly."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[0,1,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial1/hotswap_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}	
+            },
+            "variables": []
+        },
+       "tutorial1ha_gamepad": {
+            "sign": [
+                "You can't wield a",
+				"shield and a torch",
+				"at the same time!",
+				"",
+				"Use your hotbar to",
+                "switch quickly."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[0,1,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial1/hotswap_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+            "variables": []
+        },		
+        "tutorial1i": {
+            "sign": [
+                "Quickly tap$ to Attack.",
+				"",
+				"Hold$ until your",
+				"weapon shakes for",
+				"a Critical Strike."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[1,3],
+					[],
+					[0],
+					[1],
+					[1,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial1/attacks.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}			
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				}				
+			]
+        },
+        "tutorial1i2": {
+            "sign": [
+                "View the Character Sheet",
+				"with$, on the right.",
+				"",
+				"Hover with$ to learn",
+				"about stats like ATK."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[0],
+					[],
+					[0,1],
+					[]
+				],
+				"word_highlights2": [
+					[2,3],
+					[],
+					[],
+					[],
+					[3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial1/atk_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}	
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Character Status"
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/Glyphs/Mouse/Mouse_Base_00.png",
+					"sizex": 22,
+					"sizey": 40
+				}
+			]
+        },
+        "tutorial1i2_gamepad": {
+            "sign": [
+                "View the Character Sheet",
+				"with$ , on the right.",
+				"",
+				"Tap$ twice and learn",
+				"about stats like ATK",
+				"by navigating to them",
+				"and holding$ ."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[0],
+					[],
+					[0,1],
+					[],
+					[],
+					[1]
+				],
+				"word_highlights2": [
+					[2,3],
+					[],
+					[],
+					[],
+					[3],
+					[]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial1/atk_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}								
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Character Status"
+				},	
+				{
+					"type": "input_glyph",
+					"value": "MenuPageRight"
+				},
+				{
+					"type": "input_glyph",
+					"value": "MenuConfirm"
+				}				
+			]			
+        },		
+        "tutorial1j": {
+            "sign": [
+                "Your understanding of",
+				"attacks, blocking, and",
+				"weapon types",
+				"shall be tested.",
+				"",
+                "Each trial has",
+				"a final test."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[0,1],
+					[0,1],
+					[],
+					[],
+					[],
+					[1,2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial1jz": {
+            "sign": [
+                "Observe the enemy",
+				"attack pace through",
+				"the door on your right.",
+                "",
+				"Proceed through the",
+				"door on your left",
+                "when ready."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[0],
+					[0,1],
+					[4],
+					[],
+					[],
+					[],
+					[0,1]
+				]
+            },
+            "variables": []
+        },		
+        "tutorial1kz": {
+            "sign": [
+                "Equipment may degrade",
+				"and eventually break.",
+				"",
+                "Weapons do less damage",
+				"at lower quality."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[2],
+					[2],
+					[],
+					[2,3],
+					[1,2]
+				]		
+            },
+            "variables": []
+        },
+        "tutorial1ky": {
+            "sign": [
+				"Weapon skills improve",
+				"weapon damage.",
+				"Weapons also degrade",
+				"less frequently with",
+				"higher skill.",
+				"",
+				"Learn more about skills",
+				"from the skills list.",
+				"",
+				"$$$$$$$$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[2,3]
+				],
+				"word_highlights2": [
+					[1,2],
+					[1],
+					[2],
+					[0,1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial1/skillslist_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}					
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Swords02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Maces02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Polearms02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Axes02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Ranged02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Unarmed02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				},				
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Blocking02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+        },
+        "tutorial1ky_gamepad": {
+            "sign": [
+				"Weapon skills improve",
+				"weapon damage.",
+				"Weapons also degrade",
+				"less frequently with",
+				"higher skill.",
+				"",
+				"Learn more about skills",
+				"from the skills list.",
+				"",
+				"$$$$$$$$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[2,3]
+				],
+				"word_highlights2": [
+					[1,2],
+					[1],
+					[2],
+					[0,1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial1/skillslist_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}					
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Swords02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Maces02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Polearms02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Axes02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Ranged02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Unarmed02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				},				
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Blocking02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+        },		
+        "tutorial1k": {
+            "sign": [
+                "Blocking may reduce",
+				"attack damage to zero.",
+				"",
+                "Hold$to Block",
+				"as long as needed",
+				"to delay death."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[0,2]
+],
+				"word_highlights2": [
+					[0],
+					[1,3],
+					[],
+					[],
+					[],
+					[1,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial1/block.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Defend"
+				}
+			]
+        },		
+        "tutorial1l": {
+            "sign": [
+                "Enemies are resistant",
+				"or vulnerable to",
+				"different weapon types.",
+				"$",
+                "This can be decisive",
+				"in victory or defeat."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[2],
+					[0,1],
+					[1,2],
+					[],
+					[3],
+					[1]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial1/sign_mace.png",
+					"sizex": 189,
+					"sizey": 87
+				}
+			]
+        },
+        "tutorial1m": {
+            "sign": [
+                "Properly using attacks,",
+				"weapon types, critical",
+				"strikes and blocking will",
+				"help you survive",
+				"in the dungeon."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[2],
+					[0,1,2],
+					[0,2],
+					[2]
+				]
+            },
+            "variables": []
+        },
+        "tutorial1mo": {
+            "sign": [
+                "Congratulations!",
+				"You just passed",
+				"the Introductory Trial.",
+				"",
+				"Trial 1:",
+				"Dungeon Basics",
+				"& Melee Combat"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[2],
+					[0,1,2],
+					[0,1,2],
+					[0,2],
+					[2]
+				]
+            },
+            "variables": []
+        },		
+        "tutorial1n": {
+            "sign": [
+                "Trap doors will",
+				"usually take you to",
+				"the next level.",
+				"",
+                "This one takes you to",
+				"the Hall of Trials Hub",
+				"where you can explore",
+				"more Trials."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+					},		
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[0,1],
+					[],
+					[1,2],
+					[],
+					[0,1],
+					[1,2,3,4],
+					[],
+					[0,1]
+				]
+            },
+            "variables": []
+        }
+    }
+}
