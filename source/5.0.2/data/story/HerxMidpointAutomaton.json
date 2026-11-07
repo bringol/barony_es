@@ -1,0 +1,27 @@
+{
+    "version": 1,
+    "press_a_to_advance": true,
+    "text": [
+    	"Having defeated the Baron and placed his violet orb on the pedestal,\n",
+    	"you step into the portal. You detect powerful magic surging over your body.\n^",
+    	"Your body is transported with a white flash.^ You arrive outside the\n",
+    	"Hamlet mines and watch the dim weather conditions improve rapidly.\n",
+    	"Warm sunlight flows over the countryside. As the doors of the mine open wide,\n",
+    	"you see humans running into the streets. They appear to be very pleased.\n^",
+    	"*3You ambulate toward the Magician's Guild with an inquiry about Herx's Orb.\n",
+    	"The doorman refuses you entry, however. Apparently recognizing the wear you've\n",
+    	"incurred, he instructs you to seek repairs at the inn and return tomorrow.\n",
+	"You return to the streets to find a hundred humans waiting for you.\n",
+	"Evidently they want you to join in their festivities. Though you have no\n",
+	"party routines installed, the humans impress you into entertainment service.\n",
+	"*2Eventually, the humans subdue themselves, and you can revert to your\n",
+	"original mission to visit the Magician's Guild..."
+    ],
+    "images": [
+	"*images/ui/Main Menus/Story/black.png",
+	"*images/ui/Main Menus/Story/white.png",
+	"*images/ui/Main Menus/Story/Hamlet_Rescue.png",
+	"*images/ui/Main Menus/Story/MagiciansGuild.png",
+	"*images/ui/Main Menus/Story/black.png"
+    ]
+}

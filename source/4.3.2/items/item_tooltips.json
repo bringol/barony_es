@@ -1,0 +1,5770 @@
+{
+	"version": 1,
+	"default_text_colors": {
+		"heading": {
+			"r": 67,
+			"g": 195,
+			"b": 157,
+			"a": 255
+		},
+		"icons": {
+			"r": 188,
+			"g": 154,
+			"b": 114,
+			"a": 255
+		},
+		"description": {
+			"r": 188,
+			"g": 154,
+			"b": 114,
+			"a": 255
+		},
+		"details": {
+			"r": 67,
+			"g": 195,
+			"b": 157,
+			"a": 255
+		},
+		"positive_color": {
+			"r": 188,
+			"g": 154,
+			"b": 114,
+			"a": 255
+		},
+		"negative_color": {
+			"r": 215,
+			"g": 38,
+			"b": 61,
+			"a": 255
+		},
+		"status_effect": {
+			"r": 160,
+			"g": 74,
+			"b": 252,
+			"a": 255
+		},
+		"faint_text": {
+			"r": 128,
+			"g": 128,
+			"b": 128,
+			"a": 255
+		}
+	},
+	"adjectives": {
+		"spell_prefixes": {
+			"spell_of": "Spell of "
+		},
+		"scroll_prefixes": {
+			"scroll_of": "scroll of ",
+			"piece_of": "piece of ",
+			"unknown_scroll": "unknown scroll"
+		},
+		"equipment_status": {
+			"broken": "Broken",
+			"decrepit": "Decrepit",
+			"worn": "Worn",
+			"serviceable": "Serviceable",
+			"excellent": "Excellent"
+		},
+		"food_status": {
+			"broken": "Rotten",
+			"decrepit": "Mouldy",
+			"worn": "Aged",
+			"serviceable": "Slightly-aged",
+			"excellent": "Fresh"
+		},
+		"potion_status": {
+			"broken": "Evaporated",
+			"decrepit": "Cloudy",
+			"worn": "Swirly",
+			"serviceable": "Plain",
+			"excellent": "Bubbly"
+		},
+		"book_status": {
+			"broken": "Shredded",
+			"decrepit": "Torn",
+			"worn": "Faded",
+			"serviceable": "Marked",
+			"excellent": "Brand-new"
+		},
+		"jewelry_status": {
+			"broken": "Destroyed",
+			"decrepit": "Cracked",
+			"worn": "Rough",
+			"serviceable": "Flawed",
+			"excellent": "Flawless"
+		},
+		"tinkering_status": {
+			"broken": "Broken",
+			"decrepit": "Simple",
+			"worn": "Complex",
+			"serviceable": "Intricate",
+			"excellent": "Artisan"
+		},
+		"beatitude_status": {
+			"cursed": "Curse",
+			"blessed": "Blessing",
+			"uncursed": "Uncursed"
+		},
+		"skill_modifiers": {
+			"penalty": "penalty",
+			"bonus": "bonus"
+		},
+		"item_identified_status": {
+			"unidentified": "Unidentified",
+			"cursed": "Cursed",
+			"blessed": "Blessed",
+			"uncursed": "Uncursed"
+		},
+		"potion_ally_damage": {
+			"no_harm_ally": "\n+No ally damage",
+			"harm_ally": ""
+		},
+		"potion_alchemy_types": {
+			"base_ingredient": "Base ingredient for mixing",
+			"secondary_ingredient": "Secondary ingredient for mixing",
+			"no_ingredient": "No unique effects",
+			"unknown": "Unknown effect"
+		},
+		"proficiency_levels": {
+			"none": "None",
+			"novice": "Novice",
+			"basic": "Basic",
+			"skilled": "Skilled",
+			"expert": "Expert",
+			"master": "Master",
+			"legend": "Legend"
+		},
+		"proficiency_types": {
+			"mace": "Mace",
+			"sword": "Sword",
+			"axe": "Axe",
+			"polearm": "Polearm",
+			"unarmed": "Unarmed",
+			"shield": "Blocking",
+			"ranged": "Ranged"
+		},
+		"equipment_slot_types": {
+			"breastpiece": "Torso",
+			"gloves": "Gloves",
+			"helm": "Helm",
+			"boots": "Boots",
+			"mainhand": "Main-hand",
+			"offhand": "Off-hand",
+			"ring": "Ring",
+			"amulet": "Amulet",
+			"mask": "Face",
+			"cloak": "Cloak",
+			"unknown": "Unknown"
+		},
+		"stat_short_name": {
+			"STR": "STR",
+			"DEX": "DEX",
+			"CON": "CON",
+			"INT": "INT",
+			"PER": "PER",
+			"CHR": "CHR",
+			"AC": "AC"
+		},
+		"stat_long_name": {
+			"STR": "Strength",
+			"DEX": "Dexterity",
+			"CON": "Constitution",
+			"INT": "Intelligence",
+			"PER": "Perception",
+			"CHR": "Charisma",
+			"AC": "Armor Class"
+		},
+		"spell_strings": {
+			"healing": "healing",
+			"damage": "damage",
+			"duration": "duration",
+			"spell_type_area": "Area",
+			"spell_type_self": "Self-effect",
+			"spell_type_self_sustain": "Sustained",
+			"spell_type_projectile": "Projectile",
+			"spell_type_projectile_3x": "3x Projectile"
+		},
+		"equipment_effects_icon_text": {
+			"EFF_LEVITATION": "Grants [Levitation]",
+			"EFF_FEATHER": "[Lightweight]",
+			"EFF_WATERWALKING": "Grants [Waterwalking]",
+			"EFF_POISONRESIST": "Grants [Poison Resistance]",
+			"EFF_MAGICRESIST": "+1  [Magic Resistance]",
+			"EFF_MAGICRESIST_SHIELD": "+1  [Magic Resistance]",
+			"EFF_MAGICREFLECT": "Grants [Magic Reflection]",
+			"EFF_SEXCHANGE": "Applies [Sex Change]",
+			"EFF_WATERBREATHING": "Grants [Waterbreathing]",
+			"EFF_STRANGULATION": "Applies [Strangulation]",
+			"EFF_QUIVER_HUNTING": "Adds [Hunting] damage modifier",
+			"EFF_QUIVER_HUNTING2": "Inflicts [Poison/Slow] for  [3s]",
+			"EFF_QUIVER_SILVER": "Adds [Smite] damage modifier",
+			"EFF_QUIVER_PIERCING": "+50% [Armor Pierce]",
+			"EFF_QUIVER_SWIFT": "Grants [Swift Reload]",
+			"EFF_QUIVER_KNOCKBACK": "Applies [Knockback] on hit",
+			"EFF_QUIVER_FIRE": "Inflicts [Burning] on hit",
+			"EFF_SLOWDIGESTION": "Grants [Slow Digestion]",
+			"EFF_WARNING": "Grants [Warning]",
+			"EFF_FOOTSTEP_WARNING": "Grants [Lesser Warning]",
+			"EFF_INVISIBLE": "Grants [Invisibility]",
+			"EFF_MAGICRESIST1": "",
+			"EFF_CONFLICT": "Incites [Conflict] in an\narea around the wearer",
+			"EFF_REGENERATION": "[HP Regen]",
+			"EFF_DISABLE_REGENERATION": "Disables HP\nRegeneration",
+			"EFF_MP_REGENERATION": "[MP Regen]",
+			"EFF_TELEPORTATION": "Applies [Teleportation]\nat random intervals",
+			"EFF_UNBREAKABLE": "[Unbreakable]",
+			"EFF_DISARMING": "[Disarms] weapons and shields",
+			"EFF_FIRERESIST": "Grants [Burning Resistance]",
+			"EFF_BLEED_ENERGIZE": "Grants [MP Regen] when\ninflicting [Bleed] on foes",
+			"EFF_COLDRESIST": "[Cold Resistance]",
+			"EFF_PWR": "Spell Power",
+			"EFF_PWR_DMG": "additional Spell Power\nwhen using [Damaging Spells]\n",
+			"EFF_PWR_HEAL": "additional Spell Power\nwhen using [Healing Spells]\n"
+		},
+		"equipment_effects_attributes_text": {
+			"EFF_FEATHER": "Lightweight",
+			"EFF_WARNING": "",
+			"EFF_HOOD_WHISPERS": "",
+			"EFF_SILKEN_BOW": ""
+		}
+	},
+	"templates": {
+		"": [ "" ],
+		"template_potion_base_damage": [ "\nWhen thrown:", "%+d Base Potion damage" ],
+		"template_potion_beatitude": [ "%+d Potion damage from %s" ],
+		"template_potion_alchemy_damage": [ "%+d%% damage from Alchemy skill%s" ],
+		"template_alchemy_type": [ "Alchemy:", "* %s" ],
+		"template_potion_curse_sideeffect": [ "^* Additional effects from %s" ],
+		"template_amulet_curse_sideeffect": [ "^* Additional effects from %s\n" ],
+		"template_ring_curse_sideeffect": [ "^* Additional effects from %s\n" ],
+		"template_shamanmask_curse_sideeffect": [ "^* Additional effects from %s" ],
+		"template_monocle_curse_sideeffect": [ "^* Additional effects from %s\n" ],
+		"template_doublet_curse_sideeffect": [ "^* Additional effects from\n^%s\n" ],
+		"template_scroll_curse_sideeffect": [ "^* Additional effects from %s" ],
+		"template_hatnewline_curse_sideeffect": [ "^* Additional effects from %s\n" ],
+		"template_food_curse_sideeffect": [ "^* Additional effects from %s\n" ],
+		"template_armor_base_ac": [ "%+d base item AC" ],
+		"template_armor_beatitude_ac": [ "%+d AC from %s" ],
+		"template_armor_shield_bonus": [ "+%d AC passive %s skill bonus", "+%d AC defending %s skill bonus" ],
+		"template_tool_shield_bonus": [ "+%d AC defending %s skill bonus" ],
+		"template_armor_shield_resistance_bonus": [ "* Additional +1  [Magic Resistance] \n while defending" ],
+		"template_shield_description": [ "Provides additional AC while defending." ],
+		"template_mirror_shield_description": [ "A fragile shield that reflects all spell projectiles while defending." ],
+		"template_armor_cloak_backpack_description": [ "Increases inventory capacity.", "Removing a backpack will drop all items stored in it." ],
+		"template_torch_description": [ "Burns out over time while held. Provides additional AC and light while defending." ],
+		"template_shard_description": [ "Fragile light source that burns eternally. Provides additional AC and light while defending." ],
+		"template_shield_brittle": [ "+100% degrade chance when hit while defending" ],
+		"template_weapon_description": [ "Hold [Attack] to perform a critical strike." ],
+		"template_whip_description": [ "Long reach melee weapon. Hold [Attack] to perform a critical strike." ],
+		"template_knuckles_description": [ "Provides ATK when Main-hand is empty." ],
+		"template_thrown_description": [ "Thrown weapon. Hold [Attack] to increase damage and distance." ],
+		"template_gem_description": [ "Can be sold for a high price or thrown. Hold [Attack] to increase damage and distance." ],
+		"template_rock_description": [ "Heavy thrown weapon. Hold [Attack] to increase damage and distance." ],
+		"template_glass_description": [ "Imitation gemstone best thrown away. Hold [Attack] to increase damage and distance." ],
+		"template_amulet_description_single_use": [ "Disintegrates on activation." ],
+		"template_amulet_description_lifesaving": [ "Disintegrates on activation." ],
+		"template_armor_monocle_description": [ "Marks yourself as an ally of Shopkeepers when visibly worn." ],
+		"template_mask_bandit_description": [ "Marks yourself as an enemy of Shopkeepers when visibly worn." ],
+		"template_amulet_description_generic": [ "" ],
+		"template_potion_description": [ "Can be consumed or thrown." ],
+		"template_potion_empty_description": [ "Equip and [Attack]\nto tap liquids into the bottle from a spout." ],
+		"template_ranged_description_long": [ "Long distance ranged weapon.", "Hold [Attack] to continuously fire." ],
+		"template_ranged_description_short": [ "Short distance ranged weapon.", "Hold [Attack] to continuously fire." ],
+		"template_ranged_description_medium": [ "Medium distance ranged weapon.", "Hold [Attack] to continuously fire." ],
+		"template_quiver_description": [ "Ranged weapon ammunition. Equip to use while firing a bow or crossbow." ],
+		"template_readable_book_description": [ "Written by a denizen of Barony.", "Use the book to read its contents.", "Also makes good fuel for a boiler." ],
+		"template_scrap_metal_description": [ "Bits of common material that are used with a tinkering kit.", "Poor fuel for heating a boiler." ],
+		"template_scrap_magic_description": [ "Bits of rare magic material that are used with a tinkering kit.", "Good fuel for heating a boiler." ],
+		"template_tool_sentrybot_description": [ "Equip and use [Attack] to deploy." ],
+		"template_spellbot_rate_of_fire": [ "%+d%% rate of fire" ],
+		"template_tinkerbot_status_bonus": [ "Attributes: (%s quality)" ],
+		"template_tinkerbot_turn_rate": [ "%+dx turn rate" ],
+		"template_tinkerbot_atk_initiative": [ "* Faster target acquisition" ],
+		"template_tinkerbot_broken_description": [ "Best salvaged for scrap." ],
+		"template_tool_dummybot_description": [ "Equip and use [Attack] to deploy." ],
+		"template_tool_gyrobot_description": [ "Equip and use [Attack] to deploy." ],
+		"template_tool_decoy_description": [ "Equip and use [Attack] to deploy.", "Audible through walls." ],
+		"template_tool_mirror_description": [ "\"The face is the mirror of the mind,", "And eyes without speaking confess the secrets of the heart.\"", "-Anonymous" ],
+		"template_tool_towel_description": [ "Use to clean yourself and to bandage bleeding wounds." ],
+		"template_tool_beartrap_description": [ "Equip and hold [Attack] to set." ],
+		"template_beartrap_degrade_on_use": [ "%+d%% chance to break from", "%s quality when deployed" ],
+		"template_beartrap_degrade_on_use_cursed": [ "%+d%% chance to break from %s when deployed" ],
+		"template_tool_detonated_charge_description": [ "Useless remains from a spent trap.", "Best salvaged for scrap." ],
+		"template_tool_bomb_description": [ "Equip and use [Attack] to deploy.", "Sticks to surfaces and objects." ],
+		"template_tool_bomb_lockpickable": [ "* Toggle trigger behavior by using [Attack] with a lockpick after deploying" ],
+		"template_bomb_atk_stat_per": [ "%+d ATK from %d%% PER stat" ],
+		"template_tool_teleport_bomb_description": [ "Equip and use [Attack] to deploy.", "Configure as a receiver for another teleport trap by using a lockpick." ],
+		"template_tool_decoy_range": [ "%+d tile radius", "* 5 second cooldown for successive", "lures on the same target" ],
+		"template_tool_pickaxe_description": [ "Breaks boulders and walls on hit." ],
+		"template_tool_lockpick_description": [ "Unlocks chests, doors and enables tinkering with mechanisms.", "Press [Attack] while equipped to use." ],
+		"template_tool_skeletonkey_description": [ "Unlocks and locks chests and doors.", "Press [Attack] while equipped to use." ],
+		"template_tool_tinopener_description": [ "Allows opening of tinned food while in inventory." ],
+		"template_food_tin_description": [ "Restores a large amount of hunger.", "Requires a tin opener to eat." ],
+		"template_weapon_base_atk": [ "%+d base item ATK" ],
+		"template_weapon_beatitude_atk": [ "%+d ATK from %s" ],
+		"template_weapon_on_degraded_atk": [ "%+d ATK from %s quality" ],
+		"template_armor_on_degraded_ac": [ "%+d AC from %s quality" ],
+		"template_weapon_mace_effects": [ "+10% armor break on hit" ],
+		"template_weapon_axe_effects": [ "* Increased ATK on wooden objects" ],
+		"template_weapon_sword_effects": [ "+10% [Bleed] chance on hit" ],
+		"template_weapon_polearm_effects": [ "+10% minimum weapon damage" ],
+		"template_weapon_legendary_polearm_effects": [ "* Always strikes for maximum damage" ],
+		"template_weapon_skill_modifier": [ "%+d%% effectiveness from %s skill" ],
+		"template_weapon_skill_modifier_range": [ "* (%d%% - %d%%) ATK variance from", "%s skill" ],
+		"template_when_equipped_text": [ "\nWhen equipped:" ],
+		"template_when_equipped_text_no_leading_newline": [ "When equipped:" ],
+		"template_player_atk_stat_str": [ "%+d ATK from STR stat" ],
+		"template_player_atk_stat_whip": [ "%+d ATK from 50%% STR + DEX stat" ],
+		"template_knuckles_base_ac": [ "%+d base item AC / ATK" ],
+		"template_knuckles_beatitude_ac": [ "%+d AC / ATK from %s" ],
+		"template_ranged_armor_pierce": [ "%+d%% chance Armor Pierce from PER stat" ],
+		"template_ranged_quiver_augment": [ "* Applies effects of quivers in", " %s slot" ],
+		"template_ranged_rate_of_fire": [ "%+d%% base rate of fire" ],
+		"template_player_unarmed_atk_stat_str": [ "%+d ATK from STR stat" ],
+		"template_ring_unarmed_atk": [ "%+d Unarmed ATK from %s" ],
+		"template_player_atk_stat_dex": [ "%+d ATK from DEX stat" ],
+		"template_knuckle_skill_modifier": [ "%+d ATK from %s skill" ],
+		"template_knuckle_knockback_modifier": [ "+%d%% Knockback on critical hit" ],
+		"template_weapon_durability": [ "%+d%% durability from %s skill" ],
+		"template_weapon_legendary_durability": [ "* Unbreakable from %s skill" ],
+		"template_shield_durability": [ "%+d%% durability from %s skill" ],
+		"template_shield_legendary_durability": [ "* Unbreakable from %s skill" ],
+		"template_fragile_equipment_description": [ "Fragile." ],
+		"template_fragile_weapon_description": [ "Fragile." ],
+		"template_weapon_bonus_exp": [ "%+d%% chance to increase %s skill" ],
+		"template_equipment_fragile_durability": [ "%+d%% durability from Fragile" ],
+		"template_armor_fragile_durability": [ "%+d%% durability from Fragile" ],
+		"template_attributes_text": [ "Attributes:" ],
+		"template_weapon_damage_text": [ "Weapon damage bonuses:" ],
+		"template_quiver_damage_text": [ "Ranged damage bonuses:" ],
+		"template_armor_ac_text": [ "Armor bonuses:" ],
+		"template_thrown_skill_modifier": [ "%+d%% damage from %s skill" ],
+		"template_gem_skill_modifier": [ "%+d damage from %s skill" ],
+		"template_quiver_silver_attributes": [ "+50% ATK on undead and demons from [Smite]" ],
+		"template_quiver_piercing_attributes": [ "* [Armor Pierce] bypasses 50% target AC" ],
+		"template_quiver_swift_attributes": [ "+50% Reduced reload time between ranged attacks from [Swift Reload]" ],
+		"template_quiver_fire_attributes": [ "* Provides light on floors and walls" ],
+		"template_quiver_knockback_attributes": [ "* Targets immobilized by status effects receive greater [Knockback]" ],
+		"template_quiver_hunting_attributes": [ "+50% ATK on large and small beasts from [Hunting]" ],
+		"template_attributes_text_armor_conditional_tags": [
+			"STR",
+			"DEX",
+			"CON",
+			"INT",
+			"PER",
+			"CHR",
+			"FRAGILE",
+			"EFF_FEATHER",
+			"EFF_WATERWALKING",
+			"EFF_POISONRESIST",
+			"EFF_WATERBREATHING",
+			"EFF_LIFESAVING",
+			"EFF_MAGICREFLECT",
+			"EFF_STRANGULATION",
+			"EFF_SEXCHANGE",
+			"EFF_MAGICRESIST_SHIELD",
+			"EFF_QUIVER_SILVER",
+			"EFF_QUIVER_PIERCING",
+			"EFF_QUIVER_SWIFT",
+			"EFF_SHIELD_BRITTLE",
+			"EFF_UNBREAKABLE",
+			"EFF_QUIVER_FIRE",
+			"EFF_QUIVER_KNOCKBACK",
+			"EFF_QUIVER_HUNTING",
+			"EFF_QUIVER_HUNTING2",
+			"EFF_QUIVER_CRYSTAL",
+			"EFF_WARNING",
+			"EFF_FOOTSTEP_WARNING",
+			"EFF_TELEPORTATION",
+			"EFF_CONFLICT",
+			"EFF_SLOWDIGESTION",
+			"EFF_BREAKABLE",
+			"EFF_BLEED_ENERGIZE",
+			"EFF_LIGHT",
+			"EFF_CHEF2",
+			"EFF_TECH_GOGGLES1",
+			"EFF_THORNS",
+			"EFF_INSPIRATION",
+			"EFF_CELEBRATION",
+			"EFF_BOUNTY",
+			"EFF_FOLLOWER_DMGRESIST",
+			"EFF_HOOD_WHISPERS",
+			"EFF_SILKEN_BOW",
+			"EFF_CLOAK_GUARDIAN",
+			"EFF_MARIGOLD1"
+		],
+		"template_armor_stat_bonus": [ "%+d base item %s", "%+d %s from %s" ],
+		"template_equipment_effect_feather": [ "%+d base item weight from %s" ],
+		"template_equipment_effect_waterwalking": [ "* Wearer floats on water and lava from [Waterwalking]" ],
+		"template_equipment_effect_poisonresist": [ "* Cures [Poison] status effect", "+2 [Magic Resist] against\nPoison / Acid spells" ],
+		"template_equipment_effect_magicreflect": [ "* Reflects magic spells when hit", "* 50% chance to degrade on reflection" ],
+		"template_equipment_effect_waterbreathing": [ "* 100% movement speed in water or\n lava" ],
+		"template_equipment_effect_warning": [ "* Reveals enemy locations\non the map from [Warning]", "%+d tile radius from %s" ],
+		"template_equipment_effect_footstep_warning": [ "* Reveals locations of moving enemies on the map from [Lesser Warning]", "+20 tile radius" ],
+		"template_equipment_effect_teleportation": [ "* Teleports the wearer to random locations" ],
+		"template_equipment_effect_conflict": [ "* Causes monsters to hunt others regardless of allegiance", "+7 tile radius" ],
+		"template_equipment_effect_slowdigestion": [ "* Increases food satiation and delays starvation" ],
+		"template_equipment_effect_freeaction": [ "", "When equipped:", "* Cures [Sleep] [Paralysis] [Slow]", "status effects from [Free Action]" ],
+		"template_equipment_effect_telepathy": [ "", "When equipped:", "* Reveals monsters through walls from [Telepathy]" ],
+		"template_tool_pickaxe_degrade": [ "* 50% chance to degrade on [Digging]" ],
+		"template_lockpick_text_tinkering": [ "* Effects based on Tinkering skill", "" ],
+		"template_lockpick_text_chestsdoors": [ "Unlocking Chests and Doors:" ],
+		"template_lockpick_chestsdoors_unlock_chance": [ "%+d%% base chance to unlock" ],
+		"template_lockpick_skeletonkey_chestsdoors_unlock_chance": [ "+100% base chance to unlock" ],
+		"template_lockpick_chests_scrap_chance": [ "%+d%% chance for Tinkering scrap on unlocking chests" ],
+		"template_lockpick_skeletonkey_chests_scrap_chance": [ "+0% chance for Tinkering scrap on unlocking chests" ],
+		"template_lockpick_text_mechanisms": [ "", "Mechanisms:", "* Toggles activation of set Tinkering traps in the world" ],
+		"template_lockpick_skeletonkey_text_mechanisms": [ "", "Mechanisms:" ],
+		"template_lockpick_arrow_disarm": [ "%+d%% chance to disarm arrow traps" ],
+		"template_lockpick_automaton_disarm": [ "%+d%% chance to disarm Automatons for Tinkering scrap" ],
+		"template_lockpick_durability_chance": [ "* 20% chance to degrade on use" ],
+		"template_food_puke_chance": [ "%+d%% chance for [Indigestion] from %s quality" ],
+		"template_food_on_eating": [ "On consuming:" ],
+		"template_spellbook_cast_bonus": [ "", "Spellbook-Cast bonus:", "%+d%% %s from %s stat", "%+d%% %s from %s" ],
+		"template_spellbook_cast_success": [ "%+d%% cast success while unlearned" ],
+		"template_spellbook_extramana_chance": [ "%+d%% mana efficiency" ],
+		"template_spellbook_magic_requirement": [ "Requirement to learn spell: %d (%s)" ],
+		"template_spellbook_magic_current": [ "Current Magic skill + INT stat: %d (%s)" ],
+		"template_spellbook_icon_damage_bonus": [ "Spellbook-Cast effect:", "%+d%% Magic Damage" ],
+		"template_spellbook_icon_duration_bonus": [ "Spellbook-Cast effect:", "%+d%% Effect duration" ],
+		"template_spellbook_icon_heal_bonus": [ "Spellbook-Cast effect:", "%+d%% HP Restoration" ],
+		"template_spellbook_icon_cureailment_bonus": [ "Spellbook-Cast effect:", "%+ds [HP Regen] on cast" ],
+		"template_icon_spell_forcebolt": [ "%+d Magic Damage" ],
+		"template_icon_spell_magicmissile": [ "%+d Magic Damage" ],
+		"template_icon_spell_cold": [ "%+d Magic Damage\nInflicts [Slow]" ],
+		"template_icon_spell_fireball": [ "%+d Magic Damage\nInflicts [Burning]" ],
+		"template_icon_spell_light": [ "Summons a [Light]", "following the caster" ],
+		"template_icon_spell_removecurse": [ "Removes [Curse]" ],
+		"template_icon_spell_lightning": [ "%+d Magic Damage" ],
+		"template_icon_spell_identify": [ "[Identify] an item" ],
+		"template_icon_spell_magicmapping": [ "[Reveals] the current", "dungeon floor" ],
+		"template_icon_spell_sleep": [ "Inflicts [Sleep]" ],
+		"template_icon_spell_confuse": [ "Inflicts [Confuse]" ],
+		"template_icon_spell_slow": [ "Inflicts [Slow]" ],
+		"template_icon_spell_opening": [ "[Opens] doors, gates", "and locked containers" ],
+		"template_icon_spell_locking": [ "[Locks] doors", "and chests" ],
+		"template_icon_spell_levitation": [ "Grants [Levitation]", "while sustained" ],
+		"template_icon_spell_invisibility": [ "Grants [Invisibility]", "while sustained" ],
+		"template_icon_spell_teleportation": [ "[Teleport] to a ", "random location" ],
+		"template_icon_spell_healing": [ "%+d [HP Restore]\nHeals nearby allies" ],
+		"template_icon_spell_extrahealing": [ "%+d [HP Restore]\nHeals nearby allies" ],
+		"template_icon_spell_cureailment": [ "[Cures] status effects of", "caster and nearby allies" ],
+		"template_icon_spell_dig": [ "Breaks boulders", "and walls" ],
+		"template_icon_spell_summon": [ "Conjures %d", "Skeleton ally(s)" ],
+		"template_icon_spell_stoneblood": [ "Inflicts [Paralysis]" ],
+		"template_icon_spell_bleed": [ "%+d Magic Damage", "Inflicts [Bleed/Slow]" ],
+		"template_icon_spell_reflect_magic": [ "Grants [Magic Reflection]", "while sustained" ],
+		"template_icon_spell_dominate": [ "[Dominates] a monster", "to become an ally" ],
+		"template_icon_spell_acid_spray": [ "%+d Magic Damage", "Inflicts [Poison]" ],
+		"template_icon_spell_steal_weapon": [ "[Steal] held weapons" ],
+		"template_icon_spell_drain_soul": [ "%+d Magic Damage", "Inflicts [MP Damage]" ],
+		"template_icon_spell_vampiric_aura": [ "Grants unarmed attack %\n[Lifesteal] [Bleeding]" ],
+		"template_icon_spell_charm": [ "Attempts to [Charm] a", "monster into an ally" ],
+		"template_icon_spell_revert_form": [ "Removes active", "[Shapeshift] or ", "[Polymorph] effects" ],
+		"template_icon_spell_rat_form": [ "[Shapeshift] temporarily", "into a different form" ],
+		"template_icon_spell_spider_form": [ "[Shapeshift] temporarily", "into a different form" ],
+		"template_icon_spell_troll_form": [ "[Shapeshift] temporarily", "into a different form" ],
+		"template_icon_spell_imp_form": [ "[Shapeshift] temporarily", "into a different form" ],
+		"template_icon_spell_spray_web": [ "Inflicts +1  [Webbed]", "instance (Max 3x)" ],
+		"template_icon_spell_poison": [ "%+d magic damage\nInflicts [Poison]" ],
+		"template_icon_spell_speed": [ "Grants [Speed] to caster", "and nearby allies" ],
+		"template_icon_spell_fear": [ "Inflicts [Fear] on nearby", "enemies" ],
+		"template_icon_spell_strike": [ "Charges a powerful melee\nstrike dealing +400%% ATK" ],
+		"template_icon_spell_detect_food": [ "Reveals food sources on", "current dungeon floor" ],
+		"template_icon_spell_weakness": [ "Inflicts [Magic Weakness]" ],
+		"template_icon_spell_amplify_magic": [ "Augments [Fireball] [Cold]", "[Lightning] [Magic Missile]" ],
+		"template_icon_spell_shadow_tag": [ "Inflicts [Nullify] and", "reveals a target's location" ],
+		"template_icon_spell_telepull": [ "[Teleports] a target\ntowards the caster" ],
+		"template_icon_spell_demon_illu": [ "Exorcises an Inner Demon", "that inflicts [Provoke]" ],
+		"template_icon_spell_trolls_blood": [ "Grants [HP Regen] to", "caster and nearby allies" ],
+		"template_icon_spell_salvage": [ "[Transmutes] nearby items", "into Tinkering scrap" ],
+		"template_icon_spell_flutter": [ "Grants [Levitation]", "briefly" ],
+		"template_icon_spell_dash": [ "[Propels] caster in", "current moving direction" ],
+		"template_icon_spell_ghost_bolt": [ "Inflicts [Knockback]", "and [Slow]" ],
+		"template_icon_spell_self_polymorph": [ "[Polymorph] temporarily", "into a random humanoid" ],
+		"template_desc_spell_forcebolt": [ "Press [Cast] while equipped", "to cast the [Projectile]." ],
+		"template_desc_spell_magicmissile": [ "Press [Cast] while equipped", "to cast the [Projectile]." ],
+		"template_desc_spell_cold": [ "Press [Cast] while equipped", "to cast the [Projectile]." ],
+		"template_desc_spell_fireball": [ "Press [Cast] while equipped", "to cast the [Projectile]." ],
+		"template_desc_spell_ghost_bolt": [ "Press [Cast] while equipped", "to cast the [Projectile]." ],
+		"template_desc_spell_light": [ "Press [Cast] while equipped to toggle", "the [Sustained] effect." ],
+		"template_desc_spell_removecurse": [ "Press [Cast] while equipped", "to select an item to Uncurse." ],
+		"template_desc_spell_lightning": [ "Press [Cast] while equipped", "to cast the [Projectile]." ],
+		"template_desc_spell_identify": [ "Press [Cast] while equipped", "to select an item to Identify." ],
+		"template_desc_spell_magicmapping": [ "Press [Cast] while equipped to show", "unexplored areas on the map." ],
+		"template_desc_spell_sleep": [ "Press [Cast] while equipped", "to cast the [Projectile]." ],
+		"template_desc_spell_confuse": [ "Press [Cast] while equipped", "to cast the [Projectile]." ],
+		"template_desc_spell_slow": [ "Press [Cast] while equipped", "to cast the [Projectile]." ],
+		"template_desc_spell_opening": [ "Press [Cast] while equipped to ", "cast the [Projectile]." ],
+		"template_desc_spell_locking": [ "Press [Cast] while equipped", "to cast the [Projectile]." ],
+		"template_desc_spell_levitation": [ "Press [Cast] while equipped to", "toggle the [Sustained] effect." ],
+		"template_desc_spell_invisibility": [ "Press [Cast] while equipped to", "toggle the [Sustained] effect." ],
+		"template_desc_spell_teleportation": [ "Press [Cast] while equipped", "to instantly teleport." ],
+		"template_desc_spell_healing": [ "Press [Cast] while equipped to", "invoke the [Area] effect." ],
+		"template_desc_spell_extrahealing": [ "Press [Cast] while equipped to", "invoke the [Area] effect." ],
+		"template_desc_spell_cureailment": [ "Press [Cast] while equipped to", "invoke the [Area] effect." ],
+		"template_desc_spell_dig": [ "Press [Cast] while equipped", "to cast the [Projectile]." ],
+		"template_desc_spell_summon": [ "Press [Cast] while equipped to summon.", "Existing summons are recalled and", "restore MP on subsequent casts." ],
+		"template_desc_spell_stoneblood": [ "Short-range spell.", "Press [Cast] while equipped ", "to cast 3x [Projectiles]." ],
+		"template_desc_spell_bleed": [ "Press [Cast] while equipped", "to cast the [Projectile]." ],
+		"template_desc_spell_reflect_magic": [ "Press [Cast] while equipped to", "toggle the [Sustained] effect." ],
+		"template_desc_spell_dominate": [ "MP cost increases for each HP", "of the dominated target.", "Press [Cast] while equipped", "to cast the [Projectile]." ],
+		"template_desc_spell_acid_spray": [ "Corrodes armor on hit.", "Short-range spell.", "Press [Cast] while equipped ", "to cast 3x [Projectiles]." ],
+		"template_desc_spell_steal_weapon": [ "Stolen weapon is added to", "the caster's inventory.", "Press [Cast] while equipped", "to cast the [Projectile]." ],
+		"template_desc_spell_drain_soul": [ "Restores based on damage dealt.", "Press [Cast] while equipped to", "cast the [Projectile]." ],
+		"template_desc_spell_vampiric_aura": [ "Increases starvation rate while active.", "Press [Cast] while equipped to toggle", "the [Sustained] effect." ],
+		"template_desc_spell_charm": [ "Success varies with monster type.", "Only 1 monster may be Charmed into", "an ally at one time.", "Press [Cast] while equipped to cast", "the [Projectile]." ],
+		"template_desc_spell_revert_form": [ "Press [Cast] while equipped to", "return to normal form." ],
+		"template_desc_spell_rat_form": [ "Press [Cast] while equipped to", "change into Rat form." ],
+		"template_desc_spell_spider_form": [ "Press [Cast] while equipped to", "change into Arthropod form." ],
+		"template_desc_spell_troll_form": [ "Press [Cast] while equipped to", "change into Troll form." ],
+		"template_desc_spell_imp_form": [ "Press [Cast] while equipped to", "change into Imp form." ],
+		"template_desc_spell_spray_web": [ "Each instance increases effectiveness.", "Short-range spell. Press [Cast] while", "equipped to cast 3x [Projectiles]." ],
+		"template_desc_spell_poison": [ "Press [Cast] while equipped", "to cast the [Projectile]." ],
+		"template_desc_spell_speed": [ "Press [Cast] while equipped to", "invoke the [Area] effect." ],
+		"template_desc_spell_fear": [ "Feared targets are unable to attack", "and focuses attention on the caster.", "Press [Cast] while equipped to invoke", "the [Area] effect." ],
+		"template_desc_spell_strike": [ "Press [Cast] while equipped to", "charge the strike." ],
+		"template_desc_spell_detect_food": [ "Press [Cast] while equipped to", "show food locations on the map." ],
+		"template_desc_spell_weakness": [ "Inflicts [Magic Weakness]" ],
+		"template_desc_spell_amplify_magic": [ "Increases damage and reduces range", "of elemental spells cast.", "Press [Cast] while equipped to toggle", "the [Sustained] effect." ],
+		"template_desc_spell_shadow_tag": [ "Marked targets refocus Teleportation", "spells cast around the target.", "Press [Cast] while equipped to cast", "the [Projectile]." ],
+		"template_desc_spell_telepull": [ "Disoriented targets temporarily", "are unable to act until hit.", "Press [Cast] while equipped to", "cast the [Projectile]." ],
+		"template_desc_spell_demon_illu": [ "Demon's stats are based on caster.", "Press [Cast] while equipped to cast", "the [Projectile]." ],
+		"template_desc_spell_trolls_blood": [ "Press [Cast] while equipped to", "invoke the [Area] effect." ],
+		"template_desc_spell_salvage": [ "Only affects items on the ground.", "Press [Cast] while equipped to", "invoke the [Area] effect." ],
+		"template_desc_spell_flutter": [ "Press [Cast] while equipped", "to take flight." ],
+		"template_desc_spell_dash": [ "Casting while stationary performs", "a backwards leap.", "Press [Cast] while equipped to dash." ],
+		"template_desc_spell_self_polymorph": [ "Press [Cast] while equipped to", "change form and racial traits.", "Non-humans always Polymorph into", "a human form." ],
+		"template_spell_cost": [ "Cost: %d MP" ],
+		"template_spell_cost_dominate": [ "Cost: %d + ?? MP" ],
+		"template_spell_cost_demon_illusion": [ "Cost: %d MP", "10%% Max HP " ],
+		"template_spell_cost_sustained": [ "Cost: %d MP", "(1 MP/%1.2fs)" ],
+		"template_spell_damage_bonus": [ "Spell %s bonuses:", "%+d base spell %s", "%+.f%% %s from %s stat", "%+.f%% %s from equipment" ],
+		"template_spell_cast_success": [ "^Low Casting skill penalty:", "^* %d%% cast success rate" ],
+		"template_spell_extramana_chance": [ "^* %d%% chance to consume", "^additional MP " ],
+		"template_attr_spell_shadow_tag": [ "Attributes:", "* Damage-Types (Ranged, Axe etc) on Nullified targets always deal 100% damage", "-50% MP cost for teleportation spells while active", "", "* Casting [Teleportation] moves caster to marked target", "* Casting [Teleport Other] moves marked target in front of caster" ],
+		"template_attr_spell_summon": [ "Attributes:", "* Summoned ally LVLs are kept between casts, improving equipment every 5 LVLs (Max at LVL 30)", "* MP Cost increases with summon rank", "* Expert (60) Magic skill + INT stat creates an additional summon", "", "Follower commands:", "* [Relinquish Soul] destroys summons and returns MP based on current HP" ],
+		"template_attr_spell_self_polymorph": [ "Attributes:", "* [Polymorph] effect dissipates on touching or consuming water" ],
+		"template_attr_spell_acid_spray": [ "Attributes:", "+25% base chance to degrade armor per hit", "" ],
+		"template_attr_spell_charm": [ "Charm modifiers:", "+30%% chance on [Confused] or [Drunk] monsters", "%+d%% chance from INT stat", "%+d%% chance from CHR stat + Leadership skill" ],
+		"template_attr_spell_dominate": [ "Attributes:", "* Dominating monsters allows exceeding the Leadership skill ally limit", "", "Dominate MP Cost:", "* Weakened monsters reduce MP cost to Dominate (e.g. Monster with 20 current HP costs 41 MP)" ],
+		"template_attr_spell_revert_form": [ "Attributes:", "* Only removes 1 effect at a time" ],
+		"template_attr_magicstaff_charm": [ "", "Charm modifiers:", "+30%% chance on [Confused] or [Drunk] monsters", "%+d%% chance from CHR stat + Leadership skill" ],
+		"template_magicstaff_degrade_chance": [ "Attributes:", "* %d%% chance to degrade on use" ],
+		"template_magicstaff_charm_worn_degrade": [ "Attributes:", "* %d%% chance to degrade on use from %s status" ],
+		"template_spellbook_degrade_chance": [ "* 100% chance to degrade when read", "* 12% chance to degrade on Spellbook-Cast" ]
+	},
+	"tooltips": {
+		"tooltip_artifact_orb_blue": {
+			"icons": [
+				{
+					"text": "[Key Item]",
+					"icon_path": "images/ui/Inventory/tooltips/tooltip_icons/keyitem.png"
+				}
+			],
+			"description": [ "An artifact found deep within the Ruins. Press [Attack] while equipped to use." ],
+			"size": {
+				"min_width": 260
+			}
+		},
+		"tooltip_artifact_orb_red": {
+			"icons": [
+				{
+					"text": "[Key Item]",
+					"icon_path": "images/ui/Inventory/tooltips/tooltip_icons/keyitem.png"
+				}
+			],
+			"description": [ "An artifact found deep within the Labyrinth. Press [Attack] while equipped to use." ],
+			"size": {
+				"min_width": 260
+			}
+		},
+		"tooltip_artifact_orb_green": {
+			"icons": [
+				{
+					"text": "[Key Item]",
+					"icon_path": "images/ui/Inventory/tooltips/tooltip_icons/keyitem.png"
+				}
+			],
+			"description": [ "An artifact found deep within the Swamps. Press [Attack] while equipped to use." ],
+			"size": {
+				"min_width": 250
+			}
+		},
+		"tooltip_artifact_orb_purple": {
+			"icons": [
+				{
+					"text": "[Key Item]",
+					"icon_path": "images/ui/Inventory/tooltips/tooltip_icons/keyitem.png"
+				}
+			],
+			"description": [ "An artifact found in the remains of a wretched lich. Press [Attack] while equipped to use." ],
+			"size": {
+				"min_width": 270
+			}
+		},
+		"tooltip_gem_rock": {
+			"icons": [
+				{
+					"text": "%+d Thrown Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01.png"
+				},
+				{
+					"text": "%s",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/feather.png",
+					"conditional_attribute": "EFF_FEATHER"
+				}
+			],
+			"description": "template_rock_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"piercing": [ "+50% Armor Pierce" ]
+				},
+				{
+					"degrade": [ "+50% chance to shatter on hit" ]
+				},
+				{
+					"EFF_FEATHER": "template_equipment_effect_feather"
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"thrown_atk_from_player_stat": "template_player_atk_stat_dex"
+				},
+				{
+					"fully_charged": [ "+3 ATK on fully charged throw" ]
+				},
+				{
+					"thrown_skill_modifier": "template_gem_skill_modifier"
+				}
+			],
+			"size": {
+				"max_width": 0,
+				"min_width": 316,
+				"max_header_width": 290
+			}
+		},
+		"tooltip_gem_glass": {
+			"icons": [
+				{
+					"text": "%+d Thrown Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01.png"
+				}
+			],
+			"description": "template_glass_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"piercing": [ "+50% Armor Pierce" ]
+				},
+				{
+					"degrade": [ "+50% chance to shatter on hit" ]
+				},
+				{
+					"EFF_FEATHER": "template_equipment_effect_feather"
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"thrown_atk_from_player_stat": "template_player_atk_stat_dex"
+				},
+				{
+					"fully_charged": [ "+3 ATK on fully charged throw" ]
+				},
+				{
+					"thrown_skill_modifier": "template_gem_skill_modifier"
+				}
+			],
+			"size": {
+				"max_width": 0,
+				"min_width": 304,
+				"max_header_width": 290
+			}
+		},
+		"tooltip_gem": {
+			"icons": [
+				{
+					"text": "%+d Thrown Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01.png"
+				}
+			],
+			"description": "template_gem_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"piercing": [ "+50% Armor Pierce" ]
+				},
+				{
+					"degrade": [ "+50% chance to shatter on hit" ]
+				},
+				{
+					"EFF_FEATHER": "template_equipment_effect_feather"
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"thrown_atk_from_player_stat": "template_player_atk_stat_dex"
+				},
+				{
+					"fully_charged": [ "+3 ATK on fully charged throw" ]
+				},
+				{
+					"thrown_skill_modifier": "template_gem_skill_modifier"
+				}
+			],
+			"size": {
+				"max_width": 0,
+				"min_width": 304,
+				"max_header_width": 290
+			}
+		},
+		"tooltip_magicstaff": {
+			"icons": [
+				{
+					"text": "",
+					"icon_path": "",
+					"conditional_attribute": "magicstaff_light"
+				},
+				{
+					"text": "",
+					"icon_path": "",
+					"conditional_attribute": "magicstaff_digging"
+				},
+				{
+					"text": "",
+					"icon_path": "",
+					"conditional_attribute": "magicstaff_locking"
+				},
+				{
+					"text": "",
+					"icon_path": "",
+					"conditional_attribute": "magicstaff_magicmissile"
+				},
+				{
+					"text": "",
+					"icon_path": "",
+					"conditional_attribute": "magicstaff_opening"
+				},
+				{
+					"text": "",
+					"icon_path": "",
+					"conditional_attribute": "magicstaff_slow"
+				},
+				{
+					"text": "",
+					"icon_path": "",
+					"conditional_attribute": "magicstaff_cold"
+				},
+				{
+					"text": "",
+					"icon_path": "",
+					"conditional_attribute": "magicstaff_fire"
+				},
+				{
+					"text": "",
+					"icon_path": "",
+					"conditional_attribute": "magicstaff_lightning"
+				},
+				{
+					"text": "",
+					"icon_path": "",
+					"conditional_attribute": "magicstaff_sleep"
+				},
+				{
+					"text": "",
+					"icon_path": "",
+					"conditional_attribute": "magicstaff_stoneblood"
+				},
+				{
+					"text": "",
+					"icon_path": "",
+					"conditional_attribute": "magicstaff_bleed"
+				},
+				{
+					"text": "",
+					"icon_path": "",
+					"conditional_attribute": "magicstaff_charm"
+				},
+				{
+					"text": "",
+					"icon_path": "",
+					"conditional_attribute": "magicstaff_poison"
+				}
+			],
+			"description": [ "Press [Attack] while equipped\nto cast the contained spell." ],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"magicstaff_degrade_chance": "template_magicstaff_degrade_chance"
+				},
+				{
+					"magicstaff_charm_degrade_chance": "template_magicstaff_charm_worn_degrade"
+				},
+				{
+					"attribute_spell_charm": "template_attr_magicstaff_charm"
+				}
+			],
+			"size": {
+				"max_width": 0,
+				"min_width": 300,
+				"max_header_width": 310,
+				"item_overrides": {
+					"magicstaff_charm": {
+						"min_width": 320
+					}
+				}
+			}
+		},
+		"tooltip_scroll_mail": {
+			"icons": [
+				{
+					"text": "Labelled:\n%s",
+					"icon_path": "images/system/int64.png",
+					"conditional_attribute": "SCROLL_LABEL"
+				}
+			],
+			"description": [ "A letter addressed to someone else." ],
+			"details": [
+				{
+					"default": [ "" ]
+				}
+			],
+			"size": {
+				"min_width": 200
+			}
+		},
+		"tooltip_scroll_blank": {
+			"icons": [
+				{
+					"text": "No effect",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png"
+				},
+				{
+					"text": "Labelled:\n%s",
+					"icon_path": "images/system/int64.png",
+					"conditional_attribute": "SCROLL_LABEL"
+				}
+			],
+			"description": [ "Can be inscribed to imbue magical effects." ],
+			"details": [
+				{
+					"default": [ "" ]
+				}
+			],
+			"size": {
+				"max_width": 0,
+				"min_width": 220
+			}
+		},
+		"tooltip_scroll": {
+			"icons": [
+				{
+					"text": "[Blesses] a chosen piece of\nMain-hand equipment",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "scroll_enchantweapon"
+				},
+				{
+					"text": "Creates [Light] at\ncurrent location",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "scroll_light"
+				},
+				{
+					"text": "[Destroys] a random\npiece of worn armor",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "scroll_destroyarmor"
+				},
+				{
+					"text": "[Blesses] a chosen piece of\narmor or Off-hand equipment",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "scroll_enchantarmor"
+				},
+				{
+					"text": "[Repairs] a chosen\npiece of equipment",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "scroll_repair"
+				},
+				{
+					"text": "Removes [Curse] from\na chosen item",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "scroll_removecurse"
+				},
+				{
+					"text": "[Summons] flames\nat current location",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "scroll_fire"
+				},
+				{
+					"text": "[Conjures] several\npieces of food",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "scroll_food"
+				},
+				{
+					"text": "[Conjures] ranged\nweapon ammunition",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "scroll_conjurearrow"
+				},
+				{
+					"text": "[Reveals] the current\ndungeon floor",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "scroll_magicmapping"
+				},
+				{
+					"text": "[Teleport] to a\nrandom location",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "scroll_teleportation"
+				},
+				{
+					"text": "[Summons] a random\nnumber of monsters",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "scroll_summon"
+				},
+				{
+					"text": "[Identifies] a chosen\npiece of equipment",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "scroll_identify"
+				},
+				{
+					"text": "[Repairs] Magicstaffs\nand Enchanted Feathers",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "scroll_charging"
+				},
+				{
+					"text": "Labelled:\n%s",
+					"icon_path": "images/system/int64.png",
+					"conditional_attribute": "SCROLL_LABEL"
+				}
+			],
+			"description": [ "Applies magical effects when read. Vanishes on use." ],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"scroll_on_cursed_sideeffect": "template_scroll_curse_sideeffect"
+				}
+			],
+			"size": {
+				"max_width": 0,
+				"min_width": 280,
+				"max_header_width": 280
+			}
+		},
+		"tooltip_spell_item": {
+			"icons": [
+				{
+					"text": "",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "SPELL_ICON_EFFECT"
+				},
+				{
+					"text": "Reflecting Magic Damage\nconsumes [MP]",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_reflect_magic"
+				},
+				{
+					"text": "Spell consumes health\nwhen [MP] is depleted",
+					"icon_path": "#*images/system/Hunger_blood.png",
+					"conditional_attribute": "spell_dominate"
+				},
+				{
+					"text": "Increases Strength/Dexterity",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_vampiric_aura"
+				},
+				{
+					"text": "-100% [HP Regen]",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_vampiric_aura"
+				},
+				{
+					"text": "Restores caster [HP/MP]",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_drain_soul"
+				},
+				{
+					"text": "Inflicts [Pacify]\nif unable to [Charm]",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_charm"
+				},
+				{
+					"text": "Rat form grants\n+DEX +INT +PER",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_rat_form"
+				},
+				{
+					"text": "Grants [Speed] [Detect Food]\nspells",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_rat_form"
+				},
+				{
+					"text": "Arthropod form grants\n+STR +CON +PER",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_spider_form"
+				},
+				{
+					"text": "Grants [Poison] [Spray Web]\nspells",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_spider_form"
+				},
+				{
+					"text": "Troll form grants\n+STR +CON -DEX",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_troll_form"
+				},
+				{
+					"text": "Grants [Troll's Blood]\n[Power Strike] spells",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_troll_form"
+				},
+				{
+					"text": "Imp form grants\n+INT +PER and [Levitation]",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_imp_form"
+				},
+				{
+					"text": "Grants [Lightning] [Confuse]\n[Elemental Focus] spells",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_imp_form"
+				},
+				{
+					"text": "[Webbed] inflicts [Slow] and\n[Knockback] by melee hits",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_spray_web"
+				},
+				{
+					"text": "Breaks boulders, walls\nand doors on impact",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_strike"
+				},
+				{
+					"text": "Damage dealt to Demon is\n[Returned] to attacker",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_demon_illu"
+				},
+				{
+					"text": "Spell consumes health\nequal to 10% [Max HP]",
+					"icon_path": "#*images/system/Hunger_blood.png",
+					"conditional_attribute": "spell_demon_illu"
+				},
+				{
+					"text": "Breaks doors on impact",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_dash"
+				},
+				{
+					"text": "[Nullify] removes Damage-Type\nWeaknesses and Resistances",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_shadow_tag"
+				},
+				{
+					"text": "Inflicts [Disoriented]\nbased on distance travelled",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "spell_telepull"
+				}
+			],
+			"description": [ "Press [Cast] while equipped to invoke." ],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attribute_spell_shadow_tag": "template_attr_spell_shadow_tag"
+				},
+				{
+					"attribute_spell_summon": "template_attr_spell_summon"
+				},
+				{
+					"attribute_spell_self_polymorph": "template_attr_spell_self_polymorph"
+				},
+				{
+					"attribute_spell_acid_spray": "template_attr_spell_acid_spray"
+				},
+				{
+					"attribute_spell_charm": "template_attr_spell_charm"
+				},
+				{
+					"attribute_spell_dominate": "template_attr_spell_dominate"
+				},
+				{
+					"attribute_spell_revert_form": "template_attr_spell_revert_form"
+				},
+				{
+					"spell_damage_bonus": "template_spell_damage_bonus"
+				},
+				{
+					"spell_newbie_newline": ""
+				},
+				{
+					"spell_cast_success": "template_spell_cast_success"
+				},
+				{
+					"spell_extramana_chance": "template_spell_extramana_chance"
+				}
+			],
+			"size": {
+				"max_width": 0,
+				"min_width": 250,
+				"max_header_width": 280,
+				"item_overrides": {
+					"spell_forcebolt": {
+						"min_width": 240
+					},
+					"spell_magicmissile": {
+						"min_width": 240
+					},
+					"spell_cold": {
+						"min_width": 240
+					},
+					"spell_fireball": {
+						"min_width": 240
+					},
+					"spell_light": {
+						"min_width": 316
+					},
+					"spell_removecurse": {
+						"min_width": 250
+					},
+					"spell_lightning": {
+						"min_width": 240
+					},
+					"spell_identify": {
+						"min_width": 256
+					},
+					"spell_magicmapping": {
+						"min_width": 300
+					},
+					"spell_sleep": {
+						"min_width": 240
+					},
+					"spell_confuse": {
+						"min_width": 240
+					},
+					"spell_slow": {
+						"min_width": 240
+					},
+					"spell_opening": {
+						"min_width": 280
+					},
+					"spell_locking": {
+						"min_width": 240
+					},
+					"spell_levitation": {
+						"min_width": 256
+					},
+					"spell_invisibility": {
+						"min_width": 256
+					},
+					"spell_teleportation": {
+						"min_width": 240
+					},
+					"spell_healing": {
+						"min_width": 250
+					},
+					"spell_extrahealing": {
+						"min_width": 250
+					},
+					"spell_cureailment": {
+						"min_width": 300
+					},
+					"spell_dig": {
+						"min_width": 240
+					},
+					"spell_summon": {
+						"min_width": 320
+					},
+					"spell_stoneblood": {
+						"min_width": 240
+					},
+					"spell_bleed": {
+						"min_width": 270
+					},
+					"spell_reflect_magic": {
+						"min_width": 290
+					},
+					"spell_dominate": {
+						"min_width": 280
+					},
+					"spell_acid_spray": {
+						"min_width": 250
+					},
+					"spell_steal_weapon": {
+						"min_width": 260
+					},
+					"spell_drain_soul": {
+						"min_width": 270
+					},
+					"spell_vampiric_aura": {
+						"min_width": 316
+					},
+					"spell_charm": {
+						"min_width": 320
+					},
+					"spell_revert_form": {
+						"min_width": 260
+					},
+					"spell_rat_form": {
+						"min_width": 290
+					},
+					"spell_spider_form": {
+						"min_width": 290
+					},
+					"spell_troll_form": {
+						"min_width": 290
+					},
+					"spell_imp_form": {
+						"min_width": 290
+					},
+					"spell_spray_web": {
+						"min_width": 320
+					},
+					"spell_poison": {
+						"min_width": 240
+					},
+					"spell_speed": {
+						"min_width": 290
+					},
+					"spell_fear": {
+						"min_width": 310
+					},
+					"spell_strike": {
+						"min_width": 310
+					},
+					"spell_detect_food": {
+						"min_width": 286
+					},
+					"spell_weakness": {
+						"min_width": 300
+					},
+					"spell_amplify_magic": {
+						"min_width": 310
+					},
+					"spell_shadow_tag": {
+						"min_width": 320
+					},
+					"spell_telepull": {
+						"min_width": 280
+					},
+					"spell_demon_illu": {
+						"min_width": 300
+					},
+					"spell_trolls_blood": {
+						"min_width": 290
+					},
+					"spell_salvage": {
+						"min_width": 310
+					},
+					"spell_flutter": {
+						"min_width": 240
+					},
+					"spell_dash": {
+						"min_width": 300
+					},
+					"spell_self_polymorph": {
+						"min_width": 290
+					},
+					"spell_ghost_bolt": {
+						"min_width": 300
+					}
+				}
+			}
+		},
+		"tooltip_spellbook": {
+			"icons": [
+				{
+					"text": "Teaches [%s]\nwhen read",
+					"icon_path": "",
+					"conditional_attribute": "SPELLBOOK_SPELLINFO_UNLEARNED"
+				},
+				{
+					"text": "",
+					"icon_path": "",
+					"conditional_attribute": "SPELLBOOK_SPELLINFO_LEARNED"
+				},
+				{
+					"text": "",
+					"icon_path": "images/ui/CharSheet/HUD_CharSheet_SPWR_00.png",
+					"conditional_attribute": "SPELLBOOK_CAST_BONUS"
+				},
+				{
+					"text": "[Not yet learnable]",
+					"icon_path": "#*images/system/Broken24x.png",
+					"conditional_attribute": "SPELLBOOK_UNLEARNED"
+				},
+				{
+					"text": "[Learnable]",
+					"icon_path": "images/system/int64u.png",
+					"conditional_attribute": "SPELLBOOK_LEARNABLE"
+				},
+				{
+					"text": "[Unlearnable]",
+					"icon_path": "#*images/system/Broken24x.png",
+					"conditional_attribute": "SPELLBOOK_UNLEARNABLE"
+				}
+			],
+			"description": [ "Press [Defend] while held in Off-hand to alternatively Spellbook-Cast." ],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"spellbook_degrade": "template_spellbook_degrade_chance"
+				},
+				{
+					"spellbook_cast_bonus": "template_spellbook_cast_bonus"
+				},
+				{
+					"spellbook_unlearned_blank_space": [ "" ]
+				},
+				{
+					"spellbook_magic_requirement": "template_spellbook_magic_requirement"
+				},
+				{
+					"spellbook_magic_current": "template_spellbook_magic_current"
+				}
+			],
+			"size": {
+				"max_width": 360,
+				"min_width": 350,
+				"max_header_width": 360
+			}
+		},
+		"tooltip_readable_book": {
+			"description": "template_readable_book_description",
+			"size": {
+				"min_width": 280
+			}
+		},
+		"tooltip_scrap_metal": {
+			"description": "template_scrap_metal_description",
+			"size": {
+				"min_width": 260
+			}
+		},
+		"tooltip_scrap_magic": {
+			"description": "template_scrap_magic_description",
+			"size": {
+				"min_width": 260
+			}
+		},
+		"tooltip_enchanted_feather": {
+			"description": [ "Use to repair Spellbooks or inscribe magic words onto Blank Scrolls." ]
+		},
+		"tooltip_tool_tinkering_kit": {
+			"description": [ "Wield and hold [Defend]\nto salvage items on the ground for scrap.", "Use the Tinker option to Craft, Salvage, or Repair items in your inventory." ],
+			"size": {
+				"min_width": 340
+			}
+		},
+		"tooltip_tool_mirror": {
+			"description": "template_tool_mirror_description",
+			"size": {
+				"min_width": 280
+			}
+		},
+		"tooltip_tool_towel": {
+			"icons": [
+				{
+					"text": "Cures [Greasy]\n[Messy] [Bleed]",
+					"icon_path": "images/ui/HUD/statusfx/grease.png"
+				}
+			],
+			"description": "template_tool_towel_description",
+			"size": {
+				"min_width": 240
+			}
+		},
+		"tooltip_tool_beartrap": {
+			"icons": [
+				{
+					"text": "%+d Damage",
+					"icon_path": "#*images/ui/Inventory/tooltips/HUD_Tooltip_Icon_Damage_00.png"
+				},
+				{
+					"text": "Inflicts [Paralyze]\nDuration: [%ds]",
+					"icon_path": "images/ui/HUD/statusfx/paralyze.png",
+					"conditional_attribute": "EFF_PARALYZE"
+				},
+				{
+					"text": "Inflicts [Bleed]\nDuration: [%ds]",
+					"icon_path": "images/ui/HUD/statusfx/bleed.png",
+					"conditional_attribute": "EFF_BLEEDING"
+				}
+			],
+			"description": "template_tool_beartrap_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"beartrap_degrade_on_use": "template_beartrap_degrade_on_use"
+				},
+				{
+					"beartrap_degrade_on_use_cursed": "template_beartrap_degrade_on_use_cursed"
+				},
+				{
+					"degrade": [ "* Degrades when triggered" ]
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"on_degraded": "template_weapon_on_degraded_atk"
+				}
+			],
+			"size": {
+				"min_width": 284
+			}
+		},
+		"tooltip_tool_alembic": {
+			"description": [ "Use to begin mixing potions.", "Potions improve with Alchemy skill." ],
+			"size": {
+				"min_width": 300
+			}
+		},
+		"tooltip_tool_sentrybot": {
+			"icons": [
+				{
+					"text": "%+d Ranged Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01.png",
+					"conditional_attribute": "TINKERBOT_RANGEDATK"
+				},
+				{
+					"text": "%d HP\n%d Armor Class",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png",
+					"conditional_attribute": "TINKERBOT_HPAC"
+				},
+				{
+					"text": "[Upgradeable]",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Tinkering01.png",
+					"conditional_attribute": "TINKERBOT_UPGRADEABLE"
+				},
+				{
+					"text": "[Irrepairable]",
+					"icon_path": "#*images/system/Broken24x.png",
+					"conditional_attribute": "TINKERBOT_BROKEN"
+				}
+			],
+			"description": "template_tool_sentrybot_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"tinkerbot_status_bonus": "template_tinkerbot_status_bonus"
+				},
+				{
+					"tinkerbot_turn_rate": "template_tinkerbot_turn_rate"
+				},
+				{
+					"tinkerbot_atk_initiative": "template_tinkerbot_atk_initiative"
+				}
+			],
+			"size": {
+				"min_width": 300
+			}
+		},
+		"tooltip_tool_spellbot": {
+			"icons": [
+				{
+					"text": "%+d Magic Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Magic01.png",
+					"conditional_attribute": "TINKERBOT_MAGICATK"
+				},
+				{
+					"text": "%d HP\n%d Armor Class",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png",
+					"conditional_attribute": "TINKERBOT_HPAC"
+				},
+				{
+					"text": "[Upgradeable]",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Tinkering01.png",
+					"conditional_attribute": "TINKERBOT_UPGRADEABLE"
+				},
+				{
+					"text": "[Irrepairable]",
+					"icon_path": "#*images/system/Broken24x.png",
+					"conditional_attribute": "TINKERBOT_BROKEN"
+				}
+			],
+			"description": "template_tool_sentrybot_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"tinkerbot_status_bonus": "template_tinkerbot_status_bonus"
+				},
+				{
+					"spellbot_rate_of_fire": "template_spellbot_rate_of_fire"
+				},
+				{
+					"tinkerbot_turn_rate": "template_tinkerbot_turn_rate"
+				},
+				{
+					"tinkerbot_atk_initiative": "template_tinkerbot_atk_initiative"
+				}
+			],
+			"size": {
+				"min_width": 280
+			}
+		},
+		"tooltip_tool_dummybot": {
+			"icons": [
+				{
+					"text": "%d HP\n%d Armor Class",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png",
+					"conditional_attribute": "TINKERBOT_HPAC"
+				},
+				{
+					"text": "[Upgradeable]",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Tinkering01.png",
+					"conditional_attribute": "TINKERBOT_UPGRADEABLE"
+				},
+				{
+					"text": "[Irrepairable]",
+					"icon_path": "#*images/system/Broken24x.png",
+					"conditional_attribute": "TINKERBOT_BROKEN"
+				}
+			],
+			"description": "template_tool_dummybot_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"dummybot_info": [ "* Effective at luring enemies", "* Can be used for combat training\nup to Basic skill levels" ]
+				}
+			],
+			"size": {
+				"min_width": 280
+			}
+		},
+		"tooltip_tool_gyrobot": {
+			"icons": [
+				{
+					"text": "%d HP",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png",
+					"conditional_attribute": "TINKERBOT_HPAC"
+				},
+				{
+					"text": "[Upgradeable]",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Tinkering01.png",
+					"conditional_attribute": "TINKERBOT_UPGRADEABLE"
+				},
+				{
+					"text": "[Irrepairable]",
+					"icon_path": "#*images/system/Broken24x.png",
+					"conditional_attribute": "TINKERBOT_BROKEN"
+				}
+			],
+			"description": "template_tool_gyrobot_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"gyrobot_info": [ "* Automatically retrieves active Tinkering allies on exiting floors" ]
+				},
+				{
+					"gyrobot_info_interact": [ "* Able to pick up/place items and configure traps (%s quality)" ]
+				}
+			],
+			"size": {
+				"min_width": 300
+			}
+		},
+		"tooltip_tool_detonated_charge": {
+			"description": "template_tool_detonated_charge_description",
+			"size": {
+				"min_width": 280
+			}
+		},
+		"tooltip_tool_bomb_fire": {
+			"icons": [
+				{
+					"text": "%+d Magic Damage\nInflicts [Burning]",
+					"icon_path": "#*items/images/spells/fireball.png",
+					"conditional_attribute": "BOMB_ATK"
+				}
+			],
+			"description": "template_tool_bomb_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"tool_bomb_lockpickable": "template_tool_bomb_lockpickable"
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"tool_bomb_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"tool_bomb_per_atk": "template_bomb_atk_stat_per"
+				}
+			],
+			"size": {
+				"min_width": 348
+			}
+		},
+		"tooltip_tool_bomb_sleep": {
+			"icons": [
+				{
+					"text": "Explodes into\nspell of [Sleep]",
+					"icon_path": "#*items/images/spells/sleep.png"
+				}
+			],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"tool_bomb_lockpickable": "template_tool_bomb_lockpickable"
+				}
+			],
+			"description": "template_tool_bomb_description",
+			"size": {
+				"min_width": 316
+			}
+		},
+		"tooltip_tool_bomb_freeze": {
+			"icons": [
+				{
+					"text": "%+d Magic Damage\nInflicts [Slow]",
+					"icon_path": "#*items/images/spells/cold.png",
+					"conditional_attribute": "BOMB_ATK"
+				}
+			],
+			"description": "template_tool_bomb_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"tool_bomb_lockpickable": "template_tool_bomb_lockpickable"
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"tool_bomb_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"tool_bomb_per_atk": "template_bomb_atk_stat_per"
+				}
+			],
+			"size": {
+				"min_width": 348
+			}
+		},
+		"tooltip_tool_bomb_teleport": {
+			"icons": [
+				{
+					"text": "[Teleports] a target",
+					"icon_path": "#*items/images/spells/teleport.png"
+				}
+			],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"tool_bomb_lockpickable": "template_tool_bomb_lockpickable"
+				}
+			],
+			"description": "template_tool_teleport_bomb_description",
+			"size": {
+				"min_width": 316
+			}
+		},
+		"tooltip_tool_decoy": {
+			"icons": [
+				{
+					"text": "[Lures] nearby enemies",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/noise.png"
+				}
+			],
+			"description": "template_tool_decoy_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"tool_decoy_range": "template_tool_decoy_range"
+				}
+			],
+			"size": {
+				"min_width": 324
+			}
+		},
+		"tooltip_tool_tinopener": {
+			"description": "template_tool_tinopener_description",
+			"size": {
+				"min_width": 240
+			}
+		},
+		"tooltip_armor_blindfold": {
+			"icons": [
+				{
+					"text": "Grants [Telepathy]",
+					"icon_path": "images/ui/HUD/statusfx/telepathy.png",
+					"conditional_attribute": "EFF_TELEPATHY"
+				},
+				{
+					"text": "Grants [Free Action]",
+					"icon_path": "images/ui/HUD/statusfx/freeaction.png",
+					"conditional_attribute": "EFF_FREEACTION"
+				},
+				{
+					"text": "Applies [Blindness]",
+					"icon_path": "images/ui/HUD/statusfx/blind.png"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_PER_00.png",
+					"conditional_attribute": "PER"
+				}
+			],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"equipment_stat_bonus": "template_armor_stat_bonus"
+				},
+				{
+					"EFF_FREEACTION": "template_equipment_effect_freeaction"
+				},
+				{
+					"EFF_TELEPATHY": "template_equipment_effect_telepathy"
+				}
+			],
+			"size": {
+				"max_width": 300,
+				"min_width": 286,
+				"max_header_width": 270,
+				"item_overrides": {
+					"tool_blindfold_focus": {
+						"max_header_width": 200,
+						"min_width": 270
+					}
+				}
+			}
+		},
+		"tooltip_tool_lockpick": {
+			"icons": [
+				{
+					"text": "Tool of [Tinkering]",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Tinkering01.png"
+				},
+				{
+					"text": "%s",
+					"icon_path": "images/ui/Inventory/tooltips/tooltip_icons/unbreakable.png",
+					"conditional_attribute": "EFF_UNBREAKABLE"
+				}
+			],
+			"description": "template_tool_lockpick_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"EFF_BREAKABLE": "template_lockpick_durability_chance"
+				},
+				{
+					"lockpick_text_tinkering": "template_lockpick_text_tinkering"
+				},
+				{
+					"lockpick_text_chestsdoors": "template_lockpick_text_chestsdoors"
+				},
+				{
+					"lockpick_chestsdoors_unlock_chance": "template_lockpick_chestsdoors_unlock_chance"
+				},
+				{
+					"lockpick_chests_scrap_chance": "template_lockpick_chests_scrap_chance"
+				},
+				{
+					"lockpick_text_mechanisms": "template_lockpick_text_mechanisms"
+				},
+				{
+					"lockpick_arrow_disarm": "template_lockpick_arrow_disarm"
+				},
+				{
+					"lockpick_automaton_disarm": "template_lockpick_automaton_disarm"
+				}
+			],
+			"size": {
+				"min_width": 296
+			}
+		},
+		"tooltip_tool_skeletonkey": {
+			"icons": [
+				{
+					"text": "%s",
+					"icon_path": "images/ui/Inventory/tooltips/tooltip_icons/unbreakable.png",
+					"conditional_attribute": "EFF_UNBREAKABLE"
+				}
+			],
+			"description": "template_tool_skeletonkey_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"lockpick_text_chestsdoors": "template_lockpick_text_chestsdoors"
+				},
+				{
+					"lockpick_chestsdoors_unlock_chance": "template_lockpick_skeletonkey_chestsdoors_unlock_chance"
+				},
+				{
+					"lockpick_chests_scrap_chance": "template_lockpick_skeletonkey_chests_scrap_chance"
+				},
+				{
+					"lockpick_text_mechanisms": "template_lockpick_skeletonkey_text_mechanisms"
+				},
+				{
+					"lockpick_arrow_disarm": "template_lockpick_arrow_disarm"
+				}
+			],
+			"size": {
+				"min_width": 296
+			}
+		},
+		"tooltip_tool_pickaxe": {
+			"icons": [
+				{
+					"text": "%+d Damage",
+					"icon_path": "#*images/ui/Inventory/tooltips/HUD_Tooltip_Icon_Damage_00.png"
+				},
+				{
+					"text": "[Digging]",
+					"icon_path": "items/images/spells/dig.png"
+				}
+			],
+			"description": "template_tool_pickaxe_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"tool_pickaxe_degrade": "template_tool_pickaxe_degrade"
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				}
+			],
+			"size": {
+				"min_width": 280
+			}
+		},
+		"tooltip_ring": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_STR_00.png",
+					"conditional_attribute": "STR"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_DEX_00.png",
+					"conditional_attribute": "DEX"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_CON_00.png",
+					"conditional_attribute": "CON"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_INT_00.png",
+					"conditional_attribute": "INT"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_PER_00.png",
+					"conditional_attribute": "PER"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_CHA_00.png",
+					"conditional_attribute": "CHR"
+				},
+				{
+					"text": "%s",
+					"icon_path": "images/ui/Inventory/tooltips/tooltip_icons/slowdigestion.png",
+					"conditional_attribute": "EFF_SLOWDIGESTION"
+				},
+				{
+					"text": "%s",
+					"icon_path": "images/ui/HUD/statusfx/warning.png",
+					"conditional_attribute": "EFF_WARNING"
+				},
+				{
+					"text": "%s",
+					"icon_path": "items/images/spells/invisible.png",
+					"conditional_attribute": "EFF_INVISIBLE"
+				},
+				{
+					"text": "%s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_RES_00.png",
+					"conditional_attribute": "EFF_MAGICRESIST"
+				},
+				{
+					"text": "%s",
+					"icon_path": "images/ui/HUD/statusfx/conflict.png",
+					"conditional_attribute": "EFF_CONFLICT"
+				},
+				{
+					"text": "%s",
+					"icon_path": "items/images/spells/levitation.png",
+					"conditional_attribute": "EFF_LEVITATION"
+				},
+				{
+					"text": "%+d  %s",
+					"icon_path": "images/ui/HUD/statusfx/regen_hp.png",
+					"conditional_attribute": "EFF_REGENERATION"
+				},
+				{
+					"text": "%s",
+					"icon_path": "items/images/spells/teleport.png",
+					"conditional_attribute": "EFF_TELEPORTATION"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png",
+					"conditional_attribute": "AC"
+				},
+				{
+					"text": "Grants [Push]",
+					"icon_path": "#*images/ui/HUD/statusfx/push.png",
+					"conditional_attribute": "PUSH"
+				},
+				{
+					"text": "Grants +%d [Max HP] [Max MP]",
+					"icon_path": "images/ui/HUD/statusfx/fortify_hpmp.png",
+					"conditional_attribute": "EFF_RING_RESOLVE"
+				}
+			],
+			"description": "",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"ring_on_cursed_sideeffect": "template_ring_curse_sideeffect"
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"EFF_WARNING": "template_equipment_effect_warning"
+				},
+				{
+					"EFF_TELEPORTATION": "template_equipment_effect_teleportation"
+				},
+				{
+					"EFF_CONFLICT": "template_equipment_effect_conflict"
+				},
+				{
+					"EFF_SLOWDIGESTION": "template_equipment_effect_slowdigestion"
+				},
+				{
+					"equipment_stat_bonus": "template_armor_stat_bonus"
+				},
+				{
+					"blank_text_if_armor_has_stats": ""
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				},
+				{
+					"when_equipped": [ "\nWhen equipped:" ]
+				},
+				{
+					"ring_unarmed_atk": "template_ring_unarmed_atk"
+				}
+			],
+			"size": {
+				"max_width": 290,
+				"min_width": 280,
+				"max_header_width": 290
+			}
+		},
+		"tooltip_quiver": {
+			"icons": [
+				{
+					"text": "%+d Ranged Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01.png"
+				},
+				{
+					"text": "%s",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/smite.png",
+					"conditional_attribute": "EFF_QUIVER_SILVER"
+				},
+				{
+					"text": "%s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png",
+					"conditional_attribute": "EFF_QUIVER_PIERCING"
+				},
+				{
+					"text": "%s",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/swift.png",
+					"conditional_attribute": "EFF_QUIVER_SWIFT"
+				},
+				{
+					"text": "%s",
+					"icon_path": "images/ui/HUD/statusfx/burning.png",
+					"conditional_attribute": "EFF_QUIVER_FIRE"
+				},
+				{
+					"text": "%s",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/knockback.png",
+					"conditional_attribute": "EFF_QUIVER_KNOCKBACK"
+				},
+				{
+					"text": "%s",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/hunting.png",
+					"conditional_attribute": "EFF_QUIVER_HUNTING"
+				},
+				{
+					"text": "%s",
+					"icon_path": "images/ui/HUD/statusfx/poisoned.png",
+					"conditional_attribute": "EFF_QUIVER_HUNTING2"
+				}
+			],
+			"description": "template_quiver_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"EFF_QUIVER_SILVER": "template_quiver_silver_attributes"
+				},
+				{
+					"EFF_QUIVER_PIERCING": "template_quiver_piercing_attributes"
+				},
+				{
+					"EFF_QUIVER_SWIFT": "template_quiver_swift_attributes"
+				},
+				{
+					"EFF_QUIVER_FIRE": "template_quiver_fire_attributes"
+				},
+				{
+					"EFF_QUIVER_KNOCKBACK": "template_quiver_knockback_attributes"
+				},
+				{
+					"EFF_QUIVER_HUNTING": "template_quiver_hunting_attributes"
+				},
+				{
+					"blank_text_if_armor_has_stats": [ "* Allows sneaking while equipped\n" ]
+				},
+				{
+					"weapon_damage_text": "template_quiver_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				}
+			],
+			"size": {
+				"max_width": 316,
+				"min_width": 316,
+				"max_header_width": 300
+			}
+		},
+		"tooltip_ranged": {
+			"icons": [
+				{
+					"text": "%+d Ranged Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01.png"
+				}
+			],
+			"description": "template_ranged_description_medium",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"weapon_ranged_rate_of_fire": "template_ranged_rate_of_fire"
+				},
+				{
+					"weapon_ranged_quiver_augment": "template_ranged_quiver_augment"
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"weapon_atk_from_player_stat": "template_player_atk_stat_dex"
+				},
+				{
+					"weapon_ranged_armor_pierce": "template_ranged_armor_pierce"
+				},
+				{
+					"weapon_skill_modifier_range": "template_weapon_skill_modifier_range"
+				},
+				{
+					"weapon_durability": "template_weapon_durability"
+				},
+				{
+					"weapon_legendary_durability": "template_weapon_legendary_durability"
+				}
+			],
+			"size": {
+				"min_width": 330
+			}
+		},
+		"tooltip_ranged_artifact": {
+			"icons": [
+				{
+					"text": "%+d Ranged Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01_Gold.png"
+				},
+				{
+					"text": "Adds chance when fired: (%.f%%)\n+Apply random [Quiver] effect\n+Conserve equipped quiver ammo",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/legendary.png",
+					"conditional_attribute": "EFF_ARTIFACT_BOW"
+				}
+			],
+			"description": [ "Effects increase with Ranged skill.", "Medium distance ranged weapon.", "Hold [Attack] to continuously fire." ],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"weapon_ranged_rate_of_fire": "template_ranged_rate_of_fire"
+				},
+				{
+					"weapon_ranged_quiver_augment": "template_ranged_quiver_augment"
+				},
+				{
+					"artifact_bow": [ "* Unbreakable" ]
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"artifact_weapon_on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"weapon_atk_from_player_stat": "template_player_atk_stat_dex"
+				},
+				{
+					"weapon_ranged_armor_pierce": "template_ranged_armor_pierce"
+				},
+				{
+					"weapon_skill_modifier_range": "template_weapon_skill_modifier_range"
+				}
+			],
+			"size": {
+				"min_width": 330
+			}
+		},
+		"tooltip_ranged_short": {
+			"icons": [
+				{
+					"text": "%+d Ranged Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01.png"
+				}
+			],
+			"description": "template_ranged_description_short",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"weapon_ranged_rate_of_fire": "template_ranged_rate_of_fire"
+				},
+				{
+					"weapon_ranged_quiver_augment": "template_ranged_quiver_augment"
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"weapon_atk_from_player_stat": "template_player_atk_stat_dex"
+				},
+				{
+					"weapon_ranged_armor_pierce": "template_ranged_armor_pierce"
+				},
+				{
+					"weapon_skill_modifier_range": "template_weapon_skill_modifier_range"
+				},
+				{
+					"weapon_durability": "template_weapon_durability"
+				},
+				{
+					"weapon_legendary_durability": "template_weapon_legendary_durability"
+				}
+			],
+			"size": {
+				"min_width": 340
+			}
+		},
+		"tooltip_ranged_long": {
+			"icons": [
+				{
+					"text": "%+d Ranged Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01.png"
+				}
+			],
+			"description": "template_ranged_description_long",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"weapon_ranged_rate_of_fire": "template_ranged_rate_of_fire"
+				},
+				{
+					"weapon_ranged_quiver_augment": "template_ranged_quiver_augment"
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"weapon_atk_from_player_stat": "template_player_atk_stat_dex"
+				},
+				{
+					"weapon_ranged_armor_pierce": "template_ranged_armor_pierce"
+				},
+				{
+					"weapon_skill_modifier_range": "template_weapon_skill_modifier_range"
+				},
+				{
+					"weapon_durability": "template_weapon_durability"
+				},
+				{
+					"weapon_legendary_durability": "template_weapon_legendary_durability"
+				}
+			],
+			"size": {
+				"min_width": 330
+			}
+		},
+		"tooltip_amulet": {
+			"icons": [
+				{
+					"text": "%s",
+					"icon_path": "images/ui/HUD/statusfx/resist_poison.png",
+					"conditional_attribute": "EFF_POISONRESIST"
+				},
+				{
+					"text": "%s",
+					"icon_path": "images/ui/HUD/statusfx/waterbreathing.png",
+					"conditional_attribute": "EFF_WATERBREATHING"
+				},
+				{
+					"text": "%s",
+					"icon_path": "items/images/spells/reflect_magic.png",
+					"conditional_attribute": "EFF_MAGICREFLECT"
+				}
+			],
+			"description": "template_amulet_description_generic",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"when_equipped": "template_when_equipped_text_no_leading_newline"
+				},
+				{
+					"EFF_POISONRESIST": "template_equipment_effect_poisonresist"
+				},
+				{
+					"EFF_WATERBREATHING": "template_equipment_effect_waterbreathing"
+				},
+				{
+					"EFF_MAGICREFLECT": "template_equipment_effect_magicreflect"
+				}
+			],
+			"size": {
+				"max_width": 340,
+				"min_width": 320,
+				"max_header_width": 340
+			}
+		},
+		"tooltip_amulet_sexchange": {
+			"icons": [
+				{
+					"text": "%s",
+					"icon_path": "images/ui/Inventory/tooltips/tooltip_icons/sexchange.png",
+					"conditional_attribute": "EFF_SEXCHANGE"
+				}
+			],
+			"description": "template_amulet_description_single_use",
+			"size": {
+				"max_width": 320,
+				"min_width": 280,
+				"max_header_width": 320
+			}
+		},
+		"tooltip_amulet_strangulation": {
+			"icons": [
+				{
+					"text": "%s",
+					"icon_path": "images/ui/HUD/statusfx/strangulation.png",
+					"conditional_attribute": "EFF_STRANGULATION"
+				}
+			],
+			"description": "template_amulet_description_generic",
+			"size": {
+				"max_width": 320,
+				"min_width": 300,
+				"max_header_width": 320
+			}
+		},
+		"tooltip_amulet_lifesaving": {
+			"icons": [
+				{
+					"text": "Grants [Revival] on death\nrestoring [%+d HP]",
+					"icon_path": "images/ui/Inventory/tooltips/tooltip_icons/lifesaving.png",
+					"conditional_attribute": "EFF_LIFESAVING"
+				}
+			],
+			"description": "template_amulet_description_lifesaving",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"equipment_on_cursed_sideeffect": "template_amulet_curse_sideeffect"
+				},
+				{
+					"attributes_text": [ "On activation:" ]
+				},
+				{
+					"lifesaving_revival": [ "* Cures status effects", "* Applies +5s [Levitation]" ]
+				}
+			],
+			"size": {
+				"max_width": 320,
+				"min_width": 320,
+				"max_header_width": 320
+			}
+		},
+		"tooltip_thrown": {
+			"icons": [
+				{
+					"text": "%+d Thrown Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01.png"
+				}
+			],
+			"description": "template_thrown_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"piercing": [ "+50% Armor Pierce" ]
+				},
+				{
+					"unbreakable": [ "* Unbreakable" ]
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"thrown_atk_from_player_stat": "template_player_atk_stat_dex"
+				},
+				{
+					"fully_charged": [ "+3 ATK / +25%  Armor Pierce on fully charged throw" ]
+				},
+				{
+					"thrown_skill_modifier": "template_thrown_skill_modifier"
+				}
+			],
+			"size": {
+				"min_width": 304
+			}
+		},
+		"tooltip_boomerang": {
+			"icons": [
+				{
+					"text": "%+d Thrown Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01.png"
+				}
+			],
+			"description": "template_thrown_description",
+			"details": [
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"returns_to_thrower": [ "* Returns to the thrower" ]
+				},
+				{
+					"powerful_when_repaired": [ "* Unusually powerful when repaired" ]
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"thrown_atk_from_player_stat": "template_player_atk_stat_dex"
+				},
+				{
+					"fully_charged": [ "+3 ATK / +25% Armor Pierce on\n fully charged throw" ]
+				},
+				{
+					"thrown_skill_modifier": "template_thrown_skill_modifier"
+				}
+			],
+			"size": {
+				"min_width": 304
+			}
+		},
+		"tooltip_thrown_bouncy": {
+			"icons": [
+				{
+					"text": "%+d Thrown Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01.png"
+				}
+			],
+			"description": "template_thrown_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"piercing": [ "+50% Armor Pierce" ]
+				},
+				{
+					"unbreakable": [ "* Unbreakable" ]
+				},
+				{
+					"bouncy": [ "* Ricochets off walls" ]
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"thrown_atk_from_player_stat": "template_player_atk_stat_dex"
+				},
+				{
+					"fully_charged": [ "+3 ATK / +25% Armor Pierce on\n fully charged throw" ]
+				},
+				{
+					"thrown_skill_modifier": "template_thrown_skill_modifier"
+				}
+			],
+			"size": {
+				"min_width": 304
+			}
+		},
+		"tooltip_armor_shield": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png",
+					"color": {
+						"r": 188,
+						"g": 154,
+						"b": 114,
+						"a": 255
+					}
+				},
+				{
+					"text": "[Fragile]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/fragile.png",
+					"conditional_attribute": "EFF_SHIELD_BRITTLE"
+				},
+				{
+					"text": "[Fragile]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/fragile.png",
+					"conditional_attribute": "FRAGILE"
+				},
+				{
+					"text": "%s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_RES_00.png",
+					"conditional_attribute": "EFF_MAGICRESIST_SHIELD"
+				}
+			],
+			"description": "template_shield_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"EFF_MAGICRESIST_SHIELD": "template_armor_shield_resistance_bonus"
+				},
+				{
+					"equipment_stat_bonus": "template_armor_stat_bonus"
+				},
+				{
+					"equipment_fragile_durability": "template_armor_fragile_durability"
+				},
+				{
+					"blank_text_if_armor_has_stats": ""
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"armor_shield_bonus": "template_armor_shield_bonus"
+				},
+				{
+					"shield_durability": "template_shield_durability"
+				},
+				{
+					"shield_legendary_durability": "template_shield_legendary_durability"
+				}
+			],
+			"size": {
+				"min_width": 320,
+				"max_width": 320,
+				"max_header_width": 310
+			}
+		},
+		"tooltip_armor_mirror_shield": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png",
+					"color": {
+						"r": 188,
+						"g": 154,
+						"b": 114,
+						"a": 255
+					}
+				},
+				{
+					"text": "[Fragile]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/fragile.png",
+					"conditional_attribute": "FRAGILE"
+				},
+				{
+					"text": "[Fragile]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/fragile.png",
+					"conditional_attribute": "EFF_SHIELD_BRITTLE"
+				},
+				{
+					"text": "%s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_RES_00.png",
+					"conditional_attribute": "EFF_MAGICRESIST_SHIELD"
+				}
+			],
+			"description": "template_mirror_shield_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"EFF_SHIELD_BRITTLE": "template_shield_brittle"
+				},
+				{
+					"EFF_MAGICRESIST_SHIELD": "template_armor_shield_resistance_bonus"
+				},
+				{
+					"equipment_stat_bonus": "template_armor_stat_bonus"
+				},
+				{
+					"equipment_fragile_durability": "template_armor_fragile_durability"
+				},
+				{
+					"blank_text_if_armor_has_stats": ""
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"armor_shield_bonus": "template_armor_shield_bonus"
+				},
+				{
+					"shield_durability": "template_shield_durability"
+				},
+				{
+					"shield_legendary_durability": "template_shield_legendary_durability"
+				}
+			],
+			"size": {
+				"min_width": 320,
+				"max_width": 320,
+				"max_header_width": 310
+			}
+		},
+		"tooltip_offhand_torch": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png"
+				},
+				{
+					"text": "Provides [Light]",
+					"icon_path": "items/images/spells/light.png"
+				}
+			],
+			"description": "template_torch_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"EFF_LIGHT": [ "+7 light intensity", "* Degrades every 2.5 mins" ]
+				},
+				{
+					"blank_text_if_armor_has_stats": ""
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"armor_shield_bonus": "template_tool_shield_bonus"
+				},
+				{
+					"shield_durability": "template_shield_durability"
+				},
+				{
+					"shield_legendary_durability": "template_shield_legendary_durability"
+				}
+			],
+			"size": {
+				"min_width": 300
+			}
+		},
+		"tooltip_offhand_lantern": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png"
+				},
+				{
+					"text": "Provides [Light]",
+					"icon_path": "items/images/spells/light.png"
+				}
+			],
+			"description": "template_torch_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"EFF_LIGHT": [ "+10 light intensity", "* Degrades every 3.5 mins" ]
+				},
+				{
+					"blank_text_if_armor_has_stats": ""
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"armor_shield_bonus": "template_tool_shield_bonus"
+				},
+				{
+					"shield_durability": "template_shield_durability"
+				},
+				{
+					"shield_legendary_durability": "template_shield_legendary_durability"
+				}
+			],
+			"size": {
+				"min_width": 300
+			}
+		},
+		"tooltip_offhand_shard": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png"
+				},
+				{
+					"text": "Provides [Light]",
+					"icon_path": "items/images/spells/light.png"
+				},
+				{
+					"text": "[Fragile]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/fragile.png",
+					"conditional_attribute": "EFF_SHIELD_BRITTLE"
+				}
+			],
+			"description": "template_shard_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"EFF_LIGHT": [ "+5 light intensity" ]
+				},
+				{
+					"EFF_SHIELD_BRITTLE": "template_shield_brittle"
+				},
+				{
+					"blank_text_if_armor_has_stats": ""
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"armor_shield_bonus": "template_tool_shield_bonus"
+				},
+				{
+					"shield_durability": "template_shield_durability"
+				},
+				{
+					"shield_legendary_durability": "template_shield_legendary_durability"
+				}
+			],
+			"size": {
+				"min_width": 316
+			}
+		},
+		"tooltip_armor_helm": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png"
+				},
+				{
+					"text": "[Fragile]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/fragile.png",
+					"conditional_attribute": "FRAGILE"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_STR_00.png",
+					"conditional_attribute": "STR"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_DEX_00.png",
+					"conditional_attribute": "DEX"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_CON_00.png",
+					"conditional_attribute": "CON"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_INT_00.png",
+					"conditional_attribute": "INT"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_PER_00.png",
+					"conditional_attribute": "PER"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_CHA_00.png",
+					"conditional_attribute": "CHR"
+				}
+			],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"EFF_UNBREAKABLE": [ "* Unbreakable", "" ]
+				},
+				{
+					"equipment_stat_bonus": "template_armor_stat_bonus"
+				},
+				{
+					"equipment_fragile_durability": "template_armor_fragile_durability"
+				},
+				{
+					"blank_text_if_armor_has_stats": ""
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				},
+				{
+					"artifact_armor_on_degraded": "template_armor_on_degraded_ac"
+				}
+			],
+			"size": {
+				"min_width": 220,
+				"item_overrides": {
+					"crystal_helm": {
+						"min_width": 240
+					},
+					"artifact_helm": {
+						"min_width": 260
+					}
+				}
+			}
+		},
+		"tooltip_armor_cloak": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png"
+				},
+				{
+					"text": "%s",
+					"icon_path": "items/images/spells/invisible.png",
+					"conditional_attribute": "EFF_INVISIBLE"
+				},
+				{
+					"text": "%s",
+					"icon_path": "items/images/spells/reflect_magic.png",
+					"conditional_attribute": "EFF_MAGICREFLECT"
+				},
+				{
+					"text": "%s",
+					"icon_path": "items/images/spells/levitation.png",
+					"conditional_attribute": "EFF_LEVITATION"
+				},
+				{
+					"text": "%+d  %s",
+					"icon_path": "images/ui/HUD/statusfx/regen_mp.png",
+					"conditional_attribute": "EFF_MP_REGENERATION"
+				},
+				{
+					"text": "%+d%% [Damage Resistance]",
+					"icon_path": "images/ui/HUD/statusfx/protection.png",
+					"conditional_attribute": "EFF_CLOAK_GUARDIAN1"
+				},
+				{
+					"text": "%+d%% [Trap Resistance]",
+					"icon_path": "images/ui/HUD/statusfx/protection.png",
+					"conditional_attribute": "EFF_CLOAK_GUARDIAN2"
+				}
+			],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"EFF_UNBREAKABLE": [ "* Flame resistant", "* Unbreakable" ]
+				},
+				{
+					"EFF_MAGICREFLECT": "template_equipment_effect_magicreflect"
+				},
+				{
+					"equipment_stat_bonus": "template_armor_stat_bonus"
+				},
+				{
+					"equipment_fragile_durability": "template_armor_fragile_durability"
+				},
+				{
+					"blank_text_if_armor_has_stats": ""
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				}
+			],
+			"size": {
+				"min_width": 220,
+				"max_header_width": 300,
+				"item_overrides": {
+					"cloak_magicreflection": {
+						"min_width": 260
+					},
+					"cloak_guardian": {
+						"min_width": 310
+					}
+				}
+			}
+		},
+		"tooltip_armor_cloak_backpack": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png"
+				}
+			],
+			"description": "template_armor_cloak_backpack_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"equipment_stat_bonus": "template_armor_stat_bonus"
+				},
+				{
+					"equipment_fragile_durability": "template_armor_fragile_durability"
+				},
+				{
+					"blank_text_if_armor_has_stats": ""
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				}
+			],
+			"size": {
+				"min_width": 250,
+				"max_header_width": 280
+			}
+		},
+		"tooltip_armor_hat_fez": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png"
+				}
+			],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"equipment_stat_bonus": "template_armor_stat_bonus"
+				},
+				{
+					"blank_text_if_armor_has_stats": ""
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				}
+			],
+			"size": {
+				"min_width": 220
+			}
+		},
+		"tooltip_armor_hat": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_STR_00.png",
+					"conditional_attribute": "STR"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_DEX_00.png",
+					"conditional_attribute": "DEX"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_CON_00.png",
+					"conditional_attribute": "CON"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_INT_00.png",
+					"conditional_attribute": "INT"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_PER_00.png",
+					"conditional_attribute": "PER"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_CHA_00.png",
+					"conditional_attribute": "CHR"
+				},
+				{
+					"text": "%s",
+					"icon_path": "images/ui/HUD/statusfx/regen_mp.png",
+					"conditional_attribute": "EFF_BLEED_ENERGIZE"
+				}
+			],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"equipment_stat_bonus": "template_armor_stat_bonus"
+				},
+				{
+					"EFF_BLEED_ENERGIZE": [ "+5s [MP Regen] on inflicting [Bleed]" ]
+				},
+				{
+					"equipment_fragile_durability": "template_armor_fragile_durability"
+				},
+				{
+					"blank_text_if_armor_has_stats": ""
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				}
+			],
+			"size": {
+				"min_width": 220,
+				"item_overrides": {
+					"punisher_hood": {
+						"min_width": 300
+					}
+				}
+			}
+		},
+		"tooltip_armor_monocle": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_PER_00.png",
+					"conditional_attribute": "PER"
+				},
+				{
+					"text": "%d%% gem appraisal speed",
+					"icon_path": "images/ui/SkillSheet/Icons/Appraisal01.png",
+					"conditional_attribute": "EFF_MONOCLE_APPRAISE"
+				}
+			],
+			"description": "template_armor_monocle_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"armor_on_cursed_sideeffect": "template_monocle_curse_sideeffect"
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"monocle_hostility_effect": [ "* No ally effect if actively", "[Wanted!] in your current form" ]
+				},
+				{
+					"equipment_stat_bonus": "template_armor_stat_bonus"
+				}
+			],
+			"size": {
+				"min_width": 220,
+				"max_header_width": 220,
+				"item_overrides": {
+					"mask_shaman": {
+						"min_width": 270,
+						"max_header_width": 270
+					},
+					"monocle": {
+						"min_width": 270,
+						"max_header_width": 270
+					},
+					"tool_glasses": {
+						"min_width": 220,
+						"max_header_width": 300
+					}
+				}
+			}
+		},
+		"tooltip_armor_mask": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_STR_00.png",
+					"conditional_attribute": "STR"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_DEX_00.png",
+					"conditional_attribute": "DEX"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_CON_00.png",
+					"conditional_attribute": "CON"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_INT_00.png",
+					"conditional_attribute": "INT"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_PER_00.png",
+					"conditional_attribute": "PER"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_CHA_00.png",
+					"conditional_attribute": "CHR"
+				},
+				{
+					"text": "Grants +1  [MP Regen]\nwhile [Shapeshifted]",
+					"icon_path": "images/ui/HUD/statusfx/regen_mp.png",
+					"conditional_attribute": "EFF_MP_SHAMAN_MASK"
+				}
+			],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"armor_on_cursed_sideeffect": "template_shamanmask_curse_sideeffect"
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"equipment_stat_bonus": "template_armor_stat_bonus"
+				},
+				{
+					"equipment_fragile_durability": "template_armor_fragile_durability"
+				}
+			],
+			"size": {
+				"min_width": 220,
+				"max_header_width": 220,
+				"item_overrides": {
+					"mask_shaman": {
+						"min_width": 270,
+						"max_header_width": 270
+					},
+					"tool_glasses": {
+						"min_width": 220,
+						"max_header_width": 300
+					}
+				}
+			}
+		},
+		"tooltip_armor_boots": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png"
+				},
+				{
+					"text": "[Fragile]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/fragile.png",
+					"conditional_attribute": "FRAGILE"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_STR_00.png",
+					"conditional_attribute": "STR"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_DEX_00.png",
+					"conditional_attribute": "DEX"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_CON_00.png",
+					"conditional_attribute": "CON"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_INT_00.png",
+					"conditional_attribute": "INT"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_PER_00.png",
+					"conditional_attribute": "PER"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_CHA_00.png",
+					"conditional_attribute": "CHR"
+				},
+				{
+					"text": "%s",
+					"icon_path": "images/ui/Inventory/tooltips/tooltip_icons/feather.png",
+					"conditional_attribute": "EFF_FEATHER"
+				},
+				{
+					"text": "%s",
+					"icon_path": "items/images/spells/levitation.png",
+					"conditional_attribute": "EFF_LEVITATION"
+				},
+				{
+					"text": "%s",
+					"icon_path": "images/ui/HUD/statusfx/waterwalking.png",
+					"conditional_attribute": "EFF_WATERWALKING"
+				},
+				{
+					"text": "%s",
+					"icon_path": "images/ui/HUD/statusfx/lesserwarning.png",
+					"conditional_attribute": "EFF_FOOTSTEP_WARNING"
+				}
+			],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"EFF_FOOTSTEP_WARNING": "template_equipment_effect_footstep_warning"
+				},
+				{
+					"EFF_UNBREAKABLE": [ "* Unbreakable" ]
+				},
+				{
+					"equipment_stat_bonus": "template_armor_stat_bonus"
+				},
+				{
+					"equipment_fragile_durability": "template_armor_fragile_durability"
+				},
+				{
+					"EFF_FEATHER": "template_equipment_effect_feather"
+				},
+				{
+					"EFF_WATERWALKING": "template_equipment_effect_waterwalking"
+				},
+				{
+					"blank_text_if_armor_has_stats": ""
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				},
+				{
+					"artifact_armor_on_degraded": "template_armor_on_degraded_ac"
+				}
+			],
+			"size": {
+				"max_width": 260,
+				"min_width": 240,
+				"max_header_width": 260,
+				"item_overrides": {
+					"artifact_boots": {
+						"min_width": 300,
+						"max_width": 320,
+						"max_header_width": 320
+					}
+				}
+			}
+		},
+		"tooltip_armor_breastpiece": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png"
+				},
+				{
+					"text": "[Fragile]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/fragile.png",
+					"conditional_attribute": "FRAGILE"
+				},
+				{
+					"text": "%+d  %s",
+					"icon_path": "images/ui/HUD/statusfx/regen_mp.png",
+					"conditional_attribute": "EFF_MP_REGENERATION"
+				},
+				{
+					"text": "%s",
+					"icon_path": "images/ui/HUD/statusfx/regen_hpoff.png",
+					"conditional_attribute": "EFF_DISABLE_REGENERATION"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_STR_00.png",
+					"conditional_attribute": "STR"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_DEX_00.png",
+					"conditional_attribute": "DEX"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_CON_00.png",
+					"conditional_attribute": "CON"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_INT_00.png",
+					"conditional_attribute": "INT"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_PER_00.png",
+					"conditional_attribute": "PER"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_CHA_00.png",
+					"conditional_attribute": "CHR"
+				},
+				{
+					"text": "%+d  %s",
+					"icon_path": "images/ui/HUD/statusfx/regen_hp.png",
+					"conditional_attribute": "EFF_REGENERATION"
+				},
+				{
+					"text": "%s",
+					"icon_path": "images/ui/HUD/statusfx/resist_fire.png",
+					"conditional_attribute": "EFF_FIRERESIST"
+				}
+			],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"armor_on_cursed_sideeffect": "template_doublet_curse_sideeffect"
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"EFF_UNBREAKABLE": [ "* Unbreakable" ]
+				},
+				{
+					"equipment_stat_bonus": "template_armor_stat_bonus"
+				},
+				{
+					"equipment_fragile_durability": "template_armor_fragile_durability"
+				},
+				{
+					"blank_text_if_armor_has_stats": ""
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				},
+				{
+					"artifact_armor_on_degraded": "template_armor_on_degraded_ac"
+				}
+			],
+			"size": {
+				"max_width": 320,
+				"min_width": 240,
+				"max_header_width": 320,
+				"item_overrides": {
+					"artifact_breastpiece": {
+						"min_width": 260,
+						"max_width": 320,
+						"max_header_width": 320
+					},
+					"machinist_apron": {
+						"min_width": 260,
+						"max_width": 320,
+						"max_header_width": 320
+					}
+				}
+			}
+		},
+		"tooltip_armor_gloves": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png"
+				},
+				{
+					"text": "[Fragile]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/fragile.png",
+					"conditional_attribute": "FRAGILE"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_STR_00.png",
+					"conditional_attribute": "STR"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_DEX_00.png",
+					"conditional_attribute": "DEX"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_CON_00.png",
+					"conditional_attribute": "CON"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_INT_00.png",
+					"conditional_attribute": "INT"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_PER_00.png",
+					"conditional_attribute": "PER"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_CHA_00.png",
+					"conditional_attribute": "CHR"
+				},
+				{
+					"text": "%s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_RES_00.png",
+					"conditional_attribute": "EFF_MAGICRESIST"
+				},
+				{
+					"text": "Grants [Push]",
+					"icon_path": "#*images/ui/HUD/statusfx/push.png",
+					"conditional_attribute": "PUSH"
+				}
+			],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"EFF_UNBREAKABLE": [ "* Unbreakable" ]
+				},
+				{
+					"equipment_stat_bonus": "template_armor_stat_bonus"
+				},
+				{
+					"equipment_fragile_durability": "template_armor_fragile_durability"
+				},
+				{
+					"blank_text_if_armor_has_stats": ""
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				},
+				{
+					"artifact_armor_on_degraded": "template_armor_on_degraded_ac"
+				}
+			],
+			"size": {
+				"max_width": 280,
+				"min_width": 260,
+				"max_header_width": 280,
+				"item_overrides": {
+					"artifact_gloves": {
+						"min_width": 260,
+						"max_width": 320,
+						"max_header_width": 320
+					}
+				}
+			}
+		},
+		"tooltip_armor_knuckles": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png"
+				},
+				{
+					"text": "%+d Unarmed ATK",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Unarmed01.png"
+				}
+			],
+			"description": "template_knuckles_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_knuckles_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_knuckles_beatitude_ac"
+				},
+				{
+					"when_equipped": [ "\nWhen equipped: (Empty Main-hand slot)" ]
+				},
+				{
+					"weapon_atk_from_player_stat": "template_player_unarmed_atk_stat_str"
+				},
+				{
+					"knuckle_skill_modifier": "template_knuckle_skill_modifier"
+				},
+				{
+					"weapon_durability": "template_weapon_durability"
+				},
+				{
+					"weapon_legendary_durability": "template_weapon_legendary_durability"
+				},
+				{
+					"knuckle_knockback_modifier": "template_knuckle_knockback_modifier"
+				}
+			],
+			"size": {
+				"min_width": 328
+			}
+		},
+		"tooltip_mace": {
+			"icons": [
+				{
+					"text": "%+d Mace Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Maces01.png"
+				},
+				{
+					"text": "[Fragile]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/fragile.png",
+					"conditional_attribute": "FRAGILE"
+				}
+			],
+			"description": "template_weapon_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"weapon_base_effects": "template_weapon_mace_effects"
+				},
+				{
+					"weapon_bonus_exp": "template_weapon_bonus_exp"
+				},
+				{
+					"equipment_fragile_durability": "template_equipment_fragile_durability"
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"artifact_weapon_on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"weapon_atk_from_player_stat": "template_player_atk_stat_str"
+				},
+				{
+					"weapon_skill_modifier_range": "template_weapon_skill_modifier_range"
+				},
+				{
+					"weapon_durability": "template_weapon_durability"
+				},
+				{
+					"weapon_legendary_durability": "template_weapon_legendary_durability"
+				}
+			],
+			"size": {
+				"min_width": 296
+			}
+		},
+		"tooltip_mace_artifact": {
+			"icons": [
+				{
+					"text": "%+d Mace Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Maces01_Gold.png"
+				},
+				{
+					"text": "While equipped:\n+Amplifies base [MP Regen]\n+Talks a lot",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/legendary.png",
+					"conditional_attribute": "EFF_ARTIFACT_MACE"
+				}
+			],
+			"description": [ "Effects increase with Mace skill.", "Hold [Attack] to perform a critical strike." ],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"weapon_base_effects": "template_weapon_mace_effects"
+				},
+				{
+					"artifact_mace": [ "* Unbreakable" ]
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"artifact_weapon_on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"weapon_atk_from_player_stat": "template_player_atk_stat_str"
+				},
+				{
+					"weapon_skill_modifier_range": "template_weapon_skill_modifier_range"
+				}
+			],
+			"size": {
+				"min_width": 310
+			}
+		},
+		"tooltip_sword": {
+			"icons": [
+				{
+					"text": "%+d Sword Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Swords01.png"
+				},
+				{
+					"text": "[Fragile]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/fragile.png",
+					"conditional_attribute": "FRAGILE"
+				}
+			],
+			"description": "template_weapon_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"weapon_base_effects": "template_weapon_sword_effects"
+				},
+				{
+					"weapon_bonus_exp": "template_weapon_bonus_exp"
+				},
+				{
+					"equipment_fragile_durability": "template_equipment_fragile_durability"
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"artifact_weapon_on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"weapon_atk_from_player_stat": "template_player_atk_stat_str"
+				},
+				{
+					"weapon_skill_modifier_range": "template_weapon_skill_modifier_range"
+				},
+				{
+					"weapon_durability": "template_weapon_durability"
+				},
+				{
+					"weapon_legendary_durability": "template_weapon_legendary_durability"
+				}
+			],
+			"size": {
+				"min_width": 304
+			}
+		},
+		"tooltip_sword_artifact": {
+			"icons": [
+				{
+					"text": "%+d Sword Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Swords01_Gold.png"
+				},
+				{
+					"text": "Adds chance on hit: (%.f%%)\n+Inflict [Burning]\n+%.f%% [Smite] damage",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/legendary.png",
+					"conditional_attribute": "EFF_ARTIFACT_SWORD"
+				}
+			],
+			"description": [ "Effects increase with Sword skill.", "Hold [Attack] to perform a critical strike." ],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"weapon_base_effects": "template_weapon_sword_effects"
+				},
+				{
+					"artifact_sword": [ "* Deals bonus damage to undead and demons on inflicting [Smite] damage", "* Unbreakable" ]
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"artifact_weapon_on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"weapon_atk_from_player_stat": "template_player_atk_stat_str"
+				},
+				{
+					"weapon_skill_modifier_range": "template_weapon_skill_modifier_range"
+				}
+			],
+			"size": {
+				"min_width": 320
+			}
+		},
+		"tooltip_axe": {
+			"icons": [
+				{
+					"text": "%+d Axe Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Axes01.png"
+				},
+				{
+					"text": "[Fragile]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/fragile.png",
+					"conditional_attribute": "FRAGILE"
+				}
+			],
+			"description": "template_weapon_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"weapon_base_effects": "template_weapon_axe_effects"
+				},
+				{
+					"weapon_bonus_exp": "template_weapon_bonus_exp"
+				},
+				{
+					"equipment_fragile_durability": "template_equipment_fragile_durability"
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"artifact_weapon_on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"weapon_atk_from_player_stat": "template_player_atk_stat_str"
+				},
+				{
+					"weapon_skill_modifier_range": "template_weapon_skill_modifier_range"
+				},
+				{
+					"weapon_durability": "template_weapon_durability"
+				},
+				{
+					"weapon_legendary_durability": "template_weapon_legendary_durability"
+				}
+			],
+			"size": {
+				"min_width": 296
+			}
+		},
+		"tooltip_axe_artifact": {
+			"icons": [
+				{
+					"text": "%+d Axe Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Axes01_Gold.png"
+				},
+				{
+					"text": "Adds chance on hit: (%.f%%)\n+%.f%% bonus damage\n+Inflicts [Slow]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/legendary.png",
+					"conditional_attribute": "EFF_ARTIFACT_AXE"
+				}
+			],
+			"description": [ "Effects increase with Axe skill.", "Hold [Attack] to perform a critical strike." ],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"weapon_base_effects": "template_weapon_axe_effects"
+				},
+				{
+					"artifact_axe": [ "* Unbreakable" ]
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"artifact_weapon_on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"weapon_atk_from_player_stat": "template_player_atk_stat_str"
+				},
+				{
+					"weapon_skill_modifier_range": "template_weapon_skill_modifier_range"
+				}
+			],
+			"size": {
+				"min_width": 296
+			}
+		},
+		"tooltip_whip": {
+			"icons": [
+				{
+					"text": "%+d Ranged Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01.png"
+				},
+				{
+					"text": "%s",
+					"icon_path": "items/images/spells/identify.png",
+					"conditional_attribute": "EFF_DISARMING"
+				}
+			],
+			"description": "template_whip_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"weapon_base_effects": [ "+50% attack range", "+20% [Bleed] chance on flanking strikes", "+100% [Bleed] chance on disarming strikes", "* Unbreakable" ]
+				},
+				{
+					"whip_disarm": [ "", "Disarm chances:", "+33% chance on [Drunk] or [Confused] foes", "+100% chance on [Immobile] or [Disoriented] foes" ]
+				},
+				{
+					"weapon_bonus_exp": "template_weapon_bonus_exp"
+				},
+				{
+					"equipment_fragile_durability": "template_equipment_fragile_durability"
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"artifact_weapon_on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"weapon_atk_from_player_stat": "template_player_atk_stat_whip"
+				},
+				{
+					"weapon_skill_modifier_range": "template_weapon_skill_modifier_range"
+				}
+			],
+			"size": {
+				"min_width": 360
+			}
+		},
+		"tooltip_polearm": {
+			"icons": [
+				{
+					"text": "%+d Polearm Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Polearms01.png"
+				},
+				{
+					"text": "[Fragile]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/fragile.png",
+					"conditional_attribute": "FRAGILE"
+				}
+			],
+			"description": "template_weapon_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"weapon_base_effects": "template_weapon_polearm_effects"
+				},
+				{
+					"weapon_bonus_exp": "template_weapon_bonus_exp"
+				},
+				{
+					"equipment_fragile_durability": "template_equipment_fragile_durability"
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"artifact_weapon_on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"weapon_atk_from_player_stat": "template_player_atk_stat_str"
+				},
+				{
+					"weapon_skill_modifier_range": "template_weapon_skill_modifier_range"
+				},
+				{
+					"weapon_durability": "template_weapon_durability"
+				},
+				{
+					"weapon_legendary_durability": "template_weapon_legendary_durability"
+				}
+			],
+			"size": {
+				"min_width": 316
+			}
+		},
+		"tooltip_polearm_artifact": {
+			"icons": [
+				{
+					"text": "%+d Polearm Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Polearms01_Gold.png"
+				},
+				{
+					"text": "Adds chance on hit: (%.f%%)\n+%.f%% [Armor Pierce]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/legendary.png",
+					"conditional_attribute": "EFF_ARTIFACT_SPEAR"
+				}
+			],
+			"description": [ "Effects increase with Polearm skill.", "Hold [Attack] to perform a critical strike." ],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"attributes_text": "template_attributes_text"
+				},
+				{
+					"weapon_base_effects": "template_weapon_legendary_polearm_effects"
+				},
+				{
+					"artifact_spear": [ "* [Armor Pierce] bypasses 50% target AC", "* Unbreakable" ]
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"weapon_damage_text": "template_weapon_damage_text"
+				},
+				{
+					"weapon_base_atk": "template_weapon_base_atk"
+				},
+				{
+					"on_bless_or_curse": "template_weapon_beatitude_atk"
+				},
+				{
+					"on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"artifact_weapon_on_degraded": "template_weapon_on_degraded_atk"
+				},
+				{
+					"when_equipped": "template_when_equipped_text"
+				},
+				{
+					"weapon_atk_from_player_stat": "template_player_atk_stat_str"
+				},
+				{
+					"weapon_skill_modifier_range": "template_weapon_skill_modifier_range"
+				}
+			],
+			"size": {
+				"min_width": 330
+			}
+		},
+		"tooltip_food_small": {
+			"description": [ "Restores a small amount of hunger." ],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"food_on_cursed_sideeffect": "template_food_curse_sideeffect"
+				},
+				{
+					"food_quality": "template_food_on_eating"
+				},
+				{
+					"food_puke_chance": "template_food_puke_chance"
+				}
+			],
+			"size": {
+				"min_width": 300
+			}
+		},
+		"tooltip_food_large": {
+			"description": [ "Restores a large amount of hunger." ],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"food_on_cursed_sideeffect": "template_food_curse_sideeffect"
+				},
+				{
+					"food_quality": "template_food_on_eating"
+				},
+				{
+					"food_puke_chance": "template_food_puke_chance"
+				}
+			],
+			"size": {
+				"min_width": 300
+			}
+		},
+		"tooltip_food_med": {
+			"description": [ "Restores a medium amount of hunger." ],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"food_on_cursed_sideeffect": "template_food_curse_sideeffect"
+				},
+				{
+					"food_quality": "template_food_on_eating"
+				},
+				{
+					"food_puke_chance": "template_food_puke_chance"
+				}
+			],
+			"size": {
+				"min_width": 310
+			}
+		},
+		"tooltip_food_creampie": {
+			"icons": [
+				{
+					"text": "[Throwable]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/ammo.png"
+				}
+			],
+			"description": [ "Restores a medium amount of hunger when eaten." ],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"food_on_cursed_sideeffect": "template_food_curse_sideeffect"
+				},
+				{
+					"food_quality": "template_food_on_eating"
+				},
+				{
+					"food_puke_chance": "template_food_puke_chance"
+				}
+			],
+			"size": {
+				"min_width": 280
+			}
+		},
+		"tooltip_food_tin": {
+			"icons": [
+				{
+					"text": "Smells like...%s",
+					"icon_path": "items/images/spells/sensefood.png"
+				}
+			],
+			"description": "template_food_tin_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"food_on_cursed_sideeffect": "template_food_curse_sideeffect"
+				},
+				{
+					"attributes_text": [ "Attributes:" ]
+				},
+				{
+					"food_tin_regen": [ "* May grant [HP/MP Regen]" ]
+				},
+				{
+					"food_tin_greasy": [ "* May cause [Greasy] hands" ]
+				},
+				{
+					"blank_space": [ "" ]
+				},
+				{
+					"food_quality": "template_food_on_eating"
+				},
+				{
+					"food_puke_chance": "template_food_puke_chance"
+				}
+			],
+			"size": {
+				"min_width": 300,
+				"max_width": 300,
+				"max_header_width": 260
+			}
+		},
+		"tooltip_food_blood": {
+			"description": [ "\"The blood is life...\nand it shall be mine!\"", "-Dracula" ]
+		},
+		"tooltip_potion_empty": {
+			"description": "template_potion_empty_description",
+			"size": {
+				"min_width": 290
+			}
+		},
+		"tooltip_potion_water": {
+			"icons": [
+				{
+					"text": "%+d [HP Restore]",
+					"icon_path": "items/images/spells/healing.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_blessed": [ "* %+d Potion Damage to Undead\n from %s" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 290
+			}
+		},
+		"tooltip_potion_booze": {
+			"icons": [
+				{
+					"text": "%+d [HP Restore]",
+					"icon_path": "items/images/spells/healing.png"
+				},
+				{
+					"text": "Inflicts [Drunk]\nDuration: [%d-%ds]",
+					"icon_path": "#*images/ui/HUD/statusfx/drunk.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"potion_additional_effects": [ "* Restores a small amount of hunger", "* Cures hangovers" ]
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 310
+			}
+		},
+		"tooltip_potion_juice": {
+			"icons": [
+				{
+					"text": "%+d [HP Restore]",
+					"icon_path": "items/images/spells/healing.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"potion_additional_effects": [ "* Restores a small amount of hunger" ]
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 268
+			}
+		},
+		"tooltip_potion_sickness": {
+			"icons": [
+				{
+					"text": "%+d Potion Damage",
+					"icon_path": "images/ui/SkillSheet/Icons/Alchemy01.png"
+				},
+				{
+					"text": "Inflicts [Poison]",
+					"icon_path": "images/ui/HUD/statusfx/poisoned.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 284
+			}
+		},
+		"tooltip_potion_confusion": {
+			"icons": [
+				{
+					"text": "Inflicts [Confusion]\nDuration: [%ds]",
+					"icon_path": "items/images/spells/confuse.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 284
+			}
+		},
+		"tooltip_potion_extrahealing": {
+			"icons": [
+				{
+					"text": "+%d [HP Restore]",
+					"icon_path": "items/images/spells/extrahealing.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"potion_extrahealing_bonus": [ "* %+d HP Restore from CON" ]
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 310
+			}
+		},
+		"tooltip_potion_healing": {
+			"icons": [
+				{
+					"text": "+%d [HP Restore]",
+					"icon_path": "items/images/spells/healing.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"potion_healing_bonus": [ "* %+d HP Restore from CON" ]
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 300
+			}
+		},
+		"tooltip_potion_cureailment": {
+			"icons": [
+				{
+					"text": "[Cures] status effects",
+					"icon_path": "items/images/spells/cureailment.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_blessed": [ "* %+ds [HP/MP Regen] from %s" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 308
+			}
+		},
+		"tooltip_potion_blindness": {
+			"icons": [
+				{
+					"text": "Inflicts [Blindness]\nDuration: [%d-%ds]",
+					"icon_path": "images/ui/HUD/statusfx/blind.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 284
+			}
+		},
+		"tooltip_potion_restoremagic": {
+			"icons": [
+				{
+					"text": "+%d [MP Restore]",
+					"icon_path": "images/ui/HUD/statusfx/regen_mp.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"potion_restoremagic_bonus": [ "* %+d MP Restoration from INT" ]
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 310
+			}
+		},
+		"tooltip_potion_invisibility": {
+			"icons": [
+				{
+					"text": "Applies [Invisibility]\nDuration: [%d-%ds]",
+					"icon_path": "items/images/spells/invisible.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 300
+			}
+		},
+		"tooltip_potion_levitation": {
+			"icons": [
+				{
+					"text": "Applies [Levitation]\nDuration: [%d-%ds]",
+					"icon_path": "items/images/spells/levitation.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 300
+			}
+		},
+		"tooltip_potion_speed": {
+			"icons": [
+				{
+					"text": "Applies [Speed]\nDuration: [%ds]",
+					"icon_path": "items/images/spells/speed.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 268
+			}
+		},
+		"tooltip_potion_acid": {
+			"icons": [
+				{
+					"text": "%+d Potion Damage",
+					"icon_path": "images/ui/SkillSheet/Icons/Alchemy01.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 284
+			}
+		},
+		"tooltip_potion_paralysis": {
+			"icons": [
+				{
+					"text": "Inflicts [Paralysis]\nDuration: [%d-%ds]",
+					"icon_path": "images/ui/HUD/statusfx/paralyze.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 284
+			}
+		},
+		"tooltip_potion_polymorph": {
+			"icons": [
+				{
+					"text": "Applies [Polymorph]",
+					"icon_path": "items/images/spells/polymorph.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"potion_polymorph_duration": [ "* Permanently affects monsters\n\nPlayer [Polymorph] effects:\n* Duration: [%d-%d mins]\n* [Polymorph] effect dissipates on touching or consuming water" ]
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 284
+			}
+		},
+		"tooltip_potion_firestorm": {
+			"icons": [
+				{
+					"text": "%+d Potion Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Alchemy01.png"
+				},
+				{
+					"text": "Explodes into 3x [Fireball] spells",
+					"icon_path": "items/images/spells/fireball.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 284
+			}
+		},
+		"tooltip_potion_icestorm": {
+			"icons": [
+				{
+					"text": "%+d Potion Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Alchemy01.png"
+				},
+				{
+					"text": "Explodes into 3x [Cold] spells",
+					"icon_path": "items/images/spells/cold.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 284
+			}
+		},
+		"tooltip_potion_thunderstorm": {
+			"icons": [
+				{
+					"text": "%+d Potion Damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Alchemy01.png"
+				},
+				{
+					"text": "Explodes into 3x [Lightning] spells",
+					"icon_path": "items/images/spells/lightning.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 292
+			}
+		},
+		"tooltip_potion_strength": {
+			"icons": [
+				{
+					"text": "Applies [Strength] [Push]\nDuration: [%ds]",
+					"icon_path": "images/ui/HUD/statusfx/strengthbuff.png"
+				}
+			],
+			"description": "template_potion_description",
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"potion_on_cursed": "template_potion_curse_sideeffect"
+				},
+				{
+					"alchemy_details": "template_alchemy_type"
+				},
+				{
+					"potion_damage": "template_potion_base_damage"
+				},
+				{
+					"on_bless_or_curse": "template_potion_beatitude"
+				},
+				{
+					"potion_multiplier": "template_potion_alchemy_damage"
+				}
+			],
+			"size": {
+				"min_width": 334
+			}
+		},
+		"tooltip_loot_bag": {
+			"icons": [
+				{
+					"text": "[Heavy]",
+					"icon_path": "images/ui/HUD/HUD_CharSheet_WGT_00.png"
+				}
+			],
+			"description": [ "Contains loot from a fallen party member." ],
+			"size": {
+				"min_width": 260
+			}
+		},
+		"tooltip_default": {
+			"description": [ "This is a default tooltip", "This item does not have a tooltip yet!" ]
+		},
+		"tooltip_unidentified": {
+			"icons": [
+				{
+					"text": "[Unknown effect]",
+					"icon_path": "items/images/spells/identify.png"
+				}
+			],
+			"description": [ "Identify this item to learn more." ],
+			"size": {
+				"min_width": 260
+			}
+		},
+		"tooltip_mask_bandit": {
+			"icons": [
+				{
+					"text": "Hides your [Identity]",
+					"icon_path": "items/images/spells/polymorph.png",
+					"conditional_attribute": "EFF_DISGUISE"
+				}
+			],
+			"description": "template_mask_bandit_description",
+			"details": [
+			],
+			"size": {
+				"min_width": 270,
+				"max_header_width": 270
+			}
+		},
+		"tooltip_armor_mask_pipe": {
+			"icons": [
+				{
+					"text": "%+d%% chance: [-1 HP] [+1 MP]\nwhile [Regenerating]",
+					"icon_path": "images/ui/HUD/statusfx/stimulant.png",
+					"conditional_attribute": "EFF_PIPE"
+				}
+			],
+			"description": [ "Hazardous to insects." ],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"armor_on_cursed_sideeffect": "template_hatnewline_curse_sideeffect"
+				}
+			],
+			"size": {
+				"min_width": 320,
+				"max_header_width": 320
+			}
+		},
+		"tooltip_armor_helm_mining": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png",
+					"conditional_attribute": "AC"
+				},
+				{
+					"text": "%+d%% [Boulder Resistance]",
+					"icon_path": "images/ui/HUD/statusfx/resist_boulders.png",
+					"conditional_attribute": "EFF_BOULDER_RES"
+				}
+			],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"armor_on_cursed_sideeffect": "template_hatnewline_curse_sideeffect"
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				}
+			],
+			"size": {
+				"min_width": 260,
+				"max_header_width": 260
+			}
+		},
+		"tooltip_armor_mask_plague": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png",
+					"conditional_attribute": "AC"
+				},
+				{
+					"text": "Grants [Nausea Resistance]",
+					"icon_path": "images/ui/HUD/statusfx/resist_nausea.png",
+					"conditional_attribute": "EFF_PLAGUE"
+				}
+			],
+			"description": ["Takes time to acclimate once removed."],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"armor_on_cursed_sideeffect": "template_hatnewline_curse_sideeffect"
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				}
+			],
+			"size": {
+				"min_width": 320,
+				"max_header_width": 320
+			}
+		},
+		"tooltip_armor_hat2": {
+			"icons": [
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_AC_00.png",
+					"conditional_attribute": "AC"
+				},
+				{
+					"text": "[Fragile]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/fragile.png",
+					"conditional_attribute": "FRAGILE"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_STR_00.png",
+					"conditional_attribute": "STR"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_DEX_00.png",
+					"conditional_attribute": "DEX"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_CON_00.png",
+					"conditional_attribute": "CON"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_INT_00.png",
+					"conditional_attribute": "INT"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_PER_00.png",
+					"conditional_attribute": "PER"
+				},
+				{
+					"text": "%+d %s",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_CHA_00.png",
+					"conditional_attribute": "CHR"
+				},
+				{
+					"text": "%+d%% %s",
+					"icon_path": "images/ui/HUD/statusfx/resist_cold.png",
+					"conditional_attribute": "EFF_COLDRESIST"
+				},
+				{
+					"text": "%+d%% %s",
+					"icon_path": "images/ui/CharSheet/HUD_CharSheet_SPWR_00.png",
+					"conditional_attribute": "EFF_PWR"
+				},
+				{
+					"text": "%+d [%s] skill bonus",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Casting01.png",
+					"conditional_attribute": "EFF_SKILL_6"
+				},
+				{
+					"text": "Grants [Level Up: +INT]",
+					"icon_path": "#*images/ui/HUD/HUD_CharSheet_INT_00.png",
+					"conditional_attribute": "EFF_GROWTH_INT"
+				},
+				{
+					"text": "%+d%% %s",
+					"icon_path": "items/images/spells/magicmissile.png",
+					"conditional_attribute": "EFF_PWR_DMG"
+				},
+				{
+					"text": "%+d%% %s",
+					"icon_path": "items/images/spells/healing.png",
+					"conditional_attribute": "EFF_PWR_HEAL"
+				},
+				{
+					"text": "%+d%% Tinkering [Deploy Speed]",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Tinkering01.png",
+					"conditional_attribute": "EFF_TECH_GOGGLES1"
+				},
+				{
+					"text": "Grants [Immunity] to friendly\nsentry fire\n",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Tinkering01.png",
+					"conditional_attribute": "EFF_TECH_GOGGLES2"
+				},
+				{
+					"text": "Grants [Neutrality] to\nghouls and shadows\n",
+					"icon_path": "items/images/spells/polymorph.png",
+					"conditional_attribute": "EFF_MASK_SPOOKY"
+				},
+				{
+					"text": "Grants [Neutrality] to\nincubi and succubi\n",
+					"icon_path": "items/images/spells/polymorph.png",
+					"conditional_attribute": "EFF_MASK_MOUTHROSE"
+				},
+				{
+					"text": "%+d [Sneak Vision]",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Stealth01.png",
+					"conditional_attribute": "EFF_EYEPATCH"
+				},
+				{
+					"text": "Grants [Disguise]",
+					"icon_path": "items/images/spells/polymorph.png",
+					"conditional_attribute": "EFF_DISGUISE"
+				},
+				{
+					"text": "%+d%% [Boulder Resistance]",
+					"icon_path": "images/ui/HUD/statusfx/resist_boulders.png",
+					"conditional_attribute": "EFF_BOULDER_RES"
+				},
+				{
+					"text": "%+d%% [Strafe/Backstep]\nmovement speed\n",
+					"icon_path": "images/ui/HUD/statusfx/celerity.png",
+					"conditional_attribute": "EFF_STRAFE"
+				},
+				{
+					"text": "%+d%% [Gold Weight Reduction]",
+					"icon_path": "#*images/ui/Inventory/tooltips/tooltip_icons/feather.png",
+					"conditional_attribute": "EFF_MASK_GOLDEN"
+				},
+				{
+					"text": "%+d [%s] skill bonus",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Trading01.png",
+					"conditional_attribute": "EFF_SKILL_2"
+				},
+				{
+					"text": "Grants [Splash Immunity] to thrown\npotions, alchemical explosions\nand spray attacks\n\n",
+					"icon_path": "images/ui/HUD/statusfx/splash_protection.png",
+					"conditional_attribute": "EFF_HAZARD_GOGGLES"
+				},
+				{
+					"text": "%+d [%s] skill bonus",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Alchemy01.png",
+					"conditional_attribute": "EFF_SKILL_15"
+				},
+				{
+					"text": "%+d [%s] skill bonus",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Leadership01.png",
+					"conditional_attribute": "EFF_SKILL_5"
+				},
+				{
+					"text": "%+d [%s] skill bonus",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01.png",
+					"conditional_attribute": "EFF_SKILL_8"
+				},
+				{
+					"text": "Marks %+d [Bounty] monster\non entering dungeon floor\n",
+					"icon_path": "images/ui/HUD/statusfx/targeting.png",
+					"conditional_attribute": "EFF_BOUNTY"
+				},
+				{
+					"text": "%+d Ranged [Distance]",
+					"icon_path": "images/ui/HUD/statusfx/attack_range.png",
+					"conditional_attribute": "EFF_RANGED_DISTANCE"
+				},
+				{
+					"text": "%+d%% Ranged [Draw Speed]",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01.png",
+					"conditional_attribute": "EFF_RANGED_FIRERATE"
+				},
+				{
+					"text": "%+d [Melee Weapon] skill bonus",
+					"icon_path": "#*images/ui/CharSheet/HUD_CharSheet_ATT_00.png",
+					"conditional_attribute": "EFF_SKILL_MELEE_STEEL"
+				},
+				{
+					"text": "%+d [Melee Weapon] skill bonus",
+					"icon_path": "#*images/ui/CharSheet/HUD_CharSheet_ATT_00.png",
+					"conditional_attribute": "EFF_SKILL_MELEE_ARTIFACT"
+				},
+				{
+					"text": "Inflicts [Disoriented] when\nfirst backstabbing an enemy\n",
+					"icon_path": "items/images/spells/confuse.png",
+					"conditional_attribute": "EFF_PHANTOM"
+				},
+				{
+					"text": "%.2fx [Hunger Speed]",
+					"icon_path": "images/ui/HUD/statusfx/lesser_slowdigestion.png",
+					"conditional_attribute": "EFF_SPRIG"
+				},
+				{
+					"text": "%+d [Retaliation] Damage",
+					"icon_path": "images/ui/HUD/statusfx/thorns.png",
+					"conditional_attribute": "EFF_THORNS"
+				},
+				{
+					"text": "%+d%% [Food Satiation]",
+					"icon_path": "images/ui/HUD/statusfx/lesser_slowdigestion.png",
+					"conditional_attribute": "EFF_CHEF"
+				},
+				{
+					"text": "%+.f%% chance to receive\nmeat from slain enemies\n",
+					"icon_path": "items/images/Meat.png",
+					"conditional_attribute": "EFF_CHEF2"
+				},
+				{
+					"text": "All Allies:\n%+d%% [Inspiration]",
+					"icon_path": "images/ui/HUD/statusfx/inspiration.png",
+					"conditional_attribute": "EFF_INSPIRATION"
+				},
+				{
+					"text": "Followers:\n%+d%% [Damage Resistance]\n",
+					"icon_path": "images/ui/HUD/statusfx/protection.png",
+					"conditional_attribute": "EFF_FOLLOWER_DMGRESIST"
+				},
+				{
+					"text": "Followers:\n%+d%% [Trap Resistance]\n",
+					"icon_path": "images/ui/HUD/statusfx/protection.png",
+					"conditional_attribute": "EFF_FOLLOWER_TRAPRESIST"
+				},
+				{
+					"text": "Followers:\n[%+d HP] while [Regenerating]\n",
+					"icon_path": "images/ui/HUD/statusfx/regen_hp.png",
+					"conditional_attribute": "EFF_FOLLOWER_REGEN"
+				},
+				{
+					"text": "Self/Followers:\n%+d%% [Celebration]\n",
+					"icon_path": "#*images/ui/HUD/statusfx/magic_effect.png",
+					"conditional_attribute": "EFF_CELEBRATION"
+				},
+				{
+					"text": "%+d%% chance: [+1 MP]\nwhile [Regenerating]\n",
+					"icon_path": "images/ui/HUD/statusfx/regen_mp.png",
+					"conditional_attribute": "EFF_HOOD_APPRENTICE"
+				},
+				{
+					"text": "%+d [Backstab] damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Stealth01.png",
+					"conditional_attribute": "EFF_HOOD_ASSASSIN"
+				},
+				{
+					"text": "%+d [%s] skill bonus",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Stealth01.png",
+					"conditional_attribute": "EFF_SKILL_1"
+				},
+				{
+					"text": "%+d Ranged [Backstab] damage",
+					"icon_path": "#*images/ui/SkillSheet/Icons/Ranged01.png",
+					"conditional_attribute": "EFF_HOOD_WHISPERS"
+				},
+				{
+					"text": "Grants chance to [Pacify]\nand evade melee attackers\n",
+					"icon_path": "items/images/spells/charm.png",
+					"conditional_attribute": "EFF_SILKEN_BOW"
+				},
+				{
+					"text": "%+d [HP Restoration]\nwhen eating food\n",
+					"icon_path": "images/ui/HUD/statusfx/growth.png",
+					"conditional_attribute": "EFF_MARIGOLD1"
+				},
+				{
+					"text": "%+d [HP Restore] over\n[30s] when eating food\n",
+					"icon_path": "images/ui/HUD/statusfx/growth.png",
+					"conditional_attribute": "EFF_MARIGOLD1_HUNGER"
+				},
+				{
+					"text": "Grants [Nausea Resistance]",
+					"icon_path": "images/ui/HUD/statusfx/resist_nausea.png",
+					"conditional_attribute": "EFF_MARIGOLD2"
+				}
+			],
+			"details": [
+				{
+					"default": [ "" ]
+				},
+				{
+					"armor_on_cursed_sideeffect": "template_hatnewline_curse_sideeffect"
+				},
+				{
+					"EFF_TECH_GOGGLES1": [ "Deploy Speed:", "* No effect while using beartraps", "" ]
+				},
+				{
+					"attributes_text_if_armor_has_stats": "template_attributes_text"
+				},
+				{
+					"EFF_UNBREAKABLE": [ "* Unbreakable" ]
+				},
+				{
+					"EFF_CHEF2": [ "* Meat drop chance only applies", "to red-blooded creatures" ]
+				},
+				{
+					"EFF_THORNS": [ "* Deals damage to melee attackers", "on receiving damage from [Retaliation]" ]
+				},
+				{
+					"EFF_INSPIRATION": [ "* Lower LVL allies gain increased", "XP from [Inspiration]" ]
+				},
+				{
+					"EFF_CELEBRATION": [ "* HP restoration on LVL increased", "based on max HP from [Celebration]" ]
+				},
+				{
+					"EFF_BOUNTY": [ "* Killing a [Bounty] target rewards", "additional gold while worn" ]
+				},
+				{
+					"EFF_FOLLOWER_DMGRESIST": [ "* Trap damage taken is unaffected", "by [Damage Resistance]" ]
+				},
+				{
+					"EFF_HOOD_WHISPERS": [ "* Ranged [Backstab] ATK increases", "with %s skill" ]
+				},
+				{
+					"EFF_MARIGOLD1": [ "* No effect for sickness inducing food" ]
+				},
+				{
+					"equipment_stat_bonus": "template_armor_stat_bonus"
+				},
+				{
+					"equipment_fragile_durability": "template_armor_fragile_durability"
+				},
+				{
+					"blank_text_if_armor_has_stats": ""
+				},
+				{
+					"EFF_SILKEN_BOW": [ "Pacify chances:", "+%d%% base item chance", "+%d%% bonus chance from", "%s skill + %s stat" ]
+				},
+				{
+					"armor_ac_text": "template_armor_ac_text"
+				},
+				{
+					"armor_base_ac": "template_armor_base_ac"
+				},
+				{
+					"on_bless_or_curse": "template_armor_beatitude_ac"
+				},
+				{
+					"artifact_armor_on_degraded": "template_armor_on_degraded_ac"
+				}
+			],
+			"size": {
+				"min_width": 220,
+				"item_overrides": {
+					"hat_warm": {
+						"min_width": 280
+					},
+					"hat_miter": {
+						"min_width": 260
+					},
+					"hat_headdress": {
+						"min_width": 280
+					},
+					"hat_circlet": {
+						"min_width": 260
+					},
+					"hat_circlet_wisdom": {
+						"min_width": 260
+					},
+					"mask_tech_goggles": {
+						"min_width": 280
+					},
+					"mask_eyepatch": {
+						"min_width": 260
+					},
+					"hat_tophat": {
+						"min_width": 260
+					},
+					"hat_bandana": {
+						"min_width": 260
+					},
+					"mask_golden": {
+						"min_width": 280
+					},
+					"mask_hazard_goggles": {
+						"min_width": 320
+					},
+					"hat_plumed_cap": {
+						"min_width": 280
+					},
+					"mask_grass_sprig": {
+						"min_width": 280
+					},
+					"hat_chef": {
+						"min_width": 280
+					},
+					"hat_turban": {
+						"min_width": 280
+					},
+					"hat_crown": {
+						"min_width": 300
+					},
+					"hat_bycocket": {
+						"min_width": 300
+					},
+					"hat_silken_bow": {
+						"min_width": 260
+					},
+					"hat_hood_whispers": {
+						"min_width": 280
+					},
+					"hat_hood_assassin": {
+						"min_width": 280
+					},
+					"hat_crowned_helm": {
+						"min_width": 300
+					},
+					"hat_laurels": {
+						"min_width": 280
+					},
+					"mask_mouthknife": {
+						"min_width": 320
+					},
+					"mask_plague": {
+						"min_width": 300
+					},
+					"mask_phantom": {
+						"min_width": 320
+					},
+					"mask_pipe": {
+						"min_width": 320
+					},
+					"mask_steel_visor": {
+						"min_width": 280
+					},
+					"mask_crystal_visor": {
+						"min_width": 280
+					},
+					"mask_artifact_visor": {
+						"min_width": 280
+					},
+					"mask_marigold": {
+						"min_width": 280
+					}
+				}
+			}
+		}
+	}
+}

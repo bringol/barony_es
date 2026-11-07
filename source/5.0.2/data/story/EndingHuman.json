@@ -1,0 +1,27 @@
+{
+    "version": 1,
+    "press_a_to_advance": true,
+    "text": [
+    	"*3Through the portal, a weak magic tugs you from the Citadel.\n",
+    	"Your feet hover over the floor as it shakes violently.\n",
+    	"Pipes and pistons crash down in a muffled racket...\n^",
+    	"*1You have a detached sense of peace, and a moment to ponder what has occurred.\n^",
+    	"*2You open your eyes. Standing in The Magician's Guild are a wizard and a bishop.\n",
+    	"Their faces relax in relief...\n",
+    	"Over the following days, you work with them in secrecy to prevent\n",
+    	"the realms of hell from stepping foot in Hamlet again.\n^",
+    	"Hamlet begins its ascent toward its former glory. The guilds unite\n",
+    	"under your banner to clear out the straggling monsters and rebuild the city.\n^",
+    	"The citizens beg you to take the court and crown you the new Baron. You vow\n",
+    	"to keep the liches' power secret, and stop anyone from seeking that power again...\n^",
+    	"*1Power you know will always be waiting."
+    ],
+    "images": [
+	"images/ui/Main Menus/Story/black.png",
+	"images/ui/Main Menus/Story/white.png",
+	"images/ui/Main Menus/Story/HeroRescued.png",
+	"images/ui/Main Menus/Story/intro1.png",
+	"images/ui/Main Menus/Story/HumanThrone.png",
+	"images/ui/Main Menus/Story/PowerWaiting.png"
+    ]
+}

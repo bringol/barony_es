@@ -1,0 +1,28 @@
+{
+    "version": 1,
+    "press_a_to_advance": false,
+    "text": [
+    	"Once upon a time in a far away land,## there was a bustling township known\n",
+    	"as Hamlet.#### A center of commerce,## its wealth only grew as years passed.\n",
+    	"Its envious neighbors believed the city blessed...####\n",
+    	"until the Baron Herx rose to power.\n^",
+    	"Spurred by visions of riches and power,## the Baron forced his people\n",
+    	"to mine the hills,## looking for signs of a legendary, ancient treasure.\n",
+    	"Chafing under the yoke of their master,## the people plotted his demise.####\n",
+    	"They tricked him with tales of unearthed gold, and sealed him within the mines.\n^",
+    	"Freed of their cruel master,## the people of Hamlet flourished once again.####\n",
+    	"But in time,## strange happenings began to plague the town.\n",
+    	"Evil clouds of darkness fell upon the streets,## foul monsters erupted from the\n",
+    	"ground,## and baleful lights flickered within the mines once more.\n^",
+    	"Many adventurers have descended the mines to break\n",
+	"the Baron's curse,## but none have yet returned.\n",
+	"The town of Hamlet cries for salvation,##\n",
+	"and only a hero can save it from its curse..."
+    ],
+    "images": [
+    	"images/ui/Main Menus/Story/intro1.png",
+    	"images/ui/Main Menus/Story/intro2.png",
+    	"images/ui/Main Menus/Story/intro3.png",
+    	"images/ui/Main Menus/Story/intro4.png"
+    ]
+}

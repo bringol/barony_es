@@ -1,0 +1,786 @@
+{
+	"version": 1,
+	"comment": "Add monster model indexes and their icons here.",
+	"base_path": "*#images/ui/HUD/allies/icons/",
+	"monsters": {
+		"nothing": {
+			"default": {
+				"icon": "",
+				"models": 0
+			}
+		},
+		"human": {
+			"default": {
+				"icon": "Icon_HeadDefaultM_00.png"
+			},
+			
+			"landguard_male": {
+				"icon": "humans/Icon_LandguardM_00.png", 
+				"models": [113]
+			},
+			"northborn_male": {
+				"icon": "humans/Icon_NorthbornM_00.png", 
+				"models": [114]
+			},
+			"firebrand_male": {
+				"icon": "humans/Icon_FirebrandM_00.png", 
+				"models": [115]
+			},
+			"hardbred_male": {
+				"icon": "humans/Icon_HardbredM_00.png", 
+				"models": [116]
+			},
+			"highwatch_male": {
+				"icon": "humans/Icon_HighwatchM_00.png", 
+				"models": [117]
+			},
+			"gloomforge_male": {
+				"icon": "humans/Icon_GloomforgeM_00.png", 
+				"models": [332]
+			},
+			"pyrebloom_male": {
+				"icon": "humans/Icon_PyrebloomM_00.png", 
+				"models": [341]
+			},
+			"snakestone_male": {
+				"icon": "humans/Icon_SnakestoneM_00.png", 
+				"models": [342]
+			},
+			"windclan_male": {
+				"icon": "humans/Icon_WindclanM_00.png", 
+				"models": [343]
+			},
+			"warblood_male": {
+				"icon": "humans/Icon_WarbloodM_00.png", 
+				"models": [344]
+			},
+			"millbound_male": {
+				"icon": "humans/Icon_MillboundM_00.png", 
+				"models": [345]
+			},
+			"sunstalk_male": {
+				"icon": "humans/Icon_SunstalkM_00.png", 
+				"models": [346]
+			},
+			"claymount_male": {
+				"icon": "humans/Icon_ClaymountM_00.png", 
+				"models": [367]
+			},
+			"stormward_male": {
+				"icon": "humans/Icon_StormwardM_00.png", 
+				"models": [368]
+			},
+			"tradefall_male": {
+				"icon": "humans/Icon_TradeFallM_00.png", 
+				"models": [369]
+			},
+			"nighthill_male": {
+				"icon": "humans/Icon_NighthillM_00.png", 
+				"models": [370]
+			},
+			"baytower_male": {
+				"icon": "humans/Icon_BaytowerM_00.png", 
+				"models": [371]
+			},
+			"whetsong_male": {
+				"icon": "humans/Icon_WhetsongM_00.png", 
+				"models": [372]
+			},
+			
+			
+			"landguard_female": {
+				"icon": "humans/Icon_LandguardF_00.png", 
+				"models": [125]
+			},
+			"northborn_female": {
+				"icon": "humans/Icon_NorthbornF_00.png", 
+				"models": [126]
+			},
+			"firebrand_female": {
+				"icon": "humans/Icon_FirebrandF_00.png", 
+				"models": [127]
+			},
+			"hardbred_female": {
+				"icon": "humans/Icon_HardbredF_00.png", 
+				"models": [128]
+			},
+			"highwatch_female": {
+				"icon": "humans/Icon_HighwatchF_00.png", 
+				"models": [129]
+			},
+			"gloomforge_female": {
+				"icon": "humans/Icon_GloomforgeF_00.png", 
+				"models": [333]
+			},
+			"pyrebloom_female": {
+				"icon": "humans/Icon_PyrebloomF_00.png", 
+				"models": [354]
+			},
+			"snakestone_female": {
+				"icon": "humans/Icon_SnakestoneF_00.png", 
+				"models": [355]
+			},
+			"windclan_female": {
+				"icon": "humans/Icon_WindclanF_00.png", 
+				"models": [356]
+			},
+			"warblood_female": {
+				"icon": "humans/Icon_WarbloodF_00.png", 
+				"models": [357]
+			},
+			"millbound_female": {
+				"icon": "humans/Icon_MillboundF_00.png", 
+				"models": [358]
+			},
+			"sunstalk_female": {
+				"icon": "humans/Icon_SunstalkF_00.png", 
+				"models": [359]
+			},
+			"claymount_female": {
+				"icon": "humans/Icon_ClaymountF_00.png", 
+				"models": [380]
+			},
+			"stormward_female": {
+				"icon": "humans/Icon_StormwardF_00.png", 
+				"models": [381]
+			},
+			"tradefall_female": {
+				"icon": "humans/Icon_TradeFallF_00.png", 
+				"models": [382]
+			},
+			"nighthill_female": {
+				"icon": "humans/Icon_NighthillF_00.png", 
+				"models": [383]
+			},
+			"baytower_female": {
+				"icon": "humans/Icon_BaytowerF_00.png", 
+				"models": [384]
+			},
+			"whetsong_female": {
+				"icon": "humans/Icon_WhetsongF_00.png", 
+				"models": [385]
+			},
+			
+			"specialNPCs": {
+				"red riding hood": {
+					"localized_name": "Red Riding Hood",
+					"models": [127]
+				},
+				"king arthur": {
+					"localized_name": "King Arthur",
+					"models": [113]
+				},
+				"merlin": {
+					"localized_name": "Merlin",
+					"models": [332]
+				},
+				"robin hood": {
+					"localized_name": "Robin Hood",
+					"models": [114]
+				},
+				"conan the barbarian": {
+					"localized_name": "Conan the Barbarian",
+					"models": [342]
+				},
+				"othello": {
+					"localized_name": "Othello",
+					"models": [369]
+				},
+				"anansi": {
+					"localized_name": "Anansi",
+					"models": [370]
+				},
+				"oya": {
+					"localized_name": "Oya",
+					"models": [381]
+				},
+				"vishpala": {
+					"localized_name": "Vishpala",
+					"models": [385]
+				},
+				"kali": {
+					"localized_name": "Kali",
+					"models": [383]
+				},
+				"zap brigadier": {
+					"localized_name": "ZAP Brigadier",
+					"models": [114]
+				}
+			}
+		},
+		"rat": {
+			"default": {
+				"icon": "basic/Icon_Rat_00.png"
+			},
+			
+			"normal rat walk cycle": { 
+				"icon": "basic/Icon_Rat_00.png", 
+				"models": [131, 265]
+			},
+			"normal rat attack frames": {
+				"icon": "basic/Icon_Rat_00.png", 
+				"models": [1063, 1064, 1065, 1066, 1067]
+			},
+			"player rat head": { 
+				"icon": "shapeshift/Icon_ShamanMouse_00.png", 
+				"models": [814]
+			},
+			"player rat head attack": { 
+				"icon": "shapeshift/Icon_ShamanMouse_00.png", 
+				"models": [1043, 1044] 
+			},
+
+			"specialNPCs": {
+				"algernon": {
+					"icon": "special/Icon_Algernon_00.png", 
+					"localized_name": "Algernon",
+					"models": [1068, 1069, 1070, 1071, 1072, 1073, 1074],
+					"base_model": 1068
+				}
+			}
+		},
+		"goblin": {
+			"default": {
+				"icon": "basic/Icon_GoblinM_00.png"
+			},
+			
+			"monster male": { 
+				"icon": "basic/Icon_GoblinM_00.png", 
+				"models": [180] 
+			},
+			"player male": { 
+				"icon": "basic/Icon_GoblinM_00.png", 
+				"models": [694] 
+			},
+			"monster female": { 
+				"icon": "basic/Icon_GoblinF_00.png", 
+				"models": [1039] 
+			},
+			"player female": { 
+				"icon": "basic/Icon_GoblinF_00.png", 
+				"models": [752] 
+			},
+
+			"specialNPCs": {
+				"potato king": {
+					"icon": "special/Icon_PotatoKing_00.png", 
+					"localized_name": "The Potato King",
+					"models": [1035]
+				}
+			}
+		},
+		"slime": {
+			"default": {
+				"icon": "basic/Icon_SlimeGreenC_00.png"
+			},
+			
+			"slime green": {
+				"icon": "basic/Icon_SlimeGreenC_00.png", 
+				"models": [210, 1113, 1114, 1115, 1116, 1117] 
+			},
+			"slime blue": {
+				"icon": "basic/Icon_SlimeBlueC_00.png", 
+				"models": [189, 1108, 1109, 1110, 1111, 1112] 
+			},
+			"slime red": {
+				"icon": "basic/Icon_SlimeRedC_00.png", 
+				"models": [1380, 1383, 1384, 1385, 1386, 1387] 
+			},
+			"slime tar": {
+				"icon": "basic/Icon_SlimeTarC_00.png", 
+				"models": [1381, 1388, 1389, 1390, 1391, 1392] 
+			},
+			"slime metal": {
+				"icon": "basic/Icon_SlimeMetalC_00.png", 
+				"models": [1382, 1393, 1394, 1395, 1396, 1397] 
+			}
+		},
+		"troll": {
+			"default": {
+				"icon": "basic/Icon_Troll_00.png"
+			},
+			
+			"monster": {
+				"icon": "basic/Icon_Troll_00.png", 
+				"models": [204] 
+			},
+			"player": {
+				"icon": "shapeshift/Icon_ShamanTroll_00.png", 
+				"models": [817] 
+			},
+
+			"specialNPCs": {
+				"thumpus": {
+					"icon": "special/Icon_Thumpus_00.png", 
+					"localized_name": "Thumpus the Troll",
+					"models": [1132]
+				}
+			}
+		},
+		"bat": {
+			"default": {
+				"icon": ""
+			},
+			
+			"monster": {
+				"icon": "", 
+				"models": [1408] 
+			}
+		},
+		"spider": {
+			"default": {
+				"icon": "basic/Icon_Spider_00.png"
+			},
+			
+			"monster": {
+				"icon": "basic/Icon_Spider_00.png", 
+				"models": [267] 
+			},
+			"monster crab": {
+				"icon": "basic/Icon_Crab_00.png", 
+				"models": [997] 
+			},
+			"player": {
+				"icon": "shapeshift/Icon_ShamanSpider_00.png", 
+				"models": [823] 
+			},
+			"player crab": {
+				"icon": "shapeshift/Icon_ShamanSpider_00.png", 
+				"models": [1001] 
+			},
+			
+			"specialNPCs": {
+				"shelob": {
+					"icon": "special/Icon_Shelob_00.png", 
+					"localized_name": "Shelob",
+					"models": [1118]
+				},
+				"bubbles": {
+					"icon": "basic/Icon_Crab_00.png", 
+					"localized_name": "Bubbles",
+					"models": [1189]
+				}
+			}
+		},
+		"ghoul": {
+			"default": {
+				"icon": "basic/Icon_Ghoul_00.png"
+			},
+			
+			"monster": {
+				"icon": "basic/Icon_Ghoul_00.png", 
+				"models": [246]
+			},
+			
+			"specialNPCs": {
+				"coral grimes": {
+					"icon": "special/Icon_CoralGrimes_00.png", 
+					"localized_name": "Coral Grimes",
+					"models": [1017]
+				}
+			}
+		},
+		"skeleton": {
+			"default": {
+				"icon": "basic/Icon_Ghoul_00.png"
+			},
+			
+			"monster": {
+				"icon": "basic/Icon_SkeletonM_00.png", 
+				"models": [229] 
+			},
+			"monster mouldy": {
+				"icon": "basic/Icon_SkeletonF_00.png", 
+				"models": [1103] 
+			},
+			"player": {
+				"icon": "basic/Icon_SkeletonM_00.png", 
+				"models": [686] 
+			},
+			"player mouldy": {
+				"icon": "basic/Icon_SkeletonF_00.png", 
+				"models": [1049] 
+			},
+
+			"specialNPCs": {
+				"funny bones": {
+					"icon": "special/Icon_FunnyBones_00.png", 
+					"localized_name": "Funny Bones",
+					"models": [1107]
+				},
+				"skeleton knight": {
+					"icon": "summons/Icon_SkeletonWarrior_00.png",
+					"no_override_icon": true,
+					"localized_name": "skeleton knight",
+					"localized_short_name": "Knight",
+					"models": [229]
+				},
+				"skeleton sentinel": {
+					"icon": "summons/Icon_SkeletonMage_00.png", 
+					"no_override_icon": true,
+					"localized_name": "skeleton sentinel",
+					"localized_short_name": "Sentinel",
+					"models": [229]
+				}
+			}
+		},
+		"scorpion": {
+			"default": {
+				"icon": "basic/Icon_Scorpion_00.png"
+			},
+			
+			"monster": {
+				"icon": "basic/Icon_Scorpion_00.png", 
+				"models": [196, 266] 
+			},
+			
+			"specialNPCs": {
+				"skrabblag": {
+					"icon": "special/Icon_Skrabblag_00.png",
+					"localized_name": "Skrabblag",
+					"models": [1080, 1081, 1082],
+					"base_model": 1080
+				}
+			}
+		},
+		"imp": {
+			"default": {
+				"icon": "basic/Icon_Imp_00.png"
+			},
+			
+			"monster": {
+				"icon": "basic/Icon_Imp_00.png", 
+				"models": [289] 
+			},
+			"player": {
+				"icon": "shapeshift/Icon_ShamanImp_00.png", 
+				"models": [827] 
+			}
+		},
+		"crab": {
+			"default": {
+				"icon": "basic/Icon_Crab_00.png"
+			}
+		},
+		"gnome": {
+			"default": {
+				"icon": "basic/Icon_Gnome_00.png"
+			},
+			
+			"monster": {
+				"icon": "basic/Icon_Gnome_00.png", 
+				"models": [295, 1426, 1430]
+			}
+		},
+		"demon": {
+			"default": {
+				"icon": "basic/Icon_Demon_00.png"
+			},
+			
+			"monster": {
+				"icon": "basic/Icon_Demon_00.png", 
+				"models": [258] 
+			},
+
+			"specialNPCs": {
+				"deudebreau": {
+					"icon": "special/Icon_DeuDeBreau_00.png",
+					"localized_name": "Deu De'Breau",
+					"models": [1008]
+				}
+			}
+		},
+		"succubus": {
+			"default": {
+				"icon": "basic/Icon_Succubus_00.png"
+			},
+			
+			"monster": {
+				"icon": "basic/Icon_Succubus_00.png", 
+				"models": [190] 
+			},
+			"player": {
+				"icon": "basic/Icon_Succubus_00.png", 
+				"models": [710] 
+			},
+
+			"specialNPCs": {
+				"lilith": {
+					"icon": "special/Icon_Lilith_00.png", 
+					"localized_name": "Lilith",
+					"models": [1126]
+				}
+			}
+		},
+		"mimic": {
+			"default": {
+				"icon": "",
+				"models": [1247]
+			}
+		},
+		"lich": {
+			"default": {
+				"icon": "", 
+				"models": [274]
+			}
+		},
+		"minotaur": {
+			"default": {
+				"icon": "", 
+				"models": [239]
+			}
+		},
+		"devil": {
+			"default": {
+				"icon": "", 
+				"models": [304]
+			}
+		},
+		"shopkeeper": {
+			"default": {
+				"icon": "", 
+				"models": [217]
+			}
+		},
+		"kobold": {
+			"default": {
+				"icon": "basic/Icon_Kobold_00.png"
+			},
+			
+			"monster": {
+				"icon": "basic/Icon_Kobold_00.png", 
+				"models": [421] 
+			}
+		},
+		"scarab": {
+			"default": {
+				"icon": "basic/Icon_Scarab_00.png"
+			},
+			
+			"monster": {
+				"icon": "basic/Icon_Scarab_00.png", 
+				"models": [429, 430, 1075] 
+			},
+			
+			"specialNPCs": {
+				"xyggi": {
+					"icon": "special/Icon_Xyggi_00.png", 
+					"localized_name": "Xyggi",
+					"models": [1078, 1079],
+					"base_model": 1078
+				}
+			}
+		},
+		"crystalgolem": {
+			"default": {
+				"icon": "basic/Icon_CrystalGolem_00.png",
+				"localized_short_name": "Golem"
+			},
+			
+			"monster": {
+				"icon": "basic/Icon_CrystalGolem_00.png", 
+				"models": [475] 
+			}
+		},
+		"incubus": {
+			"default": {
+				"icon": "basic/Icon_Incubus_00.png"
+			},
+			
+			"monster": {
+				"icon": "basic/Icon_Incubus_00.png", 
+				"models": [445] 
+			},
+			"player": {
+				"icon": "basic/Icon_Incubus_00.png", 
+				"models": [702] 
+			}
+		},
+		"vampire": {
+			"default": {
+				"icon": "basic/Icon_VampireM_00.png"
+			},
+			
+			"monster male": {
+				"icon": "basic/Icon_VampireM_00.png", 
+				"models": [437] 
+			},
+			"player male": {
+				"icon": "basic/Icon_VampireM_00.png", 
+				"models": [718] 
+			},
+			"monster female": {
+				"icon": "basic/Icon_VampireF_00.png", 
+				"models": [1137] 
+			},
+			"player female": {
+				"icon": "basic/Icon_VampireF_00.png", 
+				"models": [756] 
+			},
+			
+			"specialNPCs": {
+				"bram kindly": {
+					"icon": "basic/Icon_VampireM_00.png", 
+					"localized_name": "Bram Kindly",
+					"models": [1136]
+				}
+			}
+		},
+		"shadow": {
+			"default": {
+				"icon": ""
+			},
+			
+			"monster": {
+				"icon": "", 
+				"models": [481]
+			},
+			
+			"specialNPCs": {
+				"artemisia": {
+					"icon": "", 
+					"localized_name": "Artemisia",
+					"models": [1087]
+				},
+				"baratheon": {
+					"icon": "", 
+					"localized_name": "Baratheon",
+					"models": [1095]
+				}
+			}
+		},
+		"cockatrice": {
+			"default": {
+				"icon": "basic/Icon_Cockatrice_00.png"
+			},
+			
+			"monster": {
+				"icon": "basic/Icon_Cockatrice_00.png", 
+				"models": [413] 
+			}
+		},
+		"insectoid": {
+			"default": {
+				"icon": "basic/Icon_InsectoidM_00.png"
+			},
+			
+			"monster male": {
+				"icon": "basic/Icon_InsectoidM_00.png", 
+				"models": [455] 
+			},
+			"player male": {
+				"icon": "basic/Icon_InsectoidM_00.png", 
+				"models": [726] 
+			},
+			"monster female": {
+				"icon": "basic/Icon_InsectoidF_00.png", 
+				"models": [1057] 
+			},
+			"player female": {
+				"icon": "basic/Icon_InsectoidF_00.png", 
+				"models": [760] 
+			}
+		},
+		"goatman": {
+			"default": {
+				"icon": "basic/Icon_GoatmanM_00.png"
+			},
+			
+			"monster male": {
+				"icon": "basic/Icon_GoatmanM_00.png", 
+				"models": [463] 
+			},
+			"player male": {
+				"icon": "basic/Icon_GoatmanM_00.png", 
+				"models": [734] 
+			},
+			"monster female": {
+				"icon": "basic/Icon_GoatmanF_00.png", 
+				"models": [1029] 
+			},
+			"player female": {
+				"icon": "basic/Icon_GoatmanF_00.png", 
+				"models": [768] 
+			},
+
+			"specialNPCs": {
+				"gharbad": {
+					"icon": "special/Icon_Gharbad_00.png", 
+					"localized_name": "Gharbad",
+					"models": [1025]
+				}
+			}
+		},
+		"automaton": {
+			"default": {
+				"icon": "basic/Icon_AutomatonM_00.png"
+			},
+			
+			"monster male": {
+				"icon": "basic/Icon_AutomatonM_00.png", 
+				"models": [467] 
+			},
+			"player male": {
+				"icon": "basic/Icon_AutomatonM_00.png", 
+				"models": [742] 
+			},
+			"monster female": {
+				"icon": "basic/Icon_AutomatonF_00.png", 
+				"models": [1007] 
+			},
+			"player female": {
+				"icon": "basic/Icon_AutomatonF_00.png", 
+				"models": [770] 
+			}
+		},
+		"lichice": {
+			"default": {
+				"icon": "",
+				"models": [650]
+			}
+		},
+		"lichfire": {
+			"default": {
+				"icon": "",
+				"models": [646]
+			}
+		},
+		"sentrybot": {
+			"default": {
+				"icon": "basic/Icon_SentryBot_00.png", 
+				"localized_short_name": "Sentry",
+				"models": [872] 
+			}
+		},
+		"spellbot": {
+			"default": {
+				"icon": "basic/Icon_SpellBot_00.png", 
+				"localized_short_name": "Spell",
+				"models": [885] 
+			}
+		},
+		"gyrobot": {
+			"default": {
+				"icon": "basic/Icon_GyroBot_00.png", 
+				"localized_short_name": "Gyro",
+				"models": [886] 
+			}
+		},
+		"dummybot": {
+			"default": {
+				"icon": "basic/Icon_DummyBot_00.png",
+				"localized_short_name": "Dummy",
+				"models": [889] 
+			}
+		},
+		"bugbear": {
+			"default": {
+				"icon": "basic/Icon_Bugbear_00.png"
+			},
+			"monster": {
+				"icon": "basic/Icon_Bugbear_00.png", 
+				"models": [1412] 
+			}
+		}
+	}
+}
