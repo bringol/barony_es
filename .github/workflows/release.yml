@@ -1,0 +1,65 @@
+name: Release
+
+# Un tag genera las versiones del juego en source/ y publica solo las que cambiaron
+# respecto al release anterior; las huellas .sha256 de todas viajan en cada release
+# para poder comparar con el siguiente.
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Probar la herramienta
+        run: python -m unittest discover -s tools
+
+      - name: Generar cada versión
+        run: |
+          mkdir -p dist
+          for version in $(ls source); do
+            python tools/barony_es.py build "$version" --out "build/$version"
+            (cd "build/$version" && find . -type f -print0 | sort -z | xargs -0 sha256sum) > "dist/barony_es-$version.sha256"
+            (cd "build/$version" && zip -qr "../../dist/barony_es-$version.zip" .)
+          done
+          python tools/barony_es.py stats > dist/progreso.md
+
+      - name: Publicar las versiones que cambiaron
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          previous=$(gh release list --exclude-drafts --json tagName --jq '.[].tagName' | head -1)
+          if [ -n "$previous" ]; then gh release download "$previous" --pattern '*.sha256' --dir previous; fi
+          assets=(dist/*.sha256)
+          changed=()
+          for zip in dist/*.zip; do
+            version=$(basename "$zip" .zip)
+            version=${version#barony_es-}
+            if ! cmp -s "dist/barony_es-$version.sha256" "previous/barony_es-$version.sha256"; then
+              changed+=("$version")
+              assets+=("$zip")
+            fi
+          done
+          if [ ${#changed[@]} -eq 0 ]; then
+            echo "Ninguna versión cambió desde $previous; no se publica nada."
+            exit 0
+          fi
+          {
+            echo "Versiones con cambios: ${changed[*]}"
+            echo
+            echo "Descarga el zip de tu versión de Barony y copia su contenido en la carpeta del juego."
+            echo
+            cat dist/progreso.md
+          } > notes.md
+          flags=()
+          if [[ "$GITHUB_REF_NAME" == *-* ]]; then flags+=(--prerelease); fi
+          gh release create "$GITHUB_REF_NAME" --title "$GITHUB_REF_NAME" --notes-file notes.md "${flags[@]}" "${assets[@]}"
