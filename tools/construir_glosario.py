@@ -12,8 +12,8 @@ from typing import Any
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 
-ENGLISH_DIR = PROJECT_ROOT / "1-ENG-VERSION"
-SPANISH_DIR = PROJECT_ROOT / "v5.0.2"
+ENGLISH_DIR = PROJECT_ROOT / "source" / "5.0.2"
+SPANISH_DIR = PROJECT_ROOT / "build" / "5.0.2"  # python tools/barony_es.py build 5.0.2
 POLISH_DIR = PROJECT_ROOT / "2-POLISH"
 
 BASE_GLOSSARY = SCRIPT_DIR / "glosario_base.txt"

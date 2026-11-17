@@ -40,13 +40,39 @@ En caso de encontrar errores/bugs/crashes, por favor, reportarlo en la sección 
 </p>
 
 <p align="center">
-        <a><img src="https://github.com/bringol/barony_es/blob/main/img/Paso%202%20instalacion.png" alt="paso-2" border="0"></a>
+        <a><img src="https://github.com/bringol/barony_es/blob/main/img/Paso%202%20instalacion%20v2.png" alt="paso-2" border="0"></a>
 </p>
 
-
+Cada release trae un zip por versión del juego (`barony_es-5.0.2.zip`, `barony_es-4.3.2.zip`, `barony_es-3.3.7.zip`); descarga el de tu versión. En Steam las versiones anteriores se eligen desde Propiedades → Betas.
 
 ## Instalación desde Steam
 - [Barony Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2707610137)
+
+## Cómo está organizado
+
+La traducción vive en catálogos gettext (`po/<catálogo>/es.po`), uno por tipo de texto: `lang` (`lang/en.txt`), `textos` (los JSON de interfaz, objetos, compendio, historia y tutoriales) y `libros`. Cada texto se identifica por su archivo y su clave (`lang/en.txt:1900`, `lang/item_names.json:/items/bronze_sword/name_identified`) y aparece una sola vez aunque esté en varias versiones del juego; si el inglés cambió entre versiones, aparece una vez por redacción con una nota de las versiones que la usan.
+
+`source/<versión>/` guarda los archivos en inglés del juego que se traducen y `assets/<versión>/` las fuentes, imágenes y mapas traducidos que se copian tal cual. `rules.json` dice qué rutas de cada JSON son texto; `layout` son datos que acompañan a la redacción, como las palabras resaltadas en los letreros del tutorial o el interlineado de las descripciones, y se traducen como JSON; `restore` son archivos que la traducción conserva en las versiones que ya no los traen, como un libro que el juego eliminó. Para dejar vacío un texto a propósito, como un artículo que en español sobra, tradúcelo con un solo espacio.
+
+```bash
+# Generar la carpeta traducida de una versión en build/<versión>
+python tools/barony_es.py build 5.0.2
+
+# Progreso por versión
+python tools/barony_es.py stats
+
+# Tras una actualización del juego (por ejemplo, de la 5.0.2 a la 5.0.3): renombrar sus carpetas, releer el inglés y actualizar los catálogos
+git mv source/5.0.2 source/5.0.3
+git mv assets/5.0.2 assets/5.0.3
+python tools/barony_es.py extract --game 5.0.3="RUTA/Barony"
+
+# Importar una carpeta ya traducida con la estructura del juego
+python tools/barony_es.py import 5.0.2 RUTA/carpeta_traducida
+```
+
+`extract` deja vacíos los textos nuevos y en borrador (*fuzzy*), con su inglés anterior, los que cambiaron; `build` ignora los borradores salvo con `--fuzzy`. Los textos con marcadores como `%s` o `%d` llevan la marca `c-format`, con la que los editores avisan si la traducción no los conserva.
+
+Los catálogos se pueden editar con cualquier editor de PO (Poedit, Weblate, Lokalize). En Weblate cada catálogo es un componente con formato «gettext PO», máscara de archivos `po/<catálogo>/*.po`, plantilla para nuevas traducciones `po/<catálogo>/<catálogo>.pot` y ajuste de líneas largas «solo en los saltos de línea», que es como escribe `extract`. Al publicar un tag `v*`, el workflow genera las tres versiones y sube solo el zip de las que cambiaron respecto al release anterior. `img/preview_workshop.png` es la vista previa del mod en el Workshop.
 
 <br>
 <br>
