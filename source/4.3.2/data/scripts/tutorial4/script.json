@@ -1,0 +1,848 @@
+{
+    "version": 1,
+        "default_attributes": {
+			"font_color": {
+				"r": 239,
+				"g": 237,
+				"b": 235,
+				"a": 255
+			},
+			"font_outline_color": {
+				"r": 50,
+				"g": 29,
+				"b": 25,
+				"a": 255
+			},
+			"font_highlight_color": {
+				"r": 18,
+				"g": 196,
+				"b": 131,
+				"a": 255
+			},
+			"font_highlight2_color": {
+				"r": 64,
+				"g": 192,
+				"b": 255,
+				"a": 255
+			}
+        },
+    "script_entries": {		
+        "tutorial4a": {
+            "sign": [
+				"$",			
+                "Scrolls of Identify",
+				"can provide the",
+				"certainty you need",
+				"when you don't have",
+				"time to wait around."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0,1,2],
+					[],
+					[0]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial4/sign_scroll.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+        },
+        "tutorial4b": {
+            "sign": [
+                "Discard items you",
+				"don't need, as they",
+				"weigh you down.",
+				"",
+                "Moving slowly can",
+				"get you killed."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+				},
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[0],
+					[],
+					[],
+					[2]
+				],
+                "word_highlights2": [
+					[0]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial4/dump_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial4b_gamepad": {
+            "sign": [
+                "Discard items you",
+				"don't need, as they",
+				"weigh you down.",
+				"",
+                "Moving slowly can",
+				"get you killed."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 64,
+					"g": 192,
+					"b": 255,
+					"a": 255
+				},
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[0],
+					[],
+					[],
+					[2]
+				],
+                "word_highlights2": [
+					[0]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial4/dump_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },		
+        "tutorial4c": {
+            "sign": [
+                "You cannot attack,",
+				"block, cast spells, or",
+				"sneak while swimming,",
+                "but you can interact",
+				"with objects!",
+				"",
+				"$ "
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight2_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[3]
+				],
+                "word_highlights2": [
+					[1]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#images/ui/SkillSheet/Icons/Swimming02_32.png",
+				"sizex": 0,
+				"sizey": 0
+				}
+			]
+        },
+        "tutorial4do": {
+            "sign": [
+                "If Levitation wears off",
+				"while you are over a pit",
+				"you will surely die.",
+				"",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[5],
+					[2,3]
+				],
+                "word_highlights2": [
+					[1]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#items/images/spells/levitation.png",
+				"sizex": 0,
+				"sizey": 0
+				}				
+			]
+        },
+        "tutorial4d": {
+            "sign": [
+                "You may not always have",
+				"the luxury of time when",
+				"faced with challenges in",
+				"in the dungeon.",
+				"",
+				"Imperfect solutions may",
+				"be necessary to survive.",
+                "You will now be tested."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[1,2,3],
+					[],
+					[],
+					[],
+					[0,1],
+					[1]
+				]
+            },
+            "variables": []
+        },		
+        "tutorial4e": {
+            "sign": [
+                "Finding food is essential",
+				"to your survival.",
+				"",
+				"$",
+                "If you dawdle, you will",
+				"starve to death."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},		
+					"font_highlight2_color": {
+						"r": 64,
+						"g": 192,
+						"b": 255,
+						"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[1,3]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#images/ui/HUD/HUD_Hunger_01D.png",
+				"sizex": 0,
+				"sizey": 0
+				}		
+			]
+        },
+        "tutorial4f": {
+            "sign": [
+                "One of these amulets",
+				"is enchanted with",
+				"a deadly curse.",
+				"",
+                "Appraisal will tell",
+				"you which is which."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[1,2]
+				],
+                "word_highlights2": [
+					[3],
+					[],
+					[],
+					[],
+					[0]
+				]
+            },
+            "variables": []
+        },
+        "tutorial4g": {
+            "sign": [
+                "Most items in the dungeon",
+				"are not identified.",
+				"$",
+                "If your Appraisal skill",
+				"is low, you may fail",
+                "to identify them."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 255,
+						"b": 64,
+						"a": 255
+					},		
+					"font_highlight2_color": {
+						"r": 64,
+						"g": 192,
+						"b": 255,
+						"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[1,2]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[3,4],
+					[1]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial4/sign_bread.png",
+				"sizex": 0,
+				"sizey": 0
+				}
+			]
+        },
+        "tutorial4h": {
+            "sign": [
+                "Sometimes cursed items",
+				"are better than nothing.",
+				"Use them when you must.",
+				"",
+				"Some curses have penalties",
+				"on use, or worse, their",
+				"benefits may be reversed.",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[3],
+					[],
+					[3]
+				],
+                "word_highlights2": [
+					[],
+					[1,2,3]				
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial4/sign_reverse.png",
+				"sizex": 0,
+				"sizey": 0
+				}			
+			]
+        },
+        "tutorial4ha": {
+            "sign": [
+                "Cursed equipment cannot",
+				"normally be removed",
+				"once equipped.",
+				"$",
+				"The consequences of",
+				"this may be devastating,",
+				"depending on the item."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},				
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0,2],
+					[1,2],
+					[],
+					[],
+					[],
+					[3]
+				],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial4/sign_curse.png",
+				"sizex": 0,
+				"sizey": 0
+				}	
+			]		
+        },
+        "tutorial4hi": {
+            "sign": [
+                "Prioritize inventory",
+				"items to Appraise first",
+				"by pressing$.",
+				"$",
+				"Press$ on identified",
+				"items to view verbose",
+				"details of their effects."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[1],
+					[2],
+					[1],
+					[],
+					[0],
+					[2,3],
+					[0]
+				],
+                "word_highlights2": [
+					[],
+					[2]
+				]
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Expand Inventory Tooltip"
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial4/sign_appraise.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Expand Inventory Tooltip"
+				}		
+			]				
+        },
+        "tutorial4i": {
+            "sign": [
+                "Appraising and",
+				"deciding whether or not",
+                "to use items can mean",
+				"the difference between",
+                "life and death",
+				"in the dungeons.",
+				"",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#images/ui/SkillSheet/Icons/Appraisal02_32.png",
+				"sizex": 0,
+				"sizey": 0
+				}
+			]
+        },
+        "tutorial4j": {
+            "sign": [
+                "Patience may cause",
+				"your death.",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial4/sign_potion.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+        },
+        "tutorial4k": {
+            "sign": [
+				"This item is a",
+				"Cursed Amulet of",
+				"Magic Reflection.",
+				"",
+				"This effect still works",
+				"even if it is cursed.",
+				"",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[0,1]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[0,1],
+					[],
+					[2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial4/magicreflect.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#items/images/spells/reflect_magic.png",
+				"sizex": 0,
+				"sizey": 0
+				}	
+			]
+        },
+        "tutorial4ks": {
+            "sign": [
+                "Blessings may offer",
+				"enhanced effects to",
+				"some items."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[0],
+					[0,1]
+				]
+            },
+            "variables": []
+        },		
+        "tutorial4l": {
+            "sign": [
+                "Poor quality food",
+				"may or may not",
+				"make you sick.",
+				"$",
+                "Your desperation should",
+				"influence if it is",
+				"worth the risk."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[2],
+					[],
+					[1]
+				],
+                "word_highlights2": [
+					[0,1],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial4/sign_pie.png",
+				"sizex": 0,
+				"sizey": 0
+				}			
+			]
+        },
+        "tutorial4m": {
+            "sign": [
+                "Food may seem too",
+				"scarce at first.",
+				"",
+                "Persist, and improve",
+				"as an adventurer."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial4n": {
+            "sign": [
+				"$$$",
+                "Towels can be used to",
+				"to wipe yourself clean,",
+                "or used as bandages",
+				"to stop bleeding.",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight2_color": {
+						"r": 64,
+						"g": 192,
+						"b": 255,
+						"a": 255
+					},					
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[3]
+				],
+                "word_highlights2": [
+					[],
+					[0],
+					[1,2,3],
+					[],
+					[1,2]
+				]
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#images/ui/HUD/statusfx/messypie.png",
+				"sizex": 0,
+				"sizey": 0
+				},
+				{
+				"type": "image",
+				"value": "*#images/ui/HUD/statusfx/grease.png",
+				"sizex": 0,
+				"sizey": 0
+				},			
+				{
+				"type": "image",
+				"value": "*#images/ui/HUD/statusfx/bleed.png",
+				"sizex": 0,
+				"sizey": 0
+				},
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial4/sign_towel.png",
+				"sizex": 80,
+				"sizey": 80
+				}				
+			]
+        },
+        "tutorial4o": {
+            "sign": [
+                "Rotten food can",
+				"make you sick, hastening",
+				"your starvation.",
+				"",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+					"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0,1],
+					[],
+					[1]
+				],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+				"type": "image",
+				"value": "*#data/scripts/tutorial4/sign_meat.png",
+				"sizex": 0,
+				"sizey": 0
+				}
+			]
+        }
+    }
+}

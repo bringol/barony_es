@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"adjectives": {
+		"food_status": {
+			"broken": "Razor-bladed",
+			"decrepit": "Expired",
+			"worn": "Stale",
+			"serviceable": "Slightly-stale",
+			"excellent": "Fresh"
+		}
+	}
+}

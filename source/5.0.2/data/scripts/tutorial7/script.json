@@ -1,0 +1,1253 @@
+{
+    "version": 1,
+	"default_attributes": {
+		"font_color": {
+			"r": 239,
+			"g": 237,
+			"b": 235,
+			"a": 255
+		},
+		"font_outline_color": {
+			"r": 50,
+			"g": 29,
+			"b": 25,
+			"a": 255
+		},
+		"font_highlight_color": {
+			"r": 18,
+			"g": 196,
+			"b": 131,
+			"a": 255
+		},
+		"font_highlight2_color": {
+			"r": 64,
+			"g": 192,
+			"b": 255,
+			"a": 255
+		}
+	},
+    "script_entries": {
+        "tutorial7a": {
+            "sign": [
+                "Such fine equipment.",
+				"It is a shame you",
+                "cannot use it yourself.",
+				"",
+				"A good Leader",
+                "must use their",
+				"resources wisely."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[1,2],
+					[],
+					[0,1,2,3],
+					[],
+					[2],
+					[1],
+					[0,1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial7/partyequip_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial7b": {
+            "sign": [
+                "Your ability to",
+				"command followers",
+				"effectively will",
+				"be tested."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial7c": {
+            "sign": [
+                "Scrolls of Summon",
+				"can provide allies",
+				"in a pinch.",
+				"",
+                "You should save this",
+				"scroll for the test",
+				"at the end of",
+                "this Trial."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[0,1,2],
+					[1,2],
+					[],
+					[2],
+					[3],
+					[2,3],
+					[1,2],
+					[0,1]
+				]
+            },
+            "variables": []
+        },
+        "tutorial7d": {
+            "sign": [
+                "Order followers",
+				"to [Wait] to keep",
+				"them out of the way.",
+				"$ $",
+                "When set to [Follow]",
+				"follwers will attempt",
+				"to stay close to you."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0],
+					[0,1],
+					[],
+					[],
+					[3]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[1,2,3,4],
+					[],
+					[],
+					[],
+					[1,2]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",	
+					"value": "*#data/scripts/tutorial7/sign_wait.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial7/sign_follow.png",
+					"sizex": 0,
+					"sizey": 0
+				}					
+			]
+        },
+        "tutorial7d_gamepad": {
+            "sign": [
+                "Order followers",
+				"to [Wait] to keep",
+				"them out of the way.",
+				"$ $",
+                "When set to [Follow]",
+				"followers will attempt",
+				"to stay close to you."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0],
+					[0,1],
+					[],
+					[],
+					[3]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[1,2,3,4],
+					[],
+					[],
+					[],
+					[1,2]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial7/sign_wait.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial7/sign_follow.png",
+					"sizex": 0,
+					"sizey": 0
+				}					
+			]
+        },		
+        "tutorial7do": {
+            "sign": [
+                "Followers will always",
+				"attack enemies they spot.",
+				"",
+				"To prevent them from",
+				"starting a fight",
+				"keep them",
+				"out of the way",
+				"until you are ready."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[2],
+					[0,1],
+					[],
+					[1],
+					[0,1,2],
+					[],
+					[0,1,2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial7/moveall_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial7do_gamepad": {
+            "sign": [
+                "Followers will always",
+				"attack enemies they spot.",
+				"",
+				"To prevent them from",
+				"starting a fight",
+				"keep them",
+				"out of the way",
+				"until you are ready."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[2],
+					[0,1],
+					[],
+					[1],
+					[0,1,2],
+					[],
+					[0,1,2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial7/moveall_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },			
+        "tutorial7e": {
+            "sign": [
+                "You will need to",
+				"position your follower",
+				"so that they may clear",
+				"the way for you.",
+				"",
+				"Followers might be",
+				"cautious. You may need",
+				"to order them to [Move]",
+				"further for best results."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[1,2,3,4],
+					[0]
+				],
+                "word_highlights2": [
+					[],
+					[0],
+					[4],
+					[0,1],
+					[],
+					[],
+					[0],
+					[],
+					[]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial7/movefurther_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial7f": {
+            "sign": [
+                "Using your followers",
+				"strategically can help",
+				"you survive and conquer",
+				"the dungeon."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0]
+				]
+            },
+            "variables": []
+        },
+        "tutorial7g": {
+            "sign": [
+                "If you command a",
+				"follower to [Move],",
+                "they will wait there",
+				"for your next order.",
+				"$",
+                "Use$to issue another",
+				"command from anywhere."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[2],
+					[0,2],
+					[],
+					[],
+					[],
+					[0,2,3],
+					[0,2]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[0,1,2],
+					[1,2,3],
+					[],
+					[]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial7/sign_moveto.png",
+					"sizex": 0,
+					"sizey": 0
+				},			
+				{
+					"type": "input_glyph",
+					"value": "Show NPC Commands"
+				}						
+			]
+        },
+        "tutorial7h": {
+            "sign": [
+                "You can command",
+				"allies to pick up",
+				"and use equipment",
+				"with [Interact].",
+				"",
+                "They will use items",
+				"in their efforts to",
+				"assist you."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[2],
+					[],
+					[1,2],
+					[1]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial7/lantern_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial7i": {
+            "sign": [
+                "You can command your",
+				"follower at any range",
+				"by pressing$."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",			
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[2],
+					[],
+					[1]
+				],
+                "word_highlights2": [
+					[],
+					[2,3]
+				]
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Show NPC Commands"
+				}					
+			]
+        },
+        "tutorial7j": {
+            "sign": [
+                "You will need an",
+				"ally's help to open",
+				"this gate.",
+				"$",
+                "Command your ally",
+				"to [Interact] with the",
+				"switch you cannot reach."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[0,2],
+					[1]
+				],
+                "word_highlights2": [
+					[],
+					[0,1,3],
+					[1],
+					[],
+					[],
+					[],
+					[0]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial7/interactgate_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial7/sign_interact.png",
+					"sizex": 0,
+					"sizey": 0
+				}					
+			]
+        },
+        "tutorial7j_gamepad": {
+            "sign": [
+                "You will need an",
+				"ally's help to open",
+				"this gate.",
+				"$",
+                "Command your ally",
+				"to [Interact] with the",
+				"switch you cannot reach."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[0,2],
+					[1]
+				],
+                "word_highlights2": [
+					[],
+					[0,1,3],
+					[1],
+					[],
+					[],
+					[],
+					[0]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial7/interactgate_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial7/sign_interact.png",
+					"sizex": 0,
+					"sizey": 0
+				}					
+			]
+        },		
+        "tutorial7k": {
+            "sign": [
+                "You can rely on",
+				"the help of followers",
+				"for assistance.",
+				"",
+                "Press$ to recruit",
+				"the human on the",
+				"other side of the gap."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[],
+					[1,2,3],
+					[],
+					[],
+					[],
+					[1],
+					[]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial7/recruit.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				}					
+			]
+        },
+        "tutorial7kb": {
+            "sign": [
+                "The amount of followers",
+				"you may have at one time,",
+				"and the commands you have",
+				"available to you,",
+				"depends upon your",
+				"Leadership Skill.",
+				"",
+				"$ "
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[1,2,3],
+					[],
+					[2,3,4],
+					[],
+					[0],
+					[0,1]
+				]
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Leadership02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				}						
+			]
+        },		
+        "tutorial7l": {
+            "sign": [
+                "Take care in",
+				"how you command",
+				"your allies.",
+				"",
+                "They are not the hero",
+				"you are, but look after",
+				"them and they shall",
+				"serve you well."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial7m": {
+            "sign": [
+                "Human followers are",
+				"proficient with most",
+				"weapons and equipment.",
+				"",
+				"$"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[0,1],
+					[0],
+					[0,1,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial7/bowman_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial2/sign_shortbow.png",
+					"sizex": 0,
+					"sizey": 0
+				}				
+			]
+        },
+        "tutorial7n": {
+            "sign": [
+                "WARNING:",
+				"This lever opens",
+				"the gate.",
+				"",
+                "Fraternization with",
+				"skeletal guardians",
+				"not recommended."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+						"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},						
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1]
+				],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial7o": {
+            "sign": [
+                "You can recruit",
+				"Kelly through the gate.",
+                "",
+				"Pull this lever once",
+				"you are ready to free",
+				"your new follower."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[1,2],
+					[1,2,3],
+					[],
+					[],
+					[2,3,4]
+				]
+            },
+            "variables": []
+        },
+        "tutorial7op": {
+            "sign": [
+                "Interact Aim Assist",
+				"helps you interact with",
+				"nearby objects without",
+                "needing to aim.",
+				"",
+				"Use$to pick through",
+				"multiple nearby actions."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[0,1,2],
+					[],
+					[0,1],
+					[],
+					[],
+					[],
+					[],
+					[1,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial7/tooltipoff_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Interact Tooltip Next"
+				}
+			]
+        },				
+        "tutorial7p": {
+            "sign": [
+                "Use$to issue the",
+				"same command repeatedly",
+                "without having to open",
+				"the command wheel."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0,1,2],
+					[0,1,2]
+				],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Command NPC"
+				}			
+			]
+        },
+        "tutorial7q": {
+            "sign": [
+                "You have been made",
+				"unable to fight for",
+				"yourself.",
+				"",
+                "Three humans are",
+				"ready to aid you.",
+				"Recruit and ready",
+				"them for battle."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[0,1,2],
+					[],
+					[],
+					[0,1],
+					[],
+					[0,2],
+					[0,1,2]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial7/partyrecruit.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial7r": {
+            "sign": [
+                "View follower status",
+				"in the top right of",
+				"the screen. The last",
+				"active follower is",
+				"highlighted.",
+				"",
+				"Scroll to the next",
+				"follower using$."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[0],
+					[1]
+				],
+                "word_highlights2": [
+					[1,2],
+					[],
+					[],
+					[0,1],
+					[0]
+				]
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Cycle NPCs"
+				}					
+			]
+        },
+        "tutorial7s": {
+            "sign": [
+                "Tap$ to quickly cycle",
+				"through your followers,",
+                "allowing you to issue",
+				"commands to each one",
+				"using$and$."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0,2,3],
+					[2],
+					[3],
+					[0],
+					[0]
+
+				],
+                "word_highlights2": []
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Cycle NPCs"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Show NPC Commands"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Command NPC"
+				}				
+			]
+        },
+        "tutorial7t": {
+            "sign": [
+                "BEWARE:",
+				"",
+				"You must manage",
+				"your followers with",
+				"care to ensure they",
+				"are not crushed by",
+				"the boulder trap",
+				"on the path ahead."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+						"font_highlight_color": {
+						"r": 255,
+						"g": 64,
+						"b": 64,
+						"a": 255
+					},	
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[2],
+					[1],
+					[],
+					[1,2],
+					[1]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial7/bouldermove.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": []
+        },
+        "tutorial7z": {
+            "sign": [
+                "Command followers to",
+				"[Rest] once per floor,",
+				"which recuperates HP.",
+				"$",
+				"They can also recover",
+				"by being commanded to",
+				"[Interact] with food."
+		
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[0],
+					[0],
+					[],
+					[],
+					[],
+					[],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[1,2],
+					[],
+					[3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial7/foodgive.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial7/sign_rest.png",
+					"sizex": 0,
+					"sizey": 0
+				}				
+			]
+        },		
+        "tutorial7u": {
+            "sign": [
+                "It is wise to order",
+				"followers to [Wait]",
+                "while you scout ahead.",
+				"",
+				"Hold$while issuing",
+				"some commands to direct",
+				"all of your followers",
+				"with a single order."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[4],
+					[2],
+					[],
+					[],
+					[0,1,2]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[2,3],
+					[],
+					[],
+					[],
+					[0,1,2,3],
+					[2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial7/allwait_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Defend"
+				}					
+			]
+        },
+        "tutorial7u_gamepad": {
+            "sign": [
+                "It is wise to order",
+				"followers to [Wait]",
+                "while you scout ahead.",
+				"",
+				"Hold$while issuing",
+				"some commands to direct",
+				"all of your followers",
+				"with a single order."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+					[4],
+					[2],
+					[],
+					[],
+					[0,1,2],
+					[1]
+				],
+                "word_highlights2": [
+					[],
+					[],
+					[2,3],
+					[],
+					[],
+					[3],
+					[0,3],
+					[0,1,2,3]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial7/allwait_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+            },
+            "variables": [
+				{
+					"type": "input_glyph",
+					"value": "Defend"
+				}					
+			]
+        },		
+        "tutorial7up": {
+            "sign": [
+                "This gate shall only",
+				"be opened when all",
+				"enemies have been",
+				"defeated."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+					[],
+					[3],
+					[],
+					[0]
+				]
+            },
+            "variables": []
+        }		
+    }
+}

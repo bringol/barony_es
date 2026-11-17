@@ -1,0 +1,28 @@
+{
+    "version": 1,
+    "press_a_to_advance": true,
+    "text": [
+    	"*3Through the portal, a weak magic tugs you from the Citadel.\n",
+    	"Your feet hover over the floor as it shakes violently.\n",
+    	"Pipes and pistons crash down in a muffled racket...\n^",
+    	"*1Your inputs are dulled and you observe the transferrence of your consciousness.\n^",
+    	"*2Your systems are nominal. You stand with a wizard and bishop. Their faces open\n",
+    	"into expressions of surprise.\n",
+    	"They are shocked to see that an automaton has rescued them\n",
+    	"from supernatural evil. Is your inhuman nature the reason?\n^",
+    	"*3The guilds and churches agree, there is no more perfect arbiter for the\n",
+		"well being of humans. You are entrusted with the tasks of law, assumed to\n",
+		"have perfect objectivity as the new Baron.\n^",
+    	"*2Your rulings are infallible... or are they? What is it that makes you conscious?\n",
+    	"You lead Hamlet to its former glory. But future problems may require more power.\n^",
+		"*1Power you know will always be waiting."
+    ],
+    "images": [
+	"*images/ui/Main Menus/Story/black.png",
+	"*images/ui/Main Menus/Story/white.png",
+	"*images/ui/Main Menus/Story/HeroRescued.png",
+	"*images/ui/Main Menus/Story/throne.png",
+	"*images/ui/Main Menus/Story/intro1.png",
+	"*images/ui/Main Menus/Story/PowerWaiting.png"
+    ]
+}

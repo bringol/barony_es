@@ -1,0 +1,861 @@
+{
+	"version": 1,
+	"panel_center_x_offset": -62,
+	"panel_center_y_offset": -24,
+	"panel_radius": 94,
+	"panel_button_thickness": 52,
+	"panel_inner_circle_radius_offset": -6,
+	"panel_inner_circle_radius_offset_alternate": -12,
+	"colors": {
+		"title": {
+			"r": 210,
+			"g": 183,
+			"b": 76,
+			"a": 255
+		},
+		"title_creature_highlight": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"banner_default": {
+			"r": 201,
+			"g": 162,
+			"b": 100,
+			"a": 255
+		},
+		"banner_highlight_default": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		}
+	},
+	"panels": [{
+			"direction": "north",
+			"x": 0,
+			"y": -128,
+			"icon_offset_x": 68,
+			"icon_offset_y": 52,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_tinker_N.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_tinker_N_u.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_N_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_N_uh.png"
+		},
+		{
+			"direction": "northwest",
+			"x": -76,
+			"y": -116,
+			"icon_offset_x": 68,
+			"icon_offset_y": 68,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_tinker_NW.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_tinker_NW_u.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_NW_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_NW_uh.png"
+		},
+		{
+			"direction": "west",
+			"x": -90,
+			"y": -38,
+			"icon_offset_x": 58,
+			"icon_offset_y": 64,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_tinker_W.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_tinker_W_u.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_W_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_W_uh.png"
+		},
+		{
+			"direction": "southwest",
+			"x": -76,
+			"y": 36,
+			"icon_offset_x": 72,
+			"icon_offset_y": 60,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_tinker_SW.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_tinker_SW_u.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_SW_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_SW_uh.png"
+		},
+		{
+			"direction": "south",
+			"x": 0,
+			"y": 52,
+			"icon_offset_x": 64,
+			"icon_offset_y": 72,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_tinker_S.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_tinker_S_u.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_S_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_S_uh.png"
+		},
+		{
+			"direction": "southeast",
+			"x": 76,
+			"y": 36,
+			"icon_offset_x": 58,
+			"icon_offset_y": 60,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_tinker_SE.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_tinker_SE_u.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_SE_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_SE_uh.png"
+		},
+		{
+			"direction": "east",
+			"x": 92,
+			"y": -40,
+			"icon_offset_x": 72,
+			"icon_offset_y": 64,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_tinker_E.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_tinker_E_u.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_E_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_E_uh.png"
+		},
+		{
+			"direction": "northeast",
+			"x": 76,
+			"y": -116,
+			"icon_offset_x": 60,
+			"icon_offset_y": 66,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_tinker_NE.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_tinker_NE_u.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_NE_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_NE_uh.png"
+		},
+		{
+			"direction": "center",
+			"x": 0,
+			"y": -40,
+			"icon_offset_x": 0,
+			"icon_offset_y": 0,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_tinker_ctr.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_tinker_ctr.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_ctr_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_tinker_ctr_u.png"
+		}
+	],
+	"panels_alternate": [{
+			"direction": "north",
+			"x": 0,
+			"y": -128,
+			"icon_offset_x": 68,
+			"icon_offset_y": 52,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_leader_N.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_leader_N_u.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_N_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_N_uh.png"
+		},
+		{
+			"direction": "northwest",
+			"x": -76,
+			"y": -116,
+			"icon_offset_x": 68,
+			"icon_offset_y": 68,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_leader_NW.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_leader_NW_u.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_NW_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_NW_uh.png"
+		},
+		{
+			"direction": "west",
+			"x": -90,
+			"y": -38,
+			"icon_offset_x": 58,
+			"icon_offset_y": 64,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_leader_W.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_leader_W_u.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_W_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_W_uh.png"
+		},
+		{
+			"direction": "southwest",
+			"x": -76,
+			"y": 36,
+			"icon_offset_x": 72,
+			"icon_offset_y": 60,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_leader_SW.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_leader_SW_u.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_SW_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_SW_uh.png"
+		},
+		{
+			"direction": "south",
+			"x": 0,
+			"y": 52,
+			"icon_offset_x": 64,
+			"icon_offset_y": 72,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_leader_S.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_leader_S_u.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_S_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_S_uh.png"
+		},
+		{
+			"direction": "southeast",
+			"x": 76,
+			"y": 36,
+			"icon_offset_x": 58,
+			"icon_offset_y": 60,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_leader_SE.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_leader_SE_u.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_SE_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_SE_uh.png"
+		},
+		{
+			"direction": "east",
+			"x": 92,
+			"y": -40,
+			"icon_offset_x": 72,
+			"icon_offset_y": 64,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_leader_E.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_leader_E_u.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_E_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_E_uh.png"
+		},
+		{
+			"direction": "northeast",
+			"x": 76,
+			"y": -116,
+			"icon_offset_x": 60,
+			"icon_offset_y": 66,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_leader_NE.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_leader_NE_u.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_NE_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_NE_uh.png"
+		},
+		{
+			"direction": "center",
+			"x": 0,
+			"y": -40,
+			"icon_offset_x": 0,
+			"icon_offset_y": 0,
+			"path": "#*images/ui/FollowerWheel/panels/cmd_leader_ctr.png",
+			"path_locked": "#*images/ui/FollowerWheel/panels/cmd_leader_ctr.png",
+			"path_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_ctr_h.png",
+			"path_locked_hover": "#*images/ui/FollowerWheel/panels/cmd_leader_ctr_u.png"
+		}
+	],
+	"icons": [{
+		"action": "leader_wait",
+		"id": 0,
+		"path": "#*images/ui/FollowerWheel/icons/leader/btn_leader_wait_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_wait_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/leader/btn_leader_wait_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_wait_hover-on.png",
+		"text_maps": [{
+			"wait_here" : 
+			{
+				"text": "Wait Here",
+				"word_highlights" : []
+			},
+			"follow" : 
+			{
+				"text": "Follow",
+				"word_highlights" : []
+			},
+			"wait_here_all" : 
+			{
+				"text": "(ALL) Wait Here",
+				"word_highlights" : []
+			},
+			"follow_all" : 
+			{
+				"text": "(ALL) Follow",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "leader_moveaside",
+		"id": 4,
+		"path": "#*images/ui/FollowerWheel/icons/leader/btn_leader_move_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_move_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/leader/btn_leader_move_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_move_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Move Aside",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "leader_moveto",
+		"id": 2,
+		"path": "#*images/ui/FollowerWheel/icons/leader/btn_leader_moveto_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_moveto_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/leader/btn_leader_moveto_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_moveto_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Move to...",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "leader_attack",
+		"id": 6,
+		"path": "#*images/ui/FollowerWheel/icons/leader/btn_leader_attack_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_attack_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/leader/btn_leader_attack_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_attack_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Attack...",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "leader_attack_or_interact",
+		"id": 6,
+		"path": "#*images/ui/FollowerWheel/icons/leader/btn_leader_int-atk_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_int-atk_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/leader/btn_leader_int-atk_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_int-atk_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Attack / Interact with...",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "leader_interact",
+		"id": 6,
+		"path": "#*images/ui/FollowerWheel/icons/leader/btn_leader_interact_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_interact_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/leader/btn_leader_interact_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_interact_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Interact...",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "leader_rest",
+		"id": 7,
+		"path": "#*images/ui/FollowerWheel/icons/leader/btn_leader_rest_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_rest_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/leader/btn_leader_rest_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_rest_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Rest",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "leader_drop",
+		"id": 5,
+		"path": "#*images/ui/FollowerWheel/icons/leader/btn_leader_drop_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_drop_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/leader/btn_leader_drop_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_drop_hover-on.png",
+		"text_maps": [{
+			"leader_drop_weapon" : 
+			{
+				"text": "Drop Weapon",
+				"word_highlights" : [1]
+			},
+			"leader_drop_equipment" : 
+			{
+				"text": "Drop Equipment",
+				"word_highlights" : [1]
+			},
+			"leader_drop_all" : 
+			{
+				"text": "Drop All",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "leader_class_mixed",
+		"id": 1,
+		"path": "#*images/ui/FollowerWheel/icons/leader/btn_leader_class-mixed_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_class-mixed_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/leader/btn_leader_class-mixed_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_class-mixed_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Prefer Equipment: Any",
+				"word_highlights" : [2]
+			}
+		}]
+	},
+	{
+		"action": "leader_class_ranged",
+		"id": 1,
+		"path": "#*images/ui/FollowerWheel/icons/leader/btn_leader_class-range_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_class-range_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/leader/btn_leader_class-range_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_class-range_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Prefer Equipment: Ranged",
+				"word_highlights" : [2]
+			}
+		}]
+	},
+	{
+		"action": "leader_class_melee",
+		"id": 1,
+		"path": "#*images/ui/FollowerWheel/icons/leader/btn_leader_class-melee_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_class-melee_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/leader/btn_leader_class-melee_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_class-melee_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Prefer Equipment: Melee",
+				"word_highlights" : [2]
+			}
+		}]
+	},
+	{
+		"action": "leader_pickup_all",
+		"id": 3,
+		"path": "#*images/ui/FollowerWheel/icons/leader/btn_leader_items-all_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_items-all_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/leader/btn_leader_items-all_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_items-all_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Pickup Items: All",
+				"word_highlights" : [2]
+			}
+		}]
+	},
+	{
+		"action": "leader_pickup_unowned",
+		"id": 3,
+		"path": "#*images/ui/FollowerWheel/icons/leader/btn_leader_items-unowned_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_items-unowned_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/leader/btn_leader_items-unowned_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_items-unowned_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Pickup Items: Unowned",
+				"word_highlights" : [2]
+			},
+			"leader_pickup_none" : 
+			{
+				"text": "Pickup Items: None",
+				"word_highlights" : [2]
+			}
+		}]
+	},
+	{
+		"action": "leader_relinquish_soul",
+		"id": 1,
+		"path": "#*images/ui/FollowerWheel/icons/leader/btn_leader_soul_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_soul_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/leader/btn_leader_soul_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/leader/btn_leader_soul_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Relinquish Soul",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "tinker_wait",
+		"id": 0,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_wait_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_wait_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_wait_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_wait_hover-on.png",
+		"text_maps": [{
+			"wait_here" : 
+			{
+				"text": "Wait Here",
+				"word_highlights" : []
+			},
+			"follow" : 
+			{
+				"text": "Follow",
+				"word_highlights" : []
+			},
+			"wait_here_all" : 
+			{
+				"text": "(ALL) Wait Here",
+				"word_highlights" : []
+			},
+			"follow_all" : 
+			{
+				"text": "(ALL) Follow",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "tinker_aim_look",
+		"id": 0,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_holdaim_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_holdaim_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_holdaim_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_holdaim_on-hover.png",
+		"text_maps": [{
+			"hold_aim" : 
+			{
+				"text": "Hold Aim",
+				"word_highlights" : []
+			},
+			"free_look" : 
+			{
+				"text": "Free Look",
+				"word_highlights" : []
+			},
+			"hold_aim_all" : 
+			{
+				"text": "(ALL) Hold Aim",
+				"word_highlights" : []
+			},
+			"free_look_all" : 
+			{
+				"text": "(ALL) Free Look",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "tinker_return_and_land",
+		"id": 7,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_land_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_land_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_land_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_land_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Return & Land",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "tinker_deactivate",
+		"id": 7,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_deactivate_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_deactivate_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_deactivate_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_deactivate_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Deactivate",
+				"word_highlights" : []
+			},
+			"dummybot_deactivate" : 
+			{
+				"text": "Return To Box",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "tinker_moveaside",
+		"id": 4,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_move_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_move_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_move_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_move_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Move aside",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "tinker_moveto",
+		"id": 2,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_moveto_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_moveto_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_moveto_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_moveto_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Move to...",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "tinker_lookat",
+		"id": 2,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_lookat_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_lookat_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_lookat_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_lookat_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Look at...",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "tinker_attack",
+		"id": 6,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_attack_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_attack_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_attack_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_attack_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Attack...",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "tinker_interact",
+		"id": 6,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_interact_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_interact_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_interact_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_interact_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Interact...",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "tinker_drop",
+		"id": 5,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_drop_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_drop_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_drop_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_drop_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Drop item",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "tinker_detect_metal",
+		"id": 5,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-scrap_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-scrap_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-scrap_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-scrap_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Detect items with: [Metal Scrap]",
+				"word_highlights" : [3,4]
+			}
+		}]
+	},
+	{
+		"action": "tinker_detect_magic",
+		"id": 5,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-magic_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-magic_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-magic_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-magic_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Detect items with: [Magic Scrap]",
+				"word_highlights" : [3,4]
+			}
+		}]
+	},
+	{
+		"action": "tinker_detect_valuable",
+		"id": 5,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-value_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-value_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-value_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-value_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Detect items: [Valuable]",
+				"word_highlights" : [2]
+			}
+		}]
+	},
+	{
+		"action": "tinker_detect_monsters",
+		"id": 5,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-enemy_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-enemy_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-enemy_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-enemy_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Detect: [Monsters]",
+				"word_highlights" : [1]
+			}
+		}]
+	},
+	{
+		"action": "tinker_detect_traps",
+		"id": 5,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-trap_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-trap_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-trap_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-trap_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Detect: [Traps]",
+				"word_highlights" : [1]
+			}
+		}]
+	},
+	{
+		"action": "tinker_detect_exits",
+		"id": 5,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-exit_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-exit_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-exit_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect-exit_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Detect: [Exits]",
+				"word_highlights" : [1]
+			}
+		}]
+	},
+	{
+		"action": "tinker_detect_off",
+		"id": 5,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect_on.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_detect_hover-on.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Radial Detection OFF",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "tinker_light_faint",
+		"id": 1,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_light_on1.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_light_on1-hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_light_on1.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_light_on1-hover.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Emit light: [Faint]",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "tinker_light_bright",
+		"id": 1,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_light_on2.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_light_on2-hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_light_on2.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_light_on2-hover.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Emit light: [Bright]",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "tinker_light_none",
+		"id": 1,
+		"path": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_light_off.png",
+		"path_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_light_hover.png",
+		"path_active": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_light_off.png",
+		"path_active_hover": "#*images/ui/FollowerWheel/icons/tinker/btn_tinker_light_hover.png",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Emit light: [None]",
+				"word_highlights" : []
+			}
+		}]
+	},
+	{
+		"action": "cancel",
+		"id": -1,
+		"path": "",
+		"path_hover": "",
+		"path_active": "",
+		"path_active_hover": "",
+		"text_maps": [{
+			"default" : 
+			{
+				"text": "Cancel",
+				"word_highlights" : [0]
+			}
+		}]
+	},
+	{
+		"action": "invalid_action",
+		"id": -1,
+		"path": "",
+		"path_hover": "",
+		"path_active": "",
+		"path_active_hover": "",
+		"text_maps": [{
+			"skill_missing_leader" : 
+			{
+				"text": "Missing skill / stat requirement: %d / %d",
+				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
+			},
+			"skill_missing_tinker" : 
+			{
+				"text": "Missing skill / stat requirement: %d / %d ",
+				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
+			},
+			"command_unavailable" : 
+			{
+				"text": "Command unavailable for %s",
+				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
+			},
+			"rest_cooldown" : 
+			{
+				"text": "You may only use this command once per floor",
+				"word_highlights" : [0,1,2,3,4,5,6,7,8,9]
+			},
+			"tinker_quality_low" : 
+			{
+				"text": "Higher quality %s required",
+				"word_highlights" : [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+			}
+		}]
+	}
+	]
+}

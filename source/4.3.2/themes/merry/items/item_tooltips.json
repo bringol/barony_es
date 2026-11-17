@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"adjectives": {
+		"food_status": {
+			"broken": "Rotten",
+			"decrepit": "Last year's",
+			"worn": "Leftover",
+			"serviceable": "Re-gifted",
+			"excellent": "Fresh"
+		}
+	}
+}

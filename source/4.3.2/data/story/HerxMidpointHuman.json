@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "press_a_to_advance": true,
+    "text": [
+    	"Having defeated the Baron and placed his violet orb on the pedestal,\n",
+    	"you step into the portal. Powerful magic sends a tingle over your body.\n^",
+    	"Your body is transported with a white flash.^ You arrive outside the\n",
+    	"Hamlet mines and watch the cursed blackness peel away from the land.\n",
+    	"Warm sunlight flows over the countryside. As the doors of the mine open wide,\n",
+    	"the people run into the streets, acclimating to their freedom.\n^",
+    	"*3You march to the Magician's Guild for answers about Herx's orb,\n",
+    	"but the doorman there turns you away. Seeing you haggard from your quest,\n",
+    	"he encourages you to take a rest. \"The answers you seek will be here tomorrow.\"\n",
+	"You return to the streets to find a hundred people waiting for you, their hero.\n",
+	"You join them in well-earned revelry, but resolve to visit the Magician's Guild\n",
+	"once the merriment dies down..."
+    ],
+    "images": [
+	"images/ui/Main Menus/Story/black.png",
+	"images/ui/Main Menus/Story/white.png",
+	"images/ui/Main Menus/Story/Hamlet_Rescue.png",
+	"images/ui/Main Menus/Story/MagiciansGuild.png",
+	"images/ui/Main Menus/Story/black.png"
+    ]
+}

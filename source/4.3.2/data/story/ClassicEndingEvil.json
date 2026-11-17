@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "press_a_to_advance": true,
+    "text": [
+    	"*3Victorious, you step into the portal. You know not what to expect, but\n",
+	"are awash with delight. You expect that the source of the Baron's power\n",
+	"is now within your reach.\n^",
+	"*3Before you have time to think, you are suddenly standing before the mines\n",
+	"once more. But something is different; the seductive power you sensed here\n",
+	"is further away. The black skies are clearing to show the light of day.\n^",
+	"*3Suddenly, the doors to the mine open wide. Sealed for centuries to contain\n",
+	"the evil within, they swing out from the inside, as a hundred grateful humans\n",
+	"rush out. It appears the Baron's power slipped through your grasp.\n^",
+	"*4The hellish source of that dark power remains a mystery to you, and some\n",
+	"eavedropping from the shadows leads you to believe that the Magician's Guild\n",
+	"may have a lead on some dark magic. For now, you resolve to leave this land\n",
+	"and return another time to exploit the secrets of Hamlet..."
+    ],
+    "images": [
+	"*images/ui/Main Menus/Story/black.png",
+	"*images/ui/Main Menus/Story/intro4.png",
+	"*images/ui/Main Menus/Story/Hamlet_Rescue.png",
+	"*images/ui/Main Menus/Story/MagiciansGuild.png"
+    ]
+}

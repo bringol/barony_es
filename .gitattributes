@@ -1,0 +1,4 @@
+assets/** binary
+*.po text eol=lf
+*.pot text eol=lf
+source/** text eol=lf
