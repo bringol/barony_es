@@ -350,7 +350,7 @@
 			]
 		},
 		"ninja": {
-			"stats": ["good", "good", "average", "poor", "decent", "bad"],
+			"stats": ["decent", "good", "average", "poor", "decent", "bad"],
 			"survival_complexity": [2,2],
 			"line_spacing": [0,
 				0,
