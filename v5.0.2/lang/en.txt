@@ -1062,12 +1062,12 @@ sobrevive hasta el siguiente piso.#
 689 ¡Le asestas un golpe crítico a %s!#
 690 ¡Golpeas a %s!#
 691 ¡Ni se ha inmutado!#
-692 ¡Has matado a %s!#
+692 ¡%s ha muerto!#
 693 Le asestas un golpe crítico a %s"#
 694 ¡Golpeas a %s!#
 695 ¡Ella ni se inmuta!#
 696 ¡Él ni se inmuta!#
-697 ¡Has matado a %s!#
+697 ¡%s ha muerto!#
 698 ¡%s %s!#
 699 ¡%s %s!#
 700 DEPRECATED#
