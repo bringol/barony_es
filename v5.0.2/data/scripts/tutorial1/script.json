@@ -32,9 +32,9 @@
                 "Usa las teclas$$$$",
 				"para moverte.",
 				"",
-				"Mueve$ para mirar y girar.",
+				"Mueve$  para mirar y girar.",
 				"",
-                "Pulsa$ para interactuar con",
+                "Pulsa$  para interactuar con",
 				"objetos en el mundo."
             ],
             "attributes": {
@@ -45,7 +45,7 @@
                 "top_padding": 0,
 				"inline_img_adjust_x": 0,
 				"word_highlights": [
-					[0,1],
+					[0,2],
 					[1],
 					[],
 					[0,2,4],
@@ -127,8 +127,8 @@
         },
         "tutorial1a": {
             "sign": [
-                "Pulsa$ para acceder ",
-				"al Menú de Pausa.",
+                "Pulsa$ ",
+				"para acceder al Menú de Pausa.",
 				"",
                 "Para salir del desafío, selecciona",
 				"",
@@ -147,7 +147,7 @@
 					[],
 					[],
 					[],
-					[1,2,3,4]
+					[1,2,3,4,5]
 				]
             },
             "variables": [
@@ -256,7 +256,7 @@
 				"puerta cercana a la cama.",
 				"$",
                 "Apunta a la palanca",
-				"y pulsa $ para alternar."
+				"y pulsa $  para alternar."
             ],
             "attributes": {
                 "font": "fonts/pixelmix.ttf#16#2",
@@ -275,8 +275,8 @@
 					[],
 					[],
 					[],
-					[0,2],
-					[0,1,2]
+					[0,3],
+					[1,3]
 				],
 				"word_highlights2": [
 					[1],
@@ -308,7 +308,7 @@
         "tutorial1e": {
             "sign": [
                 "Colecciona antorchas de",
-				"la pared con$ .",
+				"la pared con$  .",
 				"$",
 				"Antorchas equipadas iluminan",
 				"el camino, pero se apagarán",
@@ -333,7 +333,7 @@
 					[],
 					[],
 					[],
-					[0]
+					[0,1,2]
 				],
 				"word_highlights2": [
 					[],
@@ -368,10 +368,10 @@
         "tutorial1e2": {
             "sign": [
                 "Accede a tu personaje",
-				"pulsando$ .",
-				"Pulsa$ para usar objetos.",
-				"Agarra y mueve objetos con$ .",
-                "Pulsa$ otra vez o$",
+				"pulsando$",
+				"Pulsa$  para usar objetos.",
+				"Agarra y mueve objetos con$  .",
+                "Pulsa$   otra vez o$",
 				"para salir del menú."
             ],
             "attributes": {
@@ -383,10 +383,10 @@
 				"inline_img_adjust_x": 0,
 				"word_highlights": [
 					[],
-					[1],
+					[0],
 					[0,2,3],
-					[0,2,3,4],
-					[0,2],
+					[0,1,2,3,4],
+					[0,1,2],
 					[1,2,3]
 				],
 				"video": {
@@ -443,13 +443,13 @@
 				"inline_img_adjust_x": 0,
 				"word_highlights": [
 					[0],
-					[1],
-					[],
 					[0],
 					[],
+					[0],
+					[0,1,2],
 					[],
-					[0,2],
-					[0,2,4],
+					[0,2,3],
+					[0,2,3,4],
 					[0,3]
 				],
 				"video": {
@@ -561,8 +561,8 @@
 				"inline_img_adjust_x": 0,
 				"word_highlights": [],
 				"word_highlights2": [
-					[1],
-					[3],
+					[2],
+					[2,3],
 					[],
 					[0],
 					[1,2],
@@ -599,7 +599,7 @@
 				"inline_img_adjust_x": 0,
 				"word_highlights": [
 					[4, 5],
-					[0],
+					[0,3,4,5],
 					[0, 3],
 					[],
 					[0, 2, 3, 4],
@@ -681,13 +681,13 @@
 				"word_highlights": [
 					[],
 					[0, 1, 2],
-					[2, 3, 4],
+					[2, 3],
 					[0],
 					[],
 					[],
-					[0],
+					[],
 					[0, 3],
-					[3, 4]
+					[4, 5]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_noalpha.png",
@@ -820,11 +820,11 @@
                 "top_padding": 0,
 				"inline_img_adjust_x": 0,
 				"word_highlights": [
-					[1,3],
+					[0,1,3],
 					[],
 					[0],
 					[1],
-					[1,2]
+					[2,3]
 				],
 				"video": {
 					"background_img": "data/scripts/video_frame_half_noalpha.png",
@@ -872,11 +872,11 @@
 					[],
 					[0],
 					[],
-					[0,1],
+					[0,1,2,3],
 					[]
 				],
 				"word_highlights2": [
-					[2,3],
+					[2,3,4],
 					[],
 					[],
 					[],
@@ -932,13 +932,13 @@
 					[],
 					[0],
 					[],
-					[0,1],
+					[0,1,2],
 					[],
 					[],
-					[1]
+					[1,2]
 				],
 				"word_highlights2": [
-					[2,3],
+					[2,3,4],
 					[],
 					[],
 					[],
@@ -997,7 +997,7 @@
 				"word_highlights2": [
 					[],
 					[0,1],
-					[0,1],
+					[0,1,2],
 					[],
 					[],
 					[],
@@ -1031,13 +1031,13 @@
 				"inline_img_adjust_x": 0,
 				"word_highlights": [],
 				"word_highlights2": [
+					[0,2],
 					[0],
-					[0,1],
-					[4],
+					[5],
 					[],
 					[],
-					[],
-					[0,1]
+					[3],
+					[0,1,2]
 				]
             },
             "variables": []
@@ -1065,10 +1065,10 @@
 				"inline_img_adjust_x": 0,
 				"word_highlights": [],
 				"word_highlights2": [
-					[2],
+					[3],
 					[2],
 					[],
-					[2,3],
+					[3,4],
 					[1,2]
 				]		
             },
@@ -1108,12 +1108,12 @@
 					[],
 					[],
 					[],
-					[2,3]
+					[2,3,4]
 				],
 				"word_highlights2": [
-					[1,2],
-					[1],
-					[2],
+					[1,2,3,4],
+					[0,1],
+					[3,4],
 					[0,1]
 				],
 				"video": {
@@ -1205,12 +1205,12 @@
 					[],
 					[],
 					[],
-					[2,3]
+					[2,3,4]
 				],
 				"word_highlights2": [
-					[1,2],
-					[1],
-					[2],
+					[1,2,3,4],
+					[0,1],
+					[3,4],
 					[0,1]
 				],
 				"video": {
@@ -1291,7 +1291,7 @@
                 "top_padding": 0,
 				"inline_img_adjust_x": 0,
 				"word_highlights": [
-					[0],
+					[],
 					[],
 					[],
 					[0, 2]
@@ -1300,7 +1300,7 @@
 					[0],
 					[1, 2, 3, 4, 5],
 					[],
-					[2],
+					[],
 					[],
 					[1, 2, 3]
 				],
@@ -1345,9 +1345,9 @@
 				"inline_img_adjust_x": 0,
 				"word_highlights": [],
 				"word_highlights2": [
-					[2],
+					[3],
 					[0,1],
-					[1,2],
+					[1,2,3],
 					[],
 					[3],
 					[1]
@@ -1386,7 +1386,7 @@
 				"word_highlights": [],
 				"word_highlights2": [
 					[2],
-					[0,1,2],
+					[0,1,2,3],
 					[0,2],
 					[2]
 				]
@@ -1422,7 +1422,7 @@
 					[0, 1, 2],
 					[0, 1, 2],
 					[],
-					[0, 1]
+					[]
 				]
             },
             "variables": []
@@ -1453,7 +1453,7 @@
 				"inline_img_adjust_x": 0,
 				"word_highlights": [],
 				"word_highlights2": [
-					[0, 1],
+					[1],
 					[],
 					[1, 2],
 					[],

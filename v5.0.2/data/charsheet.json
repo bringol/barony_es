@@ -130,7 +130,7 @@
 			"attributes_ac_entry_items_bonus": "Bonus de Objetos/ Efectos:",
 			"attributes_ac_base_sum_header": "CA Base Total:",
 			"attributes_ac_passive_bonus": "Bonus Estad. Pasivo:",
-			"attributes_ac_desc": "Reduce daño físico recibido por cada punto de CA\nBloquear incrementa CA sin importar dirección o timing del ataque entrante\nBonus Bloqueo Activo se aplica a la mayoría de objetos en la mano no-hábil, mientras que el Bonus Estad. Pasivo aplica solo para escudos empuñados"
+			"attributes_ac_desc": "Reduce daño físico recibido por cada punto de CA\nBloquear incrementa CA sin importar dirección o timing del ataque entrante\nBonus Bloqueo Activo se aplica a la mayoría de objetos en la mano no hábil, mientras que el Bonus Estad. Pasivo aplica solo para escudos empuñados"
 		},
 		"attributes_pwr": {
 			"icon_pwr_path": "#*images/ui/CharSheet/HUD_CharSheet_SPWR_00.png",

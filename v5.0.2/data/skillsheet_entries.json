@@ -100,7 +100,7 @@
 			"icon_base_path_32px": "#*images/ui/SkillSheet/Icons/Blocking02_32.png",
 			"icon_legend_path_32px": "#*images/ui/SkillSheet/Icons/Blocking02_32Gold.png",
 			"icon_stat_path": "#*images/ui/CharSheet/HUD_CharSheet_CON_00.png",
-			"description": "Aumenta CA al bloquear.\n Provee Bonus de CA al empuñar escudos. Mejora durabilidad de objetos empuñados en la mano no-hábil durante el combate.",
+			"description": "Aumenta CA al bloquear.\n Provee Bonus de CA al empuñar escudos. Mejora durabilidad de objetos empuñados en la mano no hábil durante el combate.",
 			"legend_text": "Los escudos nunca se degradan al ser golpeados.",
 			"effects_position": {
 				"effect_start_offset_x": 72,
